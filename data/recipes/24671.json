@@ -1,0 +1,91 @@
+{
+  "id": "24671",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24671/vanilla-ice-cream-vii/",
+  "requested_url": "https://www.allrecipes.com/recipe/24671/vanilla-ice-cream-vii/",
+  "title": "Vanilla Bean Ice Cream",
+  "description": "This vanilla bean ice cream, made with heavy cream, milk, and egg yolks, is flavored with a whole vanilla bean for a rich and creamy frozen dessert.",
+  "authors": [
+    "Melissa"
+  ],
+  "date_published": "2020-06-18T23:05:38-04:00",
+  "date_modified": "2025-07-17T13:00:52-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT75M",
+  "yield": [
+    "16",
+    "2 quarts"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 quart heavy cream",
+    "1.25 cups milk",
+    "1 vanilla bean, split and scraped",
+    "1.25 cups white sugar, divided",
+    "10 egg yolks",
+    "1 tablespoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine cream and milk in a heavy saucepan over medium heat; add vanilla bean and scrapings and sprinkle in half the white sugar. Allow it to just come to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, whisk egg yolks together with the remaining sugar and the vanilla extract in a bowl. When the cream is ready, pour a third of it into the egg mixture and whisk. Pour egg mixture into remaining hot cream and return to the heat until mixture coats the back of a metal spoon. Do not boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Strain custard and chill until cold. Then pour into the canister of an ice cream maker and freeze according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "314 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "211 mg",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "36 mg",
+    "sugarContent": "18 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MA_-5cT8rweoFX3HSBWYDdAZd7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/35907-f317d4619bf8419f91e3a70a0266748f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24671/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

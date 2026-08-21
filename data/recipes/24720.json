@@ -1,0 +1,100 @@
+{
+  "id": "24720",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24720/texas-caviar-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/24720/texas-caviar-i/",
+  "title": "Texas Caviar",
+  "description": "This Texas caviar with zesty Italian dressing is loaded with black-eyed peas, black beans, and veggies for a delicious dip served with tortilla chips.",
+  "authors": [
+    "elkinsmegyahoocom"
+  ],
+  "date_published": "2018-03-21T12:18:30-04:00",
+  "date_modified": "2026-08-01T00:30:17-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "16",
+    "8 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint cherry tomatoes, quartered",
+    "1 (15 ounce) can black-eyed peas, drained",
+    "1 (15 ounce) can black beans, drained",
+    "1 (8 ounce) bottle zesty Italian dressing",
+    "1 green bell pepper, chopped",
+    "0.5 onion, chopped",
+    "1 bunch green onions, chopped",
+    "2 jalapeno peppers, chopped",
+    "1 tablespoon minced garlic",
+    "0.5 teaspoon ground coriander",
+    "1 bunch chopped fresh cilantro, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mix together tomatoes, black-eyed peas, black beans, Italian dressing, bell pepper, onion, green onions, jalapeño peppers, garlic, and coriander in a large bowl. Cover and chill salad in the refrigerator for about 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss salad with desired amount of cilantro to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Ui8y602tKwPJFonw31VFkAYsgwk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/669625-1497f7fdeb924813abb10abdb8798b1c.jpg"
+      ],
+      "image": "assets/images/24720/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "107 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "415 mg",
+    "sugarContent": "1 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "350"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/v8nVTWPj-ma1DlVvV.mp4",
+    "description": "AR1257",
+    "duration": "PT2M44S",
+    "name": "Texas Caviar I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/v8nVTWPj/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T02:29:39-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ui8y602tKwPJFonw31VFkAYsgwk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/669625-1497f7fdeb924813abb10abdb8798b1c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24720/hero.webp",
+    "steps": [
+      null,
+      "assets/images/24720/step_02.webp"
+    ]
+  }
+}

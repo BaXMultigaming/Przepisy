@@ -1,0 +1,100 @@
+{
+  "id": "24869",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24869/fresh-spinach-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/24869/fresh-spinach-salad/",
+  "title": "Fresh Spinach Salad",
+  "description": "Crisp fresh spinach is tossed with melt-in-your-mouth crumbled bacon, diced hard-boiled eggs and crunchy water chestnuts and drizzled with a sweet and tangy homemade dressing.",
+  "authors": [
+    "SUZBO"
+  ],
+  "date_published": "2020-06-18T23:05:44-04:00",
+  "date_modified": "2022-07-14T18:03:40-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "7",
+    "7 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup white sugar",
+    "0.5 cup white vinegar",
+    "1 cup vegetable oil",
+    "2 tablespoons Worcestershire sauce",
+    "0.33333334326744 cup ketchup",
+    "1 small onion, chopped",
+    "5 slices bacon",
+    "3 eggs",
+    "1 pound fresh spinach - rinsed, dried and torn into bite size pieces",
+    "1 (4 ounce) can sliced water chestnuts, drained"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor, combine sugar, vinegar, oil, Worcestershire sauce, ketchup and onion, and process until smooth. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, toss together the spinach, water chestnuts, bacon and eggs. Serve with the dressing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "433 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "87 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "409 mg",
+    "sugarContent": "18 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "149"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Kml6mFbLpoDxZuiMKTGuLCIo3bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/694236-db96ff5b621d4fd8b83bf16125ca273b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24869/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

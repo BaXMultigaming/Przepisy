@@ -1,0 +1,80 @@
+{
+  "id": "25225",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25225/creamy-apple-cinnamon-raisin-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/25225/creamy-apple-cinnamon-raisin-oatmeal/",
+  "title": "Creamy Apple Cinnamon Raisin Oatmeal",
+  "description": "This creamy oatmeal is perfect for those cozy winter mornings with a good cup of coffee. Or serve it to your kids with some hot chocolate. Not too sweet, not too bland, and it has fresh fruit!",
+  "authors": [
+    "Jenn"
+  ],
+  "date_published": "2020-03-04T23:56:34-05:00",
+  "date_modified": "2022-07-14T16:25:35-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "2 teaspoons brown sugar",
+    "1 teaspoon ground cinnamon",
+    "2 tablespoons maple syrup",
+    "1 cup uncooked rolled oats",
+    "2 tablespoons raisins",
+    "1 apple - peeled, cored and cubed"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan, combine water, brown sugar, cinnamon, and syrup. Heat mixture to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When water is at a boil, reduce heat and add in oats. Cook for about 5 minutes, or until all water is soaked by the oats. Remove from heat, stir in apples and raisins and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "293 kcal",
+    "carbohydrateContent": "64 g",
+    "fiberContent": "7 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "30 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "76"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1j7tyGQnF8fLXZFhg1ZB7CPr_jU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9406083-9746810e0d6848d89cdb9209ccdad4fa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25225/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

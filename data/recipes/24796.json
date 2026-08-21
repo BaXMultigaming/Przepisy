@@ -1,0 +1,91 @@
+{
+  "id": "24796",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24796/spiced-chicken-loaf/",
+  "requested_url": "https://www.allrecipes.com/recipe/24796/spiced-chicken-loaf/",
+  "title": "Spiced Chicken Loaf",
+  "description": "A mixture of ground chicken with stuffing mix, cheese, egg, onion and seasonings baked into a tangy tasty chicken loaf.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-06-08T09:15:53-04:00",
+  "date_modified": "2022-08-04T10:06:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT3000M",
+  "total_time": "PT3025M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground chicken",
+    "0.66 cup herb stuffing mix, crushed into fine crumbs",
+    "0.25 cup grated Parmesan cheese",
+    "1 egg",
+    "1 cup diced onion",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "1 pinch garlic pepper seasoning",
+    "2 teaspoons ketchup",
+    "2 teaspoons barbeque sauce"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine chicken, stuffing mix crumbs, cheese, egg, onion, salt, pepper, and garlic pepper seasoning. Mix together, then stir in ketchup and barbeque sauce. Mix well and pour mixture into a loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 50 minutes. Turn oven off and let sit in the hot oven for an additional 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "194 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "80 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "665 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "138"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bNuDvzr8wzttd7g5vdb4QVcmVNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/698681-e329fbbb36cb4802af56616074c588a3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24796/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

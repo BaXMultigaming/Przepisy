@@ -1,0 +1,68 @@
+{
+  "id": "24484",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24484/cranberry-pineapple-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/24484/cranberry-pineapple-juice/",
+  "title": "Cranberry Pineapple Juice",
+  "description": "Pineapple juice and cranberry juice are mixed in a punch bowl with pineapple tidbits and fresh cranberries floating festively on the surface.",
+  "authors": [
+    "MICHELLE R M P"
+  ],
+  "date_published": "2018-03-21T12:18:04-04:00",
+  "date_modified": "2022-09-26T14:47:42-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "14"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (64 fluid ounce) bottle cranberry juice, chilled",
+    "1 (46 fluid ounce) can pineapple juice",
+    "1 (8 ounce) can pineapple tidbits",
+    "1 cup cranberries"
+  ],
+  "steps": [
+    {
+      "text": "In a punch bowl, combine cranberry juice and pineapple juice. Stir in pineapple tidbits and cranberries. Serve with ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "134 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "28 g",
+    "fatContent": "0 g",
+    "servingSize": "14 (8 ounce) servings",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iWuM4svNoI3gdLEVxRFRNwWIauA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/846387-da0151ec70764073b395746882944391.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24484/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

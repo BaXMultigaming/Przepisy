@@ -1,0 +1,91 @@
+{
+  "id": "24692",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24692/apple-fritters-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/24692/apple-fritters-ii/",
+  "title": "Apple Fritters II",
+  "description": "Apples are sliced into thin, bite-size pieces, then coated in a zesty lemon batter and pan-fried until golden.",
+  "authors": [
+    "nausheen"
+  ],
+  "date_published": "2020-06-18T23:05:39-04:00",
+  "date_modified": "2020-06-18T23:05:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 fritters"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup all-purpose flour",
+    "1 pinch salt",
+    "2 tablespoons white sugar",
+    "0.25 cup milk",
+    "2 eggs, beaten",
+    "1.5 teaspoons grated lemon zest",
+    "2 large apples",
+    "2 tablespoons vegetable oil",
+    "1 tablespoon butter"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, mix flour, salt and sugar. Pour in milk, a little at a time, stirring to make a smooth batter. Beat in eggs and lemon zest.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Core and peel apples, then cut in wedges. Cut each wedge crosswise into thin slices. Toss apples in batter to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet over medium heat, heat oil and butter. Drop fritter mixture by spoonfuls into pan and cook, turning once, until golden brown. Plate and sprinkle with sugar. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "266 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "102 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "63 mg",
+    "sugarContent": "18 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uSO4yqEeFGrhh9mycFi-QM4unWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5808860-e9228ed7a52643a49dba8d57fd42805e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24692/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

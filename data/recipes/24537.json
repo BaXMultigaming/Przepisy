@@ -1,0 +1,87 @@
+{
+  "id": "24537",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24537/easy-pork-and-sauerkraut/",
+  "requested_url": "https://www.allrecipes.com/recipe/24537/easy-pork-and-sauerkraut/",
+  "title": "Easy Pork and Sauerkraut",
+  "description": "This easy pork and sauerkraut recipe is made in the slow cooker with garlic, beer, mustard, and apple for a hearty meal perfect for cold weather.",
+  "authors": [
+    "Bianca Smith"
+  ],
+  "date_published": "2020-06-18T23:05:35-04:00",
+  "date_modified": "2026-07-31T10:38:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT360M",
+  "total_time": "PT375M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Amish",
+    "American"
+  ],
+  "regions": [
+    "Amish",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (32 ounce) jar sauerkraut with juice",
+    "1 pound pork roast, cut into 1 inch cubes",
+    "0.5 (12 fluid ounce) can or bottle beer",
+    "1 tablespoon minced garlic",
+    "1 teaspoon onion salt",
+    "1 teaspoon dry mustard",
+    "1.5 teaspoons fresh dill weed",
+    "0.5 medium apple, peeled and cored"
+  ],
+  "steps": [
+    {
+      "text": "Stir undrained sauerkraut, pork cubes, beer, garlic, onion salt, dry mustard, and dill together in a slow cooker until well combined. Press apple half under other ingredients to submerge.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on High for 1 hour. Reduce the heat to Low and continue cooking until pork is cooked through, about 5 more hours. Discard apple and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "139 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1567 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gAZr6xX3QMLV53HTRveneZUjpbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24537-easy-pork-and-sauerkraut-VAT-Beauty-4x3-b44e1068b8f9440ba55d02f869ba6339.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24537/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

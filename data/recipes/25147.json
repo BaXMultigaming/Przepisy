@@ -1,0 +1,97 @@
+{
+  "id": "25147",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25147/sarges-ez-pulled-pork-bbq/",
+  "requested_url": "https://www.allrecipes.com/recipe/25147/sarges-ez-pulled-pork-bbq/",
+  "title": "Sarge&#39;s EZ Pulled Pork BBQ",
+  "description": "Too busy to cook? A slow cooker and a can of beef broth gives you a jump on this recipe. &#34;Low and slow&#34; cooking gives you a roast that shreds with a fork.",
+  "authors": [
+    "SgtRock"
+  ],
+  "date_published": "2019-04-02T02:43:00-04:00",
+  "date_modified": "2025-01-02T13:00:32-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT480M",
+  "total_time": "PT490M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (5 pound) pork butt roast",
+    "salt and pepper to taste",
+    "1 (14 ounce) can beef broth",
+    "0.25 cup brewed coffee"
+  ],
+  "steps": [
+    {
+      "text": "Cut roast in half. Rub each half with salt and pepper, and place in the slow cooker. Pour broth and coffee over meat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Turn the slow cooker to Low, and cover it. Cook for 6 to 8 hours, or until the roast is fork-tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Carefully remove the roast to a cutting board. Pull meat off the bone with a fork. You may also chop it with a cleaver afterward if you like it really finely cut.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/AR9Dt6e9XtCZ6Rck6f8mNDY6e3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/778533-sarges-ez-pulled-pork-bbq-onehappyfamily-1x1-1-c95c20074c334b89af683233a4185487.jpg"
+      ],
+      "image": "assets/images/25147/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "270 kcal",
+    "cholesterolContent": "85 mg",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "196 mg",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "928"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Rm7jKptS-ma1DlVvV.mp4",
+    "description": "AR0655",
+    "duration": "PT2M25S",
+    "name": "Sarge's EZ Pulled Pork BBQ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Rm7jKptS/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T10:53:13-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AR9Dt6e9XtCZ6Rck6f8mNDY6e3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/778533-sarges-ez-pulled-pork-bbq-onehappyfamily-1x1-1-c95c20074c334b89af683233a4185487.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25147/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/25147/step_03.webp"
+    ]
+  }
+}

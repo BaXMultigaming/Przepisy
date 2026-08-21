@@ -1,0 +1,93 @@
+{
+  "id": "24881",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24881/cold-spaghetti/",
+  "requested_url": "https://www.allrecipes.com/recipe/24881/cold-spaghetti/",
+  "title": "Cold Spaghetti",
+  "description": "This incredibly fresh, simple cold spaghetti recipe features pasta coated in a puréed sauce of ripe red tomatoes, real garlic, and fragrant, fresh basil.",
+  "authors": [
+    "Cheryl"
+  ],
+  "date_published": "2020-06-18T23:05:45-04:00",
+  "date_modified": "2025-08-05T23:35:53-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ripe tomatoes - peeled and seeded",
+    "0.33300000429153 cup chopped fresh basil",
+    "3 cloves garlic, peeled",
+    "1 teaspoon olive oil",
+    "0.5 teaspoon white sugar",
+    "1 (8 ounce) package uncooked spaghetti",
+    "0.5 cup shredded Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomatoes, basil, garlic, oil, and sugar in a blender or the bowl of a food processor; blend until smooth. Transfer sauce to a bowl; cover and refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour cold sauce over spaghetti; toss to coat. Top servings with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "288 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "180 mg",
+    "sugarContent": "5 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A1RgVi8ahnnPhfPTZtiVJyneUxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/677478-f38debd7542f49dcb0ca5cbd855a7bfe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24881/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

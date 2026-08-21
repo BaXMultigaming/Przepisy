@@ -1,0 +1,83 @@
+{
+  "id": "24734",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24734/zesty-bean-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/24734/zesty-bean-dip/",
+  "title": "Zesty Bean Dip",
+  "description": "You can&#39;t go wrong with this fast and easy bean dip. It&#39;s perfect with tortilla chips.",
+  "authors": [
+    "MOLSON7"
+  ],
+  "date_published": "2020-02-26T00:50:24-05:00",
+  "date_modified": "2023-02-15T12:15:46-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "28",
+    "3 1/2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) can refried beans",
+    "1 (1.25 ounce) package taco seasoning mix",
+    "1 tomato, chopped",
+    "1 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan over medium heat, mix refried beans, taco seasoning mix and tomato. Allow the mixture to simmer approximately 20 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon the mixture into a medium serving bowl. Top with Cheddar cheese and serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "36 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "166 mg",
+    "sugarContent": "0 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3VZ3mvN-67oSdyA0RmgnLWyMMzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24734-Zesty-Bean-Dip-2000-05c62951262e489e860b7eb2469a4b68.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24734/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

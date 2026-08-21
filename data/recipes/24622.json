@@ -1,0 +1,71 @@
+{
+  "id": "24622",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24622/pina-colada-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/24622/pina-colada-dip/",
+  "title": "Pina Colada Dip",
+  "description": "This smooth summertime dip is great with strawberries and bananas, and may be prepared with or without strawberry daiquiri.",
+  "authors": [
+    "Melissa"
+  ],
+  "date_published": "2020-06-18T23:05:38-04:00",
+  "date_modified": "2022-07-14T17:42:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT190M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "2 tablespoons white sugar",
+    "6 tablespoons pina colada mix",
+    "2 tablespoons light rum",
+    "2 tablespoons frozen strawberry daiquiri mixer"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, whip together cream cheese, sugar, pina colada mix, rum and strawberry daiquiri. Chill in the refrigerator at least 3 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "69 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "15 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "42 mg",
+    "sugarContent": "4 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iBDtrRl61AL1b3Iq8IikqJAcdNI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/811267-7d3025dbab654e5488d085902d2df578.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24622/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "24591",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24591/gorgonzola-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/24591/gorgonzola-dip/",
+  "title": "Gorgonzola Dip",
+  "description": "This tasty Gorgonzola dip pairs salty Gorgonzola with tangy sour cream, creamy mayonnaise, and citrusy dill. It&#39;s sure to be a party favorite!",
+  "authors": [
+    "Amy"
+  ],
+  "date_published": "2018-06-08T09:15:44-04:00",
+  "date_modified": "2023-04-06T15:30:15-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup low-fat mayonnaise",
+    "1 cup low-fat sour cream",
+    "4 ounces Gorgonzola cheese, crumbled",
+    "1 tablespoon chopped fresh dill",
+    "1 clove garlic, peeled",
+    "salt and pepper to taste",
+    "2 teaspoons unflavored gelatin"
+  ],
+  "steps": [
+    {
+      "text": "In a food processor, blend mayonnaise, sour cream, Gorgonzola cheese, dill, garlic, salt, and pepper until smooth. Sprinkle gelatin into mixture and let soften for approximately 5 minutes. Blend to mix in gelatin. Cover and chill in the refrigerator until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "88 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "221 mg",
+    "sugarContent": "1 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7nZL2dv09b1MazcJ9JDUcFlVpK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/867743-4e7d4808f82e458ba2ccbf1960b711f2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24591/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

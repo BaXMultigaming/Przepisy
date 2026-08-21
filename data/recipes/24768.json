@@ -1,0 +1,97 @@
+{
+  "id": "24768",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24768/honey-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/24768/honey-butter/",
+  "title": "Honey Butter",
+  "description": "This honey butter is smooth, creamy, and easy to whip up in 10 minutes—perfect for spreading on warm biscuits or bread for a touch of sweetness.",
+  "authors": [
+    "SDELATORE"
+  ],
+  "date_published": "2018-03-21T12:18:36-04:00",
+  "date_modified": "2025-10-23T09:30:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup butter, room temperature",
+    "0.25 cup honey"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Tmk9ZVqo3jLSbzljeK4ZDIZ9TkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4768-honey-butter-VAT-step-01-ed10508bfb48413b8126a37a45c2fe6a.jpg"
+      ],
+      "image": "assets/images/24768/step_01.webp"
+    },
+    {
+      "text": "Beat butter and honey together in a bowl until smooth and creamy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/nJcr1VVh-LUIm-VOU7DvuFqrGKk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4768-honey-butter-VAT-step-02-4dfe0510b0d94c959a2cd3d88e0b11fe.jpg"
+      ],
+      "image": "assets/images/24768/step_02.webp"
+    },
+    {
+      "text": "Cover and store in the refrigerator for up to 1 week. Bring to room temperature before serving for easy spreading.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UymVUhd_REnygzQliD-xDCwNHjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4768-honey-butter-VAT-step-03-4203885cdce44882aba2926c66ef2583.jpg"
+      ],
+      "image": "assets/images/24768/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "46 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "123 mg",
+    "sugarContent": "9 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "353"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5I1BHn_OKrCGri5kZ6jS_naTtA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4768-honey-butter-VAT-Beauty-4x3-09cd197f770b44a88ccf7e76f4953ef3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24768/hero.webp",
+    "steps": [
+      "assets/images/24768/step_01.webp",
+      "assets/images/24768/step_02.webp",
+      "assets/images/24768/step_03.webp"
+    ]
+  }
+}

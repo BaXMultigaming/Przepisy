@@ -1,0 +1,90 @@
+{
+  "id": "24901",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24901/blue-cheese-dip-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/24901/blue-cheese-dip-ii/",
+  "title": "Blue Cheese Dip",
+  "description": "This blue cheese dip combines mayo, sour cream, and crumbled blue cheese to make a smooth and creamy dip, perfect for veg sticks and chicken wings.",
+  "authors": [
+    "Lisa Fisk"
+  ],
+  "date_published": "2018-03-21T12:18:52-04:00",
+  "date_modified": "2025-12-22T08:40:12-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "24",
+    "3 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mayonnaise",
+    "1 cup sour cream",
+    "4 green onions, finely chopped",
+    "4 ounces blue cheese, crumbled",
+    "2 tablespoons dried parsley",
+    "0.25 teaspoon garlic salt, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bJyyJ1NdOSW_y6JDkZJDJ-Z9qGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-24901-blue-cheese-dip-ii-VAT-step-01-1a0e99076e9542028a23278562927d61.jpg"
+      ],
+      "image": "assets/images/24901/step_01.webp"
+    },
+    {
+      "text": "Mix mayonnaise, sour cream, green onions, blue cheese, dried parsley, and garlic salt in a medium bowl until combined. Cover and chill in the refrigerator until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/c6RofPrIVKxutiHbn1fTx8pYvCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-24901-blue-cheese-dip-ii-VAT-step-02-1-d22a7e0ed34843f590bba0d49a7bde93.jpg"
+      ],
+      "image": "assets/images/24901/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "104 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "124 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "265"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rchrqJWMOFnmL_Q-PPAY0t8OEaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-24901-blue-cheese-dip-ii-VAT-4x3-1-15048ee342ed4d8988e12767dcee9971.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24901/hero.webp",
+    "steps": [
+      "assets/images/24901/step_01.webp",
+      "assets/images/24901/step_02.webp"
+    ]
+  }
+}

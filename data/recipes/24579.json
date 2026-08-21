@@ -1,0 +1,86 @@
+{
+  "id": "24579",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24579/extreme-veggie-scrambled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/24579/extreme-veggie-scrambled-eggs/",
+  "title": "Extreme Veggie Scrambled Eggs",
+  "description": "A variety of veggies combined with eggs make a great start to the day.",
+  "authors": [
+    "EIORE"
+  ],
+  "date_published": "2001-01-07T14:28:42-05:00",
+  "date_modified": "2026-04-06T14:32:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "0.25 cup sliced fresh mushrooms",
+    "0.25 cup chopped onions",
+    "0.25 cup chopped green bell peppers",
+    "6 eggs",
+    "0.25 cup milk",
+    "0.25 cup chopped fresh tomato",
+    "0.25 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a skillet over medium-high heat. Add mushrooms, onions, and peppers; sauté until onions translucent.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk eggs and milk together in a bowl; add to skillet, then stir in tomatoes. Cook until eggs set, mixing in cheese when eggs almost done. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "192 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "159 mg",
+    "sugarContent": "2 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "122"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SHvF5PVY99GN5WK8sy1f72qXNRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1010465-e0ad0d907b5648fd8733cccf22fb4f98.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24579/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

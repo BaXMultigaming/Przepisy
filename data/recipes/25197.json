@@ -1,0 +1,100 @@
+{
+  "id": "25197",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25197/waikiki-meatballs/",
+  "requested_url": "https://www.allrecipes.com/recipe/25197/waikiki-meatballs/",
+  "title": "Waikiki Meatballs",
+  "description": "Beef meatballs flavored with ground ginger, simmered in a sweet pineapple sauce.",
+  "authors": [
+    "Cathy"
+  ],
+  "date_published": "2020-03-04T23:56:32-05:00",
+  "date_modified": "2026-04-05T06:35:02-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds ground beef",
+    "0.66666698455811 cup crushed saltine cracker crumbs",
+    "0.33333298563957 cup minced onion",
+    "1 egg",
+    "0.25 cup milk",
+    "1.5 teaspoons ground ginger",
+    "0.5 teaspoon salt",
+    "1 tablespoon olive oil",
+    "2 tablespoons cornstarch",
+    "0.5 cup packed brown sugar",
+    "1 (15 ounce) can pineapple chunks - drained, with juice reserved",
+    "0.33333298563957 cup white vinegar",
+    "1 tablespoon soy sauce",
+    "0.33333298563957 cup chopped green bell pepper"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, combine ground beef, cracker crumbs, onion, egg, milk, ginger and salt. Shape mixture by rounded tablespoonfuls into meatballs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium heat. Place meatballs in skillet and cook until evenly brown, and meat is no longer pink. Drain excess fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, combine the cornstarch, brown sugar, reserved pineapple juice, vinegar and soy sauce. Mix until smooth, then pour into the skillet with meatballs. Cook, stirring constantly, until mixture thickens and boils, about 5 minutes. Stir in the green pepper and pineapple chunks. Heat through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "442 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "102 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "516 mg",
+    "sugarContent": "29 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "536"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MdSn9655qpp1xQCYybrw79ezhlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/274488-9df4c81a389d4952bcc48a158a102205.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25197/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

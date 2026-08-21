@@ -1,0 +1,70 @@
+{
+  "id": "25101",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25101/macaroons-con-peanut-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/25101/macaroons-con-peanut-butter/",
+  "title": "Macaroons Con Peanut Butter",
+  "description": "No-bake cookies made with cornflakes and peanut butter.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:06:00-04:00",
+  "date_modified": "2022-08-04T10:06:46-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT30M",
+  "yield": [
+    "18",
+    "18 cookies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup white sugar",
+    "0.5625 cup light corn syrup",
+    "1.25 cups peanut butter",
+    "2.3329999446869 cups cornflakes cereal",
+    "0.25 cup sesame seeds"
+  ],
+  "steps": [
+    {
+      "text": "In a heavy saucepan over medium-high heat, bring the sugar and corn syrup to a boil, and let cook for 2 minutes. Remove from heat and stir in peanut butter. Mix in the cornflakes and if desired, sesame seeds. Drop spoonfuls onto waxed paper and let cool until set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "180 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "115 mg",
+    "sugarContent": "10 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uSzGYJHhTwUoicSrW0AXzoVVLqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/844190-df340bd2c7c844729993a0e1a4951623.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25101/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

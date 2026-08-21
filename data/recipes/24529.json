@@ -1,0 +1,113 @@
+{
+  "id": "24529",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24529/turkey-sausage-breakfast/",
+  "requested_url": "https://www.allrecipes.com/recipe/24529/turkey-sausage-breakfast/",
+  "title": "Turkey Sausage Breakfast",
+  "description": "This turkey sausage breakfast casserole substitutes turkey sausage, egg beaters, and low-fat cheddar to reduce the fat. Serve with croissants.",
+  "authors": [
+    "Danalo"
+  ],
+  "date_published": "2000-07-20T16:58:37-04:00",
+  "date_modified": "2023-04-08T14:24:13-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT65M",
+  "total_time": "PT80M",
+  "yield": [
+    "6",
+    "1 9x13-inch casserole"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 pound ground turkey sausage",
+    "4 eggs, lightly beaten",
+    "4 green onions, finely chopped",
+    "1 (16 ounce) package frozen hash brown potatoes",
+    "0.5 cup milk",
+    "1.5 cups shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Place turkey sausage in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, stir together eggs, green onions, hash browns, milk, Cheddar cheese, and cooked sausage. Pour mixture into a 9x13-inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CaNePV5IQO9QikvweEmcM6EChCg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7892456-169d015de0664f1ca9459385729846cc.jpg"
+      ],
+      "image": "assets/images/24529/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "408 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "217 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "765 mg",
+    "sugarContent": "2 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "114"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/vgv8C20B-K3AjnAEN.mp4",
+    "description": "In this video you'll see how to make a simple breakfast casserole. Turkey sausage is the star of this dish, boasting a low fat content and delicious flavor. Eggs, potatoes, and cheddar cheese ensure you get all of the breakfast flavors in one place.",
+    "duration": "PT1M54S",
+    "name": "Turkey Sausage Breakfast",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/vgv8C20B/poster.jpg?width=1280",
+    "uploadDate": "2021-07-25T09:22:15-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CaNePV5IQO9QikvweEmcM6EChCg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7892456-169d015de0664f1ca9459385729846cc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24529/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/24529/step_04.webp"
+    ]
+  }
+}

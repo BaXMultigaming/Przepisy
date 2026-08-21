@@ -1,0 +1,83 @@
+{
+  "id": "24928",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24928/light-malt-loaf/",
+  "requested_url": "https://www.allrecipes.com/recipe/24928/light-malt-loaf/",
+  "title": "Light Malt Loaf",
+  "description": "A tender and lightly sweetened bread for the bread machine.",
+  "authors": [
+    "Kenneth"
+  ],
+  "date_published": "2020-03-04T23:56:19-05:00",
+  "date_modified": "2022-07-14T17:05:51-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "12",
+    "1 1/2 - pound"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup warm water",
+    "2 tablespoons nonfat dry milk powder",
+    "2 tablespoons butter, softened",
+    "2.5 tablespoons brown sugar",
+    "1 teaspoon salt",
+    "2 cups bread flour",
+    "1 cup malted barley flour",
+    "2 teaspoons active dry yeast",
+    "1 tablespoon milk"
+  ],
+  "steps": [
+    {
+      "text": "Place all ingredients (except the milk) into the bread machine pan in the above order, or as directed by the manufacturer. Select the Basic Bread setting; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "After the baking cycle is complete, remove the bread from the pan and brush the just baked bread with milk. This will give it a soft and shiny crust.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "217 mg",
+    "sugarContent": "4 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WmjTITo93WbvMNADp14OkWG_oh4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/805624-f115daf9b8ca4357b8fd397fbd40b56a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24928/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "24944",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24944/snow-ice-cream-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/24944/snow-ice-cream-ii/",
+  "title": "Snow Ice Cream",
+  "description": "This snow ice cream recipe is a fun winter-time treat the whole family can make with just 4 simple ingredients: Clean snow, sugar, vanilla, and milk.",
+  "authors": [
+    "Lil'MadSavy"
+  ],
+  "date_published": "2020-06-18T23:05:47-04:00",
+  "date_modified": "2026-01-16T13:05:39-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 gallon snow",
+    "1 cup white sugar",
+    "1 tablespoon vanilla extract",
+    "2 cups milk"
+  ],
+  "steps": [
+    {
+      "text": "Place a large bowl outside to collect about 1 gallon of clean snowflakes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix in sugar and vanilla extract. Stir in just enough milk to reach desired consistency. Serve at once.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/EBqfmL0TSwvpkjIQsI6hAXmdWyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/576283-snow-ice-cream-Melissa-Goff-1x1-1-70477b5adf7a4451adba6896872298be.jpg"
+      ],
+      "image": "assets/images/24944/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "132 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "5 mg",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "40 mg",
+    "sugarContent": "28 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "258"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/K28KkPu1-ma1DlVvV.mp4",
+    "description": "AR0437",
+    "duration": "PT1M30S",
+    "name": "Snow Ice Cream II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/K28KkPu1/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T16:43:35-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EBqfmL0TSwvpkjIQsI6hAXmdWyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/576283-snow-ice-cream-Melissa-Goff-1x1-1-70477b5adf7a4451adba6896872298be.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24944/hero.webp",
+    "steps": [
+      null,
+      "assets/images/24944/step_02.webp"
+    ]
+  }
+}

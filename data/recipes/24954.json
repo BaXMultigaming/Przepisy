@@ -1,0 +1,78 @@
+{
+  "id": "24954",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24954/coconut-candies/",
+  "requested_url": "https://www.allrecipes.com/recipe/24954/coconut-candies/",
+  "title": "Coconut Candies",
+  "description": "Chewy coconut candies are made with just milk, sugar, coconut and vanilla.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:05:48-04:00",
+  "date_modified": "2022-08-04T10:06:43-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT60M",
+  "yield": [
+    "12",
+    "1 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups milk",
+    "4 cups white sugar",
+    "4 cups flaked coconut",
+    "1 dash vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan over medium heat, stir together milk and sugar until smooth. Heat, without stirring, to between 234 and 240 degrees F (112 to 116 degrees C), or until a small amount of syrup dropped into cold water forms a soft ball that flattens when removed from the water and placed on a flat surface. Remove from heat and stir in coconut and vanilla. Let cool slightly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop by rounded spoonfuls onto waxed paper lined sheets and let cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "478 kcal",
+    "carbohydrateContent": "75 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "24 mg",
+    "sugarContent": "70 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XMKRTiC_UOdPJ2bYRAyA9qTZUHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/325559-f9dd6c9930df4e75a167d34c44caf426.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24954/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "24623",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24623/potato-logs/",
+  "requested_url": "https://www.allrecipes.com/recipe/24623/potato-logs/",
+  "title": "Potato Logs",
+  "description": "Deep fried seasoned mashed potatoes make tasty little appetizers. Dip them in butter or gravy for a real flavor sensation!",
+  "authors": [
+    "Mary"
+  ],
+  "date_published": "2018-03-21T12:18:19-04:00",
+  "date_modified": "2022-07-14T17:22:59-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts oil for deep frying",
+    "4 large potatoes, peeled and chopped",
+    "1 pinch Italian-style seasoning",
+    "1 egg yolk",
+    "1 cup all-purpose flour",
+    "1 egg white",
+    "1 cup dry bread crumbs"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in deep-fryer to 375 degrees F (190 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large saucepan of lightly salted water to a boil. Place potatoes in the water and cook until tender but still firm, about 15 minutes. Drain and mash.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix Italian-style seasoning and egg yolk into the mashed potatoes. Allow potato mixture to cool approximately 10 minutes, or until it may be safely handled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place flour, egg white and dry bread crumbs in three separate small bowls. Roll potato mixture into 1 inch logs or balls. Cover in flour, dip in egg white and coat with bread crumbs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Carefully lower small batches of the coated potatoes into the deep fryer. Fry until golden brown, about 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "456 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "118 mg",
+    "sugarContent": "2 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/T4c6twMtNaqHUcZwZGQMZwTc9es=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2822600-c1c25ba054624a73a05d9031fdec60db.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24623/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "24709",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24709/indian-saffron-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/24709/indian-saffron-rice/",
+  "title": "Indian Saffron Rice",
+  "description": "White rice is sauteed in butter and then simmered with saffron infused water. The secret of obtaining fluffy rice is in having the rice hot enough that when the boiling water is added it does not stop boiling.",
+  "authors": [
+    "CookingForDummies"
+  ],
+  "date_published": "2019-04-03T23:28:08-04:00",
+  "date_modified": "2026-08-05T13:14:48-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.125 teaspoon powdered saffron",
+    "2 cups boiling water, divided",
+    "2 tablespoons butter",
+    "1 cup uncooked long-grain white rice, not rinsed",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Place saffron in a small bowl. Add 1/2 cup boiling water; steep.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a skillet that can be tightly covered over medium-high heat. Stir in rice and salt; cook, stirring constantly, until rice begins to absorb butter and becomes opaque, but do not let rice brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Quickly pour in remaining 1 1/2 cups boiling water and saffron water. Cover immediately, reduce heat to low, and cook until all liquid is absorbed, about 20 minutes. For best results, do not remove the lid while the rice is cooking.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/dkp6pGK-Al0RSlGC70VYjvmXD28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/429153-49326ab64db14ea994ef1e4048d91d27.jpg"
+      ],
+      "image": "assets/images/24709/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "418 mg",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "154"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/kMJ2lnd0-ma1DlVvV.mp4",
+    "description": "AR0910",
+    "duration": "PT2M28S",
+    "name": "Indian Saffron Rice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kMJ2lnd0/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T03:07:10-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dkp6pGK-Al0RSlGC70VYjvmXD28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/429153-49326ab64db14ea994ef1e4048d91d27.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24709/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/24709/step_03.webp"
+    ]
+  }
+}

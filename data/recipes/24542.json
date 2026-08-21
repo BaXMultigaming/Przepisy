@@ -1,0 +1,77 @@
+{
+  "id": "24542",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24542/peanut-butter-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/24542/peanut-butter-dressing/",
+  "title": "Peanut Butter Dressing",
+  "description": "This sweet, tangy and nutty dressing is easy to prepare, and is an unusual treat!",
+  "authors": [
+    "Breana"
+  ],
+  "date_published": "2020-06-18T23:05:35-04:00",
+  "date_modified": "2022-07-14T15:56:22-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg",
+    "2 tablespoons peanut butter",
+    "0.5 tablespoon any flavor fruit jam",
+    "1 teaspoon white vinegar",
+    "1 teaspoon warm water"
+  ],
+  "steps": [
+    {
+      "text": "Place egg in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let egg stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and separate the yolk from the white.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, crumble the egg yolk and whisk together with the peanut butter, jam and vinegar. Add enough warm water to achieve the desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "93 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "111 mg",
+    "sugarContent": "4 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oRPdDEM6o2JAQSCkqFhqejd6TT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4462178-162b5acedf964d5584ba59824f0c3775.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24542/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "25220",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25220/moms-best-waffles/",
+  "requested_url": "https://www.allrecipes.com/recipe/25220/moms-best-waffles/",
+  "title": "Mom&#39;s Best Waffles",
+  "description": "My mom makes the best waffles and I thought I&#39;d share the recipe with the world!",
+  "authors": [
+    "Love"
+  ],
+  "date_published": "2020-06-18T23:06:09-04:00",
+  "date_modified": "2026-06-08T16:40:17-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "2 teaspoons baking powder",
+    "2 tablespoons white sugar",
+    "1 teaspoon salt",
+    "2 cups milk",
+    "2 eggs",
+    "2 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, stir together flour, baking powder, sugar and salt. Add milk, eggs and oil; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0y4t7X11lOby7xAPh0ev61w3tfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25220-moms-best-waffles-VAT-Beauty-4x3-7da50c3078164abf938c13173e8f743c.jpg"
+      ],
+      "image": "assets/images/25220/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "410 kcal",
+    "carbohydrateContent": "60 g",
+    "cholesterolContent": "103 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "848 mg",
+    "sugarContent": "12 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "523"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/wTZiH8yp-ma1DlVvV.mp4",
+    "description": "AR0581",
+    "duration": "PT2M18S",
+    "name": "Mom's Best Waffles",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wTZiH8yp/thumbnails/wQIWD0f0.jpg?width=1280",
+    "uploadDate": "2021-07-24T01:19:11-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0y4t7X11lOby7xAPh0ev61w3tfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25220-moms-best-waffles-VAT-Beauty-4x3-7da50c3078164abf938c13173e8f743c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25220/hero.webp",
+    "steps": [
+      null,
+      "assets/images/25220/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "24500",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24500/raisin-sauce-for-ham-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/24500/raisin-sauce-for-ham-i/",
+  "title": "Raisin Sauce for Ham I",
+  "description": "This tangy sauce melds the taste of orange and raisins perfectly. Serve it as a topping for baked ham.",
+  "authors": [
+    "Marie"
+  ],
+  "date_published": "2020-06-18T23:05:34-04:00",
+  "date_modified": "2022-07-14T16:17:24-04:00",
+  "prep_time": null,
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup raisins",
+    "1 cup warm water",
+    "1 cup orange juice",
+    "1 cup orange marmalade",
+    "0.25 cup white sugar",
+    "2 tablespoons cornstarch",
+    "0.25 teaspoon salt",
+    "1 pinch ground cloves"
+  ],
+  "steps": [
+    {
+      "text": "In a small saucepan, combine raisins, water, orange juice and marmalade. Bring mixture to a boil over medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, stir together sugar, corn starch, salt and cloves. Slowly pour into raisin mixture, stirring constantly. Continue cooking and stirring until mixture thickens.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "190 kcal",
+    "carbohydrateContent": "50 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "98 mg",
+    "sugarContent": "33 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BiFIVIEPXe2Goq9cVzJBIj1qINk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4503335-04a1c3d3a7bc4e0cb763cb54f63c227a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24500/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

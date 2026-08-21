@@ -1,0 +1,109 @@
+{
+  "id": "25160",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25160/summer-corn-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/25160/summer-corn-salad/",
+  "title": "Summer Corn Salad",
+  "description": "This corn salad is made fresh cut corn kernels, sweet summer tomatoes, and a homemade basil vinaigrette for a winning flavor combination.",
+  "authors": [
+    "Eileen"
+  ],
+  "date_published": "2018-06-08T09:16:13-04:00",
+  "date_modified": "2026-06-19T07:48:32-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 ears corn, husked and cleaned",
+    "3 large tomatoes, diced",
+    "1 large onion, diced",
+    "0.25 cup chopped fresh basil",
+    "0.25 cup olive oil",
+    "2 tablespoons white vinegar",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jzYzrob48i506OmO3zlu6WvxvkA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25160-Summer-Corn-Salad-DDMFS-Step-01-17188-65434755a08b43169bff3d2de9cfc000.jpg"
+      ],
+      "image": "assets/images/25160/step_01.webp"
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook corn in boiling water for 7 to 10 minutes, or until desired tenderness. Drain, cool, and cut kernels off the cob with a sharp knife.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/37G5YUOr3xLI6jvIQPO_E55N1dA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25160-Summer-Corn-Salad-DDMFS-Step-02-17189-b1ffc5743bda4adc8cb6004519b2cdc1.jpg"
+      ],
+      "image": "assets/images/25160/step_02.webp"
+    },
+    {
+      "text": "Combine corn, tomatoes, onion, and basil in a large bowl. Whisk together olive oil and vinegar; season with salt and pepper. Pour vinaigrette over corn mixture and toss to coat. Cover and refrigerate until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RMSfA3gga60q-FIezlJWjhBWJZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25160-Summer-Corn-Salad-DDMFS-4x3-17201-a1d5f952e89d4b9fa18e034d0b6a7785.jpg"
+      ],
+      "image": "assets/images/25160/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "382 mg",
+    "sugarContent": "10 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "377"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/7ZxtEkfT-K3AjnAEN.mp4",
+    "description": "This fresh and flavorful salad features buttery yellow corn tossed among chunks of tomato and onion with a fresh basil vinaigrette. This video unlocks the key to one of the easiest summer side dishes you can make, and it goes with anything grilled.",
+    "duration": "PT1M19S",
+    "name": "How to Make Summer Corn Salad ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7ZxtEkfT/thumbnails/HpgnNO4F.jpg?width=1280",
+    "uploadDate": "2022-06-01T12:23:22-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RMSfA3gga60q-FIezlJWjhBWJZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25160-Summer-Corn-Salad-DDMFS-4x3-17201-a1d5f952e89d4b9fa18e034d0b6a7785.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25160/hero.webp",
+    "steps": [
+      "assets/images/25160/step_01.webp",
+      "assets/images/25160/step_02.webp",
+      "assets/images/25160/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "25004",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25004/whipped-cream-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/25004/whipped-cream-frosting/",
+  "title": "Whipped Cream Frosting",
+  "description": "Whipped cream is gently folded into sweetened cream cheese for this heavenly frosting perfect for decorating any cake.",
+  "authors": [
+    "Tom Parker"
+  ],
+  "date_published": "2020-06-18T23:05:52-04:00",
+  "date_modified": "2023-01-30T09:06:06-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "12"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "1 cup white sugar",
+    "0.125 teaspoon salt",
+    "1 teaspoon vanilla extract",
+    "1.5 cups heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, beat cream cheese, sugar, salt, and vanilla until smooth. In a small bowl, whip heavy cream until stiff peaks form. Fold into cream cheese mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "233 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "61 mg",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "91 mg",
+    "sugarContent": "17 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "292"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/35QsKRRN2ztTCc-VyT5k6l1d6zY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/432924-58868067ba9747f783470d7c258745ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25004/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

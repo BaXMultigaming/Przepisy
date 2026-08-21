@@ -1,0 +1,91 @@
+{
+  "id": "25036",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25036/cappuccino-cookie-bar/",
+  "requested_url": "https://www.allrecipes.com/recipe/25036/cappuccino-cookie-bar/",
+  "title": "Cappuccino Cookie Bar",
+  "description": "A rich cookie bar topped with milk chocolate, walnuts and coffee!",
+  "authors": [
+    "Craig"
+  ],
+  "date_published": "2020-03-04T23:56:24-05:00",
+  "date_modified": "2022-07-14T15:53:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "24",
+    "4 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup butter, softened",
+    "1 cup light brown sugar",
+    "1 egg yolk",
+    "1 teaspoon vanilla extract",
+    "1.5 cups all-purpose flour",
+    "0.25 teaspoon salt",
+    "8 (1.5 ounce) bars chocolate candy",
+    "1.5 cups chopped walnuts",
+    "0.5 cup ground coffee beans"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, cream together the butter, brown sugar, egg yolk and vanilla until smooth. Combine the flour and salt; stir into the creamed mixture. Spread evenly into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 15 minutes in the preheated oven. Remove from the oven and place chocolate bars over the top in a single layer. Let stand until chocolate is soft enough to spread. Spread the chocolate out smooth and sprinkle with walnuts and ground coffee. Allow the bars to cool completely before cutting into squares.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "246 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "91 mg",
+    "sugarContent": "14 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7zyf1rwGQJfaRntXVQVqaBMXC8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1053257-5f5e680f810646f393dc49f0b6294a6e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25036/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

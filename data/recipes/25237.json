@@ -1,0 +1,84 @@
+{
+  "id": "25237",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25237/honey-ginger-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/25237/honey-ginger-carrots/",
+  "title": "Honey Ginger Carrots",
+  "description": "Carrots are gently simmered with butter, lemon, honey and a hint of ginger.",
+  "authors": [
+    "Linda"
+  ],
+  "date_published": "2019-07-10T02:52:44-04:00",
+  "date_modified": "2026-04-17T15:51:25-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound carrots, sliced",
+    "0.25 cup butter",
+    "2.5 tablespoons honey",
+    "1 pinch ground ginger",
+    "1 tablespoon lemon juice, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a pot of water to a boil. Add carrots and cook until tender but still firm, about 5 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet over low heat, melt butter with honey. Stir in ground ginger and lemon juice. Stir in carrots and simmer until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "122 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "99 mg",
+    "sugarContent": "10 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "304"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PXzmzREH7a_2SNSd6uu8NXesUbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9175721-958234de98ed4d2a80974bfe4619e29b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25237/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

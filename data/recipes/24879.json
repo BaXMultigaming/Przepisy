@@ -1,0 +1,81 @@
+{
+  "id": "24879",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24879/peanutty-pea-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/24879/peanutty-pea-salad/",
+  "title": "Peanutty Pea Salad",
+  "description": "Green peas, crisp red onion, tangy dried cranberries and mellow peanuts are enveloped in a creamy dressing to create the perfect summer side dish!",
+  "authors": [
+    "Rebecca Swift"
+  ],
+  "date_published": "2020-06-18T23:05:45-04:00",
+  "date_modified": "2022-07-14T15:52:04-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup mayonnaise",
+    "0.5 cup sour cream",
+    "0.25 cup white sugar",
+    "1 (16 ounce) package frozen green peas, thawed",
+    "0.5 red onion, diced",
+    "0.5 cup sweetened dried cranberries",
+    "1 cup unsalted peanuts"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, whisk together the mayonnaise, sour cream and white sugar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add peas, onion, cranberries and peanuts and stir until evenly coated. Chill for 30 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "331 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "150 mg",
+    "sugarContent": "16 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ix9Whw31VV1P6Vjn0clX6dcjKnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2302208-40691787b9354218b35df32ac0276475.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24879/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

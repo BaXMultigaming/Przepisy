@@ -1,0 +1,91 @@
+{
+  "id": "25114",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25114/shannons-wicked-brownies/",
+  "requested_url": "https://www.allrecipes.com/recipe/25114/shannons-wicked-brownies/",
+  "title": "Shannon&#39;s Wicked Brownies",
+  "description": "Rich chocolate brownies with milk chocolate chips and toffee bits.",
+  "authors": [
+    "Shannon"
+  ],
+  "date_published": "2020-06-18T23:06:01-04:00",
+  "date_modified": "2020-06-18T23:06:01-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT28M",
+  "total_time": "PT45M",
+  "yield": [
+    "24",
+    "24 brownies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces semisweet chocolate, chopped",
+    "0.66666668653488 cup butter",
+    "2 cups white sugar",
+    "4 eggs",
+    "1 teaspoon vanilla extract",
+    "1 cup all-purpose flour",
+    "0.25 teaspoon salt",
+    "2 cups milk chocolate chips",
+    "1 cup toffee baking bits"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Line a 9x13 inch pan with aluminum foil and grease the foil. Melt chocolate and butter together in the microwave, stirring occasionally until smooth; set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, beat eggs, sugar and vanilla until frothy, stir in the chocolate mixture. Combine the flour and salt ; blend into the batter. Fold in the chocolate chips and toffee pieces. Spread evenly into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 28 to 32 minutes in the preheated oven, until a toothpick inserted in the middle comes out slightly sticky. Cool before cutting into bars.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "320 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "145 mg",
+    "sugarContent": "29 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NQECvRmhDGAyAlTEZpgape-ctSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/130784-b4d775d13a1844ff8e1f65541034c07d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25114/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

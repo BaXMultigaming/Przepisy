@@ -1,0 +1,74 @@
+{
+  "id": "24875",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24875/roquefort-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/24875/roquefort-dressing/",
+  "title": "Roquefort Dressing",
+  "description": "This rich and creamy blue cheese dressing is a bold topping for a simple green salad, and takes only seconds to make!",
+  "authors": [
+    "Lawrence Fay"
+  ],
+  "date_published": "2018-03-21T12:18:49-04:00",
+  "date_modified": "2026-04-22T12:32:22-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "16",
+    "1 quart"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups mayonnaise",
+    "1.5 cups buttermilk",
+    "8 ounces Roquefort cheese, crumbled",
+    "2 tablespoons Worcestershire sauce",
+    "1 teaspoon garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor, combine mayonnaise, buttermilk, cheese, Worcestershire and garlic powder, and process until smooth. Store in tightly covered jar in the refrigerator until ready to serve. Serve over tossed salad greens.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "261 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "24 mg",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "458 mg",
+    "sugarContent": "2 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/48iv7sjM_QVZU2lMz7PpE3FPuLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/707740_dressing-0a0189e65b6143299edbc2b89d25ee78.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24875/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

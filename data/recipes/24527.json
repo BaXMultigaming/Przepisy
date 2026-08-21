@@ -1,0 +1,83 @@
+{
+  "id": "24527",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24527/sunshine-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/24527/sunshine-toast/",
+  "title": "Sunshine Toast",
+  "description": "Instead of having a fried egg on your toast, cook one in your toast! Crispy buttered bread surrounds a perfectly cooked egg in a hole in the center.",
+  "authors": [
+    "Cassie"
+  ],
+  "date_published": "2000-06-09T00:53:15-04:00",
+  "date_modified": "2026-06-18T09:17:27-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 slice bread",
+    "2 tablespoons butter, melted",
+    "1 large egg",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cut a circle in the center of bread with a cookie cutter. Brush melted butter on both sides of bread.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a small skillet over medium heat. Add bread and cook until golden brown, about 2 minutes. Flip, then crack egg into the hole. Cook until egg is set on the bottom, about 1 minute; season with salt. Cover, reduce the heat to low, and cook until egg white is completely set, 3 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "247 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "404 mg",
+    "sugarContent": "2 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "331"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Y8_jh3oqIPtfzL7h-ADR1evalbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4526655-c966ecdc00d045dfa8ae2ccae3a627c9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24527/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

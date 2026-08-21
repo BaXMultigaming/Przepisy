@@ -1,0 +1,74 @@
+{
+  "id": "24629",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24629/hummus-iv/",
+  "requested_url": "https://www.allrecipes.com/recipe/24629/hummus-iv/",
+  "title": "Hummus IV",
+  "description": "A straightforward hummus that may be augmented with roasted red peppers or olives. Serve with crackers, flat breads or on a pita with sprouts for a great light lunch.",
+  "authors": [
+    "BEACHVOGEL"
+  ],
+  "date_published": "2019-07-10T02:52:37-04:00",
+  "date_modified": "2023-06-27T11:10:33-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "40",
+    "5 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (15.5 ounce) cans garbanzo beans, drained",
+    "4 tablespoons lemon juice",
+    "6 cloves garlic, peeled and crushed",
+    "3 tablespoons tahini",
+    "0.25 teaspoon crushed red pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place garbanzo beans in a food processor and blend into a spreadable paste. Mix in lemon juice, garlic, tahini and crushed red pepper. Blend until smooth, using more lemon juice if consistency is too thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "34 kcal",
+    "carbohydrateContent": "6 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "67 mg",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yBiax0Yuv3nU56grKoSOCffXOXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24629hummus-ivFranceC4x3-56e451ae274147d589c6f069e510db56.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24629/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

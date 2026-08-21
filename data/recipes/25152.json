@@ -1,0 +1,80 @@
+{
+  "id": "25152",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25152/lemon-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/25152/lemon-chicken-salad/",
+  "title": "Lemon Chicken Salad",
+  "description": "This succulent lemon chicken salad recipe features tender chicken, crunchy snow peas, red onions, an array of spices, and a creamy lemony dressing.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2019-07-10T02:52:43-04:00",
+  "date_modified": "2025-08-11T20:59:23-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup creamy salad dressing, e.g. Miracle Whip ™",
+    "0.25 cup sour cream",
+    "1 tablespoon lemon juice",
+    "1 teaspoon dried basil",
+    "1 teaspoon dried parsley",
+    "0.5 teaspoon lemon pepper",
+    "4 cups cubed, cooked chicken",
+    "2 cups sliced snow peas",
+    "1 cup finely diced red onion",
+    "1 cup shredded lettuce",
+    "1 cup blanched slivered almonds, toasted"
+  ],
+  "steps": [
+    {
+      "text": "Whisk salad dressing, sour cream, lemon juice, basil, parsley, and lemon pepper together in a large bowl. Add chicken, peas, onion, lettuce, and almonds; stir until evenly coated. Refrigerate until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "361 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "334 mg",
+    "sugarContent": "7 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YvlTyMCrfV55U0g49H7zaNkwLh8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/87063-bf310b7923144907817de1d5d1907beb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25152/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

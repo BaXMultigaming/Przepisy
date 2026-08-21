@@ -1,0 +1,83 @@
+{
+  "id": "25229",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25229/garlicky-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/25229/garlicky-potatoes/",
+  "title": "Garlicky Potatoes",
+  "description": "Potatoes are boiled in chicken broth and mashed with garlic, cream, sour cream, chives and butter.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2019-04-02T02:43:04-04:00",
+  "date_modified": "2022-08-04T10:06:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts chicken broth",
+    "5 pounds potatoes, peeled and quartered",
+    "5 cloves garlic, chopped",
+    "1 cup heavy cream",
+    "0.5 cup sour cream",
+    "3 tablespoons chopped fresh chives",
+    "0.5 teaspoon salt",
+    "0.25 cup melted butter"
+  ],
+  "steps": [
+    {
+      "text": "Bring chicken broth to a boil. Add potatoes and cook until tender but still firm, about 15 minutes; drain, reserving broth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in garlic, cream and 1 to 2 tablespoons broth; mash until creamy. Blend in sour cream, chives, salt and butter. Heat through and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "407 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "821 mg",
+    "sugarContent": "2 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "78"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Etd4CmDzztg8EFd1j9Ifna7n3UU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/795920-2410625fd50b4ae9ad84356cd67fe471.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25229/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

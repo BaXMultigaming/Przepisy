@@ -1,0 +1,84 @@
+{
+  "id": "24959",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24959/snowy-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/24959/snowy-pudding/",
+  "title": "Snowy Pudding",
+  "description": "Gelatin, sugar and lemon juice are combined with beaten egg whites and chilled in a mold in this creamy, no-cook dessert.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:05:48-04:00",
+  "date_modified": "2022-08-04T10:06:46-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT90M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons unflavored gelatin",
+    "0.5 cup cold water",
+    "2 cups boiling water",
+    "0.33000001311302 cup lemon juice",
+    "1.75 cups white sugar",
+    "5 egg whites"
+  ],
+  "steps": [
+    {
+      "text": "Sprinkle gelatin over cold water and let rest until water is absorbed, 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, combine gelatin, boiling water, lemon juice and sugar, stirring until sugar is dissolved. Chill in refrigerator, stirring occasionally, until mixture coats the back of a metal spoon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat egg whites until stiff. Beat lemon mixture until frothy. Fold egg whites into lemon mixture until mixture holds together. Pour into greased molds and chill until set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "146 kcal",
+    "carbohydrateContent": "36 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "28 mg",
+    "sugarContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WtwDELl30P2h17eTUjrdJ2bxGc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/421867-a0940542c6ba41cdb4f9a9c421c3aad1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24959/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "24502",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24502/egg-foo-young/",
+  "requested_url": "https://www.allrecipes.com/recipe/24502/egg-foo-young/",
+  "title": "Egg Foo Young",
+  "description": "This is an easy recipe to make at home. Green onion, celery, bean sprouts and shrimp sauteed in soy sauce and combined with egg.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-06-08T09:15:38-04:00",
+  "date_modified": "2026-07-30T14:38:34-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "regions": [
+    "Chinese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon sesame oil",
+    "1 cup chopped onion",
+    "0.25 cup chopped green onion",
+    "0.5 cup chopped celery",
+    "1 cup bean sprouts",
+    "0.25 teaspoon cornstarch",
+    "0.5 pound shrimp, peeled, deveined and roughly chopped",
+    "2 tablespoons soy sauce",
+    "1 teaspoon salt",
+    "8 eggs, well beaten"
+  ],
+  "steps": [
+    {
+      "text": "In a skillet over medium heat, heat sesame oil and lightly fry the onions, celery and sprouts. Stir in cornstarch and add shrimp, soy sauce and salt. Stir until well blended. Remove from heat and transfer to a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return the pan to the heat, and add the beaten eggs. Fry the eggs while stirring gently. Return the vegetable and shrimp mixture to the pan while the eggs are still liquid. Finish frying until eggs are fully cooked.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "239 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "462 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1313 mg",
+    "sugarContent": "4 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RS8GtIzLywoIpuAGjs27grvFFu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7096749-2569724802834d16aa23278535443ce8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24502/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "24868",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24868/blue-cheese-coleslaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/24868/blue-cheese-coleslaw/",
+  "title": "Blue Cheese Coleslaw",
+  "description": "This crunchy slaw bursts with flavor. Shredded cole slaw mix is perked up by the delicious pairing of red grapes and a tangy, blue cheese speckled dressing.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:05:44-04:00",
+  "date_modified": "2026-07-26T22:46:25-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package shredded coleslaw mix",
+    "2 cups seedless red grapes, halved",
+    "0.5 cup shredded carrot",
+    "1 cup mayonnaise",
+    "0.25 cup prepared Dijon-style mustard",
+    "0.33333334326744 cup crumbled blue cheese",
+    "2 tablespoons white sugar",
+    "2 tablespoons cider vinegar"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, whisk together the mayonnaise, mustard, cheese, sugar and vinegar. Add the coleslaw mix, grapes and carrots and stir until evenly coated. Chill until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "294 mg",
+    "sugarContent": "7 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "104"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZvKx8ZI0Uaf9TIxPR-MvPpcu2fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9040788-c679aa53f498430096a0a8617a83bf70.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24868/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

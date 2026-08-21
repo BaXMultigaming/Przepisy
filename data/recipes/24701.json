@@ -1,0 +1,77 @@
+{
+  "id": "24701",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24701/vanilla-ice-cream-ix/",
+  "requested_url": "https://www.allrecipes.com/recipe/24701/vanilla-ice-cream-ix/",
+  "title": "Old-Fashioned Homemade Vanilla Ice Cream",
+  "description": "This no-cook vanilla ice cream is made with eggs, cream, vanilla extract, evaporated milk, and whole milk for a creamy old-fashioned frozen treat.",
+  "authors": [
+    "JEMR2"
+  ],
+  "date_published": "2020-06-18T23:05:39-04:00",
+  "date_modified": "2025-07-17T12:31:53-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "32",
+    "4 quarts"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "2.5 cups white sugar",
+    "2 cups heavy cream",
+    "2 cups evaporated milk",
+    "5 cups whole milk",
+    "2.25 teaspoons vanilla extract",
+    "2.25 teaspoons lemon extract",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Beat eggs and sugar in a large mixing bowl until stiff. Stir in cream, evaporated milk, whole milk, vanilla, lemon extract, and salt until well combined. Pour into the freezer canister of an ice cream maker and freeze according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "52 mg",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "83 mg",
+    "sugarContent": "19 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HCcrcMy_B2vghszIlZ4O-bjm54I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2912773-a83091fa5b88427caea2cfcc291ec7fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24701/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

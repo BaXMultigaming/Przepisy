@@ -1,0 +1,85 @@
+{
+  "id": "24512",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24512/one-pot-tuna-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/24512/one-pot-tuna-casserole/",
+  "title": "One Pot Tuna Casserole",
+  "description": "This is so easy and fast, like tuna casserole without baking it! Top with French-fried onions, if desired.",
+  "authors": [
+    "PREFERED1"
+  ],
+  "date_published": "2018-03-21T12:18:07-04:00",
+  "date_modified": "2023-10-07T15:59:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package egg noodles",
+    "1 (10 ounce) package frozen green peas, thawed",
+    "0.25 cup butter",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "1 (5 ounce) can tuna, drained",
+    "0.25 cup milk",
+    "1 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water until al dente, adding peas for the final 3 minutes of cooking; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in the same pot over medium heat. Add the mushroom soup, tuna, milk, and Cheddar cheese. Stir until cheese is melted, and the mixture is smooth. Stir in the pasta and peas until evenly coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "395 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "79 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "452 mg",
+    "sugarContent": "4 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "300"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jMty_fWPz4Pq_FchRrMIUbHh6Fs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7127550-4c16ba13b710455fa169555ef8f5607d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24512/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

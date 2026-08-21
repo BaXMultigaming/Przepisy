@@ -1,0 +1,68 @@
+{
+  "id": "25183",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25183/lemon-dill-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/25183/lemon-dill-salad-dressing/",
+  "title": "Lemon Dill Salad Dressing",
+  "description": "This creamy mayonnaise and buttermilk based dressing is perked up by tangy lemon juice and plenty of dill.",
+  "authors": [
+    "COBRA"
+  ],
+  "date_published": "2019-07-10T02:52:44-04:00",
+  "date_modified": "2022-07-14T16:04:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups mayonnaise",
+    "0.5 cup lemon juice",
+    "0.25 cup dried dill weed to taste",
+    "0.5 cup buttermilk"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, whisk together the mayonnaise, lemon juice, dill and buttermilk. Chill until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "273 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "221 mg",
+    "sugarContent": "1 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tc9dhAROdX4uaodSegxmU6BHwYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/672584-f6dfd3690da44498b77f607ff3a20097.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25183/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "24947",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24947/coconut-brittle/",
+  "requested_url": "https://www.allrecipes.com/recipe/24947/coconut-brittle/",
+  "title": "Coconut Brittle",
+  "description": "Microwave brittle candy with macadamia nuts and a coconut layer.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:05:47-04:00",
+  "date_modified": "2022-08-04T10:06:44-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT75M",
+  "yield": [
+    "25"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup flaked coconut",
+    "1 cup white sugar",
+    "0.5 cup corn syrup",
+    "4 ounces chopped macadamia nuts",
+    "1 tablespoon butter",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon baking soda"
+  ],
+  "steps": [
+    {
+      "text": "Spread coconut evenly over a buttered baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium microwave-safe bowl, combine sugar and corn syrup. Microwave on high 3 minutes. Stir in nuts and microwave 4 minutes more. Stir in butter and vanilla and return to microwave for 1 minute. Stir in soda until light and slightly foamy. Pour over coconut in pan. Let cool until firm, 1 hour. Break into pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "100 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "66 mg",
+    "sugarContent": "11 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OOv4pyTUTXj0vVaVIz0V92tWVKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/166724-b9e3168b0607485f84a41d0c69285b61.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24947/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

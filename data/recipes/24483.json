@@ -1,0 +1,70 @@
+{
+  "id": "24483",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24483/green-grog/",
+  "requested_url": "https://www.allrecipes.com/recipe/24483/green-grog/",
+  "title": "Green Grog",
+  "description": "Lemonade, limeade and lime sherbet are mixed with lemon-lime soda and spiked with rum. It&#39;s green, it&#39;s sweet, it&#39;s sour, it&#39;s tasty and it packs a real punch so go slow.",
+  "authors": [
+    "Shannon"
+  ],
+  "date_published": "2018-03-21T12:18:04-04:00",
+  "date_modified": "2022-08-08T11:35:13-04:00",
+  "prep_time": "PT7M",
+  "cook_time": null,
+  "total_time": "PT7M",
+  "yield": [
+    "25"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (12 fluid ounce) cans frozen limeade concentrate",
+    "2 (12 fluid ounce) cans frozen lemonade concentrate",
+    "2 (2 liter) bottles lemon-lime flavored carbonated beverage",
+    "1 (750 milliliter) bottle rum",
+    "2 quarts lime sherbet"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot, combine limeade, lemonade and lemon-lime soda. Stir in rum (add more to taste if desired.) Mix in the lime sherbet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/GetJydNdRjBaSzFSp-x_X8vVMn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/726628-37708bd122d240bfbe7307622c286358.jpg"
+      ],
+      "image": "assets/images/24483/step_01.webp"
+    }
+  ],
+  "nutrition": null,
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "195"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/kawWcO8B-K3AjnAEN.mp4",
+    "description": "It’s sweet. It’s sour. And with the rum, packs a big green wallop.",
+    "duration": "PT1M32S",
+    "name": "Green Grog",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kawWcO8B/poster.jpg?width=1280",
+    "uploadDate": "2021-07-23T09:00:10-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GetJydNdRjBaSzFSp-x_X8vVMn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/726628-37708bd122d240bfbe7307622c286358.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24483/hero.webp",
+    "steps": [
+      "assets/images/24483/step_01.webp"
+    ]
+  }
+}

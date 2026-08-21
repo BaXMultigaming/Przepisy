@@ -1,0 +1,87 @@
+{
+  "id": "24624",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24624/basic-fondue/",
+  "requested_url": "https://www.allrecipes.com/recipe/24624/basic-fondue/",
+  "title": "Basic Fondue",
+  "description": "An easy cheese fondue recipe without wine but with big flavor from Cheddar, garlic, mustard, and more. Perfect for dipping bread or vegetables.",
+  "authors": [
+    "KATKRO"
+  ],
+  "date_published": "2018-03-21T12:18:19-04:00",
+  "date_modified": "2022-09-19T13:40:32-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "64",
+    "8 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "3 tablespoons all-purpose flour",
+    "1 tablespoon Worcestershire sauce",
+    "2 teaspoons ground dry mustard",
+    "1 clove garlic, peeled and crushed",
+    "6 cups shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Mix together milk, flour, Worcestershire sauce, mustard, and garlic in a medium saucepan over low heat. Heat until almost boiling.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gradually stir in Cheddar cheese. Continue heating until all the cheese has melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Keep the mixture warm and melted in a fondue dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "49 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "12 mg",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "72 mg",
+    "sugarContent": "0 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "211"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Cdd9ayB3GGzKmix8G3mGz86dEdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9109882-20a5f8fdeb214befa95892d60b201c13.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24624/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

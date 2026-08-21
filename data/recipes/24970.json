@@ -1,0 +1,72 @@
+{
+  "id": "24970",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24970/brandy-simple-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/24970/brandy-simple-syrup/",
+  "title": "Brandy Simple Syrup",
+  "description": "Simple Syrup is brushed on cakes for added moisture and flavor. This one can be flavored with brandy or rum.",
+  "authors": [
+    "Glory"
+  ],
+  "date_published": "2020-06-18T23:05:49-04:00",
+  "date_modified": "2022-09-25T20:55:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "24",
+    "2 cups syrup cakes"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cup white sugar",
+    "0.5 teaspoon grated lemon zest",
+    "0.25 cup brandy"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, combine water, sugar and lemon zest. Bring mixture to a boil and continue boiling for 5 minutes. Strain into a sealable container, removing the lemon zest. Allow to cool, then cover and store in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When ready to use, mix in brandy. Brush onto cake layers before frosting.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "40 kcal",
+    "carbohydrateContent": "8 g",
+    "sugarContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gW_-87VyDoDZp-Wu4mqxrORIu6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1128171-1c4a517f6d464eb88acc308d81e9cf73.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24970/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

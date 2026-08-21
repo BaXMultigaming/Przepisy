@@ -1,0 +1,102 @@
+{
+  "id": "24864",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24864/simple-delicious-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/24864/simple-delicious-salad/",
+  "title": "Simple Delicious Salad",
+  "description": "This simple green salad features crisp lettuce tossed with fresh crumbled bacon, diced hard boiled eggs, shredded carrot and sliced tomato, drizzled with oil and vinegar.",
+  "authors": [
+    "Samantha"
+  ],
+  "date_published": "2018-06-08T09:15:57-04:00",
+  "date_modified": "2025-04-15T12:22:21-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 pound bacon",
+    "2 eggs",
+    "0.5 head lettuce",
+    "1 carrot, shredded",
+    "1 tomato, sliced",
+    "1 tablespoon corn oil",
+    "1 tablespoon red wine vinegar",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place lettuce in a salad bowl along with the carrot and tomato. Sprinkle with bacon and eggs and toss.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drizzle oil over salad. Add vinegar and salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "218 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "112 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "290 mg",
+    "sugarContent": "3 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RJqcpPeLYdtYhUrKgfS7ZPuMA4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/768821-0f8179e2beaf42778b33ae90c5e3d4a7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24864/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

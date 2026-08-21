@@ -1,0 +1,79 @@
+{
+  "id": "24830",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24830/bobs-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/24830/bobs-salad-dressing/",
+  "title": "Bob&#39;s Salad Dressing",
+  "description": "This nutty, creamy dressing is flavored with fresh lemon juice, tahini, nutritional yeast and oregano.",
+  "authors": [
+    "Paula"
+  ],
+  "date_published": "2019-07-10T02:52:41-04:00",
+  "date_modified": "2025-02-18T15:49:40-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "12",
+    "1 1/2 cups"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66659998893738 cup olive oil",
+    "0.33329999446869 cup fresh lemon juice",
+    "0.33329999446869 cup tahini",
+    "1 tablespoon nutritional yeast",
+    "0.25 cup tamari",
+    "1 tablespoon honey",
+    "0.5 teaspoon dried oregano",
+    "1 tablespoon mayonnaise",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine olive oil, lemon juice, tahini, nutritional yeast, tamari, honey, oregano, mayonnaise and salt and pepper. Process until smooth and serve over salad.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "167 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "347 mg",
+    "sugarContent": "2 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Y42i63N5gcUR7AczH0-afNez8_A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6620422-2e617c02d0094d6cbb88096777dc6e99.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24830/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

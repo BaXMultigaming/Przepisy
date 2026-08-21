@@ -1,0 +1,72 @@
+{
+  "id": "24479",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24479/orange-glorious-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/24479/orange-glorious-ii/",
+  "title": "Orange Glorious II",
+  "description": "This is a slightly sweeter version of the original Orange Glorious.",
+  "authors": [
+    "ADH"
+  ],
+  "date_published": "2020-06-18T23:05:34-04:00",
+  "date_modified": "2022-06-22T15:13:05-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "1 cup milk",
+    "1 cup water",
+    "0.5 cup white sugar",
+    "1 teaspoon vanilla extract",
+    "12 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine orange juice concentrate, milk, water, sugar and vanilla. Add ice cubes and blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "215 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "29 mg",
+    "sugarContent": "48 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "81"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d5b-5JPblFLb31SXh7LmkQF98Aw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2502399-4810a2fdd119481a946796a49bf2de5b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24479/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
