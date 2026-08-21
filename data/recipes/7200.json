@@ -1,0 +1,113 @@
+{
+  "id": "7200",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7200/banana-beer-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/7200/banana-beer-bread/",
+  "title": "Banana Beer Bread",
+  "description": "Dark beer makes this banana bread extra moist. Wonderfully laced with cinnamon, cardamom, allspice, cloves and fresh ginger, the spices add even more complexity.",
+  "authors": [
+    "Stephanie"
+  ],
+  "date_published": "1999-07-25T12:15:02-04:00",
+  "date_modified": "2022-07-14T17:18:55-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT60M",
+  "total_time": "PT85M",
+  "yield": [
+    "24",
+    "2 loaves"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups packed brown sugar",
+    "1 cup mashed bananas",
+    "2 eggs",
+    "1 teaspoon vanilla extract",
+    "2 tablespoons vegetable oil",
+    "3 cups all-purpose flour",
+    "2 teaspoons baking soda",
+    "1 teaspoon salt",
+    "1.5 teaspoons ground cinnamon",
+    "0.5 teaspoon ground allspice",
+    "1 tablespoon ground cardamom",
+    "0.5 teaspoon ground cloves",
+    "2 cups dark beer",
+    "1.5 cups chopped walnuts",
+    "2 tablespoons all-purpose flour",
+    "2 cups dates, pitted and chopped",
+    "2 tablespoons minced fresh ginger root"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease two 9x5-inch loaf pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix the brown sugar, banana, eggs, and vanilla. For moister bread, add oil, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a separate bowl, sift together 3 cups flour, baking soda, salt, cinnamon, all spice, cardamom, and cloves. Alternately blend the flour mixture and beer into the banana mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss the walnuts with the remaining flour. Stir in the dates and ginger to the mixture and blend well. Pour into two loaf pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until inserted toothpick inserted into the center of each loaf comes out clean, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "246 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "214 mg",
+    "sugarContent": "27 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "63"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nthXJW3Dj-jmvFDzKKJCCjZikYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9348441-6d19300f7e264a758cb9f58802f3fb84.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7200/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

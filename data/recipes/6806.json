@@ -1,0 +1,123 @@
+{
+  "id": "6806",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/6806/calzone/",
+  "requested_url": "https://www.allrecipes.com/recipe/6806/calzone/",
+  "title": "Calzone",
+  "description": "Calzone dough for the bread machine gets rolled out and stuffed with pizza sauce, sausage and cheese. Stuff it with whatever you like — they’re delicious!",
+  "authors": [
+    "dottie"
+  ],
+  "date_published": "1998-07-26T23:14:31-04:00",
+  "date_modified": "2026-08-17T13:26:27-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT45M",
+  "total_time": "PT185M",
+  "yield": [
+    "10",
+    "1 16x10-inch calzone"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.25 cups water",
+    "1 teaspoon salt",
+    "3 cups bread flour",
+    "1 teaspoon dry milk powder",
+    "1.5 tablespoons white sugar",
+    "2 teaspoons active dry yeast",
+    "0.75 cup pizza sauce",
+    "4 ounces pepperoni sausage, chopped",
+    "1.25 cups shredded mozzarella cheese",
+    "2 tablespoons butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "Place water, salt, bread flour, dry milk, sugar, and yeast in the pan of the bread machine in the order suggested by the manufacturer. Select Dough cycle.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the cycle has finished, preheat the oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Roll out dough on a lightly floured surface; shape it into a 16x10-inch rectangle. Transfer to prepared baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, mix together chopped pepperoni and mozzarella. Spoon pizza sauce in a stripe down the center of dough lengthwise; add pepperoni and cheese filling. Make diagonal cuts 1 1/2 inches apart down each side, cutting within a 1/2 inch of the filling. Criss-cross strips over filling, sealing with water. Brush top with melted butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake calzone in preheated oven for 35 to 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4owemk5_N8oevwLkuSmXiGkPSnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/734277-ff6f4e7178f5473b8a981747b8b18c5b.jpg"
+      ],
+      "image": "assets/images/6806/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "285 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "624 mg",
+    "sugarContent": "3 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "252"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/HPDribdn-ma1DlVvV.mp4",
+    "description": "AR0978",
+    "duration": "PT4M28S",
+    "name": "Calzone",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/HPDribdn/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T03:45:48-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4owemk5_N8oevwLkuSmXiGkPSnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/734277-ff6f4e7178f5473b8a981747b8b18c5b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/6806/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/6806/step_05.webp"
+    ]
+  }
+}

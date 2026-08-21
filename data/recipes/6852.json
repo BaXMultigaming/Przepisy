@@ -1,0 +1,92 @@
+{
+  "id": "6852",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/6852/date-nut-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/6852/date-nut-bread/",
+  "title": "Date Nut Bread",
+  "description": "This is a moist, dense date bread with your choice of nuts -walnuts or pecans, almonds or hazelnuts.",
+  "authors": [
+    "Peggy"
+  ],
+  "date_published": "1998-08-16T16:45:55-04:00",
+  "date_modified": "2023-01-09T07:52:25-05:00",
+  "prep_time": "PT40M",
+  "cook_time": "PT60M",
+  "total_time": "PT100M",
+  "yield": [
+    "24",
+    "2 loaves"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups dates, pitted and chopped",
+    "2.25 cups boiling water",
+    "3 teaspoons baking soda",
+    "1 cup chopped walnuts",
+    "2 cups white sugar",
+    "3 tablespoons margarine",
+    "2 eggs, beaten",
+    "1 teaspoon salt",
+    "4.5 cups all-purpose flour",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine baking soda with the boiling water. Soak the dates in the water and baking soda solution for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cream sugar and butter together. Add eggs, vanilla, dates and soaking liquid, nuts, flour, and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide batter equally between two 9x5-inch (or three 8 1/2x4 1/2-inch) greased loaf pans. Bake 1 hour at 300 degrees F (150 degrees C) (or until loaf tests done). Can be frozen when cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "226 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "276 mg",
+    "sugarContent": "23 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "92"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ievQqz4erQZdPU3dZlOEBCTEGxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/224470-cbc28a01c93f48da8b754d12779bfde3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/6852/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

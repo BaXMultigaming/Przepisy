@@ -1,0 +1,65 @@
+{
+  "id": "7477",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7477/party-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/7477/party-frosting/",
+  "title": "Party Frosting",
+  "description": "A coffee meringue frosting good with chocolate cakes.",
+  "authors": [
+    "Amy Parsons"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:27:29-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "16",
+    "3 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups packed light brown sugar",
+    "3 egg whites",
+    "0.25 cup strong brewed coffee",
+    "1 teaspoon cream of tartar",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "In bottom of large double boiler bring water to boil, then reduce to simmer. In top combine brown sugar, egg whites, coffee, and cream of tartar. Beat with mixer 5 to 7 minutes, or until stiff peaks form. Remove from heat. Add vanilla, and beat additional 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "carbohydrateContent": "20 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uEqDBi_hHF3hidYYUpEteqlIRd4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193335-032c69cedf0b481da0c18d904bd3ca9d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7477/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

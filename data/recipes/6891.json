@@ -1,0 +1,105 @@
+{
+  "id": "6891",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/6891/apple-loaf/",
+  "requested_url": "https://www.allrecipes.com/recipe/6891/apple-loaf/",
+  "title": "Apple Loaf",
+  "description": "This delicate apple loaf studded with chopped walnuts is simple to make. Enjoy a slice for breakfast or with a cup of afternoon tea.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "1998-08-30T11:32:02-04:00",
+  "date_modified": "2026-04-12T17:34:30-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT85M",
+  "yield": [
+    "10",
+    "1 9x5-inch loaf"
+  ],
+  "categories": [
+    "Breakfast",
+    "Bread"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "1 teaspoon baking powder",
+    "0.5 teaspoon baking soda",
+    "0.5 teaspoon salt",
+    "0.5 cup chopped walnuts",
+    "1 cup white sugar",
+    "0.5 cup butter, softened",
+    "2 eggs",
+    "1 teaspoon vanilla extract",
+    "1 cup apples - peeled, cored and shredded"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix flour, baking powder, baking soda, and salt together in a medium bowl. Stir in walnuts.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, beat sugar, butter, and one egg until smooth. Beat in remaining egg, then vanilla. Stir in shredded apples, then stir in flour mixture just until moistened. Spread into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a toothpick inserted in the center comes out clean, 50 to 60 minutes. Let stand for 10 minutes, then remove from the pan and finish cooling on a wire rack.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "311 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "234 mg",
+    "sugarContent": "21 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "213"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6BCRep31lTlvSnBaNjw3HQl3wB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8034970-36a2fff15a354a77ab6b4ffa5d74a08b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/6891/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "6776",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/6776/pizza-dough-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/6776/pizza-dough-i/",
+  "title": "No-Rise Pizza Dough",
+  "description": "This quick pizza dough recipe is an easy, no-rise dough made with simple ingredients patted into a pan, topped as desired, and baked in 20 minutes.",
+  "authors": [
+    "Gudny Bjorg Kjaerbo"
+  ],
+  "date_published": "1998-07-13T17:43:47-04:00",
+  "date_modified": "2025-02-04T06:17:29-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12",
+    "1 pizza"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups all-purpose flour",
+    "1 tablespoon white sugar",
+    "1 (.25 ounce) package active dry yeast",
+    "1 teaspoon salt",
+    "1 cup warm water (110 degrees F/45 degrees C)",
+    "2 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kZ5fJWt-5rXlsZfdKzy79qbnO28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6776_PizzaDough_ddmfs_step1_4x3_1641-c476bf59437a40fb81953513c52497d8.jpg"
+      ],
+      "image": "assets/images/6776/step_01.webp"
+    },
+    {
+      "text": "Combine flour, sugar, yeast, and salt in a large bowl. Mix in warm water and oil until dough comes together.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/aefJMDXKqs42oAP71dQuYf_-Qdc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6776_Pizza-Dough_ddmfs_4x3_1724-fd91f26e0bd6400a9e89c6866336532b.jpg"
+      ],
+      "image": "assets/images/6776/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "156 mg",
+    "sugarContent": "1 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "2788"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RDnhFoai-ma1DlVvV.mp4",
+    "description": "AR0156",
+    "duration": "PT2M48S",
+    "name": "Pizza Dough I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RDnhFoai/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T18:49:36-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aefJMDXKqs42oAP71dQuYf_-Qdc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6776_Pizza-Dough_ddmfs_4x3_1724-fd91f26e0bd6400a9e89c6866336532b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/6776/hero.webp",
+    "steps": [
+      "assets/images/6776/step_01.webp",
+      "assets/images/6776/step_02.webp"
+    ]
+  }
+}

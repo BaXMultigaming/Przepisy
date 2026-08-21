@@ -1,0 +1,92 @@
+{
+  "id": "7025",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7025/light-oat-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/7025/light-oat-bread/",
+  "title": "Light Oat Bread",
+  "description": "This bread machine bread recipe makes a loaf with a mild oat flavor .",
+  "authors": [
+    "LITSTER5"
+  ],
+  "date_published": "1998-11-29T09:48:45-05:00",
+  "date_modified": "2022-09-23T17:50:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT55M",
+  "total_time": "PT180M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.25 cups water",
+    "2 tablespoons margarine",
+    "1 teaspoon salt",
+    "3 cups all-purpose flour",
+    "0.5 cup rolled oats",
+    "2 tablespoons brown sugar",
+    "1.5 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place water, margarine, salt, flour, oats, brown sugar, and yeast into a bread machine in the order listed, or follow the order recommended by your manufacturer if different.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Select Regular Light setting.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove loaf from the machine after the cycle is done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "216 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "servingSize": "1 1/2-pound loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "889"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZNsGNAXUw89j_iVQMlV7gqBUp_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/257322-1cb1ca5923954ea1adef9bf3d7301001.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7025/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

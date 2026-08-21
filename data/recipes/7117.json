@@ -1,0 +1,89 @@
+{
+  "id": "7117",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7117/dark-rye-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/7117/dark-rye-bread/",
+  "title": "Dark Rye Bread",
+  "description": "This is a bread machine recipe that includes a little cocoa to darken the loaf and caraway seeds for extra bite.",
+  "authors": [
+    "Kathy Nowell"
+  ],
+  "date_published": "1999-03-28T09:56:32-05:00",
+  "date_modified": "2026-06-23T10:18:45-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American",
+    "Eastern European"
+  ],
+  "regions": [
+    "American",
+    "Eastern European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.125 cups water",
+    "2 tablespoons molasses",
+    "1 tablespoon vegetable oil",
+    "1 teaspoon salt",
+    "2 cups all-purpose flour",
+    "1.5 cups rye flour",
+    "3 tablespoons packed brown sugar",
+    "1 tablespoon unsweetened cocoa powder",
+    "0.75 teaspoon caraway seed",
+    "2 teaspoons bread machine yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Select the Basic cycle, and press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "197 mg",
+    "sugarContent": "5 g",
+    "fatContent": "2 g",
+    "servingSize": "1 - 1 1/2 pound loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "162"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Zm1Dz5Y5oIElWRsR6P0B0rv50qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1009871-dark-rye-bread-Moxie-4x3-1-8e5ba98fe7c549d188977f687a7f8e8b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7117/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

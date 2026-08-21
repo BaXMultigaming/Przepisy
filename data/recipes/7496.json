@@ -1,0 +1,85 @@
+{
+  "id": "7496",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7496/peanut-butter-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/7496/peanut-butter-frosting/",
+  "title": "Peanut Butter Frosting",
+  "description": "If you like peanut butter you’ll love this peanut butter frosting, great on chocolate cakes, or for a delicious double whammy, try it on a peanut butter cake.",
+  "authors": [
+    "Suzanne Stull"
+  ],
+  "date_published": "1998-05-19T08:24:08-04:00",
+  "date_modified": "2026-07-20T16:21:35-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "3 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "1 cup creamy peanut butter",
+    "4 cups confectioners' sugar",
+    "0.33333334326744 cup cream"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, beat butter and peanut butter until light and fluffy. Slowly beat in 1/2 of the confectioner’s sugar. Mix in 1/4 cup of the cream. Beat in remaining confectioners’ sugar. If necessary, add a little more cream or milk until the frosting reaches a good spreading consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/v0AhsIQ3wKFzsKGxYE9TAKmtdaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4539771-peanut-butter-frosting-Erin-1x1-1-8debebe8adb440a8af4a587750afeab9.jpg"
+      ],
+      "image": "assets/images/7496/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "117 mg",
+    "sugarContent": "31 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "618"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/eMvqI8Cu-ma1DlVvV.mp4",
+    "description": "AR0535",
+    "duration": "PT2M37S",
+    "name": "Peanut Butter Frosting",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/eMvqI8Cu/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T00:14:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/v0AhsIQ3wKFzsKGxYE9TAKmtdaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4539771-peanut-butter-frosting-Erin-1x1-1-8debebe8adb440a8af4a587750afeab9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7496/hero.webp",
+    "steps": [
+      "assets/images/7496/step_01.webp"
+    ]
+  }
+}

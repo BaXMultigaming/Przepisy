@@ -1,0 +1,111 @@
+{
+  "id": "7204",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7204/paximade/",
+  "requested_url": "https://www.allrecipes.com/recipe/7204/paximade/",
+  "title": "Paximade",
+  "description": "This bread is a greek type of bread that tastes almost like cake, although the sugar content is much lower. It makes a terrific breakfast bread.",
+  "authors": [
+    "jessica"
+  ],
+  "date_published": "1999-08-13T18:27:10-04:00",
+  "date_modified": "2022-07-14T17:55:25-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12",
+    "1 loaf"
+  ],
+  "categories": [
+    "Breakfast",
+    "Dessert"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups all-purpose flour",
+    "2 teaspoons baking powder",
+    "0.5 teaspoon salt",
+    "1 teaspoon anise seed",
+    "0.5 cup unsalted butter, softened",
+    "0.5 cup white sugar",
+    "2 eggs",
+    "0.5 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Sift together the flour, baking powder, and salt. Add the anise seed and mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a separate large bowl cream together the butter and sugar until light and fluffy. Beat in one egg, and then the other. Beat for 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beginning with the flour mixture, alternately add the milk and flour to the large bowl with the creamed butter and sugar. Mix until all ingredients are incorporated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon batter into a greased 9x5x3 inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in a preheated 350 degree F (175 degrees C) oven for 50 minutes, or until an inserted toothpick comes out clean. Let the bread cool in the pan for 10 minutes before inverting onto a cooling rack. May be stored in the refrigerator for up to 10 days.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "213 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "52 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "196 mg",
+    "sugarContent": "9 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XycDP7_mZSInw1RaKCSth8AlzYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8254573-79a80a5b056641f68a4248147ae3200b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7204/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

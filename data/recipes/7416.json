@@ -1,0 +1,105 @@
+{
+  "id": "7416",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7416/chocolate-mayo-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/7416/chocolate-mayo-cake/",
+  "title": "Chocolate Mayo Cake",
+  "description": "My mom made this cake while living in the Depression. It is so good, I hope this fills your needs and your memories.",
+  "authors": [
+    "Virginia Godd"
+  ],
+  "date_published": "1998-05-05T23:34:46-04:00",
+  "date_modified": "2026-04-13T18:51:41-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "24",
+    "9 - inch round layers"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups all-purpose flour",
+    "1.5 teaspoons baking soda",
+    "1.5 cups white sugar",
+    "1.5 cups mayonnaise",
+    "0.33333334326744 cup unsweetened cocoa powder",
+    "1.5 cups water",
+    "2.25 teaspoons baking powder",
+    "1.5 teaspoons vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees (175 degrees C). Lightly grease two 9 inch layer pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix flour, baking soda, baking powder, cocoa, and sugar into a large bowl. Stir in mayonnaise. Gradually add water and vanilla and blend until smooth. Pour batter into prepared pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 350 degrees F (175 degrees C) for 30 minutes. Cool, remove from pans, and frost with your favorite chocolate frosting.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kKYhjVy02FhG-IkjKsBlgOK2h9U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/94867-af6d34da7d24466f98600a9bba397e9f.jpg"
+      ],
+      "image": "assets/images/7416/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "208 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "204 mg",
+    "sugarContent": "13 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "177"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/vbpeGAbL-JxZ4e411.mp4",
+    "description": "This recipe has a creamy spin on the usual chocolate cake formula. In this video, Annie makes chocolate mayo cake. First, mix together flour, baking powder, baking soda, cocoa powder, and sugar. Afterwards, add in one and a half cup of mayonnaise. Once it’s done incorporating, add in vanilla, water, and vinegar to get a moist and chocolatey batter. Then, pour it into a pan and let it cook for 30 minutes in a 350 degree oven. Finally, take it out, add the icing, and enjoy the moist chocolate mayo cake!",
+    "duration": "PT1M2S",
+    "name": "We Tried Making Chocolate Mayo Cake",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/vbpeGAbL/poster.jpg?width=1280",
+    "uploadDate": "2023-02-17T15:10:38-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kKYhjVy02FhG-IkjKsBlgOK2h9U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/94867-af6d34da7d24466f98600a9bba397e9f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7416/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/7416/step_03.webp"
+    ]
+  }
+}

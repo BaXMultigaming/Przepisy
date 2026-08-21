@@ -1,0 +1,84 @@
+{
+  "id": "6801",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/6801/oat-n-honey-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/6801/oat-n-honey-bread/",
+  "title": "Oat-N-Honey Bread",
+  "description": "You can make a tasty loaf of oat-and-honey bread quite easily with your bread machine and this recipe.",
+  "authors": [
+    "Kathy Nowell"
+  ],
+  "date_published": "1998-07-27T22:54:42-04:00",
+  "date_modified": "2022-07-14T17:08:03-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "10",
+    "1 1-pound loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup buttermilk",
+    "1 egg",
+    "0.25 cup warm water (110 degrees F/45 degrees C)",
+    "2 tablespoons honey",
+    "1.5 cups whole wheat flour",
+    "1.5 cups all-purpose flour",
+    "0.5 cup quick cooking oats",
+    "2 tablespoons vegetable oil",
+    "1.5 teaspoons salt",
+    "1.5 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients into the bread machine in order suggested by the manufacturer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Use the Light Crust or Whole Wheat settings. Start the machine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "384 mg",
+    "sugarContent": "5 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "72"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6DVtj9lwl6U3jUViBxbeXrR8Cbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1087232-5e2d2fc83cfb4576bb9a62f2773e623b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/6801/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

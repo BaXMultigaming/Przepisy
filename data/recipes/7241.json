@@ -1,0 +1,91 @@
+{
+  "id": "7241",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7241/apple-cheddar-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/7241/apple-cheddar-bread/",
+  "title": "Apple Cheddar Bread",
+  "description": "This sweet, cinnamon-laced loaf is packed with apples, nuts and cheddar.",
+  "authors": [
+    "Susan Holtgrewe"
+  ],
+  "date_published": "1999-07-22T11:24:43-04:00",
+  "date_modified": "2022-07-14T18:02:42-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "12",
+    "1 loaf"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66670000553131 cup white sugar",
+    "2 cups self-rising flour",
+    "1 teaspoon ground cinnamon",
+    "0.5 cup chopped walnuts",
+    "2 eggs, beaten",
+    "0.5 cup margarine, melted",
+    "1 apple - peeled, cored and finely chopped",
+    "0.5 cup shredded Cheddar cheese",
+    "0.25 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x5 inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine the sugar, flour, cinnamon walnuts, apples, and cheese. Add the eggs, melted butter or margarine, and milk; stir until well blended. Pour into prepared loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 1 hour, or until done. If loaf starts to brown too much, cover with foil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "395 mg",
+    "sugarContent": "13 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PzfSwSACcG5wK5o97pQ-Q-osz_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/485692-f2a6ba73ba494932bb1e93a502ddedb6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7241/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

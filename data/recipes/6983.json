@@ -1,0 +1,87 @@
+{
+  "id": "6983",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/6983/garlic-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/6983/garlic-bread/",
+  "title": "Garlic Bread",
+  "description": "This is a fragrant and tasty bread machine recipe.",
+  "authors": [
+    "Jenny Kernan"
+  ],
+  "date_published": "1998-10-16T17:00:37-04:00",
+  "date_modified": "2022-07-14T16:36:34-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "15",
+    "2 - pound loaf"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.375 cups water",
+    "3 tablespoons olive oil",
+    "1 teaspoon minced garlic",
+    "4 cups bread flour",
+    "3 tablespoons white sugar",
+    "2 teaspoons salt",
+    "0.25 cup grated Parmesan cheese",
+    "1 teaspoon dried basil",
+    "1 teaspoon garlic powder",
+    "3 tablespoons chopped fresh chives",
+    "1 teaspoon coarsely ground black pepper",
+    "2.5 teaspoons bread machine yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the bread machine pan in the order suggested by the manufacturer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Select Basic or White Bread cycle, and press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "175 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "332 mg",
+    "sugarContent": "3 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "165"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/68Dz5jePJoR38SpPx1OPOgQoD5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14327-de2358b47abd4b81bfc1b9d563ba65dd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/6983/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "7123",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7123/johnnycakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/7123/johnnycakes/",
+  "title": "Johnnycakes",
+  "description": "A cornmeal and milk batter gives texture to these pancakes. Serve with butter and honey, or with maple syrup.",
+  "authors": [
+    "Kevin Ryan"
+  ],
+  "date_published": "1999-01-23T05:56:46-05:00",
+  "date_modified": "2022-07-14T17:08:35-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "10 johnnycakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "New England"
+  ],
+  "regions": [
+    "New England"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups stone ground cornmeal",
+    "1 teaspoon salt",
+    "4 tablespoons unsalted butter",
+    "1 cup whole milk",
+    "2 tablespoons boiling water"
+  ],
+  "steps": [
+    {
+      "text": "Cream the cornmeal, salt, and butter together. Add the milk and enough water to make a moist but firm batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop by large spoonfuls onto a hot greased griddle, and flatten slightly with the back of a spoon. When brown, turn and cook the other side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "144 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "252 mg",
+    "sugarContent": "1 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "67"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/i1Morw6HgZhgEJvTO2DwDNQFQkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/97765-31a74d2fc08c48598ea1deab980fa0e3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7123/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

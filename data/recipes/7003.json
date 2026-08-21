@@ -1,0 +1,96 @@
+{
+  "id": "7003",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7003/applesauce-bread-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/7003/applesauce-bread-i/",
+  "title": "Applesauce Bread",
+  "description": "This bread with applesauce and sour cream will give you two loaves of delicious bread made raisins, ground cinnamon, and baking powder.",
+  "authors": [
+    "Linda G."
+  ],
+  "date_published": "1998-11-03T10:09:37-05:00",
+  "date_modified": "2026-06-05T12:18:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT80M",
+  "total_time": "PT90M",
+  "yield": [
+    "24",
+    "2 loaves"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups all-purpose flour",
+    "3 eggs",
+    "2 cups white sugar",
+    "1 cup vegetable oil",
+    "2 cups applesauce",
+    "1 cup raisins",
+    "1 teaspoon ground cinnamon",
+    "1 teaspoon baking soda",
+    "0.25 teaspoon baking powder",
+    "0.5 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 9x5-inch loaf pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat together eggs, sugar, and oil. Blend in applesauce, and then sour cream or buttermilk. Mix in flour, baking powder, soda, and cinnamon. Stir in raisins. Pour batter into the prepared pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 1 hour and 20 minutes. Cool on wire racks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "251 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "70 mg",
+    "sugarContent": "23 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "147"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QpT8HnzHQZIZRSif4Yi2GBeeplM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1024884-658df99caf1743d19512b9864fe3998a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7003/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

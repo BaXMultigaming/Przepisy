@@ -1,0 +1,90 @@
+{
+  "id": "7169",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7169/buttermilk-honey-wheat-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/7169/buttermilk-honey-wheat-bread/",
+  "title": "Buttermilk Honey Wheat Bread",
+  "description": "This honey-tinged buttermilk wheat bread melts in your mouth. Eat this one hot from the oven.",
+  "authors": [
+    "Tom Denney"
+  ],
+  "date_published": "1999-07-28T17:09:52-04:00",
+  "date_modified": "2022-07-14T16:10:46-04:00",
+  "prep_time": "PT2M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "12",
+    "1 loaf"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 teaspoons active dry yeast",
+    "1 cup whole wheat flour",
+    "2 cups all-purpose flour",
+    "0.5 teaspoon baking soda",
+    "1 teaspoon salt",
+    "3 tablespoons honey",
+    "1.5 tablespoons vegetable oil",
+    "1.5 cups buttermilk, at room temperature"
+  ],
+  "steps": [
+    {
+      "text": "Combine the yeast, whole wheat flour, all purpose flour, baking soda, salt, honey, oil, and buttermilk into pan of a bread machine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "If baking in bread machine use medium temperature setting.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "If baking in an oven, use manual or dough cycle to knead dough. Remove from bread maker, and place in a greased loaf pan. Let rise until doubled in size. Bake in a preheated 350 degree F (175 degree C) oven for 25 minutes, or until bottom of loaf sounds hollow when tapped.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "156 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "280 mg",
+    "sugarContent": "6 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "290"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lGV4BMRqBF6dM9LMBohSlYH_wUA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3223-b8de7fac6e644c8cb89cadbf300cf3a1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7169/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

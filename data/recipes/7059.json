@@ -1,0 +1,83 @@
+{
+  "id": "7059",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7059/carrot-thyme-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/7059/carrot-thyme-bread/",
+  "title": "Carrot Thyme Bread",
+  "description": "This is a savory rye loaf with thyme, cornmeal and lots of carrots.",
+  "authors": [
+    "Kevin K"
+  ],
+  "date_published": "1999-01-06T20:28:29-05:00",
+  "date_modified": "2022-08-04T11:45:47-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 teaspoons active dry yeast",
+    "1 cup rye flour",
+    "2.25 cups bread flour",
+    "0.5 cup cornmeal",
+    "1.5 tablespoons white sugar",
+    "1.5 tablespoons dried thyme",
+    "1.5 teaspoons salt",
+    "1 cup water",
+    "2 cups grated carrots",
+    "3 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Place the ingredients in the bread machine pan in the order suggested by the manufacturer. Select Basic Bread setting, and then press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Allow the loaf to cool before slicing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "190 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "307 mg",
+    "sugarContent": "3 g",
+    "fatContent": "4 g",
+    "servingSize": "1 - 1 1/2 pound loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-MmrqtBhpGAiwpak0bJvxUyBaw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/246728-3c96b707668840df80758900fcfac5de.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7059/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

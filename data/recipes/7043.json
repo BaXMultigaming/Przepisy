@@ -1,0 +1,98 @@
+{
+  "id": "7043",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7043/bread-machine-challah-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/7043/bread-machine-challah-i/",
+  "title": "Easy Bread Machine Challah",
+  "description": "Challah, a yeasted egg bread, is made especially easy in a bread machine.",
+  "authors": [
+    "Suzy"
+  ],
+  "date_published": "1999-01-01T10:05:11-05:00",
+  "date_modified": "2026-07-15T07:27:31-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "12",
+    "1 (1 ½-pound) loaf"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "World",
+    "American",
+    "Eastern European"
+  ],
+  "regions": [
+    "World",
+    "American",
+    "Eastern European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup milk",
+    "2 eggs",
+    "3 tablespoons margarine",
+    "3 cups bread flour",
+    "0.25 cup white sugar",
+    "1.5 teaspoons salt",
+    "1.5 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "Add milk, eggs, margarine, bread flour, white sugar, salt, and yeast to the bread machine pan in the order recommended by the manufacturer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Select the Basic Bread cycle and Light Crust setting. Start the machine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the baking cycle is complete, carefully remove the loaf from the pan and transfer it to a wire rack. Let cool before slicing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "341 mg",
+    "sugarContent": "5 g",
+    "fatContent": "4 g",
+    "servingSize": "1 1 1/2-pound loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "453"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oKlUTEnTBHcVFXIS2H7lggErSf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8384013-bread-machine-challah-i-Wanda-Andreu-4x3-1-1d1050e1fd3e445aa056b906f6041700.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7043/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

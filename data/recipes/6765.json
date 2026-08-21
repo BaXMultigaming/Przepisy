@@ -1,0 +1,107 @@
+{
+  "id": "6765",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/6765/4h-banana-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/6765/4h-banana-bread/",
+  "title": "4H Banana Bread",
+  "description": "This recipe makes a very moist loaf, owing to the addition of a little milk and a lot of banana.",
+  "authors": [
+    "Pat Heldenbrand"
+  ],
+  "date_published": "1998-07-14T16:35:09-04:00",
+  "date_modified": "2026-08-06T18:46:09-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT60M",
+  "total_time": "PT70M",
+  "yield": [
+    "12",
+    "1 - 9x5 inch loaf"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "0.5 teaspoon baking soda",
+    "1 cup white sugar",
+    "1 egg",
+    "5 tablespoons milk",
+    "1 teaspoon baking powder",
+    "0.5 teaspoon salt",
+    "0.5 cup margarine",
+    "1 cup mashed bananas",
+    "0.5 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Sift together flour, baking soda, baking powder, and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, cream sugar and butter or margarine. Beat the egg slightly, and mix into the creamed mixture with the bananas. Mix in sifted ingredients until just combined. Stir in milk and nuts. Spread batter into one greased and floured 9x5 inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 350 degrees F (175 degrees C) until top is brown and cracks along the top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/tNc6mAGoJ2a2mMgXIqQVV0W7v20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042616-4h-banana-bread-esky25-1x1-1-7e036ae9f9094092b5b5aa4fcc0f8cba.jpg"
+      ],
+      "image": "assets/images/6765/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "265 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "287 mg",
+    "sugarContent": "20 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "1203"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/vxxXE9R4-ma1DlVvV.mp4",
+    "description": "AR0988",
+    "duration": "PT4M48S",
+    "name": "Banana Bread V",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/vxxXE9R4/poster.jpg?width=1280",
+    "uploadDate": "2021-07-06T03:44:30-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tNc6mAGoJ2a2mMgXIqQVV0W7v20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042616-4h-banana-bread-esky25-1x1-1-7e036ae9f9094092b5b5aa4fcc0f8cba.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/6765/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/6765/step_03.webp"
+    ]
+  }
+}
