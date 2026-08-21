@@ -242,7 +242,7 @@ body.cooking-mode .body{padding-bottom:36px}
 <script>
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let all=[],shown=120,current=null,manifest=null,unit=localStorage.getItem('unit')||'US';
+let all=[],shown=120,current=null,currentKey=null,manifest=null,unit=localStorage.getItem('unit')||'US';
 let currentStep=0,wakeLock=null,wakeWanted=localStorage.getItem('keep-screen-awake')==='1',toastTimer=null;
 
 const frac={'¼':.25,'½':.5,'¾':.75,'⅓':1/3,'⅔':2/3,'⅛':.125,'⅜':.375,'⅝':.625,'⅞':.875};
@@ -381,20 +381,20 @@ function renderList(){
   const part=filtered.slice(0,shown);
   $('#list').innerHTML=part.length?part.map(r=>{
     const meta=[...getCategories(r).slice(0,1),...getRegions(r).slice(0,1)];
-    return `<div class="item ${current&&current.id===r.id?'active':''}" data-id="${esc(r.id)}">
+    return `<div class="item ${currentKey===(r.key||String(r.id))?'active':''}" data-key="${esc(r.key||String(r.id))}">
       ${r.image?`<img loading="lazy" src="${esc(r.image)}" alt="">`:''}
       <div><b>${esc(r.title)}</b><div class="meta">${esc(meta.join(' • '))}</div></div>
     </div>`
   }).join(''):'<div class="empty">Brak przepisów dla wybranych filtrów.</div>';
   $('#more').hidden=part.length>=filtered.length;
   document.querySelectorAll('.item').forEach(x=>x.addEventListener('click',()=>{
-    const row=all.find(r=>String(r.id)===String(x.dataset.id));if(row)openRecipe(row)
+    const row=all.find(r=>String(r.key||r.id)===String(x.dataset.key));if(row)openRecipe(row)
   }));
   $('#clearFilters').disabled=!category&&!region&&!q
 }
 
-function ingredientKey(){return current?`recipe-${current.id}-ingredients`:''}
-function stepKey(){return current?`recipe-${current.id}-step`:''}
+function ingredientKey(){return current?`recipe-${currentKey||current.id}-ingredients`:''}
+function stepKey(){return current?`recipe-${currentKey||current.id}-step`:''}
 function savedIngredients(){
   try{return new Set(JSON.parse(localStorage.getItem(ingredientKey())||'[]'))}catch{return new Set()}
 }
@@ -408,8 +408,9 @@ async function openRecipe(row){
   const response=await fetch(row.file,{cache:'no-store'});
   if(!response.ok)throw new Error(`HTTP ${response.status}`);
   current=await response.json();
-  currentStep=Math.max(0,Math.min((current.steps||[]).length-1,+localStorage.getItem(`recipe-${current.id}-step`)||0));
-  history.replaceState(null,'',`?id=${encodeURIComponent(current.id)}`);
+  currentKey=row.key||String(row.id);
+  currentStep=Math.max(0,Math.min((current.steps||[]).length-1,+localStorage.getItem(`recipe-${currentKey}-step`)||0));
+  history.replaceState(null,'',`?id=${encodeURIComponent(currentKey||current.id)}`);
   renderRecipe();renderList();
   $('#recipe').scrollIntoView({behavior:'smooth',block:'start'});
   if(wakeWanted)requestWakeLock(false)
@@ -571,7 +572,7 @@ document.addEventListener('visibilitychange',async()=>{
   buildFilterOptions();renderList();
   const id=new URLSearchParams(location.search).get('id');
   if(id){
-    const hit=all.find(x=>String(x.id)===String(id));
+    const hit=all.find(x=>String(x.key||x.id)===String(id)) || all.find(x=>String(x.id)===String(id));
     if(hit)await openRecipe(hit)
   }
 })().catch(e=>{
