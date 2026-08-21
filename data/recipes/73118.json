@@ -1,0 +1,95 @@
+{
+  "id": "73118",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73118/rachels-tomato-basil-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/73118/rachels-tomato-basil-soup/",
+  "title": "Rachel&#39;s Tomato Basil Soup",
+  "description": "Fresh basil is the key to Rachel&#39;s creamy tomato basil soup recipe made with canned tomatoes, chicken broth, tomato-vegetable juice, and heavy cream.",
+  "authors": [
+    "CARAMOMMY"
+  ],
+  "date_published": "2018-03-21T12:37:32-04:00",
+  "date_modified": "2026-05-28T12:20:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT35M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (28 ounce) can crushed tomatoes",
+    "1 (14.5 ounce) can chicken broth",
+    "1 (11.5 ounce) can tomato-vegetable juice cocktail",
+    "20 fresh basil leaves, cut into thin strips",
+    "1 cup heavy cream",
+    "0.25 cup butter or margarine"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomatoes, chicken broth, and vegetable juice in a large saucepan; bring to a boil and cook for 30 minutes. Off heat, stir in basil. Purée soup with an immersion blender until smooth, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in cream and butter over medium-low heat until butter is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/z6JH4ZAV_ahy7MU25rqYdtAVHyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/966202-35872487e35b485d973ac40ac91342a2.jpg"
+      ],
+      "image": "assets/images/73118/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "76 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "669 mg",
+    "sugarContent": "2 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "286"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/cM7NPeg8-ma1DlVvV.mp4",
+    "description": "Watch this powerful, versatile little wonder wand in action!",
+    "duration": "PT1M30S",
+    "name": "The Immersion Blender",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/cM7NPeg8/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T07:48:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/z6JH4ZAV_ahy7MU25rqYdtAVHyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/966202-35872487e35b485d973ac40ac91342a2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73118/hero.webp",
+    "steps": [
+      null,
+      "assets/images/73118/step_02.webp"
+    ]
+  }
+}

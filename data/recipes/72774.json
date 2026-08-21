@@ -1,0 +1,72 @@
+{
+  "id": "72774",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/72774/orange-dream/",
+  "requested_url": "https://www.allrecipes.com/recipe/72774/orange-dream/",
+  "title": "Orange Dream",
+  "description": "This orange dream frozen dessert recipe is made with orange soda, condensed milk, and Cool Whip, and tastes like those orange push-ups from childhood.",
+  "authors": [
+    "Terri Clark"
+  ],
+  "date_published": "2020-06-18T23:10:54-04:00",
+  "date_modified": "2025-09-15T09:55:13-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT40M",
+  "total_time": "PT45M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (2 liter) bottle orange soda",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 (8 ounce) tub frozen whipped topping (such as Cool Whip®), thawed",
+    "0.25 cup sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine soda, condensed milk, whipped topping, and sugar in an ice cream maker; freeze according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "265 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "13 mg",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "67 mg",
+    "sugarContent": "32 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JzyGoynoVQMZDQKboIgvdmpZaIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/198007-af5b61ed6c2c440c82aebd15502badf0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/72774/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

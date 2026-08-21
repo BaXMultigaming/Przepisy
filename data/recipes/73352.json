@@ -1,0 +1,73 @@
+{
+  "id": "73352",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73352/chipotle-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/73352/chipotle-sauce/",
+  "title": "Chipotle Sauce",
+  "description": "This smoky chipotle sauce is very quick and easy to make with just 3 ingredients: plain yogurt, mayo, and chipotle peppers in adobo sauce.",
+  "authors": [
+    "SHACKL"
+  ],
+  "date_published": "2018-03-21T12:37:38-04:00",
+  "date_modified": "2026-08-12T13:31:36-04:00",
+  "prep_time": "PT2M",
+  "cook_time": null,
+  "total_time": "PT2M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup plain yogurt",
+    "0.5 cup mayonnaise",
+    "2 teaspoons pureed chipotle peppers in adobo sauce"
+  ],
+  "steps": [
+    {
+      "text": "Mix yogurt, mayonnaise, and chipotle peppers together in a small bowl until smooth. Chill until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "109 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "6 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "95 mg",
+    "sugarContent": "1 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4A6wbJS8-K84x-PePmU3YiMpVm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73352chipotle-sauceTammyLynn4x3-f9727d36252e4b0bb174c22317869875.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73352/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

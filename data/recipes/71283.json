@@ -1,0 +1,87 @@
+{
+  "id": "71283",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/71283/bacon-ranch-pea-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/71283/bacon-ranch-pea-salad/",
+  "title": "Bacon Ranch Pea Salad",
+  "description": "Peas, bacon, cheese, onions are tossed together and chilled in this great and easy summer pea salad with ranch dressing.",
+  "authors": [
+    "Susan Sunderman"
+  ],
+  "date_published": "2019-04-03T23:32:22-04:00",
+  "date_modified": "2022-06-14T21:53:01-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT50M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 slices bacon",
+    "1 quart water",
+    "1 (16 ounce) package frozen green peas",
+    "0.33333334326744 cup chopped onions",
+    "0.5 cup Ranch dressing",
+    "0.5 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a skillet over medium-high heat, and cook until evenly brown. Drain, crumble, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring water to a boil in a pot. Boil peas, 1 minute, until just tender, and drain. Cool peas under cold running water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, toss together bacon, peas, onion, ranch dressing, and Cheddar cheese. Refrigerate 30 minutes or until chilled before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "359 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "741 mg",
+    "sugarContent": "8 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "237"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/R89FmFAgx4S6JqHvm2lHwYFGOu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/99201-94c00145aa994168b037baf6988f37d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/71283/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

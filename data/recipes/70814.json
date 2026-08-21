@@ -1,0 +1,106 @@
+{
+  "id": "70814",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/70814/boston-brown-bread-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/70814/boston-brown-bread-iii/",
+  "title": "Boston Brown Bread",
+  "description": "Molasses and brown sugar sweeten this Boston brown bread made with whole wheat flour and buttermilk.",
+  "authors": [
+    "PARADIGMGIRL"
+  ],
+  "date_published": "2020-03-04T23:58:39-05:00",
+  "date_modified": "2025-03-24T07:08:44-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "12",
+    "1 (9x5-inch) loaf"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "New England"
+  ],
+  "regions": [
+    "New England"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups whole wheat flour",
+    "1 cup all-purpose flour",
+    "2 teaspoons baking soda",
+    "1 teaspoon salt",
+    "0.66666668653488 cup firmly packed brown sugar",
+    "0.25 cup molasses",
+    "2 cups buttermilk",
+    "1/2 cup dried cranberries",
+    "1/2 cup raisins"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x5-inch loaf pan, knocking out excess flour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix whole wheat flour, all-purpose flour, baking soda, salt, and brown sugar together in a large bowl. Mix in molasses and buttermilk until just combined. Fold in cranberries and raisins if using. Pour batter into prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a toothpick inserted into the loaf comes out clean, about 1 hour. Cool on a wire rack for 5 minutes, and then remove from pan. Cool completely before slicing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Vm0RgonhJwM7LMxCAFFrhbf6vcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-95-1e992e31aa674b80a36d6ee1439188c7.jpg"
+      ],
+      "image": "assets/images/70814/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "188 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "454 mg",
+    "sugarContent": "18 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "155"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/GsjU55wV-ma1DlVvV.mp4",
+    "description": "The keys to this classic Boston brown bread recipe are brown sugar and molasses combined with healthy whole wheat flour and buttermilk. See how it’s done!",
+    "duration": "PT2M38S",
+    "name": "Boston Brown Bread III",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/GsjU55wV/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T09:31:44-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Vm0RgonhJwM7LMxCAFFrhbf6vcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-95-1e992e31aa674b80a36d6ee1439188c7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/70814/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/70814/step_03.webp"
+    ]
+  }
+}

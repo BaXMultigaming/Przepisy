@@ -1,0 +1,85 @@
+{
+  "id": "71986",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/71986/hot-dog-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/71986/hot-dog-sauce/",
+  "title": "Hot Dog Sauce",
+  "description": "Liven up your hot dog by topping it with this spicy ground beef sauce. For a real treat, sprinkle your saucy dog with shredded Cheddar cheese and chopped raw onions.",
+  "authors": [
+    "GOGOBLUES"
+  ],
+  "date_published": "2019-04-03T23:32:27-04:00",
+  "date_modified": "2019-04-03T23:32:27-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "9",
+    "3 cups sauce"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef chuck",
+    "1 onion, finely chopped",
+    "3 cloves garlic, minced",
+    "0.5 cup ketchup",
+    "0.25 cup barbeque sauce",
+    "1 tablespoon chili powder",
+    "2 tablespoons prepared yellow mustard",
+    "0.5 teaspoon ground black pepper",
+    "2 teaspoons salt, or to taste",
+    "2 teaspoons ground cumin",
+    "1 tablespoon Worcestershire sauce",
+    "1 pinch crushed red pepper flakes",
+    "1 cup water"
+  ],
+  "steps": [
+    {
+      "text": "Brown beef and onion in a large skillet over medium-high heat. Drain fat; cool mixture slightly. Place in food processor; pulse until mixture is finely crumbled, about 5 or 6 pulses. Return meat to skillet; stir in garlic. Cook for 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour the ketchup and barbeque sauce into the skillet. Stir in the chili powder, mustard, pepper, salt, cumin, Worcestershire sauce, red pepper flakes, and water. Cook, uncovered, until most of the liquid has evaporated, about 10 minutes. Season sauce with additional salt, if necessary.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "108 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "825 mg",
+    "sugarContent": "6 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2nz_biVkfpJAfBgejBD3_DFScjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8232378-dc7c8a3836cf4288895ac5f791f34f68.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/71986/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

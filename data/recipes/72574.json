@@ -1,0 +1,84 @@
+{
+  "id": "72574",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/72574/dijon-mashed-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/72574/dijon-mashed-potatoes/",
+  "title": "Dijon Mashed Potatoes",
+  "description": "Mashed potatoes with an extra kick from Dijon mustard!",
+  "authors": [
+    "ANASTASIABMOM"
+  ],
+  "date_published": "2020-02-13T21:00:08-05:00",
+  "date_modified": "2025-01-28T19:05:37-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 large potatoes, peeled and cubed",
+    "0.75 cup reduced fat sour cream",
+    "0.5 cup nonfat milk",
+    "2 tablespoons Dijon mustard",
+    "garlic salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place the cubed potatoes in a pot with enough water to cover. Bring to a boil, and cook 15 minutes, or until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain potatoes and transfer to a bowl. Mash with a potato masher, and gradually mix in the sour cream, nonfat milk, and Dijon mustard. Season with garlic salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "294 kcal",
+    "carbohydrateContent": "55 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "314 mg",
+    "sugarContent": "4 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ijJv803-44ziCBwed5Yxvj5ladw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/795393-92fb55b21d604624aaa1bf2179a464ec.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/72574/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

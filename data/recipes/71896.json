@@ -1,0 +1,82 @@
+{
+  "id": "71896",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/71896/sweet-rice-and-mango/",
+  "requested_url": "https://www.allrecipes.com/recipe/71896/sweet-rice-and-mango/",
+  "title": "Sweet Rice and Mango",
+  "description": "Delicious, simple dessert inspired by Thai cuisine. Refreshing and flavorful, this is a family favorite! Great after a chicken curry meal.",
+  "authors": [
+    "Island Girl"
+  ],
+  "date_published": "2020-06-18T23:10:48-04:00",
+  "date_modified": "2022-12-16T18:08:52-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "regions": [
+    "Thai"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups uncooked short-grain white rice",
+    "2 cups water",
+    "0.75 cup white sugar, or to taste",
+    "2 mangos, peeled and sliced",
+    "0.5 cup cream of coconut"
+  ],
+  "steps": [
+    {
+      "text": "Combine the rice and water in a saucepan. Bring to a boil, then cover and reduce heat to low. Simmer for 15 to 20 minutes, until water is absorbed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix the desired amount of sugar into the hot rice. Portion the rice into 4 bowls. Top with mango slices, and pour some cream of coconut over the top of each bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "588 kcal",
+    "carbohydrateContent": "130 g",
+    "fiberContent": "4 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "69 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IX4iPqMx8aF98eAk8qAeVw_K-OE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14342-7e92002fe80d4e35acb9a00d8fcd6e81.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/71896/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "70579",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/70579/excellent-broccoli-cheese-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/70579/excellent-broccoli-cheese-soup/",
+  "title": "Excellent Broccoli Cheese Soup",
+  "description": "This fresh broccoli cheese soup is easy to make on the stovetop with roux, chicken stock, milk, white pepper, and both processed and Cheddar cheese.",
+  "authors": [
+    "NATHAN TRUAX"
+  ],
+  "date_published": "2018-06-08T09:23:16-04:00",
+  "date_modified": "2024-01-09T16:14:54-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "18"
+  ],
+  "categories": [
+    "Lunch",
+    "Dinner",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup butter",
+    "0.75 cup all-purpose flour",
+    "9 cups chicken stock",
+    "9 cups milk",
+    "1.5 teaspoons white pepper",
+    "1 teaspoon salt",
+    "5 cups fresh broccoli florets",
+    "1.5 pounds processed cheese, shredded",
+    "3 cups shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large pot over medium heat and stir in flour. Reduce heat to low and cook, stirring constantly, for about 2 minutes. Pour in chicken stock and milk; season with white pepper and salt. Bring to a boil, then reduce heat to low and simmer for about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, bring a second large pot of lightly salted water to a boil. Cook broccoli in boiling water until just tender, about 2 minutes. Remove from heat, drain, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gradually stir processed cheese and Cheddar cheese into milk-stock mixture until melted. Stir in broccoli and continue cooking until broccoli is tender, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/yQJtXrhfH2A15fLCTFVJ7PCZhgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/841-a761a74e3caa48be8620546c1d9262c8.jpg"
+      ],
+      "image": "assets/images/70579/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "363 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "1181 mg",
+    "sugarContent": "9 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "337"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/3ZLWHk8I-ma1DlVvV.mp4",
+    "description": "AR0728",
+    "duration": "PT4M2S",
+    "name": "Excellent Broccoli Cheese Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/3ZLWHk8I/poster.jpg?width=1280",
+    "uploadDate": "2021-06-29T21:59:19-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yQJtXrhfH2A15fLCTFVJ7PCZhgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/841-a761a74e3caa48be8620546c1d9262c8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/70579/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/70579/step_03.webp"
+    ]
+  }
+}

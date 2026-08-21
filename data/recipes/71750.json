@@ -1,0 +1,87 @@
+{
+  "id": "71750",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/71750/sweet-tamarind-chutney/",
+  "requested_url": "https://www.allrecipes.com/recipe/71750/sweet-tamarind-chutney/",
+  "title": "Tamarind Chutney",
+  "description": "Traditional tamarind chutney made with tamarind paste, ginger, and spices for a delicious sweet and sour condiment to serve with Indian appetizers.",
+  "authors": [
+    "STEELTOWN"
+  ],
+  "date_published": "2020-06-18T23:10:47-04:00",
+  "date_modified": "2026-03-14T14:30:55-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "10",
+    "1 1/4 cups"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon canola oil",
+    "1 teaspoon cumin seeds",
+    "1 teaspoon ground ginger",
+    "0.5 teaspoon cayenne pepper",
+    "0.5 teaspoon fennel seeds",
+    "0.5 teaspoon asafoetida powder",
+    "0.5 teaspoon garam masala",
+    "2 cups water",
+    "1.125 cups white sugar",
+    "3 tablespoons tamarind paste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a saucepan over medium heat. Add cumin seeds, ginger, cayenne pepper, fennel seeds, asafoetida powder, and garam masala; cook and stir for about 2 minutes to release the flavors.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir water into the pan with the spices along with sugar and tamarind paste. Bring to a boil, then simmer over low heat until the mixture turns a deep chocolaty brown and is thick enough to coat the back of a metal spoon. This should take 20 to 30 minutes. The sauce will be thin, but it will thicken upon cooling.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "113 kcal",
+    "carbohydrateContent": "26 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "23 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/j8fUQGV1V-7ETBxO8qRnrhKlKVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/252909-6e48add457484911bb40a3082f2634d0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/71750/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

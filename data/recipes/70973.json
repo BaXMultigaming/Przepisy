@@ -1,0 +1,79 @@
+{
+  "id": "70973",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/70973/nutritious-lentil-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/70973/nutritious-lentil-salad/",
+  "title": "Nutritious Lentil Salad",
+  "description": "This is the only way my family will eat lentils. It is fast, healthy, inexpensive and tastes good!",
+  "authors": [
+    "KIMDEB"
+  ],
+  "date_published": "2020-02-01T02:50:35-05:00",
+  "date_modified": "2022-07-14T17:06:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT145M",
+  "yield": [
+    "14",
+    "14 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package dried brown lentils, rinsed and drained",
+    "1 red bell pepper, seeded and chopped",
+    "1 small white onion, chopped",
+    "2 cups chopped green olives",
+    "0.5 cup olive oil",
+    "6 tablespoons lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Place lentils in a large pot with enough water to cover be a few inches. Bring to a boil, and cook until lentils are tender, about 15 minutes. Drain and rinse with cold water in a colander to cool. Let stand for a few minutes to drain well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, whisk together the olive oil and lemon juice. Add the red pepper, onion and green olives, and toss to blend. Refrigerate for about 2 hours before serving to blend the flavors. This salad tastes better the longer it sits.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "211 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "10 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "483 mg",
+    "sugarContent": "1 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fUR5K6Xb442sX2CnIbNeyfMC_A8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/103600-c8f9b2da1ec04423b5f894964e10e211.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/70973/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

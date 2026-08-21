@@ -1,0 +1,84 @@
+{
+  "id": "70282",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/70282/red-bell-pepper-coulis/",
+  "requested_url": "https://www.allrecipes.com/recipe/70282/red-bell-pepper-coulis/",
+  "title": "Red Bell Pepper Coulis",
+  "description": "A tasty sauce made from red bell peppers that goes very well over chicken as well as fish.",
+  "authors": [
+    "Skapino"
+  ],
+  "date_published": "2018-03-21T12:35:57-04:00",
+  "date_modified": "2026-08-12T18:05:09-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "2 red bell peppers, seeded and chopped",
+    "2 shallots, chopped",
+    "0.5 cup white wine",
+    "0.5 cup chicken broth",
+    "0.5 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a skillet over medium heat. Add red bell peppers and shallots; saute until soft. Stir in white wine and chicken broth, and simmer over low heat until reduced by half.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the mixture is reduced, stir in sour cream, and transfer the mixture to a blender. Puree until smooth. Reheat before serving if necessary.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "153 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "4 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fsjFJE3gH9SQfMu4e0DTLXS4hsw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8305363-fea74dd5eb364d30b56b53e0d03223cb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/70282/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

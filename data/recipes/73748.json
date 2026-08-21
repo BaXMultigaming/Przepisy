@@ -1,0 +1,82 @@
+{
+  "id": "73748",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73748/garlic-ginger-tofu/",
+  "requested_url": "https://www.allrecipes.com/recipe/73748/garlic-ginger-tofu/",
+  "title": "Garlic Ginger Tofu",
+  "description": "This garlic ginger tofu recipe is simmered in its own juices and seasoned with garlic, ginger, and lime juice. It pairs well with rice and veggies.",
+  "authors": [
+    "Syd"
+  ],
+  "date_published": "2018-03-21T12:37:52-04:00",
+  "date_modified": "2022-01-14T01:19:14-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian"
+  ],
+  "regions": [
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons canola oil",
+    "2 teaspoons minced garlic",
+    "2 teaspoons minced fresh ginger root",
+    "1 lime",
+    "1 tablespoon tamari, or to taste",
+    "2 pounds firm tofu"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a wok or skillet over medium heat. Stir in garlic and ginger, and cook for 1 minute. Add tofu to the pan with tamari and stir to coat. Cover, and continue cooking for 20 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Squeeze lime juice over tofu before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "216 kcal",
+    "carbohydrateContent": "6 g",
+    "fiberContent": "3 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "142 mg",
+    "sugarContent": "0 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/13naYUIKPJK--YmcAsZ-jlVypYQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2326423-f8458b28de7c413a863cd4e30d219913.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73748/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

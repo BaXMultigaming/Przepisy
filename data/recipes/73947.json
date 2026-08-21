@@ -1,0 +1,101 @@
+{
+  "id": "73947",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73947/shredded-beef/",
+  "requested_url": "https://www.allrecipes.com/recipe/73947/shredded-beef/",
+  "title": "Shredded Beef",
+  "description": "This easy slow cooker shredded beef recipe features a flavorful sauce made with steak seasoning, cumin, garlic, honey, and just a bit of barbeque sauce.",
+  "authors": [
+    "jvaughn504"
+  ],
+  "date_published": "2019-04-03T23:32:39-04:00",
+  "date_modified": "2026-05-26T11:11:55-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT360M",
+  "total_time": "PT390M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Sandwich"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound rump roast",
+    "1 cup water",
+    "0.25 cup barbeque sauce",
+    "2 tablespoons honey",
+    "1 tablespoon steak seasoning",
+    "1 teaspoon cumin",
+    "0.5 teaspoon onion powder",
+    "0.5 teaspoon garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "Place rump roast and water in a slow cooker. Cover and cook for 5 hours on High.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove roast from slow cooker and shred using two forks. Discard fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix barbeque sauce, honey, steak seasoning, cumin, onion powder, and garlic powder in the slow cooker. Stir in shredded beef.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook 1 hour on Low. Allow to sit for 10 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "215 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "601 mg",
+    "sugarContent": "13 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_X7tdkMmDLpkgh4-NYycUE3RRjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/840014-e5643945abe74c35866a93720304ea88.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73947/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "73139",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73139/vegetarian-tortilla-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/73139/vegetarian-tortilla-stew/",
+  "title": "Vegetarian Tortilla Stew",
+  "description": "A delicious tortilla soup for vegetarians! The veggie chicken is optional, but adds a nice texture that will please purists.",
+  "authors": [
+    "Mindy"
+  ],
+  "date_published": "2020-06-23T17:50:34-04:00",
+  "date_modified": "2025-01-24T16:34:02-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (19 ounce) can green enchilada sauce",
+    "1.5 cups water",
+    "1 cube vegetable bouillon",
+    "0.5 teaspoon garlic powder",
+    "0.25 teaspoon chili powder",
+    "0.25 teaspoon ground cumin",
+    "1 (15 ounce) can pinto beans, drained and rinsed",
+    "0.5 (16 ounce) can diced tomatoes",
+    "1 cup frozen corn",
+    "0.5 cup vegetarian chicken substitute, diced",
+    "4 (6 inch) corn tortillas, torn into strips",
+    "1 tablespoon chopped fresh cilantro",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a pot, mix the enchilada sauce and water. Dissolve the bouillon cube in the liquid, and season with garlic powder, chile powder, and cumin. Bring to a boil, and reduce heat to low. Mix in the beans, tomatoes, and corn. Simmer until heated through. Mix in vegetarian chicken and tortillas, and cook until heated through. Stir in cilantro, and season with salt and pepper to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_QMZEJzuqHTD4N4ZLeWTH9APgZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/725486-ee8899ef0f794c5893bba077c36e6556.jpg"
+      ],
+      "image": "assets/images/73139/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "347 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "565 mg",
+    "sugarContent": "3 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "256"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ltM8bD10-ma1DlVvV.mp4",
+    "description": "AR1265",
+    "duration": "PT2M35S",
+    "name": "Vegetarian Tortilla Stew",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ltM8bD10/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:54:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_QMZEJzuqHTD4N4ZLeWTH9APgZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/725486-ee8899ef0f794c5893bba077c36e6556.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73139/hero.webp",
+    "steps": [
+      "assets/images/73139/step_01.webp"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "72600",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/72600/better-burger-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/72600/better-burger-sauce/",
+  "title": "Better Burger Sauce",
+  "description": "A super burger sauce made from a zesty blend of mayonnaise and ketchup with sweet relish, chopped hard-cooked egg, green onion, and parsley.",
+  "authors": [
+    "big surprise"
+  ],
+  "date_published": "2020-06-18T23:10:53-04:00",
+  "date_modified": "2025-02-19T13:20:14-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT45M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons red wine vinegar",
+    "2 teaspoons sugar",
+    "1 cup mayonnaise",
+    "0.5 cup ketchup",
+    "0.33333334326744 cup sweet pickle relish",
+    "1 tablespoon chopped fresh parsley",
+    "0.5 bunch green onions, chopped",
+    "2 hard-cooked eggs, peeled and chopped",
+    "salt and pepper to taste",
+    "Worcestershire sauce to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Drain water, and allow to cool, then peel, chop, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, stir together the vinegar and sugar until sugar is completely dissolved. Stir in mayonnaise, ketchup, relish, parsley, green onions, and chopped egg, and stir until well blended. Season to taste with salt, pepper, and Worcestershire sauce. Cover and refrigerate until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "372 mg",
+    "sugarContent": "4 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2Z_OOQ4RnIbkW85p3f_OIcCg45Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/359575-bb545ca3b5fe451597de068e2d92847c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/72600/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

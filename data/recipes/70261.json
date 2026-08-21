@@ -1,0 +1,79 @@
+{
+  "id": "70261",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/70261/lemon-berry-slushy/",
+  "requested_url": "https://www.allrecipes.com/recipe/70261/lemon-berry-slushy/",
+  "title": "Lemon Berry Slushy",
+  "description": "This is a great summertime drink!",
+  "authors": [
+    "MGREE688"
+  ],
+  "date_published": "2020-06-18T23:10:40-04:00",
+  "date_modified": "2022-07-14T17:25:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup lemon juice",
+    "1 cup water",
+    "1 cup frozen strawberries, thawed, with juice",
+    "0.25 cup sugar",
+    "1 tray ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, blend lemon juice, water, and strawberries with juice, sugar, and ice cubes until slushy. Serve in a tall glass with a straw.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XRAoHL31hl2ABkqyq8g2cAl-bkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/834590-9a44e0b1e21d4fea9bfc292a6de38221.jpg"
+      ],
+      "image": "assets/images/70261/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "146 kcal",
+    "carbohydrateContent": "39 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "31 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "79"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/5iFGi2oM-K3AjnAEN.mp4",
+    "description": "See how to make a chilly lemon and berry slushy.",
+    "duration": "PT1M15S",
+    "name": "Lemon Berry Slushy",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5iFGi2oM/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T13:06:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XRAoHL31hl2ABkqyq8g2cAl-bkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/834590-9a44e0b1e21d4fea9bfc292a6de38221.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/70261/hero.webp",
+    "steps": [
+      "assets/images/70261/step_01.webp"
+    ]
+  }
+}

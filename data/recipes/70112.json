@@ -1,0 +1,94 @@
+{
+  "id": "70112",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/70112/blueberry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/70112/blueberry-sauce/",
+  "title": "Blueberry Sauce",
+  "description": "This blueberry sauce recipe made with fresh or frozen blueberries, sugar, and cornstarch makes a fabulous fruity topping on pancakes and more!",
+  "authors": [
+    "ISYBEL"
+  ],
+  "date_published": "2020-06-18T23:10:40-04:00",
+  "date_modified": "2025-12-23T10:51:32-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups fresh or frozen blueberries",
+    "0.25 cup water",
+    "1 cup orange juice",
+    "0.75 cup white sugar",
+    "0.25 cup cold water",
+    "3 tablespoons cornstarch",
+    "0.5 teaspoon almond extract",
+    "0.125 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Combine blueberries, 1/4 cup of water, orange juice, and sugar in a saucepan over medium heat; stir gently and bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix cornstarch and 1/4 cup cold water together in a cup or small bowl; gently stir this mixture into blueberries so as not to mash the berries. Simmer gently until thick enough to coat the back of a metal spoon, 3 to 4 minutes. Remove from heat and stir in the almond extract and cinnamon. Thin sauce with water if it is too thick for your liking.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UzdwVp6xC3YSvR-YaXpqjXbvOXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4543526-183bca469fe14a8ca9d0bae6e799a6e9.jpg"
+      ],
+      "image": "assets/images/70112/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "120 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "25 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "1030"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/LZV2XlgE-K3AjnAEN.mp4",
+    "description": "See how to make blueberry sauce.",
+    "duration": "PT1M39S",
+    "name": "Blueberry Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LZV2XlgE/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T12:14:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UzdwVp6xC3YSvR-YaXpqjXbvOXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4543526-183bca469fe14a8ca9d0bae6e799a6e9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/70112/hero.webp",
+    "steps": [
+      null,
+      "assets/images/70112/step_02.webp"
+    ]
+  }
+}

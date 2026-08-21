@@ -1,0 +1,82 @@
+{
+  "id": "72677",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/72677/potato-salad-with-chives/",
+  "requested_url": "https://www.allrecipes.com/recipe/72677/potato-salad-with-chives/",
+  "title": "Potato Salad with Chives",
+  "description": "This potato salad with chives recipe makes an easy, simple, potato side dish with a creamy and deliciously light oniony flavor from the fresh chives.",
+  "authors": [
+    "LYNNHOUSE"
+  ],
+  "date_published": "2018-06-08T09:23:39-04:00",
+  "date_modified": "2026-05-11T12:38:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.75 pounds new potatoes, halved",
+    "1 cup sour cream",
+    "0.5 cup chopped fresh chives",
+    "0.5 cup mayonnaise",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in a medium saucepan; fill with just enough water to cover. Bring to a boil, then reduce heat to low; simmer until tender, about 10 minutes. Drain; cool under cold running water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine sour cream, ½ cup chives, and mayonnaise in a large bowl; fold in potatoes. Season with salt and black pepper; garnish with remaining ½ cup chives.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "318 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "24 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "133 mg",
+    "sugarContent": "1 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/f2y1Lo0f65UNM8lF0BzZNzOEcho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3695191-de81ec01638a41978000bbbde7e31744.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/72677/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

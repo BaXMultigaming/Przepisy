@@ -1,0 +1,83 @@
+{
+  "id": "72493",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/72493/asparagus-stir-fry/",
+  "requested_url": "https://www.allrecipes.com/recipe/72493/asparagus-stir-fry/",
+  "title": "Asparagus Stir-Fry",
+  "description": "Asparagus is sauteed with a simple soy sauce and vinegar sauce. Everyone loves this side dish!",
+  "authors": [
+    "LEXJAM"
+  ],
+  "date_published": "2020-06-18T23:10:52-04:00",
+  "date_modified": "2022-05-12T15:48:53-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup chicken broth",
+    "1 tablespoon sherry",
+    "1 tablespoon soy sauce",
+    "1 tablespoon cider vinegar",
+    "1 tablespoon cornstarch",
+    "0.25 teaspoon sugar",
+    "0.25 teaspoon dry mustard",
+    "0.25 teaspoon salt",
+    "1 tablespoon vegetable oil",
+    "2 pounds fresh asparagus, trimmed and cut into 1 inch pieces"
+  ],
+  "steps": [
+    {
+      "text": "In a bowl, mix the broth, sherry, soy sauce, cider vinegar, cornstarch, sugar, dry mustard, and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the oil in a skillet over medium heat. Mix the asparagus into the skillet, coating with the oil. Cook and stir 5 minutes, until tender but firm. Pour the broth mixture over the asparagus, and continue cooking 5 minutes, until thickened and heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "46 kcal",
+    "carbohydrateContent": "6 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "199 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VRYo27GVyWjjTub6ips8LeiGjZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/asparagus-stir-fry-2000-03a83cde964b4e658b47f4ac410fc5f6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/72493/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

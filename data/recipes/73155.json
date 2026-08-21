@@ -1,0 +1,112 @@
+{
+  "id": "73155",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73155/porridge/",
+  "requested_url": "https://www.allrecipes.com/recipe/73155/porridge/",
+  "title": "Porridge",
+  "description": "This creamy porridge made with rolled oats, bananas, and cinnamon makes a warm and satisfying breakfast to get your morning off to a good start!",
+  "authors": [
+    "AnneDuncan"
+  ],
+  "date_published": "2020-06-18T23:10:56-04:00",
+  "date_modified": "2025-12-01T09:22:24-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups water",
+    "1 cup rolled oats",
+    "1 tablespoon white sugar",
+    "1 teaspoon salt",
+    "2 bananas, sliced",
+    "1 pinch ground cinnamon",
+    "0.5 cup cold milk"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jBc5P0RKwt2sCf7OgL08_hoeXQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73155-porridge-VAT-step-01-8b8e274edd404358bf6e11d5fe8f182d.jpg"
+      ],
+      "image": "assets/images/73155/step_01.webp"
+    },
+    {
+      "text": "Combine water and oats in a saucepan; season to taste with sugar and salt. Add bananas and cinnamon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/zeIQCVkkow3aKcQUg6lnl6KyI-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73155-porridge-VAT-step-02-c9198ba66db34ede8afdb93928b881ad.jpg"
+      ],
+      "image": "assets/images/73155/step_02.webp"
+    },
+    {
+      "text": "Bring to a boil, then reduce heat to low, and simmer until the liquid has been absorbed, stirring frequently.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/DpB1cYobMjkBtkj0qcV-IwM4NUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73155-porridge-VAT-step-03-2f584fcc369f47858ae222590f34b60a.jpg"
+      ],
+      "image": "assets/images/73155/step_03.webp"
+    },
+    {
+      "text": "Pour into bowls, and top each with a splash of cold milk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KslpDLtQFcoH8Hu9qhOBhFcaS1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73155-porridge-VAT-step-04-36d0daf98fb7416485faed35e1c2efe6.jpg"
+      ],
+      "image": "assets/images/73155/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "157 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "600 mg",
+    "sugarContent": "12 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-EjKvk_lbAy_9uikIR0OJKcC0EY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73155-porridge-VAT-Beauty-4x3-007183c6c14c48e38b9ae6d709a6cd7e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73155/hero.webp",
+    "steps": [
+      "assets/images/73155/step_01.webp",
+      "assets/images/73155/step_02.webp",
+      "assets/images/73155/step_03.webp",
+      "assets/images/73155/step_04.webp"
+    ]
+  }
+}

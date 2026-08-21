@@ -1,0 +1,86 @@
+{
+  "id": "69999",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/69999/indian-peanut-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/69999/indian-peanut-stew/",
+  "title": "Indian Peanut Stew",
+  "description": "This is an easy, authentic dish from South Asia that appeals to a wide range of tastes. The combination of ingredients may appear unusual, but even those shy to experiment with new flavors love this one. Vegan-friendly!",
+  "authors": [
+    "Hoolie"
+  ],
+  "date_published": "2019-04-03T23:32:15-04:00",
+  "date_modified": "2022-08-08T11:39:06-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups uncooked brown rice",
+    "6 cups water",
+    "1 tablespoon olive oil",
+    "1 large white onion, chopped",
+    "4 cloves garlic, minced",
+    "3 tablespoons grated fresh ginger root",
+    "1 (28 ounce) can diced tomatoes with juice",
+    "0.125 teaspoon cayenne pepper",
+    "1 cup chunky natural peanut butter"
+  ],
+  "steps": [
+    {
+      "text": "Place rice and water in a large saucepan and bring to a boil. Cover, and reduce heat to low. Simmer until rice is tender and water has absorbed, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large saucepan over medium-low heat. Add onion, and cook until soft and golden, stirring frequently. Add garlic and ginger, and cook until fragrant, about 5 minutes. Stir in tomatoes, and season with cayenne pepper. Increase heat to medium, and bring to a gentle simmer. Stir in peanut butter and heat through. The mixture will thicken. Serve over rice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "504 kcal",
+    "carbohydrateContent": "55 g",
+    "fiberContent": "8 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "322 mg",
+    "sugarContent": "8 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "78"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1ssQLbT68qnJ9SpPnPSiRZyQ8yw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2160705-159da7b5a82443d0bb87eb8dc39b5fb1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/69999/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

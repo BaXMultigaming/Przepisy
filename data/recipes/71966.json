@@ -1,0 +1,73 @@
+{
+  "id": "71966",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/71966/southern-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/71966/southern-sauce/",
+  "title": "Southern Sauce",
+  "description": "This sauce is great on just about anything. It can be used as a dressing, dipping sauce, and it can also be used for cheeseburgers.",
+  "authors": [
+    "Matt101"
+  ],
+  "date_published": "2020-06-18T23:10:49-04:00",
+  "date_modified": "2022-07-14T17:11:34-04:00",
+  "prep_time": "PT3M",
+  "cook_time": null,
+  "total_time": "PT3M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons mayonnaise",
+    "1 tablespoon prepared yellow mustard",
+    "1 tablespoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, mix together the mayonnaise, mustard and sugar until well blended. I like to stir 50 times clockwise, and 50 times counter clockwise to get the sauce nice and thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "55 mg",
+    "sugarContent": "2 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YBU9bS2q1w5JKXhWJds0YPoxE00=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1056479-af7754de1c744c49acb01de1ac4528d2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/71966/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

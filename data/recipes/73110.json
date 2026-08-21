@@ -1,0 +1,68 @@
+{
+  "id": "73110",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73110/peanut-butter-and-apple-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/73110/peanut-butter-and-apple-sandwich/",
+  "title": "Peanut Butter and Apple Sandwich",
+  "description": "Apple and peanut butter go great together in this quick and easy sandwich.",
+  "authors": [
+    "SAIDANDDUNN"
+  ],
+  "date_published": "2018-03-21T12:37:31-04:00",
+  "date_modified": "2022-06-15T17:50:07-04:00",
+  "prep_time": "PT2M",
+  "cook_time": null,
+  "total_time": "PT2M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices whole wheat bread",
+    "1 tablespoon peanut butter, or to taste",
+    "1 small apple - peeled, cored and shredded"
+  ],
+  "steps": [
+    {
+      "text": "Spread a thin layer of peanut butter onto one side of each slice of bread. Place shredded apple onto the peanut butter, and place the other peanut buttered side of bread on top. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "291 kcal",
+    "carbohydrateContent": "41 g",
+    "fiberContent": "7 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "344 mg",
+    "sugarContent": "16 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "85"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/t7TTvuaU2v0vOVWGmKMoiqIvlow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Peanut-Butter-and-Apple-Sandwich-Tammy-Lynn-4x3-1-2000-f5c894626f24468893b7f53faba9d373.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73110/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

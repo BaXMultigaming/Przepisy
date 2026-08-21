@@ -1,0 +1,74 @@
+{
+  "id": "73490",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73490/cottage-cheese-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/73490/cottage-cheese-salad/",
+  "title": "Cottage Cheese Salad",
+  "description": "This cottage cheese salad recipe combines green onions, cucumbers, tomatoes, and cottage cheese to make a salad that pairs well with Italian dishes!",
+  "authors": [
+    "RandiMartin"
+  ],
+  "date_published": "2018-06-08T09:23:48-04:00",
+  "date_modified": "2024-11-17T01:58:58-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) container cottage cheese, drained",
+    "4 roma (plum) tomatoes, chopped",
+    "4 green onions, chopped",
+    "2 medium cucumbers, peeled and diced",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, stir together cottage cheese, tomatoes, green onions, and cucumbers. Season with salt and pepper to taste. Chill until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "459 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "96"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gUDch6UWKOohpZvvNhXnPp2t-1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73490cottage-cheese-saladFranceC4x3-0b580f16a2504b3998c7434bfa0e32da.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73490/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "70019",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/70019/egg-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/70019/egg-butter/",
+  "title": "Egg Butter",
+  "description": "Use this unusual egg and butter spread as a sandwich filling, or as a topping for crackers or bagels.",
+  "authors": [
+    "epicureangela"
+  ],
+  "date_published": "2018-03-21T12:35:53-04:00",
+  "date_modified": "2022-01-14T02:17:33-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "1 cup"
+  ],
+  "categories": [
+    "Lunch",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "0.5 cup butter",
+    "1 pinch cayenne pepper",
+    "6 drops Worcestershire sauce"
+  ],
+  "steps": [
+    {
+      "text": "Place the eggs into a saucepan in a single layer and fill with water to cover the eggs by 1 inch. Cover the saucepan and bring the water to a boil over high heat. Once the water is boiling, remove from the heat and let the eggs stand in the hot water for 15 minutes. Cool the eggs under cold running water. Peel, and remove yolks from white. Chop yolks; reserve whites for another use.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat butter in a large bowl until soft and fluffy. Mix in the egg yolks, cayenne pepper, and Worcestershire sauce. Beat until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "257 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "266 mg",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "186 mg",
+    "sugarContent": "0 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RDDDmr-f1sWWeMaInG-N-Tvq27U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221973-3ff0f5735a924cb8829848c31d1545d9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/70019/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

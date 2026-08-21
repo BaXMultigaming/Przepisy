@@ -1,0 +1,101 @@
+{
+  "id": "73303",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73303/mexican-rice-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/73303/mexican-rice-iii/",
+  "title": "Mexican Rice with Bell Pepper",
+  "description": "This Mexican rice with bell peppers (not to be confused with Spanish rice) is excellent. I make it as a side to serve with all of my Mexican dishes.",
+  "authors": [
+    "ALANASMOM"
+  ],
+  "date_published": "2019-04-02T02:46:28-04:00",
+  "date_modified": "2026-07-09T12:42:00-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 cup long grain white rice",
+    "1.5 cups chicken broth",
+    "1 tomato, seeded and chopped",
+    "0.5 onion, finely chopped",
+    "0.5 green bell pepper, finely chopped",
+    "1 fresh jalapeno pepper, chopped",
+    "0.5 cup chopped fresh cilantro",
+    "1 cube chicken bouillon",
+    "1 clove garlic, halved",
+    "0.5 teaspoon ground cumin",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a medium saucepan over medium heat. Add rice; cook and stir for 3 minutes. Pour in chicken broth and bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in tomato, onion, bell pepper, and jalapeño. Add cilantro, bouillon, garlic, cumin, salt, and pepper; bring to a boil. Cover, reduce the heat to low, and simmer until rice is tender and all liquid has been absorbed, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LR12RUAjjk1GBR2grM_EIc-o5pc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/690435-8f381ca06a1c4869b3f0758660d16258.jpg"
+      ],
+      "image": "assets/images/73303/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "158 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "631 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1137"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/As0kXpAF-ma1DlVvV.mp4",
+    "description": "AR0683",
+    "duration": "PT4M52S",
+    "name": "Mexican Rice III",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/As0kXpAF/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T11:34:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LR12RUAjjk1GBR2grM_EIc-o5pc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/690435-8f381ca06a1c4869b3f0758660d16258.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73303/hero.webp",
+    "steps": [
+      null,
+      "assets/images/73303/step_02.webp"
+    ]
+  }
+}

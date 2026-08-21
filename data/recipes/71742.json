@@ -1,0 +1,85 @@
+{
+  "id": "71742",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/71742/carrot-and-coriander-soup-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/71742/carrot-and-coriander-soup-ii/",
+  "title": "Carrot and Coriander Soup II",
+  "description": "I learned to make this soup after living in the United Kingdom for 10 years. This soup is incredibly simple to make with just a few ingredients. Coriander is the British word for cilantro, which gives this soup a smooth flavor.",
+  "authors": [
+    "VCOLLO"
+  ],
+  "date_published": "2020-03-09T22:50:43-04:00",
+  "date_modified": "2020-03-09T22:50:43-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large carrots, cut into 1 inch pieces",
+    "0.25 large onion, chopped",
+    "1 quart vegetable broth",
+    "0.5 cup chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Place the carrots, onion, vegetable broth and cilantro into a large saucepan. Bring to a boil, and cook until the carrots are tender, about 10 minutes. Remove from heat and allow to cool slightly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Puree the soup until smooth, using a blender or food processor. Reheat before serving if necessary.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/d0eR12AuzxiWTae9kaeXxUizE_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6246507-4a3ede811a8040be900aa53686e8a73e.jpg"
+      ],
+      "image": "assets/images/71742/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "342 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "29"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RsQq6bjL-K3AjnAEN.mp4",
+    "description": "This simple vegan soup is made with only 4 ingredients - it can't get any easier. You can of course spruce it up with more spices or cream but it's tasty just as written. This recipe is originally from Britain where cilantro is called coriander.",
+    "duration": "PT1M3S",
+    "name": "Carrot and Coriander Soup II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RsQq6bjL/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:31:27-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d0eR12AuzxiWTae9kaeXxUizE_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6246507-4a3ede811a8040be900aa53686e8a73e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/71742/hero.webp",
+    "steps": [
+      null,
+      "assets/images/71742/step_02.webp"
+    ]
+  }
+}

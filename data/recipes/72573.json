@@ -1,0 +1,85 @@
+{
+  "id": "72573",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/72573/simple-sponge-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/72573/simple-sponge-cake/",
+  "title": "Simple Sponge Cake",
+  "description": "This is a simple sponge cake that can be made in no time at all with only three ingredients. What have you got to lose?",
+  "authors": [
+    "Ross"
+  ],
+  "date_published": "2018-03-21T12:37:08-04:00",
+  "date_modified": "2018-03-21T12:37:08-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 eggs",
+    "0.5 cup castor sugar or superfine sugar",
+    "0.66666668653488 cup self-rising flour"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease an 8 or 9 inch round cake pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, whip together the eggs and castor sugar until fluffy. Fold in flour. Pour into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 20 minutes in the preheated oven, or until the top of the cake springs back when lightly pressed. Cool in the pan over a wire rack.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "140 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "317 mg",
+    "sugarContent": "25 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DsVCf2izgN7BLR8YSzU2L7dSvxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3626-bdf51a2bf86043b38fe63d46af77f335.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/72573/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

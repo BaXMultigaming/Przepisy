@@ -1,0 +1,80 @@
+{
+  "id": "72852",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/72852/peanut-butter-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/72852/peanut-butter-ice-cream/",
+  "title": "Peanut Butter Ice Cream",
+  "description": "Creamy peanut butter ice cream. Great with chocolate syrup or chocolate cake. The ultimate peanut butter lover&#39;s indulgence.",
+  "authors": [
+    "jbeech"
+  ],
+  "date_published": "2020-06-18T23:10:54-04:00",
+  "date_modified": "2020-06-18T23:10:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT205M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups half-and-half cream",
+    "3 cups non-fat dry milk",
+    "3 cups milk",
+    "1.5 cups sugar",
+    "1.5 cups peanut butter",
+    "4 teaspoons vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Pour the half-and-half, dry milk, and milk into a large saucepan over low heat. Cook until heated, stirring to dissolve the dry milk. Stir in the peanut butter and sugar until smooth and sugar has dissolved. Remove from heat, and stir in the vanilla. Cool mixture, and refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir the mixture, or blend in a blender before pouring into an ice cream maker. Freeze according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "535 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "367 mg",
+    "sugarContent": "47 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ur7gDdydPv9IAkg1EBvdCzCfydQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3665424-647eb9769bd04b05951df72d3d519aac.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/72852/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "73108",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73108/moist-garlic-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/73108/moist-garlic-chicken/",
+  "title": "Moist Garlic Chicken",
+  "description": "Chicken breasts are cooked in stock with butter, garlic salt, and herbs in this quick and easy microwave recipe for tender, moist garlic chicken.",
+  "authors": [
+    "MINDERK"
+  ],
+  "date_published": "2019-04-03T23:32:34-04:00",
+  "date_modified": "2023-01-10T16:40:29-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "2 cubes chicken bouillon",
+    "0.5 cup butter",
+    "1 tablespoon dried Italian seasoning",
+    "0.5 teaspoon dried dill weed",
+    "1 teaspoon garlic salt, or to taste",
+    "4 skinless, boneless chicken breast halves"
+  ],
+  "steps": [
+    {
+      "text": "Pour water into a microwave-safe casserole dish and place it in the microwave. Heat until boiling, about 2 minutes. Stir in bouillon cubes, butter, Italian seasoning, dill, and garlic salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pierce chicken breasts with a fork on one side; place pierced-side down in the casserole dish. Chicken should be almost covered by liquid, if not completely covered.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the dish; cook in the microwave for 10 minutes, or until chicken is no longer pink, and juices run clear. If chicken is not done after 10 minutes, continue to cook at 1 1/2 minute intervals.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "332 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "122 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "1246 mg",
+    "sugarContent": "0 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "55"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fTeZ3rUPEGcVzsMOuLSlXWnPPfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2392222-moist-garlic-chicken-clarm060-4x3-1-003f5a63e33641d7ab010a01f1a38c1e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73108/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

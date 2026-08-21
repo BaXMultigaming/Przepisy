@@ -1,0 +1,132 @@
+{
+  "id": "73350",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73350/shrimp-burritos/",
+  "requested_url": "https://www.allrecipes.com/recipe/73350/shrimp-burritos/",
+  "title": "Shrimp Burritos",
+  "description": "These shrimp burritos are filled with seasoned refried beans, cumin-flavored rice, creamy chipotle sauce, cheese, salsa, and juicy, pan-seared shrimp.",
+  "authors": [
+    "SHACKL"
+  ],
+  "date_published": "2019-04-02T02:46:28-04:00",
+  "date_modified": "2026-04-17T17:06:21-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT35M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 burritos"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "0.5 cup chopped onion",
+    "0.75 cup long-grain white rice",
+    "0.75 teaspoon garlic salt",
+    "0.75 teaspoon cumin",
+    "1.5 cups chicken broth",
+    "0.5 cup canned diced tomatoes",
+    "0.5 cup plain yogurt",
+    "0.5 cup mayonnaise",
+    "2 teaspoons pureed chipotle peppers in adobo sauce",
+    "1 (16 ounce) can refried beans",
+    "0.75 teaspoon garlic salt",
+    "0.5 teaspoon ground black pepper",
+    "cooking spray",
+    "12 ounces frozen cooked shrimp without tails, thawed",
+    "2 teaspoons minced garlic",
+    "1.5 cups shredded Cheddar cheese, or to taste",
+    "6 (10 inch) flour tortillas, warmed",
+    "0.33333334326744 cup salsa, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook rice: Heat oil in a saucepan over medium heat. Cook and stir onion in hot oil until tender. Add rice, garlic salt, and cumin. Cook and stir until rice is lightly toasted, about 5 minutes. Pour in broth and tomatoes; bring to a boil. Reduce heat to low, cover, and cook until liquid is absorbed, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While rice is cooking, make chipotle sauce: Stir together yogurt, mayonnaise, and chipotle peppers in a small bowl until smooth. Refrigerate until ready to use.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Make refried beans: Stir together refried beans, garlic salt, and black pepper in a small saucepan over low heat. Cook, stirring occasionally, until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook shrimp: Heat a skillet over medium-high heat; coat with cooking spray. Stir together shrimp and garlic in a large bowl until combined. Sauté shrimp mixture in the hot skillet until heated through and lightly browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Assemble burritos: Place 1/4 cup cheese onto each warm tortilla. Lay shrimp evenly over cheese. Top each with about 1/4 cup beans and 1/4 cup rice. Drizzle with desired amount of chipotle sauce and salsa. Roll up burrito-style to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3yhKSsbxoyTU5uVdaulRwdCKIL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/35601-shrimp-burritos-cookinmama-1x1-1-9c988072a8f54697949cff70df9d97ea.jpg"
+      ],
+      "image": "assets/images/73350/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "866 kcal",
+    "carbohydrateContent": "73 g",
+    "cholesterolContent": "160 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "2042 mg",
+    "sugarContent": "5 g",
+    "fatContent": "46 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "210"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/uImAOhwA-K3AjnAEN.mp4",
+    "description": "AR_MAR_0011",
+    "duration": "PT3M12S",
+    "name": "Shrimp Burritos",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/uImAOhwA/poster.jpg?width=1280",
+    "uploadDate": "2021-07-10T12:23:38-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3yhKSsbxoyTU5uVdaulRwdCKIL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/35601-shrimp-burritos-cookinmama-1x1-1-9c988072a8f54697949cff70df9d97ea.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73350/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/73350/step_05.webp"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "73470",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/73470/greek-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/73470/greek-green-beans/",
+  "title": "Greek Green Beans",
+  "description": "A nice mix of green beans, onion, and tomatoes simmered until soft and delicious! Just like Yia Yia used to make!",
+  "authors": [
+    "COLEE576"
+  ],
+  "date_published": "2020-06-18T23:10:58-04:00",
+  "date_modified": "2026-03-03T12:58:13-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT55M",
+  "total_time": "PT75M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup olive oil",
+    "2 cups chopped onions",
+    "1 clove garlic, minced",
+    "2 pounds fresh green beans, rinsed and trimmed",
+    "3 large tomatoes, diced",
+    "2 teaspoons sugar",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a large skillet over medium heat. Cook and stir the onions and garlic in the skillet until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix the green beans, tomatoes, sugar, and salt into the skillet. Reduce heat to low, and continue cooking 45 minutes, or until beans are soft.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1XKEt4WsV_hExf27DrGM0xHPHuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73470-greek-green-beans-VAT-Beauty-4x3-c2285a43094f4a4da5d903eb29f28e65.jpg"
+      ],
+      "image": "assets/images/73470/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "243 kcal",
+    "carbohydrateContent": "15 g",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "6 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "190"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Dhs0DNix-K3AjnAEN.mp4",
+    "description": "Green beans simmer with tomatoes and onions until tender and yummy.",
+    "duration": "PT1M39S",
+    "name": "Greek Green Beans",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Dhs0DNix/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T02:02:39-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1XKEt4WsV_hExf27DrGM0xHPHuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/73470-greek-green-beans-VAT-Beauty-4x3-c2285a43094f4a4da5d903eb29f28e65.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/73470/hero.webp",
+    "steps": [
+      null,
+      "assets/images/73470/step_02.webp"
+    ]
+  }
+}
