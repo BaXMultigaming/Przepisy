@@ -1,0 +1,93 @@
+{
+  "id": "134261",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/134261/carne-con-chile-rojo/",
+  "requested_url": "https://www.allrecipes.com/recipe/134261/carne-con-chile-rojo/",
+  "title": "Carne con Chile Rojo",
+  "description": "Beef slices are simmered together with a chile-tomato sauce in this spicy and delicious main dish.",
+  "authors": [
+    "Rosa Isel"
+  ],
+  "date_published": "2018-06-08T09:44:46-04:00",
+  "date_modified": "2024-12-17T11:51:34-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tomatoes, chopped",
+    "10 fresh chile de arbol peppers, chopped",
+    "1 clove garlic",
+    "2 teaspoons vegetable oil",
+    "2 pounds beef chuck roast, cut into 1/4-inch slices",
+    "salt and pepper to taste",
+    "1 cube tomato-flavored bouillon"
+  ],
+  "steps": [
+    {
+      "text": "Cook the tomatoes and peppers together in a small saucepan, or in the microwave until softened. Place into the bowl of a blender with the garlic clove, and puree until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat the vegetable oil in a large skillet over medium-high heat. Season the beef with salt and pepper to taste, then fry in the skillet until no longer pink.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Once cooked, pour in the tomato puree, and add the bouillon cube. Stir until the bouillon cube dissolves, then cook for 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "51 mg",
+    "sugarContent": "1 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_k4rShZ3x6qzJwyQOpLtnBTu5eY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1114856-carne-con-chile-rojo-ninad-4x3-1-beff05faeaac410bbac4a9ea59726a31.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/134261/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

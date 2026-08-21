@@ -1,0 +1,109 @@
+{
+  "id": "130503",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/130503/little-smokies/",
+  "requested_url": "https://www.allrecipes.com/recipe/130503/little-smokies/",
+  "title": "Little Smokies",
+  "description": "These little smokies, or cocktail weiners, are easy to make in the slow cooker with BBQ sauce and brown sugar, for a crowd-pleasing party appetizer.",
+  "authors": [
+    "jrh05"
+  ],
+  "date_published": "2020-03-05T00:04:03-05:00",
+  "date_modified": "2025-12-12T09:10:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT120M",
+  "total_time": "PT130M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (18 ounce) bottle barbeque sauce",
+    "1 cup packed brown sugar",
+    "0.5 cup ketchup",
+    "0.33333334326744 cup chopped onion",
+    "1 tablespoon Worcestershire sauce",
+    "2 (16 ounce) packages little wieners"
+  ],
+  "steps": [
+    {
+      "text": "Stir barbecue sauce, brown sugar, ketchup, onion, Worcestershire sauce, and cocktail sausages in the bowl of a slow cooker until evenly coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2JyedQ8Qx_lwChiko3u0jToZjP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/130503-little-smokies-VAT-step-01-9782bec0406c4be09eb94aa0fb1d0cdd.jpg"
+      ],
+      "image": "assets/images/130503/step_01.webp"
+    },
+    {
+      "text": "Cover and cook on Low until heated through and sauce is thickened, about 2 hours. Keep warm on the Low or Warm setting for serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/oiQ4V2UknS4SuW-QI1_szB02M8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/130503-little-smokies-VAT-step-02-206fab59ef9743daa21e485b057f5e98.jpg"
+      ],
+      "image": "assets/images/130503/step_02.webp"
+    },
+    {
+      "text": "Serve with toothpicks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ozD15SSgt-1EQGO-j53PfGI9ArA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/130503-little-smokies-VAT-Beauty-4x3-43b473edae7944cca77f3b474a9651ad.jpg"
+      ],
+      "image": "assets/images/130503/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "285 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1040 mg",
+    "sugarContent": "24 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "207"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/ZoxMa6nh-K3AjnAEN.mp4",
+    "description": "In this video, we'll show you how to make an easy appetizer in a slow cooker. We'll make a sauce from ketchup, Worcestershire, onion, and BBQ sauce. Then, add a few packages of little wieners and set the slow cooker for two hours.",
+    "duration": "PT1M1S",
+    "name": "Little Smokies",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ZoxMa6nh/thumbnails/2GMByIsl.jpg?width=1280",
+    "uploadDate": "2021-07-21T15:55:03-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ozD15SSgt-1EQGO-j53PfGI9ArA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/130503-little-smokies-VAT-Beauty-4x3-43b473edae7944cca77f3b474a9651ad.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/130503/hero.webp",
+    "steps": [
+      "assets/images/130503/step_01.webp",
+      "assets/images/130503/step_02.webp",
+      "assets/images/130503/step_03.webp"
+    ]
+  }
+}

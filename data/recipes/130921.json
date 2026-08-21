@@ -1,0 +1,83 @@
+{
+  "id": "130921",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/130921/curry-cheddar-scrambled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/130921/curry-cheddar-scrambled-eggs/",
+  "title": "Curry Cheddar Scrambled Eggs",
+  "description": "The best, creamiest scrambled eggs are flavored with curry and Cheddar cheese. Try these once and you&#39;ll be hooked!",
+  "authors": [
+    "Dave Baker"
+  ],
+  "date_published": "2018-06-08T09:44:03-04:00",
+  "date_modified": "2024-12-20T13:53:43-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 teaspoon curry powder",
+    "Salt and pepper, to taste",
+    "2 large eggs, beaten",
+    "2 tablespoons shredded Cheddar cheese",
+    "0.5 teaspoon margarine or butter"
+  ],
+  "steps": [
+    {
+      "text": "Sprinkle the curry powder, salt and pepper onto the beaten eggs; beat together until well blended. Stir in the Cheddar cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the margarine in a skillet over medium heat. Pour in the eggs, and cook, stirring constantly until firmed to desired temperature, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "390 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "556 mg",
+    "sugarContent": "1 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/anK7uMVePiycwfvK4dEtk5qpppk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4513928-dda7346521944b2b99f256b60ced901b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/130921/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

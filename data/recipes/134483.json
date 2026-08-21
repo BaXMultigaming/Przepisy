@@ -1,0 +1,114 @@
+{
+  "id": "134483",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/134483/chicago-style-hot-dog/",
+  "requested_url": "https://www.allrecipes.com/recipe/134483/chicago-style-hot-dog/",
+  "title": "Chicago-Style Hot Dog",
+  "description": "All-beef hot dog on a poppy seed bun with mustard, relish, onion, tomato, pickle, sport peppers, and celery salt, made Chicago-style with no ketchup.",
+  "authors": [
+    "elsaw"
+  ],
+  "date_published": "2015-07-21T02:00:14-04:00",
+  "date_modified": "2025-10-15T10:17:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 all-beef hot dog",
+    "1 poppy seed hot dog roll",
+    "1 tablespoon yellow mustard",
+    "1 tablespoon sweet green pickle relish",
+    "1 tablespoon chopped onion",
+    "4 tomato wedges",
+    "1 dill pickle spear",
+    "2 sport peppers",
+    "1 dash celery salt"
+  ],
+  "steps": [
+    {
+      "text": "Bring a pot of water to a boil over high heat. Reduce heat to low, place hot dog in water, and cook until warmed through, about 5 minutes. Remove hot dog from water and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rKebmeKs2uJgxGHuuxNHoAgCnak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134483-chicago-style-hot-dog-ddmfs-step1-339-c915f374649d4d868a19731ff570546a.jpg"
+      ],
+      "image": "assets/images/134483/step_01.webp"
+    },
+    {
+      "text": "Place a steamer basket into the pot and steam poppy seed bun until warm, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WGgHH0OhhmDPJ3fqJjYTPx7vJHM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134483-chicago-style-hot-dog-ddmfs-step2-341-9306894f113e499390435d35f8402535.jpg"
+      ],
+      "image": "assets/images/134483/step_02.webp"
+    },
+    {
+      "text": "Place hot dog in steamed bun. Pile on toppings in this order: mustard, relish, onion, tomato, pickle, peppers, and celery salt. The tomato wedges should be nestled between hot dog and top of bun on one side. Place pickle between hot dog and bottom of bun on the other side. Don't even think about ketchup!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/III5nwFFJgJUUNocTUAUcxY5tnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134483-chicago-style-hot-dog-DDMFS-4x3-046e7cb4c2c34b1899211bc78fcc1e31.jpg"
+      ],
+      "image": "assets/images/134483/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "682 kcal",
+    "carbohydrateContent": "73 g",
+    "cholesterolContent": "56 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1925 mg",
+    "sugarContent": "20 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "312"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/LQlt2xmw-K3AjnAEN.mp4",
+    "description": "This hot dog is a Windy City classic and a big favorite with sports fans! The frank must be all-beef; the bun must be poppy seed; and the ingredients must be piled onto the bun in the order specified. And whatever you do, don't spoil the splendor of this Chicago dog with ketchup!",
+    "duration": "PT43S",
+    "name": "Chicago-Style Hot Dog Recipe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LQlt2xmw/poster.jpg?width=1280",
+    "uploadDate": "2023-01-13T15:37:41-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/III5nwFFJgJUUNocTUAUcxY5tnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134483-chicago-style-hot-dog-DDMFS-4x3-046e7cb4c2c34b1899211bc78fcc1e31.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/134483/hero.webp",
+    "steps": [
+      "assets/images/134483/step_01.webp",
+      "assets/images/134483/step_02.webp",
+      "assets/images/134483/step_03.webp"
+    ]
+  }
+}

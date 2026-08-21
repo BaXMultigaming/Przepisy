@@ -1,0 +1,70 @@
+{
+  "id": "127533",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/127533/green-tea-latte/",
+  "requested_url": "https://www.allrecipes.com/recipe/127533/green-tea-latte/",
+  "title": "Green Tea Latte",
+  "description": "Green tea powder and soy milk make a great version of the traditional latte.",
+  "authors": [
+    "hen"
+  ],
+  "date_published": "2020-06-18T23:25:59-04:00",
+  "date_modified": "2020-06-18T23:25:59-04:00",
+  "prep_time": "PT1M",
+  "cook_time": "PT1M",
+  "total_time": "PT2M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup soy milk",
+    "1 cup water",
+    "1 tablespoon green tea powder (matcha)",
+    "2 tablespoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a small saucepan, combine the soy milk, water, green tea powder and sugar. Warm over medium heat while whisking until hot and foamy. Pour into mugs and enjoy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "66 mg",
+    "sugarContent": "17 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XbIEbw9xC6R6zm4EzpQDuCPwvWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4570757-d2924f0d93f44d77ab7baee4eb2464c5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/127533/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

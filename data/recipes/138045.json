@@ -1,0 +1,85 @@
+{
+  "id": "138045",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/138045/elvis-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/138045/elvis-sandwich/",
+  "title": "Elvis Sandwich",
+  "description": "This sandwich may sound unappealing, but it&#39;s actually very tasty, especially on cold winter days! Legend has it that this was a favorite of The King.",
+  "authors": [
+    "Zach"
+  ],
+  "date_published": "2019-04-03T02:30:43-04:00",
+  "date_modified": "2026-04-24T12:18:55-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Sandwich"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons peanut butter",
+    "2 slices white bread",
+    "1 banana, peeled and sliced",
+    "3 slices cooked bacon",
+    "1.5 teaspoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Spread the peanut butter on one side of one slice of bread. Top with sliced banana, then slices of cooked bacon. Cover with the other slice of bread. Spread butter on the outside of the sandwich.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a skillet over medium heat. Fry the sandwich on each side until golden brown and peanut butter is melted, about 4 minutes total.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "579 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "609 mg",
+    "sugarContent": "21 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zgkeHnAC0vc74yaZnjutW7kXmH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/205605-3da828b025e146d383b1fee395aea381.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/138045/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

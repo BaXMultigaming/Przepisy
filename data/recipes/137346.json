@@ -1,0 +1,106 @@
+{
+  "id": "137346",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/137346/cream-cheese-fruit-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/137346/cream-cheese-fruit-salad/",
+  "title": "Cream Cheese Fruit Salad",
+  "description": "This creamy fruit salad is quick and easy to make for any summer occasion with canned, fresh, and dried fruits, cream cheese, and whipped topping.",
+  "authors": [
+    "Amy"
+  ],
+  "date_published": "2020-06-18T23:28:50-04:00",
+  "date_modified": "2025-11-24T07:59:05-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Side Dish",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "0.25 cup white sugar, or to taste",
+    "1 (12 ounce) container frozen whipped topping, thawed",
+    "1 (15.25 ounce) can crushed pineapple, drained",
+    "1 (15.25 ounce) can fruit cocktail, drained",
+    "3 bananas, peeled and sliced",
+    "1 large Jonagold apple, peeled and chopped",
+    "0.5 cup sweetened flaked coconut",
+    "0.5 cup chopped pecans",
+    "0.5 cup golden raisins",
+    "1 (4 ounce) jar maraschino cherries, drained and halved"
+  ],
+  "steps": [
+    {
+      "text": "Beat cream cheese and sugar together in a large bowl with an electric mixer. Mix in whipped topping on high speed until incorporated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/xsjPLOBqTaUDf1GKzqnl9vljBpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/137346-cream-cheese-fruit-salad-VAT-step-01-d891ea855f804541950da2c9d9693ce7.jpg"
+      ],
+      "image": "assets/images/137346/step_01.webp"
+    },
+    {
+      "text": "Fold in pineapple, fruit cocktail, bananas, apple, coconut, pecans, raisins, and cherries.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KwrKu0hNLCci9CBU9wSnQ8NLuoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/137346-cream-cheese-fruit-salad-VAT-step-02-4bff4960c0994fa79532f91ea70129db.jpg"
+      ],
+      "image": "assets/images/137346/step_02.webp"
+    },
+    {
+      "text": "Transfer to a serving bowl, cover, and chill for at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/psqYLUEFp-e_v67HtAZXBp39kqU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/137346-cream-cheese-fruit-salad-VAT-step-03-aae761be36694aa880a831f9d04450f7.jpg"
+      ],
+      "image": "assets/images/137346/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "486 kcal",
+    "carbohydrateContent": "61 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "111 mg",
+    "sugarContent": "46 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7kqofnzzH4Z-X0GlwO-nKy9O1IQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/137346-cream-cheese-fruit-salad-VAT-Beauty-4x3-abb080428f2046f2ab3d385863a70e4d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/137346/hero.webp",
+    "steps": [
+      "assets/images/137346/step_01.webp",
+      "assets/images/137346/step_02.webp",
+      "assets/images/137346/step_03.webp"
+    ]
+  }
+}

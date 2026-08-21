@@ -1,0 +1,86 @@
+{
+  "id": "137606",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/137606/garlic-cilantro-scrambled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/137606/garlic-cilantro-scrambled-eggs/",
+  "title": "Garlic-Cilantro Scrambled Eggs",
+  "description": "A blend of garlic and cilantro with scrambled eggs. A refreshing way to start your day.",
+  "authors": [
+    "David Smith"
+  ],
+  "date_published": "2018-06-08T09:45:48-04:00",
+  "date_modified": "2024-11-23T02:57:24-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large eggs",
+    "1 tablespoon sour cream",
+    "0.25 cup milk",
+    "1 clove garlic, minced",
+    "0.25 cup chopped fresh cilantro",
+    "salt and pepper to taste",
+    "1 tablespoon butter",
+    "1.5 teaspoons freshly grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together eggs, sour cream, milk, and garlic until smooth; add cilantro and season to taste with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a nonstick skillet over medium heat. Pour in egg mixture and cook to desired degree of doneness, stirring constantly. Sprinkle with Parmesan cheese to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "394 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "224 mg",
+    "sugarContent": "2 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "67"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kofjgttJuT2adrkAD58DlGxl2Jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4516109-1f9a28711f2f40adb0dc2cb9439b666d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/137606/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

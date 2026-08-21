@@ -1,0 +1,83 @@
+{
+  "id": "112408",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/112408/thanksgiving-beets/",
+  "requested_url": "https://www.allrecipes.com/recipe/112408/thanksgiving-beets/",
+  "title": "Thanksgiving Beets",
+  "description": "Try this beet recipe for hearty beets cooked in a spicy glaze. It&#39;s a delicious side dish that can be frozen and used later if you like.",
+  "authors": [
+    "DOGSTAR1"
+  ],
+  "date_published": "2020-03-05T00:00:21-05:00",
+  "date_modified": "2022-11-18T16:32:18-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds beets, peeled and sliced",
+    "0.25 cup water",
+    "3 tablespoons brown sugar",
+    "3 tablespoons vinegar",
+    "1 tablespoon cornstarch",
+    "0.5 teaspoon ground cinnamon",
+    "0.25 teaspoon ground nutmeg",
+    "0.25 teaspoon ground cloves",
+    "2 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Place beets into a large saucepan and pour in enough water to cover by 1 inch. Bring to a boil over high heat, then reduce the heat to medium-low, cover, and simmer until beets are easily pierced with a fork, about 10 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk 1/4 cup water, brown sugar, vinegar, cornstarch, cinnamon, nutmeg, and cloves together in a saucepan over medium heat. Add beets and butter and cook, stirring constantly, until mixture comes to a boil. Cook until sauce thickens slightly, 1 to 2 minutes. Serve hot or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "199 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "222 mg",
+    "sugarContent": "25 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "96"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/60y_qU-fXWvhoo6D70ICb1upVf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9428119-1e28ce3e6b754699b0568d164b5f09cc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/112408/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

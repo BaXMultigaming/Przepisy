@@ -1,0 +1,91 @@
+{
+  "id": "132011",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/132011/pumpkin-buns/",
+  "requested_url": "https://www.allrecipes.com/recipe/132011/pumpkin-buns/",
+  "title": "Pumpkin Buns",
+  "description": "These pan-fried buns are flavored with fresh pumpkin and brown sugar. They&#39;re an excellent snack to go with tea or coffee.",
+  "authors": [
+    "RADHIKA GHATAGE"
+  ],
+  "date_published": "2020-03-05T00:04:05-05:00",
+  "date_modified": "2025-05-02T17:52:29-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT55M",
+  "yield": [
+    "12",
+    "12 buns"
+  ],
+  "categories": [
+    "Bread"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup grated fresh pumpkin",
+    "0.5 cup soft brown sugar",
+    "1 pinch salt",
+    "1 cup whole wheat flour",
+    "1 teaspoon vegetable oil",
+    "vegetable oil for deep-frying"
+  ],
+  "steps": [
+    {
+      "text": "Combine the pumpkin, brown sugar, and salt in a small saucepan over medium-low heat; cook until the brown sugar dissolves. Remove from heat and allow to cool to room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir the flour into the cooled pumpkin mixture to form a dough. Add 1 teaspoon of vegetable oil to the dough; allow to rest 5 minutes. Roll the dough into 12 even-sized balls and flatten to about 2-inches in diameter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the remaining vegetable oil in a skillet over medium-hot heat. Fry the dough in the hot oil until lightly brown on each side. Drain on a plate lined with paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "17 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "9 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eyXtvWOkmNacwuU27PSSZ6j0cks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2782788-77673a77d4b34d42a1c007697b9d6072.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/132011/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

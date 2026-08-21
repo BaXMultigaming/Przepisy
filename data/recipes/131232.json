@@ -1,0 +1,79 @@
+{
+  "id": "131232",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/131232/honey-balsamic-vinaigrette/",
+  "requested_url": "https://www.allrecipes.com/recipe/131232/honey-balsamic-vinaigrette/",
+  "title": "Honey Balsamic Vinaigrette",
+  "description": "This honey balsamic vinaigrette recipe, with onion, garlic, red pepper flakes, soy sauce, honey, and sugar was inspired by the one from TGI Fridays.",
+  "authors": [
+    "CATHYRAE"
+  ],
+  "date_published": "2020-06-18T23:26:53-04:00",
+  "date_modified": "2025-01-22T00:20:52-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Condiment",
+    "Ingredient",
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 small onion, chopped",
+    "0.5 cup balsamic vinegar",
+    "3 tablespoons honey",
+    "1 tablespoon soy sauce",
+    "1 tablespoon white sugar",
+    "2 cloves garlic, minced",
+    "0.5 teaspoon crushed red pepper flakes",
+    "0.66666668653488 cup extra-virgin olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine onion, vinegar, honey, soy sauce, sugar, garlic, and pepper flakes in a blender; blend on high, gradually adding olive oil until puréed. Continue blending until thick, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "143 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "78 mg",
+    "sugarContent": "7 g",
+    "fatContent": "13 g",
+    "servingSize": "1 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "306"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/N3hD7Wgw0t4PbGASU-YeAGzAnUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/131232honey-balsamic-vinaigrettelutzflcat4x3-baa622dfcebe4174b50aa787d45c25a5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/131232/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

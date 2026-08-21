@@ -1,0 +1,120 @@
+{
+  "id": "133128",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/133128/peppered-shrimp-alfredo/",
+  "requested_url": "https://www.allrecipes.com/recipe/133128/peppered-shrimp-alfredo/",
+  "title": "Peppered Shrimp Alfredo",
+  "description": "This peppered shrimp recipe includes garlic, bell pepper, and mushroom simmered in Alfredo sauce and spiced with cayenne pepper to give it an extra kick.",
+  "authors": [
+    "Jenn Zeller"
+  ],
+  "date_published": "2018-06-08T09:44:20-04:00",
+  "date_modified": "2026-05-19T07:21:15-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT20M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Pasta"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 ounces penne pasta",
+    "0.25 cup butter",
+    "2 tablespoons extra-virgin olive oil",
+    "1 onion, diced",
+    "1 red bell pepper, diced",
+    "0.5 pound portobello mushrooms, diced",
+    "2 cloves garlic, minced",
+    "1 pound medium shrimp, peeled and deveined",
+    "1 (15 ounce) jar Alfredo sauce",
+    "0.5 cup grated Romano cheese",
+    "0.5 cup cream",
+    "1 teaspoon cayenne pepper, or more to taste",
+    "salt and ground black pepper to taste",
+    "0.25 cup chopped parsley"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, melt butter with olive oil in a saucepan over medium heat. Add onion; cook and stir until softened and translucent, about 2 minutes. Stir in bell pepper, mushrooms, and garlic; cook over medium-high heat until soft, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add shrimp; cook until firm and pink. Stir in Alfredo sauce, Romano cheese, and cream; bring to a simmer, stirring constantly, until thickened, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season with cayenne pepper, salt, and black pepper. Stir in penne. Sprinkle servings with parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mXey8czsZ_3arf8kgFDCo6ZfEKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4095462-8b0f90f738b44b45824c27b873c7ed07.jpg"
+      ],
+      "image": "assets/images/133128/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "707 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "202 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "1035 mg",
+    "sugarContent": "7 g",
+    "fatContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "2319"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/B6HHudXE-ma1DlVvV.mp4",
+    "description": "AR0301",
+    "duration": "PT3M11S",
+    "name": "Peppered Shrimp Alfredo",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/B6HHudXE/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T16:56:37-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mXey8czsZ_3arf8kgFDCo6ZfEKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4095462-8b0f90f738b44b45824c27b873c7ed07.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/133128/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/133128/step_04.webp"
+    ]
+  }
+}

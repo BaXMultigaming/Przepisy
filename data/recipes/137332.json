@@ -1,0 +1,83 @@
+{
+  "id": "137332",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/137332/abbeys-white-chocolate-latte/",
+  "requested_url": "https://www.allrecipes.com/recipe/137332/abbeys-white-chocolate-latte/",
+  "title": "Abbey&#39;s White Chocolate Latte",
+  "description": "Abbey&#39;s white chocolate latte recipe includes milk, cream, vanilla, sugar, espresso, and white chocolate chips. It makes one large chocolatey latte.",
+  "authors": [
+    "Hugatunity"
+  ],
+  "date_published": "2020-06-18T23:28:49-04:00",
+  "date_modified": "2025-05-21T18:17:39-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups milk",
+    "1 tablespoon heavy cream",
+    "1 tablespoon white sugar",
+    "0.125 teaspoon vanilla extract",
+    "0.5 cup brewed espresso",
+    "0.25 cup white chocolate chips, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Whisk milk and cream together in a saucepan over high heat until hot and frothy. Off heat, stir in sugar and vanilla extract.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk hot espresso and white chocolate chips together in a mug until smooth. (If you are making two lattes, pour half into another mug.) Top with hot frothy milk; stir to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "270 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "30 mg",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "110 mg",
+    "sugarContent": "28 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "88"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/r4zRsys1ByJc8hvNaDemZqmWWjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2107268-263718df097e409d9bce9eac08cd9859.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/137332/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

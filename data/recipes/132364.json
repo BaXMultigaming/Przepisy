@@ -1,0 +1,91 @@
+{
+  "id": "132364",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/132364/green-bean-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/132364/green-bean-curry/",
+  "title": "Green Bean Curry",
+  "description": "This green bean curry features fresh beans simmered in coconut milk with various seasonings for a tasty side dish or vegetarian entrée with rice.",
+  "authors": [
+    "AlliePeacock"
+  ],
+  "date_published": "2018-06-08T09:44:15-04:00",
+  "date_modified": "2026-04-18T13:50:59-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "South And Central Asian",
+    "Asian"
+  ],
+  "regions": [
+    "South And Central Asian",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 onion, sliced",
+    "5 fresh curry leaves",
+    "1 serrano peppers, thinly sliced",
+    "1 clove garlic, crushed",
+    "1 tablespoon curry powder",
+    "0.5 teaspoon fenugreek seeds",
+    "0.25 teaspoon ground turmeric",
+    "salt to taste",
+    "1 pound fresh green beans, trimmed",
+    "0.5 cup coconut milk",
+    "2 tablespoons lime juice"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a saucepan over medium-high heat. Cook and stir onion, curry leaves, serrano peppers, and garlic in hot oil until onion is golden brown. Stir in curry powder, fenugreek seeds, turmeric, and salt; cook for 3 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in green beans until evenly coated. Reduce heat to medium-low and cook until beans are tender-crisp. Pour in coconut milk and simmer for at least 5 minutes more. Remove from heat and stir in lime juice just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "105 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "4 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "3 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mQJLcnG5p6_3iczv7CO_mjOs_XU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1067026-green-bean-curry-Barbara-Martinez-4x3-1-fe026ab9a3db40a1b1b55e33e47bdbf7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/132364/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

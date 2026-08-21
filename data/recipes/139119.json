@@ -1,0 +1,84 @@
+{
+  "id": "139119",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/139119/brown-sugar-caramel-latte/",
+  "requested_url": "https://www.allrecipes.com/recipe/139119/brown-sugar-caramel-latte/",
+  "title": "Brown Sugar-Caramel Latte",
+  "description": "This brown sugar-caramel latte recipe requires only four ingredients: coffee, brown sugar, caramel syrup, and half-and-half. You&#39;ll need a milk frother.",
+  "authors": [
+    "bjergins"
+  ],
+  "date_published": "2020-03-05T00:04:39-05:00",
+  "date_modified": "2025-02-10T08:25:18-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Snack",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup half-and-half",
+    "1 tablespoon brown sugar",
+    "0.75 cup hot, brewed coffee",
+    "1 tablespoon caramel ice cream topping"
+  ],
+  "steps": [
+    {
+      "text": "Combine half-and-half and brown sugar in a glass measuring cup until sugar dissolved; whip using a milk frother or small whisk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour coffee into a mug; stir in caramel sauce until dissolved. Add frothed half-and-half mixture. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "104 mg",
+    "sugarContent": "13 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "68"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GY4463-QUfXP814Ts47u7XrjLY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/707064-2e727763622a451ba4b412a10b77631b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/139119/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

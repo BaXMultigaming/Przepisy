@@ -1,0 +1,78 @@
+{
+  "id": "135383",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/135383/berry-delicious/",
+  "requested_url": "https://www.allrecipes.com/recipe/135383/berry-delicious/",
+  "title": "Berry Delicious",
+  "description": "This berry delicious smoothie recipe includes frozen berries, strawberry yogurt, and a whole banana puréed in a blender for a delicious, drinkable treat.",
+  "authors": [
+    "Panda Girl"
+  ],
+  "date_published": "2020-06-18T23:27:33-04:00",
+  "date_modified": "2026-04-09T12:57:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Drink",
+    "Breakfast",
+    "Snack",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups frozen mixed berries",
+    "1 banana, sliced",
+    "1 cup strawberry flavored yogurt",
+    "1 cup milk",
+    "0.5 teaspoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place mixed berries, banana, strawberry yogurt, milk, and sugar in a blender; cover and blend until smooth. Pour into glasses; serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "16 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "128"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EA8BpS-VvTecW9IxwDCY3CgAHjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2275869-f5c32aaf246a44e18ecf5dd602005713.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/135383/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

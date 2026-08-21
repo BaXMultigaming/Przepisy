@@ -1,0 +1,82 @@
+{
+  "id": "131102",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/131102/cooked-eggnog/",
+  "requested_url": "https://www.allrecipes.com/recipe/131102/cooked-eggnog/",
+  "title": "Cooked Eggnog",
+  "description": "This cooked eggnog recipe is sure to be a favorite at your next holiday party when chilled and topped with whipped cream and a dusting of spices.",
+  "authors": [
+    "Kathryn Howl"
+  ],
+  "date_published": "2020-06-18T23:26:53-04:00",
+  "date_modified": "2023-07-07T07:03:42-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT140M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 eggs",
+    "0.5 cup white sugar",
+    "2 quarts milk",
+    "2 teaspoons vanilla extract",
+    "0.25 teaspoon ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs and sugar into a pan; whisk until frothy and light in color. Whisk in 2 cups milk until thoroughly blended. Place the pan over medium heat; cook and stir until mixture thickens and coats the back of a wooden spoon, about 5 minutes. Remove from the heat and allow to stand for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in remaining 6 cups milk, vanilla extract, and nutmeg. Refrigerate for at least 2 hours to cool thoroughly before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "188 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "199 mg",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "137 mg",
+    "sugarContent": "16 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "55"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/B4iRK1M6MhX7nuafKIBxL3R3xuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/928228-5eff872e558747ca904e04cf821768cf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/131102/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "133116",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/133116/salmon-ceviche/",
+  "requested_url": "https://www.allrecipes.com/recipe/133116/salmon-ceviche/",
+  "title": "Salmon Ceviche",
+  "description": "This salmon ceviche recipe features thin slices of salmon cured in citrus, cilantro, and garlic for 4 hours, and served with chips, rice, or tortillas.",
+  "authors": [
+    "Sarah Z"
+  ],
+  "date_published": "2020-06-18T23:27:04-04:00",
+  "date_modified": "2026-04-18T20:09:41-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT270M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 tablespoons sea salt",
+    "0.5 teaspoon chili paste or sauce",
+    "0.25 teaspoon white sugar",
+    "0.25 cup fresh lime juice",
+    "0.25 teaspoon fresh ground pepper",
+    "0.25 teaspoon cumin",
+    "1 ripe tomato, finely diced",
+    "0.25 cup minced red onion",
+    "0.25 cup extra virgin olive oil",
+    "2 tablespoons minced fresh cilantro",
+    "1 clove garlic, minced",
+    "1 pound very fresh salmon fillets (sushi-grade preferred), thinly sliced",
+    "1 avocado, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Stir salt, chili paste, and sugar into lime juice in a large glass or plastic bowl until dissolved; stir in black pepper and cumin. Stir in tomato, onion, olive oil, cilantro, and garlic; stir in salmon. Cover the bowl with plastic wrap; refrigerate, about 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain excess liquid from salmon; gently stir in avocado slices. Set aside at room temperature, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "288 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "2253 mg",
+    "sugarContent": "2 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_53ihKo0PfedPC-Vbyf-Hfy7WE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9268541-333fedc62bb34cf4afd7ac58dad60426.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/133116/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
