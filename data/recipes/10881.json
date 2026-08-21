@@ -1,0 +1,99 @@
+{
+  "id": "10881",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10881/rocky-road/",
+  "requested_url": "https://www.allrecipes.com/recipe/10881/rocky-road/",
+  "title": "Rocky Road",
+  "description": "These no-bake rocky road treats are easy to make with melted chocolate and peanut butter and have lots of gooey marshmallows in every bite.",
+  "authors": [
+    "Christine Thompson"
+  ],
+  "date_published": "1998-05-07T19:17:07-04:00",
+  "date_modified": "2026-08-03T22:46:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "20",
+    "20 rocky road squares"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "regions": [
+    "British"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups semisweet chocolate chips",
+    "1 cup peanut butter",
+    "4 cups miniature marshmallows"
+  ],
+  "steps": [
+    {
+      "text": "Lightly grease a 9-inch square pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat chocolate chips and peanut butter over low heat in a medium saucepan until chocolate has completely melted. Remove from heat. Stir in marshmallows.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour chocolate and marshmallow mixture into prepared pan; cool in the refrigerator until set, at least 1 hour. Cut into squares and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/iZYfK3sAGbTOxRMApWawLn3XMYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/703373-a5cf22d8641a47bd903453fcdfc8777e.jpg"
+      ],
+      "image": "assets/images/10881/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "627 kcal",
+    "carbohydrateContent": "71 g",
+    "fiberContent": "6 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "230 mg",
+    "sugarContent": "54 g",
+    "fatContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "136"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/LiHkyD9x-K3AjnAEN.mp4",
+    "description": "This rocky road fudge is only three ingredients! Simple, fun, and easy to make, but so delicious!\n",
+    "duration": "PT44S",
+    "name": " 3-Ingredient Rocky Road Fudge",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LiHkyD9x/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T20:49:56-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iZYfK3sAGbTOxRMApWawLn3XMYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/703373-a5cf22d8641a47bd903453fcdfc8777e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10881/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/10881/step_03.webp"
+    ]
+  }
+}

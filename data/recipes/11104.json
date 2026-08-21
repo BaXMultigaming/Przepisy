@@ -1,0 +1,82 @@
+{
+  "id": "11104",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11104/fudge-quickies/",
+  "requested_url": "https://www.allrecipes.com/recipe/11104/fudge-quickies/",
+  "title": "Fudge Quickies",
+  "description": "This is a choc-nutty no-bake cookie. They are also good with raisins. Good luck!",
+  "authors": [
+    "BAKLEEMAN"
+  ],
+  "date_published": "1998-10-07T17:08:52-04:00",
+  "date_modified": "2020-06-18T22:56:13-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "48",
+    "8 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups white sugar",
+    "2 cups packed brown sugar",
+    "1 cup butter",
+    "1 cup milk",
+    "2 cups semisweet chocolate chips",
+    "4 cups quick cooking oats",
+    "1 cup chopped walnuts",
+    "1 cup flaked coconut"
+  ],
+  "steps": [
+    {
+      "text": "Place oats, nuts, coconut, and chocolate chips in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place sugars, butter or margarine, and milk in a saucepan. Bring to a boil, and continue to boil for 2 minutes. Pour hot mixture over oat mixture. Mix well. Drop from a teaspoon onto wax paper. Allow to set up.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "186 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "38 mg",
+    "sugarContent": "22 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p5lsysDI0bQ3XmgGCfW4TGjOIBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/655368-e9dc9dbc6a5345f09d9d11cb9b9f0866.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11104/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

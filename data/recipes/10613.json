@@ -1,0 +1,101 @@
+{
+  "id": "10613",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10613/belgian-iron-cookies/",
+  "requested_url": "https://www.allrecipes.com/recipe/10613/belgian-iron-cookies/",
+  "title": "Belgian Iron Cookies",
+  "description": "These Belgian cookies are made with a special waffle iron (called a krumkake iron) over a gas burner.",
+  "authors": [
+    "Linda Housner"
+  ],
+  "date_published": "1998-03-01T01:07:39-05:00",
+  "date_modified": "2024-07-07T14:27:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT555M",
+  "yield": [
+    "60",
+    "10 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Belgian"
+  ],
+  "regions": [
+    "Belgian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 pounds all-purpose flour",
+    "4.5 cups brown sugar",
+    "12 large eggs",
+    "2 cups butter",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon salt",
+    "2 tablespoons whiskey"
+  ],
+  "steps": [
+    {
+      "text": "Beat butter and sugar together. Add eggs, one at a time, beating well after each addition. Beat in vanilla, salt, and whiskey.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add flour in small batches and mix by hand after each addition.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and refrigerate dough overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly grease and heat the cookie iron over a gas burner set to medium heat. Roll about 1 tablespoon of dough into a small cigar-like shape. Place dough on the preheated iron and press together. Cook until golden, about 30 seconds per side. Remove cookie from the iron and let cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "249 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "100 mg",
+    "sugarContent": "11 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VpMXbr3RPL7Urqf75qwbDqhxbis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1112573-c6fed5136e6245a7bf9a3f7b8199d48e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10613/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

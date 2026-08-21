@@ -1,0 +1,101 @@
+{
+  "id": "11669",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11669/greek-pasta-with-tomatoes-and-white-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/11669/greek-pasta-with-tomatoes-and-white-beans/",
+  "title": "Greek Pasta with Tomatoes and White Beans",
+  "description": "Cannellini beans, penne pasta, spinach, feta, and tomatoes create a quick and tasty Greek-inspired dinner that keeps you coming back for more.",
+  "authors": [
+    "Joelene Craver"
+  ],
+  "date_published": "1999-02-02T17:19:43-05:00",
+  "date_modified": "2024-06-06T13:24:15-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces penne pasta",
+    "2 (14.5 ounce) cans Italian-style diced tomatoes",
+    "1 (19 ounce) can cannellini beans, drained and rinsed",
+    "10 ounces fresh spinach, washed and chopped",
+    "0.5 cup crumbled feta cheese"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in penne and return to a boil. Cook pasta uncovered, stirring occasionally, until tender yet firm to the bite, 10 to 12 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, combine tomatoes and beans in a large non-stick skillet; bring to a boil over medium high heat, then reduce heat to medium-low and simmer 10 minutes. Add spinach; cook until wilted, 2 minutes, stirring constantly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve sauce over pasta, and sprinkle with feta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/W_A6fbQ5wOZsIwSj6AJrXp5ZI6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/960901-8eeca8953e02434585da291f5a09922c.jpg"
+      ],
+      "image": "assets/images/11669/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "460 kcal",
+    "carbohydrateContent": "79 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "12 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "593 mg",
+    "sugarContent": "8 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "581"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fnIUVweQ-K3AjnAEN.mp4",
+    "description": "Penne pasta pairs with white beans, tomatoes, spinach, and feta cheese! This easy dinner is perfect for leftovers or meal prep!",
+    "duration": "PT1M",
+    "name": "How to Make Greek Pasta with Tomatoes and White Beans ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fnIUVweQ/poster.jpg?width=1280",
+    "uploadDate": "2022-06-07T12:58:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/W_A6fbQ5wOZsIwSj6AJrXp5ZI6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/960901-8eeca8953e02434585da291f5a09922c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11669/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/11669/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "11400",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11400/chocolate-puffed-wheat-squares/",
+  "requested_url": "https://www.allrecipes.com/recipe/11400/chocolate-puffed-wheat-squares/",
+  "title": "Chocolate Puffed Wheat Squares",
+  "description": "This recipe makes 16 deliciously chocolaty puffed wheat squares. Little ones love to get them in their lunchbox and they fit perfectly too!",
+  "authors": [
+    "B J Rowlinson"
+  ],
+  "date_published": "1999-08-16T01:39:31-04:00",
+  "date_modified": "2022-08-04T11:38:59-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "16",
+    "1 9-inch pan"
+  ],
+  "categories": [
+    "Lunch",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 cups puffed wheat cereal",
+    "3 tablespoons unsweetened cocoa powder",
+    "0.33333298563957 cup corn syrup",
+    "0.25 cup packed brown sugar",
+    "0.33333298563957 cup butter or margarine"
+  ],
+  "steps": [
+    {
+      "text": "Place puffed wheat in a large bowl; set aside. Grease a 9-inch square pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grease the rim of a medium saucepan to prevent boil-over. Place cocoa powder, corn syrup, brown sugar, and butter or margarine in the saucepan. Cook over medium heat, stirring often until the mixture comes to a full boil. Allow to boil for 1 minute, and then remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour chocolate mixture over puffed wheat and stir until puffed wheat is evenly coated. Using a buttered spatula, press the mixture into the prepared pan. Allow to cool, then cut as desired. Wrap squares individually, or store in an airtight container.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "89 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "29 mg",
+    "sugarContent": "3 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "106"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mNEa1I-28CDJSI1cN-Kts0KpV1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/30508-c7da037ead7a497c8753e1c04687c43b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11400/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

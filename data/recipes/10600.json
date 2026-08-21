@@ -1,0 +1,96 @@
+{
+  "id": "10600",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10600/mock-macaroons/",
+  "requested_url": "https://www.allrecipes.com/recipe/10600/mock-macaroons/",
+  "title": "Mock Macaroons",
+  "description": "Oatmeal &#34;marinated&#34; in brown sugar and vegetable oil makes for crispy edges and a chewy middle.",
+  "authors": [
+    "Rosina"
+  ],
+  "date_published": "1998-02-26T23:23:30-05:00",
+  "date_modified": "2022-07-14T17:36:45-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "30",
+    "5 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups rolled oats",
+    "1 cup packed brown sugar",
+    "0.5 cup vegetable oil",
+    "1 egg",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon almond extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine oatmeal, brown sugar and oil in a bowl. Stir to mix well. Cover and let stand at least 5 hours, or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pre-heat oven to 350 degrees F (175 degrees C). Grease cookie sheets - use non-stick if possible.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the egg, salt and almond extract to oatmeal and stir well until blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop by rounded teaspoonfuls about 1-1/2 inches apart on greased cookie sheets. Bake 7 or 8 minutes or until edges are browned and center is golden. Remove from cookie sheet and cool on racks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "44 mg",
+    "sugarContent": "7 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8CZHPxyPHRFTdE31gq7e8K9zK3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970129-23b8934d3e5a44caaf66138d2213ee28.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10600/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

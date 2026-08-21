@@ -1,0 +1,87 @@
+{
+  "id": "11402",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11402/honey-nutters/",
+  "requested_url": "https://www.allrecipes.com/recipe/11402/honey-nutters/",
+  "title": "Honey Nutters",
+  "description": "This is a no bake cookie/candy. It is a recipe that has been passed down in my family for three generations. This is a healthy snack for people of all ages.",
+  "authors": [
+    "Johnna Corley"
+  ],
+  "date_published": "1999-08-25T22:41:46-04:00",
+  "date_modified": "2022-07-14T16:05:10-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "24",
+    "4 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "16 graham crackers",
+    "1 cup crunchy peanut butter",
+    "0.66666668653488 cup honey",
+    "0.5 cup nonfat dry milk powder",
+    "1 cup coconut"
+  ],
+  "steps": [
+    {
+      "text": "Crush the graham crackers between two pieces of wax paper with a rolling pin or in a food processor.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine graham cracker crumbs, peanut butter, honey and powdered milk in a large mixing bowl. Mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Make small balls with mixture and place on wax paper. Roll balls in shredded coconut.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "124 mg",
+    "sugarContent": "13 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ujo8ywKpAsD9DW18hACXnL9l70k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1161890-257d50ff0731455dab5902a87899dbe7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11402/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

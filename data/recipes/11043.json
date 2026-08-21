@@ -1,0 +1,101 @@
+{
+  "id": "11043",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11043/the-ultimate-brownie/",
+  "requested_url": "https://www.allrecipes.com/recipe/11043/the-ultimate-brownie/",
+  "title": "The Ultimate Brownie",
+  "description": "This simple, fudgy brownie recipe is made with cocoa powder, butter, and a whole pound of chopped walnuts. The brownies can be frozen after baking.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "1998-01-01T10:56:47-05:00",
+  "date_modified": "2023-04-11T10:57:18-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT45M",
+  "total_time": "PT65M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups unsalted butter",
+    "3 cups white sugar",
+    "2 teaspoons vanilla extract",
+    "7 eggs, beaten",
+    "1.25 cups all-purpose flour",
+    "1.25 cups unsweetened cocoa powder",
+    "1 teaspoon salt",
+    "1 pound chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Line one 9x9-inch baking pan with foil and spray with cooking spray.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a saucepan over medium-heat, melt butter. Stir in sugar until dissolved. Remove mixture from heat. Gradually pour melted butter into beaten eggs, whisking constantly, until mixture is fully incorporated. Stir in vanilla.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sift flour, cocoa, and salt together. Add flour mixture to butter mixture, mixing until combined. Stir in walnuts. Spread batter into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until brownies are set (a toothpick inserted in the center should have small crumbs clinging to it, rather than wet batter), 45 to 50 minutes. Do not overbake!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "378 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "120 mg",
+    "sugarContent": "26 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "185"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iVxCNUJSDbPN6S1VGOImyL5eEAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4649180-c027fef0f2ab4ddf8ad1f851a454294a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11043/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

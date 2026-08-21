@@ -1,0 +1,102 @@
+{
+  "id": "11101",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11101/marshmallow-crispie-bars/",
+  "requested_url": "https://www.allrecipes.com/recipe/11101/marshmallow-crispie-bars/",
+  "title": "Marshmallow Crispie Bars",
+  "description": "These marshmallow cereal bars are made on the stovetop with 4 simple ingredients for sweet and chewy treats that are always a hit at birthday parties.",
+  "authors": [
+    "SHECOOKS2"
+  ],
+  "date_published": "1998-10-31T17:33:10-05:00",
+  "date_modified": "2026-03-02T17:17:21-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT135M",
+  "yield": [
+    "12",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "cooking spray",
+    "3 tablespoons butter",
+    "1 teaspoon vanilla extract",
+    "4 cups miniature marshmallows",
+    "4 cups crisp rice cereal"
+  ],
+  "steps": [
+    {
+      "text": "Grease a 9x13-inch baking dish with cooking spray. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large saucepan over low heat. Stir in vanilla. Add marshmallows; cook and stir until marshmallows are melted. Add cereal; stir to coat, then quickly transfer mixture to the prepared dish. Use a sheet of waxed paper to press mixture evenly into the dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let set for 2 to 3 hours before cutting into 24 squares.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/8JEz06c5fiISreVad1tUBB8iBSo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11101-marshmallow-crispie-bars-VAT-beauty-4x3-b3a534f26b9d4764baebdf1fbafefdd2.jpg"
+      ],
+      "image": "assets/images/11101/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "114 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "105 mg",
+    "sugarContent": "10 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "236"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fL42rCyZ-ma1DlVvV.mp4",
+    "description": "AR1301",
+    "duration": "PT2M9S",
+    "name": "Marshmallow Crispie Bars",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fL42rCyZ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T19:30:48-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8JEz06c5fiISreVad1tUBB8iBSo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11101-marshmallow-crispie-bars-VAT-beauty-4x3-b3a534f26b9d4764baebdf1fbafefdd2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11101/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/11101/step_03.webp"
+    ]
+  }
+}

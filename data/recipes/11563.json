@@ -1,0 +1,90 @@
+{
+  "id": "11563",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11563/vanilla-crispies/",
+  "requested_url": "https://www.allrecipes.com/recipe/11563/vanilla-crispies/",
+  "title": "Vanilla Crispies",
+  "description": "A lot like a sugar cookie but ten times better. These cookies have a wonderful rich flavor, a very nice side to ice cream.",
+  "authors": [
+    "Peter Boyd"
+  ],
+  "date_published": "1999-06-14T17:47:26-04:00",
+  "date_modified": "2022-07-14T16:20:33-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "36",
+    "6 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "1 cup butter, softened",
+    "1 egg",
+    "2 teaspoons vanilla extract",
+    "2 cups all-purpose flour",
+    "0.5 teaspoon baking soda",
+    "0.5 teaspoon cream of tartar",
+    "3 tablespoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, cream together butter and sugar. Add egg and vanilla; continue to cream until smooth. Sift together the flour, baking soda, and cream of tartar; stir into the creamed mixture until well blended. Refrigerate dough for at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven to 375 degrees F ( 190 degrees C ).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Roll dough into 1 inch balls and place onto a cookie sheet. Cookies should be at least 2 inches apart. Lightly grease the bottom of a glass, dip it into the granulated sugar, and press the cookies down slightly. Bake for 8 to 10 minutes, until golden brown. Remove from the baking sheet to cool on wire racks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "99 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "56 mg",
+    "sugarContent": "7 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OY8KtvfbSq8IBr_jGL0FHQywSvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2991566-80e680c86da74240840fb785f88e534d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11563/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

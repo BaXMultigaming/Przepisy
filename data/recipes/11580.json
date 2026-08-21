@@ -1,0 +1,85 @@
+{
+  "id": "11580",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11580/norwegian-pfeffernerse/",
+  "requested_url": "https://www.allrecipes.com/recipe/11580/norwegian-pfeffernerse/",
+  "title": "Norwegian Pfeffernerse",
+  "description": "A traditional Norwegian Christmas recipe.",
+  "authors": [
+    "RETTTS"
+  ],
+  "date_published": "1999-11-09T01:56:09-05:00",
+  "date_modified": "2025-10-22T19:13:17-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "30",
+    "5 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Norwegian",
+    "Scandinavian"
+  ],
+  "regions": [
+    "Norwegian",
+    "Scandinavian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound unsalted butter",
+    "3 cups white sugar",
+    "3 teaspoons bakers' ammonia",
+    "1 cup finely chopped almonds",
+    "3.5 cups all-purpose flour"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, cream the butter and sugar. Stir in the powdered ammonia and chopped almonds. Knead in the flour. Roll dough into 1 inch balls and freeze for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "preheat oven to 300 degrees F (150 degrees C). Take cookies out of the freezer and bake for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "257 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "20 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6BAgBjcW6jEjjgkqrM6uPP7Ep08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11580norwegian-pfeffernerseLaDonnaLangwell4x3-34095aadc9f04f419e0fe3e26776a33d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11580/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

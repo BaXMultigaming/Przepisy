@@ -1,0 +1,91 @@
+{
+  "id": "11205",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11205/waffle-iron-brownies/",
+  "requested_url": "https://www.allrecipes.com/recipe/11205/waffle-iron-brownies/",
+  "title": "Waffle Iron Brownies",
+  "description": "Brownies made on a waffle iron.",
+  "authors": [
+    "Glynda Sharp Barnett"
+  ],
+  "date_published": "1998-11-22T17:10:37-05:00",
+  "date_modified": "2022-10-02T10:31:37-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "10 waffle brownies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "0.25 cup unsweetened cocoa powder",
+    "0.75 cup white sugar",
+    "2 large eggs",
+    "1 tablespoon water",
+    "1.25 cups all-purpose flour",
+    "0.25 teaspoon salt",
+    "0.66666668653488 cup chopped pecans",
+    "0.33333334326744 cup confectioners' sugar for decoration"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the waffle iron.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a saucepan over low heat. Remove from heat and stir in cocoa until smooth. Mix in sugar, eggs, and water. Beat in flour and salt until well combined. Stir in nuts.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add 1 heaping spoonful batter into each well of the preheated waffle iron, cover, and cook until waffles are cooked through. Sprinkle confectioners' sugar over warm waffle brownies.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "138 mg",
+    "sugarContent": "19 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JnFeLnIUoiK8v_xxY2xwJ_mI0tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1547512-de2216342ca443d18057afb2f23d413d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11205/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
