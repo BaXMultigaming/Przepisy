@@ -1,0 +1,81 @@
+{
+  "id": "148440",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/148440/tropical-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/148440/tropical-ice-cream/",
+  "title": "Tropical Ice Cream",
+  "description": "Visit the tropics with this easy tropical ice cream recipe.",
+  "authors": [
+    "MOTHERDESTINY"
+  ],
+  "date_published": "2020-06-18T23:32:17-04:00",
+  "date_modified": "2020-06-18T23:32:17-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "1 quart"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups heavy cream",
+    "1.3333333730698 cups 2% low-fat milk",
+    "0.66666668653488 cup pineapple and orange juice blend",
+    "0.75 cup sugar",
+    "0.33333334326744 cup flaked sweetened coconut",
+    "0.33333334326744 cup walnut pieces",
+    "1 large banana, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together cream, milk, pineapple-orange juice, and sugar until the sugar has dissolved. Pour into an ice cream maker and freeze according to manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Five minutes before the ice cream is done, add the coconut and walnut pieces. Two minutes before the ice cream is done, add the sliced banana.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "494 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "113 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "67 mg",
+    "sugarContent": "35 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/n1VVFrWqnf6lU_UXZFSGKukxWMo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/967602-bc4f544bb5f84a5c977273760cab0803.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/148440/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

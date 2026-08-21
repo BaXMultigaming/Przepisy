@@ -1,0 +1,71 @@
+{
+  "id": "152114",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/152114/jaymes-coleslaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/152114/jaymes-coleslaw/",
+  "title": "Jayme&#39;s Coleslaw",
+  "description": "Shredded cabbage is tossed in a tangy dressing in this quick five-ingredient coleslaw.",
+  "authors": [
+    "Jayme"
+  ],
+  "date_published": "2020-03-05T00:05:24-05:00",
+  "date_modified": "2022-01-14T13:49:28-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "4 cups"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup brown sugar",
+    "0.5 cup apple cider vinegar",
+    "0.5 cup mayonnaise",
+    "1 teaspoon celery seed",
+    "4 cups chopped cabbage"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, whisk together the brown sugar, apple cider vinegar, mayonnaise, and celery seed. Add cabbage and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "91 mg",
+    "sugarContent": "15 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "111"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NgLNyEamONQS_6-6ek4Z0xDWMwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2249666-e581985128c0407ba520846020cc774e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/152114/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

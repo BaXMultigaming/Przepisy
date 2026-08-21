@@ -1,0 +1,92 @@
+{
+  "id": "145662",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/145662/moroccan-mashed-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/145662/moroccan-mashed-potatoes/",
+  "title": "Moroccan Mashed Potatoes",
+  "description": "This Moroccan mashed potatoes recipe is seasoned with spices like cumin and turmeric and uses olive oil not butter for their smooth, creamy texture.",
+  "authors": [
+    "Dania"
+  ],
+  "date_published": "2020-02-13T20:55:51-05:00",
+  "date_modified": "2025-10-29T22:57:55-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "32"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Moroccan"
+  ],
+  "regions": [
+    "Moroccan"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 large baking potatoes, peeled and cubed",
+    "3 tablespoons olive oil, or as needed",
+    "1 onion, diced",
+    "1 tablespoon ground turmeric",
+    "1 tablespoon salt, or to taste",
+    "2 teaspoons ground black pepper",
+    "0.5 teaspoon ground cumin"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender and easily pierced with a fork, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat 1 tablespoon oil in a small skillet over medium-high heat. Add onion; cook until translucent and lightly brown, about 6 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain water from potatoes; mash. Stir in onion; continue mashing. Add turmeric, salt, black pepper, and cumin; add remaining 2 tablespoons oil until potatoes reach a creamy consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "103 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "224 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6evXnXml1nYtqkemEkh1IWbsa7I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/711646-15b6fc333f654f81822242ea5edfe034.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/145662/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "149938",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/149938/slow-cooker-posole/",
+  "requested_url": "https://www.allrecipes.com/recipe/149938/slow-cooker-posole/",
+  "title": "Slow Cooker Pozole",
+  "description": "This pozole recipe is made in a slow cooker with pork, hominy, green chiles, and enchilada sauce for an easy version of the classic Mexican soup.",
+  "authors": [
+    "Jules"
+  ],
+  "date_published": "2007-09-25T21:36:27-04:00",
+  "date_modified": "2026-03-18T07:20:55-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT395M",
+  "total_time": "PT415M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon canola oil",
+    "1 (2 pound) boneless pork loin roast, cut into 1-inch cubes",
+    "2 (14.5 ounce) cans enchilada sauce",
+    "2 (15.5 ounce) cans white hominy, drained",
+    "1 onion, sliced",
+    "0.5 cup green chilies, diced",
+    "4 cloves garlic, minced",
+    "0.5 teaspoon cayenne pepper, or to taste",
+    "2 teaspoons dried oregano",
+    "0.25 cup cilantro, chopped",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a skillet over high heat. Add pork; cook and stir just until meat is browned on all sides, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place meat in a 4-quart slow cooker. Pour enchilada sauce over the meat. Top with hominy, onion, chilies, garlic, cayenne pepper, and oregano. Pour in enough water to fill the slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on High for 6 to 7 hours. Stir in cilantro and salt. Cook on Low for 30 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fEb_H3rzQbzHnzdC0TlO8U6mvD4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1073997-e31399580ed84ccc957ba7eda7660d66.jpg"
+      ],
+      "image": "assets/images/149938/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "671 mg",
+    "sugarContent": "4 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "537"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/sSD7l98R-ma1DlVvV.mp4",
+    "description": "AR0825",
+    "duration": "PT3M15S",
+    "name": "Slow Cooker Posole",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/sSD7l98R/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T11:53:48-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fEb_H3rzQbzHnzdC0TlO8U6mvD4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1073997-e31399580ed84ccc957ba7eda7660d66.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/149938/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/149938/step_03.webp"
+    ]
+  }
+}

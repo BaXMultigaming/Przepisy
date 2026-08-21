@@ -1,0 +1,74 @@
+{
+  "id": "151300",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/151300/fast-rice-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/151300/fast-rice-pudding/",
+  "title": "Fast Rice Pudding",
+  "description": "Use your leftover rice for this quick and tasty rice pudding recipe.",
+  "authors": [
+    "Vannessa"
+  ],
+  "date_published": "2020-06-18T23:32:51-04:00",
+  "date_modified": "2022-12-16T16:16:19-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups cooked white rice",
+    "1 tablespoon ground cinnamon",
+    "1 (12 ounce) can evaporated milk",
+    "0.5 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine the rice, cinnamon, milk, and sugar in a saucepan over medium heat. Stir occasionally and bring mixture to a boil; cover and reduce heat to low. Cook until thick and creamy, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "424 kcal",
+    "carbohydrateContent": "76 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "122 mg",
+    "sugarContent": "45 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "117"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CqRgxsRP6wXq4SaYnC4CqBzFdVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5577981-fast-rice-pudding-Suzanne-L-4x3-1-d7ea7fb954d64e949f0b9803404ba572.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/151300/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

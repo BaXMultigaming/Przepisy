@@ -1,0 +1,83 @@
+{
+  "id": "145231",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/145231/brownie-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/145231/brownie-frosting/",
+  "title": "Brownie Frosting",
+  "description": "This chocolate frosting for brownies makes any batch of treats even sweeter. This 5-ingredient icing recipe works on homemade and boxed brownies.",
+  "authors": [
+    "CRUNCHM"
+  ],
+  "date_published": "2020-06-18T23:31:54-04:00",
+  "date_modified": "2026-04-28T07:05:07-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "12",
+    "12 brownies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups white sugar",
+    "6 tablespoons milk",
+    "6 tablespoons unsalted butter, softened",
+    "1 cup chocolate chips",
+    "1 dash vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Stir sugar, milk, and butter in a saucepan over medium heat; bring to a boil. Cook at a rolling boil for 30 seconds, then immediately remove from the heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add chocolate chips and vanilla to the saucepan; stir until chocolate chips are completely melted. Pour immediately over warm brownies.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "33 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "553"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZwXe5RTcD8rMfGk7vgfA4SuY9sQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/419646_BrownieFrosting4x3-31a66b7b3c174656a2e63f7ef36dab7d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/145231/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

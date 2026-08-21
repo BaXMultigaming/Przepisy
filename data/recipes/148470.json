@@ -1,0 +1,87 @@
+{
+  "id": "148470",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/148470/ham-and-shell-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/148470/ham-and-shell-salad/",
+  "title": "Ham and Shell Salad",
+  "description": "Tasty pasta salad with ham, peas, cubes of Cheddar cheese, and shell pasta with a lemony, mayonnaise-based dressing. Perfect for picnics and potlucks.",
+  "authors": [
+    "ramblinrose"
+  ],
+  "date_published": "2019-07-10T03:00:25-04:00",
+  "date_modified": "2026-04-16T17:42:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT145M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch",
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package medium pasta shells",
+    "1 (10 ounce) package frozen peas, thawed",
+    "1 cup diced Cheddar cheese",
+    "0.25 pound deli ham, diced",
+    "0.25 cup chopped onion",
+    "3 tablespoons mayonnaise",
+    "2 tablespoons vegetable oil",
+    "1 tablespoon lemon juice",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon pepper"
+  ],
+  "steps": [
+    {
+      "text": "Bring a pot of lightly salted water to a boil. Stir in the shell pasta and cook until tender but firm to the bite, 10 to 11 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine peas, Cheddar, ham, onion, mayonnaise, oil, lemon juice, salt, and pepper in a large bowl. Add cooked pasta and stir to coat. Cover and refrigerate for 2 to 3 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "574 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "55 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "960 mg",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "55"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9Gk7npBMJ72ME06ANdxA9QuDzN8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1209491-6e5f369ecc294a6997fd36a09e214ce3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/148470/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

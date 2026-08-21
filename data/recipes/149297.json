@@ -1,0 +1,80 @@
+{
+  "id": "149297",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/149297/avocado-ranch-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/149297/avocado-ranch-salad-dressing/",
+  "title": "Avocado Ranch Salad Dressing",
+  "description": "This recipe goes very well as a vegetable dipping sauce!",
+  "authors": [
+    "Emily Kisling"
+  ],
+  "date_published": "2018-06-08T09:48:56-04:00",
+  "date_modified": "2026-06-24T21:48:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup ripe avocado",
+    "0.25 cup mayonnaise",
+    "0.25 cup sour cream",
+    "1 tablespoon buttermilk",
+    "1.5 teaspoons distilled white vinegar",
+    "0.125 teaspoon salt",
+    "0.125 teaspoon dried parsley",
+    "1 pinch dried dill weed",
+    "0.125 teaspoon onion powder",
+    "1 pinch garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "Mash avocado in a bowl, then stir in mayonnaise, sour cream, buttermilk, and vinegar. Sprinkle with salt, parsley, dill, onion powder, and garlic powder. Stir until well blended, chill until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "125 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "131 mg",
+    "sugarContent": "0 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "114"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yh09C1a82AyZPWYJ5fW1FXOmB5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/956224-063b9a4dff354b0db2bbce18b6effccc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/149297/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

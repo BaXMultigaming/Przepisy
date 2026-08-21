@@ -1,0 +1,72 @@
+{
+  "id": "147010",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/147010/southern-style-vanilla-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/147010/southern-style-vanilla-lemonade/",
+  "title": "Southern-Style Vanilla Lemonade",
+  "description": "This vanilla-scented lemonade provides a real lemon kick that&#39;s great for hot summer days! Serve over ice or frozen lemonade cubes.",
+  "authors": [
+    "Nessie-Anne"
+  ],
+  "date_published": "2020-06-18T23:32:09-04:00",
+  "date_modified": "2021-05-20T19:14:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 lemons",
+    "0.75 cup white sugar",
+    "0.25 teaspoon vanilla extract",
+    "6 cups cold water"
+  ],
+  "steps": [
+    {
+      "text": "Cut the lemons in half and scoop the pulp into a blender. Add half of the rinds along with sugar, vanilla extract, and 2 cups of water. Blend until smooth, then strain into a serving pitcher and stir in the remaining water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "25 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uJXcMYXJ0IKhkzn6lvBx0K4kPAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9212852-338a08440cb34a0fa92c2f5eefc2b769.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/147010/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

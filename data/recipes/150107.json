@@ -1,0 +1,91 @@
+{
+  "id": "150107",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/150107/quick-egg-roll-dipping-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/150107/quick-egg-roll-dipping-sauce/",
+  "title": "Quick Egg Roll Dipping Sauce",
+  "description": "This egg roll sauce is an easy 5-minute dipping sauce recipe that tastes better than boxed sauce packets and is made with simple Asian ingredients.",
+  "authors": [
+    "Danickstr"
+  ],
+  "date_published": "2011-12-15T15:35:32-05:00",
+  "date_modified": "2026-03-02T16:10:08-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Asian Inspired",
+    "Asian"
+  ],
+  "regions": [
+    "Asian Inspired",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "3 tablespoons soy sauce",
+    "3 tablespoons rice vinegar",
+    "1 teaspoon ground ginger",
+    "0.5 teaspoon garlic powder",
+    "0.5 teaspoon onion powder",
+    "0.125 teaspoon sesame oil"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/c40qYskrki6vMMid7dcoowM2Ft0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_150107_QuickEggRollDippingSauce_Shot1_11998-763c745b89b040e897ff7335435ca66d.jpg"
+      ],
+      "image": "assets/images/150107/step_01.webp"
+    },
+    {
+      "text": "Whisk together soy sauce, rice vinegar, ginger, garlic powder, onion powder, and sesame oil in a bowl until smooth. Serve in small dipping dishes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_tVwU4aV7LSeBzf6t4t46YIV_As=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_150107_QuickEggRollDippingSauce_Shot3_12001-7b9ea284bdff4840b0f1f1b2a9ed7809.jpg"
+      ],
+      "image": "assets/images/150107/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "11 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "677 mg",
+    "sugarContent": "0 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "62"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Nic06BFPU97FAtzYAQzW-kqla6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_150107_QuickEggRollDippingSauce_Shot4_4x3_12031-6e3360e1e4304b36b748848425b99036.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/150107/hero.webp",
+    "steps": [
+      "assets/images/150107/step_01.webp",
+      "assets/images/150107/step_02.webp"
+    ]
+  }
+}

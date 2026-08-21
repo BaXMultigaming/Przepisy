@@ -1,0 +1,106 @@
+{
+  "id": "150162",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/150162/one-dish-rockfish/",
+  "requested_url": "https://www.allrecipes.com/recipe/150162/one-dish-rockfish/",
+  "title": "One-Dish Rockfish",
+  "description": "An easy rockfish recipe with fresh spinach, cherry tomatoes, onion, garlic, dill, and lemon slices baked in one dish for a flavorsome meal.",
+  "authors": [
+    "Luke"
+  ],
+  "date_published": "2020-03-09T22:51:20-04:00",
+  "date_modified": "2026-04-16T05:31:10-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups fresh spinach",
+    "2 (6 ounce) fillets rockfish",
+    "10 cherry tomatoes, halved",
+    "0.5 cup vegetable broth",
+    "2 tablespoons minced fresh dill",
+    "0.5 teaspoon lemon pepper",
+    "0.25 teaspoon garlic powder",
+    "0.25 teaspoon onion powder",
+    "salt and ground black pepper to taste",
+    "2 slices lemon slices",
+    "2 slices onion slices",
+    "1 teaspoon butter"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients. Preheat the oven to 400 degrees F (200 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CdAob-CaBWLFIUMRDKhk6W_9TG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150162-one-dish-rockfish-ddmfs-Step1-13181343-7ddff03021684de099996059a5aa8fb5.jpg"
+      ],
+      "image": "assets/images/150162/step_01.webp"
+    },
+    {
+      "text": "Layer spinach on the bottom of a 2-quart baking dish. Arrange rockfish on top; scatter tomatoes around rockfish. Pour in broth and season the rockfish with dill, lemon pepper, garlic powder, onion powder, salt, and pepper. Place a slice of lemon and onion on each fillet; top with butter. Cover the entire dish with aluminum foil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/wrSrM1dfbHooKROwIZvJRH-TWHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150162-one-dish-rockfish-ddmfs-Step3-13181345-06cc46e688d34ac4ba379a327b70a097.jpg"
+      ],
+      "image": "assets/images/150162/step_02.webp"
+    },
+    {
+      "text": "Bake in preheated oven until the fish flakes easily, 20 to 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RLf7O0cI-1nABeBjS1-s5KcwXds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150162-one-dish-rockfish-ddmfs-Step4-13181365-6ca8ad8089d24c529d12dcaa60fdb320.jpg"
+      ],
+      "image": "assets/images/150162/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "233 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "417 mg",
+    "sugarContent": "2 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "155"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/C8DjGp-1QOQEM8tCeWJbKqPAulA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150162-one-dish-rockfish-ddmfs-3X4-13181388-a7679e98760845b39988d45c428eabdf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/150162/hero.webp",
+    "steps": [
+      "assets/images/150162/step_01.webp",
+      "assets/images/150162/step_02.webp",
+      "assets/images/150162/step_03.webp"
+    ]
+  }
+}

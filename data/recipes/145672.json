@@ -1,0 +1,81 @@
+{
+  "id": "145672",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/145672/cucumber-avocado-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/145672/cucumber-avocado-salad/",
+  "title": "Cucumber Avocado Salad",
+  "description": "A recipe for a refreshing salad: Paper-thin slices of cucumber and red onion are seasoned with dill, garlic, salt, and sugar, then tossed with chopped avocado and red wine vinegar.",
+  "authors": [
+    "GrapeJuiceMama"
+  ],
+  "date_published": "2020-06-18T23:32:00-04:00",
+  "date_modified": "2022-08-16T16:49:41-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT50M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cucumber, peeled and thinly sliced",
+    "1 small red onion, thinly sliced",
+    "0.33333334326744 cup fresh dill, chopped",
+    "1 clove garlic, quartered",
+    "2 tablespoons white sugar",
+    "1 teaspoon salt",
+    "1 ripe avocado - peeled, pitted and chopped",
+    "0.25 cup red wine vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Place the cucumber, onion, dill, garlic, sugar, and salt in a mixing bowl, and toss. Refrigerate for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gently toss the avocado with the cucumber mixture. Refrigerate mixture 10 minutes more. Remove from the refrigerator, and drain. Remove and discard garlic. Toss the cucumber mixture again with the red wine vinegar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "129 kcal",
+    "carbohydrateContent": "16 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "589 mg",
+    "sugarContent": "9 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "62"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5DGfcUanPQDTJ_dRqz0KoBXiLgU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cucumber-Avocado-Salad-2000-238f9f131fce466c958db767867ecbbe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/145672/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

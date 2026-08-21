@@ -1,0 +1,102 @@
+{
+  "id": "150114",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/150114/cuban-style-yuca/",
+  "requested_url": "https://www.allrecipes.com/recipe/150114/cuban-style-yuca/",
+  "title": "Cuban-Style Yuca",
+  "description": "Yuca is cooked until tender and served with a hot dressing made with onion, garlic, olive oil, and lemon juice. A refreshingly different side dish!",
+  "authors": [
+    "Cocina JNOTS"
+  ],
+  "date_published": "2019-07-10T03:00:29-04:00",
+  "date_modified": "2026-03-02T15:45:10-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Cuban"
+  ],
+  "regions": [
+    "Cuban"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 pounds yuca, peeled and sliced lengthwise",
+    "0.5 teaspoon salt",
+    "0.25 cup olive oil",
+    "0.5 onion, diced",
+    "4 cloves garlic, minced",
+    "0.5 teaspoon fresh lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Place yuca into a pan and fill with enough water to cover. Stir in salt. Bring to a boil over medium-high heat, cover, and cook until tender, about 15 minutes. Drain; place yuca on a serving plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Fb2O2ch5KvAi-xt5XDkWtJWTk1M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150114-cuban-style-yuca-mfs-step-1-71-7adf57d699b84047886d68e13825063a.jpg"
+      ],
+      "image": "assets/images/150114/step_01.webp"
+    },
+    {
+      "text": "Meanwhile, place olive oil, onion, garlic, and lemon juice into a pan. Cook over medium heat for about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ldNh7FYL5tzH0h6sSA83xF7-UaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150114-cuban-style-yuca-mfs-step-3-73-3602b1adc62f46fd8505ba5b040289ff.jpg"
+      ],
+      "image": "assets/images/150114/step_02.webp"
+    },
+    {
+      "text": "Pour the hot olive oil mixture over the yuca; serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bm-v25G6LwLf6xiVWIysE6jUIa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150114-cuban-style-yuca-mfs-step-4-76-03cd685452cc4051b8fbf69f7cfc2473.jpg"
+      ],
+      "image": "assets/images/150114/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "268 kcal",
+    "carbohydrateContent": "43 g",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "204 mg",
+    "sugarContent": "3 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "80"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mUT8declvP838oBko6savsAdZJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150114-cuban-style-yuca-ddmfs-3x2-81-d067f20dfce8455e8371007546d1c767.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/150114/hero.webp",
+    "steps": [
+      "assets/images/150114/step_01.webp",
+      "assets/images/150114/step_02.webp",
+      "assets/images/150114/step_03.webp"
+    ]
+  }
+}

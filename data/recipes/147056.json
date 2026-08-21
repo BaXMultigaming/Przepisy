@@ -1,0 +1,81 @@
+{
+  "id": "147056",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/147056/mixed-citrus-vinaigrette/",
+  "requested_url": "https://www.allrecipes.com/recipe/147056/mixed-citrus-vinaigrette/",
+  "title": "Mixed Citrus Vinaigrette",
+  "description": "This is a delightful alternative to ordinary salad dressings. Works well with many types of salads ingredients like greens, vegetables, and fruits.",
+  "authors": [
+    "Alex99"
+  ],
+  "date_published": "2019-07-10T03:00:23-04:00",
+  "date_modified": "2025-03-14T17:22:28-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "French Inspired",
+    "American"
+  ],
+  "regions": [
+    "French Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon white balsamic vinegar",
+    "1 tablespoon orange juice",
+    "1 tablespoon grapefruit juice",
+    "1 tablespoon fresh lime juice",
+    "1 tablespoon fresh lemon juice",
+    "6 tablespoons olive oil",
+    "2 tablespoons chopped toasted walnuts",
+    "2 tablespoons grated Romano cheese",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mix together the vinegar, orange juice, grapefruit juice, lime juice, and lemon juice. Slowly add the olive oil while whisking vigorously. Add the walnuts and Romano cheese and stir. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "45 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "0 g",
+    "fatContent": "5 g",
+    "servingSize": "1 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hbmJ7dNMUvCaW8zF5lsb0RRtdKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/190085-1fdc3bd4c5e04d9585df115916822132.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/147056/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

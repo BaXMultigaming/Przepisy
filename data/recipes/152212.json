@@ -1,0 +1,86 @@
+{
+  "id": "152212",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/152212/easy-pumpkin-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/152212/easy-pumpkin-rice/",
+  "title": "Easy Pumpkin Rice",
+  "description": "Cooked rice is mixed with pumpkin puree seasoned with pumpkin pie spice and brown sugar to make this delightful side dish.",
+  "authors": [
+    "Amy M"
+  ],
+  "date_published": "2020-03-05T00:05:24-05:00",
+  "date_modified": "2025-02-21T12:00:15-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups instant rice",
+    "4 cups water",
+    "1 (29 ounce) can pumpkin puree",
+    "1.5 teaspoons pumpkin pie spice",
+    "1.5 cups brown sugar",
+    "0.5 cup butter",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine the rice and water in a large saucepan over medium heat; bring to a boil; cover and reduce heat to medium-low; simmer until the water is completely absorbed, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir together the pumpkin puree, pumpkin pie spice, brown sugar, butter, and salt in a separate saucepan over medium-low heat. Cook until warm. Stir pumpkin mixture into cooked rice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "475 kcal",
+    "carbohydrateContent": "88 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "346 mg",
+    "sugarContent": "43 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/O9ZxlByuHzPuFtissC0ZwId-WME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/279507-e151c8052cd54f63adf11f2263b930c7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/152212/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

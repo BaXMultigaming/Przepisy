@@ -1,0 +1,80 @@
+{
+  "id": "151113",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/151113/fast-and-simple-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/151113/fast-and-simple-salsa/",
+  "title": "Fast and Simple Salsa",
+  "description": "This quick and easy salsa recipe calls for nothing more than tomatoes, onion, green chile peppers, vinegar, and salt.",
+  "authors": [
+    "Mom Van"
+  ],
+  "date_published": "2018-06-08T09:49:21-04:00",
+  "date_modified": "2022-10-11T06:10:15-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "24",
+    "3 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large tomatoes, chopped",
+    "1 medium onion, chopped",
+    "0.75 cup green chile peppers, chopped",
+    "1 teaspoon vinegar",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomatoes, onion, and chile peppers in a strainer set over a bowl; drain briefly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer tomato mixture to a clean bowl. Stir in vinegar and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "12 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "84 mg",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/37LKgt0-bMR09pWBaAWE5bMQ_L4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/623087-fe3db2020f5e415c8e5f500b5d346eb9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/151113/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

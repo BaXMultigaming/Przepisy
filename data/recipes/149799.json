@@ -1,0 +1,101 @@
+{
+  "id": "149799",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/149799/easy-cold-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/149799/easy-cold-pasta-salad/",
+  "title": "Easy Cold Pasta Salad",
+  "description": "This easy cold pasta salad recipe with tomatoes, cucumbers, black olives, and tangy Italian dressing is quick to make and perfect for large gatherings.",
+  "authors": [
+    "Minnie K"
+  ],
+  "date_published": "2019-04-02T02:49:33-04:00",
+  "date_modified": "2026-04-16T12:42:50-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT150M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch",
+    "Dessert",
+    "Side Dish",
+    "Entree",
+    "Brunch",
+    "Salad",
+    "Pasta"
+  ],
+  "cuisines": [
+    "American",
+    "Italian"
+  ],
+  "regions": [
+    "American",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "14 ounces uncooked rotini pasta",
+    "2 cucumbers, chopped",
+    "0.75 cup pitted black olives, sliced",
+    "0.5 onion, finely chopped",
+    "10 cherry tomatoes, quartered",
+    "1 cup Italian-style salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil; cook rotini at a boil until tender yet firm to the bite, about 8 minutes. Drain in a colander set in the sink; cool under cold running water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine pasta, cucumbers, olives, onion, and tomatoes in a large bowl. Add Italian dressing; toss to combine. Cover and refrigerate before serving, at least 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/9M2b5H86QO5w4tXp2SIRZde0w6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/851693-b29ccc402d204b018e4a879a3d186bed.jpg"
+      ],
+      "image": "assets/images/149799/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "297 kcal",
+    "carbohydrateContent": "44 g",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "608 mg",
+    "sugarContent": "5 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "79"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/AOqO9BsS-K3AjnAEN.mp4",
+    "description": "Watch how to make this quick and easy cold pasta salad. A blend of rotini pasta, fresh tomatoes, crisp cucumbers and black olives make it a well-liked favorite during the summer months.",
+    "duration": "PT1M40S",
+    "name": "Easy Cold Pasta Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/AOqO9BsS/poster.jpg?width=1280",
+    "uploadDate": "2021-07-06T03:34:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9M2b5H86QO5w4tXp2SIRZde0w6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/851693-b29ccc402d204b018e4a879a3d186bed.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/149799/hero.webp",
+    "steps": [
+      null,
+      "assets/images/149799/step_02.webp"
+    ]
+  }
+}

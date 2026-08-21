@@ -1,0 +1,84 @@
+{
+  "id": "149726",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/149726/drunken-sailors/",
+  "requested_url": "https://www.allrecipes.com/recipe/149726/drunken-sailors/",
+  "title": "Drunken Sailors",
+  "description": "Kielbasa sausage is slow-cooked in a savory sauce of ketchup, barbecue sauce, brown sugar, and a splash of whiskey to make this drunken sailors recipe.",
+  "authors": [
+    "Travelbug"
+  ],
+  "date_published": "2020-03-05T00:05:12-05:00",
+  "date_modified": "2025-01-21T18:23:59-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT360M",
+  "total_time": "PT375M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) bottle ketchup",
+    "1 (12 ounce) bottle barbeque sauce",
+    "0.5 cup brown sugar",
+    "0.5 cup whiskey",
+    "1 (16 ounce) package kielbasa sausage, sliced into 1/2 inch pieces",
+    "1 box toothpicks"
+  ],
+  "steps": [
+    {
+      "text": "Pour ketchup and barbecue sauce into a slow cooker; stir in brown sugar and whiskey. Add sausage.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover slow cooker. Cook on low for 6 hours. Serve with toothpicks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "499 kcal",
+    "carbohydrateContent": "57 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "2054 mg",
+    "sugarContent": "49 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uYpFOEPoai3bRSy3FCc4wsm1aGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/967163-b89ef8187c9a4dbdba0f9b4f41924e02.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/149726/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

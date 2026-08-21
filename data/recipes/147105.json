@@ -1,0 +1,103 @@
+{
+  "id": "147105",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/147105/bacon-rosemary-mashed-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/147105/bacon-rosemary-mashed-potatoes/",
+  "title": "Bacon Rosemary Mashed Potatoes",
+  "description": "Creamy mashed potatoes are enhanced with the rich flavors of bacon, onion, rosemary, and garlic.",
+  "authors": [
+    "chocosaur"
+  ],
+  "date_published": "2020-02-13T21:54:50-05:00",
+  "date_modified": "2025-03-14T18:05:08-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 potatoes, cubed",
+    "0.25 cup butter",
+    "4 slices bacon",
+    "1 small red onion, chopped",
+    "1 clove garlic, minced",
+    "1 tablespoon minced fresh rosemary",
+    "0.5 cup milk",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place the cubed potatoes in a pot with enough salted water to cover. Bring to a boil, and cook until tender, about 30 minutes; drain. Add butter to drained potatoes to melt; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the potatoes are cooking, place bacon in a large, deep skillet. Cook over medium high heat until very crisp, about 5 minutes. Remove bacon to paper towels to drain; allow to cool and crumble. Leave 2 tablespoons bacon drippings in skillet and return it to the heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook the onion and garlic in the bacon drippings until tender, about 4 minutes. Stir in the rosemary and cook for 1 minute more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mash the potatoes with the melted butter. Mix in the crumbled bacon, the onion mixture, and milk; season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "458 mg",
+    "sugarContent": "2 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9C-_oenEJuQzGh2bK9zLtzgm-rQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9412659-1813901f9d8d4f5e84ce178cc49944d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/147105/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

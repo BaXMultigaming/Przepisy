@@ -1,0 +1,101 @@
+{
+  "id": "148515",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/148515/my-moms-good-old-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/148515/my-moms-good-old-potato-salad/",
+  "title": "My Mom’s Good Old Potato Salad",
+  "description": "The secrets to my Mom’s tangy, good old potato salad recipe are eggs and sweet pickles. You can use dressing instead of mayonnaise for a change of pace.",
+  "authors": [
+    "Andrea Parker"
+  ],
+  "date_published": "2015-12-05T02:00:15-05:00",
+  "date_modified": "2026-08-18T14:59:42-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT15M",
+  "total_time": "PT105M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 pounds potatoes, peeled and chopped",
+    "10 eggs",
+    "1 (24 ounce) jar sweet pickles, drained and chopped",
+    "2 cups mayonnaise",
+    "1 large onion, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in a large saucepan and cover with water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 12 minutes. Drain potatoes; refrigerate to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, cover the pan, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water, and peel. Chop eggs; place in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir sweet pickles, mayonnaise, and onion into eggs. Refrigerate to blend flavors, at least 30 minutes. Add potatoes; refrigerate at least 30 minutes more. Serve cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/inaijnC3LcQAv0r3nI4S6vy5m7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/464309-ddb32500832f44ce9b35d4310084b0b5.jpg"
+      ],
+      "image": "assets/images/148515/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "788 kcal",
+    "carbohydrateContent": "72 g",
+    "cholesterolContent": "253 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "806 mg",
+    "sugarContent": "20 g",
+    "fatContent": "51 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "124"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Up9AlKbp-ma1DlVvV.mp4",
+    "description": "AR0406",
+    "duration": "PT3M39S",
+    "name": "My Mom’s Good Old Potato Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Up9AlKbp/poster.jpg?width=1280",
+    "uploadDate": "2021-06-29T21:36:20-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/inaijnC3LcQAv0r3nI4S6vy5m7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/464309-ddb32500832f44ce9b35d4310084b0b5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/148515/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/148515/step_03.webp"
+    ]
+  }
+}

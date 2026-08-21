@@ -1,0 +1,84 @@
+{
+  "id": "148750",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/148750/vegetable-tom-yum-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/148750/vegetable-tom-yum-soup/",
+  "title": "Vegetable Tom Yum Soup",
+  "description": "This is a vegetable version of the classic Thai Tom Yum soup. Lemongrass, lime leaves, and galangal (a close relative of ginger) provide tons of Asian-inspired flavor.",
+  "authors": [
+    "trooworld"
+  ],
+  "date_published": "2018-04-11T09:01:40-04:00",
+  "date_modified": "2026-05-15T12:10:37-04:00",
+  "prep_time": "PT40M",
+  "cook_time": "PT35M",
+  "total_time": "PT75M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10.5 cups chicken stock",
+    "12 thin slices galangal",
+    "6 makrut lime leaves",
+    "3 stalks lemon grass, smashed and cut into 1 inch pieces",
+    "3 tablespoons hot chile paste",
+    "6 tablespoons fish sauce",
+    "9 tablespoons fresh lime juice",
+    "6 shallots, thinly sliced",
+    "3 plum (Roma) tomatoes, chopped",
+    "1 cup sliced button mushrooms",
+    "1.5 cups thinly sliced bok choy",
+    "1 cup thinly sliced carrot",
+    "6 sprigs fresh cilantro, for garnish",
+    "6 green onions, thinly sliced"
+  ],
+  "steps": [
+    {
+      "text": "Bring chicken stock, galangal, lime leaves, lemon grass, and hot chile paste to a boil in a large pot. Stir in fish sauce, lime juice, shallots, tomato, mushrooms, bok choy, and carrot. Reduce heat to medium-low, and simmer until the vegetables are tender, about 25 minutes. Garnish with cilantro and green onion before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "2398 mg",
+    "sugarContent": "8 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vUWZ_qpCjSVfjF5V1QYASrTRSPY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3289344-7d8d90ca47cc47bba65340da64ed6f03.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/148750/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "150121",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/150121/strawberry-banana-peanut-butter-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/150121/strawberry-banana-peanut-butter-smoothie/",
+  "title": "Strawberry Banana Peanut Butter Smoothie",
+  "description": "This easy smoothie is made with strawberry, banana, peanut butter, and nonfat plain yogurt for a creamy protein-packed treat with no added sugar.",
+  "authors": [
+    "Cynthia"
+  ],
+  "date_published": "2020-05-13T03:30:53-04:00",
+  "date_modified": "2026-08-07T22:56:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup nonfat plain yogurt",
+    "1 banana",
+    "4 fresh strawberries, hulled",
+    "2 tablespoons peanut butter",
+    "10 ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Place yogurt, banana, strawberries, and peanut butter into a blender. Add ice cubes and purée until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "389 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "243 mg",
+    "sugarContent": "28 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "77"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_B5FtjkEuU1Z3qVTLgwGKGNqSvk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4508285-5783d49226ec4285a8966303d6f90971.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/150121/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

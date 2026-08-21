@@ -1,0 +1,94 @@
+{
+  "id": "150711",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/150711/movie-star-popcorn/",
+  "requested_url": "https://www.allrecipes.com/recipe/150711/movie-star-popcorn/",
+  "title": "Movie Star Popcorn",
+  "description": "This homemade popcorn is made the old-fashioned way on the stovetop. It tastes great and is easy to make with pantry staples and nothing artificial!",
+  "authors": [
+    "Kali Doogarsingh"
+  ],
+  "date_published": "2018-06-08T09:49:17-04:00",
+  "date_modified": "2026-02-23T08:08:26-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "5",
+    "10 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons peanut oil",
+    "0.5 cup unpopped popcorn",
+    "0.5 teaspoon salt",
+    "2 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a 2- to 3-quart saucepan or pot with a lid set over medium-high heat. Pour in popcorn kernels and sprinkle enough salt to cover the layer of kernels lightly. Remember, you can always add more salt later. Add butter to the pot and cover with the lid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "As soon as kernels start to pop, shake the pot back and forth across the burner constantly until the popping slows down. When the pops are about 2 seconds apart, remove from heat and pour popcorn into a serving bowl. Taste and season with more salt if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/F3f8djrEx9VSxEMgw6etSHmZxe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7059414-0c12eb1ec06e4ce5b9a79cb7061bd0c0.jpg"
+      ],
+      "image": "assets/images/150711/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "187 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "266 mg",
+    "sugarContent": "0 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "203"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/97KfFHLu-JxZ4e411.mp4",
+    "description": "Pop your popcorn without using a microwave with this easy technique. In this video, learn how to make stovetop popcorn with butter and salt. First, pour peanut oil into the pot before adding in the popcorn kernels. Next, sprinkle enough salt to cover all of the kernels. Now, add in a few tablespoons of butter. Cover the pot and listen as your popcorn comes to life. Shake the pot back and forth until the popping stops. Finally, fill a bowl to the brim and enjoy the salty and buttery popcorn.",
+    "duration": "PT28S",
+    "name": "How to Make Stovetop Popcorn",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/97KfFHLu/poster.jpg?width=1280",
+    "uploadDate": "2023-03-17T15:18:52-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/F3f8djrEx9VSxEMgw6etSHmZxe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7059414-0c12eb1ec06e4ce5b9a79cb7061bd0c0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/150711/hero.webp",
+    "steps": [
+      null,
+      "assets/images/150711/step_02.webp"
+    ]
+  }
+}

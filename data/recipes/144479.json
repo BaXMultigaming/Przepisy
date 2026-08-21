@@ -1,0 +1,84 @@
+{
+  "id": "144479",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/144479/garlic-fried-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/144479/garlic-fried-rice/",
+  "title": "Garlic Fried Rice",
+  "description": "Garlic, onions, and lemon juice to add interest to plain white rice.",
+  "authors": [
+    "Spryte"
+  ],
+  "date_published": "2019-07-10T03:00:10-04:00",
+  "date_modified": "2025-02-19T15:23:25-05:00",
+  "prep_time": "PT4M",
+  "cook_time": "PT30M",
+  "total_time": "PT34M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup uncooked white rice",
+    "2 cups water",
+    "1 teaspoon butter",
+    "1 clove garlic, minced",
+    "1 small onion, minced",
+    "1 tablespoon lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Combine the rice and water in a saucepan and bring to a boil. Cover, reduce heat to low, and simmer until rice is tender and water is absorbed. Set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in a large skillet over medium-high heat. Add onion and garlic; cook and stir until fragrant and lightly browned. Stir in rice and cook until coated and heated through. Remove from the heat and stir in the lemon juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "187 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ByAfByK7rIxDLXD7vsitzeGAgFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/777244_Garlic-Fried-Rice-4x3-0ec942eb2c4b4dedbf4c0cca99e066a8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/144479/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

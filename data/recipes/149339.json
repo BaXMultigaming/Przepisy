@@ -1,0 +1,80 @@
+{
+  "id": "149339",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/149339/orange-mango-and-ginger-sorbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/149339/orange-mango-and-ginger-sorbet/",
+  "title": "Orange, Mango, and Ginger Sorbet",
+  "description": "Sliced ginger root and lime zest add a tangy component to this sorbet made with orange, mango, and lemon juice.",
+  "authors": [
+    "Bearskat"
+  ],
+  "date_published": "2020-06-18T23:32:24-04:00",
+  "date_modified": "2020-06-18T23:32:24-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT410M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "1.5 cups white sugar",
+    "1 (2 inch) piece fresh ginger, peeled and thinly sliced",
+    "1 pinch sea salt",
+    "1 teaspoon lime zest",
+    "2 cups orange juice",
+    "1 cup mango juice",
+    "0.33333334326744 cup lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Combine the water, sugar, ginger, salt, and lime zest in a saucepan; bring to a boil. Reduce heat to low and simmer 5 minutes. Allow mixture to cool; strain. Stir in the orange juice, mango juice, and lemon juice. Cover and chill 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill an ice cream maker with the mixture, and freeze according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "195 kcal",
+    "carbohydrateContent": "50 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "43 mg",
+    "sugarContent": "47 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1n1mbVDTkPNgsUEu6lQGEuB1E44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5397079-aa86def34c114791b717c62eca080a50.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/149339/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
