@@ -1,0 +1,100 @@
+{
+  "id": "14267",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14267/restaurant-style-coleslaw-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/14267/restaurant-style-coleslaw-i/",
+  "title": "Restaurant-Style Coleslaw",
+  "description": "This coleslaw recipe makes creamy coleslaw with a sweet-tart taste. The dressing is made with buttermilk, mayonnaise, lemon juice, and vinegar.",
+  "authors": [
+    "mrasdon"
+  ],
+  "date_published": "1999-08-26T09:08:07-04:00",
+  "date_modified": "2026-04-16T11:49:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.5 cup mayonnaise",
+    "0.33333334326744 cup white sugar",
+    "0.25 cup milk",
+    "0.25 cup buttermilk",
+    "2.5 tablespoons lemon juice",
+    "1.5 tablespoons white wine vinegar",
+    "0.5 teaspoon salt",
+    "0.125 teaspoon ground black pepper",
+    "1 (16 ounce) package coleslaw mix",
+    "2 tablespoons minced onion"
+  ],
+  "steps": [
+    {
+      "text": "Stir mayonnaise, sugar, milk, buttermilk, lemon juice, vinegar, salt, and pepper together in a bowl until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine coleslaw mix and onion in a large bowl. Pour mayonnaise mixture over top and stir until well combined. Chill for 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2mpIP_SrTJvkYGOOEob1Ut2XEaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/635066-6a2c22f1e3fe4b86b013cc9f24870790.jpg"
+      ],
+      "image": "assets/images/14267/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "248 mg",
+    "sugarContent": "9 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "1234"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ouxmuM2Y-ma1DlVvV.mp4",
+    "description": "AR1196",
+    "duration": "PT1M57S",
+    "name": "Restaurant-Style Coleslaw I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ouxmuM2Y/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T11:48:51-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2mpIP_SrTJvkYGOOEob1Ut2XEaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/635066-6a2c22f1e3fe4b86b013cc9f24870790.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14267/hero.webp",
+    "steps": [
+      null,
+      "assets/images/14267/step_02.webp"
+    ]
+  }
+}

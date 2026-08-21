@@ -1,0 +1,87 @@
+{
+  "id": "14122",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14122/green-chutney/",
+  "requested_url": "https://www.allrecipes.com/recipe/14122/green-chutney/",
+  "title": "Green Chutney",
+  "description": "This is a very tasty cilantro-based chutney that can be prepared in minutes. Just add fresh lemon juice, a small green chili, peanuts, salt, garlic, and fresh ginger to the cilantro and process until smooth.",
+  "authors": [
+    "Rani"
+  ],
+  "date_published": "1999-10-21T11:21:32-04:00",
+  "date_modified": "2024-11-23T22:37:15-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 bunch fresh cilantro",
+    "1 clove garlic",
+    "1 tablespoon minced fresh ginger root",
+    "1 minced hot green chile peppers",
+    "1 tablespoon peanuts",
+    "salt to taste",
+    "2 tablespoons lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Blend the following in a food processor until smooth: cilantro, garlic, ginger, green chili, peanuts, salt to taste, and lemon juice. Add a few drops of water if the mixture is too dry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MqTHQMgI3aUYeuLcoU2jRQoERbk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32810-green-chutney-Marigat-1x1-1-2556627f37184d2099f202ef714d78b5.jpg"
+      ],
+      "image": "assets/images/14122/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "25 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "53"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/2SOmIEBD-K3AjnAEN.mp4",
+    "description": "A delicious cilantro based chutney that works with any number of Indian dishes. It is whipped up in minutes in the food processor or blender.",
+    "duration": "PT41S",
+    "name": "Green Chutney",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/2SOmIEBD/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T02:31:40-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MqTHQMgI3aUYeuLcoU2jRQoERbk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32810-green-chutney-Marigat-1x1-1-2556627f37184d2099f202ef714d78b5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14122/hero.webp",
+    "steps": [
+      "assets/images/14122/step_01.webp"
+    ]
+  }
+}

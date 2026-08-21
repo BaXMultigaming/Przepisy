@@ -1,0 +1,86 @@
+{
+  "id": "14088",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14088/fresh-tomato-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/14088/fresh-tomato-salsa/",
+  "title": "Fresh Tomato Salsa",
+  "description": "Finely chopped Serrano chilies make this salsa nippy and nice. Combine with tomatoes, onions, cilantro and lime juice, and this salsa is ready for dipping.",
+  "authors": [
+    "Sandra"
+  ],
+  "date_published": "1999-09-24T06:24:57-04:00",
+  "date_modified": "2025-11-20T15:05:23-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tomatoes, chopped",
+    "0.5 cup finely diced onion",
+    "5 serrano chiles, finely chopped",
+    "0.5 cup chopped fresh cilantro",
+    "1 teaspoon salt",
+    "2 teaspoons lime juice"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, stir together tomatoes, onion, chili peppers, cilantro, salt, and lime juice. Chill for one hour in the refrigerator before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/W-w9Ay2DZAR6usQju0Au-bJzv6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/797844-d941fe7db06d41f58191e7ba454d36de.jpg"
+      ],
+      "image": "assets/images/14088/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "52 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "592 mg",
+    "sugarContent": "3 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "764"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/LgTDAJFz-ma1DlVvV.mp4",
+    "description": "AR0481",
+    "duration": "PT2M26S",
+    "name": "Fresh Tomato Salsa",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LgTDAJFz/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T09:21:51-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/W-w9Ay2DZAR6usQju0Au-bJzv6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/797844-d941fe7db06d41f58191e7ba454d36de.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14088/hero.webp",
+    "steps": [
+      "assets/images/14088/step_01.webp"
+    ]
+  }
+}

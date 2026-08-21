@@ -1,0 +1,88 @@
+{
+  "id": "13772",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13772/ranch-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/13772/ranch-potatoes/",
+  "title": "Ranch Potatoes",
+  "description": "These mashed potatoes made with a brick of cream cheese are seasoned with packaged ranch salad dressing mix.",
+  "authors": [
+    "Erica"
+  ],
+  "date_published": "1998-11-06T23:19:58-05:00",
+  "date_modified": "2022-07-14T18:01:55-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "9",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 pounds peeled and cubed potatoes",
+    "1 (8 ounce) package cream cheese, softened",
+    "1 (1 ounce) package ranch dressing mix",
+    "4 tablespoons heavy cream",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Bring a pot of salted water to a boil. Add potatoes; cook until tender but still firm. Drain, and transfer to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Before mashing potatoes, add the cream cheese, salad dressing, cream and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat with a mixer until smooth. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "312 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "309 mg",
+    "sugarContent": "2 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Fnp_XK83bvq5TO241sTGo3oj3Yg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/817389-03fe50ca76904fd48f613770702f32c7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13772/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

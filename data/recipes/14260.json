@@ -1,0 +1,107 @@
+{
+  "id": "14260",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14260/mediterranean-lentil-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14260/mediterranean-lentil-salad/",
+  "title": "Mediterranean Lentil Salad",
+  "description": "This lentil salad made with tender brown lentils, carrots, red onion, celery, and a fresh lemon dressing is a delicious and nutritious salad.",
+  "authors": [
+    "jen"
+  ],
+  "date_published": "1999-08-13T06:39:46-04:00",
+  "date_modified": "2026-05-05T14:09:39-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "European",
+    "American"
+  ],
+  "regions": [
+    "European",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup dry brown lentils",
+    "1 cup diced carrots",
+    "1 cup red onion, diced",
+    "2 cloves garlic, minced",
+    "1 bay leaf",
+    "0.5 teaspoon dried thyme",
+    "2 tablespoons lemon juice",
+    "0.5 cup diced celery",
+    "0.25 cup chopped parsley",
+    "1 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "0.25 cup olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mXPerGCMLOyIdjIE-GEUzTlZFYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14260-Mediterranean-Lentil-Salad-DDMFS-Step-01-17125-ea093003f07045d095779f8ac1a5f51b.jpg"
+      ],
+      "image": "assets/images/14260/step_01.webp"
+    },
+    {
+      "text": "Combine lentils, carrots, onion, garlic, bay leaf, and thyme in a saucepan. Add enough water to cover by 1 inch; bring to a boil, reduce heat and simmer uncovered for 15 to 20 minutes or until lentils are tender but not mushy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/43m9DmShiQ9ssV68mokxL2rkqR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14260-Mediterranean-Lentil-Salad-DDMFS-Step-02-17130-cecd33cc04294dff9432f4cc4af2e760.jpg"
+      ],
+      "image": "assets/images/14260/step_02.webp"
+    },
+    {
+      "text": "Drain lentils and vegetables and remove bay leaf. Add olive oil, lemon juice, celery, parsley, salt and pepper. Toss gently to mix and serve at room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/aitCEX2qsUCftWvFOVA_ibFp9NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14260-Mediterranean-Lentil-Salad-DDMFS-Step-04-17132-2fb2145e05e548e9b28f4293d8f8b26c.jpg"
+      ],
+      "image": "assets/images/14260/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "147 kcal",
+    "carbohydrateContent": "16 g",
+    "fiberContent": "6 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "453 mg",
+    "sugarContent": "3 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "167"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/itsMxf1qAH-UBQ6bZXe-_f7wFPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14260-Mediterranean-Lentil-Salad-DDMFS-4x3-17145-a16317d5b56e409dab02d7d9055c583f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14260/hero.webp",
+    "steps": [
+      "assets/images/14260/step_01.webp",
+      "assets/images/14260/step_02.webp",
+      "assets/images/14260/step_03.webp"
+    ]
+  }
+}

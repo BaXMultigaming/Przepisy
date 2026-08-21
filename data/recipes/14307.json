@@ -1,0 +1,104 @@
+{
+  "id": "14307",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14307/broccoli-cauliflower-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14307/broccoli-cauliflower-salad/",
+  "title": "Broccoli Cauliflower Salad",
+  "description": "This simple broccoli and cauliflower salad is layered with hard-boiled eggs, Cheddar cheese, and bacon and served with a tasty mayonnaise-based dressing.",
+  "authors": [
+    "Colleen"
+  ],
+  "date_published": "1999-08-10T00:24:59-04:00",
+  "date_modified": "2025-12-22T12:13:08-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 slices bacon",
+    "1 cup mayonnaise",
+    "0.5 cup white sugar",
+    "2 tablespoons white wine vinegar",
+    "1 cup broccoli florets",
+    "1 cup cauliflower florets",
+    "2 cups hard-cooked eggs, diced",
+    "1 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain, remove from the heat, and crumble when cool enough to handle.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk mayonnaise, sugar, and vinegar together in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Layer broccoli, cauliflower, eggs, Cheddar, and crumbled bacon (in that order) in a medium bowl. Drizzle dressing over top and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/O435MF6bICbqzM2jcJ_vdYggr0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2875-7c726106613a4fdcb2fe6fed651f0fd2.jpg"
+      ],
+      "image": "assets/images/14307/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "400 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "177 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "453 mg",
+    "sugarContent": "14 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "301"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/eOQCycVd-ma1DlVvV.mp4",
+    "description": "AR1249",
+    "duration": "PT2M42S",
+    "name": "Broccoli-Cauliflower Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/eOQCycVd/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T05:54:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/O435MF6bICbqzM2jcJ_vdYggr0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2875-7c726106613a4fdcb2fe6fed651f0fd2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14307/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14307/step_03.webp"
+    ]
+  }
+}

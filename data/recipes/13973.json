@@ -1,0 +1,83 @@
+{
+  "id": "13973",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13973/marinated-vegetable-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/13973/marinated-vegetable-salad/",
+  "title": "Marinated Vegetable Salad",
+  "description": "Celery seed dressing is used to marinate this mixture of vegetables.",
+  "authors": [
+    "Abby y Salah"
+  ],
+  "date_published": "1999-07-19T18:40:54-04:00",
+  "date_modified": "2022-07-14T15:48:15-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup white sugar",
+    "1 teaspoon celery seed",
+    "0.5 teaspoon ground black pepper",
+    "1 cup distilled white vinegar",
+    "0.25 cup canola oil",
+    "1 teaspoon salt",
+    "2 cups cucumbers, peeled and thinly sliced",
+    "1 onion, sliced into thin rings",
+    "2 cups thinly sliced carrots",
+    "0.5 cup chopped celery"
+  ],
+  "steps": [
+    {
+      "text": "Combine sugar, celery seeds, black pepper, vinegar, oil, and salt in a screw-top jar. Shake well to mix.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine vegetables in large bowl. Pour dressing over vegetables, and stir gently. Cover, and refrigerate several hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "319 kcal",
+    "carbohydrateContent": "48 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "639 mg",
+    "sugarContent": "42 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/88eupna6Em4pflkNhKEFzHKy-Sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/378527-92ab08c3561b481e97f4dfeb0d2d7f8e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13973/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

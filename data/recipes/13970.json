@@ -1,0 +1,83 @@
+{
+  "id": "13970",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13970/dulcia-domestica/",
+  "requested_url": "https://www.allrecipes.com/recipe/13970/dulcia-domestica/",
+  "title": "Dulcia Domestica",
+  "description": "These dates are stuffed with chopped pine nuts, cooked in wine and honey and then cooled before being devoured.",
+  "authors": [
+    "Talia"
+  ],
+  "date_published": "1999-07-14T18:05:12-04:00",
+  "date_modified": "2022-07-14T17:29:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 pitted dates",
+    "0.25 cup chopped, toasted pine nuts",
+    "3 tablespoons red wine",
+    "0.125 teaspoon ground black pepper",
+    "0.25 cup honey"
+  ],
+  "steps": [
+    {
+      "text": "Stuff dates with chopped nuts: the nuts are inserted into the space left by the pit.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place dates in a small pan. Sprinkle with pepper if desired. Add wine, then drizzle honey over dates. Cook over medium heat until the skins begin to peel off the fruit. Transfer dates to a serving dish, and allow to cool slightly before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "192 kcal",
+    "carbohydrateContent": "38 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "34 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/k_I0neDGS9_qzBDBgsBeb73wL_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/62532-6b48e9f716fd4178895e0199572e8bdb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13970/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

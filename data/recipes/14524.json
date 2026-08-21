@@ -1,0 +1,118 @@
+{
+  "id": "14524",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14524/wisconsin-bratwurst/",
+  "requested_url": "https://www.allrecipes.com/recipe/14524/wisconsin-bratwurst/",
+  "title": "Wisconsin Bratwurst",
+  "description": "In this simple Wisconsin brats recipe, fresh bratwurst sausages are cooked with beer and sliced onions, then grilled until brown and irresistible.",
+  "authors": [
+    "Bob Cody"
+  ],
+  "date_published": "1999-09-06T21:02:35-04:00",
+  "date_modified": "2026-03-11T08:10:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner",
+    "Drink"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 pounds fresh bratwurst sausages",
+    "6 (12 fluid ounce) cans or bottles beer",
+    "2 onions, thinly sliced",
+    "1 cup butter",
+    "1.5 teaspoons ground black pepper",
+    "10 hoagie rolls"
+  ],
+  "steps": [
+    {
+      "text": "Prick bratwurst with a fork to prevent them from exploding as they cook.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fDhukyPfbdelIUgbma-XxQgvUMk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsinbrats_ddmfs_step1_4x3_1134-a4f0a1c18908497db84bd7b18b6b60fa.jpg"
+      ],
+      "image": "assets/images/14524/step_01.webp"
+    },
+    {
+      "text": "Place in a large stockpot. Add beer, onions, butter, and black pepper. Place the stockpot over medium heat, bring to a boil and simmer for 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2gFxUz1jyeIWYn-zBMs2U5gn8BY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsinbrats_ddmfs_step2_4x3_1138-fbbe0af10450476ca444fa91c2fdf117.jpg"
+      ],
+      "image": "assets/images/14524/step_02.webp"
+    },
+    {
+      "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook bratwurst on the preheated grill until evenly browned, about 10 to 14 minutes, turning occasionally. Serve hot off the grill with onions on hoagie rolls.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rW4EVCGNrNflXxw8U1iN1y-_7BU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsin-brats_ddmfs_4x3_1149-3bbb0beec69942ada6e196d2e0602a53.jpg"
+      ],
+      "image": "assets/images/14524/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "558 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "116 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "908 mg",
+    "fatContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "458"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jXY4jhHB-K3AjnAEN.mp4",
+    "description": "These classic brats are boiled in beer and onions and finished on the grill.",
+    "duration": "PT1M7S",
+    "name": "Wisconsin Bratwurst",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jXY4jhHB/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T21:52:44-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rW4EVCGNrNflXxw8U1iN1y-_7BU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14524_wisconsin-brats_ddmfs_4x3_1149-3bbb0beec69942ada6e196d2e0602a53.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14524/hero.webp",
+    "steps": [
+      "assets/images/14524/step_01.webp",
+      "assets/images/14524/step_02.webp",
+      null,
+      "assets/images/14524/step_04.webp"
+    ]
+  }
+}

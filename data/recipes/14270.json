@@ -1,0 +1,76 @@
+{
+  "id": "14270",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14270/spicy-tex-mex-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14270/spicy-tex-mex-salad/",
+  "title": "Spicy Tex-Mex Salad",
+  "description": "This is an unusual Tex-Mex salad that everyone in my office loves. I get requests for it time and time again.",
+  "authors": [
+    "Terra May"
+  ],
+  "date_published": "1999-07-25T17:35:41-04:00",
+  "date_modified": "2022-09-06T18:27:31-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Tex Mex"
+  ],
+  "regions": [
+    "Tex Mex"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can pinto beans, drained and rinsed",
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "3 tomatoes, chopped",
+    "1.5 cups shredded Cheddar and Monterey cheese blend",
+    "1 (10 ounce) package chopped romaine lettuce",
+    "1 (16 ounce) bottle Catalina salad dressing",
+    "1 (16 ounce) package corn chips"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, combine pinto beans, black beans, tomatoes, cheese blend, and lettuce. Add 3/4 of the dressing and mix well. Add corn chips before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "542 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1077 mg",
+    "sugarContent": "12 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zkx2Aa6f7BfL2D-iHyDY5_uMCL8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2988348-25033348ee41427e8cf29bcd5e5f8416.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14270/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

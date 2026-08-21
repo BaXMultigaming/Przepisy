@@ -1,0 +1,129 @@
+{
+  "id": "14562",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14562/london-broil-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/14562/london-broil-ii/",
+  "title": "London Broil",
+  "description": "This London broil recipe is a quick fix for an inexpensive cut. Mix up a flavorful marinade and let the meat sit overnight for a perfect flank steak.",
+  "authors": [
+    "Jill"
+  ],
+  "date_published": "1999-08-04T06:29:29-04:00",
+  "date_modified": "2025-12-18T13:24:28-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT325M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons soy sauce",
+    "1 tablespoon ketchup",
+    "1 tablespoon vegetable oil",
+    "1 clove garlic, minced",
+    "1 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "0.5 teaspoon dried oregano",
+    "4 pounds flank steak"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/9cIJx_fxfWOTafS4DGQwd1Z7e64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14562-london-broil-ii-ddmfs-Step1-1500-60c6039f8b124d2cb79a4e6596f12cbc.jpg"
+      ],
+      "image": "assets/images/14562/step_01.webp"
+    },
+    {
+      "text": "Mix soy sauce, ketchup, vegetable oil, garlic, salt, pepper, and oregano together in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/E5ZB8YszTBalmXoEzX_Ipcli4eY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14562-london-broil-ii-ddmfs-Step2-1501-43ff36ce3a54434bb2b041f43675e2b9.jpg"
+      ],
+      "image": "assets/images/14562/step_02.webp"
+    },
+    {
+      "text": "Score both sides of steak in a diamond cut, about 1/8 inch deep. Rub marinade into both sides of the meat. Store in a covered dish or resealable plastic bag in the refrigerator to marinate for 5 to 6 hours, or overnight. Flip meat every few hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ku12-ui2f22BKb06A65ga1_6cYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14562-london-broil-ii-ddmfs-Step3-1503-ad6eee406b8c47a3b37559935bead00c.jpg"
+      ],
+      "image": "assets/images/14562/step_03.webp"
+    },
+    {
+      "text": "Preheat an outdoor grill for high heat, and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place steak on the preheated grill. Cook for 3 to 7 minutes per side, or to the desired doneness.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4svyeS-Uj3J-pJ3vul8FxZQltGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14562-london-broil-ii-ddmfs-3X4-1604-75f70b741cb4485290489ea4311f04f1.jpg"
+      ],
+      "image": "assets/images/14562/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "396 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "93 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "49 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "773 mg",
+    "sugarContent": "1 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1112"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/kngIeN0u-ma1DlVvV.mp4",
+    "description": "AR0557",
+    "duration": "PT3M8S",
+    "name": "London Broil II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kngIeN0u/poster.jpg?width=1280",
+    "uploadDate": "2021-07-06T15:23:19-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4svyeS-Uj3J-pJ3vul8FxZQltGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14562-london-broil-ii-ddmfs-3X4-1604-75f70b741cb4485290489ea4311f04f1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14562/hero.webp",
+    "steps": [
+      "assets/images/14562/step_01.webp",
+      "assets/images/14562/step_02.webp",
+      "assets/images/14562/step_03.webp",
+      null,
+      "assets/images/14562/step_05.webp"
+    ]
+  }
+}

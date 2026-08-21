@@ -1,0 +1,101 @@
+{
+  "id": "14350",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14350/restaurant-style-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14350/restaurant-style-potato-salad/",
+  "title": "Restaurant-Style Potato Salad",
+  "description": "Parsley, shredded carrot, pimentos and white onion all play their part in making the dressing and the salad taste sensational in this russet potato salad recipe.",
+  "authors": [
+    "Mary Ann Benzon"
+  ],
+  "date_published": "1999-08-28T15:28:51-04:00",
+  "date_modified": "2024-11-24T00:28:37-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds russet potatoes",
+    "1 cup mayonnaise",
+    "4 teaspoons sweet pickle relish",
+    "4 teaspoons white sugar",
+    "2 teaspoons chopped white onion",
+    "2 teaspoons prepared mustard",
+    "1 teaspoon white wine vinegar",
+    "1 tablespoon minced celery",
+    "1 teaspoon minced pimento",
+    "0.5 teaspoon shredded carrot",
+    "0.25 teaspoon dried parsley",
+    "0.25 teaspoon ground black pepper",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain, cool, and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine potatoes, mayonnaise, sweet pickle relish, sugar, onion, mustard, vinegar, celery, pimentos, carrot, parsley, pepper, and salt. Mix well, chill and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/s6EFgOJkQ2h9VPZ3wlse3kUVQxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4512106-restaurant-style-potato-salad-Ronna-1x1-1-c6710820d0624f64b44045f777667e86.jpg"
+      ],
+      "image": "assets/images/14350/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "298 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "200 mg",
+    "sugarContent": "4 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "386"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/VTTbSHyf-K3AjnAEN.mp4",
+    "description": "In this video, we'll share with you a restaurant-worthy potato salad. It is ready in under an hour and has ingredients you will likely have on hand in your fridge and pantry. The salad is creamy and has a nice tang from mustard and vinegar. Feel free to use more vegetables and add fresh herbs.",
+    "duration": "PT1M42S",
+    "name": "Restaurant-Style Potato Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/VTTbSHyf/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T16:05:20-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s6EFgOJkQ2h9VPZ3wlse3kUVQxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4512106-restaurant-style-potato-salad-Ronna-1x1-1-c6710820d0624f64b44045f777667e86.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14350/hero.webp",
+    "steps": [
+      null,
+      "assets/images/14350/step_02.webp"
+    ]
+  }
+}

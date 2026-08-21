@@ -1,0 +1,85 @@
+{
+  "id": "14481",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14481/angels-chunky-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14481/angels-chunky-chicken-salad/",
+  "title": "Angel&#39;s Chunky Chicken Salad",
+  "description": "I made up this recipe after a similar sandwich served at a diner. It&#39;s not the same, but just as good.",
+  "authors": [
+    "Angel"
+  ],
+  "date_published": "1999-11-06T12:29:04-05:00",
+  "date_modified": "2024-12-24T11:43:31-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cooked, boneless chicken breast half, chopped",
+    "2 stalks celery, chopped",
+    "3 tablespoons mayonnaise",
+    "0.5 onion, finely diced",
+    "2 dill pickles, chopped",
+    "0.25 teaspoon garlic powder",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine the chicken, celery, mayonnaise, onion and pickle; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season with the garlic powder, salt and pepper. Serve with lettuce on fresh crusty bread or bun.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1018 mg",
+    "sugarContent": "3 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "224"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UeD3lOvVgWHoLEXsmtEtimAepBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/121860-63e10c40f3684f7dafbdd92ad381b5f5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14481/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

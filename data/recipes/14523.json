@@ -1,0 +1,98 @@
+{
+  "id": "14523",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14523/murphy-steaks/",
+  "requested_url": "https://www.allrecipes.com/recipe/14523/murphy-steaks/",
+  "title": "Murphy Steaks",
+  "description": "This is a very simple, quick, delicious recipe for garlic-stuffed steaks. We use a lot of garlic! Serve with baked potatoes and a green salad.",
+  "authors": [
+    "Carisa Yake"
+  ],
+  "date_published": "1999-09-06T11:30:30-04:00",
+  "date_modified": "2025-02-24T08:49:49-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT10M",
+  "total_time": "PT280M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds beef tenderloin steaks",
+    "1 bulb garlic, cloves separated and peeled",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Separate garlic bulb into cloves, and peel. Cut into lengthwise strips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Using a sharp knife, punch holes into steak. Stuff holes with garlic strips. Cover, and refrigerate for at least 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat grill for hot heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly oil grate. Place stuffed steaks on hot grill, garlic side up. Cook for 4 to 5 minutes, turn, and season with salt and pepper. Continue cooking until done, another 4 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "304 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "113 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "87 mg",
+    "sugarContent": "0 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rJu7n9gQv2BT6vgUM6wGLYYjffY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3719022-dc206e55b5744768ad20694813469372.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14523/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

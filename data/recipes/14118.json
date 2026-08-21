@@ -1,0 +1,89 @@
+{
+  "id": "14118",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14118/minestrone-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/14118/minestrone-soup/",
+  "title": "Minestrone Soup",
+  "description": "This Minestrone soup recipe uses vegetable stock for the base and adds beans, orzo, corn, zucchini, cabbage, potatoes, and carrots for a hearty meal.",
+  "authors": [
+    "Maryanne"
+  ],
+  "date_published": "1999-10-15T18:50:50-04:00",
+  "date_modified": "2025-01-29T19:02:34-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "9"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups vegetable stock",
+    "2 (14.5 ounce) cans stewed tomatoes",
+    "1 large potato, cubed",
+    "1 onion, chopped",
+    "2 stalks celery, chopped",
+    "2 carrots, chopped",
+    "1 large head cabbage, finely chopped",
+    "2 tablespoons Italian seasoning",
+    "1 (15 ounce) can kidney beans",
+    "3 cups fresh corn kernels",
+    "1 large zucchini, sliced",
+    "1 cup uncooked orzo pasta",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large soup pot, combine vegetable stock, undrained tomatoes, potato, onion, celery, carrot, cabbage, and Italian seasoning. Bring to a boil and reduce heat. Simmer for about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in beans, corn, zucchini, and pasta; simmer for 10 to 15 more minutes until the vegetables are tender. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "399 kcal",
+    "carbohydrateContent": "81 g",
+    "fiberContent": "18 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "382 mg",
+    "sugarContent": "13 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "113"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zBc8BzAoz2yyDTj5ChCVAa4-CG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/449163-a876afc8448041bca9b91c1c61f34013.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14118/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

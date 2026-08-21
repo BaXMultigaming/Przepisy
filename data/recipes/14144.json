@@ -1,0 +1,109 @@
+{
+  "id": "14144",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14144/bean-quesadillas/",
+  "requested_url": "https://www.allrecipes.com/recipe/14144/bean-quesadillas/",
+  "title": "Bean Quesadillas",
+  "description": "Veggies, beans, and cheese sandwiched between two tortillas then heated in oil until golden on both sides.",
+  "authors": [
+    "jjenkraynakorriss"
+  ],
+  "date_published": "1999-11-07T14:55:47-05:00",
+  "date_modified": "2024-12-16T19:45:13-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 onion, finely diced",
+    "2 cloves garlic, minced",
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "1 green bell pepper, chopped",
+    "2 tomatoes, chopped",
+    "0.5 (10 ounce) package frozen corn",
+    "12 (12 inch) flour tortillas",
+    "1 cup shredded Cheddar cheese",
+    "0.25 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Heat 1 tablespoon oil in a skillet over medium heat, and saute the onion and garlic until soft. Mix in beans, bell pepper, tomatoes, and corn; cook until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread 6 tortillas with equal amounts of the bean and vegetable mixture. Sprinkle with equal amounts of the Cheddar cheese, and top with the remaining tortillas to form quesadillas.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 1/4 cup oil in a large skillet over medium-high heat. Place quesadillas in the skillet and cook, turning once, until cheese is melted and both sides are lightly browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1NrF9dV8GvzfOe44ktgRdUxr26c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14144bean-quesadillasChefMo4x3-c0e5313ef4d44da08ea6a6ff0283bab5.jpg"
+      ],
+      "image": "assets/images/14144/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "504 kcal",
+    "carbohydrateContent": "70 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "913 mg",
+    "sugarContent": "4 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "437"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/7VTILKlV-ma1DlVvV.mp4",
+    "description": "AR0870",
+    "duration": "PT5M2S",
+    "name": "Bean Quesadillas",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7VTILKlV/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T21:02:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1NrF9dV8GvzfOe44ktgRdUxr26c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14144bean-quesadillasChefMo4x3-c0e5313ef4d44da08ea6a6ff0283bab5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14144/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14144/step_03.webp"
+    ]
+  }
+}

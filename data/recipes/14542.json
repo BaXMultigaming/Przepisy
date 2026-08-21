@@ -1,0 +1,105 @@
+{
+  "id": "14542",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14542/spicy-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/14542/spicy-burgers/",
+  "title": "Spicy Burgers",
+  "description": "These burgers are chock full of spicy peppers. When handling the chile peppers be sure to wear gloves, and don&#39;t let the pepper oils come in contact with your eyes. Serve on buns with your favorite toppings.",
+  "authors": [
+    "Maryellen"
+  ],
+  "date_published": "1999-09-10T03:03:47-04:00",
+  "date_modified": "2026-06-02T11:57:41-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "2 teaspoons minced garlic",
+    "2 fresh jalapeno peppers, seeded and minced",
+    "1 small fresh poblano chile pepper, seeded and minced",
+    "1 fresh habanero pepper, seeded and minced",
+    "1 teaspoon crushed red pepper flakes",
+    "2 tablespoons chopped fresh cilantro",
+    "1 teaspoon ground cumin"
+  ],
+  "steps": [
+    {
+      "text": "Preheat grill for high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix together the beef, garlic, jalapeno peppers, poblano pepper, habanero pepper, red pepper flakes, cilantro, and cumin. Form into burger patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly oil the grill grate. Place burgers on grill, and cook for 5 minutes per side, or until well done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/roen64cdRR5IpEXHVvliTAqGfdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/875691-bd29da32e47e46a29c4372216e54cd1c.jpg"
+      ],
+      "image": "assets/images/14542/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "232 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "67 mg",
+    "sugarContent": "0 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "56"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/1zYCgNCR-ma1DlVvV.mp4",
+    "description": "See how to make spicy grilled burgers with a healthy side salad.",
+    "duration": "PT1M49S",
+    "name": "Spicy Burgers with Melon and Jicama Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1zYCgNCR/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T09:34:47-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/roen64cdRR5IpEXHVvliTAqGfdQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/875691-bd29da32e47e46a29c4372216e54cd1c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14542/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14542/step_03.webp"
+    ]
+  }
+}

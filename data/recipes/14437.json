@@ -1,0 +1,86 @@
+{
+  "id": "14437",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14437/raita/",
+  "requested_url": "https://www.allrecipes.com/recipe/14437/raita/",
+  "title": "Raita",
+  "description": "Raita mixes chopped tomatoes and cucumbers tossed with sour cream, yogurt, garlic, and cumin for a refreshing dressing to serve with spicy dishes.",
+  "authors": [
+    "Katherine Denning"
+  ],
+  "date_published": "1999-09-26T18:42:45-04:00",
+  "date_modified": "2024-11-27T02:50:00-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup plain yogurt",
+    "1 cup sour cream",
+    "3 cucumbers, seeded and chopped",
+    "1 tomato, seeded and chopped",
+    "1 teaspoon ground cumin",
+    "0.5 teaspoon paprika",
+    "4 cloves crushed garlic",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together yogurt, sour cream, cumin, paprika, and garlic in a salad bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add cucumbers and tomatoes; toss and chill at least 30 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "6 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "72"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4_cuOTPJZdd2cxKG3X-KDJDWItI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/246501-91b7f067a39a4ff7bd693aaba82a55e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14437/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

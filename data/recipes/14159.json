@@ -1,0 +1,89 @@
+{
+  "id": "14159",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14159/cucumber-salad-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/14159/cucumber-salad-i/",
+  "title": "Cucumber Salad with Rice Vinegar",
+  "description": "This simple cucumber salad with rice vinegar recipe requires no oil, and makes a cool, refreshingly briny summer side with cucumbers and red onions.",
+  "authors": [
+    "annnn"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-11-23T12:23:32-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cucumbers, peeled and thinly sliced",
+    "0.5 red onion, thinly sliced",
+    "1.5 cups water",
+    "0.5 cup rice wine vinegar",
+    "1 teaspoon white sugar",
+    "0.25 teaspoon seasoning salt"
+  ],
+  "steps": [
+    {
+      "text": "Combine cucumbers and red onion in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir water, vinegar, sugar, and salt together in a small bowl. Pour over vegetables; chill 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve chilled or at room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "47 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "691 mg",
+    "sugarContent": "8 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "85"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gLlDImNAnZXZqQ93EFjJ1aNrlxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8299684-8ed84f107fcd47669c324b83598e3801.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14159/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "14286",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14286/instant-pistachio-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14286/instant-pistachio-salad/",
+  "title": "Pistachio Salad",
+  "description": "This pistachio salad is super easy to make with pistachio pudding mix, marshmallows, pineapple, and whipped topping for a deliciously fluffy dessert.",
+  "authors": [
+    "Margit Wallin"
+  ],
+  "date_published": "1999-07-31T17:37:02-04:00",
+  "date_modified": "2026-03-02T15:37:11-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT35M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (20 ounce) can crushed pineapple, drained",
+    "1 (3 ounce) package instant pistachio pudding mix",
+    "1 (8 ounce) container frozen whipped topping, thawed",
+    "0.5 (10.5 ounce) package miniature marshmallows"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine pineapple and dry pistachio pudding mix in a large bowl. Fold in thawed whipped topping and marshmallows until well mixed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Refrigerate until chilled and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/wHdIYjsO0M5rM-QaQNBRwKxcxOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14286-instant-pistachio-salad-VAT-Beauty-4x3-f8721cf68565423c9da53b25b499f3ec.jpg"
+      ],
+      "image": "assets/images/14286/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "133 mg",
+    "sugarContent": "24 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "323"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/MdlBUkKl-ma1DlVvV.mp4",
+    "description": "AR1251",
+    "duration": "PT2M54S",
+    "name": "Instant Pistachio Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/MdlBUkKl/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T02:23:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wHdIYjsO0M5rM-QaQNBRwKxcxOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14286-instant-pistachio-salad-VAT-Beauty-4x3-f8721cf68565423c9da53b25b499f3ec.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14286/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14286/step_03.webp"
+    ]
+  }
+}

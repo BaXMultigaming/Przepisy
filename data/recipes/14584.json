@@ -1,0 +1,99 @@
+{
+  "id": "14584",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14584/veggie-pita-pizza/",
+  "requested_url": "https://www.allrecipes.com/recipe/14584/veggie-pita-pizza/",
+  "title": "Veggie Pita Pizza",
+  "description": "All you need is mozzarella cheese, sliced veggies, olive oil, pita pockets, and a grill. Brush the pita with oil, layer on the veggies and cheese, and then grill until the pita is crisp, the veggies are tender and the cheese is melted.",
+  "authors": [
+    "Mindy Pretner"
+  ],
+  "date_published": "1999-09-04T21:52:02-04:00",
+  "date_modified": "2022-07-14T17:40:44-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pita bread round",
+    "1 teaspoon olive oil",
+    "3 tablespoons pizza sauce",
+    "0.5 cup shredded mozzarella cheese",
+    "0.25 cup sliced crimini mushrooms",
+    "0.125 teaspoon garlic salt"
+  ],
+  "steps": [
+    {
+      "text": "Preheat grill for medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread one side of the pita with olive oil and pizza sauce. Top with cheese and mushrooms, and season with garlic salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly oil grill grate. Place pita pizza on grill, cover, and cook until cheese completely melts, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Mf8-0cYgR0LjxCVdcKCIvAqagjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1018488-92dfc03f9f5b4d549c9b6a1c408f14e1.jpg"
+      ],
+      "image": "assets/images/14584/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "405 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "44 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1156 mg",
+    "sugarContent": "3 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "215"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/MqVHoFqz-ma1DlVvV.mp4",
+    "description": "AR1291",
+    "duration": "PT1M57S",
+    "name": "Pita Pizza",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/MqVHoFqz/poster.jpg?width=1280",
+    "uploadDate": "2021-08-05T08:52:51-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Mf8-0cYgR0LjxCVdcKCIvAqagjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1018488-92dfc03f9f5b4d549c9b6a1c408f14e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14584/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14584/step_03.webp"
+    ]
+  }
+}

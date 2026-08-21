@@ -1,0 +1,79 @@
+{
+  "id": "13888",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13888/summer-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/13888/summer-salad/",
+  "title": "Summer Salad",
+  "description": "Quick, easy and light. Perfect for a summer lunch or dinner salad. Fresh vegetables",
+  "authors": [
+    "Sarah"
+  ],
+  "date_published": "1999-06-21T00:07:57-04:00",
+  "date_modified": "2025-04-20T20:10:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 yellow squash, diced",
+    "1 zucchini, diced",
+    "3 green onions, sliced",
+    "1 carrot, cubed",
+    "0.5 green bell pepper, diced",
+    "1 tomato, chopped",
+    "0.5 cup fat free ranch dressing",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss vegetables with dressing, and chill for at least 1 hour. Season with salt and black pepper, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "743 mg",
+    "sugarContent": "13 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Nsr2lkstTRc5kFOuYXPZCjqYxgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9358784-f13e29e77d5440f2a284dfdc9834a72f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13888/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

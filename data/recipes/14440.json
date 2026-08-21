@@ -1,0 +1,84 @@
+{
+  "id": "14440",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14440/spinach-and-tortellini-salad/",
+  "title": "Spinach and Tortellini Salad",
+  "description": "This spinach and tortellini salad recipe tosses cheese tortellini with spinach, Parmesan cheese, cherry tomatoes, black olives, and Italian dressing.",
+  "authors": [
+    "lvich"
+  ],
+  "date_published": "1999-08-24T23:16:24-04:00",
+  "date_modified": "2025-07-10T00:50:03-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (9 ounce) package cheese-filled tortellini",
+    "2 cups cherry tomatoes, halved",
+    "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+    "0.33333334326744 cup grated Parmesan cheese",
+    "1 (2 ounce) can sliced black olives",
+    "1 (8 ounce) bottle Italian-style salad dressing",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil; stir in tortellini and return to a boil. Cook uncovered, until tortellini float to the top and the filling is hot, about 3 minutes. Rinse under cold water; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine tortellini, tomatoes, spinach, cheese, and olives; add enough salad dressing to coat. Toss; season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "377 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1420 mg",
+    "sugarContent": "6 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "445"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xdxgSsQOADkYjTHqlK2Bz32KIn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14440spinachandTortelliniSaladLaDonnaLangwell4x3-65a32c0bdce84804aa6a8924747d3fe5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14440/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

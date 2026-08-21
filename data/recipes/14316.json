@@ -1,0 +1,110 @@
+{
+  "id": "14316",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14316/chicken-fiesta-salad/",
+  "title": "Chicken Fiesta Salad",
+  "description": "Salad greens, onions and tomatoes are topped with Mexican flavored black beans, corn, and grilled chicken breasts. This is an attractive and zesty all in one dish.",
+  "authors": [
+    "ANGL8277"
+  ],
+  "date_published": "1999-08-07T23:37:34-04:00",
+  "date_modified": "2026-06-02T08:52:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 skinless, boneless chicken breast halves",
+    "1 (1.27 ounce) packet dry fajita seasoning, divided",
+    "1 tablespoon vegetable oil",
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "1 (11 ounce) can Mexican-style corn",
+    "0.5 cup salsa",
+    "1 (10 ounce) package mixed salad greens",
+    "1 onion, chopped",
+    "1 tomato, cut into wedges"
+  ],
+  "steps": [
+    {
+      "text": "Rub chicken evenly with 1/2 the fajita seasoning. Heat the oil in a skillet over medium heat, and cook the chicken 8 minutes on each side, or until juices run clear; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan, mix beans, corn, salsa and other 1/2 of fajita seasoning. Heat over medium heat until warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Prepare the salad by tossing the greens, onion and tomato. Top salad with chicken and dress with the bean and corn mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4aG8luUXKjkyIrMBLqdVhu-ctxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/601800-ac90f79b10ef41a498351ee0651c1ee9.jpg"
+      ],
+      "image": "assets/images/14316/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "311 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "11 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1606 mg",
+    "sugarContent": "7 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "708"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/26FCAc9c-K3AjnAEN.mp4",
+    "description": "Serve this up for a light dinner when you’re craving something a little spicy but not heavy! This chicken fiesta salad is the perfect combination! \n",
+    "duration": "PT53S",
+    "name": "Chicken Fiesta Salad ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/26FCAc9c/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T14:24:30-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4aG8luUXKjkyIrMBLqdVhu-ctxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/601800-ac90f79b10ef41a498351ee0651c1ee9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14316/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14316/step_03.webp"
+    ]
+  }
+}

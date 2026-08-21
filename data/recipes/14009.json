@@ -1,0 +1,88 @@
+{
+  "id": "14009",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14009/muesli/",
+  "requested_url": "https://www.allrecipes.com/recipe/14009/muesli/",
+  "title": "Muesli",
+  "description": "This muesli recipe is packed with oats, bran, wheat germ, raisins, nuts, and seeds for a nutritious homemade breakfast cereal full of healthy whole grains.",
+  "authors": [
+    "Allrecipes Member"
+  ],
+  "date_published": "1999-08-19T05:34:16-04:00",
+  "date_modified": "2026-03-25T12:03:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "16",
+    "8 cups"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4.5 cups rolled oats",
+    "1 cup raisins",
+    "0.5 cup toasted wheat germ",
+    "0.5 cup wheat bran",
+    "0.5 cup oat bran",
+    "0.5 cup chopped walnuts",
+    "0.25 cup packed brown sugar",
+    "0.25 cup raw sunflower seeds"
+  ],
+  "steps": [
+    {
+      "text": "Combine oats, raisins, wheat germ, wheat bran, oat bran, walnuts, brown sugar, and sunflower seeds in a large bowl; mix well. Store muesli in an airtight container at room temperature for up to 2 months.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/hHGQn3d6WY5mVf9DUZnWHgEZ9I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14009-muesli-VAT-Beauty-4x3-6bff9d154d104727bc4ea956851c6688.jpg"
+      ],
+      "image": "assets/images/14009/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "188 kcal",
+    "carbohydrateContent": "32 g",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "9 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "192"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/RsgBhzHc-ma1DlVvV.mp4",
+    "description": "AR1296",
+    "duration": "PT2M2S",
+    "name": "Muesli",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RsgBhzHc/thumbnails/mmknIrkr.jpg?width=1280",
+    "uploadDate": "2021-07-09T16:53:44-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hHGQn3d6WY5mVf9DUZnWHgEZ9I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14009-muesli-VAT-Beauty-4x3-6bff9d154d104727bc4ea956851c6688.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14009/hero.webp",
+    "steps": [
+      "assets/images/14009/step_01.webp"
+    ]
+  }
+}

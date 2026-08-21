@@ -1,0 +1,83 @@
+{
+  "id": "14402",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14402/cranberry-salad-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/14402/cranberry-salad-i/",
+  "title": "Easy Cranberry Salad",
+  "description": "Sweetened fresh cranberries are folded into whipped cream with crushed pineapple, chopped pecans and tiny marshmallows.",
+  "authors": [
+    "Micki Stout"
+  ],
+  "date_published": "1999-09-05T23:01:36-04:00",
+  "date_modified": "2026-06-01T06:34:57-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT735M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (12 ounce) packages fresh cranberries",
+    "1 cup white sugar",
+    "1 (20 ounce) can crushed pineapple, drained",
+    "1 cup chopped pecans",
+    "1 pint heavy whipping cream",
+    "7 ounces miniature marshmallows"
+  ],
+  "steps": [
+    {
+      "text": "Coarsely chop the cranberries in a food processor; put in a large, non-metal bowl and mix in the sugar. Cover and refrigerate for 12 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whip the cream until stiff. Add the pineapple and nuts to the cranberries, mix well. Fold in whipped cream and marshmallows; refrigerate until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "493 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "73 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "40 mg",
+    "sugarContent": "47 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "87"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UmqacXk6ujnLEiNMa2R4OC343Kc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14402-easy-cranberry-salad-stephany-62655a719f6d422bb9074b4c37c5e208.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14402/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

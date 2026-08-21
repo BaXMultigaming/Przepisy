@@ -1,0 +1,75 @@
+{
+  "id": "13738",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13738/delicious-turkey-glaze/",
+  "requested_url": "https://www.allrecipes.com/recipe/13738/delicious-turkey-glaze/",
+  "title": "Delicious Turkey Glaze",
+  "description": "Baste a turkey in this glaze of honey, apple cider, and butter for a rich golden appearance and a pleasantly sweet flavor.",
+  "authors": [
+    "Jane"
+  ],
+  "date_published": "1999-09-15T14:43:07-04:00",
+  "date_modified": "2026-01-04T15:12:35-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cup"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "North American",
+    "American"
+  ],
+  "regions": [
+    "North American",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333298563957 cup melted butter",
+    "0.33333298563957 cup honey",
+    "0.25 cup sugar-free organic apple juice"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, whisk together melted butter, honey, and apple juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "915 kcal",
+    "carbohydrateContent": "100 g",
+    "cholesterolContent": "163 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "39 g",
+    "sodiumContent": "442 mg",
+    "sugarContent": "100 g",
+    "fatContent": "61 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9FkhHL9bTQHgrodRf_wodrhE-Ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13738delicious-turkey-glazefabeveryday4x3-a806c987f03344f59ea169f20a1d1c65.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13738/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

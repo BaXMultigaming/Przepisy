@@ -1,0 +1,113 @@
+{
+  "id": "14231",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14231/guacamole/",
+  "requested_url": "https://www.allrecipes.com/recipe/14231/guacamole/",
+  "title": "Guacamole",
+  "description": "This tasty guacamole is easy to make with ripe avocados, lime juice, tomatoes, garlic, and onion. Cilantro and cayenne give it an extra kick!",
+  "authors": [
+    "Maryellen"
+  ],
+  "date_published": "1999-08-15T13:29:38-04:00",
+  "date_modified": "2026-04-21T09:56:31-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "3 avocados - peeled, pitted, and mashed",
+    "1 lime, juiced",
+    "1 teaspoon salt",
+    "2 roma (plum) tomatoes, diced",
+    "0.5 cup diced onion",
+    "3 tablespoons chopped fresh cilantro",
+    "1 teaspoon minced garlic",
+    "1 pinch ground cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/pOzzRYxD732BLjbgLwugiHhriPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14231-guacamole-step-01-890cf33966b64387a67e0636b689f1e2.jpg"
+      ],
+      "image": "assets/images/14231/step_01.webp"
+    },
+    {
+      "text": "Mash avocados, lime juice, and salt together in a medium bowl; mix in tomatoes, onion, cilantro, and garlic.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ertu1hVGaXjcPGui5v55PkNrdy8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14231-guacamole-step-02-fd1ffa7a4ea7477f84fb4f2d2eea93a0.jpg"
+      ],
+      "image": "assets/images/14231/step_02.webp"
+    },
+    {
+      "text": "Stir in cayenne pepper. Serve immediately, or cover and refrigerate for 1 hour for improved flavor.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6RyFPH5N4KKmZhNY0Giob_Jj3wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14231-guacamole-4x3-f7a3b5752c7f4f3fb934d03a8b548826.jpg"
+      ],
+      "image": "assets/images/14231/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "carbohydrateContent": "18 g",
+    "fiberContent": "11 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "596 mg",
+    "sugarContent": "3 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "7655"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/1pZmo2xt-K3AjnAEN.mp4",
+    "description": "This top-rated guacamole recipe is the only one you’ll ever need. In this video, learn how to make guacamole with tasty ingredients like roma tomatoes, fresh cilantro, minced garlic, and, of course, mashed avocados. To start, peel and pit the avocados, then mash them in a bowl. Add salt and lime juice to the avocados, then add diced roma tomatoes, chopped fresh cilantro, diced onion, minced garlic, and a pinch of cayenne pepper. For a classic Mexican-inspired appetizer, scoop up this beloved dip with tortilla chips!",
+    "duration": "PT1M2S",
+    "name": "Guacamole Recipe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1pZmo2xt/thumbnails/Mo5QvnbZ.jpg?width=1280",
+    "uploadDate": "2023-02-08T12:05:43-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6RyFPH5N4KKmZhNY0Giob_Jj3wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14231-guacamole-4x3-f7a3b5752c7f4f3fb934d03a8b548826.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14231/hero.webp",
+    "steps": [
+      "assets/images/14231/step_01.webp",
+      "assets/images/14231/step_02.webp",
+      "assets/images/14231/step_03.webp"
+    ]
+  }
+}

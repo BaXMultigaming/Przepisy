@@ -1,0 +1,100 @@
+{
+  "id": "13769",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13769/hamburger-gravy/",
+  "requested_url": "https://www.allrecipes.com/recipe/13769/hamburger-gravy/",
+  "title": "Hamburger Gravy",
+  "description": "This hamburger gravy recipe uses pan drippings, flour, and milk to create a thick, meaty gravy you can serve over noodles, mashed potatoes or biscuits.",
+  "authors": [
+    "Steven Paul Ray"
+  ],
+  "date_published": "1999-10-26T23:36:07-04:00",
+  "date_modified": "2025-10-17T15:39:25-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 pounds lean ground beef",
+    "0.25 cup all-purpose flour",
+    "4 cups milk",
+    "salt and pepper to taste",
+    "1 teaspoon onion salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JQwMtCUVpGqOV8xdUK7Tmlr9ptI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13769-hamburger-gravy-ddmfs-Step-01-56e3a59f4f054b4287e370b6322df7ec.jpg"
+      ],
+      "image": "assets/images/13769/step_01.webp"
+    },
+    {
+      "text": "Cook ground beef in a large skillet over medium-high heat until evenly browned and crumbly, 7 to 8 minutes. Remove from the heat and sprinkle flour over top; stir until beef is evenly coated and all fat is absorbed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/k2gQYi4VTNTLQg95zJB7uCBCuW4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13769-hamburger-gravy-ddmfs-Step-03-de5eb839581b43cc9c459d959f081823.jpg"
+      ],
+      "image": "assets/images/13769/step_02.webp"
+    },
+    {
+      "text": "Return the skillet to the stove over medium heat. Stir in 2 cups milk; cook and stir until warm and beginning to thicken, 3 to 5 minutes. Add remaining 2 cups milk; cook and stir until desired consistency has been reached and gravy comes to a boil, about 5 minutes. Season with onion salt, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7kHSsBXmJ0byneSoAP7fm81IDgU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13769-hamburger-gravy-ddmfs-Step-04-b9edd4e8f4ea466eb484b39aa807d47e.jpg"
+      ],
+      "image": "assets/images/13769/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "375 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "95 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "355 mg",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "280"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RBEAFWFnw4aP2D_LGV-2ZqME3uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13769-hamburger-gravy-ddmfs-Beauty-3x4-1575f1bc25e442f78905dc5d2b736d62.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13769/hero.webp",
+    "steps": [
+      "assets/images/13769/step_01.webp",
+      "assets/images/13769/step_02.webp",
+      "assets/images/13769/step_03.webp"
+    ]
+  }
+}

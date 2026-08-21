@@ -1,0 +1,105 @@
+{
+  "id": "14146",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14146/blt-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14146/blt-salad/",
+  "title": "BLT Salad",
+  "description": "This BLT salad with romaine lettuce, pieces of crispy bacon, tomatoes, crunchy croutons, and a creamy garlic dressing makes a great summertime dish.",
+  "authors": [
+    "D. L. Mooney"
+  ],
+  "date_published": "1999-07-25T05:21:46-04:00",
+  "date_modified": "2026-01-26T07:52:58-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound bacon",
+    "0.75 cup mayonnaise",
+    "0.25 cup milk",
+    "1 teaspoon garlic powder",
+    "0.125 teaspoon ground black pepper",
+    "salt to taste",
+    "1 head romaine lettuce - rinsed, dried and shredded",
+    "2 large tomatoes, chopped",
+    "2 cups seasoned croutons"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels; crumble and set aside",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine mayonnaise, milk, garlic powder, and black pepper together in a blender or food processor; blend until smooth. Season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine lettuce, crumbled bacon, tomatoes, and croutons in a large salad bowl. Toss with dressing, and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/DbJ_8WANqn0f4nRI7YeKzlkJHck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/450720-blt-salad-wannabe-chefette-1x1-1-d40e669bf95c4899afb39a3414e1baf0.jpg"
+      ],
+      "image": "assets/images/14146/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "421 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "907 mg",
+    "sugarContent": "4 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "928"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/IppzKmy8-K3AjnAEN.mp4",
+    "description": "Croutons, crispy bacon, and a creamy dressing, this salad has the BLT beat.",
+    "duration": "PT2M16S",
+    "name": "BLT Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/IppzKmy8/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T13:46:52-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DbJ_8WANqn0f4nRI7YeKzlkJHck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/450720-blt-salad-wannabe-chefette-1x1-1-d40e669bf95c4899afb39a3414e1baf0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14146/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14146/step_03.webp"
+    ]
+  }
+}

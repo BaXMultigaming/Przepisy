@@ -1,0 +1,123 @@
+{
+  "id": "14020",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14020/breakfast-grits/",
+  "requested_url": "https://www.allrecipes.com/recipe/14020/breakfast-grits/",
+  "title": "Breakfast Grits",
+  "description": "Learn how to cook grits with this recipe. Fresh pepper and sharp Cheddar cheese liven up this dish. Simple and tasty, just the way grits should be.",
+  "authors": [
+    "jen"
+  ],
+  "date_published": "1999-08-19T05:38:38-04:00",
+  "date_modified": "2026-08-07T21:47:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups water",
+    "0.5 teaspoon salt",
+    "1 cup hominy grits",
+    "0.5 cup shredded sharp Cheddar cheese",
+    "1 tablespoon butter",
+    "freshly ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UG7oERMNkDrmDvTfEBy3PcuQ0OA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14020-breakfast-grits-ddmfs-step-1-c395b2ff7fcb4817a19c44998c2694fc.jpg"
+      ],
+      "image": "assets/images/14020/step_01.webp"
+    },
+    {
+      "text": "Bring water and salt to a boil in a saucepan. Whisk in grits; continue to whisk for 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/na3WWMFZHPfUt3rFS8MMriqtbgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14020-breakfast-grits-ddmfs-step-2-1d3c14bb1d7741a99702d1a64233dc5b.jpg"
+      ],
+      "image": "assets/images/14020/step_02.webp"
+    },
+    {
+      "text": "When the mixture comes to a boil again, turn the heat to low. Stir frequently, cook for 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LOEw_i5J-5n5qOz_KWP10EUnY8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14020-breakfast-grits-ddmfs-step-3-37c2b0103e6d435f830dbf78592893cc.jpg"
+      ],
+      "image": "assets/images/14020/step_03.webp"
+    },
+    {
+      "text": "Remove grits from the heat and add cheese, butter, and pepper; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/yCzJJ3UUK9N8x6iIiQY7F8ow7YU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14020-breakfast-grits-ddmfs-step-4-5e926c8262544006b7763ff416dc673d.jpg"
+      ],
+      "image": "assets/images/14020/step_04.webp"
+    },
+    {
+      "text": "Stir until butter and cheese are melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/HAGn86IfbxTw69SITYKbuTY_0U8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14020-breakfast-grits-ddmfs-step-6-5e704371e5684696895268af7f18d94a.jpg"
+      ],
+      "image": "assets/images/14020/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "240 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "424 mg",
+    "sugarContent": "0 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "68"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6Tw2fzXUvRIE9ePqhDSGEO3h7_Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14020-breakfast-grits-ddmfs-beauty-4x3-9437f9c827e747a6832e5f7988894fa5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14020/hero.webp",
+    "steps": [
+      "assets/images/14020/step_01.webp",
+      "assets/images/14020/step_02.webp",
+      "assets/images/14020/step_03.webp",
+      "assets/images/14020/step_04.webp",
+      "assets/images/14020/step_05.webp"
+    ]
+  }
+}

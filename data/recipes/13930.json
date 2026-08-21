@@ -1,0 +1,94 @@
+{
+  "id": "13930",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13930/black-bean-hummus/",
+  "requested_url": "https://www.allrecipes.com/recipe/13930/black-bean-hummus/",
+  "title": "Black Bean Hummus",
+  "description": "This creamy black bean hummus is made in minutes with canned black beans, lemon, tahini, and spices; garnish with olives and serve with toasted pita.",
+  "authors": [
+    "Allrecipes Member"
+  ],
+  "date_published": "1999-07-14T17:03:48-04:00",
+  "date_modified": "2026-03-17T09:30:07-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can black beans; drain and reserve liquid",
+    "1 clove garlic",
+    "2 tablespoons lemon juice",
+    "1.5 tablespoons tahini",
+    "0.75 teaspoon ground cumin",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon cayenne pepper",
+    "0.25 teaspoon paprika",
+    "10 Greek olives"
+  ],
+  "steps": [
+    {
+      "text": "Drain beans and reserve liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place garlic into the bowl of a food processor and pulse until minced. Add black beans, 2 tablespoons bean liquid, lemon juice, tahini, cumin, salt, and cayenne pepper; process until smooth, scraping down the sides as needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Taste and add additional bean liquid, lemon juice, tahini, cumin, salt, and cayenne pepper as needed. Transfer to a serving bowl and sprinkle with paprika. Arrange Greek olives over top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "74 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "376 mg",
+    "sugarContent": "0 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "743"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RfWBk3aD8Ck23eLkKramkXDphsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13930black-bean-hummusReneePaj-4a2cbe90fffd499395d558e2d348a40a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13930/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

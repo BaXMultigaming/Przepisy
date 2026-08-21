@@ -1,0 +1,76 @@
+{
+  "id": "14403",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14403/mediterranean-greek-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14403/mediterranean-greek-salad/",
+  "title": "Mediterranean Greek Salad",
+  "description": "Hearty, robust, and delicious! All the stuff you dreamed about in a Greek salad - tomatoes, olives, feta cheese, cucumbers, and sun-dried tomatoes - all glistening from a splash of oil.",
+  "authors": [
+    "Heather Shevlin"
+  ],
+  "date_published": "1999-08-20T21:01:58-04:00",
+  "date_modified": "2026-04-05T06:36:10-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cucumbers, seeded and sliced",
+    "1.5 cups crumbled feta cheese",
+    "1 cup black olives, pitted and sliced",
+    "3 cups diced roma tomatoes",
+    "0.33333334326744 cup diced oil packed sun-dried tomatoes, drained, oil reserved",
+    "0.5 red onion, sliced"
+  ],
+  "steps": [
+    {
+      "text": "In a large salad bowl, toss together the cucumbers, feta cheese, olives, roma tomatoes, sun-dried tomatoes, 2 tablespoons reserved sun-dried tomato oil, and red onion. Chill until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "131 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "486 mg",
+    "sugarContent": "5 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "232"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HOtpoU9v_6zJsTam7z7BhggwyY4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8187761-fde3b76b1fd548bd8d63debfe19517fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14403/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

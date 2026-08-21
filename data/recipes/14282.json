@@ -1,0 +1,89 @@
+{
+  "id": "14282",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14282/classic-tossed-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14282/classic-tossed-salad/",
+  "title": "Classic Tossed Salad",
+  "description": "Having two different lettuces, Romaine and red leaf, is a nice touch in this hearty tossed salad.",
+  "authors": [
+    "Toni Bankson"
+  ],
+  "date_published": "1999-07-28T11:32:14-04:00",
+  "date_modified": "2026-01-06T13:22:17-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup blanched slivered almonds",
+    "2 tablespoons sesame seeds",
+    "1 head romaine lettuce, torn into bite-size pieces",
+    "1 head red leaf lettuce, torn into bite-size pieces",
+    "1 (8 ounce) package crumbled feta cheese",
+    "1 (4 ounce) can sliced black olives",
+    "1 cup cherry tomatoes, halved",
+    "1 red onion, halved and thinly sliced",
+    "6 fresh mushrooms, sliced",
+    "0.25 cup grated Romano cheese",
+    "1 (8 ounce) bottle Italian salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium-high heat. Place the almonds in the skillet, and cook, stirring frequently until lightly browned. When the almonds are beginning to turn, add sesame seeds, and cook 1 more minute, or until seeds are toasted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large salad bowl, combine lettuce with feta cheese, olives, almonds, sesame seeds, tomatoes, onion, mushrooms, and Romano cheese. When ready to serve, toss with Italian dressing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "204 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "639 mg",
+    "sugarContent": "4 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "167"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mb14YNbeOJBKFb048H9RodNYbHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/431763-eeb91ad5ae3841ce9b5f9f95272dde8b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14282/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

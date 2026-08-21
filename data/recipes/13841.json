@@ -1,0 +1,91 @@
+{
+  "id": "13841",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13841/creamy-cheddar-cheese-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13841/creamy-cheddar-cheese-soup/",
+  "title": "Creamy Cheddar Cheese Soup",
+  "description": "This creamy cheese soup is rich and full of flavor from the Cheddar, onions, butter, and chicken broth. Makes a comforting lunch on a brisk day.",
+  "authors": [
+    "Maureen"
+  ],
+  "date_published": "1999-11-11T15:39:32-05:00",
+  "date_modified": "2025-12-22T17:03:16-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "1 onion, chopped",
+    "0.25 cup all-purpose flour",
+    "3 cups chicken broth",
+    "3 cups milk",
+    "2 (8 ounce) packages shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a 3-quart saucepan over medium-high heat. Add onion and cook until tender, about 5 minutes. Stir in flour to make a roux. Add broth and cook, stirring constantly, until the mixture is slightly thickened. Add milk and cook until just boiling, stirring constantly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Working in batches, blend the soup in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return the soup to the saucepan and cook over medium heat until just boiling. Remove from the heat and whisk in cheese until melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "479 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "110 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "23 g",
+    "sodiumContent": "957 mg",
+    "sugarContent": "7 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "118"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-2EMMmHQ3mGUEjKzTdAwQa5QuQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4036154-8bad8876db7f411fb45dbc0e0955f7e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13841/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

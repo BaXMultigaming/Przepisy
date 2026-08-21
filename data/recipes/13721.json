@@ -1,0 +1,76 @@
+{
+  "id": "13721",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13721/fruit-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/13721/fruit-salad/",
+  "title": "Fruit Salad",
+  "description": "Sour cream binds this salad of pineapple chunks, maraschino cherries, and mandarin orange slices with miniature marshmallows. Serve with a Thanksgiving dinner or as a dessert.",
+  "authors": [
+    "Tina O'Malley"
+  ],
+  "date_published": "1998-11-24T13:48:04-05:00",
+  "date_modified": "2025-12-19T09:29:04-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert",
+    "Side Dish",
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (11 ounce) cans mandarin oranges, drained",
+    "1 (20 ounce) can pineapple chunks, drained",
+    "1 (16 ounce) package miniature marshmallows",
+    "1 (16 ounce) container sour cream",
+    "1 (10 ounce) jar maraschino cherries, halved"
+  ],
+  "steps": [
+    {
+      "text": "Combine oranges, pineapple, marshmallows, sour cream, and cherries together in a large bowl. Chill and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "431 kcal",
+    "carbohydrateContent": "81 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "82 mg",
+    "sugarContent": "53 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "109"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ifba5lWFDUpTl_pu6xOUunSVuaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3624369-584c350537494fda80ee98b6fa9689da.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13721/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

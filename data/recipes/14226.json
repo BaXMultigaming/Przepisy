@@ -1,0 +1,93 @@
+{
+  "id": "14226",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14226/french-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14226/french-potato-salad/",
+  "title": "French Potato Salad",
+  "description": "This flavorful French potato salad recipe has a light tarragon vinaigrette, green onions, fresh parsley, and no mayo. It makes an elegant side dish.",
+  "authors": [
+    "CHRISTYJ"
+  ],
+  "date_published": "1999-08-14T19:40:28-04:00",
+  "date_modified": "2025-07-16T13:03:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "9 potatoes",
+    "0.5 cup vegetable oil",
+    "0.25 cup tarragon vinegar",
+    "0.25 cup beef consomme",
+    "0.25 cup chopped green onions",
+    "2 tablespoons chopped fresh parsley",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender but still firm, 15 to 20 minutes. Drain and cool slightly. Peel potatoes; slice into a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk oil, vinegar, consommé, green onion, parsley, salt, and black pepper together in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gently toss warm potatoes with vinaigrette. Serve at room temperature, or cover and chill before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500 kcal",
+    "carbohydrateContent": "68 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1474 mg",
+    "sugarContent": "3 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/peouLVon4JZQu0aZaOoxBMM4S7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1058457-0c9d18bafe144941bc0cf86089593f26.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14226/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "14406",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14406/fresh-tomato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14406/fresh-tomato-salad/",
+  "title": "Fresh Tomato Salad",
+  "description": "This tomato, cucumber, and pepper salad is popping with flavor thanks to a full cup of fresh herbs, a generous amount of garlic, and a splash of vinegar.",
+  "authors": [
+    "Karen Gray"
+  ],
+  "date_published": "1999-08-10T13:14:23-04:00",
+  "date_modified": "2026-05-23T15:37:43-04:00",
+  "prep_time": "PT25M",
+  "cook_time": null,
+  "total_time": "PT40M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 tomatoes, diced",
+    "1 onion, chopped",
+    "1 cucumber, sliced",
+    "1 green bell pepper, chopped",
+    "0.5 cup chopped fresh basil",
+    "0.5 cup chopped parsley",
+    "2 tablespoons crushed garlic",
+    "2 tablespoons white wine vinegar",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss tomatoes, onion, cucumber, bell pepper, basil, parsley, garlic, and vinegar in a large bowl until well combined. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and chill in the refrigerator for 15 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "39 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "4 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "113"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vJIQbah9CZTZRQDDtTOOhUVRP3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/651226-bf15ec417fbe4e59af4dea0cdc2672c1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14406/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

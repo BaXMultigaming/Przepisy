@@ -1,0 +1,88 @@
+{
+  "id": "14189",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14189/warm-shrimp-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/14189/warm-shrimp-salad/",
+  "title": "Warm Shrimp Salad",
+  "description": "The gently sauteed shrimp are combined with butter lettuce, tomatoes, avocado, cucumbers, and shredded carrots, and then topped with your favorite dressing.",
+  "authors": [
+    "Liz Evans"
+  ],
+  "date_published": "1999-08-11T21:18:04-04:00",
+  "date_modified": "2026-04-11T17:03:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "3",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound medium shrimp - peeled and deveined",
+    "2 tablespoons butter",
+    "2 lemons, juiced",
+    "2 heads butter lettuce",
+    "2 tomatoes, chopped",
+    "1 avocado - peeled, pitted and diced",
+    "2 stalks celery, chopped",
+    "1 cucumber, cleaned and chopped",
+    "0.5 cup shredded carrots",
+    "0.33333334326744 cup vinaigrette salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "In a large saute pan melt butter over medium heat. Add the shrimp and lemon juice, cook until shrimp just turn pink. Remove from heat and drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl tear lettuce into bite-size pieces, add the tomatoes, avocado, celery, cucumber carrots and cooked shrimp, toss to combine. Top with your favorite dressing or vinaigrette.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "460 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "250 mg",
+    "fiberContent": "12 g",
+    "proteinContent": "37 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "566 mg",
+    "sugarContent": "9 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nIno-XqAzLgfsBIz9tNElE5S2Iw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1959881-fc2874f140564ea289cead200a37e391.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14189/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

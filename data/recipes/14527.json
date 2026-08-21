@@ -1,0 +1,102 @@
+{
+  "id": "14527",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14527/greek-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/14527/greek-chicken/",
+  "title": "Greek Chicken",
+  "description": "This Greek chicken recipe includes a lemon and garlic marinade with fresh oregano for an easy grilled chicken dish that&#39;s big on Greek flavor.",
+  "authors": [
+    "Karen"
+  ],
+  "date_published": "1999-09-09T12:13:35-04:00",
+  "date_modified": "2025-10-21T09:04:06-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT160M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup olive oil",
+    "2 lemons, juiced",
+    "3 cloves garlic, chopped",
+    "1 tablespoon chopped fresh rosemary",
+    "1 tablespoon chopped fresh thyme",
+    "1 tablespoon chopped fresh oregano",
+    "1 (4 pound) chicken, cut into pieces"
+  ],
+  "steps": [
+    {
+      "text": "Mix olive oil, lemon juice, garlic, rosemary, thyme, and oregano in a glass dish. Place chicken pieces in the mixture; cover and marinate in the refrigerator for 2 to 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for high heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place chicken on the grill, and discard the marinade. Cook until chicken is no longer pink at the bone and the juices run clear, about 15 minutes per side (smaller pieces will not take as long). An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/soD5mRaXAgmHylFM9h7kD9cSp4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14527greek-chickenfabeveryday-886517f304824d9993a79b7665f3585c.jpg"
+      ],
+      "image": "assets/images/14527/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "412 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "97 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "95 mg",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "497"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/PfFOyYws-ma1DlVvV.mp4",
+    "description": "AR1034",
+    "duration": "PT4M17S",
+    "name": "Greek Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/PfFOyYws/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T09:48:44-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/soD5mRaXAgmHylFM9h7kD9cSp4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14527greek-chickenfabeveryday-886517f304824d9993a79b7665f3585c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14527/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14527/step_03.webp"
+    ]
+  }
+}

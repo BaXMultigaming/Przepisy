@@ -1,0 +1,82 @@
+{
+  "id": "13763",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13763/vanilla-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/13763/vanilla-pudding/",
+  "title": "Vanilla Pudding",
+  "description": "This is an eggless pudding thickened with corn starch.",
+  "authors": [
+    "Sandra"
+  ],
+  "date_published": "1999-10-18T21:25:03-04:00",
+  "date_modified": "2026-07-23T17:22:13-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup white sugar",
+    "3 tablespoons cornstarch",
+    "0.25 teaspoon salt",
+    "2.5 cups milk",
+    "1.5 teaspoons vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, combine the sugar, corn starch and salt. Add milk and cook over medium heat, stirring constantly until mixture thickens. Add vanilla and continue to cook for 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into individual molds rinsed with cold water; chill until firm and unmold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "135 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "10 mg",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "167 mg",
+    "sugarContent": "19 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "148"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-XBXQFIvSwNHLewPRyt0uPPtC4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6635760-c9f2b85162ee4f239fb8a3a9ee713b9e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13763/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

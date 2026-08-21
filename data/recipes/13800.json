@@ -1,0 +1,83 @@
+{
+  "id": "13800",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13800/pumpkin-toffee-cream-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/13800/pumpkin-toffee-cream-pie/",
+  "title": "Pumpkin Toffee Cream Pie",
+  "description": "This no-bake pie is made in a graham cracker crust with butterscotch pudding mix, pumpkin puree, whipped topping, nuts, and toffee chips.",
+  "authors": [
+    "C Tallent"
+  ],
+  "date_published": "1999-05-26T23:35:38-04:00",
+  "date_modified": "2022-07-20T11:06:01-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8",
+    "1 9-inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups pumpkin puree",
+    "1 (1 ounce) package instant sugar-free butterscotch pudding mix",
+    "0.66666668653488 cup nonfat dry milk powder",
+    "0.33333334326744 cup water",
+    "1 cup frozen whipped topping, thawed",
+    "1 teaspoon pumpkin pie spice",
+    "2 tablespoons chopped pecans",
+    "2 tablespoons toffee baking bits",
+    "1 (9 inch) graham cracker crust"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, whisk together the pumpkin, dry pudding mix, dry milk powder and water. Blend in 1/4 cup whipped topping and pumpkin pie spice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour filling into pie crust, top with remaining whipped topping, sprinkle with pecans and toffee chips. Refrigerate for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "264 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "391 mg",
+    "sugarContent": "18 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nPWQwQEBOGVNljTZKm0YpFmmkRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5904718-a3fe16de8f4245f582ebc31f38990773.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13800/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

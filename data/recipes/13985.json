@@ -1,0 +1,102 @@
+{
+  "id": "13985",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13985/pasta-and-garlic/",
+  "requested_url": "https://www.allrecipes.com/recipe/13985/pasta-and-garlic/",
+  "title": "Pasta and Garlic",
+  "description": "This is one of those dishes that defies explanation. Pasta, garlic, olive oil and a sprinkling of cheese. How could only four ingredients taste so wonderful? An Italian miracle.",
+  "authors": [
+    "Josie Strazzulla"
+  ],
+  "date_published": "1999-07-27T13:04:21-04:00",
+  "date_modified": "2026-05-07T11:50:21-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds pasta",
+    "0.25 cup olive oil",
+    "2 cloves garlic, crushed, or more to taste",
+    "salt and pepper to taste",
+    "0.25 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot of salted water boil pasta until al dente. Drain well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small saucepan heat oil slightly, add garlic. Saute garlic until it is lightly browned. Be careful not to burn garlic.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine pasta and garlic, salt and pepper to taste. Top with Parmesan or Romano cheese and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6CWwiVXTss2z_TNWqF35qLbyuF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1110792-cfa37f5f3c5749309685509e3afe66fd.jpg"
+      ],
+      "image": "assets/images/13985/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "61 mg",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "145"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jBR796eQ-ma1DlVvV.mp4",
+    "description": "AR0862",
+    "duration": "PT2M43S",
+    "name": "Pasta and Garlic",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jBR796eQ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T10:42:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6CWwiVXTss2z_TNWqF35qLbyuF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1110792-cfa37f5f3c5749309685509e3afe66fd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13985/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/13985/step_03.webp"
+    ]
+  }
+}
