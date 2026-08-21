@@ -1,0 +1,88 @@
+{
+  "id": "76858",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/76858/pork-and-cabbage-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/76858/pork-and-cabbage-soup/",
+  "title": "Pork and Cabbage Soup",
+  "description": "Pork sausage, cabbage, potatoes, and onion make for a quick, delicious soup.",
+  "authors": [
+    "SANDJEAN"
+  ],
+  "date_published": "2019-04-03T23:32:56-04:00",
+  "date_modified": "2026-05-18T19:30:23-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound pork sausage",
+    "1 (14 ounce) can beef broth",
+    "2 cups water",
+    "2 teaspoons beef bouillon granules",
+    "0.5 head cabbage, finely chopped",
+    "3 potatoes, diced",
+    "1 onion, diced",
+    "1 clove garlic, diced",
+    "1 tablespoon dried marjoram",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place sausage in a large pot, break apart, and cook until evenly brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour the broth and water into the pot with the sausage. Dissolve the beef bouillon granules in the liquid. Mix in the cabbage, potatoes, onion, and garlic. Season with marjoram, salt, and pepper. Bring to a boil, reduce heat to low, and simmer 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "438 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "52 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "893 mg",
+    "sugarContent": "5 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hOvvyuVw0TAV2wC89vFySrM_mOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3765560-pork-and-cabbage-soup-Rei-Tugade-4x3-1-7fd93f45c32a48c3a8a7a67d20dedb79.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/76858/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

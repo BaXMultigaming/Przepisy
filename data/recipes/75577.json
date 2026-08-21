@@ -1,0 +1,74 @@
+{
+  "id": "75577",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/75577/james-fire-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/75577/james-fire-salad/",
+  "title": "James&#39; Fire Salad",
+  "description": "A nice, spicy green salad, made by tossing red leaf lettuce with ripe tomatoes, fresh cilantro, and spicy peppers.",
+  "authors": [
+    "JAMESPOL"
+  ],
+  "date_published": "2018-03-21T12:38:54-04:00",
+  "date_modified": "2022-07-14T16:31:23-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 head red leaf lettuce - rinsed, dried and torn",
+    "4 fresh jalapeno peppers, seeded and sliced into rings",
+    "3 medium ripe tomatoes, chopped",
+    "1 Anaheim pepper, seeded and diced",
+    "0.5 red onion, sliced and separated into rings",
+    "0.25 cup chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "In a large salad bowl, toss lettuce with jalapeno peppers, tomatoes, Anaheim pepper, red onion, and cilantro. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "34 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "4 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rnmLqLumSAMy9POrPtBeQvPVX98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2396534-4b9354a51ebc4fa2a60664f6ae2500fe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/75577/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "77023",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/77023/easy-turkey-gravy/",
+  "requested_url": "https://www.allrecipes.com/recipe/77023/easy-turkey-gravy/",
+  "title": "Easy Turkey Gravy",
+  "description": "This gravy comes out perfect every time. The cream of chicken soup is what gives it wonderful flavor. Nice and creamy, never lumpy.",
+  "authors": [
+    "CeeBee"
+  ],
+  "date_published": "2019-04-02T02:46:49-04:00",
+  "date_modified": "2026-05-20T23:13:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT7M",
+  "total_time": "PT17M",
+  "yield": [
+    "28",
+    "7 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups turkey stock with pan drippings",
+    "1 (10.75 ounce) can condensed cream of chicken soup",
+    "1 teaspoon poultry seasoning",
+    "0.5 teaspoon black pepper",
+    "1 teaspoon seasoned salt",
+    "0.25 teaspoon garlic powder",
+    "1 cup milk",
+    "0.33333334326744 cup all-purpose flour"
+  ],
+  "steps": [
+    {
+      "text": "Bring the turkey stock to a boil in a large saucepan. Stir in soup, and season with poultry seasoning, pepper, seasoned salt, and garlic powder. Reduce heat to low, and let simmer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Warm the milk in the microwave, and whisk in the flour with a fork until there are no lumps. Return the gravy to a boil, and gradually stir in the milk mixture. Continue to cook, stirring constantly, for 1 minute, or until thickened. Be careful not to let the bottom scorch.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kEPvJbXQBumzw2nMHLdRlxhlryQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/77023-easy-turkey-gravy-con-poulos-ar-mag-1x1-1-c9e14ade986f4c5fb612938911742ba7.jpg"
+      ],
+      "image": "assets/images/77023/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "22 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "227 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "644"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/itZo5U0J-ma1DlVvV.mp4",
+    "description": "AR0717",
+    "duration": "PT2M30S",
+    "name": "Easy Turkey Gravy",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/itZo5U0J/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T18:07:21-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kEPvJbXQBumzw2nMHLdRlxhlryQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/77023-easy-turkey-gravy-con-poulos-ar-mag-1x1-1-c9e14ade986f4c5fb612938911742ba7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/77023/hero.webp",
+    "steps": [
+      null,
+      "assets/images/77023/step_02.webp"
+    ]
+  }
+}

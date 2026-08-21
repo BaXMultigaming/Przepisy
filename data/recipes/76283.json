@@ -1,0 +1,88 @@
+{
+  "id": "76283",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/76283/vegetarian-bean-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/76283/vegetarian-bean-curry/",
+  "title": "Vegetarian Bean Curry",
+  "description": "This basic vegetarian bean curry recipe can be customized to taste. Experiment with different spice levels and other veggies like mushrooms or add meat.",
+  "authors": [
+    "Michelle"
+  ],
+  "date_published": "2018-06-08T09:24:25-04:00",
+  "date_modified": "2025-03-19T06:49:12-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT70M",
+  "total_time": "PT85M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Entree"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 large white onion, chopped",
+    "0.5 cup dry lentils",
+    "3 tablespoons curry powder",
+    "2 cloves garlic, minced",
+    "1 teaspoon ground cumin",
+    "1 pinch cayenne pepper",
+    "1 (28 ounce) can crushed tomatoes",
+    "1 (15 ounce) can garbanzo beans, drained and rinsed",
+    "1 (8 ounce) can kidney beans, drained and rinsed",
+    "0.5 cup raisins",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot over medium heat. Add onion; cook until tender. Add lentils, curry powder, garlic, cumin, and cayenne pepper; cook, stirring constantly, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in tomatoes, garbanzo beans, kidney beans, and raisins; season with salt and black pepper. Reduce heat to low; simmer, stirring occasionally, for at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "36 g",
+    "fiberContent": "10 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "298 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "129"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VFJfglYLa04zKDoXfSLkHsLBqGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/883343-0eb84ce59fda463e990c6312d67ff3ba.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/76283/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "75203",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/75203/fried-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/75203/fried-green-beans/",
+  "title": "Fried Green Beans",
+  "description": "Light and crunchy, pan-fried green beans with lemon, garlic salt and pepper. Fresh and fast!",
+  "authors": [
+    "Kris Swiggum"
+  ],
+  "date_published": "2019-07-10T02:54:18-04:00",
+  "date_modified": "2022-01-07T10:49:38-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons extra virgin olive oil",
+    "1 tablespoon butter",
+    "2 tablespoons fresh lemon juice",
+    "2 cups diagonally sliced fresh green beans",
+    "1 teaspoon lemon zest",
+    "1 pinch garlic salt to taste",
+    "1 pinch ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil, butter and lemon juice in a skillet over medium-high heat. Add the green beans, lemon zest, garlic salt and pepper. Cook and stir for about 10 minutes, or until beans are tender, but still a little crunchy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "106 mg",
+    "sugarContent": "1 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sxjZcrmrwbIVa--gWIJCELWEuJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1499564-ce2278eba39843c4b995edfe37c7fd70.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/75203/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

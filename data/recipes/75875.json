@@ -1,0 +1,79 @@
+{
+  "id": "75875",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/75875/sweet-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/75875/sweet-potato-salad/",
+  "title": "Sweet Potato Salad",
+  "description": "A delicious change from regular potato salad. Sweet potatoes are tossed with raisins and walnuts in a sweet creamy dressing. An excellent fall side dish.",
+  "authors": [
+    "Christal Holloman"
+  ],
+  "date_published": "2020-03-04T23:58:51-05:00",
+  "date_modified": "2020-03-04T23:58:51-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT90M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds sweet potatoes, peeled and cubed",
+    "1 cup mayonnaise",
+    "0.5 cup packed brown sugar",
+    "1 cup chopped walnuts",
+    "0.5 cup raisins"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large saucepan, and fill with enough water to cover. Bring to a boil, and cook for about 8 minutes, or until tender. Drain, and cool slightly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, stir together the mayonnaise and brown sugar. Stir in the sweet potatoes, walnuts and raisins until evenly coated. Chill for at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "465 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "192 mg",
+    "sugarContent": "27 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/q7hcjo8_h5xK7ppJpg1r57pRHsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969632-b037e1498b794bc99349be87ef157922.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/75875/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

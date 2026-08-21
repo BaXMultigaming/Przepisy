@@ -1,0 +1,70 @@
+{
+  "id": "75169",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/75169/rice-pudding-with-dates/",
+  "requested_url": "https://www.allrecipes.com/recipe/75169/rice-pudding-with-dates/",
+  "title": "Rice Pudding With Dates",
+  "description": "Rice pudding sweetened by dates rather than much sugar, can be eaten warm or cold.",
+  "authors": [
+    "BMaryGreen"
+  ],
+  "date_published": "2020-06-18T23:11:11-04:00",
+  "date_modified": "2022-07-14T15:54:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups cooked white rice",
+    "2 cups 2% milk",
+    "3 tablespoons white sugar",
+    "15 dates, pitted and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Place the rice into a food processor or blender, and process until coarse, but not pureed. Transfer to a saucepan, and stir in the milk, sugar and dates. Cook over low heat, stirring occasionally until the dates are tender, about 20 minutes. Serve warm or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "192 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "34 mg",
+    "sugarContent": "23 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_GYGR-uC2CQ3nXG6Rhz-GKhCUtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/863719-99c9c25bb4da4d2cb3c5690957f4e084.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/75169/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

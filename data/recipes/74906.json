@@ -1,0 +1,114 @@
+{
+  "id": "74906",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/74906/cream-of-celery-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/74906/cream-of-celery-soup/",
+  "title": "Cream of Celery Soup",
+  "description": "This cream of celery soup with carrots, onion, and white pepper is made rich and smooth with butter, flour, and milk for a creamy winter soup.",
+  "authors": [
+    "WONDERFALK"
+  ],
+  "date_published": "2018-06-08T09:24:07-04:00",
+  "date_modified": "2026-01-26T06:08:35-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "32"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 quarts chicken stock",
+    "3 pounds celery, coarsely chopped",
+    "0.5 pound carrots, julienned",
+    "0.5 pound onions, chopped",
+    "1 cup all-purpose flour",
+    "1 tablespoon salt",
+    "1 teaspoon ground white pepper",
+    "3 quarts hot milk",
+    "1 cup margarine"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7nY3xOxhz0N6q5M-hXhH11GCi3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-74906-cream-of-celery-soup-VAT-step-01-fdaac2e453944120bdb509cd9d7b1d11.jpg"
+      ],
+      "image": "assets/images/74906/step_01.webp"
+    },
+    {
+      "text": "Pour chicken stock into a large pot, and bring to a boil. Add celery, carrots, and onion to the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/U74NPzdRC5LmoOOdw7rXWXz1NvE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-74906-cream-of-celery-soup-VAT-step-02-f6f032eb9f674d42b80486208a8019cb.jpg"
+      ],
+      "image": "assets/images/74906/step_02.webp"
+    },
+    {
+      "text": "Whisk flour, salt, pepper, and milk together in a bowl; add to the pot along with butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/hV9OiRDtXCyw5PaK3BUtGiCPS0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-74906-cream-of-celery-soup-VAT-step-03-dairy-e9fca02751f74ed3ad95b26f98e23c8a.jpg"
+      ],
+      "image": "assets/images/74906/step_03.webp"
+    },
+    {
+      "text": "Simmer until thickened, about 10 minutes. Remove from heat and use an immersion blender to puree the vegetables into the soup.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LICIY2E1rOkBnZERC2xzG48gOIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-74906-cream-of-celery-soup-VAT-step-04-a6474a075f744bfe9c41b92a5c3e31ca.jpg"
+      ],
+      "image": "assets/images/74906/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "615 mg",
+    "sugarContent": "6 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "301"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wNnvptW1gx61krLvB_QFZ3_XlaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-74906-cream-of-celery-soup-VAT-4x3-99230baa0c604e3db0ea6b0077bd1378.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/74906/hero.webp",
+    "steps": [
+      "assets/images/74906/step_01.webp",
+      "assets/images/74906/step_02.webp",
+      "assets/images/74906/step_03.webp",
+      "assets/images/74906/step_04.webp"
+    ]
+  }
+}

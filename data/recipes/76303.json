@@ -1,0 +1,86 @@
+{
+  "id": "76303",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/76303/okra-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/76303/okra-salad/",
+  "title": "Okra Salad",
+  "description": "This is a fried okra salad with bacon, onion, and tomato in a tangy vinegar dressing. Frozen okra makes it easy to enjoy year-round.",
+  "authors": [
+    "LUNANA"
+  ],
+  "date_published": "2020-06-18T23:11:18-04:00",
+  "date_modified": "2020-06-18T23:11:18-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 slices bacon",
+    "1 (16 ounce) package frozen cut okra",
+    "1 onion, chopped",
+    "1 green bell pepper, seeded and diced",
+    "1 medium tomato, diced",
+    "0.33333334326744 cup white sugar",
+    "0.25 cup corn oil",
+    "0.25 cup white vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large skillet over medium heat. Cook until evenly browned, then remove to paper towels to drain. Pour off most of the bacon grease, leaving a thin coating on the pan. Add okra to the bacon grease in the skillet, and fry until tender, about 5 minutes. Transfer the okra to a salad bowl, and toss with the onion, green pepper, and tomato. Crumble in the bacon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, whisk together the sugar, corn oil, and vinegar until the sugar has dissolved. Pour over the salad, and toss to coat. Chill for 30 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "226 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "121 mg",
+    "sugarContent": "15 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZZKYRy9UCBNPZA7yoMVTgUxwh1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13972-182c53b1ef0e4b7f8a4651db126db473.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/76303/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

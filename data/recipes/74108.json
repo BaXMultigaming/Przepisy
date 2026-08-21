@@ -1,0 +1,96 @@
+{
+  "id": "74108",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/74108/pasta-with-fresh-tomato-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/74108/pasta-with-fresh-tomato-sauce/",
+  "title": "Pasta with Fresh Tomato Sauce",
+  "description": "Hot pasta is topped with a fresh tomato sauce assembled directly in the bowl with ripe tomatoes, basil, onion, Italian dressing, and Parmesan cheese.",
+  "authors": [
+    "kelcampbell"
+  ],
+  "date_published": "2018-03-21T12:38:03-04:00",
+  "date_modified": "2023-08-05T15:01:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Canadian",
+    "American"
+  ],
+  "regions": [
+    "Canadian",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package dry penne pasta",
+    "8 roma (plum) tomatoes, diced",
+    "0.5 cup Italian dressing",
+    "0.25 cup finely chopped fresh basil",
+    "0.25 cup diced red onion",
+    "0.25 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, 8-10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain pasta and transfer to a large bowl. Add tomatoes, Italian dressing, basil, red onion, and Parmesan cheese; toss until well coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/hhqzZC4F6OXAMzgx2w9wynmRPZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4694036-2d6b47e57a964ce285c5ca8b1cf25a33.jpg"
+      ],
+      "image": "assets/images/74108/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "257 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "248 mg",
+    "sugarContent": "3 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "206"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Y84k1yp9-ma1DlVvV.mp4",
+    "description": "AR0853",
+    "duration": "PT2M11S",
+    "name": "Pasta with Fresh Tomato Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Y84k1yp9/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T08:45:59-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hhqzZC4F6OXAMzgx2w9wynmRPZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4694036-2d6b47e57a964ce285c5ca8b1cf25a33.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/74108/hero.webp",
+    "steps": [
+      null,
+      "assets/images/74108/step_02.webp"
+    ]
+  }
+}

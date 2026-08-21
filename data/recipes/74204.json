@@ -1,0 +1,88 @@
+{
+  "id": "74204",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/74204/tomato-chutney-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/74204/tomato-chutney-ii/",
+  "title": "Tomato Chutney",
+  "description": "This tomato chutney is super simple to make with freshly chopped tomatoes, ginger, garlic, sugar, and spices for a sweet and flavorful condiment.",
+  "authors": [
+    "Patrick7"
+  ],
+  "date_published": "2020-06-18T23:11:02-04:00",
+  "date_modified": "2026-08-07T16:08:31-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups chopped tomatoes",
+    "2 teaspoons ginger",
+    "1 teaspoon minced garlic",
+    "2 tablespoons chopped cilantro",
+    "2 teaspoons chili powder",
+    "1 tablespoon white sugar",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1Cbt0UQjinkQxAU2qX0_-GOBN3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/74204-tomato-chutney-VAT-005-step-01-06614dbf5b9b433bb3103927c877b06f.jpg"
+      ],
+      "image": "assets/images/74204/step_01.webp"
+    },
+    {
+      "text": "Combine tomatoes, ginger, garlic, cilantro, chili powder, sugar, and salt in a saucepan over medium heat, stirring occasionally, until thick and tomatoes have broken down, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_VdUrgkHV0Ry3ZM6vFsAbyk15qs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/74204-tomato-chutney-VAT-006-step-02-da1e21200c3244328b369db862724371.jpg"
+      ],
+      "image": "assets/images/74204/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "19 kcal",
+    "carbohydrateContent": "4 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "3 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LkuXKBqHshVMc3zWTfMPban_WLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/74204-tomato-chutney-VAT-003-Beauty-4x3-44fd61e7306a414680f4f2e14d7bbb29.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/74204/hero.webp",
+    "steps": [
+      "assets/images/74204/step_01.webp",
+      "assets/images/74204/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "76020",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/76020/apple-julep/",
+  "requested_url": "https://www.allrecipes.com/recipe/76020/apple-julep/",
+  "title": "Apple Julep",
+  "description": "A great blend of juices that is tasty with breakfast or anytime.",
+  "authors": [
+    "BUSYMOMOFTHREE"
+  ],
+  "date_published": "2019-07-10T02:54:20-04:00",
+  "date_modified": "2022-07-14T17:31:56-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 quart apple juice",
+    "1 cup orange juice",
+    "1 cup pineapple juice",
+    "0.25 cup lemon juice",
+    "1 sprig fresh mint leaves"
+  ],
+  "steps": [
+    {
+      "text": "In a large pitcher, stir together the apple juice, orange juice, pineapple juice and lemon juice. Mix and pour into glasses full of ice to serve. Garnish each serving with a mint leaf.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "121 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "6 mg",
+    "sugarContent": "26 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A-j62Nd63HETBPq6OP7sB7qMH8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Julep-lutzflcat-1-by-1-2000-ceb287c6a4be4ddbb1a4f1e7ec2a1fd6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/76020/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

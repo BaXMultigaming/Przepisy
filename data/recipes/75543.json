@@ -1,0 +1,96 @@
+{
+  "id": "75543",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/75543/super-easy-sloppy-joes/",
+  "requested_url": "https://www.allrecipes.com/recipe/75543/super-easy-sloppy-joes/",
+  "title": "Super Easy Sloppy Joes Recipe",
+  "description": "This easy sloppy joe recipe is made with ground beef, brown sugar, onion, celery, apple cider vinegar, and store-bought chili sauce for a quick dinner.",
+  "authors": [
+    "NICNEC"
+  ],
+  "date_published": "2020-03-04T23:58:50-05:00",
+  "date_modified": "2026-06-15T19:26:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds ground beef",
+    "1 cup chopped yellow onion",
+    "1 cup finely chopped celery",
+    "1 (12 ounce) bottle tomato-based chili sauce",
+    "0.25 cup apple cider vinegar",
+    "0.25 cup packed brown sugar",
+    "1 teaspoon prepared yellow mustard"
+  ],
+  "steps": [
+    {
+      "text": "Crumble ground beef into a large pot or Dutch oven over medium-high heat. Cook, stirring frequently, until evenly browned. Drain off grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add onion and celery to ground beef in the pot. Cook and stir until onion is tender, about 3 minutes. Reduce heat to medium and pour in chili sauce. Stir in vinegar, sugar, and mustard. Simmer until mixture reaches desired thickness.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/zF2vV9eHZkHNTQu8iWCFnI4ZaDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48894-80e14855e8994ed298c36ffc771adb7d.jpg"
+      ],
+      "image": "assets/images/75543/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "536 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "139 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "38 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "234 mg",
+    "sugarContent": "11 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "108"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/LjBDTcLP-ma1DlVvV.mp4",
+    "description": "AR0893",
+    "duration": "PT1M58S",
+    "name": "Super Easy Sloppy Joes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LjBDTcLP/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T11:43:58-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zF2vV9eHZkHNTQu8iWCFnI4ZaDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48894-80e14855e8994ed298c36ffc771adb7d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/75543/hero.webp",
+    "steps": [
+      null,
+      "assets/images/75543/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "74705",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/74705/spicy-hot-chicken-legs/",
+  "requested_url": "https://www.allrecipes.com/recipe/74705/spicy-hot-chicken-legs/",
+  "title": "Spicy Hot Chicken Legs",
+  "description": "This is just like spicy chicken wings, only less work. Slow cooker drumsticks cook up nicely with this method. This meal is super easy and oh so yummy!",
+  "authors": [
+    "chowsito"
+  ],
+  "date_published": "2019-04-02T02:46:35-04:00",
+  "date_modified": "2024-12-19T15:05:51-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 chicken drumsticks",
+    "1 (5 ounce) bottle hot red pepper sauce",
+    "0.25 cup butter, cubed",
+    "0.5 teaspoon garlic powder",
+    "0.5 teaspoon onion powder",
+    "salt and pepper to taste",
+    "1.5 cups blue cheese salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Place drumsticks in a slow cooker, and sprinkle evenly with pieces of butter. Pour hot sauce over the chicken, then season with garlic powder, onion powder, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover, and cook on High for 3 hours, or until tender. Serve chicken legs with blue cheese dressing on the side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JLRL57Jvg-f04ANY3hmmCch69EI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/994208-1a763bc145114e01a06afc21b1eca5a6.jpg"
+      ],
+      "image": "assets/images/74705/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "685 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "159 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "41 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "1025 mg",
+    "sugarContent": "2 g",
+    "fatContent": "56 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "384"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/3MuiXXdr-K3AjnAEN.mp4",
+    "description": "In this video, we'll show you how to make a batch of spicy hot chicken legs using the slow cooker. Drumsticks, cubes of butter, hot red pepper sauce, and seasonings are added to the slow cooker and cooked for 3 hours. For crispy skin, we'll broil the chicken in the oven. Then serve these up with blue cheese dressing for dipping. ",
+    "duration": "PT51S",
+    "name": "Spicy Hot Chicken Legs",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/3MuiXXdr/poster.jpg?width=1280",
+    "uploadDate": "2021-07-25T10:59:16-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JLRL57Jvg-f04ANY3hmmCch69EI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/994208-1a763bc145114e01a06afc21b1eca5a6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/74705/hero.webp",
+    "steps": [
+      null,
+      "assets/images/74705/step_02.webp"
+    ]
+  }
+}

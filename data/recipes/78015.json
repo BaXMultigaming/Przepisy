@@ -1,0 +1,85 @@
+{
+  "id": "78015",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/78015/asian-mushroom-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/78015/asian-mushroom-soup/",
+  "title": "Asian Mushroom Soup",
+  "description": "Assorted mushrooms, vegetables, chicken, and noodles mingle well in this hearty and healthy soup.",
+  "authors": [
+    "USA WEEKEND columnist Jean Carper"
+  ],
+  "date_published": "2018-03-21T12:40:29-04:00",
+  "date_modified": "2025-01-28T18:50:06-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "East And Southeast Asian",
+    "Asian"
+  ],
+  "regions": [
+    "East And Southeast Asian",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups fat-free, reduced-sodium chicken broth",
+    "3 tablespoons reduced-sodium soy sauce",
+    "2 teaspoons grated fresh ginger",
+    "3 garlic cloves, crushed",
+    "3 cups assorted mushrooms, sliced (I like white buttons, oyster, shiitake, portobello and crimini; if using shiitake, discard stems)",
+    "3 cups white cabbage, cut in wedges",
+    "1 cup thinly sliced carrots",
+    "2 cups chicken breast, shredded",
+    "2 cups fresh udon noodles (or substitute cooked linguine)",
+    "1 cup thinly sliced green onions, with some of the green tops",
+    "2 cups shredded raw spinach or whole baby spinach leaves",
+    "Freshly ground black pepper to taste",
+    "1 tablespoon mirin (sweetened rice wine)"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot, combine broth, soy sauce, ginger, garlic, mushrooms, cabbage, carrots and chicken. Cover. Bring to a boil; simmer until mushrooms are soft, about 5 minutes. Stir in noodles, green onions and spinach; simmer until greens are wilted, about 2 minutes. Season.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "192 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "630 mg",
+    "sugarContent": "5 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "101"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RQ4WEw1QWWRncireLivQ9CNNV-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9429481-cdebed2509c44339b8a29f50025fd0ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/78015/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

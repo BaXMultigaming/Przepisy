@@ -1,0 +1,82 @@
+{
+  "id": "75620",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/75620/seared-catfish-creole/",
+  "requested_url": "https://www.allrecipes.com/recipe/75620/seared-catfish-creole/",
+  "title": "Seared Catfish Creole",
+  "description": "This is an easy and tasty recipe for pan-seared catfish in butter with a deliciously spicy yellow mustard and cracked black pepper crust.",
+  "authors": [
+    "GIRLYGRRL6"
+  ],
+  "date_published": "2018-03-21T12:38:56-04:00",
+  "date_modified": "2026-05-11T12:20:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Creole"
+  ],
+  "regions": [
+    "Creole"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 whole catfish, cleaned with head and tail removed",
+    "0.5 cup prepared yellow mustard",
+    "0.25 cup cracked black pepper",
+    "0.25 cup olive oil",
+    "0.25 cup butter"
+  ],
+  "steps": [
+    {
+      "text": "Pat catfish dry; spread a layer of mustard over the surface. Place cracked black pepper onto a plate; press coated catfish into the pepper so it is well covered.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil and butter in a large skillet over medium-high heat. Fry catfish for 3 to 5 minutes on each side, or until fish flakes with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "331 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "100 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "326 mg",
+    "sugarContent": "0 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aazqg0iYMGu1B-ei7tH-ht473jE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5576817-3d538d3a36824f0c8d7308d384d4ee86.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/75620/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

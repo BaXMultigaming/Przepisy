@@ -1,0 +1,75 @@
+{
+  "id": "74755",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/74755/apple-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/74755/apple-milkshake/",
+  "title": "Apple Milkshake",
+  "description": "This smooth, delicate shake is a great way to cool off during the hot, hot days of late summer. Any type of apple will work -- choose your favorite, or pick one from the back yard!",
+  "authors": [
+    "RABZ"
+  ],
+  "date_published": "2020-06-18T23:11:08-04:00",
+  "date_modified": "2025-06-05T21:05:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 apple - peeled, cored, and chopped",
+    "1.5 cups milk",
+    "3 scoops vanilla ice cream",
+    "2 tablespoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place the apple, milk, ice cream, and sugar in a blender, and blend until smooth. Serve cold!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "239 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "101 mg",
+    "sugarContent": "35 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/O4VOzVd2Wsz8-LUT857mo8IhUI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/74755AppleMilkshakeTammyLynn4x3-661449572b4d4bb9b8d9704620c58fe2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/74755/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "77776",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/77776/red-salmon-pate/",
+  "requested_url": "https://www.allrecipes.com/recipe/77776/red-salmon-pate/",
+  "title": "Red Salmon Pâté",
+  "description": "A creamy salmon pâté flavored with onion, horseradish, lemon juice, and parsley. Delicious spread on crackers or toast.",
+  "authors": [
+    "JUSTJEN33"
+  ],
+  "date_published": "2019-07-10T02:54:25-04:00",
+  "date_modified": "2026-05-17T12:59:36-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (7 ounce) can salmon, drained, flaked and bones removed",
+    "1 (8 ounce) package cream cheese, softened",
+    "1 teaspoon prepared horseradish",
+    "1 tablespoon lemon juice",
+    "2 teaspoons grated onion",
+    "1 tablespoon chopped fresh parsley",
+    "0.5 cup chopped pecans"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix together salmon, cream cheese, horseradish, lemon juice, and onion. Chill if necessary until firm enough to handle, then form into a ball. Roll in parsley and pecans if desired. Refrigerate until serving. Serve with assorted crackers.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "191 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "173 mg",
+    "sugarContent": "1 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2i-ILsXL0NKxSQc0JmOEFx3n6QY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1611243-red-salmon-pate-NNChick-4x3-1-8c2aa1460c86419db9e0bd0478f459f0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/77776/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

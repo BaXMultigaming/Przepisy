@@ -1,0 +1,73 @@
+{
+  "id": "76044",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/76044/frangipane/",
+  "requested_url": "https://www.allrecipes.com/recipe/76044/frangipane/",
+  "title": "Frangipane",
+  "description": "This can be used as a filling for coffeecake, Danish pastries, croissants, or mixed with fruit for pies. It can also be used plain as a tart filling.",
+  "authors": [
+    "CHRISTINIBEANIE"
+  ],
+  "date_published": "2020-06-18T23:11:16-04:00",
+  "date_modified": "2022-07-14T17:42:31-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup almond paste",
+    "0.5 cup butter, softened",
+    "0.5 cup beaten egg",
+    "0.5 cup white sugar",
+    "1 cup all-purpose flour"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix together the almond paste, sugar and butter until smooth. Gradually mix in the eggs, and then the flour until well blended. Store in the refrigerator until ready to use.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "147 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "44 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "52 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/h8rHEsILSyCZ-Kmrve1qtDPMPcg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4571330-ce2e8713a581425986fe7c2f173f10c9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/76044/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

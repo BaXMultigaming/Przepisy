@@ -1,0 +1,81 @@
+{
+  "id": "75234",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/75234/tipsy-peaches/",
+  "requested_url": "https://www.allrecipes.com/recipe/75234/tipsy-peaches/",
+  "title": "Tipsy Peaches",
+  "description": "This tipsy peach recipe simmers fresh peaches in brown sugar and whiskey until soft, sweet, and saucy for a tipsy side dish or vanilla ice cream topper.",
+  "authors": [
+    "MAGIRITARZ"
+  ],
+  "date_published": "2020-03-04T23:58:49-05:00",
+  "date_modified": "2025-12-10T14:46:26-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "4 cups sliced fresh peaches",
+    "1 (1.5 fluid ounce) jigger whiskey",
+    "2 tablespoons brown sugar",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large skillet over medium heat. Add peaches; cook, stirring occasionally, for about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir whiskey, brown sugar, and vanilla extract into peaches; simmer over medium heat until peaches are soft and sauce darkened, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "113 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "8 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "28 mg",
+    "sugarContent": "15 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "58"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zFF6aKNbsXm-26Q0uVfBwUGssPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/75234_TipseyPeaches_MFS-WD-3x2-1-17dad1dd52a04eeea5e7dcb4710d022e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/75234/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

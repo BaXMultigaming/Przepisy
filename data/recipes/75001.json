@@ -1,0 +1,87 @@
+{
+  "id": "75001",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/75001/specials/",
+  "requested_url": "https://www.allrecipes.com/recipe/75001/specials/",
+  "title": "Specials",
+  "description": "These are grilled hamburgers that are very special because they are so moist and delicious. No need to melt cheese on the top because it is mixed into the patty. Serve on buns with your favorite condiments.",
+  "authors": [
+    "MRYB61"
+  ],
+  "date_published": "2018-03-21T12:38:37-04:00",
+  "date_modified": "2022-08-08T10:44:06-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "1 egg",
+    "1 medium onion, chopped",
+    "2 cups shredded Cheddar cheese",
+    "1 dash Worcestershire sauce"
+  ],
+  "steps": [
+    {
+      "text": "Preheat grill for high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix together the ground beef, egg, onion, Cheddar cheese and Worcestershire sauce using your hand. Form into 6 large patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place patties on the grill, and cook for 5 minutes per side, or until well done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "473 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "171 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "38 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "386 mg",
+    "sugarContent": "1 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6D8l1XEY9ypmwcxm4GEUWiknDok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9369375-c982874a5385465795d103e29501a1fc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/75001/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
