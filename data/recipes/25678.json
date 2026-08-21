@@ -1,0 +1,111 @@
+{
+  "id": "25678",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25678/beef-stew-vi/",
+  "requested_url": "https://www.allrecipes.com/recipe/25678/beef-stew-vi/",
+  "title": "Homemade Beef Stew",
+  "description": "This homemade beef stew recipe for the stovetop is seasoned with rosemary and parsley for a hearty and delicious dinner. It&#39;s even better the next day!",
+  "authors": [
+    "Paula Antoniou"
+  ],
+  "date_published": "2000-08-15T19:41:26-04:00",
+  "date_modified": "2025-11-06T12:33:48-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT135M",
+  "total_time": "PT155M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "3 tablespoons vegetable oil",
+    "2 pounds cubed beef stew meat",
+    "4 cubes beef bouillon, crumbled",
+    "4 cups water",
+    "1 teaspoon dried rosemary",
+    "1 teaspoon dried parsley",
+    "0.5 teaspoon ground black pepper",
+    "3 large potatoes, peeled and cubed",
+    "4 carrots, cut into 1 inch pieces",
+    "4 stalks celery, cut into 1 inch pieces",
+    "1 large onion, chopped",
+    "2 teaspoons cornstarch",
+    "2 teaspoons cold water"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot or Dutch oven over medium-high heat; add beef and cook until well browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dissolve bouillon in 4 cups water and pour into the pot; stir in rosemary, parsley, and pepper. Bring to a boil; reduce heat to low, cover, and simmer for 1 hour. Stir in potatoes, carrots, celery, and onion.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dissolve cornstarch in 2 teaspoons of cold water; stir into stew. Cover and simmer until beef is tender, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/tmNQkFbyS2BlsmQlKTSdjEVaLLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25678-beef-stew-vi-humblepieliving-001-4x3-96b76b098c8642aea824065bce96df7e.jpg"
+      ],
+      "image": "assets/images/25678/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "401 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "79 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "436 mg",
+    "sugarContent": "3 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "3853"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/dXkZflgD-ma1DlVvV.mp4",
+    "description": "AR0364",
+    "duration": "PT3M33S",
+    "name": "Beef Stew VI",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dXkZflgD/poster.jpg?width=1280",
+    "uploadDate": "2021-03-06T11:13:26-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tmNQkFbyS2BlsmQlKTSdjEVaLLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25678-beef-stew-vi-humblepieliving-001-4x3-96b76b098c8642aea824065bce96df7e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25678/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/25678/step_03.webp"
+    ]
+  }
+}

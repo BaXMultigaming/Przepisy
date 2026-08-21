@@ -1,0 +1,93 @@
+{
+  "id": "25259",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25259/roasted-garlic-scalloped-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/25259/roasted-garlic-scalloped-potatoes/",
+  "title": "Roasted Garlic Scalloped Potatoes",
+  "description": "Potatoes are layered with Cheddar cheese and smothered with creamy roasted garlic soup.",
+  "authors": [
+    "Vicki"
+  ],
+  "date_published": "2019-04-02T02:43:05-04:00",
+  "date_modified": "2022-07-14T16:32:37-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT70M",
+  "total_time": "PT90M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (19 ounce) can creamy potato with roasted garlic soup",
+    "0.5 cup heavy cream",
+    "1 teaspoon dried thyme",
+    "1 teaspoon freshly ground black pepper",
+    "6 large potatoes, peeled and sliced",
+    "2.5 cups shredded Cheddar cheese, divided"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a blender combine soup, cream, thyme and pepper; process until smooth. Spread a thin layer of the mixture on the bottom of a 9x13 inch casserole dish. Layer potatoes with cheese, ending with potatoes and reserving 1/2 cup cheese. Pour soup mixture over potatoes and sprinkle with remaining cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 70 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "411 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "876 mg",
+    "sugarContent": "4 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "89"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5gHbVt7GTLjkU0v6cnRRdjsN3ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2244324-b31341bc40d8461e91b1ed98ec64f991.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25259/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

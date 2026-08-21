@@ -1,0 +1,104 @@
+{
+  "id": "26009",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26009/cinnamon-pudding-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/26009/cinnamon-pudding-cake/",
+  "title": "Cinnamon Pudding Cake",
+  "description": "This cinnamon apple pudding cake recipe is a guaranteed show stopper. The apples and walnuts are optional but make sure to serve warm with whipped cream.",
+  "authors": [
+    "Matthew Flanagan"
+  ],
+  "date_published": "2020-06-18T23:06:39-04:00",
+  "date_modified": "2023-04-14T11:15:10-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "1 cup white sugar",
+    "2 teaspoons baking powder",
+    "0.5 teaspoon salt",
+    "3 teaspoons ground cinnamon",
+    "1 cup milk",
+    "1.75 cups packed brown sugar",
+    "1.5 cups water",
+    "2 tablespoons butter",
+    "0.5 cup chopped walnuts",
+    "0.75 cup apple - peeled, cored, and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease the bottom of a 9-inch square baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix together flour, sugar, baking powder, salt, and cinnamon. Make a well in the center and pour in milk. Mix well and pour into prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a saucepan, combine brown sugar, water, and butter. Bring to a boil and pour over batter in the pan. Sprinkle top with nuts and chopped apples.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 35 to 40 minutes, or until a toothpick inserted into the center of cake comes out clean. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "327 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "188 mg",
+    "sugarContent": "50 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "66"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xuvlVZXY0nz178DIExovZ3mTNNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/548912-f14d0e29931e455e93b97c5e9ef3fbb2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26009/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "25261",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25261/ketchup/",
+  "requested_url": "https://www.allrecipes.com/recipe/25261/ketchup/",
+  "title": "Ketchup",
+  "description": "Tomatoes are slowly simmered with fennel, onion, garlic, molasses, vinegar and spices to create that all time favorite condiment.",
+  "authors": [
+    "DJ Williams"
+  ],
+  "date_published": "2020-06-18T23:06:09-04:00",
+  "date_modified": "2022-08-22T14:02:57-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT240M",
+  "total_time": "PT260M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large tomatoes, quartered",
+    "1 bulb fennel, chopped",
+    "1 yellow onion, chopped",
+    "4 cloves garlic",
+    "0.25 cup white sugar",
+    "0.25 cup molasses",
+    "0.25 cup red wine vinegar",
+    "10 whole cloves",
+    "2 whole star anise pods",
+    "1 tablespoon salt"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan combine tomatoes, fennel, onion, garlic, sugar, molasses, vinegar, cloves, anise pods and salt. Reduce over low heat until mixture becomes very thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Puree mixture in a blender and strain through a mesh strainer. Chill and store in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "51 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "632 mg",
+    "sugarContent": "8 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tOrI-qchNreehqXdm4StDJ8rXtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3903837-71e20ccf5e7e42acb3f7ed3a6e593392.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25261/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

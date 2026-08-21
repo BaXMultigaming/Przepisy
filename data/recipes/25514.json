@@ -1,0 +1,80 @@
+{
+  "id": "25514",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25514/easy-marinated-mushrooms/",
+  "requested_url": "https://www.allrecipes.com/recipe/25514/easy-marinated-mushrooms/",
+  "title": "Easy Marinated Mushrooms",
+  "description": "Mushrooms are marinated in a simple soy sauce mixture. This recipe takes awhile, but the finished mushrooms are packed full of flavor. They&#39;ll be everyone&#39;s favorite!",
+  "authors": [
+    "Doreen"
+  ],
+  "date_published": "2020-06-18T23:06:13-04:00",
+  "date_modified": "2022-07-14T16:13:43-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT480M",
+  "total_time": "PT495M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups soy sauce",
+    "2 cups water",
+    "1 cup butter",
+    "2 cups white sugar",
+    "4 (8 ounce) packages fresh mushrooms, stems removed"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan over low heat, mix soy sauce, water and butter. Stir until the butter has melted, then gradually mix in the sugar until it is completely dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place mushrooms in a slow cooker set to low, and cover with the soy sauce mixture. Cook 8 to 10 hours, stirring approximately every hour. Chill in the refrigerator until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "228 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1889 mg",
+    "sugarContent": "27 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jp7RdMn8uvV4X0ipAlYW-pzh-tc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/465588-80ea22ec73734f54a8ac341203bc542e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25514/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

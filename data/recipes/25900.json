@@ -1,0 +1,84 @@
+{
+  "id": "25900",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25900/zesty-zucchini-and-squash/",
+  "requested_url": "https://www.allrecipes.com/recipe/25900/zesty-zucchini-and-squash/",
+  "title": "Zesty Zucchini and Squash",
+  "description": "Yellow squash and zucchini are simmered with onion, tomatoes and green chile peppers.",
+  "authors": [
+    "LORACUS"
+  ],
+  "date_published": "2018-06-08T09:16:50-04:00",
+  "date_modified": "2024-11-30T20:08:26-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 medium small yellow squash, cubed",
+    "3 small zucchini, cubed",
+    "1 (10 ounce) can diced tomatoes with green chile peppers",
+    "0.5 onion, chopped",
+    "salt to taste",
+    "garlic powder to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, combine squash, zucchini, tomatoes with chiles, onion, salt and garlic powder. Bring to a boil over medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to low and cook until tender-crisp.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "328 mg",
+    "sugarContent": "4 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "142"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wq5UYCgdqY9WsXsHMCLs_ZBy0s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/886168-133dc89d99a340ebaa9b7a705311623d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25900/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

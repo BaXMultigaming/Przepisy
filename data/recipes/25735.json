@@ -1,0 +1,97 @@
+{
+  "id": "25735",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25735/portuguese-kale-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/25735/portuguese-kale-soup/",
+  "title": "Portuguese Kale Soup",
+  "description": "Pea beans, chorizo, cabbage, kale and potatoes are slowly cooked together in this traditional soup.",
+  "authors": [
+    "John J Pacheco"
+  ],
+  "date_published": "2019-04-03T23:28:37-04:00",
+  "date_modified": "2025-01-29T11:04:56-05:00",
+  "prep_time": null,
+  "cook_time": "PT90M",
+  "total_time": "PT480M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Portuguese",
+    "American"
+  ],
+  "regions": [
+    "Portuguese",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound dried white pea beans",
+    "0.5 pound chorizo sausage, thinly sliced",
+    "1 pound beef soup bones",
+    "1 quart water",
+    "1 medium head cabbage, chopped",
+    "2 bunches kale - rinsed, dried and chopped",
+    "5 potatoes, peeled and cubed",
+    "1 quart hot water or as needed",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Soak beans in twice their volume of water 8 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pot, place drained beans, chorizo, soup bones and 1 quart water (or more as needed to cover). Cook over medium heat until beans are just beginning to be tender, 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in cabbage, kale, potatoes and enough hot water to cover. Cook until potatoes are tender, 20 minutes. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "302 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "321 mg",
+    "sugarContent": "4 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "69"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/M39GD9riFuX_fZL6SPW94d9Lu-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/791571-e9d7e8d636e9400d9ac3d4825bf01a04.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25735/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

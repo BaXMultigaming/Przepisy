@@ -1,0 +1,71 @@
+{
+  "id": "25440",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25440/delicious-barbeque-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/25440/delicious-barbeque-sauce/",
+  "title": "Delicious Barbeque Sauce",
+  "description": "This is a fabulous sweet and spicy sauce for grilling and dipping. It is an all time favorite.",
+  "authors": [
+    "Sarah"
+  ],
+  "date_published": "2020-06-18T23:06:12-04:00",
+  "date_modified": "2022-08-22T14:49:18-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "24",
+    "3 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup taco sauce",
+    "0.5 cup white sugar",
+    "0.5 cup molasses",
+    "0.5 cup vegetable oil",
+    "2 tablespoons cider vinegar",
+    "2 tablespoons soy sauce",
+    "1 tablespoon dry hot mustard",
+    "0.5 teaspoon dried oregano",
+    "1 dash hot pepper sauce"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, whisk together taco sauce, white sugar, molasses, vegetable oil, cider vinegar, soy sauce, dry hot mustard, dried oregano and hot pepper sauce. Chill covered in the refrigerator until ready for use.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "carbohydrateContent": "10 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "138 mg",
+    "sugarContent": "8 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QGtwTZFrZ5r3fIsPE-7KoJKAGAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/130145-41a84d2a32264f529f18df3cd5f35f13.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25440/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

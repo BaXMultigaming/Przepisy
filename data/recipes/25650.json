@@ -1,0 +1,81 @@
+{
+  "id": "25650",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25650/cheese-filling-for-pastries/",
+  "requested_url": "https://www.allrecipes.com/recipe/25650/cheese-filling-for-pastries/",
+  "title": "Cheese Filling For Pastries",
+  "description": "This pastry filling combines cream cheese with sour cream, butter, an egg yolk and brandy soaked raisins.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:06:24-04:00",
+  "date_modified": "2022-08-04T10:07:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup raisins",
+    "1 tablespoon brandy",
+    "1.5 cups cream cheese",
+    "0.33000001311302 cup white sugar",
+    "1 tablespoon all-purpose flour",
+    "1 tablespoon sour cream",
+    "1 teaspoon vanilla extract",
+    "1 tablespoon butter, melted",
+    "1 egg yolk, beaten"
+  ],
+  "steps": [
+    {
+      "text": "Sprinkle raisins with brandy and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, cream together cream cheese and sugar. Beat in flour, sour cream, vanilla and butter. Beat in egg yolk. Fold in raisins. Chill until using.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "116 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "71 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BWvWnCo9td9eJ5Vk9np0bN53xsI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/488011-75f034f02a3d40f585071ee05be61c01.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25650/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

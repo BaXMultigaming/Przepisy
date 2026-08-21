@@ -1,0 +1,80 @@
+{
+  "id": "25266",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25266/marinated-cauliflower/",
+  "requested_url": "https://www.allrecipes.com/recipe/25266/marinated-cauliflower/",
+  "title": "Marinated Cauliflower",
+  "description": "A head of cauliflower is marinated overnight in Italian dressing, then combined with mayonnaise, bacon bits and Parmesan cheese.",
+  "authors": [
+    "Kathy"
+  ],
+  "date_published": "2018-03-21T12:19:34-04:00",
+  "date_modified": "2022-07-14T16:10:35-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT750M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 head cauliflower, broken into small florets",
+    "1 (8 ounce) bottle Italian dressing",
+    "1 cup mayonnaise",
+    "0.25 cup bacon bits",
+    "0.25 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Place cauliflower in a large bowl and cover with Italian dressing. Cover and refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain cauliflower and stir in mayonnaise, bacon bits and cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "258 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "634 mg",
+    "sugarContent": "4 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iZnz4q5nBw__g4fy139l6ijin4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57272-b22c6688593742848b71e00a15e60ec1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25266/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

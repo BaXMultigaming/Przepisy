@@ -1,0 +1,80 @@
+{
+  "id": "25523",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25523/sweet-and-sour-kielbasa/",
+  "requested_url": "https://www.allrecipes.com/recipe/25523/sweet-and-sour-kielbasa/",
+  "title": "Sweet and Sour Kielbasa",
+  "description": "A sweet and sour sauce based on ketchup and brown sugar becomes a tempting marinade for plump kielbasa sausage.",
+  "authors": [
+    "THEO72"
+  ],
+  "date_published": "2020-03-04T23:56:38-05:00",
+  "date_modified": "2024-11-27T14:47:50-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups ketchup",
+    "0.5 cup packed brown sugar",
+    "2 tablespoons Worcestershire sauce",
+    "6 tablespoons butter",
+    "0.5 cup chopped onion",
+    "4 tablespoons lemon juice",
+    "0.5 cup water",
+    "salt and pepper to taste",
+    "1 pound kielbasa sausage"
+  ],
+  "steps": [
+    {
+      "text": "In a slow cooker set for low heat, mix the ketchup, brown sugar, Worcestershire sauce, butter, onion, lemon juice, water, salt and pepper. Place the kielbasa sausage in the mixture. Cook 30 minutes, until the onions are soft, or as desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "495 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "1718 mg",
+    "sugarContent": "39 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "166"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nf285q-irY2iLGPeJ5qNHjJwUKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/97337-60945342048f475aa406871fb5038ed1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25523/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

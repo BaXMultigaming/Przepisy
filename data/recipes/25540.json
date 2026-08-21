@@ -1,0 +1,80 @@
+{
+  "id": "25540",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25540/dill-and-cheese-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/25540/dill-and-cheese-dip/",
+  "title": "Dill and Cheese Dip",
+  "description": "This dip is great with crackers and veggies. Cheddar cheese is blended with cottage cheese and yogurt, then sprinkled with dill.",
+  "authors": [
+    "David"
+  ],
+  "date_published": "2020-06-02T00:39:33-04:00",
+  "date_modified": "2022-07-14T16:08:38-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "16",
+    "4 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups cottage cheese",
+    "1 cup plain yogurt",
+    "0.5 teaspoon lemon juice",
+    "garlic powder to taste",
+    "1 cup shredded Cheddar cheese",
+    "dried dill weed to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, blend cottage cheese, plain yogurt, lemon juice and garlic powder. Cover and place in the refrigerator approximately 1 hour, until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir Cheddar cheese into the cottage cheese mixture. Sprinkle with a layer of dried dill weed. Chill in the refrigerator until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "67 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "13 mg",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "169 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sQzaAAVYlGimGiTpTUmxfI9tRdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/895407-d00de194afd544dbae503b8dd86b2e4a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25540/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

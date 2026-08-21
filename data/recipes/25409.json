@@ -1,0 +1,82 @@
+{
+  "id": "25409",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25409/hamburger-hash/",
+  "requested_url": "https://www.allrecipes.com/recipe/25409/hamburger-hash/",
+  "title": "Hamburger Hash",
+  "description": "This hamburger hash is a tasty combination of ground beef, onion, and potatoes simmered in beefy broth for a budget-friendly one-dish meal.",
+  "authors": [
+    "RHONDA_M"
+  ],
+  "date_published": "2019-04-03T23:28:25-04:00",
+  "date_modified": "2026-03-05T21:08:53-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 large onion, chopped",
+    "1 pound potatoes, cut into small chunks",
+    "2 tablespoons beef bouillon",
+    "water to cover"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large saucepan over medium-high heat. Cook and stir ground beef and onion until browned, about 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add potatoes and bouillon; pour in just enough water to cover potatoes. Cover saucepan, reduce heat to low, and simmer until potatoes are tender and water has been absorbed, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "358 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "78 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "735 mg",
+    "sugarContent": "4 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "315"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/L6FAZCqS_d7Cnjo0E4kGlEjLfOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4515791-hamburger-hash-Ronda-H.-4x3-1-bddce967be0b448c830ccf9d94728a6b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25409/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

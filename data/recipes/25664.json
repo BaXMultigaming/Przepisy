@@ -1,0 +1,83 @@
+{
+  "id": "25664",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25664/cheese-soup-v/",
+  "requested_url": "https://www.allrecipes.com/recipe/25664/cheese-soup-v/",
+  "title": "Cheese Soup V",
+  "description": "Chicken broth is the base for this vegetable cheese soup with milk.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2019-04-03T23:28:32-04:00",
+  "date_modified": "2022-10-17T18:15:18-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup chopped celery",
+    "0.33000001311302 cup chopped carrot",
+    "0.75 cup water",
+    "2 tablespoons butter",
+    "0.5 onion, chopped",
+    "0.33000001311302 cup all-purpose flour",
+    "2 cups whole milk",
+    "1.2999999523163 cups chicken broth",
+    "1.75 cups shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a small saucepan, combine celery, carrot and water. Bring to a boil, then reduce heat and simmer until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a large saucepan over medium heat, melt butter. Cook onion in butter until tender. Stir in flour and milk and cook until thickened. Stir in broth, cheese and vegetables with their liquid. Stir until cheese is melted and elements are well combined. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "249 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "53 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "276 mg",
+    "sugarContent": "5 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kmrXoTA2Bg-wEu-18G-OUzrpuoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6848581-c6c7d0fe0858446ea75dea2bf4ab37d8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25664/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

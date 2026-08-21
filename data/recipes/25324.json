@@ -1,0 +1,91 @@
+{
+  "id": "25324",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25324/potato-dumplings/",
+  "requested_url": "https://www.allrecipes.com/recipe/25324/potato-dumplings/",
+  "title": "Potato Dumplings",
+  "description": "This is a basic dumpling recipe that you can use in your favorite soup or stew. Mashed potatoes are combined with flour and egg and shaped into dumplings with a single crouton tucked in the center.",
+  "authors": [
+    "Helen"
+  ],
+  "date_published": "2018-03-21T12:19:41-04:00",
+  "date_modified": "2026-04-21T21:34:30-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT20M",
+  "total_time": "PT50M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large potatoes, peeled and chopped",
+    "1 cup self-rising flour",
+    "1 egg",
+    "8 large seasoned croutons"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender, about 15 minutes. Drain and mash.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl combine 2 cups mashed potatoes with flour and egg. Using about 1/4 to 1/2 cup of mixture each, shape into dumplings. Press a crouton into the center of each and seal dough around it.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop dumplings into simmering soup or broth, cover and cook 20 minutes. Do not remove lid while dumplings are cooking.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "136 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "211 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/X93JjUY8J2rDqAqNltsufTQTfto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7261895-51b1c43da5ae4d9e9e6e58993de3efe7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25324/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

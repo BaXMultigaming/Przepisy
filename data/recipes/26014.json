@@ -1,0 +1,101 @@
+{
+  "id": "26014",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26014/coconut-pecan-frosting-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/26014/coconut-pecan-frosting-ii/",
+  "title": "Coconut Pecan Frosting",
+  "description": "This thick, sweet, and nutty coconut and pecan frosting is ideal for German chocolate cake, but it&#39;s also delicious on many other types of cakes.",
+  "authors": [
+    "AUNT B"
+  ],
+  "date_published": "2020-06-18T23:06:40-04:00",
+  "date_modified": "2025-11-20T15:20:09-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "20",
+    "2 1/2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup evaporated milk",
+    "1 cup white sugar",
+    "3 large egg yolks",
+    "0.5 cup unsalted butter",
+    "1 teaspoon vanilla extract",
+    "1.5 cups flaked coconut",
+    "1 cup chopped pecans"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/uN_1L_RL0RIwASPBzE97weTGoRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26014-coconut-pecan-frosting-ii-DDMFS-01-14741-b6a6b215abad43c884976f582b6d218f.jpg"
+      ],
+      "image": "assets/images/26014/step_01.webp"
+    },
+    {
+      "text": "Combine milk, sugar, egg yolks, butter, and vanilla in a saucepan over medium heat. Cook, stirring frequently, until thickened, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Wvgr07tfE1Boogn7HT8KAO_hipE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26014-coconut-pecan-frosting-ii-DDMFS-02-14748-aea02a6c4fbd44daac4397f21df06b35.jpg"
+      ],
+      "image": "assets/images/26014/step_02.webp"
+    },
+    {
+      "text": "Remove from heat and stir in coconut and pecans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rNdd0DK4oX0aNmuUc_IZao1wpLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26014-coconut-pecan-frosting-ii-DDMFS-03-14749-10c73a56dbf74682b09053cbad52e3af.jpg"
+      ],
+      "image": "assets/images/26014/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "62 mg",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "110"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/65EsPe4Qn1reZCBLIdZHDXGpkwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26014-coconut-pecan-frosting-ii-DDMFS-4x3-147892-4122492843da4996add3d431935162b1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26014/hero.webp",
+    "steps": [
+      "assets/images/26014/step_01.webp",
+      "assets/images/26014/step_02.webp",
+      "assets/images/26014/step_03.webp"
+    ]
+  }
+}

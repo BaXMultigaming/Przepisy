@@ -1,0 +1,98 @@
+{
+  "id": "25745",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25745/tomato-bisque-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/25745/tomato-bisque-ii/",
+  "title": "Fresh Tomato Bisque",
+  "description": "This fresh tomato bisque is thickened with a roux to make a rich, creamy, velvety soup.",
+  "authors": [
+    "Judy"
+  ],
+  "date_published": "2020-06-18T23:06:26-04:00",
+  "date_modified": "2025-12-18T12:33:44-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT45M",
+  "total_time": "PT75M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds tomatoes",
+    "2 cubes beef bouillon, crumbled",
+    "1 tablespoon white sugar",
+    "1 teaspoon salt",
+    "1 bay leaf",
+    "0.25 teaspoon dried basil",
+    "0.25 teaspoon ground black pepper",
+    "0.5 cup butter",
+    "0.33333334326744 cup all-purpose flour",
+    "1 quart milk"
+  ],
+  "steps": [
+    {
+      "text": "Run the tomatoes through a food mill to remove the seeds and skins, and place in a large pot over medium heat. Stir in the bouillon, sugar, salt, bay leaf, basil and pepper. Bring to a boil, then reduce heat, and simmer 30 minutes. (If you're going to can this mixture, process it now.)",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a small saucepan over medium heat. Whisk in flour all at once to form a roux; cook for 1 minute. Whisk in milk, a little at a time, cooking and stirring constantly until thickened. Stir into tomato mixture and heat through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/m8MyVIS0i6M_NZrqEHeUJmjMHK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25745-fresh-tomato-bisque-COOKIN4MYFAMILY-4x3-808abc85b65f4c73924b330190594f57.jpg"
+      ],
+      "image": "assets/images/25745/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "420 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "1289 mg",
+    "sugarContent": "21 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "247"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/YRfS8KWj-ma1DlVvV.mp4",
+    "description": "AR1289",
+    "duration": "PT3M2S",
+    "name": "Tomato Bisque II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/YRfS8KWj/poster.jpg?width=1280",
+    "uploadDate": "2020-11-24T15:19:53-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/m8MyVIS0i6M_NZrqEHeUJmjMHK4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25745-fresh-tomato-bisque-COOKIN4MYFAMILY-4x3-808abc85b65f4c73924b330190594f57.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25745/hero.webp",
+    "steps": [
+      null,
+      "assets/images/25745/step_02.webp"
+    ]
+  }
+}

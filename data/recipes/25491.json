@@ -1,0 +1,85 @@
+{
+  "id": "25491",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25491/whiskey-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/25491/whiskey-chicken/",
+  "title": "Whiskey Chicken",
+  "description": "Sauteed chicken chunks braised in a sweet, savory whiskey sauce.",
+  "authors": [
+    "JLLYBEAN24"
+  ],
+  "date_published": "2020-03-04T23:56:38-05:00",
+  "date_modified": "2022-08-16T16:37:44-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 skinless, boneless chicken breast halves - cut into 1/2 inch pieces",
+    "2 tablespoons soy sauce",
+    "0.25 teaspoon garlic powder",
+    "1 cup pineapple juice",
+    "3 tablespoons bourbon whiskey",
+    "0.125 teaspoon ground black pepper",
+    "1 tablespoon brown sugar"
+  ],
+  "steps": [
+    {
+      "text": "Saute chicken in a large skillet over medium high heat until cooked through (no longer pink).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, combine the soy sauce, garlic powder, pineapple juice, whiskey, pepper and sugar. Stir until sugar is dissolved and pour over chicken. Let simmer for 10 to 15 minutes, or until sauce is thickened to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "288 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "983 mg",
+    "sugarContent": "19 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "119"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pfTg3ux-OPKLfIli4t3_fTqC3m8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Whiskey-Chicken-France-C-2000-a880bdfa79ee420aaa9515343173d1f3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25491/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

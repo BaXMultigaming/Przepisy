@@ -1,0 +1,98 @@
+{
+  "id": "25922",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25922/quinoa-tabbouleh/",
+  "requested_url": "https://www.allrecipes.com/recipe/25922/quinoa-tabbouleh/",
+  "title": "Quinoa Tabbouleh",
+  "description": "Quinoa tabbouleh made with tender quinoa grains, tomatoes, cucumber, carrots, green onions and parsley is a delicious and refreshing summer salad.",
+  "authors": [
+    "SYNEVA B"
+  ],
+  "date_published": "2001-02-13T22:42:58-05:00",
+  "date_modified": "2026-04-16T14:39:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cup quinoa",
+    "1 pinch salt",
+    "0.25 cup olive oil",
+    "0.5 teaspoon sea salt",
+    "0.25 cup lemon juice",
+    "3 tomatoes, diced",
+    "1 cucumber, diced",
+    "2 bunches green onions, diced",
+    "2 carrots, grated",
+    "1 cup chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Bring water to a boil in a medium saucepan; add quinoa and a pinch of salt. Reduce heat to low, cover and simmer for 15 minutes. Allow to cool to room temperature; fluff with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, combine olive oil, sea salt, lemon juice, tomatoes, cucumber, green onions, carrots, and parsley in a large bowl; stir in cooled quinoa.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/m1zJ2c4abcMu_CfGGZrQVcMPaYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/998528-e77aa07dfe9243ca82836be6f832206e.jpg"
+      ],
+      "image": "assets/images/25922/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "354 kcal",
+    "carbohydrateContent": "46 g",
+    "fiberContent": "9 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "325 mg",
+    "sugarContent": "8 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "913"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ru7sPtBT-ma1DlVvV.mp4",
+    "description": "Quinoa stands in for bulgur in this deliciously different tabouli.",
+    "duration": "PT2M23S",
+    "name": "Quinoa Tabbouleh",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ru7sPtBT/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T16:21:58-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/m1zJ2c4abcMu_CfGGZrQVcMPaYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/998528-e77aa07dfe9243ca82836be6f832206e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25922/hero.webp",
+    "steps": [
+      null,
+      "assets/images/25922/step_02.webp"
+    ]
+  }
+}

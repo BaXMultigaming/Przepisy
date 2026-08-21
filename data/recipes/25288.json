@@ -1,0 +1,73 @@
+{
+  "id": "25288",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25288/carrots-in-dill-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/25288/carrots-in-dill-butter/",
+  "title": "Carrots in Dill Butter",
+  "description": "Carrots are gently simmered in butter and dill seed.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2020-06-18T23:06:10-04:00",
+  "date_modified": "2022-07-14T18:16:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 carrots, peeled and sliced into 1 inch pieces",
+    "0.5 cup water",
+    "2 tablespoons butter",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon dill seed"
+  ],
+  "steps": [
+    {
+      "text": "In a medium-sized heavy saucepan, combine carrots, water, butter, sugar, salt and dill seed. Bring to a boil; reduce heat, cover and simmer 25 to 30 minutes, or until carrots are tender and most of the liquid is absorbed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "454 mg",
+    "sugarContent": "3 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "182"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_wA-QLWED7TCSEqc5_lOJ_Ka-G0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/270472-37c783daf618442089a54facea0171ff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25288/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

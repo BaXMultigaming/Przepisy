@@ -1,0 +1,104 @@
+{
+  "id": "25371",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25371/lime-chicken-soft-tacos/",
+  "requested_url": "https://www.allrecipes.com/recipe/25371/lime-chicken-soft-tacos/",
+  "title": "Lime Chicken Soft Tacos",
+  "description": "These chicken tacos with a flavorful lime and oregano chicken filling in soft flour tortillas are super easy to make for a family-pleasing meal.",
+  "authors": [
+    "Marissa Wright"
+  ],
+  "date_published": "2020-06-18T23:06:12-04:00",
+  "date_modified": "2026-03-02T07:22:10-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Latin American",
+    "Mexican"
+  ],
+  "regions": [
+    "Latin American",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds skinless, boneless chicken breast meat - cubed",
+    "2 green onions, chopped",
+    "0.125 cup red wine vinegar",
+    "0.5 lime, juiced",
+    "2 cloves garlic, minced",
+    "1 teaspoon dried oregano",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "10 (6 inch) flour tortillas",
+    "1 tomato, diced",
+    "0.25 cup shredded lettuce",
+    "0.25 cup shredded Monterey Jack cheese",
+    "0.25 cup salsa"
+  ],
+  "steps": [
+    {
+      "text": "Sauté chicken in a medium saucepan over medium high heat until tender, about 15 to 20 minutes. Add green onions, vinegar, lime juice, garlic, oregano, sugar, salt, and pepper. Simmer over low heat for 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat an iron skillet over medium heat. Place a tortilla in the pan, warm, and turn over to heat the other side. Repeat with remaining tortillas. Serve lime chicken mixture in warm tortillas topped with tomato, lettuce, cheese and salsa.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LBYsblnUXGmzmxuyNmVbVFU158U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/642313-bd36b33bb0114e0bbaa3528e73aa8f28.jpg"
+      ],
+      "image": "assets/images/25371/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "204 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "434 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "2471"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/KeUpOlZM-K3AjnAEN.mp4",
+    "description": "In this video you'll see how to make chicken soft tacos. Chopped chicken breast is cooked in a fresh lime juice sauce and seasoned with green onions and garlic. Spoon them into pan-seared tortillas and garnish with plenty of salsa, cheese and lettuce.",
+    "duration": "PT1M50S",
+    "name": "Lime Chicken Soft Tacos",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/KeUpOlZM/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T12:34:44-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LBYsblnUXGmzmxuyNmVbVFU158U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/642313-bd36b33bb0114e0bbaa3528e73aa8f28.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25371/hero.webp",
+    "steps": [
+      null,
+      "assets/images/25371/step_02.webp"
+    ]
+  }
+}

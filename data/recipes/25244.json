@@ -1,0 +1,83 @@
+{
+  "id": "25244",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25244/chris-kraut/",
+  "requested_url": "https://www.allrecipes.com/recipe/25244/chris-kraut/",
+  "title": "Chris&#39; Kraut",
+  "description": "Sauerkraut is simmered in bacon drippings with crumbled bacon and sugar.",
+  "authors": [
+    "ANITA G"
+  ],
+  "date_published": "2020-06-18T23:06:09-04:00",
+  "date_modified": "2025-02-26T17:05:40-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Eastern European"
+  ],
+  "regions": [
+    "Eastern European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound bacon",
+    "1 (16 ounce) can sauerkraut, drained and rinsed",
+    "0.5 cup white sugar",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, reserving drippings, crumble and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium saucepan heat sauerkraut with a little water over medium heat. Stir in crumbled bacon, sugar and 3 to 4 tablespoons of bacon drippings. Cook for 20 minutes, or until heated through. Season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "302 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "970 mg",
+    "sugarContent": "21 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VEnF4sn_1bOwwvPwBEyfx2D_cm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/202434-e2d8510d137f4186b7926006fbcd127c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25244/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

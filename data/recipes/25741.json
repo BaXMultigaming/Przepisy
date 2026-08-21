@@ -1,0 +1,81 @@
+{
+  "id": "25741",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25741/florentine-tomato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/25741/florentine-tomato-soup/",
+  "title": "Florentine Tomato Soup",
+  "description": "Green pepper, basil and diced tomatoes are simmered with garlic and bouillon, then combined with spinach in this easy soup.",
+  "authors": [
+    "Morris"
+  ],
+  "date_published": "2019-04-03T23:28:38-04:00",
+  "date_modified": "2022-07-14T16:39:12-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon olive oil",
+    "0.5 cup chopped green bell pepper",
+    "0.5 cup chopped onion",
+    "1 clove garlic, minced",
+    "1 (14.5 ounce) can diced tomatoes",
+    "1.5 cups water",
+    "1 tablespoon minced fresh basil",
+    "1 teaspoon chicken bouillon granules",
+    "0.25 teaspoon ground black pepper",
+    "1 (10 ounce) package frozen chopped spinach, thawed"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan over medium heat, cook bell pepper, onion and garlic in oil until tender. Stir in tomatoes, water, basil, bouillon and black pepper. Bring to a boil, then reduce heat and simmer 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in spinach and cook 5 to 7 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "54 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "177 mg",
+    "sugarContent": "4 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dwappJ4fPc_8rBu9o5M_Zasfasw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/278855-0158a70e87484f23bf6ba3f65b43a58f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25741/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

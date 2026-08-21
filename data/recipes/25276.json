@@ -1,0 +1,83 @@
+{
+  "id": "25276",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25276/stir-fried-asparagus/",
+  "requested_url": "https://www.allrecipes.com/recipe/25276/stir-fried-asparagus/",
+  "title": "Stir-Fried Asparagus",
+  "description": "This stir-fried asparagus is cooked to crisp-tender perfection in a skillet with sweet onion, roasted garlic, and a touch of teriyaki sauce.",
+  "authors": [
+    "Sharon S Wilkie"
+  ],
+  "date_published": "2018-03-21T12:19:35-04:00",
+  "date_modified": "2023-07-07T11:50:16-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "0.25 sweet onion, chopped",
+    "1 pound fresh asparagus, trimmed",
+    "1 teaspoon chopped roasted garlic",
+    "2 teaspoons teriyaki sauce"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large skillet over medium heat. Add onions and stir-fry until tender. Stir in asparagus and garlic; stir-fry for 3 to 5 minutes, or until slightly cooked and heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drizzle with teriyaki sauce and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "54 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "382 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XL2s1WWd7CetaOUDyGUmJ_oZ0CA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969970-c1068ac9e77f4aa2a495c36bb8391b65.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25276/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

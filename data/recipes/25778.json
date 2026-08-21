@@ -1,0 +1,81 @@
+{
+  "id": "25778",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25778/chocolate-squares-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/25778/chocolate-squares-ii/",
+  "title": "Chocolate Squares II",
+  "description": "Sweet chocolate bar cookies made with crushed arrowroot biscuits and chopped walnuts.",
+  "authors": [
+    "MPERRY"
+  ],
+  "date_published": "2020-03-04T23:56:41-05:00",
+  "date_modified": "2022-07-14T17:26:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "16",
+    "16 squares"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "0.5 cup brown sugar",
+    "2 tablespoons unsweetened cocoa powder",
+    "1 egg, beaten",
+    "1 teaspoon vanilla extract",
+    "0.5 cup chopped walnuts",
+    "15 arrowroot biscuits, crushed"
+  ],
+  "steps": [
+    {
+      "text": "Butter an 8x8 inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a saucepan over medium heat, melt together the butter, brown sugar and cocoa, stirring frequently until smooth. Remove from heat and stir in the egg and vanilla. Mix in the crushed cookies and walnuts. Press the mixture into the prepared pan and refrigerate until firm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "60 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.2",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qTOuH0bBH1aRaxRBSGJ9Wlo9VkQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6947609-01d2ffbc454d458ab949b71ae94a40ed.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25778/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "25725",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25725/garden-tomato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/25725/garden-tomato-soup/",
+  "title": "Garden Tomato Soup",
+  "description": "This quick tomato soup uses pureed, canned whole tomatoes simmered with chunks of zucchini and mushrooms and flavored with basil and thyme.",
+  "authors": [
+    "O. Romaine"
+  ],
+  "date_published": "2018-06-08T09:16:40-04:00",
+  "date_modified": "2022-07-14T17:35:57-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 (16 ounce) cans whole peeled tomatoes",
+    "2 tablespoons vegetable oil",
+    "2 zucchini, cubed",
+    "2 large onions, chopped",
+    "2 cups sliced fresh mushrooms",
+    "2 teaspoons salt, or to taste",
+    "3 bay leaves",
+    "0.5 teaspoon dried thyme",
+    "2 teaspoons dried basil",
+    "0.5 teaspoon ground white pepper"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor, puree whole tomatoes until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pot over medium heat, cook zucchini, onions and mushrooms in oil until tender. Pour in pureed tomatoes. Season with salt, bay leaves, thyme, basil and white pepper. Bring to a boil, then reduce heat and simmer 15 minutes. Remove bay leaves before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "71 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "752 mg",
+    "sugarContent": "6 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/31OahCHuYbfhxz7AA-9F-ygJVXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/963949-2fa931cf26ea46d88604c029af8635f9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25725/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

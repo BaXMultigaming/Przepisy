@@ -1,0 +1,81 @@
+{
+  "id": "25346",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25346/coconut-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/25346/coconut-rice/",
+  "title": "Coconut Rice",
+  "description": "Basmati rice is simmered in coconut milk, instead of water, giving it a rich flavor.",
+  "authors": [
+    "Emma Maher"
+  ],
+  "date_published": "2019-04-02T02:43:07-04:00",
+  "date_modified": "2025-01-14T16:37:54-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "7",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups Basmati rice",
+    "4 (10 ounce) cans coconut milk",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan over high heat, combine rice, coconut milk and salt; bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat, cover and simmer for 20 to 25 minutes, or until liquid is absorbed and rice is tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "535 kcal",
+    "carbohydrateContent": "57 g",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "29 g",
+    "sodiumContent": "20 mg",
+    "sugarContent": "0 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "173"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GftmdDPjU4FAxuAwc26VhT1yvjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25346coconut-ricelutzflcat4x3-9dafefd3cf8f4304b3647dae8534692d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25346/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

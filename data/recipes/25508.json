@@ -1,0 +1,84 @@
+{
+  "id": "25508",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25508/cucumber-sandwiches-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/25508/cucumber-sandwiches-i/",
+  "title": "Cream Cheese Cucumber Sandwiches",
+  "description": "Slices of cocktail rye bread are spread with a cream cheese mixture and topped with cucumber.",
+  "authors": [
+    "Dorothea Rohatsch"
+  ],
+  "date_published": "2018-03-21T12:19:59-04:00",
+  "date_modified": "2026-06-04T12:28:52-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "15"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package whipped cream cheese",
+    "1 (.7 ounce) package dry Italian-style salad dressing mix",
+    "1 (1 pound) loaf cocktail rye bread",
+    "1 cucumber, thinly sliced"
+  ],
+  "steps": [
+    {
+      "text": "Stir whipped cream cheese and dry Italian-style dressing mix together in a small bowl until well combined. Spread evenly over cocktail rye bread slices; top each slice with a cucumber slice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rExhy6VKzdN99MFzXDQTUXw-G1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/753228-5019f8a1614d4a3d8f667cbe6c9c970d.jpg"
+      ],
+      "image": "assets/images/25508/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "48 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "277 mg",
+    "sugarContent": "2 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "133"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/TzaBotW9-ma1DlVvV.mp4",
+    "description": "AR0827",
+    "duration": "PT1M51S",
+    "name": "Cucumber Sandwiches I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/TzaBotW9/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T23:07:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rExhy6VKzdN99MFzXDQTUXw-G1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/753228-5019f8a1614d4a3d8f667cbe6c9c970d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25508/hero.webp",
+    "steps": [
+      "assets/images/25508/step_01.webp"
+    ]
+  }
+}

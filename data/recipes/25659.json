@@ -1,0 +1,88 @@
+{
+  "id": "25659",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25659/onion-and-gruyere-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/25659/onion-and-gruyere-soup/",
+  "title": "Onion and Gruyere Soup",
+  "description": "Onions are cooked slowly in butter, then combined with white wine, chicken broth and Gruyere and seasoned with white pepper and nutmeg in this subtle soup.",
+  "authors": [
+    "Nancy Gregory"
+  ],
+  "date_published": "2018-06-08T09:16:35-04:00",
+  "date_modified": "2022-07-14T17:37:59-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT90M",
+  "total_time": "PT120M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons butter",
+    "6 onions, thinly sliced",
+    "0.5 teaspoon salt",
+    "1.5 cups white wine",
+    "3.5 cups chicken broth",
+    "0.25 teaspoon ground white pepper",
+    "0.25 teaspoon ground nutmeg",
+    "2 cups shredded Gruyere cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan over medium heat, cook butter until foamy. Stir in onions and cook a couple of minutes, then reduce heat, stir in salt, cover and cook very slowly until very tender, 60 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer onions and their caramel to a larger pot and place it over medium heat. Pour in the wine and bring to a boil. Stir in chicken broth, pepper and nutmeg and simmer gently, uncovered, 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in shredded cheese until melted (cheese will remain a little stringy). Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "450 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "82 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "543 mg",
+    "sugarContent": "9 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/giz9S7OSUoyp1ydvYA0Zj6WMIdo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4482959-7563f537554749088e8a7eb8e2d29602.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25659/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "25728",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25728/cheesy-vegetable-chowder/",
+  "requested_url": "https://www.allrecipes.com/recipe/25728/cheesy-vegetable-chowder/",
+  "title": "Cheesy Vegetable Chowder",
+  "description": "Potatoes, celery, carrots, corn, peas and green beans make appearances in this cheesy chowder.",
+  "authors": [
+    "Candice"
+  ],
+  "date_published": "2019-04-03T23:28:36-04:00",
+  "date_modified": "2022-07-14T15:58:49-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "32",
+    "8 quarts"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "7 cups water",
+    "9 cubes chicken bouillon, crumbled",
+    "6 potatoes, cubed",
+    "2 cloves garlic, minced",
+    "1 large white onion, chopped",
+    "1 bunch celery, chopped",
+    "3 cups chopped carrots",
+    "2 (15 ounce) cans whole kernel corn",
+    "2 (15 ounce) cans peas",
+    "2 cups chopped fresh green beans",
+    "0.5 cup butter",
+    "0.5 cup all-purpose flour",
+    "3 cups milk",
+    "1 pound processed cheese, cubed"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over medium heat, combine water, bouillon, potatoes and garlic. Bring to a boil, then stir in onion, celery and carrots. Reduce heat and simmer 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in corn, peas and green beans and continue to cook on low heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a medium saucepan over medium heat, melt butter. Whisk in flour all at once to form a roux and let cook 10 seconds. Whisk in milk, a little at a time, and cook, stirring, until mixture is thick and bubbly. Stir in cheese until melted. Pour this mixture into the large soup pot, stir well and heat through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "171 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "810 mg",
+    "sugarContent": "5 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "126"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oabwbCee9I907TSsjBdEAHV95KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cheesy-Vegetable-Chowder_3-dd8ba7c0fc354f7a82fb04c36db45e67.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25728/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

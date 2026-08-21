@@ -1,0 +1,85 @@
+{
+  "id": "25535",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25535/popcorn-nachos/",
+  "requested_url": "https://www.allrecipes.com/recipe/25535/popcorn-nachos/",
+  "title": "Popcorn Nachos",
+  "description": "Mexican-style spices and shredded Cheddar cheese are lively additions to plain popcorn.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-05-08T02:57:44-04:00",
+  "date_modified": "2022-08-10T11:42:37-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter, melted",
+    "1 teaspoon crushed red pepper",
+    "1 teaspoon ground cumin",
+    "1 teaspoon paprika",
+    "1 gallon popped popcorn",
+    "0.5 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, mix together butter, crushed red pepper, cumin and paprika.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place popcorn in a large bowl. Sprinkle with the butter mixture and Cheddar cheese. Toss until well mixed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "179 mg",
+    "sugarContent": "0 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IZa2NVdeTsfkH257fN9-LqLacQs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8004767-a2fb93b799c84e44ba594c2817091d82.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25535/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

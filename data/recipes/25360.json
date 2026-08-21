@@ -1,0 +1,77 @@
+{
+  "id": "25360",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25360/creamy-mushrooms/",
+  "requested_url": "https://www.allrecipes.com/recipe/25360/creamy-mushrooms/",
+  "title": "Creamy Mushrooms",
+  "description": "Mushrooms are sauteed in butter, then simmered with milk, flour and soy sauce, creating a creamy gravy. Serve over warm biscuits, rice or pasta.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-06-08T09:16:25-04:00",
+  "date_modified": "2026-04-27T21:50:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "0.5 pound fresh mushrooms, sliced",
+    "2 tablespoons all-purpose flour",
+    "1.25 cups milk",
+    "2 teaspoons soy sauce",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a medium saucepan over medium heat. Saute mushrooms until tender. Stir in flour, milk and soy sauce; cook, stirring, until thickened. Season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "265 mg",
+    "sugarContent": "4 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/h7hRcSloe_i8NkOjFHkUb6aLrUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4517333-43706a11efc64f8880b3000a4d58f6a0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25360/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

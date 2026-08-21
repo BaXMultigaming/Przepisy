@@ -1,0 +1,93 @@
+{
+  "id": "26015",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26015/cold-oven-pound-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/26015/cold-oven-pound-cake/",
+  "title": "Cold Oven Pound Cake",
+  "description": "An old-fashioned pound cake that goes into a cold oven before baking.",
+  "authors": [
+    "Etta Coates"
+  ],
+  "date_published": "2020-06-18T23:06:40-04:00",
+  "date_modified": "2026-06-15T16:10:46-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT90M",
+  "total_time": "PT130M",
+  "yield": [
+    "16",
+    "1 10-inch tube pan"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups white sugar",
+    "1 cup margarine",
+    "0.5 cup shortening",
+    "3 large eggs",
+    "1.5 teaspoons vanilla extract",
+    "3 cups all-purpose flour",
+    "1 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Do not preheat the oven. Grease and flour a 10-inch tube pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cream together sugar, margarine, and shortening in a large bowl with an electric mixer until light and fluffy. Beat in eggs one at a time, mixing well after each addition. Stir in vanilla. Add flour alternately with milk, beating briefly after each addition. Pour batter into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place in the cold oven, then set the temperature to 300 degrees F (150 degrees C). Bake until a toothpick inserted into the center of the cake comes out clean, about 1 1/2 hours. Let cool in the pan for 10 minutes, then turn out onto a wire rack to cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "410 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "151 mg",
+    "sugarContent": "39 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "77"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/U9jrXLSt9fsF16dkUzjypjqlvOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7977274-20432a50587c44c1b2bbec090d33a0bc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26015/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

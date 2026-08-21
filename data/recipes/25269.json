@@ -1,0 +1,93 @@
+{
+  "id": "25269",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25269/succotash/",
+  "requested_url": "https://www.allrecipes.com/recipe/25269/succotash/",
+  "title": "Succotash",
+  "description": "Lima beans and tomatoes are stewed with butter, then simmered with corn. This is fabulous with fresh summer veggies, but frozen or canned can be used.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-08-06T00:02:21-04:00",
+  "date_modified": "2026-04-17T10:34:56-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup butter, divided",
+    "2 cups fresh lima beans",
+    "0.5 teaspoon salt",
+    "4 fresh tomatoes, peeled and chopped",
+    "2 teaspoons white sugar",
+    "4 ears fresh corn kernels, cut from the cob"
+  ],
+  "steps": [
+    {
+      "text": "Melt 1/2 cup butter in a large saucepan over medium heat. Stir in lima beans and salt, and cook until tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a separate saucepan heat tomatoes, sugar and remaining 1/2 cup butter. Cook until tomatoes are tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir tomatoes into lima beans and add corn; cook 10 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "477 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "1084 mg",
+    "sugarContent": "6 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "70"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fxXxGELRlJ9HgvhORc3c-F5KyUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25269succotashlutzflcat-646e08a206ad4feb8a7ff97fe8e483b5.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/25269/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "25285",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25285/green-bean-and-mushroom-medley/",
+  "requested_url": "https://www.allrecipes.com/recipe/25285/green-bean-and-mushroom-medley/",
+  "title": "Green Bean and Mushroom Medley",
+  "description": "This green bean and mushroom recipe is made with fresh green beans and carrots sauteed with mushrooms and onions in various savory spices.",
+  "authors": [
+    "Michele"
+  ],
+  "date_published": "2018-06-08T09:16:20-04:00",
+  "date_modified": "2022-01-14T01:23:35-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound fresh green beans, cut into 1-inch lengths",
+    "2 carrots, cut into thick strips",
+    "0.25 cup butter",
+    "1 onion, sliced",
+    "0.5 pound fresh mushrooms, sliced",
+    "1 teaspoon salt",
+    "0.5 teaspoon seasoned salt",
+    "0.25 teaspoon garlic salt",
+    "0.25 teaspoon white pepper"
+  ],
+  "steps": [
+    {
+      "text": "Fill a pot with 1-inch water and bring to a boil over high heat. Place green beans and carrots in boiling water. Cover and cook until tender but still firm. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium heat. Sauté onions and mushrooms until almost tender. Reduce heat, cover, and simmer 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in green beans, carrots, salt, seasoned salt, garlic salt, and white pepper. Cover and cook for 5 minutes over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "103 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "610 mg",
+    "sugarContent": "3 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "727"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FeCuKanS-ofeB_CYELVgZHi8_0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7457916-8a3d4f6c446c4f3e90532021608c6ea2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25285/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

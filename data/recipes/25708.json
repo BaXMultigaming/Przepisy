@@ -1,0 +1,111 @@
+{
+  "id": "25708",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25708/potato-leek-soup-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/25708/potato-leek-soup-iii/",
+  "title": "Potato and Leek Soup",
+  "description": "This chunky potato leek soup is easy to make for a rich and hearty winter meal with sliced leeks and chunks of tender potato in every spoonful.",
+  "authors": [
+    "Julie"
+  ],
+  "date_published": "2018-06-08T09:16:39-04:00",
+  "date_modified": "2025-10-27T11:07:57-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "regions": [
+    "British"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup butter",
+    "2 leeks, sliced",
+    "salt and pepper to taste",
+    "1 tablespoon cornstarch",
+    "1 quart chicken broth",
+    "4 cups Yukon Gold potatoes, peeled and diced",
+    "2 cups heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large pot over medium heat. Add leeks and season to taste with salt and pepper; cook and stir until leeks are tender, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/vwRADk-xizMFcPJPmjrftAnUryU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25708-PotatoLeekSoup-ddms-4x3-step1-8e708026badb45d9be55804f64bf2e98.jpg"
+      ],
+      "image": "assets/images/25708/step_01.webp"
+    },
+    {
+      "text": "Stir cornstarch into broth; pour broth into pot. Add potatoes and bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/8zkqe9c9FnZLJoqgr2ZU0ojvNfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25708-PotatoLeekSoup-ddms-4x3-step2-1d94b94737234366af8a760d67264e7c.jpg"
+      ],
+      "image": "assets/images/25708/step_02.webp"
+    },
+    {
+      "text": "Stir in cream; reduce heat and simmer until potatoes are tender, about 30 minutes. Check seasoning before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/QIsA8hZSmAi3zVXUUIUhv96d_DY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25708-potato-leek-soup-iii-ddmfs-3X4-0153-3ce34c3d8e1a4317a55a7d4d002e9d30.jpg"
+      ],
+      "image": "assets/images/25708/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "488 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "145 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "28 g",
+    "sodiumContent": "673 mg",
+    "sugarContent": "1 g",
+    "fatContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "1179"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/5eCtyvMj-ma1DlVvV.mp4",
+    "description": "In this video, you’ll see how to make potato leek soup. This creamy potato soup has terrific leek flavor. It’s a hearty, comfort food classic that’s perfect for chilly winter evenings—and it’s even better the next day warmed up as leftovers. Try it with sourdough bread. In the video, you’ll also see how to clean and prep your leeks.",
+    "duration": "PT3M25S",
+    "name": "Potato Leek Soup III",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5eCtyvMj/poster.jpg?width=1280",
+    "uploadDate": "2021-07-10T21:16:40-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QIsA8hZSmAi3zVXUUIUhv96d_DY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25708-potato-leek-soup-iii-ddmfs-3X4-0153-3ce34c3d8e1a4317a55a7d4d002e9d30.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25708/hero.webp",
+    "steps": [
+      "assets/images/25708/step_01.webp",
+      "assets/images/25708/step_02.webp",
+      "assets/images/25708/step_03.webp"
+    ]
+  }
+}

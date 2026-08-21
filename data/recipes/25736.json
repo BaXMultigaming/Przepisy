@@ -1,0 +1,91 @@
+{
+  "id": "25736",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25736/portuguese-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/25736/portuguese-soup/",
+  "title": "Portuguese Soup",
+  "description": "Smoked sausage, cabbage, potatoes and kidney beans are cooked with ketchup and beef broth in this soup.",
+  "authors": [
+    "Patti Peil"
+  ],
+  "date_published": "2019-04-03T23:28:37-04:00",
+  "date_modified": "2022-10-31T17:26:56-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT90M",
+  "total_time": "PT110M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Portuguese"
+  ],
+  "regions": [
+    "Portuguese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup vegetable oil",
+    "2 cups chopped onion",
+    "1 pound smoked sausage, sliced",
+    "1 medium head cabbage, chopped",
+    "6 potatoes, peeled and cubed",
+    "2 (15 ounce) cans kidney beans",
+    "2 cups ketchup",
+    "1 (10.5 ounce) can beef consomme",
+    "2.6666667461395 quarts water",
+    "2 teaspoons garlic powder",
+    "2 teaspoons ground black pepper",
+    "1 teaspoon salt",
+    "0.5 cup vinegar"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over medium heat, cook onions in oil until just tender. Stir in sausage and cook 5 minutes more. Place cabbage, potatoes, beans, ketchup, consomme and water in the pot. Season with garlic powder, pepper and salt. Bring to a boil, then reduce heat and simmer 30 to 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in vinegar and simmer 1 hour more. Add more water if needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "537 kcal",
+    "carbohydrateContent": "73 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "12 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "2127 mg",
+    "sugarContent": "22 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Kq60TedilApcR2xE0EG2354KipE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6224316-portuguese-soup-Timothy-Charles-Connor-4x3-1-05cedc80fb764cf5a0f177efde317103.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25736/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

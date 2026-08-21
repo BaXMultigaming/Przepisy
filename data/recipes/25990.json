@@ -1,0 +1,69 @@
+{
+  "id": "25990",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25990/chocolate-frosting-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/25990/chocolate-frosting-ii/",
+  "title": "Chocolate Frosting II",
+  "description": "A fudgey frosting that is cooked on the stovetop. add milk until desired spreading consistency is achieved.",
+  "authors": [
+    "Diana OConnor"
+  ],
+  "date_published": "2019-05-16T14:30:05-04:00",
+  "date_modified": "2022-09-23T14:57:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "12",
+    "1 frosting cake"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "0.25 cup unsweetened cocoa powder",
+    "1 tablespoon vanilla extract",
+    "3.5 cups confectioners' sugar",
+    "2 tablespoons milk"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan over medium heat, melt butter. Stir in cocoa and vanilla. Place confectioners' sugar in a large bowl. Pour in cocoa mixture. Beat well (mixture will be extremely thick). Beat in milk, a teaspoon at a time, until desired consistency is achieved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "56 mg",
+    "sugarContent": "36 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "205"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GFcwjs54a57MOlLdHl8pKjrm6NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3235371-fd836834d571442b982affce11dfcfe3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25990/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

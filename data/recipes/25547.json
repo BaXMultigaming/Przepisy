@@ -1,0 +1,101 @@
+{
+  "id": "25547",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25547/smoked-salmon-mousse/",
+  "requested_url": "https://www.allrecipes.com/recipe/25547/smoked-salmon-mousse/",
+  "title": "Smoked Salmon Mousse",
+  "description": "This impressive salmon mousse is a blend of smoked salmon, cream cheese, lemon juice, and dill for a deliciously creamy seafood appetizer in just minutes.",
+  "authors": [
+    "Rob"
+  ],
+  "date_published": "2018-06-08T09:16:30-04:00",
+  "date_modified": "2026-03-18T05:47:13-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces smoked salmon",
+    "2 tablespoons heavy cream",
+    "1 (8 ounce) package cream cheese, softened",
+    "0.5 lemon, juiced",
+    "0.5 teaspoon dried dill weed to taste",
+    "salt and pepper to taste",
+    "1 ounce salmon roe"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/q4H5HlKPRTmOjt3V8RV_jVu2Qeo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25547-smoked-salmon-mousse-DDMFS-step-01-4753a0e1a2a14370941bd656a48e0c0d.jpg"
+      ],
+      "image": "assets/images/25547/step_01.webp"
+    },
+    {
+      "text": "Place smoked salmon in a blender or food processor, and blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Na_se0ysVSU6QjGyoTx2y3JDQLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25547-smoked-salmon-mousse-DDMFS-step-02-8cb188dc0ac2415bbd277188f738947f.jpg"
+      ],
+      "image": "assets/images/25547/step_02.webp"
+    },
+    {
+      "text": "Mix in heavy cream, cream cheese, lemon juice, dill weed, salt, and pepper. Blend to desired consistency. Transfer to a medium serving dish, and garnish with salmon roe.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MVO-UrzyRqvJh0w5rtSMmntTk84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25547-smoked-salmon-mousse-DDMFS-step-03-a08c7c53cf2846c192cf67a38233b074.jpg"
+      ],
+      "image": "assets/images/25547/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "67 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "100 mg",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "116"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/K6SHROoG5E55u9RYuHe3843kfQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25547-smoked-salmon-mousse-DDMFS-beauty-4x3-e982c200c7684b37ab74ac9de0095496.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25547/hero.webp",
+    "steps": [
+      "assets/images/25547/step_01.webp",
+      "assets/images/25547/step_02.webp",
+      "assets/images/25547/step_03.webp"
+    ]
+  }
+}

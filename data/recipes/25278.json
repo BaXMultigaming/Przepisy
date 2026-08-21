@@ -1,0 +1,91 @@
+{
+  "id": "25278",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25278/sweet-potato-balls/",
+  "requested_url": "https://www.allrecipes.com/recipe/25278/sweet-potato-balls/",
+  "title": "Sweet Potato Balls",
+  "description": "Sweet potatoes are mashed with butter, brown sugar, milk and lemon zest, shaped into a ball with a marshmallow in the center, and rolled in cereal crumbs before baking.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2020-03-04T23:56:34-05:00",
+  "date_modified": "2022-12-22T22:33:16-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups peeled and chopped sweet potatoes",
+    "0.25 cup butter, softened",
+    "0.75 cup brown sugar",
+    "2 tablespoons milk",
+    "0.25 teaspoon salt",
+    "0.5 teaspoon grated lemon zest",
+    "8 large marshmallows",
+    "0.5 cup crushed corn flake cereal"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 375 degrees F (190 degrees C). Grease a 9x13 inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a pot of water to a boil. Add sweet potatoes and cook until tender, about 15 minutes. Drain and mash with butter, sugar, milk, salt and lemon zest. Shape mixture into balls, with a marshmallow in the center of each. Roll in cereal crumbs and place in prepared dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 20 minutes, or until marshmallows begin to ooze.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "187 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "181 mg",
+    "sugarContent": "21 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/v_di8Js3ZlNmlqHztMqi0ylh0C0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1061344-sweet-potato-balls-Melissa-Goff-4x3-1-9cd811ef700e4f94add811535a50deb2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25278/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

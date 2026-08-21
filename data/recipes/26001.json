@@ -1,0 +1,92 @@
+{
+  "id": "26001",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26001/chocolate-sheet-cake-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/26001/chocolate-sheet-cake-ii/",
+  "title": "Chocolate Sheet Cake II",
+  "description": "A very moist chocolate cake. Top with chocolate frosting.",
+  "authors": [
+    "Andrea"
+  ],
+  "date_published": "2020-06-18T23:06:38-04:00",
+  "date_modified": "2022-07-14T17:13:17-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "24",
+    "1 - 11x17 inch sheet pan"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "2 cups white sugar",
+    "1 teaspoon baking soda",
+    "2 eggs",
+    "1 teaspoon vanilla extract",
+    "0.5 cup buttermilk",
+    "0.5 cup butter",
+    "0.5 cup vegetable oil",
+    "1 cup water",
+    "0.5 cup unsweetened cocoa powder"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 11x17 inch sheet cake pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, sift together the flour, sugar and baking soda. Stir in the eggs, vanilla and buttermilk. Set aside. In a saucepan combine butter, oil, cocoa and water. Bring to a boil and stir until smooth. Slowly blend into the flour mixture. Pour into prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 15 to 20 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "189 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "92 mg",
+    "sugarContent": "17 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "67"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l3PQ-CSJoWxHvCMtfyF260El4Pw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/964872-24205b7b765e4580a9d164f28fb565e3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26001/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

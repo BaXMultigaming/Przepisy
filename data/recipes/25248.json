@@ -1,0 +1,82 @@
+{
+  "id": "25248",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/25248/lemon-pepper-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/25248/lemon-pepper-green-beans/",
+  "title": "Lemon Pepper Green Beans",
+  "description": "Lemon pepper green beans are tossed with almonds which have been sauteed in butter.",
+  "authors": [
+    "Annette"
+  ],
+  "date_published": "2019-04-02T02:43:05-04:00",
+  "date_modified": "2022-01-07T10:51:39-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound fresh green beans, rinsed and trimmed",
+    "2 tablespoons butter",
+    "0.25 cup sliced almonds",
+    "2 teaspoons lemon pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place green beans in a steamer over 1-inch boiling water. Cover and cook until tender but still firm, about 10 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a skillet over medium heat. Sauté almonds until lightly browned. Season with lemon pepper. Stir in green beans; toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "81 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "186 mg",
+    "sugarContent": "1 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "382"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Po7Xss-arsWqQaD0yPr5Zy6uLLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/274965-3291cc257ae844309a170b48d287cd47.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/25248/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
