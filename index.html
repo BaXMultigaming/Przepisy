@@ -6,201 +6,26 @@
 <meta name="theme-color" content="#fff8f0">
 <title>Przepisy</title>
 <style>
-:root{
-  --bg:#f6efe7;--card:#fffdf9;--ink:#24201c;--muted:#746b62;--line:#eadccf;
-  --accent:#d65f39;--accent2:#f3a14b;--soft:#fff0e6;--green:#3f7b52;
-  --shadow:0 14px 40px #4d382518;--bottom-safe:max(12px,env(safe-area-inset-bottom));
-}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{
-  margin:0;padding-bottom:92px;
-  background:radial-gradient(circle at 0 0,#ffe8cd 0,transparent 28rem),var(--bg);
-  color:var(--ink);font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif
-}
-button,input,select{font:inherit}
-button{touch-action:manipulation}
-header{
-  position:sticky;top:0;z-index:20;background:#f6efe7e8;backdrop-filter:blur(14px);
-  border-bottom:1px solid var(--line);padding:12px
-}
-.top{
-  max-width:1500px;margin:auto;display:grid;grid-template-columns:auto minmax(220px,1fr) auto;
-  gap:12px;align-items:center
-}
-.brand{display:flex;gap:9px;align-items:center;font-weight:900}
-.logo{
-  width:44px;height:44px;border-radius:14px;display:grid;place-items:center;
-  background:linear-gradient(145deg,var(--accent),var(--accent2));font-size:23px;
-  box-shadow:0 8px 20px #d65f3930
-}
-#q{
-  width:100%;height:48px;border:1px solid var(--line);border-radius:15px;background:var(--card);
-  padding:0 15px;outline:0;font-size:16px
-}
-#q:focus{border-color:#d65f3977;box-shadow:0 0 0 4px #d65f3911}
-.units{display:flex;background:#eadfd4;padding:3px;border-radius:12px}
-.units button{
-  min-width:50px;min-height:40px;border:0;background:transparent;padding:7px 11px;border-radius:9px;
-  font-weight:850;cursor:pointer
-}
-.units .on{background:#fff;color:var(--accent);box-shadow:0 3px 10px #4d38251c}
-.filterbar{
-  max-width:1500px;margin:10px auto 0;display:grid;
-  grid-template-columns:minmax(170px,1fr) minmax(170px,1fr) auto;gap:9px
-}
-.filterbar select,.clear{
-  height:44px;border:1px solid var(--line);border-radius:13px;background:var(--card);
-  padding:0 12px;color:var(--ink);outline:0;font-size:16px
-}
-.clear{padding:0 15px;background:#fff4e9;font-weight:800;cursor:pointer}
-.clear:disabled{opacity:.45;cursor:default}
-
-.wrap{
-  max-width:1500px;margin:auto;padding:16px;display:grid;
-  grid-template-columns:minmax(290px,390px) minmax(0,1fr);gap:18px;align-items:start
-}
-aside,article{
-  background:var(--card);border:1px solid var(--line);border-radius:22px;
-  box-shadow:var(--shadow);overflow:hidden
-}
-aside{position:sticky;top:141px;max-height:calc(100vh - 160px);overflow:auto}
-.count{
-  position:sticky;top:0;z-index:2;background:#fffdf9ef;backdrop-filter:blur(8px);
-  padding:12px 14px;border-bottom:1px solid var(--line);font-size:13px;color:var(--muted);font-weight:750
-}
-.item{
-  display:grid;grid-template-columns:78px 1fr;gap:11px;padding:10px;border-bottom:1px solid var(--line);
-  cursor:pointer;transition:.15s ease
-}
-.item:hover,.item.active{background:var(--soft)}
-.item img{width:78px;height:78px;object-fit:cover;border-radius:13px;background:#eee}
-.item b{line-height:1.25;display:block;margin:4px 0}
-.meta{font-size:12px;color:var(--muted)}
-.more{
-  margin:12px;width:calc(100% - 24px);min-height:46px;border:1px solid var(--line);
-  background:#fff7ef;padding:10px;border-radius:12px;font-weight:800;cursor:pointer
-}
-
-.recipe-tools{
-  position:sticky;top:141px;z-index:9;display:flex;gap:8px;align-items:center;flex-wrap:wrap;
-  padding:10px 12px;background:#fffdf9ed;backdrop-filter:blur(12px);border-bottom:1px solid var(--line)
-}
-.tool{
-  min-height:42px;border:1px solid var(--line);background:#fff;border-radius:12px;
-  padding:8px 11px;font-weight:800;cursor:pointer
-}
-.tool.primary{background:var(--accent);border-color:var(--accent);color:#fff}
-.tool.awake-on{background:#e9f6ec;border-color:#b9dec3;color:#235c35}
-.tool-spacer{flex:1}
-.wake-dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#aaa;margin-right:6px}
-.awake-on .wake-dot{background:#3a9653;box-shadow:0 0 0 4px #3a96531a}
-
-.hero{position:relative;background:#ddd}
-.hero img{width:100%;max-height:600px;aspect-ratio:16/9;object-fit:cover;display:block}
-.hero:after{content:"";position:absolute;inset:50% 0 0;background:linear-gradient(transparent,#1b120db8)}
-.title{position:absolute;left:clamp(18px,4vw,38px);right:30px;bottom:28px;z-index:2;color:#fff}
-.title h1{margin:5px 0;font-size:clamp(30px,5vw,54px);line-height:1.02}
-
-.body{padding:clamp(18px,4vw,38px)}
-.quick-jumps{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0 4px}
-.quick-jumps button{
-  min-height:42px;border:1px solid var(--line);background:#fff8f1;border-radius:999px;
-  padding:8px 13px;font-weight:800;cursor:pointer
-}
-h2{margin:30px 0 12px;scroll-margin-top:205px}
-.note{
-  padding:12px 14px;background:var(--soft);border:1px solid #f0d2c1;
-  border-radius:14px;color:#6d4938;font-size:13px
-}
-.ingredients{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
-.ing{
-  display:flex;gap:10px;align-items:flex-start;padding:12px;border:1px solid var(--line);
-  border-radius:13px;background:#fff;cursor:pointer;user-select:none;transition:.15s ease
-}
-.ing input{width:20px;height:20px;min-width:20px;margin:1px 0 0;accent-color:var(--accent)}
-.ing.checked{opacity:.52;background:#f4f0eb;text-decoration:line-through}
-.steps{display:grid;gap:13px}
-.step{
-  display:grid;grid-template-columns:42px 1fr;gap:13px;padding:14px;border:1px solid var(--line);
-  border-radius:15px;scroll-margin-top:205px;transition:.18s ease
-}
-.step.current{border-color:#e0a381;background:#fff8f2;box-shadow:0 0 0 3px #d65f3910}
-.n{
-  width:42px;height:42px;border-radius:13px;display:grid;place-items:center;
-  background:linear-gradient(145deg,var(--accent),var(--accent2));color:#fff;font-weight:900
-}
-.step img{width:100%;max-width:650px;margin-top:12px;border-radius:13px}
-.source{margin-top:28px;border-top:1px solid var(--line);padding-top:15px;color:var(--muted);font-size:13px}
-.empty{padding:30px;text-align:center;color:var(--muted)}
-
-.cookbar{
-  position:fixed;left:50%;bottom:var(--bottom-safe);transform:translateX(-50%);
-  z-index:40;width:min(720px,calc(100% - 20px));display:none;grid-template-columns:52px minmax(0,1fr) 52px auto;
-  gap:7px;align-items:center;padding:7px;border:1px solid #dfd2c6;border-radius:18px;
-  background:#fffdf9ef;backdrop-filter:blur(16px);box-shadow:0 12px 34px #34241830
-}
-.cookbar.visible{display:grid}
-.cookbar button{
-  min-height:48px;border:1px solid var(--line);background:#fff;border-radius:13px;
-  font-weight:900;cursor:pointer
-}
-.cookbar button:disabled{opacity:.35}
-.step-status{text-align:center;min-width:0}
-.step-status b{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.step-status small{display:block;color:var(--muted)}
-#cookWake{padding:0 12px;white-space:nowrap}
-#cookWake.on{background:#e9f6ec;border-color:#b9dec3;color:#235c35}
-
-.toast{
-  position:fixed;left:50%;bottom:calc(var(--bottom-safe) + 76px);transform:translate(-50%,10px);
-  z-index:60;max-width:min(520px,calc(100% - 28px));padding:10px 14px;border-radius:12px;
-  background:#28231f;color:#fff;box-shadow:0 10px 30px #0003;font-size:13px;
-  opacity:0;pointer-events:none;transition:.2s ease
-}
-.toast.show{opacity:1;transform:translate(-50%,0)}
-
-body.cooking-mode{background:#f8f3ec}
-body.cooking-mode header,body.cooking-mode aside{display:none}
-body.cooking-mode .wrap{display:block;max-width:940px;padding-top:10px}
-body.cooking-mode article{border-radius:18px}
-body.cooking-mode .recipe-tools{top:0}
-body.cooking-mode h2,body.cooking-mode .step{scroll-margin-top:75px}
-body.cooking-mode .step{font-size:18px;line-height:1.7}
-body.cooking-mode .body{padding-bottom:36px}
-
-@media(max-width:800px){
-  body{padding-bottom:95px}
-  header{position:relative}
-  .top{grid-template-columns:1fr auto}
-  .brand span{font-size:17px}
-  .top #q{grid-column:1/-1}
-  .filterbar{grid-template-columns:1fr 1fr}
-  .clear{grid-column:1/-1}
-  .wrap{grid-template-columns:1fr;padding:10px}
-  aside{position:relative;top:auto;max-height:390px}
-  .recipe-tools{top:0}
-  .ingredients{grid-template-columns:1fr}
-  .hero img{aspect-ratio:4/3}
-  .body{padding:16px}
-  h2{scroll-margin-top:70px}
-  .step{grid-template-columns:38px 1fr;gap:10px;padding:13px;scroll-margin-top:70px}
-  .n{width:38px;height:38px;border-radius:11px}
-  .cookbar{grid-template-columns:48px minmax(0,1fr) 48px}
-  #cookWake{grid-column:1/-1;min-height:42px}
-  .tool-spacer{display:none}
-}
-@media(max-width:430px){
-  .logo{width:40px;height:40px}
-  .units button{min-width:44px;padding:6px 8px}
-  .filterbar{display:flex;overflow:auto;padding-bottom:2px}
-  .filterbar select{min-width:185px}
-  .clear{min-width:135px}
-  .recipe-tools{gap:6px;padding:8px}
-  .tool{min-height:40px;padding:7px 9px;font-size:14px}
-  .title{left:16px;right:16px;bottom:18px}
-  .title h1{font-size:clamp(28px,9vw,42px)}
-}
+:root{--bg:#f6efe7;--card:#fffdf9;--ink:#24201c;--muted:#746b62;--line:#eadccf;--accent:#d65f39;--soft:#fff0e6;--shadow:0 14px 40px #4d382518}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 0 0,#ffe8cd 0,transparent 28rem),var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+header{position:sticky;top:0;z-index:10;background:#f6efe7e8;backdrop-filter:blur(14px);border-bottom:1px solid var(--line);padding:12px}
+.top{max-width:1500px;margin:auto;display:grid;grid-template-columns:auto minmax(220px,1fr) auto;gap:12px;align-items:center}
+.brand{display:flex;gap:9px;align-items:center;font-weight:900}.logo{width:44px;height:44px;border-radius:14px;display:grid;place-items:center;background:linear-gradient(145deg,#d65f39,#f3a14b);font-size:23px}
+#q{width:100%;height:46px;border:1px solid var(--line);border-radius:15px;background:var(--card);padding:0 15px;outline:0}
+.units{display:flex;background:#eadfd4;padding:3px;border-radius:12px}.units button{border:0;background:transparent;padding:7px 11px;border-radius:9px;font-weight:850;cursor:pointer}.units .on{background:#fff;color:var(--accent);box-shadow:0 3px 10px #4d38251c}
+.filterbar{max-width:1500px;margin:10px auto 0;display:grid;grid-template-columns:minmax(170px,1fr) minmax(170px,1fr) auto;gap:9px}
+.filterbar select,.clear{height:42px;border:1px solid var(--line);border-radius:13px;background:var(--card);padding:0 12px;color:var(--ink);outline:0}
+.clear{padding:0 15px;background:#fff4e9;font-weight:800;cursor:pointer}.clear:disabled{opacity:.45;cursor:default}
+.wrap{max-width:1500px;margin:auto;padding:16px;display:grid;grid-template-columns:minmax(290px,390px) minmax(0,1fr);gap:18px;align-items:start}
+aside,article{background:var(--card);border:1px solid var(--line);border-radius:22px;box-shadow:var(--shadow);overflow:hidden}
+aside{position:sticky;top:139px;max-height:calc(100vh - 157px);overflow:auto}.count{position:sticky;top:0;background:#fffdf9ef;backdrop-filter:blur(8px);padding:12px 14px;border-bottom:1px solid var(--line);font-size:13px;color:var(--muted);font-weight:750}
+.item{display:grid;grid-template-columns:78px 1fr;gap:11px;padding:10px;border-bottom:1px solid var(--line);cursor:pointer}.item:hover,.item.active{background:var(--soft)}.item img{width:78px;height:78px;object-fit:cover;border-radius:13px;background:#eee}.item b{line-height:1.25;display:block;margin:4px 0}.meta{font-size:12px;color:var(--muted)}
+.more{margin:12px;width:calc(100% - 24px);border:1px solid var(--line);background:#fff7ef;padding:10px;border-radius:12px;font-weight:800;cursor:pointer}
+.hero{position:relative;background:#ddd}.hero img{width:100%;max-height:600px;aspect-ratio:16/9;object-fit:cover;display:block}.hero:after{content:"";position:absolute;inset:50% 0 0;background:linear-gradient(transparent,#1b120db8)}.title{position:absolute;left:clamp(18px,4vw,38px);right:30px;bottom:28px;z-index:2;color:#fff}.title h1{margin:5px 0;font-size:clamp(30px,5vw,54px);line-height:1.02}
+.body{padding:clamp(18px,4vw,38px)}h2{margin:30px 0 12px}.note{padding:12px 14px;background:var(--soft);border:1px solid #f0d2c1;border-radius:14px;color:#6d4938;font-size:13px}
+.ingredients{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.ing{padding:11px 12px;border:1px solid var(--line);border-radius:13px;background:#fff}.steps{display:grid;gap:13px}.step{display:grid;grid-template-columns:42px 1fr;gap:13px;padding:14px;border:1px solid var(--line);border-radius:15px}.n{width:42px;height:42px;border-radius:13px;display:grid;place-items:center;background:linear-gradient(145deg,#d65f39,#f3a14b);color:#fff;font-weight:900}.step img{width:100%;max-width:650px;margin-top:12px;border-radius:13px}.source{margin-top:28px;border-top:1px solid var(--line);padding-top:15px;color:var(--muted);font-size:13px}.empty{padding:30px;text-align:center;color:var(--muted)}
+.badges{display:flex;gap:6px;flex-wrap:wrap}.badge{font-size:11px;padding:2px 7px;border-radius:999px;background:#efe4da;color:#685e56}
+@media(max-width:800px){header{position:relative}.top{grid-template-columns:1fr auto}.top #q{grid-column:1/-1}.filterbar{grid-template-columns:1fr 1fr}.clear{grid-column:1/-1}.wrap{grid-template-columns:1fr;padding:10px}aside{position:relative;top:auto;max-height:390px}.ingredients{grid-template-columns:1fr}.hero img{aspect-ratio:4/3}}
 </style>
 </head>
 <body>
@@ -208,11 +33,15 @@ body.cooking-mode .body{padding-bottom:36px}
   <div class="top">
     <div class="brand"><div class="logo">🍳</div><span>Moje przepisy</span></div>
     <input id="q" type="search" placeholder="Szukaj przepisu lub składnika…">
-    <div class="units"><button type="button" data-u="US">USA</button><button type="button" data-u="EU">EU</button></div>
+    <div class="units"><button data-u="US">USA</button><button data-u="EU">EU</button></div>
   </div>
   <div class="filterbar">
-    <select id="categoryFilter" aria-label="Kategoria"><option value="">Wszystkie kategorie</option></select>
-    <select id="regionFilter" aria-label="Region"><option value="">Wszystkie regiony</option></select>
+    <select id="categoryFilter" aria-label="Kategoria">
+      <option value="">Wszystkie kategorie</option>
+    </select>
+    <select id="regionFilter" aria-label="Region">
+      <option value="">Wszystkie regiony</option>
+    </select>
     <button id="clearFilters" class="clear" type="button">Wyczyść filtry</button>
   </div>
 </header>
@@ -221,69 +50,82 @@ body.cooking-mode .body{padding-bottom:36px}
   <aside>
     <div class="count" id="count">Ładowanie…</div>
     <div id="list"></div>
-    <button id="more" class="more" type="button" hidden>Pokaż więcej</button>
+    <button id="more" class="more" hidden>Pokaż więcej</button>
   </aside>
   <article id="recipe">
     <div class="empty">
       <h2>Wybierz przepis</h2>
-      <p>Na telefonie możesz włączyć tryb gotowania i zablokować automatyczne wygaszanie ekranu.</p>
+      <p>Możesz jednocześnie filtrować po kategorii, regionie i wyszukiwanej frazie.</p>
     </div>
   </article>
 </main>
 
-<div id="cookbar" class="cookbar" aria-label="Sterowanie gotowaniem">
-  <button id="prevStep" type="button" aria-label="Poprzedni krok">←</button>
-  <div class="step-status"><b id="stepLabel">Krok 1</b><small id="stepSub">z 1</small></div>
-  <button id="nextStep" type="button" aria-label="Następny krok">→</button>
-  <button id="cookWake" type="button">☀️ Ekran</button>
-</div>
-<div id="toast" class="toast" role="status" aria-live="polite"></div>
-
 <script>
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let all=[],shown=120,current=null,currentKey=null,manifest=null,unit=localStorage.getItem('unit')||'US';
-let currentStep=0,wakeLock=null,wakeWanted=localStorage.getItem('keep-screen-awake')==='1',toastTimer=null;
+let all=[], shown=120, current=null, manifest=null, unit=localStorage.getItem('unit')||'US';
 
 const frac={'¼':.25,'½':.5,'¾':.75,'⅓':1/3,'⅔':2/3,'⅛':.125,'⅜':.375,'⅝':.625,'⅞':.875};
 
-function showToast(message){
-  const t=$('#toast');
-  t.textContent=message;
-  t.classList.add('show');
-  clearTimeout(toastTimer);
-  toastTimer=setTimeout(()=>t.classList.remove('show'),3000);
+function asArray(value){
+  if(value==null) return [];
+  if(Array.isArray(value)) return value.flatMap(asArray).filter(Boolean);
+  if(typeof value==='string'){
+    const s=value.trim();
+    if(!s) return [];
+    return s.includes(',') ? s.split(',').map(x=>x.trim()).filter(Boolean) : [s];
+  }
+  return [String(value)];
 }
 
-function asArray(value){
-  if(value==null)return[];
-  if(Array.isArray(value))return value.flatMap(asArray).filter(Boolean);
-  if(typeof value==='string'){
-    const s=value.trim();if(!s)return[];
-    return s.includes(',')?s.split(',').map(x=>x.trim()).filter(Boolean):[s]
-  }
-  return[String(value)]
-}
 function unique(values){
   const out=[],seen=new Set();
   for(const value of values){
-    const s=String(value||'').trim();if(!s)continue;
-    const key=s.toLocaleLowerCase('en-US');if(seen.has(key))continue;
-    seen.add(key);out.push(s)
+    const s=String(value||'').trim();
+    if(!s) continue;
+    const key=s.toLocaleLowerCase('en-US');
+    if(seen.has(key)) continue;
+    seen.add(key); out.push(s);
   }
-  return out
+  return out;
 }
-function getCategories(r){return unique([...asArray(r.categories),...asArray(r.category)])}
-function getRegions(r){return unique([...asArray(r.regions),...asArray(r.cuisines),...asArray(r.cuisine),...asArray(r.area)])}
-function eqCI(a,b){return String(a||'').trim().toLocaleLowerCase('en-US')===String(b||'').trim().toLocaleLowerCase('en-US')}
+
+function getCategories(r){
+  return unique([
+    ...asArray(r.categories),
+    ...asArray(r.category)
+  ]);
+}
+
+function getRegions(r){
+  return unique([
+    ...asArray(r.regions),
+    ...asArray(r.cuisines),
+    ...asArray(r.cuisine),
+    ...asArray(r.area)
+  ]);
+}
+
+function eqCI(a,b){
+  return String(a||'').trim().toLocaleLowerCase('en-US')===
+         String(b||'').trim().toLocaleLowerCase('en-US');
+}
 
 function num(s){
-  s=String(s).trim();if(frac[s]!=null)return frac[s];
-  let m=s.match(/^(\d+)\s+(\d+)\/(\d+)$/);if(m)return +m[1]+m[2]/m[3];
-  m=s.match(/^(\d+)\/(\d+)$/);if(m)return m[1]/m[2];
-  let n=+s.replace(',','.');return Number.isFinite(n)?n:null
+  s=String(s).trim();
+  if(frac[s]!=null)return frac[s];
+  let m=s.match(/^(\d+)\s+(\d+)\/(\d+)$/);
+  if(m)return +m[1]+m[2]/m[3];
+  m=s.match(/^(\d+)\/(\d+)$/);
+  if(m)return m[1]/m[2];
+  let n=+s.replace(',','.');
+  return Number.isFinite(n)?n:null
 }
-function fmt(n,d=1){return new Intl.NumberFormat('pl-PL',{maximumFractionDigits:d}).format(n)}
+
+function fmt(n,d=1){
+  return new Intl.NumberFormat('pl-PL',{maximumFractionDigits:d}).format(n)
+}
+
 function euMeasure(s){
   if(!s)return s;
   const q='(\\d+\\s+\\d+\\/\\d+|\\d+\\/\\d+|\\d+(?:[.,]\\d+)?|[¼½¾⅓⅔⅛⅜⅝⅞])';
@@ -298,317 +140,220 @@ function euMeasure(s){
     [new RegExp('^'+q+'\\s*(oz|ounces?)\\b','i'),28.3495,'g']
   ];
   for(const [re,f,u] of rules){
-    let m=s.match(re);if(!m)continue;
-    let n=num(m[1]);if(n==null)continue;
-    let v=n*f,outUnit=u;
+    let m=s.match(re); if(!m)continue;
+    let n=num(m[1]); if(n==null)continue;
+    let v=n*f, outUnit=u;
     if(u==='ml'&&v>=1000){v/=1000;outUnit='l'}
     if(u==='g'&&v>=1000){v/=1000;outUnit='kg'}
     return `${fmt(v,v<10?2:v<100?1:0)} ${outUnit}${s.slice(m[0].length)}`
   }
-  return s
+  return s;
 }
+
 function euText(s){
   return String(s||'')
-    .replace(/(\d{2,3})\s*(?:°\s*)?(?:degrees?\s*)?(?:F|Fahrenheit)\b/gi,(_,v)=>`${Math.round((((+v)-32)*5/9)/5)*5}°C`)
-    .replace(/\b(\d+(?:[.,]\d+)?)\s*(?:inch|inches|in\.)\b/gi,(_,v)=>`${fmt(+v.replace(',','.')*2.54,1)} cm`)
+    .replace(/(\d{2,3})\s*(?:°\s*)?(?:degrees?\s*)?(?:F|Fahrenheit)\b/gi,
+      (_,v)=>`${Math.round((((+v)-32)*5/9)/5)*5}°C`)
+    .replace(/\b(\d+(?:[.,]\d+)?)\s*(?:inch|inches|in\.)\b/gi,
+      (_,v)=>`${fmt(+v.replace(',','.')*2.54,1)} cm`)
 }
+
 function updateBtns(){
   document.querySelectorAll('[data-u]').forEach(b=>b.classList.toggle('on',b.dataset.u===unit))
 }
 
-
-function getHeroImage(r){
-  return r?.images?.hero || r?.image || r?.image_source || r?.strMealThumb || null;
-}
-
-function getImageFallback(r){
-  const primary=getHeroImage(r);
-  const candidates=[
-    r?.image_fallback,
-    r?.image_source,
-    r?.strMealThumb,
-    r?.thumbnail
-  ].filter(Boolean);
-  return candidates.find(x=>x!==primary) || null;
-}
-
-function imageAttrs(primary,fallback){
-  if(!primary)return '';
-  return `src="${esc(primary)}"${fallback?` data-fallback="${esc(fallback)}"`:''}`;
-}
-
-function wireImageFallbacks(root=document){
-  root.querySelectorAll('img[data-fallback]').forEach(img=>{
-    if(img.dataset.fallbackBound==='1')return;
-    img.dataset.fallbackBound='1';
-    img.addEventListener('error',()=>{
-      const fallback=img.dataset.fallback;
-      if(fallback && img.src!==fallback){
-        img.removeAttribute('data-fallback');
-        img.src=fallback;
-      }
-    });
-  });
-}
-
-function normalizeIngredient(x){
-  if(typeof x === 'string') return x;
-
-  if(x && typeof x === 'object'){
-    const measure = String(x.measure || '').trim();
-    const ingredient = String(x.ingredient || x.name || '').trim();
-    return [measure, ingredient].filter(Boolean).join(' ').trim();
-  }
-
-  return String(x ?? '').trim();
-}
-
-function normalizeStep(x){
-  if(typeof x === 'string'){
-    return {text:x, image:null};
-  }
-
-  if(x && typeof x === 'object'){
-    return {
-      text:String(x.text || x.description || x.name || '').trim(),
-      image:x.image || null
-    };
-  }
-
-  return {text:String(x ?? '').trim(), image:null};
-}
-
 function buildFilterOptions(){
-  const categoryCounts=new Map(),regionCounts=new Map();
+  const categoryCounts=new Map();
+  const regionCounts=new Map();
+
   for(const r of all){
-    for(const c of getCategories(r))categoryCounts.set(c,(categoryCounts.get(c)||0)+1);
-    for(const g of getRegions(r))regionCounts.set(g,(regionCounts.get(g)||0)+1)
+    for(const c of getCategories(r)) categoryCounts.set(c,(categoryCounts.get(c)||0)+1);
+    for(const g of getRegions(r)) regionCounts.set(g,(regionCounts.get(g)||0)+1);
   }
-  const sorted=map=>[...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],'pl',{sensitivity:'base'}));
-  $('#categoryFilter').innerHTML='<option value="">Wszystkie kategorie</option>'+sorted(categoryCounts).map(([n,c])=>`<option value="${esc(n)}">${esc(n)} (${c})</option>`).join('');
-  $('#regionFilter').innerHTML='<option value="">Wszystkie regiony</option>'+sorted(regionCounts).map(([n,c])=>`<option value="${esc(n)}">${esc(n)} (${c})</option>`).join('')
+
+  const sortEntries=map=>[...map.entries()].sort((a,b)=>a[0].localeCompare(b[0],'pl',{sensitivity:'base'}));
+
+  $('#categoryFilter').innerHTML=
+    '<option value="">Wszystkie kategorie</option>'+
+    sortEntries(categoryCounts).map(([name,n])=>
+      `<option value="${esc(name)}">${esc(name)} (${n})</option>`
+    ).join('');
+
+  $('#regionFilter').innerHTML=
+    '<option value="">Wszystkie regiony</option>'+
+    sortEntries(regionCounts).map(([name,n])=>
+      `<option value="${esc(name)}">${esc(name)} (${n})</option>`
+    ).join('');
 }
 
 function filteredRecipes(){
   const q=$('#q').value.trim().toLocaleLowerCase('pl');
-  const category=$('#categoryFilter').value,region=$('#regionFilter').value;
+  const selectedCategory=$('#categoryFilter').value;
+  const selectedRegion=$('#regionFilter').value;
+
   return all.filter(r=>{
-    const cats=getCategories(r),regs=getRegions(r);
-    if(category&&!cats.some(x=>eqCI(x,category)))return false;
-    if(region&&!regs.some(x=>eqCI(x,region)))return false;
+    const categories=getCategories(r);
+    const regions=getRegions(r);
+
+    if(selectedCategory && !categories.some(x=>eqCI(x,selectedCategory))) return false;
+    if(selectedRegion && !regions.some(x=>eqCI(x,selectedRegion))) return false;
+
     if(q){
-      const hay=[r.title,...cats,...regs,...asArray(r.ingredients_search).map(normalizeIngredient)].filter(Boolean).join(' ').toLocaleLowerCase('pl');
-      if(!hay.includes(q))return false
+      const haystack=[
+        r.title,
+        ...categories,
+        ...regions,
+        ...asArray(r.ingredients_search)
+      ].filter(Boolean).join(' ').toLocaleLowerCase('pl');
+
+      if(!haystack.includes(q)) return false;
     }
-    return true
-  })
+
+    return true;
+  });
 }
 
 function renderList(){
-  const filtered=filteredRecipes(),category=$('#categoryFilter').value,region=$('#regionFilter').value,q=$('#q').value.trim();
-  const active=[];if(category)active.push(`kategoria: ${category}`);if(region)active.push(`region: ${region}`);if(q)active.push(`„${q}”`);
-  $('#count').textContent=`${filtered.length.toLocaleString('pl-PL')} z ${all.length.toLocaleString('pl-PL')} przepisów${active.length?' • '+active.join(' • '):''}`;
-  const part=filtered.slice(0,shown);
-  $('#list').innerHTML=part.length?part.map(r=>{
-    const meta=[...getCategories(r).slice(0,1),...getRegions(r).slice(0,1)];
-    return `<div class="item ${currentKey===(r.key||String(r.id))?'active':''}" data-key="${esc(r.key||String(r.id))}">
-      ${getHeroImage(r)?`<img loading="lazy" ${imageAttrs(getHeroImage(r),getImageFallback(r))} alt="">`:''}
-      <div><b>${esc(r.title)}</b><div class="meta">${esc(meta.join(' • '))}</div></div>
-    </div>`
-  }).join(''):'<div class="empty">Brak przepisów dla wybranych filtrów.</div>';
-  $('#more').hidden=part.length>=filtered.length;
-  document.querySelectorAll('.item').forEach(x=>x.addEventListener('click',()=>{
-    const row=all.find(r=>String(r.key||r.id)===String(x.dataset.key));if(row)openRecipe(row)
-  }));
-  $('#clearFilters').disabled=!category&&!region&&!q;
-  wireImageFallbacks($('#list'))
-}
+  const filtered=filteredRecipes();
+  const selectedCategory=$('#categoryFilter').value;
+  const selectedRegion=$('#regionFilter').value;
+  const q=$('#q').value.trim();
 
-function ingredientKey(){return current?`recipe-${currentKey||current.id}-ingredients`:''}
-function stepKey(){return current?`recipe-${currentKey||current.id}-step`:''}
-function savedIngredients(){
-  try{return new Set(JSON.parse(localStorage.getItem(ingredientKey())||'[]'))}catch{return new Set()}
-}
-function saveIngredients(){
-  if(!current)return;
-  const checked=[...document.querySelectorAll('.ingredient-check:checked')].map(x=>+x.dataset.i);
-  localStorage.setItem(ingredientKey(),JSON.stringify(checked))
+  const activeParts=[];
+  if(selectedCategory) activeParts.push(`kategoria: ${selectedCategory}`);
+  if(selectedRegion) activeParts.push(`region: ${selectedRegion}`);
+  if(q) activeParts.push(`szukaj: „${q}”`);
+
+  $('#count').textContent=
+    `${filtered.length.toLocaleString('pl-PL')} z ${all.length.toLocaleString('pl-PL')} przepisów`+
+    (activeParts.length?` • ${activeParts.join(' • ')}`:'');
+
+  const part=filtered.slice(0,shown);
+
+  $('#list').innerHTML=part.length ? part.map(r=>{
+    const cats=getCategories(r);
+    const regs=getRegions(r);
+    const meta=[...cats.slice(0,1),...regs.slice(0,1)];
+    return `<div class="item ${current&&current.id===r.id?'active':''}" data-id="${esc(r.id)}">
+      ${r.image?`<img loading="lazy" src="${esc(r.image)}" alt="">`:''}
+      <div>
+        <b>${esc(r.title)}</b>
+        <div class="meta">${esc(meta.join(' • '))}</div>
+      </div>
+    </div>`;
+  }).join('') : '<div class="empty">Brak przepisów dla wybranych filtrów.</div>';
+
+  $('#more').hidden=part.length>=filtered.length;
+
+  document.querySelectorAll('.item').forEach(x=>{
+    x.onclick=()=>{
+      const row=all.find(r=>String(r.id)===String(x.dataset.id));
+      if(row) openRecipe(row);
+    };
+  });
+
+  $('#clearFilters').disabled=!selectedCategory&&!selectedRegion&&!q;
 }
 
 async function openRecipe(row){
   const response=await fetch(row.file,{cache:'no-store'});
-  if(!response.ok)throw new Error(`HTTP ${response.status}`);
+  if(!response.ok) throw new Error(`HTTP ${response.status}`);
   current=await response.json();
-  currentKey=row.key||String(row.id);
-  currentStep=Math.max(0,Math.min((current.steps||[]).length-1,+localStorage.getItem(`recipe-${currentKey}-step`)||0));
-  history.replaceState(null,'',`?id=${encodeURIComponent(currentKey||current.id)}`);
-  renderRecipe();renderList();
-  $('#recipe').scrollIntoView({behavior:'smooth',block:'start'});
-  if(wakeWanted)requestWakeLock(false)
+  history.replaceState(null,'',`?id=${encodeURIComponent(current.id)}`);
+  renderRecipe();
+  renderList();
 }
 
 function renderRecipe(){
   if(!current)return;
-  const r=current,cats=getCategories(r),regs=getRegions(r),labels=[...cats,...regs],checked=savedIngredients();
+  const r=current;
+  const cats=getCategories(r);
+  const regs=getRegions(r);
+  const labels=[...cats,...regs];
+
   $('#recipe').innerHTML=`
-    <div class="recipe-tools">
-      <button class="tool" id="backToList" type="button">← Lista</button>
-      <button class="tool primary" id="cookingMode" type="button">${document.body.classList.contains('cooking-mode')?'Zakończ gotowanie':'🍳 Tryb gotowania'}</button>
-      <div class="tool-spacer"></div>
-      <button class="tool wake-action ${wakeLock&&!wakeLock.released?'awake-on':''}" type="button"><span class="wake-dot"></span>${wakeLock&&!wakeLock.released?'Ekran aktywny':'Nie wygaszaj'}</button>
-    </div>
     <div class="hero">
-      ${getHeroImage(r)?`<img ${imageAttrs(getHeroImage(r),getImageFallback(r))} alt="${esc(r.title)}">`:''}
-      <div class="title"><div>${esc(labels.join(' • '))}</div><h1>${esc(r.title)}</h1></div>
+      ${r.images?.hero?`<img src="${esc(r.images.hero)}" alt="${esc(r.title)}">`:''}
+      <div class="title">
+        <div>${esc(labels.join(' • '))}</div>
+        <h1>${esc(r.title)}</h1>
+      </div>
     </div>
     <div class="body">
-      <div class="note">${unit==='US'?'🇺🇸 Oryginalne miary USA.':'🇪🇺 Automatyczne przeliczenie na miary europejskie.'}</div>
-      <div class="quick-jumps">
-        <button type="button" data-jump="ingredientsTitle">🧺 Składniki</button>
-        <button type="button" data-jump="stepsTitle">👩‍🍳 Kroki</button>
-        ${r.yield?.length?`<button type="button" disabled>🍽️ ${esc(r.yield.join(', '))}</button>`:''}
-      </div>
+      <div class="note">${unit==='US'
+        ?'🇺🇸 Oryginalne miary USA.'
+        :'🇪🇺 Automatyczne przeliczenie na miary europejskie. Oryginalne dane pozostają zapisane w JSON.'}</div>
 
-      <h2 id="ingredientsTitle">🧺 Składniki</h2>
+      <h2>🧺 Składniki</h2>
       <div class="ingredients">
-        ${(r.ingredients||[]).map((x,i)=>{const value=normalizeIngredient(x);return `<label class="ing ${checked.has(i)?'checked':''}">
-          <input class="ingredient-check" data-i="${i}" type="checkbox" ${checked.has(i)?'checked':''}>
-          <span>${esc(unit==='EU'?euMeasure(value):value)}</span>
-        </label>`}).join('')}
+        ${(r.ingredients||[]).map(x=>`<div class="ing">${esc(unit==='EU'?euMeasure(x):x)}</div>`).join('')}
       </div>
 
-      <h2 id="stepsTitle">👩‍🍳 Przygotowanie</h2>
+      <h2>👩‍🍳 Przygotowanie</h2>
       <div class="steps">
-        ${(r.steps||[]).map((x,i)=>{const step=normalizeStep(x);return `<div class="step ${i===currentStep?'current':''}" data-step="${i}">
-          <div class="n">${i+1}</div>
-          <div>${esc(unit==='EU'?euText(step.text):step.text)}${step.image?`<img loading="lazy" src="${esc(step.image)}" alt="">`:''}</div>
-        </div>`}).join('')}
+        ${(r.steps||[]).map((x,i)=>`
+          <div class="step">
+            <div class="n">${i+1}</div>
+            <div>
+              ${esc(unit==='EU'?euText(x.text):x.text)}
+              ${x.image?`<img loading="lazy" src="${esc(x.image)}" alt="">`:''}
+            </div>
+          </div>
+        `).join('')}
       </div>
+
       ${r.yield?.length?`<div class="source">Porcje: ${esc(r.yield.join(', '))}</div>`:''}
     </div>`;
-
-  $('#backToList').addEventListener('click',()=>{
-    if(document.body.classList.contains('cooking-mode'))toggleCookingMode(false);
-    document.querySelector('aside').scrollIntoView({behavior:'smooth',block:'start'})
-  });
-  $('#cookingMode').addEventListener('click',()=>toggleCookingMode());
-  document.querySelectorAll('.wake-action').forEach(b=>b.addEventListener('click',toggleWakeLock));
-  document.querySelectorAll('[data-jump]').forEach(b=>b.addEventListener('click',()=>document.getElementById(b.dataset.jump)?.scrollIntoView({behavior:'smooth',block:'start'})));
-  document.querySelectorAll('.ingredient-check').forEach(box=>box.addEventListener('change',()=>{
-    box.closest('.ing')?.classList.toggle('checked',box.checked);saveIngredients()
-  }));
-  document.querySelectorAll('.step').forEach(step=>step.addEventListener('click',()=>setCurrentStep(+step.dataset.step,false)));
-  updateCookingBar();
-  wireImageFallbacks($('#recipe'))
 }
 
-function toggleCookingMode(force){
-  const on=typeof force==='boolean'?force:!document.body.classList.contains('cooking-mode');
-  document.body.classList.toggle('cooking-mode',on);
-  localStorage.setItem('cooking-mode',on?'1':'0');
-  if(current)renderRecipe();
-  if(on&&current)setTimeout(()=>scrollToStep(currentStep,false),80)
+function refreshFilters(){
+  shown=120;
+  renderList();
 }
 
-function setCurrentStep(index,scroll=true){
-  if(!current)return;
-  const total=(current.steps||[]).length;
-  if(!total)return;
-  currentStep=Math.max(0,Math.min(total-1,index));
-  localStorage.setItem(stepKey(),String(currentStep));
-  document.querySelectorAll('.step').forEach(x=>x.classList.toggle('current',+x.dataset.step===currentStep));
-  updateCookingBar();
-  if(scroll)scrollToStep(currentStep,true)
-}
-function scrollToStep(index,smooth=true){
-  document.querySelector(`.step[data-step="${index}"]`)?.scrollIntoView({behavior:smooth?'smooth':'auto',block:'center'})
-}
-function updateCookingBar(){
-  const total=current?.steps?.length||0;
-  $('#cookbar').classList.toggle('visible',!!current&&total>0);
-  $('#prevStep').disabled=!total||currentStep<=0;
-  $('#nextStep').disabled=!total||currentStep>=total-1;
-  $('#stepLabel').textContent=total?`Krok ${currentStep+1}`:'Krok';
-  $('#stepSub').textContent=total?`z ${total}`:'';
-  updateWakeUI()
-}
-
-function wakeSupported(){return 'wakeLock' in navigator&&window.isSecureContext}
-async function requestWakeLock(showErrors=true){
-  if(!wakeSupported()){
-    wakeWanted=false;localStorage.setItem('keep-screen-awake','0');updateWakeUI();
-    if(showErrors)showToast('Ta przeglądarka nie obsługuje blokady wygaszania ekranu albo strona nie działa przez HTTPS.');
-    return false
+document.querySelectorAll('[data-u]').forEach(b=>{
+  b.onclick=()=>{
+    unit=b.dataset.u;
+    localStorage.setItem('unit',unit);
+    updateBtns();
+    renderRecipe();
   }
-  if(document.visibilityState!=='visible')return false;
-  if(wakeLock&&!wakeLock.released){updateWakeUI();return true}
-  try{
-    wakeLock=await navigator.wakeLock.request('screen');
-    wakeLock.addEventListener('release',()=>updateWakeUI(),{once:true});
-    updateWakeUI();
-    if(showErrors)showToast('Ekran nie będzie się automatycznie wygaszał podczas gotowania.');
-    return true
-  }catch(err){
-    updateWakeUI();
-    if(showErrors)showToast('Telefon nie pozwolił utrzymać ekranu aktywnego. Sprawdź tryb oszczędzania baterii.');
-    return false
-  }
-}
-async function toggleWakeLock(){
-  if(wakeWanted){
-    wakeWanted=false;localStorage.setItem('keep-screen-awake','0');
-    if(wakeLock&&!wakeLock.released)await wakeLock.release();
-    wakeLock=null;updateWakeUI();showToast('Automatyczne wygaszanie ekranu znów jest dozwolone.')
-  }else{
-    wakeWanted=true;localStorage.setItem('keep-screen-awake','1');
-    const ok=await requestWakeLock(true);
-    if(!ok&&!wakeSupported())wakeWanted=false
-  }
-}
-function updateWakeUI(){
-  const active=!!wakeLock&&!wakeLock.released;
-  document.querySelectorAll('.wake-action').forEach(b=>{
-    b.classList.toggle('awake-on',active);
-    b.innerHTML=`<span class="wake-dot"></span>${active?'Ekran aktywny':'Nie wygaszaj'}`
-  });
-  const b=$('#cookWake');
-  b.classList.toggle('on',active);
-  b.textContent=active?'☀️ Ekran: ON':'☀️ Nie wygaszaj'
-}
-
-function refreshFilters(){shown=120;renderList()}
-document.querySelectorAll('[data-u]').forEach(b=>b.addEventListener('click',()=>{
-  unit=b.dataset.u;localStorage.setItem('unit',unit);updateBtns();if(current)renderRecipe()
-}));
-$('#q').addEventListener('input',refreshFilters);
-$('#categoryFilter').addEventListener('change',refreshFilters);
-$('#regionFilter').addEventListener('change',refreshFilters);
-$('#more').addEventListener('click',()=>{shown+=120;renderList()});
-$('#clearFilters').addEventListener('click',()=>{
-  $('#q').value='';$('#categoryFilter').value='';$('#regionFilter').value='';shown=120;renderList()
 });
-$('#prevStep').addEventListener('click',()=>setCurrentStep(currentStep-1,true));
-$('#nextStep').addEventListener('click',()=>setCurrentStep(currentStep+1,true));
-$('#cookWake').addEventListener('click',toggleWakeLock);
 
-document.addEventListener('visibilitychange',async()=>{
-  if(wakeWanted&&document.visibilityState==='visible')await requestWakeLock(false)
-});
+$('#q').oninput=refreshFilters;
+$('#categoryFilter').onchange=refreshFilters;
+$('#regionFilter').onchange=refreshFilters;
+$('#more').onclick=()=>{shown+=120;renderList()};
+$('#clearFilters').onclick=()=>{
+  $('#q').value='';
+  $('#categoryFilter').value='';
+  $('#regionFilter').value='';
+  shown=120;
+  renderList();
+};
 
 (async()=>{
-  updateBtns();updateWakeUI();
+  updateBtns();
   const response=await fetch('data/recipes_manifest.json',{cache:'no-store'});
-  if(!response.ok)throw new Error(`Nie udało się pobrać manifestu: HTTP ${response.status}`);
+  if(!response.ok) throw new Error(`Nie udało się pobrać manifestu: HTTP ${response.status}`);
+
   manifest=await response.json();
-  all=(manifest.recipes||[]).map(r=>({...r,categories:getCategories(r),regions:getRegions(r)}));
-  buildFilterOptions();renderList();
+  all=(manifest.recipes||[]).map(r=>({
+    ...r,
+    categories:getCategories(r),
+    regions:getRegions(r)
+  }));
+
+  buildFilterOptions();
+  renderList();
+
   const id=new URLSearchParams(location.search).get('id');
   if(id){
-    const hit=all.find(x=>String(x.key||x.id)===String(id)) || all.find(x=>String(x.id)===String(id));
-    if(hit)await openRecipe(hit)
+    const hit=all.find(x=>String(x.id)===String(id));
+    if(hit) await openRecipe(hit);
   }
 })().catch(e=>{
-  $('#recipe').innerHTML=`<div class="empty"><h2>Błąd</h2><p>${esc(e.message)}</p></div>`
+  $('#recipe').innerHTML=`<div class="empty"><h2>Błąd</h2><p>${esc(e.message)}</p></div>`;
 });
 </script>
 </body>
