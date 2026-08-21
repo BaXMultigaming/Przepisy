@@ -1,0 +1,24 @@
+{
+  "source_sitemap": "https://www.allrecipes.com/sitemap.xml",
+  "sitemap_files_scanned": 5,
+  "sitemap_files": [
+    "https://www.allrecipes.com/sitemap.xml",
+    "https://www.allrecipes.com/sitemap_1.xml",
+    "https://www.allrecipes.com/sitemap_2.xml",
+    "https://www.allrecipes.com/sitemap_3.xml",
+    "https://www.allrecipes.com/sitemap_4.xml"
+  ],
+  "all_urls_in_current_sitemaps": 75457,
+  "recipe_urls_in_current_sitemaps": 48626,
+  "previous_archived_recipe_urls": 0,
+  "archived_recipe_urls_after_union": 48626,
+  "new_recipe_urls": 48626,
+  "duplicate_recipe_ids": [],
+  "probe": {
+    "id": "89268",
+    "url": "https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/",
+    "present_in_current_sitemap": true,
+    "present_in_archive": true
+  },
+  "warning_suspicious_sitemap_drop": false
+}
