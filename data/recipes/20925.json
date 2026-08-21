@@ -1,0 +1,70 @@
+{
+  "id": "20925",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20925/chicken-bouillon-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/20925/chicken-bouillon-rice/",
+  "title": "Chicken Bouillon Rice",
+  "description": "White rice flavored with chicken bouillon.",
+  "authors": [
+    "Jennifer Riggs"
+  ],
+  "date_published": "2000-06-07T00:41:58-04:00",
+  "date_modified": "2022-08-23T20:53:07-04:00",
+  "prep_time": null,
+  "cook_time": "PT20M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups water",
+    "2 cups uncooked white rice",
+    "2 cubes chicken bouillon"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan bring water to a boil. Add rice and bouillon and stir. Reduce heat, cover and simmer for 20 minutes. Mix well before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "289 mg",
+    "sugarContent": "0 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sVV2PbCeGaVY68ANJkxiUaG_v38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Bouillon-Rice-2000-407fa44e8f2a4e75a0d03f3b8e1e2a76.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20925/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

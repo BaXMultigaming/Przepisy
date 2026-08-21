@@ -1,0 +1,86 @@
+{
+  "id": "20797",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20797/extra-easy-hummus/",
+  "requested_url": "https://www.allrecipes.com/recipe/20797/extra-easy-hummus/",
+  "title": "Extra Easy Hummus",
+  "description": "Tahini-free hummus that only takes minutes, and is a favorite with my kids.",
+  "authors": [
+    "Donalyn"
+  ],
+  "date_published": "2000-06-08T16:45:15-04:00",
+  "date_modified": "2022-07-14T16:13:20-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch",
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can garbanzo beans, drained, liquid reserved",
+    "1 clove garlic, crushed",
+    "2 teaspoons ground cumin",
+    "0.5 teaspoon salt",
+    "1 tablespoon olive oil"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor combine garbanzo beans, garlic, cumin, salt and olive oil. Blend on low speed, gradually adding reserved bean liquid, until desired consistency is achieved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/hL9f5cCm7wDg90Q0WsBOGgXEoB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/588854-274b47807d6a4f09996f6c9a09c77293.jpg"
+      ],
+      "image": "assets/images/20797/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "17 g",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "502 mg",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "673"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/mROfuQS1-ma1DlVvV.mp4",
+    "description": "Watch how to make a creamy, savory dip out of garbanzo beans, garlic, ground cumin and olive oil. It really is that easy. We combine the ingredients in a food processor or blender, pureeing them until desired consistency.",
+    "duration": "PT1M17S",
+    "name": "Extra Easy Hummus",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/mROfuQS1/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T18:22:54-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hL9f5cCm7wDg90Q0WsBOGgXEoB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/588854-274b47807d6a4f09996f6c9a09c77293.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20797/hero.webp",
+    "steps": [
+      "assets/images/20797/step_01.webp"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "20083",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20083/asparagus-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/20083/asparagus-soup/",
+  "title": "Asparagus Soup",
+  "description": "Velvety asparagus soup, lovely green color, great with crunchy rolls. My friend gave me this recipe, it originally used chicken broth. When my daughter became vegetarian, I modified it with vegetable broth instead! It also doubles easily. This soup will tempt even asparagus haters!",
+  "authors": [
+    "Pyromommy"
+  ],
+  "date_published": "2000-05-13T15:56:07-04:00",
+  "date_modified": "2022-07-14T17:41:44-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 onion, chopped",
+    "2 tablespoons butter",
+    "1 pound fresh asparagus, trimmed and coarsely chopped",
+    "1 cup vegetable broth",
+    "1 dash garlic powder",
+    "1 dash white pepper",
+    "1 cup 1% milk"
+  ],
+  "steps": [
+    {
+      "text": "Microwave onion and butter on HIGH for 2 minutes. Add asparagus, vegetable broth, garlic powder and white pepper. Microwave, covered, on HIGH for 10 to 12 minutes. Puree in blender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return mixture to microwave safe dish, stir in milk and microwave until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "198 mg",
+    "sugarContent": "7 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "96"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bdR1bWna7k16EXmzmWXgTH8DqSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7296475-65f8980ca5834d4fadaf486318edf0ae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20083/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

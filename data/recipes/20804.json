@@ -1,0 +1,77 @@
+{
+  "id": "20804",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20804/banana-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/20804/banana-shake/",
+  "title": "Banana Shake",
+  "description": "A delicious banana shake made with milk, yogurt, lemon juice and sugar.",
+  "authors": [
+    "May and Siv"
+  ],
+  "date_published": "2000-08-30T17:21:53-04:00",
+  "date_modified": "2023-07-19T15:52:13-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1 tablespoon lemon juice",
+    "4 tablespoons white sugar",
+    "1 cup milk",
+    "1 cup plain yogurt",
+    "0.25 cup whipped cream, garnish"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine banana, lemon juice and sugar. Process until smooth. Blend in the milk and yogurt. Pour into glasses, top with a dab of whipped cream and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "309 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "146 mg",
+    "sugarContent": "47 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NHlDzARQoQZnqQOYpEOkZyjJLYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20804banana-shakeTammyLynn4x3-f07c53dc309143619f2ed3aefdabe4ae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20804/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

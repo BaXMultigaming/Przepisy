@@ -1,0 +1,99 @@
+{
+  "id": "20350",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20350/moong-dal/",
+  "requested_url": "https://www.allrecipes.com/recipe/20350/moong-dal/",
+  "title": "Moong Dal",
+  "description": "An easy vegetarian curry with ginger, chiles, tomatoes, spices, and garlic. Serve hot in soup bowls, or over rice.",
+  "authors": [
+    "Pyromommy"
+  ],
+  "date_published": "2000-05-13T15:44:26-04:00",
+  "date_modified": "2023-09-13T11:31:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT75M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups moong dal (split husked mung beans)",
+    "2.5 cups water",
+    "1.5 teaspoons salt",
+    "0.5 teaspoon grated fresh ginger root",
+    "1 teaspoon diced jalapeno chile pepper",
+    "0.5 cup diced tomatoes",
+    "3 teaspoons lemon juice",
+    "0.5 teaspoon ground turmeric",
+    "2 teaspoons vegetable oil",
+    "1 teaspoon cumin seed",
+    "0.5 dried red chile pepper",
+    "1 pinch Asafoetida",
+    "2 cloves garlic, finely chopped",
+    "0.25 cup chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Rinse the dal, checking for any debris; add to saucepan with 2 1/2 cups water. Allow to soak for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring dal, water, and salt to a boil. Reduce heat to medium-low and cook until beans are very tender and mixture has thickened, 15 to 20 minutes. Add more water, if necessary, to prevent drying out. Stir in ginger, jalapeno pepper, tomato, lemon juice, and turmeric.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a small saucepan and add cumin seed and red chile pepper. When pepper is heated, add Asafoetida powder and garlic. Stir mixture into split peas and add cilantro; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "carbohydrateContent": "57 g",
+    "fiberContent": "15 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "667 mg",
+    "sugarContent": "6 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "91"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8lgxtRVTSLPIrzn4zL7W17HuXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/111568-bd2604250e31490091c60efccb9e604e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20350/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

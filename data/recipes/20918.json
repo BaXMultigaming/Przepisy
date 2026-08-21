@@ -1,0 +1,81 @@
+{
+  "id": "20918",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20918/fast-and-easy-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/20918/fast-and-easy-pancakes/",
+  "title": "Fast and Easy Pancakes",
+  "description": "Quick and easy pancakes that are mixed in your blender! Perfect for those mornings when you have to get breakfast on the table but don&#39;t have the time to make anything complicated.",
+  "authors": [
+    "Geraldine"
+  ],
+  "date_published": "2000-06-10T16:32:07-04:00",
+  "date_modified": "2022-07-14T16:21:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "0.75 cup white sugar",
+    "2 eggs",
+    "1 teaspoon vegetable oil",
+    "1 teaspoon vanilla extract",
+    "2 cups all-purpose flour",
+    "1.5 tablespoons baking powder"
+  ],
+  "steps": [
+    {
+      "text": "Place milk, sugar, eggs, oil and vanilla in the blender. Add flour and baking powder. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "323 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "309 mg",
+    "sugarContent": "29 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "335"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8Nagqj2s5dy1V5XXnQdbk_cn9-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3688910-5b599be1a17247a4aabb9581ef6d2ac4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20918/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

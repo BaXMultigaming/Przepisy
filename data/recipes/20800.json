@@ -1,0 +1,73 @@
+{
+  "id": "20800",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20800/fry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/20800/fry-sauce/",
+  "title": "Fry Sauce",
+  "description": "A simple French fry dipping sauce made by blending tangy ketchup with creamy mayonnaise. This also tastes great on onion rings and fried clams!",
+  "authors": [
+    "Keith Horrocks"
+  ],
+  "date_published": "2000-04-22T13:48:50-04:00",
+  "date_modified": "2023-07-13T14:52:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33300000429153 cup ketchup",
+    "0.66670000553131 cup mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Mix ketchup and mayonnaise together in a small bowl until thoroughly blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "141 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "7 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "215 mg",
+    "sugarContent": "3 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Pd4_wh8jWtC2oJVKxDvTro_Rneo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1054937-125d6fb8c99645ceaf895ee5ae924b7a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20800/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

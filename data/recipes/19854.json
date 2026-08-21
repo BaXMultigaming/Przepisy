@@ -1,0 +1,73 @@
+{
+  "id": "19854",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19854/tomato-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/19854/tomato-sauce/",
+  "title": "Tomato Sauce",
+  "description": "Tomatoes slowly cooked with chili seasoning, oregano, garlic powder and pepper to make a hearty red sauce.",
+  "authors": [
+    "Steven Eichorn"
+  ],
+  "date_published": "2000-07-09T17:14:00-04:00",
+  "date_modified": "2022-08-02T09:58:46-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6.25 pounds tomatoes, crushed",
+    "0.5 cup extra virgin olive oil",
+    "1.5 tablespoons freshly ground black pepper",
+    "1 teaspoon chili seasoning mix",
+    "1 teaspoon salt",
+    "1 tablespoon minced onion",
+    "1 tablespoon dried oregano",
+    "1 tablespoon garlic powder",
+    "1 teaspoon finely minced fresh parsley",
+    "1 teaspoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In large saucepan over low heat, combine tomatoes, olive oil, pepper, chili seasoning, salt, onion, oregano, garlic powder, parsley and sugar. Simmer 1 hour. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "134 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "229 mg",
+    "sugarContent": "7 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "70"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/V9sQpTTYe1ooFe3YytHeQSnIjyA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3844314-f3ee5df6f32d4ef794328fe79bdb5f8e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19854/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "20829",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20829/chocolate-chip-bread-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/20829/chocolate-chip-bread-ii/",
+  "title": "Chocolate Chip Bread II",
+  "description": "A sweet and tender chocolate chip bread for the bread machine.",
+  "authors": [
+    "Heather"
+  ],
+  "date_published": "2000-08-24T15:14:52-04:00",
+  "date_modified": "2022-07-14T17:18:46-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT130M",
+  "total_time": "PT135M",
+  "yield": [
+    "12",
+    "1 1/2 - ounce loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (.25 ounce) package active dry yeast",
+    "3 cups bread flour",
+    "2 tablespoons brown sugar",
+    "2 tablespoons white sugar",
+    "1 teaspoon salt",
+    "1 teaspoon ground cinnamon",
+    "4 tablespoons butter, softened",
+    "1 egg",
+    "1 cup warm milk",
+    "0.25 cup warm water",
+    "1 cup semisweet chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select White Bread cycle; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "If your machine has a Fruit setting, add chocolate chips at the signal, or about 5 minutes before the kneading cycle has finished.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "260 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "238 mg",
+    "sugarContent": "13 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Vd0CxyLsQBc6xVjNwOtGSRzuZN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7873407-eb6267b5428c40de86b00a4fa884db71.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20829/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

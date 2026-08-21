@@ -1,0 +1,69 @@
+{
+  "id": "20891",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20891/buffalo-chicken-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/20891/buffalo-chicken-sauce/",
+  "title": "Buffalo Chicken Sauce",
+  "description": "Melted butter and spicy hot sauce blended together to help those Buffalo wings fly!",
+  "authors": [
+    "Erin"
+  ],
+  "date_published": "2000-07-26T15:03:18-04:00",
+  "date_modified": "2023-01-08T09:51:16-05:00",
+  "prep_time": null,
+  "cook_time": "PT5M",
+  "total_time": "PT20M",
+  "yield": [
+    "24",
+    "3 cups"
+  ],
+  "categories": [],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups butter",
+    "1 (12 fluid ounce) can or bottle hot sauce"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a small saucepan over medium heat, or in a microwave-safe bowl in the microwave on high, until completely melted. Skim off white foam from the top and add hot sauce. Blend until well mixed; set aside until mixture starts to set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "103 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "31 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "452 mg",
+    "sugarContent": "0 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uf0rA-hgKNbkEfAwmYo98rmhZu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7050586-buffalo-chicken-sauce-Katalina-Merkling-4x3-1-318e6063bc864cd48e8ec40456590fdb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20891/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

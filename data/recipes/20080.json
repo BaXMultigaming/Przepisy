@@ -1,0 +1,91 @@
+{
+  "id": "20080",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20080/chili-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/20080/chili-chicken/",
+  "title": "Chili Chicken",
+  "description": "A tasty version of drumsticks with a bit of sweetness, and spiciness.",
+  "authors": [
+    "Margot McKinney"
+  ],
+  "date_published": "2000-04-08T07:24:40-04:00",
+  "date_modified": "2022-07-14T17:22:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT90M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "regions": [
+    "Thai"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons honey",
+    "5 tablespoons sweet chili sauce",
+    "3 tablespoons soy sauce",
+    "12 chicken drumsticks, skin removed"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, mix together the honey, sweet chili sauce and soy sauce. Set aside a small dish of the marinade for basting. Place chicken drumsticks into the bowl. Cover and refrigerate at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly oil the grill grate. Arrange drumsticks on the grill. Cook for 10 minutes per side, or until juices run clear. Baste frequently with the reserved sauce during the last 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "353 mg",
+    "sugarContent": "5 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "135"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UERQaEUjwqAkKNREFloJ6rmHd6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/259769-afcab561086b42b38417623b21dd23b6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20080/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

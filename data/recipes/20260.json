@@ -1,0 +1,86 @@
+{
+  "id": "20260",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20260/blueberry-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/20260/blueberry-salad/",
+  "title": "Blueberry Salad",
+  "description": "This blueberry salad recipe uses blueberry pie filling, crushed pineapple, and raspberry Jell-O topped with sweetened cream cheese for a cool dessert.",
+  "authors": [
+    "RAC70"
+  ],
+  "date_published": "2000-07-26T08:01:13-04:00",
+  "date_modified": "2025-12-29T08:15:03-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "15",
+    "1 (9x13-inch) dessert salad"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups hot water",
+    "2 (3 ounce) packages raspberry flavored Jell-O® mix",
+    "1 (21 ounce) can blueberry pie filling",
+    "1 (20 ounce) can crushed pineapple, drained",
+    "1 (8 ounce) package cream cheese",
+    "0.5 cup white sugar",
+    "1 cup sour cream",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine hot water and gelatin in a bowl; stir until gelatin dissolved. Stir in pie filling and pineapple. Pour mixture into a 9x13-inch dish; chill until firm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat cream cheese and sugar together in a bowl until fluffy; beat in sour cream and vanilla until combined. Spread over fruit-gelatin mixture. Chill until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "248 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "87 mg",
+    "sugarContent": "27 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "156"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3b-c9RDTMSY0RdeDgT9mqF4yNWI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/303657-3864404f45584c5ebcd195c3818438e3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20260/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

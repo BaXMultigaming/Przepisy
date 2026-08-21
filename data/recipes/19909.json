@@ -1,0 +1,96 @@
+{
+  "id": "19909",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19909/canadian-style-chop-suey/",
+  "requested_url": "https://www.allrecipes.com/recipe/19909/canadian-style-chop-suey/",
+  "title": "Canadian Style Chop Suey",
+  "description": "Macaroni, sausage, onion, bell pepper, mushrooms and stewed tomatoes make a hearty combination.",
+  "authors": [
+    "Jennifer Atherton"
+  ],
+  "date_published": "2000-07-28T13:43:40-04:00",
+  "date_modified": "2022-07-14T17:59:00-04:00",
+  "prep_time": null,
+  "cook_time": "PT20M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups elbow macaroni",
+    "1 onion, diced",
+    "1 green bell pepper, diced",
+    "1 pound ground Italian sausage",
+    "1 (4.5 ounce) can mushrooms, drained",
+    "1 (14 ounce) can stewed tomatoes"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In same pot, saute onion and bell pepper over medium heat until softened. Remove from pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In same pot, cook sausage over medium heat until brown. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine onion mixture, pasta, sausage, mushrooms and stewed tomatoes in same pot and heat through, 5 minutes. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "530 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1298 mg",
+    "sugarContent": "8 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fTRJ6yLrl-vswZyM2NRx9Ownles=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/619553-151484947ec64d5292cb9657b8a02a44.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19909/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

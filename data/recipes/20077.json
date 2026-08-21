@@ -1,0 +1,75 @@
+{
+  "id": "20077",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20077/venison-barbeque/",
+  "requested_url": "https://www.allrecipes.com/recipe/20077/venison-barbeque/",
+  "title": "Venison Barbeque",
+  "description": "Venison is great marinated in dressing - either steaks or chops",
+  "authors": [
+    "Kyle"
+  ],
+  "date_published": "2000-03-30T18:11:52-05:00",
+  "date_modified": "2022-07-14T17:38:44-04:00",
+  "prep_time": null,
+  "cook_time": "PT20M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "4 steaks"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) bottle Italian-style salad dressing",
+    "4 (1/2 pound) venison steaks"
+  ],
+  "steps": [
+    {
+      "text": "Marinate the venison meat over night in the Italian dressing. Flip over at least one time during the marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook meat on the grill over medium-high heat. Cook for 20 to 30 minutes or until done to your taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "297 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "97 mg",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "972 mg",
+    "sugarContent": "5 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7l3yt_5qaET7JCkY-IQILk1KsoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3587670-ccf213acfe7541af9cc7f32067f0c284.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20077/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

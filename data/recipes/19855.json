@@ -1,0 +1,81 @@
+{
+  "id": "19855",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19855/best-marinara/",
+  "requested_url": "https://www.allrecipes.com/recipe/19855/best-marinara/",
+  "title": "Best Marinara",
+  "description": "Tomatoes simmered with onion, celery, garlic, parsley basil and oregano. A quick and simple sauce.",
+  "authors": [
+    "Shannon"
+  ],
+  "date_published": "2000-07-26T00:33:51-04:00",
+  "date_modified": "2024-12-03T23:54:33-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "1 cup chopped onion",
+    "2 cloves garlic, minced",
+    "2 stalks celery, chopped",
+    "1.5 (28 ounce) cans crushed tomatoes",
+    "1 (6 ounce) can tomato paste",
+    "2 teaspoons dried parsley",
+    "1 teaspoon dried basil",
+    "1 teaspoon dried oregano",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in large skillet over medium heat. Stir in onion, garlic and celery and cook until soft. Pour in tomatoes and tomato paste, stir, reduce heat and simmer 5 minutes. Stir in parsley, basil, oregano, salt and pepper; simmer 15 minutes, uncovered. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "143 kcal",
+    "carbohydrateContent": "24 g",
+    "fiberContent": "6 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "494 mg",
+    "sugarContent": "5 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "79"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rxtZL1u3znbR7JlfCiZjVKRYyuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Best-Marinara-lutzflcat-2000-c32418d9ba754767819695fe5153e794.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/19855/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "20509",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20509/best-ever-party-appetizer/",
+  "requested_url": "https://www.allrecipes.com/recipe/20509/best-ever-party-appetizer/",
+  "title": "Best Ever Party Appetizer",
+  "description": "These little cheese bites are marinated overnight to bring out the full flavor of the spices.",
+  "authors": [
+    "J Coulson"
+  ],
+  "date_published": "2000-04-13T12:27:13-04:00",
+  "date_modified": "2025-12-02T15:03:07-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT380M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 ounces goat cheese",
+    "3 tablespoons olive oil",
+    "1 cup oil-packed sun-dried tomatoes, drained and diced",
+    "1 cup black olives, chopped",
+    "4 tablespoons chopped fresh basil",
+    "2 tablespoons chopped fresh rosemary",
+    "3 cloves garlic, halved"
+  ],
+  "steps": [
+    {
+      "text": "Slice goat cheese into one inch pieces and place in a single layer on a large platter. Sprinkle olive oil, sun-dried tomatoes, black olives, basil and rosemary over the cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Using toothpicks, insert the garlic cloves into the cheese throughout the mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Allow the mixture to marinate 6 hours, or overnight, in the refrigerator. Remove the toothpicks, and serve with sliced French bread.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/DajbSlcTXei7J-uxXs_DZtikXpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1025463-e6e8a3dd36f64391bb700ba7b91c20ae.jpg"
+      ],
+      "image": "assets/images/20509/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "202 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "329 mg",
+    "sugarContent": "1 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "259"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/VmYK667i-ma1DlVvV.mp4",
+    "description": "AR0671",
+    "duration": "PT4M23S",
+    "name": "Best Ever Party Appetizer",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/VmYK667i/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T01:50:45-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DajbSlcTXei7J-uxXs_DZtikXpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1025463-e6e8a3dd36f64391bb700ba7b91c20ae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20509/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/20509/step_03.webp"
+    ]
+  }
+}

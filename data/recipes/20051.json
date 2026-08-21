@@ -1,0 +1,70 @@
+{
+  "id": "20051",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20051/beef-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/20051/beef-dip/",
+  "title": "Beef Dip",
+  "description": "A cold cracker spread made with cream cheese, sharp processed cheese spread, thin sliced beef and onion.",
+  "authors": [
+    "Kris"
+  ],
+  "date_published": "2000-03-02T18:13:01-05:00",
+  "date_modified": "2022-08-22T14:41:18-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT485M",
+  "yield": [
+    "32",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "1 (5 ounce) container sharp processed cheese spread",
+    "1 (2.5 ounce) package smoked sliced beef",
+    "0.25 cup chopped onion"
+  ],
+  "steps": [
+    {
+      "text": "Combine cream cheese and processed cheese in medium bowl; mix until well blended. Chop beef in small pieces. Stir beef and onion into cheese mixture. Refrigerate overnight before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "41 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "12 mg",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "123 mg",
+    "sugarContent": "0 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0e_D8LzTg3MjERAlMQzcHo-LZKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1524006-c50be00c0e044060b94c0580864d8678.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20051/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

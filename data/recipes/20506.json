@@ -1,0 +1,71 @@
+{
+  "id": "20506",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20506/yummy-strawberry-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/20506/yummy-strawberry-shake/",
+  "title": "Yummy Strawberry Shake",
+  "description": "This strawberry shake is made with both fresh strawberries and strawberry ice cream, blended with milk, sugar and ice.",
+  "authors": [
+    "Jackie"
+  ],
+  "date_published": "2000-08-16T19:32:30-04:00",
+  "date_modified": "2022-07-14T18:03:10-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups strawberries, hulled",
+    "2 cups ice cubes",
+    "2 cups milk",
+    "4 cups strawberry ice cream",
+    "2 teaspoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a blender combine strawberries, ice, milk, ice cream and sugar. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "906 kcal",
+    "carbohydrateContent": "139 g",
+    "cholesterolContent": "106 mg",
+    "fiberContent": "14 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "345 mg",
+    "sugarContent": "102 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "63"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/J8eGpPe7BGD4zuv0nyOjFieGj1M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/editedYummyStrawberryShake-846499f6e51b40bb9ebbe9fe4a2933a8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20506/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

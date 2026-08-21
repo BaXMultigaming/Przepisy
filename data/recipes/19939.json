@@ -1,0 +1,89 @@
+{
+  "id": "19939",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19939/noodles-romanoff/",
+  "requested_url": "https://www.allrecipes.com/recipe/19939/noodles-romanoff/",
+  "title": "Noodles Romanoff",
+  "description": "Egg noodles cooked and stirred together with butter and a mixture of sour cream, Parmesan cheese, chives, salt and pepper. A creamy classic pasta dish.",
+  "authors": [
+    "Carolyn"
+  ],
+  "date_published": "1999-11-16T22:25:14-05:00",
+  "date_modified": "2022-08-08T11:39:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package egg noodles",
+    "2 cups sour cream",
+    "0.5 cup grated Parmesan cheese, divided",
+    "1 tablespoon chopped fresh chives",
+    "0.5 teaspoon salt",
+    "0.125 teaspoon ground black pepper",
+    "2 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add noodles and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While noodles are cooking, combine the sour cream, 1/4 cup cheese, chives, salt and pepper in a medium bowl. Mix together.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir butter into drained noodles, then stir in sour cream mixture. Place on a warm platter and sprinkle with remaining 1/4 cup cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "363 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "78 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "394 mg",
+    "sugarContent": "1 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8kUxeYgdHwI9t0HPiuvoit6Rgnc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/369308-65799465ab6541c0a4e9821fe372f7ad.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19939/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

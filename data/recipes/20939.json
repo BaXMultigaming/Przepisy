@@ -1,0 +1,72 @@
+{
+  "id": "20939",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20939/lightning-gravy/",
+  "requested_url": "https://www.allrecipes.com/recipe/20939/lightning-gravy/",
+  "title": "Lightning Gravy",
+  "description": "A simple microwave method for making gravy with bouillon, water and cornstarch. This recipe can also be prepared on the stovetop.",
+  "authors": [
+    "Denyse"
+  ],
+  "date_published": "2000-09-09T15:53:56-04:00",
+  "date_modified": "2022-07-14T16:29:24-04:00",
+  "prep_time": null,
+  "cook_time": "PT5M",
+  "total_time": "PT5M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups hot water",
+    "2 cubes chicken bouillon",
+    "2 tablespoons cornstarch",
+    "1 tablespoon cold water"
+  ],
+  "steps": [
+    {
+      "text": "In a microwave safe dish heat water and bouillon on high, stirring occasionally until just boiling.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl combine the cornstarch and cold water and mix together; stir into the hot broth and cook on medium for about 1 minute, or until thick, stirring at 30 second intervals.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "5 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "0 mg",
+    "proteinContent": "0 g",
+    "sodiumContent": "144 mg",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/v-adPQ2nZ4oq6MY_-PZHXFQL7s4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1036143-eec353d6c46345d8a18ac92602d77c56.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20939/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "20726",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20726/cucumber-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/20726/cucumber-salsa/",
+  "title": "Cucumber Salsa",
+  "description": "A cool, lightly spiced summertime delight. Muy refrescante! Try this salsa as a dip for breads and chips, or as a unique topping for Mexican style fare.",
+  "authors": [
+    "Traci Poole"
+  ],
+  "date_published": "2000-05-24T23:24:19-04:00",
+  "date_modified": "2022-07-14T18:09:56-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "48",
+    "3 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cucumbers - peeled, seeded and chopped",
+    "1 cup sour cream",
+    "1 cup plain yogurt",
+    "0.25 cup chopped fresh parsley",
+    "0.25 cup chopped fresh cilantro",
+    "1 teaspoon ground cumin",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine the cucumber, sour cream, yogurt, parsley, cilantro, cumin and salt. Mix well. Cover and refrigerate for 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "15 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "31 mg",
+    "sugarContent": "0 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IHX4TpFM47wY2Sh5f4N6cdG6vek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/246104-86b1c4c9d9ef4731920d6b21b2cd78c2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20726/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "20258",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20258/bananas-in-caramel-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/20258/bananas-in-caramel-sauce/",
+  "title": "Bananas in Caramel Sauce",
+  "description": "Bananas in caramel are quick and easy to make with homemade caramel sauce and sliced bananas; serve hot over ice cream for a scrumptious dessert!",
+  "authors": [
+    "Sarah Hand"
+  ],
+  "date_published": "2000-08-06T14:01:34-04:00",
+  "date_modified": "2026-07-23T14:05:26-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "1 cup superfine sugar",
+    "1.25 cups heavy cream",
+    "4 bananas, peeled and halved lengthwise"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large, heavy skillet over medium heat. Stir in sugar and cook, stirring, until sugar is melted and light brown. Slowly stir in the cream (mixture will bubble up).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let mixture boil for 1 minute, then reduce heat to low. Carefully add bananas to the pan and cook until just heated through, about 2 minutes. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "759 kcal",
+    "carbohydrateContent": "79 g",
+    "cholesterolContent": "163 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "32 g",
+    "sodiumContent": "193 mg",
+    "sugarContent": "65 g",
+    "fatContent": "51 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "104"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ICGdTzZNGJNtbhZ_h5pCEw45KEQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/253826-b94aed3aeae447b6b0043b6f4ba8a84f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20258/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

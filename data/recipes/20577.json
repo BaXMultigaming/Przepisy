@@ -1,0 +1,77 @@
+{
+  "id": "20577",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20577/wassail-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/20577/wassail-punch/",
+  "title": "Wassail Punch",
+  "description": "A spicy apple cider served hot in the winter months.",
+  "authors": [
+    "Bea Gassman"
+  ],
+  "date_published": "2000-06-13T23:44:09-04:00",
+  "date_modified": "2025-12-21T10:33:52-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT480M",
+  "total_time": "PT485M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts apple cider",
+    "2 cups orange juice",
+    "0.5 cup lemon juice",
+    "12 whole cloves",
+    "4 cinnamon sticks",
+    "1 pinch ground ginger",
+    "1 pinch ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "In a slow-cooker or a large pot over low heat, combine apple cider, orange juice and lemon juice. Season with cloves, ginger and nutmeg. Bring to a simmer. If using a slow cooker, allow to simmer all day. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "101 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "21 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "181"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IZrAYnHjYUJ4E3R7TMcSrmvwJSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7513361-59410c3d1a3a43098a2ef4e801703ee8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20577/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

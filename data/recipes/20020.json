@@ -1,0 +1,93 @@
+{
+  "id": "20020",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20020/american-frittata/",
+  "requested_url": "https://www.allrecipes.com/recipe/20020/american-frittata/",
+  "title": "American Frittata",
+  "description": "Potatoes, onions, ham and eggs make this a frittata that&#39;s sure to please everyone.",
+  "authors": [
+    "Jody Howell"
+  ],
+  "date_published": "2000-06-22T06:39:08-04:00",
+  "date_modified": "2025-01-24T16:16:28-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 potatoes, peeled and cubed",
+    "0.5 onions, sliced",
+    "1 tablespoon vegetable oil",
+    "8 eggs, beaten",
+    "0.75 cup cubed ham",
+    "salt and pepper to taste",
+    "0.75 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 5 minutes. Drain and set aside to cool. Meanwhile, preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a cast iron skillet, heat oil over medium heat. Add onions and cook slowly, stirring occasionally, until onions are soft.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in eggs, drained potatoes, ham, salt and pepper. Cook until eggs are firm on the bottom, about 5 minutes. Top frittata with shredded cheese and place in preheated oven until cheese is melted and eggs are completely firm, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "234 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "203 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "298 mg",
+    "sugarContent": "2 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "183"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/irdLzsdFx9Lbi-Ewgq7y8BK2nNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2392207-american-frittata-Scotdog-4x3-1-6ff33b2f69384f909fd91e9611f06393.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20020/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

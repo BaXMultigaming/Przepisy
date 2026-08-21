@@ -1,0 +1,107 @@
+{
+  "id": "20177",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20177/todds-famous-blueberry-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/20177/todds-famous-blueberry-pancakes/",
+  "title": "Todd&#39;s Famous Blueberry Pancakes",
+  "description": "These fluffy blueberry pancakes are simple, delicious, and bursting with juicy blueberries. Drizzle with maple syrup for a family-pleasing breakfast!",
+  "authors": [
+    "Alison"
+  ],
+  "date_published": "2000-05-21T09:51:34-04:00",
+  "date_modified": "2025-10-28T13:01:01-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "12 pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1.25 cups all-purpose flour",
+    "1 tablespoon baking powder",
+    "1.25 teaspoons white sugar",
+    "0.5 teaspoon salt",
+    "1 cup milk",
+    "1 egg",
+    "0.5 tablespoon butter, melted",
+    "0.5 cup frozen blueberries, thawed"
+  ],
+  "steps": [
+    {
+      "text": "Sift flour, baking powder, sugar, and salt together in a large bowl. Combine milk and egg in a small bowl. Stir egg mixture into flour mixture until just combined. Stir in melted butter, then fold in blueberries. For best results, set the batter aside for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle or nonstick frying pan over medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour or scoop the batter onto the hot griddle, using approximately 1/4 cup for each pancake; cook until bubbles appear on the surface, then flip and cook until golden brown on both sides. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ecb0XKvcrE7OyxBLX3OVEd30TbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/686460-todds-famous-blueberry-pancakes-Dianne-1x1-1-9bd040b975634bce884847ce2090de16.jpg"
+      ],
+      "image": "assets/images/20177/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "146 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "397 mg",
+    "sugarContent": "4 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1326"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Iey5GmTt-K3AjnAEN.mp4",
+    "description": "AR_MAY_0008",
+    "duration": "PT1M40S",
+    "name": "Todd's Blueberry Pancakes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Iey5GmTt/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T04:01:36-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ecb0XKvcrE7OyxBLX3OVEd30TbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/686460-todds-famous-blueberry-pancakes-Dianne-1x1-1-9bd040b975634bce884847ce2090de16.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20177/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/20177/step_03.webp"
+    ]
+  }
+}

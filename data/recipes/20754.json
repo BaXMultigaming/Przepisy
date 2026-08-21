@@ -1,0 +1,79 @@
+{
+  "id": "20754",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20754/hot-chocolate/",
+  "requested_url": "https://www.allrecipes.com/recipe/20754/hot-chocolate/",
+  "title": "Hot Chocolate",
+  "description": "A blend of milk, chocolate, sugar, cinnamon and egg make a simple, sweet hot chocolate.",
+  "authors": [
+    "Steph"
+  ],
+  "date_published": "2000-06-26T00:46:33-04:00",
+  "date_modified": "2022-07-14T17:54:59-04:00",
+  "prep_time": "PT3M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups milk",
+    "0.33300000429153 cup semisweet chocolate, grated",
+    "1 tablespoon white sugar",
+    "0.5 teaspoon ground cinnamon",
+    "1 egg"
+  ],
+  "steps": [
+    {
+      "text": "Put milk into a microwave-safe container and cook on High in microwave for 2 minutes. Mix in chocolate, sugar, and cinnamon. In a small bowl, whisk an egg until smooth, then mix it into the chocolate mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return to microwave and cook on High for 3 to 4 minutes or until foamy (be careful not to let it boil.) Whisk until smooth and pour into 3 mugs. Garnish with a sprinkle of cinnamon if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "82 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "123 mg",
+    "sugarContent": "25 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "141"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/__Pcb_Yug-tw1YHIWozs6hyVmOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6427172-fbadca1b96a34993b7e3919eab8a6270.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20754/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

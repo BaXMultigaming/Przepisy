@@ -1,0 +1,73 @@
+{
+  "id": "19901",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19901/orange-pineapple-ice/",
+  "requested_url": "https://www.allrecipes.com/recipe/19901/orange-pineapple-ice/",
+  "title": "Orange-Pineapple Ice",
+  "description": "Combine condensed milk, crushed pineapple, and orange soda — pop it in the ice cream maker, and out comes a deliciously refreshing frozen dessert!",
+  "authors": [
+    "Donean"
+  ],
+  "date_published": "2000-05-29T17:44:51-04:00",
+  "date_modified": "2026-07-22T15:51:24-04:00",
+  "prep_time": "PT45M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "32",
+    "4 quarts"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 (8 ounce) can crushed pineapple",
+    "1 gallon orange soda"
+  ],
+  "steps": [
+    {
+      "text": "Combine condensed milk, pineapple, and orange soda in the freezer canister of an ice cream maker. Freeze according to manufacturer’s directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "31 mg",
+    "sugarContent": "8 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HV-ub51zXUGX-fJYaK7oF0NATCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1071002-96d63918155849afa228c83f18bd6fb6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19901/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

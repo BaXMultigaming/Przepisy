@@ -1,0 +1,104 @@
+{
+  "id": "20675",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20675/rempel-family-meatloaf/",
+  "requested_url": "https://www.allrecipes.com/recipe/20675/rempel-family-meatloaf/",
+  "title": "Rempel Family Meatloaf",
+  "description": "Meatloaf with cheese, onion soup mix, steak sauce and crushed buttery round crackers.",
+  "authors": [
+    "Connie Levesque"
+  ],
+  "date_published": "2000-07-20T20:01:36-04:00",
+  "date_modified": "2026-04-28T13:59:24-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT45M",
+  "total_time": "PT55M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds lean ground beef",
+    "0.5 cup crushed buttery round crackers",
+    "0.75 cup shredded Cheddar cheese",
+    "1 (1 ounce) package dry onion soup mix",
+    "2 eggs, beaten",
+    "0.25 cup ketchup",
+    "2 tablespoons steak sauce"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir the ground beef, crushed crackers, Cheddar cheese, and onion soup mix in a large bowl until well combined. Whisk the eggs, ketchup, and steak sauce in a separate bowl until smooth. Mix the eggs into the meat until evenly combined, if the mixture seems too dry, add a little water. Press into a 9x5 inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until the meatloaf reaches 160 degrees F (71 degrees C) and is no longer pink in the center, 45 to 60 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MOsSylu2P1VGSvk6RMZq0eWhCDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32473-acdeb3b92ddb4926b68a2a1f429f721f.jpg"
+      ],
+      "image": "assets/images/20675/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "360 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "143 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "803 mg",
+    "sugarContent": "3 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "3265"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/wVfsXAAc-ma1DlVvV.mp4",
+    "description": "AR1159",
+    "duration": "PT2M21S",
+    "name": "Rempel Family Meatloaf",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wVfsXAAc/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T09:42:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MOsSylu2P1VGSvk6RMZq0eWhCDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32473-acdeb3b92ddb4926b68a2a1f429f721f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20675/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/20675/step_03.webp"
+    ]
+  }
+}

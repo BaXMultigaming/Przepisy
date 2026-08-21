@@ -1,0 +1,82 @@
+{
+  "id": "20305",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20305/portuguese-sweet-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/20305/portuguese-sweet-rice/",
+  "title": "Portuguese Sweet Rice",
+  "description": "Stovetop rice pudding with eggs added at the very end for a rich texture.",
+  "authors": [
+    "John J Pacheco"
+  ],
+  "date_published": "2000-05-01T23:45:16-04:00",
+  "date_modified": "2026-06-04T15:40:23-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT60M",
+  "total_time": "PT65M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Portuguese"
+  ],
+  "regions": [
+    "Portuguese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 quarts milk",
+    "1 cup uncooked white rice",
+    "1 cup white sugar",
+    "2 eggs, beaten"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan over high heat combine sugar and milk. When bubbles form at the edges, stir in rice and reduce heat to medium-low. Cook 60 minutes, stirring often, until rice is tender. Do not allow to boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat and vigorously stir in beaten eggs, a little at a time, until well incorporated. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "296 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "93 mg",
+    "sugarContent": "34 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZNn2-ilgxMhcmDnMP7Jo1dI2vCI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5615681-a4dcfa9a42f64e30b0136ae8eb50fb43.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20305/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

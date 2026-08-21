@@ -1,0 +1,79 @@
+{
+  "id": "20762",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20762/california-coleslaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/20762/california-coleslaw/",
+  "title": "California Coleslaw",
+  "description": "A sweet summer slaw filled with fresh vegetables. It tastes better the second day after the vegetables have soaked in the marinade.",
+  "authors": [
+    "Alex"
+  ],
+  "date_published": "2000-08-31T17:33:28-04:00",
+  "date_modified": "2026-06-05T15:20:41-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 cups"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 small head cabbage, shredded",
+    "1 small white onion, chopped",
+    "1 green bell pepper, chopped",
+    "1 red bell pepper, chopped",
+    "1 small carrot, shredded",
+    "0.5 cup cider vinegar",
+    "3 tablespoons white sugar",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon freshly ground black pepper",
+    "0.5 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "In a large salad bowl, place the cabbage, onion, green bell pepper, red bell pepper and carrot. Combine the vinegar, sugar, salt, pepper and vegetable oil in the bowl with the vegetables. Toss the mixture until the vegetables are fully coated with the marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "237 kcal",
+    "carbohydrateContent": "17 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "224 mg",
+    "sugarContent": "12 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "248"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CxSjLZx6vHjrrBUTfYC_gbqMk3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/883272-california-coleslaw-Valerie-Brunmeier-4x3-1-1c8b9502540e42dfbefe372b07a55891.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20762/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

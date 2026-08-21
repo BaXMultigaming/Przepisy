@@ -1,0 +1,80 @@
+{
+  "id": "19907",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19907/awesome-bow-tie-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/19907/awesome-bow-tie-pasta/",
+  "title": "Awesome Bow Tie Pasta",
+  "description": "Bow tie pasta tossed with feta, tomato and green onions in a balsamic vinaigrette.",
+  "authors": [
+    "Kim Samuels"
+  ],
+  "date_published": "2000-04-21T19:18:15-04:00",
+  "date_modified": "2022-08-08T11:41:41-04:00",
+  "prep_time": "PT7M",
+  "cook_time": "PT8M",
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package bow tie pasta",
+    "2 green onions, chopped",
+    "1 (6 ounce) package feta cheese, crumbled",
+    "0.5 cup balsamic vinegar",
+    "0.25 cup extra virgin olive oil",
+    "2 cups chopped fresh tomato"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and place in ice water until cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss pasta with onion, feta, balsamic, olive oil and tomato. Serve immediately or chill 1 to 2 hours in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "338 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "244 mg",
+    "sugarContent": "6 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "228"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1AfMgoM9Bl3X4MLpeA2anTL_zKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/484220-34778a31b88b4e28a273403b799b2663.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19907/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

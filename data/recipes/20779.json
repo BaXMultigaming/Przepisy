@@ -1,0 +1,94 @@
+{
+  "id": "20779",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20779/chicken-adobo-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/20779/chicken-adobo-i/",
+  "title": "Chicken Adobo I",
+  "description": "A whole chicken cut into pieces and simmered with a soy-vinegar sauce until infused with flavor.",
+  "authors": [
+    "roguejoker"
+  ],
+  "date_published": "2000-08-11T16:04:45-04:00",
+  "date_modified": "2019-04-03T23:26:35-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Filipino"
+  ],
+  "regions": [
+    "Filipino"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "1 cup distilled white vinegar",
+    "4 tablespoons soy sauce",
+    "1 teaspoon whole peppercorns",
+    "4 cloves garlic, crushed",
+    "2 tablespoons salt, or to taste",
+    "1 (2 to 3 pound) whole chicken, cut into pieces",
+    "2 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot, combine the water, vinegar, soy sauce, peppercorns, garlic and salt. Mix together, add chicken pieces and simmer over low heat (uncovered) until chicken is cooked through and tender (25 to 35 minutes).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove chicken from pot and brown in oil in a large skillet over medium high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return chicken, with oil/juices, back to pot with reserved sauce. Cover and simmer over medium heat until sauce reaches desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "340 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "100 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "3600 mg",
+    "sugarContent": "0 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DhAle31_BlfNld5Z06Fx2XOxYzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/396607-3fa61e6b1bc94e9abfe5fc9ea39d1a96.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20779/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

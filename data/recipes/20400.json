@@ -1,0 +1,83 @@
+{
+  "id": "20400",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20400/orange-glorious-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/20400/orange-glorious-i/",
+  "title": "Orange Glorious I",
+  "description": "Milk, o.j., vanilla, sugar, water and ice...make an Orange Glorious combination.",
+  "authors": [
+    "Brooke Greene"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:03:03-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1 cup ice water",
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "12 cubes ice",
+    "0.25 teaspoon vanilla extract",
+    "0.125 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a blender combine milk, water, orange juice concentrate, ice cubes, vanilla and sugar. Blend until smooth. Pour into three 12 oz glasses and enjoy with a straw.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/VCVR60w9Zg9qK1Rjg54BE8esCoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/367525-070728035aca47ab825473667cc86199.jpg"
+      ],
+      "image": "assets/images/20400/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "187 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "40 mg",
+    "sugarContent": "39 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "360"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/L8fgi3py-K3AjnAEN.mp4",
+    "description": "In this video, you'll see how easy it is to make that classic orange smoothie right at home. With flavors similar to an orange creamsicle, you'll want this recipe in your back pocket.",
+    "duration": "PT56S",
+    "name": "Orange Glorious I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/L8fgi3py/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:38:40-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VCVR60w9Zg9qK1Rjg54BE8esCoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/367525-070728035aca47ab825473667cc86199.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20400/hero.webp",
+    "steps": [
+      "assets/images/20400/step_01.webp"
+    ]
+  }
+}

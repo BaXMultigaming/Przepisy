@@ -1,0 +1,86 @@
+{
+  "id": "20041",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20041/baked-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/20041/baked-eggs/",
+  "title": "Baked Eggs",
+  "description": "Serve with toast and fresh fruit and you have a first-class brunch meal.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-08-01T00:12:24-04:00",
+  "date_modified": "2022-01-14T01:25:36-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup shredded Cheddar cheese",
+    "12 eggs",
+    "1 (5 ounce) can evaporated milk",
+    "1 teaspoon ground dry mustard",
+    "1 to taste salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 325 degrees F (165 degrees C). Lightly grease a 9x13-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle cheese evenly in the bottom of the baking dish. In a large bowl, beat together eggs, milk, mustard powder, salt and pepper. Pour egg mixture on top of cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 40 minutes or until firm. Let cool slightly before cutting into squares to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "253 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "399 mg",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "372 mg",
+    "sugarContent": "3 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "67"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/e3Zn8ZK-8c7GC6Xsa4Vo5WQCa1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6336393-d84032d9019348cebc2c338a28c09f46.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20041/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

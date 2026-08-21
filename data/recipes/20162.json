@@ -1,0 +1,70 @@
+{
+  "id": "20162",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20162/orange-cream-milk-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/20162/orange-cream-milk-punch/",
+  "title": "Orange Cream Milk Punch",
+  "description": "Orange sherbet and vanilla ice cream float in a bowl of carbonated milk.",
+  "authors": [
+    "Bea Gassman"
+  ],
+  "date_published": "2000-07-22T21:47:02-04:00",
+  "date_modified": "2022-09-27T19:01:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 quart vanilla ice cream",
+    "2 pints orange sherbet",
+    "1 (16 ounce) can lemon-lime flavored carbonated beverage",
+    "1 quart cold milk"
+  ],
+  "steps": [
+    {
+      "text": "Place the ice cream and sherbet in a punch bowl. Pour in the milk and lemon-lime soda. Stir gently and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "73 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "37 mg",
+    "sugarContent": "7 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BljrDIgpxQMV5U11-75viUEX57I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/859544-e405296f02be4cab9225f709932c9d5e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20162/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "20612",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20612/mango-topping/",
+  "requested_url": "https://www.allrecipes.com/recipe/20612/mango-topping/",
+  "title": "Mango Topping",
+  "description": "Use ripe, sweet mangoes to make this warm topping.",
+  "authors": [
+    "Rossana"
+  ],
+  "date_published": "2000-07-03T17:46:42-04:00",
+  "date_modified": "2022-08-08T10:45:42-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "3 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups mangos, peeled, seeded and chopped",
+    "1 tablespoon butter",
+    "1 tablespoon brown sugar",
+    "1 teaspoon lemon juice",
+    "1 teaspoon orange juice",
+    "3 tablespoons water"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan over medium heat, combine the mangoes, butter, brown sugar, lemon juice, orange juice, and water. Stir until the mixture thickens. Remove from heat and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "120 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "24 mg",
+    "sugarContent": "22 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5SPNDUjRNxx08Ni0YO8YrZ4aTmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5825972-6046cd825c724d32ade19b2512931927.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20612/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "20069",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20069/sauerbraten-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/20069/sauerbraten-iii/",
+  "title": "Sauerbraten III",
+  "description": "Bottom round is marinated in red wine vinegar spiced with cloves for two days, then browned and braised for three hours for a tender, tangy meal.",
+  "authors": [
+    "DORINNC"
+  ],
+  "date_published": "2000-05-22T17:42:19-04:00",
+  "date_modified": "2022-07-14T16:13:52-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT180M",
+  "total_time": "PT3080M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds bottom round roast",
+    "1 cup red wine vinegar",
+    "1 cup water",
+    "2 tablespoons lemon juice",
+    "1 onion, thinly sliced",
+    "2 bay leaves",
+    "3 whole cloves",
+    "2 tablespoons salt",
+    "0.125 teaspoon ground black pepper",
+    "4 tablespoons vegetable oil",
+    "1 cup water",
+    "3 tablespoons all-purpose flour",
+    "1 tomato, cut into wedges"
+  ],
+  "steps": [
+    {
+      "text": "Place meat in large, non-metal bowl. In separate bowl, combine red wine vinegar, 1 cup water, lemon juice, onion, bay leaves, cloves, salt and pepper. Pour over meat. Cover and refrigerate 48 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in Dutch oven over medium-high heat. Remove meat from marinade and brown in oil on all sides, 1 to 2 minutes a side. Remove bay leaves and cloves from marinade. Pour in 1 cup water and pour marinade into pan with meat. Reduce heat to low, cover and simmer 3 hours, or until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove meat from pan. Increase heat and sprinkle flour, a little at a time, over juices, cooking until mixture thickens to form gravy. Return meat to pan with tomato wedges, heat through and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "355 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "98 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "2465 mg",
+    "sugarContent": "1 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Kb7jzVxCLxQ2_GE5_1puO8R_6bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5920180-ea2d8ceabca84838b8c9f5e0059adf83.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20069/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "20599",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20599/onion-salmon/",
+  "requested_url": "https://www.allrecipes.com/recipe/20599/onion-salmon/",
+  "title": "Onion Salmon",
+  "description": "Barbecued salmon with onion rings and pepper.",
+  "authors": [
+    "Dylan Fitterer"
+  ],
+  "date_published": "2000-06-26T22:07:23-04:00",
+  "date_modified": "2025-01-29T16:15:38-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "1 filet"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound salmon fillet",
+    "1 onion, sliced into rings",
+    "freshly ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the salmon on a large sheet of aluminum foil. Place the onion rings on top of the filet. Pepper to taste. Wrap the foil around the salmon, but don't seal the top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the salmon (still in foil) onto a preheated grill and cover. Cook for 15 minutes or until salmon flakes easily with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "67 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "68 mg",
+    "sugarContent": "1 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XEOcR7DQ62OmOY0bu2rGT96ylsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8292755-08124210b22c4b9db57b4fd8e67deff2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20599/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

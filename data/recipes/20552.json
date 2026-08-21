@@ -1,0 +1,90 @@
+{
+  "id": "20552",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20552/luau-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/20552/luau-punch/",
+  "title": "Luau Punch",
+  "description": "Luau punch is a non-alcoholic, fruity Hawaiian drink with pineapple and orange juices and citrus soda for a tropical taste. Perfect for summer parties!",
+  "authors": [
+    "CINDYRN"
+  ],
+  "date_published": "2000-07-25T09:36:32-04:00",
+  "date_modified": "2026-03-14T12:21:47-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "regions": [
+    "Hawaiian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (46 fluid ounce) can pineapple juice",
+    "1 (6 ounce) can frozen orange juice concentrate, thawed",
+    "2 liters lemon-lime flavored carbonated beverage"
+  ],
+  "steps": [
+    {
+      "text": "Pour pineapple juice and orange juice concentrate into an empty gallon milk jug or pitcher; shake to mix. Pour in lemon-lime soda. You may need to let the fizz settle and then return to pouring. Leave some room at the top of the gallon pitcher to allow for expansion as it freezes. Freeze for 8 to 10 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let the punch start to thaw 2 to 3 hours before serving. Serve slushy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/K9ACmPEId8V18AVxRKSdnrqhi_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23943-uau-punch-Linda-Singleton-1x1-1-8617bc7eaa7b47d9ae19958f287b91d8.jpg"
+      ],
+      "image": "assets/images/20552/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "carbohydrateContent": "45 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "24 mg",
+    "sugarContent": "22 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "85"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/8B32VtXl-K3AjnAEN.mp4",
+    "description": "Hosting a Hawaiian tiki party? In this video, we'll show you how to make a refreshing, 3-ingredient luau punch that you'll want to serve. Pineapple juice and orange juice concentrate are stirred up with lemon-lime soda and then this concoction is placed in the freezer overnight. Let it thaw right before the party and this slushy drink is ready to serve. ",
+    "duration": "PT55S",
+    "name": "Luau Punch",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/8B32VtXl/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:38:20-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/K9ACmPEId8V18AVxRKSdnrqhi_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23943-uau-punch-Linda-Singleton-1x1-1-8617bc7eaa7b47d9ae19958f287b91d8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20552/hero.webp",
+    "steps": [
+      null,
+      "assets/images/20552/step_02.webp"
+    ]
+  }
+}

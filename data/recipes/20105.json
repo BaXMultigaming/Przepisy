@@ -1,0 +1,85 @@
+{
+  "id": "20105",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20105/karens-salmon-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/20105/karens-salmon-salad/",
+  "title": "Karen&#39;s Salmon Salad",
+  "description": "A cold pasta salad with tomato, green onion, pickles and salmon in a light mayonnaise dressing.",
+  "authors": [
+    "KAREN325"
+  ],
+  "date_published": "2000-05-03T12:08:34-04:00",
+  "date_modified": "2025-04-04T11:13:35-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package elbow macaroni",
+    "2 ripe tomatoes, diced",
+    "4 green onions, chopped",
+    "2 dill pickles, diced",
+    "1 (14.75 ounce) can salmon, drained",
+    "0.5 cup mayonnaise",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When pasta has come to room temperature, combine it with tomatoes, green onions, pickles, salmon, mayonnaise, salt and pepper in a large bowl and mix well. Chill before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "417 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "476 mg",
+    "sugarContent": "2 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XSaRxKJBC72CJALOT1AplQrlCxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1966662-d09774e637a946a5bd6264b8f566ff64.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20105/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

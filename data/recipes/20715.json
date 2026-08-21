@@ -1,0 +1,83 @@
+{
+  "id": "20715",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20715/chicken-cheese-ball/",
+  "requested_url": "https://www.allrecipes.com/recipe/20715/chicken-cheese-ball/",
+  "title": "Chicken Cheese Ball",
+  "description": "The easiest and tastiest cheese ball you have ever tried. It is made using cream cheese and canned chicken!",
+  "authors": [
+    "Laura B."
+  ],
+  "date_published": "2000-08-28T16:20:24-04:00",
+  "date_modified": "2026-05-20T14:00:41-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "15",
+    "3 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (8 ounce) packages cream cheese, softened",
+    "1 (1 ounce) package ranch dressing mix",
+    "1 (5 ounce) can chunk chicken, drained",
+    "0.5 cup chopped pecans"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine cream cheese, ranch dressing mix and chicken. Form the mixture into a ball.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "On a cutting board or a piece of wax paper, spread the chopped pecans. Roll the ball in the pecans until it is fully coated. Wrap the ball in plastic and chill for at least one hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "267 mg",
+    "sugarContent": "0 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "98"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SkQ7FMWSi9i4MZmBNWi8tLb7lsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4588601-3387689cba5f4783b09687201e0ca414.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20715/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

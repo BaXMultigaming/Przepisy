@@ -1,0 +1,77 @@
+{
+  "id": "20610",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20610/apple-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/20610/apple-banana-smoothie/",
+  "title": "Apple Banana Smoothie",
+  "description": "This apple and banana smoothie recipe is simple to make in a blender with an apple, a frozen banana, OJ, and milk for a refreshingly creamy beverage.",
+  "authors": [
+    "Jim Wohlgemuth"
+  ],
+  "date_published": "2000-07-18T17:17:41-04:00",
+  "date_modified": "2025-12-04T17:39:01-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 Gala apple, peeled, cored and chopped",
+    "1 frozen bananas, peeled and chopped",
+    "0.5 cup orange juice",
+    "0.25 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Combine apple, banana, orange juice, and milk in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/pzn8euFqTXRHNSCMocJeC6tyWLA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-20610-apple-banana-smoothie-ddmfs-step3-3x4-13237-45652951afd148358c26e4de4aff320d.jpg"
+      ],
+      "image": "assets/images/20610/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "23 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "144"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MAIoWT979LQHzjevGA6AHMQaSEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-20610-apple-banana-smoothie-ddmfs-step4-3x4-13278-f8660e64c8704d06b02e8215bf9afeb9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20610/hero.webp",
+    "steps": [
+      "assets/images/20610/step_01.webp"
+    ]
+  }
+}

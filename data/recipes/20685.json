@@ -1,0 +1,72 @@
+{
+  "id": "20685",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20685/banana-blast-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/20685/banana-blast-i/",
+  "title": "Banana Blast I",
+  "description": "Banana, nutmeg, vanilla milk and crushed ice blended into a smooth ride of a drink.",
+  "authors": [
+    "Anonymous"
+  ],
+  "date_published": "2000-07-28T00:43:32-04:00",
+  "date_modified": "2022-07-14T16:04:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1 pinch ground nutmeg",
+    "0.5 teaspoon vanilla extract",
+    "1 cup milk",
+    "2 cups crushed ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender combine banana, nutmeg, vanilla, milk and crushed ice. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "51 mg",
+    "sugarContent": "13 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4uE3nhEisRNKwkcdhdXfMaSWtPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/839913-2788593eda554dc7aeecb85b80db03d4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20685/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

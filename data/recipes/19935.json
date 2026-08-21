@@ -1,0 +1,81 @@
+{
+  "id": "19935",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19935/claremont-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/19935/claremont-salad/",
+  "title": "Claremont Salad",
+  "description": "An easy, delicious, healthy salad recipe. Cabbage, cucumber, carrots and onion marinated in vinaigrette. Makes a great dish for a picnic or potluck.",
+  "authors": [
+    "Rebecca"
+  ],
+  "date_published": "2000-07-17T14:22:25-04:00",
+  "date_modified": "2023-02-03T18:59:30-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT740M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 medium head cabbage, shredded",
+    "2 cucumbers, thinly sliced",
+    "3 carrots, thinly sliced",
+    "1 Bermuda onion, thinly sliced",
+    "0.75 cup distilled white vinegar",
+    "0.75 cup white sugar",
+    "0.5 cup vegetable oil",
+    "4 tablespoons water",
+    "3 teaspoons salt"
+  ],
+  "steps": [
+    {
+      "text": "Combine cabbage, cucumbers, carrots, and onion in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk together vinegar, sugar, oil, water, and salt in a small bowl. Pour over the cabbage mixture, toss to coat, and refrigerate for at least 12 hours. Drain excess liquid before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "325 kcal",
+    "carbohydrateContent": "40 g",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1213 mg",
+    "sugarContent": "32 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/m9bCmm6oXyKzKa6G03l2vSDvZO8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3764453-claremont-salad-Jim-Hixenbaugh-4x3-1-e036bc125d8745e99c308d5d50f5e204.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19935/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "20242",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20242/tzatziki-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/20242/tzatziki-sauce/",
+  "title": "Tzatziki Sauce",
+  "description": "This easy tzatziki sauce recipe is rich, creamy, and tangy. Thanks to cucumber, dill, and garlic, it adds fresh Greek flavor to any meal. Serve with gyros, fries, grilled meats, pita bread -- the sky&#39;s the limit!",
+  "authors": [
+    "Dinah"
+  ],
+  "date_published": "2000-08-05T20:50:28-04:00",
+  "date_modified": "2026-04-17T09:06:51-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 medium cucumbers",
+    "1 (16 ounce) container plain Greek yogurt",
+    "3 cloves garlic, minced",
+    "2 tablespoons olive oil",
+    "1 tablespoon chopped fresh dill",
+    "0.5 medium lemon, juiced",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Peel cucumbers; remove seeds with a spoon. Grate cucumber on the large holes of a box grater, then squeeze to drain excess liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a food processor combine the grated cucumber with Greek yogurt, garlic, olive oil, dill, lemon juice, salt, and pepper. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve immediately or for best flavor cover and refrigerate for at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/xWPLxr-zI_VqbjoY1GmtPwi46mM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20242-tzatziki-sauce-DDMFS-4x3-70d89ee85fb544d1a41344c0836aa36d.jpg"
+      ],
+      "image": "assets/images/20242/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "75 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "42 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "662"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ZTOKpNY2-ma1DlVvV.mp4",
+    "description": "AR0257",
+    "duration": "PT2M4S",
+    "name": "Tzatziki Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ZTOKpNY2/poster.jpg?width=1280",
+    "uploadDate": "2021-06-26T11:26:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xWPLxr-zI_VqbjoY1GmtPwi46mM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20242-tzatziki-sauce-DDMFS-4x3-70d89ee85fb544d1a41344c0836aa36d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20242/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/20242/step_03.webp"
+    ]
+  }
+}

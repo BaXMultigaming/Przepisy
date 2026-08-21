@@ -1,0 +1,82 @@
+{
+  "id": "20816",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20816/delicious-healthy-strawberry-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/20816/delicious-healthy-strawberry-shake/",
+  "title": "Delicious Strawberry Shake",
+  "description": "This easy strawberry shake is a simply blend strawberries with milk, honey, and vanilla for a refreshing summer drink just like mom used to make.",
+  "authors": [
+    "MRSLISSA"
+  ],
+  "date_published": "2000-06-23T17:02:16-04:00",
+  "date_modified": "2026-03-31T10:22:45-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "1 cup frozen strawberries",
+    "1 tablespoon honey",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, frozen strawberries, honey, and vanilla in a blender. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "186 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "102 mg",
+    "sugarContent": "24 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "135"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3JB5nGgpQciN2JcQpkYcGMUQlPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Delicious-Healthy-Strawberry-Shake-Yoly-2000-7a3028d448b743ffaa7a378a53cf6376.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20816/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

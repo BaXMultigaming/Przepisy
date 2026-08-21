@@ -1,0 +1,109 @@
+{
+  "id": "20915",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20915/eggs-benedict-with-salmon/",
+  "requested_url": "https://www.allrecipes.com/recipe/20915/eggs-benedict-with-salmon/",
+  "title": "Eggs Benedict with Salmon",
+  "description": "Eggs Benedict with a twist! This smoked salmon Benedict features a delicate yogurt and lemon sauce that perfectly complements savory smoked salmon.",
+  "authors": [
+    "dakota kelly"
+  ],
+  "date_published": "2000-07-27T15:55:37-04:00",
+  "date_modified": "2026-05-13T14:35:17-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT20M",
+  "total_time": "PT60M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup plain low-fat yogurt",
+    "2 teaspoons lemon juice",
+    "3 egg yolks",
+    "0.5 teaspoon prepared Dijon-style mustard",
+    "0.25 teaspoon salt",
+    "0.25 teaspoon white sugar",
+    "1 pinch ground black pepper",
+    "1 dash hot pepper sauce",
+    "8 eggs",
+    "8 slices rye bread",
+    "8 ounces smoked salmon, cut into thin slices",
+    "1 tablespoon chopped fresh parsley, for garnish",
+    "1 teaspoon capers, for garnish"
+  ],
+  "steps": [
+    {
+      "text": "To make the sauce: In the top of a double boiler, whisk together yogurt, lemon juice, egg yolks, mustard, salt, sugar, pepper, and hot sauce. Cook over simmering water, stirring constantly, 6 to 8 minutes, or until sauce is thick enough to coat the back of the spoon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large stock pot, heat 2 quarts of salted water to a boil. Carefully break eggs one at a time into boiling water. When all eggs have been added, reduce the heat to medium. When eggs float to the top, remove them with a slotted spoon and let drain briefly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To assemble final dish: Toast bread slices and place on warm plates. Top each piece of toast with a slice of smoked salmon and a hot poached egg. Drizzle with yogurt sauce; garnish with parsley and capers.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/OuFVvgsQ-UE9mXibiizrgKSZbdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9317593-eggs-benedict-with-salmon-Relyn-Corbo-Lazaro-1x1-1-0ffa7c29e3c64e2ea8068c5f798e9748.jpg"
+      ],
+      "image": "assets/images/20915/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "223 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "271 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "617 mg",
+    "sugarContent": "3 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "61"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/HZ26djq0-ma1DlVvV.mp4",
+    "description": "AR_APR_0016",
+    "duration": "PT2M13S",
+    "name": "Eggs Benedict with Salmon",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/HZ26djq0/poster.jpg?width=1280",
+    "uploadDate": "2021-07-25T10:39:14-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OuFVvgsQ-UE9mXibiizrgKSZbdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9317593-eggs-benedict-with-salmon-Relyn-Corbo-Lazaro-1x1-1-0ffa7c29e3c64e2ea8068c5f798e9748.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20915/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/20915/step_03.webp"
+    ]
+  }
+}

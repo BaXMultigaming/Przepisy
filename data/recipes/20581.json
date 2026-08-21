@@ -1,0 +1,81 @@
+{
+  "id": "20581",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20581/broiled-reuben-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/20581/broiled-reuben-sandwich/",
+  "title": "Broiled Reuben Sandwich",
+  "description": "Rye bread filled with sauerkraut, Swiss cheese and corned beef, smothered with a zesty sauce and broiled until golden.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-08-19T20:56:10-04:00",
+  "date_modified": "2022-08-15T13:21:53-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT2M",
+  "total_time": "PT17M",
+  "yield": [
+    "4",
+    "4 sandwiches"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon chili sauce",
+    "0.33333334326744 cup mayonnaise",
+    "0.25 cup butter, softened",
+    "8 slices rye bread",
+    "0.5 pound thinly sliced corned beef",
+    "0.5 pound sliced Swiss cheese",
+    "1 pound sauerkraut"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven broiler.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix chili sauce and mayonnaise until smooth. Spread mayonnaise mixture and butter on bread slices. Layer corned beef, Swiss and sauerkraut on 4 slices and top with remaining slices. Place on baking sheet under preheated broiler and broil until browned, turning once, 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "738 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "128 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "22 g",
+    "sodiumContent": "1977 mg",
+    "sugarContent": "6 g",
+    "fatContent": "52 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SSzqgDCgRw5bGoIzdosHoyiwJM8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/464895-0a21b3b900534554a6a5e66339d3a409.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20581/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

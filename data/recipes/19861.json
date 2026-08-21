@@ -1,0 +1,82 @@
+{
+  "id": "19861",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19861/butter-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/19861/butter-potatoes/",
+  "title": "Butter Potatoes",
+  "description": "Buttery potatoes great for campfires.",
+  "authors": [
+    "Harold"
+  ],
+  "date_published": "2000-05-06T19:36:15-04:00",
+  "date_modified": "2024-12-05T11:03:27-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT60M",
+  "total_time": "PT70M",
+  "yield": [
+    "6",
+    "3 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound baking potatoes",
+    "1 cup butter",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Peel and dice potatoes, arrange in a pan or on a sheet of tin foil. Season with salt and pepper. Place butter on top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Put potatoes on grill or in the oven at 375 degrees F (190 degrees C). Mix around so they get all buttery and don't burn. Cook until potatoes are soft.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "223 mg",
+    "sugarContent": "1 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jweQyi4lR4MELfPw9cv-3FanjNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Butter-Potatoes-Yoly-e9f8170f1e054d18bcffdc5b5577d18e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19861/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

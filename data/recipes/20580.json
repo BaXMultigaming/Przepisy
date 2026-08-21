@@ -1,0 +1,83 @@
+{
+  "id": "20580",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20580/apple-orchard-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/20580/apple-orchard-punch/",
+  "title": "Apple Orchard Punch",
+  "description": "This apple orchard punch recipe is alcohol-free and combines apple, cranberry, and orange juices with ginger ale for a perfect drink for any occasion.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-08-06T18:26:53-04:00",
+  "date_modified": "2026-05-03T19:31:34-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Drink",
+    "Brunch",
+    "Lunch",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (32 fluid ounce) bottle apple juice, chilled",
+    "1 (12 fluid ounce) can frozen cranberry juice concentrate",
+    "1 cup orange juice",
+    "1.5 liters ginger ale",
+    "1 apple"
+  ],
+  "steps": [
+    {
+      "text": "Combine apple juice, cranberry juice concentrate, and orange juice. Stir until dissolved; slowly add ginger ale.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Thinly slice apple horizontally. Float slices on top of punch.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "carbohydrateContent": "42 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "19 mg",
+    "sugarContent": "38 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "504"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/M5tEpa__FqVewSGEqoethAvyvvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23494-e695b03cca964043b14d5365057c12ac.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20580/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "20277",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20277/chocolate-rice-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/20277/chocolate-rice-pudding/",
+  "title": "Chocolate Rice Pudding",
+  "description": "Cooked rice is combined in a double boiler with milk, sugar, raisins, vanilla and cocoa to make this thick rice pudding.",
+  "authors": [
+    "Dannielle Lalonde"
+  ],
+  "date_published": "2000-07-23T18:41:20-04:00",
+  "date_modified": "2022-08-08T11:39:45-04:00",
+  "prep_time": null,
+  "cook_time": "PT40M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup uncooked white rice",
+    "1.25 cups water",
+    "1.5 cups milk",
+    "0.33000001311302 cup white sugar",
+    "1 teaspoon vanilla extract",
+    "0.33000001311302 cup raisins",
+    "1 tablespoon butter",
+    "2 tablespoons unsweetened cocoa"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan bring water to a boil. Add rice and stir. Reduce heat, cover and simmer for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In the top of a double boiler over simmering water, combine 1 1/2 cups cooked rice, milk, sugar, vanilla, raisins, butter and cocoa. Cook, stirring occasionally, until thickened, 20 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "204 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "40 mg",
+    "sugarContent": "14 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p6Fv-Dj8EGEOZsy4gfuqWmNzxBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9440736-ba03e02e67274e93b5b1777c15c1a03b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20277/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

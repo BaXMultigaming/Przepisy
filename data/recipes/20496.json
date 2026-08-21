@@ -1,0 +1,103 @@
+{
+  "id": "20496",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20496/baked-oatmeal-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/20496/baked-oatmeal-i/",
+  "title": "Baked Oatmeal I",
+  "description": "Sweet baked oatmeal with eggs, milk and raisins.",
+  "authors": [
+    "Tracy"
+  ],
+  "date_published": "2000-07-21T16:21:27-04:00",
+  "date_modified": "2022-07-14T16:24:08-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup vegetable oil",
+    "0.75 cup white sugar",
+    "2 eggs",
+    "1 cup milk",
+    "0.5 teaspoon salt",
+    "1 tablespoon baking powder",
+    "3 cups quick cooking oats",
+    "0.5 cup raisins",
+    "2 tablespoons brown sugar",
+    "0.5 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Beat together oil and sugar. Mix in eggs, milk, salt, baking powder, oatmeal. Beat well then stir in raisins. Pour into a lightly grease pie pan. Sprinkle with brown sugar and cinnamon. Refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "The next morning, preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until firm, about 35 minutes. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CfxGhWC6gueFWyahmeEztjAQP2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5446101-2cdc7827aea44c1884ab9f9b90f1c847.jpg"
+      ],
+      "image": "assets/images/20496/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "378 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "305 mg",
+    "sugarContent": "24 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "432"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/kwxjeFHd-ma1DlVvV.mp4",
+    "description": "AR_MAR_0003",
+    "duration": "PT1M57S",
+    "name": "Baked Oatmeal I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kwxjeFHd/poster.jpg?width=1280",
+    "uploadDate": "2021-07-25T11:38:12-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CfxGhWC6gueFWyahmeEztjAQP2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5446101-2cdc7827aea44c1884ab9f9b90f1c847.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20496/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/20496/step_03.webp"
+    ]
+  }
+}

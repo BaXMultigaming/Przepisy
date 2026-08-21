@@ -1,0 +1,107 @@
+{
+  "id": "20690",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20690/baked-omelet-roll/",
+  "requested_url": "https://www.allrecipes.com/recipe/20690/baked-omelet-roll/",
+  "title": "Baked Omelet Roll",
+  "description": "This omelet is so easy and delicious. It bakes in the oven, so there is no watching the stove. My son loves to make it for us.",
+  "authors": [
+    "LEAGLE"
+  ],
+  "date_published": "2000-06-18T23:55:22-04:00",
+  "date_modified": "2022-07-14T17:34:46-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 eggs",
+    "1 cup milk",
+    "0.5 cup all-purpose flour",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "1 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 450 degrees F (230 degrees C). Lightly grease a 9x13 inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a blender, combine eggs, milk, flour, salt and pepper; cover and process until smooth. Pour into prepared baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until set, about 20 minutes. Sprinkle with cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Carefully loosen edges of omelet from pan. Starting from the short edge of the pan, carefully roll up omelet. Place omelet seam side down on a serving plate and cut into 6 equal sized pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CRnRzXVjkclP2hdADDfCHW-c8Rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/959321-951ae740be504b1d838a1771e33533ab.jpg"
+      ],
+      "image": "assets/images/20690/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "209 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "398 mg",
+    "sugarContent": "2 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "381"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RxD9bzpX-ma1DlVvV.mp4",
+    "description": "No watching the stove with this omelet. It gently cooks in the oven.",
+    "duration": "PT2M",
+    "name": "Baked Omelet Roll",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RxD9bzpX/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T02:46:01-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CRnRzXVjkclP2hdADDfCHW-c8Rs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/959321-951ae740be504b1d838a1771e33533ab.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20690/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/20690/step_04.webp"
+    ]
+  }
+}

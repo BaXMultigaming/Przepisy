@@ -1,0 +1,86 @@
+{
+  "id": "20010",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20010/lemon-sauce-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/20010/lemon-sauce-i/",
+  "title": "Lemon Sauce",
+  "description": "This homemade lemon sauce made with fresh lemon juice and zest makes a wonderfully tangy dessert sauce.",
+  "authors": [
+    "GINGER P"
+  ],
+  "date_published": "2000-04-27T08:27:13-04:00",
+  "date_modified": "2026-01-13T14:54:18-05:00",
+  "prep_time": null,
+  "cook_time": "PT15M",
+  "total_time": "PT15M",
+  "yield": [
+    "12",
+    "1 1/2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup white sugar",
+    "1 tablespoon cornstarch",
+    "0.125 teaspoon salt",
+    "0.25 teaspoon freshly grated nutmeg",
+    "1 cup boiling water",
+    "1 tablespoon butter",
+    "1 teaspoon grated lemon zest",
+    "1 lemon, juiced"
+  ],
+  "steps": [
+    {
+      "text": "Stir sugar, cornstarch, salt, and nutmeg together in a large saucepan. Gradually stir in boiling water, then simmer over low heat until thick, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat; stir in butter, lemon zest, and lemon juice. Serve and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "46 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "31 mg",
+    "sugarContent": "8 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "83"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3SCFeweuURKVHQhaFKtR1_y-eLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3944194_original-a54306514e32464cbd7508831b1dba60.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20010/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

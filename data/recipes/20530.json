@@ -1,0 +1,74 @@
+{
+  "id": "20530",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20530/blue-monday-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/20530/blue-monday-dip/",
+  "title": "Blue Monday Dip",
+  "description": "Great for dipping bread or raw vegetables. The spices will brighten any Monday!",
+  "authors": [
+    "BJ ha"
+  ],
+  "date_published": "2000-02-13T15:19:09-05:00",
+  "date_modified": "2022-08-04T11:43:54-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup sour cream",
+    "1 cup yogurt",
+    "1 (10 ounce) package frozen chopped spinach, thawed and drained",
+    "1 tablespoon dried minced onion flakes",
+    "1 tablespoon Beau Monde ™ seasoning",
+    "1 teaspoon garlic salt",
+    "1 dash hot pepper sauce"
+  ],
+  "steps": [
+    {
+      "text": "In a mixing bowl, combine the sour cream, yogurt, spinach, onion flakes, Beau Monde seasoning ™, garlic salt and hot pepper sauce. Chill until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "30 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "159 mg",
+    "sugarContent": "1 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xNauRJ7jqcCJF1YeNld6InNLAXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/613044-75d47bd06e044ea5a5cc1d598fd5c5dd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20530/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

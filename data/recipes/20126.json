@@ -1,0 +1,78 @@
+{
+  "id": "20126",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20126/bananerberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/20126/bananerberry-smoothie/",
+  "title": "Bananerberry Smoothie",
+  "description": "Strawberries, bananas, peaches, and apples blended with vanilla ice cream for a delightful fruit smoothie.",
+  "authors": [
+    "M m-k"
+  ],
+  "date_published": "2000-07-07T16:00:31-04:00",
+  "date_modified": "2026-05-17T20:15:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup fresh strawberries",
+    "1 banana, sliced",
+    "1 cup fresh peaches",
+    "1 cup apples",
+    "1.5 cups vanilla ice cream",
+    "1.5 cups ice cubes",
+    "0.5 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "In a blender combine strawberries, banana, peaches, apples, and ice cream. Blend until smooth. Add ice, pour in milk and blend again until smooth. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "354 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "109 mg",
+    "sugarContent": "45 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/42bkUI8CFjoLdeqporpBD5F7jp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/433563-bananerberry-smoothie-Pam-Ziegler-Lutz-4x3-1-5ee163f5d3fa4b30ab66f2616f50f9bf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20126/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

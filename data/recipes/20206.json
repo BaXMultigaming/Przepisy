@@ -1,0 +1,67 @@
+{
+  "id": "20206",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20206/michigan-fizz/",
+  "requested_url": "https://www.allrecipes.com/recipe/20206/michigan-fizz/",
+  "title": "Michigan Fizz",
+  "description": "A non-alcoholic drink made with cherry juice and ginger ale.",
+  "authors": [
+    "Janice"
+  ],
+  "date_published": "2000-07-07T18:46:10-04:00",
+  "date_modified": "2022-08-04T10:07:29-04:00",
+  "prep_time": "PT1M",
+  "cook_time": null,
+  "total_time": "PT1M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons frozen cherry juice concentrate",
+    "1 cup ginger ale soda"
+  ],
+  "steps": [
+    {
+      "text": "Measure concentrated cherry juice into a tall glass. Fill glass with ginger ale and stir gently.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "189 kcal",
+    "carbohydrateContent": "47 g",
+    "sodiumContent": "56 mg",
+    "sugarContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RfgUl-QcqsxSK__JZBEEo5nMWsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/614329-fa4a097e078e4597be8676dfc8ef99ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20206/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

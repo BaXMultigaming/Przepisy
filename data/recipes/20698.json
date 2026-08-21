@@ -1,0 +1,74 @@
+{
+  "id": "20698",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20698/orange-cream-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/20698/orange-cream-milkshake/",
+  "title": "Orange Cream Milkshake",
+  "description": "Our family loves milkshakes in the summer to cool off. The creamy orange flavor of this shake was a big hit.",
+  "authors": [
+    "Nancy Feist"
+  ],
+  "date_published": "2000-08-07T12:39:45-04:00",
+  "date_modified": "2024-04-07T20:32:53-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup milk",
+    "4 scoops vanilla ice cream",
+    "3 tablespoons frozen orange juice concentrate, thawed"
+  ],
+  "steps": [
+    {
+      "text": "In a blender combine milk, ice cream and orange juice concentrate. Blend until smooth. Pour into glasses, garnish with an orange slice and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "157 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "59 mg",
+    "sugarContent": "22 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ewLNJBZo-ndCMRpXtGmEKVXkZg0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20698orange-cream-milkshakelutzflcat-e522f67a4c0d453faa2d0428a8f8c8ab.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/20698/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "19934",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19934/chili-lime-chicken-kabobs/",
+  "requested_url": "https://www.allrecipes.com/recipe/19934/chili-lime-chicken-kabobs/",
+  "title": "Chili-Lime Chicken Kebabs",
+  "description": "Chicken cubes are marinated in a chili-lime sauce and then grilled. Serve with white long grain rice and grilled veggies for a delicious dinner.",
+  "authors": [
+    "Simmi G"
+  ],
+  "date_published": "2000-07-13T12:32:14-04:00",
+  "date_modified": "2026-05-20T12:24:21-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT90M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons olive oil",
+    "1.5 tablespoons red wine vinegar",
+    "1 lime, juiced",
+    "1 teaspoon chili powder",
+    "0.5 teaspoon paprika",
+    "0.5 teaspoon onion powder",
+    "0.5 teaspoon garlic powder",
+    "cayenne pepper to taste",
+    "salt and freshly ground black pepper to taste",
+    "1 pound skinless, boneless chicken breast halves - cut into 1 1/2 inch pieces",
+    "skewers"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, whisk together the olive oil, vinegar, and lime juice. Season with chili powder, paprika, onion powder, garlic powder, cayenne pepper, salt, and black pepper. Place the chicken in a shallow baking dish with the sauce, and stir to coat. Cover, and marinate in the refrigerator at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the grill for medium-high heat. Thread chicken onto skewers, and discard marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly oil the grill grate. Grill skewers for 10 to 15 minutes, or until the chicken juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ibpWmFPEVKqQmLK_yRAQyHF6zDU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2321713-51a4ba42d6204202907e572a01905fa1.jpg"
+      ],
+      "image": "assets/images/19934/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "227 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "65 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "64 mg",
+    "sugarContent": "1 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1010"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/HucBCEuo-ma1DlVvV.mp4",
+    "description": "AR1375",
+    "duration": "PT3M21S",
+    "name": "Chili-Lime Chicken Kabobs",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/HucBCEuo/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T11:22:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ibpWmFPEVKqQmLK_yRAQyHF6zDU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2321713-51a4ba42d6204202907e572a01905fa1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19934/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/19934/step_03.webp"
+    ]
+  }
+}

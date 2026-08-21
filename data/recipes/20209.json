@@ -1,0 +1,65 @@
+{
+  "id": "20209",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20209/shirley-temple-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/20209/shirley-temple-i/",
+  "title": "Shirley Temple I",
+  "description": "A non-alcoholic drink made with lemon-lime soda and grenadine.",
+  "authors": [
+    "Megan"
+  ],
+  "date_published": "2000-06-13T10:49:33-04:00",
+  "date_modified": "2022-09-22T12:01:40-04:00",
+  "prep_time": "PT1M",
+  "cook_time": null,
+  "total_time": "PT1M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.28499999642372 cup lemon-lime flavored carbonated beverage",
+    "1.5 tablespoons grenadine syrup",
+    "1 maraschino cherry"
+  ],
+  "steps": [
+    {
+      "text": "In a highball glass, over ice, combine lemon-lime soda and grenadine. Stir well and garnish with a maraschino cherry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "0 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cooIG475X8U1dX_x4RAqM3HGTGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/465997-14f5a71876ef44258eeadce53e585ce6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20209/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

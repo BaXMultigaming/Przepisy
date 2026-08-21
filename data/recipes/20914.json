@@ -1,0 +1,103 @@
+{
+  "id": "20914",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20914/egg-scramble/",
+  "requested_url": "https://www.allrecipes.com/recipe/20914/egg-scramble/",
+  "title": "Egg Scramble",
+  "description": "This egg scramble recipe is a perfect mix of veggies topped with cheese and hot sauce. You can use any variety of spice and skip the cheese.",
+  "authors": [
+    "Noelle"
+  ],
+  "date_published": "2000-08-26T15:19:34-04:00",
+  "date_modified": "2026-04-20T21:36:10-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 potato, peeled",
+    "1 small onion, chopped",
+    "2 cloves garlic, chopped",
+    "0.5 cup chopped fresh spinach",
+    "4 large eggs, beaten",
+    "2 tomatoes, seeded and chopped",
+    "salt and pepper to taste",
+    "ground cayenne pepper to taste",
+    "1 dash hot pepper sauce",
+    "0.25 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a small pot of salted water to a boil. Add potato and cook until tender but still firm, about 15 minutes. Drain, cool, and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sauté onion and garlic in a lightly oiled skillet over medium-high heat. When onion is soft, stir in spinach and cook until wilted, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium and pour in eggs. Cook until the bottom has set, about 2 minutes. Stir in potatoes and tomatoes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season with salt, pepper, cayenne, and hot sauce. Cook, stirring occasionally, until eggs have set. Sprinkle with grated cheese and serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "161 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "193 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "139 mg",
+    "sugarContent": "3 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LDy_q_Nb5mb3ukehU9SJkZY5UEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7505726-3e1de66dec234ddf8ce660bfb041d48a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20914/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

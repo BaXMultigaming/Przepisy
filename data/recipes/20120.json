@@ -1,0 +1,123 @@
+{
+  "id": "20120",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20120/peach-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/20120/peach-ice-cream/",
+  "title": "Best Peach Ice Cream",
+  "description": "This peach ice cream is made with a blend of cream, sugar, eggs, and pureed fresh ripe peaches for the best rich and creamy frozen summer treat!",
+  "authors": [
+    "BIGGUNNER"
+  ],
+  "date_published": "2000-07-26T14:24:01-04:00",
+  "date_modified": "2026-03-16T17:01:48-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT160M",
+  "yield": [
+    "32",
+    "4 quarts"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3.5 cups white sugar",
+    "6 large eggs, beaten",
+    "10 fresh peaches, pitted and chopped",
+    "4 cups heavy cream",
+    "2 cups half-and-half cream",
+    "2 teaspoons vanilla extract",
+    "0.75 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rMM1wyCcRYxYhQVD3WA3WE5HyWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20120-peach-ice-cream-VAT-005-step-01-d9612f3cf4b7441f9ce2e43be5808714.jpg"
+      ],
+      "image": "assets/images/20120/step_01.webp"
+    },
+    {
+      "text": "Mix sugar and eggs together in a large bowl until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Npt8ZlNs_OeNu5VEP27YL2PM5rI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20120-peach-ice-cream-VAT-006-step-02-500333d70fa54ec8befbe5afc32c0c95.jpg"
+      ],
+      "image": "assets/images/20120/step_02.webp"
+    },
+    {
+      "text": "Puree peaches in a blender or food processor; stir 5 cups of puree into egg mixture. Stir in cream, half-and-half, vanilla, and salt until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/AZh4FltdclA1OobrztnHHPDzDOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20120-peach-ice-cream-VAT-007-step-03-9b5e8b7d08ae47588aec58f868c956d1.jpg"
+      ],
+      "image": "assets/images/20120/step_03.webp"
+    },
+    {
+      "text": "Pour mixture into an ice cream maker and freeze according to manufacturer's instructions, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/8Mo6xNJySQcz-lcOFgJbmJ08Lgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20120-peach-ice-cream-VAT-008-step-04-106dbeda27444e5b9ba136948a3c9f4e.jpg"
+      ],
+      "image": "assets/images/20120/step_04.webp"
+    },
+    {
+      "text": "Transfer to an airtight container and freeze until firm or desired consistency, about 2 to 4 hours. Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ahtLeq0gKm08Ku7gScxd6QoVB1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20120-peach-ice-cream-VAT-009-step-05-6f10fccc72c344d48f05d243d460abda.jpg"
+      ],
+      "image": "assets/images/20120/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "81 mg",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "86 mg",
+    "sugarContent": "24 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "282"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mNfXEmbFPOisIVPvXa8b7CML_fY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20120-peach-ice-cream-VAT-003-4x3-5feb45bd992f43a7a3e44200c0a59d84.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20120/hero.webp",
+    "steps": [
+      "assets/images/20120/step_01.webp",
+      "assets/images/20120/step_02.webp",
+      "assets/images/20120/step_03.webp",
+      "assets/images/20120/step_04.webp",
+      "assets/images/20120/step_05.webp"
+    ]
+  }
+}

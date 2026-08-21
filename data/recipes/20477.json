@@ -1,0 +1,84 @@
+{
+  "id": "20477",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20477/pumpkin-pie-spice-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/20477/pumpkin-pie-spice-i/",
+  "title": "Pumpkin Pie Spice",
+  "description": "Use this mixture in recipes that call for pumpkin pie spice. A blend of cinnamon, nutmeg, ginger and allspice that can be scaled to any size.",
+  "authors": [
+    "Penny"
+  ],
+  "date_published": "2000-06-24T11:33:12-04:00",
+  "date_modified": "2026-06-04T13:38:45-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT4M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup ground cinnamon",
+    "4 teaspoons ground nutmeg",
+    "4 teaspoons ground ginger",
+    "1 tablespoon ground allspice"
+  ],
+  "steps": [
+    {
+      "text": "Combine cinnamon, nutmeg, ginger, and allspice together in a bowl. Store in air-tight container.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/TO4J-yQPqzNEVtrSRdMiwDDW26o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/458219-pumpkin-pie-spice-i-Alberta-Rose-1x1-1-457585f127b74343975b23c6dfa1c2ec.jpg"
+      ],
+      "image": "assets/images/20477/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "22 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "2 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "146"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/zYnt4q9G-K3AjnAEN.mp4",
+    "description": "In this video, you’ll see how to make a batch of pumpkin pie spices. It’s a fragrant blend of cinnamon, nutmeg, ginger, and allspice that smells like the holidays! Use the mix in recipes that call for pumpkin pie spice. And scale it to any size you want.",
+    "duration": "PT48S",
+    "name": "Pumpkin Pie Spice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/zYnt4q9G/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T10:29:45-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TO4J-yQPqzNEVtrSRdMiwDDW26o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/458219-pumpkin-pie-spice-i-Alberta-Rose-1x1-1-457585f127b74343975b23c6dfa1c2ec.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20477/hero.webp",
+    "steps": [
+      "assets/images/20477/step_01.webp"
+    ]
+  }
+}

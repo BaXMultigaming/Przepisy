@@ -1,0 +1,88 @@
+{
+  "id": "19910",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19910/cheese-spaghetti/",
+  "requested_url": "https://www.allrecipes.com/recipe/19910/cheese-spaghetti/",
+  "title": "Cheese Spaghetti",
+  "description": "Cheese spaghetti features an American cheese sauce flavored with a touch of garlic powder and made creamy with milk and butter.",
+  "authors": [
+    "Khalilah"
+  ],
+  "date_published": "2000-06-10T17:56:06-04:00",
+  "date_modified": "2022-07-14T16:06:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound spaghetti",
+    "0.25 cup butter",
+    "0.25 cup milk",
+    "1 pound diced processed American cheese",
+    "1 teaspoon garlic powder",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return pasta to pot and place over low heat. Stir in butter until melted. Stir in milk and cheese until melted and smooth. Season with garlic powder and pepper and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "960 kcal",
+    "carbohydrateContent": "88 g",
+    "cholesterolContent": "138 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "41 g",
+    "saturatedFatContent": "30 g",
+    "sodiumContent": "1785 mg",
+    "sugarContent": "5 g",
+    "fatContent": "49 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/u5ZJUfNs3ytZ8yquppWrLN9mf1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/359111-26a1b72a697d4a81835c9df3cf529dbe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19910/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

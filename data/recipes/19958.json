@@ -1,0 +1,87 @@
+{
+  "id": "19958",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19958/spam-on-the-go/",
+  "requested_url": "https://www.allrecipes.com/recipe/19958/spam-on-the-go/",
+  "title": "Spam on the Go",
+  "description": "A can of Spam, spaghetti noodles, green onions and garlic all sauteed with soy sauce and sesame oil.",
+  "authors": [
+    "Claudine"
+  ],
+  "date_published": "2000-04-22T00:06:42-04:00",
+  "date_modified": "2024-04-16T19:59:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package uncooked spaghetti",
+    "1 tablespoon vegetable oil",
+    "1 (12 ounce) container fully cooked luncheon meat (e.g. Spam), cubed",
+    "0.5 green onion, chopped",
+    "1 clove garlic, chopped",
+    "1 tablespoon soy sauce",
+    "0.5 cup water",
+    "0.5 tablespoon sesame oil",
+    "1 teaspoon freshly ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat vegetable oil in a medium saucepan over medium heat. Add luncheon meat, green onion and garlic and saute until light brown. Stir in cooked spaghetti , then stir in soy sauce, water, sesame oil and pepper. Mix all together, heat through and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "346 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "920 mg",
+    "sugarContent": "1 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "130"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6MviLeKWuaN2-b3BZe3UOt-xzWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19958spam-on-the-go-063a6cfabdb545f185665b71e77d5437.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19958/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

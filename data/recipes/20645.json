@@ -1,0 +1,78 @@
+{
+  "id": "20645",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20645/delicious-apple-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/20645/delicious-apple-sauce/",
+  "title": "Delicious Apple Sauce",
+  "description": "This apple sauce truly is delicious - my grandma makes it all the time!",
+  "authors": [
+    "Sherice"
+  ],
+  "date_published": "1999-12-11T00:21:13-05:00",
+  "date_modified": "2022-07-14T16:37:23-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 apples - peeled, cored and shredded",
+    "1 teaspoon ground cinnamon",
+    "0.25 cup water",
+    "3 tablespoons brown sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place shredded apples in a medium saucepan over medium low heat. Sprinkle with cinnamon, then add water and cook until the apple bits become soft and mushy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in brown sugar and mix well; if desired, top with ice cream and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "carbohydrateContent": "40 g",
+    "fiberContent": "4 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "34 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "338"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/m6T0-OAdjrwRIWyfxX9n01HQ4j8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48407-cf17c59688244611a4cac23397fb6b79.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20645/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

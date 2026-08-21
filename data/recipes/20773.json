@@ -1,0 +1,82 @@
+{
+  "id": "20773",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20773/chicken-saltimbocca/",
+  "requested_url": "https://www.allrecipes.com/recipe/20773/chicken-saltimbocca/",
+  "title": "Easy Chicken Saltimbocca",
+  "description": "Chicken breasts with slices of prosciutto ham and Provolone cheese, braised in white wine. A simple and savory treat.",
+  "authors": [
+    "chiara"
+  ],
+  "date_published": "2000-07-13T09:46:58-04:00",
+  "date_modified": "2022-12-14T09:04:33-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves",
+    "4 slices thinly sliced prosciutto",
+    "0.33333334326744 cup butter",
+    "1 cup white wine",
+    "4 slices provolone cheese"
+  ],
+  "steps": [
+    {
+      "text": "Place 1 ham slice over each chicken breast and fasten with toothpicks. Melt butter in a medium skillet over medium high heat and fry chicken for 5 to 7 minutes, or until almost cooked through (juices run clear).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour wine over chicken and allow to evaporate; place 1 cheese slice over each chicken breast and cover skillet. Cook until cheese has melted, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "487 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "145 mg",
+    "proteinContent": "37 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "701 mg",
+    "sugarContent": "1 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "102"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ms-2fvKa4f4xPqkrUQaMAQRIkXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/954318-09b57baaaf82487e8d58c945bbe7716d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20773/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

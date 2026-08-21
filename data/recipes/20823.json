@@ -1,0 +1,75 @@
+{
+  "id": "20823",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20823/liverwurst/",
+  "requested_url": "https://www.allrecipes.com/recipe/20823/liverwurst/",
+  "title": "Liverwurst",
+  "description": "Liverwurst at its best. Ground pork and liver with onion and seasoning.",
+  "authors": [
+    "Tina"
+  ],
+  "date_published": "2000-04-22T16:44:30-04:00",
+  "date_modified": "2024-12-06T10:02:11-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "48",
+    "48 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 pounds ground pork",
+    "2 pounds ground pork liver",
+    "4 onions, minced",
+    "salt and pepper to taste",
+    "48 sausage casings"
+  ],
+  "steps": [
+    {
+      "text": "Mix together pork, liver, onions, salt and pepper. Put into casings and boil in water for one hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "212 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "91 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "52 mg",
+    "sugarContent": "0 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ok056mUpJvDJ-wD6Yf_Dc4yr6Uw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/779981-dd2b0892c5cf4bea8461498ea5fdaaee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20823/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

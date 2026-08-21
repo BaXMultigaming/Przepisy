@@ -1,0 +1,77 @@
+{
+  "id": "20158",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20158/crusty-potato-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/20158/crusty-potato-bread/",
+  "title": "Crusty Potato Bread",
+  "description": "A hearty white bread made in the bread machine with instant potato flakes.",
+  "authors": [
+    "Annette"
+  ],
+  "date_published": "2000-05-12T12:31:10-04:00",
+  "date_modified": "2026-07-01T15:19:00-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "15",
+    "2 - pound loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3.25 cups bread flour",
+    "0.5 cup instant mashed potato flakes",
+    "1 tablespoon white sugar",
+    "1.5 teaspoons salt",
+    "2 tablespoons butter",
+    "1.25 cups water",
+    "2 teaspoons instant yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select White Bread Cycle; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "24 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "245 mg",
+    "sugarContent": "1 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "202"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/32eDaO6rOBSJj8jrtla0dGsF0Ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9320857-6a1bf9b0e3a24d3f8441e9940d8227b9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20158/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

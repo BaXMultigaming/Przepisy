@@ -1,0 +1,78 @@
+{
+  "id": "20157",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20157/cranberry-orange-breakfast-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/20157/cranberry-orange-breakfast-bread/",
+  "title": "Cranberry Orange Breakfast Bread",
+  "description": "A breakfast bread made in a bread machine with cranberries and walnuts.",
+  "authors": [
+    "Paula R"
+  ],
+  "date_published": "2000-07-09T18:01:03-04:00",
+  "date_modified": "2022-08-04T11:49:14-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "12",
+    "1 1/2 - pound loaf"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.125 cups orange juice",
+    "2 tablespoons vegetable oil",
+    "2 tablespoons honey",
+    "3 cups bread flour",
+    "1 tablespoon dry milk powder",
+    "0.5 teaspoon ground cinnamon",
+    "0.5 teaspoon ground allspice",
+    "1 teaspoon salt",
+    "1 (.25 ounce) package active dry yeast",
+    "1 tablespoon grated orange zest",
+    "1 cup sweetened dried cranberries",
+    "0.33300000429153 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select cycle; press Start. If your machine has a Fruit setting, add the cranberries and nuts at the signal, or about 5 minutes before the kneading cycle has finished.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "199 mg",
+    "sugarContent": "13 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "64"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d31LfLqxFyh2AQpX9zDBIItHDnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5891603-6b7692953398464ab3824a498bf55350.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20157/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

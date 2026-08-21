@@ -1,0 +1,85 @@
+{
+  "id": "19946",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19946/chicken-salad-wraps/",
+  "requested_url": "https://www.allrecipes.com/recipe/19946/chicken-salad-wraps/",
+  "title": "Chicken Salad Wraps",
+  "description": "Great picnic or lunch sandwich, with a salsa twist. For a spicier version, add some finely chopped jalapeno chile peppers! It’s a wrap!",
+  "authors": [
+    "DAWN1"
+  ],
+  "date_published": "2000-06-24T00:14:05-04:00",
+  "date_modified": "2026-07-16T17:55:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (10 ounce) cans chunk chicken, drained and flaked",
+    "0.25 cup chopped onion",
+    "0.25 cup mayonnaise",
+    "4 tablespoons fresh salsa",
+    "salt and pepper to taste",
+    "6 (10 inch) flour tortillas",
+    "12 lettuce leaves"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl combine the chicken, onion, mayonnaise, salsa, salt and pepper. Mix together.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Line each tortilla with two lettuce leaves, then divide chicken salad mixture evenly among each tortilla and roll up, or ‘wrap’.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "464 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "934 mg",
+    "sugarContent": "1 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "107"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LjbeNRsg6XRA0sh6Fbd6Fb0827s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1006948-2f5acdbd378245a48b388e155f9e802f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19946/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

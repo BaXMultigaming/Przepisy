@@ -1,0 +1,105 @@
+{
+  "id": "20461",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20461/pancakes-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/20461/pancakes-i/",
+  "title": "Pancakes I",
+  "description": "A basic pancake recipe with flour, milk and egg.",
+  "authors": [
+    "CYNDILB"
+  ],
+  "date_published": "2000-07-07T18:29:10-04:00",
+  "date_modified": "2022-07-14T16:06:52-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "3",
+    "4 - inch pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup all-purpose flour",
+    "1 tablespoon white sugar",
+    "1 teaspoon baking powder",
+    "0.5 teaspoon baking soda",
+    "0.25 teaspoon salt",
+    "1 cup milk",
+    "1 egg",
+    "2 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Preheat a lightly oiled griddle over medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine flour, sugar, baking powder, baking soda and salt. Make a well in the center. In a separate bowl, beat together egg, milk and oil. Pour milk mixture into flour mixture. Beat until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour or scoop the batter onto the hot griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/gkUU8OT_AwOyj4xwfi2o0eCb1pg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/539173-79f1ec55d99544daa182201c07871572.jpg"
+      ],
+      "image": "assets/images/20461/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "315 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "581 mg",
+    "sugarContent": "8 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1276"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/xtMsP5Pb-ma1DlVvV.mp4",
+    "description": "AR0213",
+    "duration": "PT2M52S",
+    "name": "Pancakes I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/xtMsP5Pb/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T07:08:48-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gkUU8OT_AwOyj4xwfi2o0eCb1pg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/539173-79f1ec55d99544daa182201c07871572.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20461/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/20461/step_03.webp"
+    ]
+  }
+}

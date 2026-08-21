@@ -1,0 +1,89 @@
+{
+  "id": "20874",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20874/sea-bass-barbecue/",
+  "requested_url": "https://www.allrecipes.com/recipe/20874/sea-bass-barbecue/",
+  "title": "Sea Bass Barbecue",
+  "description": "This sea bass barbecue recipe features white fish seasoned with lemon juice, olive oil, salt, black pepper, and bay leaf, then grilled over medium heat.",
+  "authors": [
+    "Selva"
+  ],
+  "date_published": "2000-08-31T17:34:27-04:00",
+  "date_modified": "2025-07-15T23:03:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon lemon juice",
+    "1 teaspoon olive oil",
+    "1 bay leaf",
+    "salt and pepper to taste",
+    "1 pound fresh sea bass"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine lemon juice, oil, bay leaf, salt, and black pepper in a small bowl; rub on fish, inside and out.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on the preheated grill until fish flakes easily with a fork, 8 to 10 minutes, flipping halfway through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "243 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "94 mg",
+    "proteinContent": "42 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "154 mg",
+    "sugarContent": "0 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/toTmGhBweyzplggwAToL3FYZcaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/702961-129d6663be924e54a5a62f596544d40c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20874/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

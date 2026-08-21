@@ -1,0 +1,91 @@
+{
+  "id": "20718",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20718/sherry-chicken-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/20718/sherry-chicken-curry/",
+  "title": "Sherry Chicken Curry",
+  "description": "Chicken breast simmered with sherry, beef bouillon, peanut butter and curry powder. Other spices and the addition of coconut milk all add up to an unusual, creamy curry chicken.",
+  "authors": [
+    "Rebecca Swift"
+  ],
+  "date_published": "2000-05-25T18:13:14-04:00",
+  "date_modified": "2025-03-11T07:20:46-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "4 skinless, boneless chicken breast halves - cut into chunks",
+    "0.5 cup cornstarch",
+    "3 cloves garlic, crushed",
+    "1 large onion, cut into chunks",
+    "salt and pepper to taste",
+    "0.5 cup cooking sherry",
+    "2 cubes beef bouillon",
+    "0.5 cup creamy peanut butter",
+    "3 tablespoons curry powder",
+    "water to cover",
+    "0.5 teaspoon ground ginger",
+    "1 cup coconut milk"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium high heat. Coat chicken with cornstarch and place in skillet with garlic, onion, salt and pepper. Add sherry and beef bouillon and let liquid reduce a little.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in peanut butter and curry powder and add water to cover; add ginger, reduce heat to low and simmer for 30 minutes, then lastly stir in coconut milk and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "607 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "822 mg",
+    "sugarContent": "6 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "84"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gpDOtVDBUVIthQw7zvsMe673XSE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3752804-af80b3c2c6184b7bb746680091b6bfeb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20718/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

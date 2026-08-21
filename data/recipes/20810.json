@@ -1,0 +1,84 @@
+{
+  "id": "20810",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20810/belly-burner-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/20810/belly-burner-chili/",
+  "title": "Belly Burner Chili",
+  "description": "Spicy sausage is browned, then cooked in a slow cooker with olives, tomato sauce and beans in this easy chili flavored with soy sauce.",
+  "authors": [
+    "CHEFTAZ"
+  ],
+  "date_published": "2000-08-15T20:43:12-04:00",
+  "date_modified": "2022-07-14T15:58:58-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT480M",
+  "total_time": "PT505M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds ground spicy pork sausage",
+    "2 cups chopped onion",
+    "3 (15 ounce) cans tomato sauce",
+    "0.75 cup water",
+    "0.5 cup chopped black olives",
+    "0.5 cup chopped green olives",
+    "0.5 teaspoon ground black pepper",
+    "1 tablespoon soy sauce",
+    "2 teaspoons chili powder",
+    "1 (15 ounce) can kidney beans"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium-high heat, cook sausage until brown. Drain and crumble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a slow cooker, combine sausage, onion, tomato sauce, water, black and green olives, pepper, soy sauce, chili powder and beans. Cover and cook on low 8 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "836 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "116 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "25 g",
+    "sodiumContent": "2528 mg",
+    "sugarContent": "8 g",
+    "fatContent": "72 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1aiwH5dfBRe6xjDgBaN-1NiHZRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/774195-443042636ad44f8d87078513929979b7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20810/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "20941",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20941/broccoli-slaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/20941/broccoli-slaw/",
+  "title": "Easy Broccoli Slaw",
+  "description": "Broccoli with creamy dressing, dried cranberries and pistachios.",
+  "authors": [
+    "Debbie F."
+  ],
+  "date_published": "2000-08-29T11:01:59-04:00",
+  "date_modified": "2024-12-03T12:35:36-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Side Dish",
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (16 ounce) packages broccoli coleslaw mix",
+    "1 (16 ounce) bottle cole slaw dressing",
+    "1 (8 ounce) package sweetened dried cranberries",
+    "2 cups pistachio nuts",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl combine broccoli, dressing (use more or less to achieve desired creaminess), dried cranberries, pistachios, salt and pepper. Mix well, cover and refrigerate until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/95HQtyQq_u3HgP9XE2AX5Ruqp-U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4456425-b6a9c3f62cc443ddbeafabbb996b5a6b.jpg"
+      ],
+      "image": "assets/images/20941/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "146 mg",
+    "sugarContent": "19 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "98"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/SBNcYr7r-ma1DlVvV.mp4",
+    "description": "AR1144",
+    "duration": "PT1M39S",
+    "name": "Broccoli Slaw",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/SBNcYr7r/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T12:50:26-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/95HQtyQq_u3HgP9XE2AX5Ruqp-U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4456425-b6a9c3f62cc443ddbeafabbb996b5a6b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20941/hero.webp",
+    "steps": [
+      "assets/images/20941/step_01.webp"
+    ]
+  }
+}

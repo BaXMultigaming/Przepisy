@@ -1,0 +1,91 @@
+{
+  "id": "20901",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20901/easy-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/20901/easy-french-toast/",
+  "title": "Easy French Toast",
+  "description": "An easy to make crispy cinnamon French toast that will light up your morning.",
+  "authors": [
+    "Brian"
+  ],
+  "date_published": "2000-07-24T17:40:07-04:00",
+  "date_modified": "2026-04-29T07:08:12-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg",
+    "0.75 cup milk",
+    "1 tablespoon ground cinnamon",
+    "1 teaspoon vanilla extract",
+    "1 pinch salt",
+    "2 slices bread"
+  ],
+  "steps": [
+    {
+      "text": "Beat together egg, milk, cinnamon, vanilla and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled skillet or griddle over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Soak bread slices in egg mixture for 20 second on each side, or until thoroughly coated. Cook bread until both sides are lightly browned and crisp. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "163 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "100 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "243 mg",
+    "sugarContent": "6 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.8",
+    "ratingCount": "226"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p8NCzy5ujsrmpAwQfub7jU1tGcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20901-easy-french-toast-elena-viramontes-5ddbcff7be2c4eb8a57e362bffb7506d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20901/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

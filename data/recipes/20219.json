@@ -1,0 +1,86 @@
+{
+  "id": "20219",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20219/whiskey-slush/",
+  "requested_url": "https://www.allrecipes.com/recipe/20219/whiskey-slush/",
+  "title": "Whiskey Slush",
+  "description": "This whiskey slush recipe is basically a frozen whiskey-orange juice and lemonade slush topped with ginger ale. It is perfect for summer gatherings.",
+  "authors": [
+    "Bea Gassman"
+  ],
+  "date_published": "2000-07-22T21:14:42-04:00",
+  "date_modified": "2026-04-10T21:35:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT1450M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "7 cups water",
+    "2 cups strong brewed black tea",
+    "2 cups whiskey",
+    "1 (12 fluid ounce) can frozen lemonade concentrate",
+    "1 cup white sugar",
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "1 liter ginger ale soda",
+    "2 lemons - cut into wedges, for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Combine water, tea, whiskey, lemonade concentrate, sugar, and orange juice concentrate in a large plastic container; stir well. Freeze for 24 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Scoop slush into a tall glass, filling 3/4 full. Add ginger ale to fill glass; stir. Garnish with lemon wedges.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/oN2DNT-hZXq-smq_MCTU8boUQ9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/393412-17271d11ff234322b851fb82c6843216.jpg"
+      ],
+      "image": "assets/images/20219/step_02.webp"
+    }
+  ],
+  "nutrition": null,
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "80"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/je0h8Nji-K3AjnAEN.mp4",
+    "description": "Cool off a hot summer evening with a refreshing, icy whiskey cocktail.",
+    "duration": "PT1M35S",
+    "name": "Whiskey Slush",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/je0h8Nji/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T09:34:01-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oN2DNT-hZXq-smq_MCTU8boUQ9o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/393412-17271d11ff234322b851fb82c6843216.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20219/hero.webp",
+    "steps": [
+      null,
+      "assets/images/20219/step_02.webp"
+    ]
+  }
+}

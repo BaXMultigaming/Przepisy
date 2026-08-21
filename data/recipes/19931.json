@@ -1,0 +1,81 @@
+{
+  "id": "19931",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19931/tuna-curry-in-a-hurry/",
+  "requested_url": "https://www.allrecipes.com/recipe/19931/tuna-curry-in-a-hurry/",
+  "title": "Tuna Curry in a Hurry",
+  "description": "Canned tuna simmered with garlic, onion and bell pepper in sour cream spiced with curry powder.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-07-01T18:10:58-04:00",
+  "date_modified": "2022-08-04T10:04:52-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "1 clove garlic, minced",
+    "0.33333334326744 cup chopped onion",
+    "0.33333334326744 cup chopped green bell pepper",
+    "1 (5 ounce) can tuna, drained and flaked",
+    "1 cup sour cream",
+    "1 teaspoon curry powder"
+  ],
+  "steps": [
+    {
+      "text": "Over medium-low heat melt butter in a large saucepan. Add garlic, onions and green pepper. Cook slowly, stirring occasionally, until onions are soft.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in tuna, sour cream, curry powder, salt and pepper. Heat until warm and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "223 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "88 mg",
+    "sugarContent": "1 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "107"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Dc9LwyQeqP4bibYGD1rwCBk8doo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6951993-0108ab273d474501aeed955fbb50d3ca.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19931/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

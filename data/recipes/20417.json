@@ -1,0 +1,84 @@
+{
+  "id": "20417",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20417/cranberry-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/20417/cranberry-punch/",
+  "title": "Cranberry Punch",
+  "description": "Cranberry-apple juice mixed with ginger ale and garnished with slices of lime and sprigs of mint.",
+  "authors": [
+    "KADA"
+  ],
+  "date_published": "2000-06-13T00:01:04-04:00",
+  "date_modified": "2026-06-17T10:52:31-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 liters cranberry-apple juice",
+    "1 liter ginger ale",
+    "2 limes, thinly sliced",
+    "6 sprigs fresh mint",
+    "6 cups ice"
+  ],
+  "steps": [
+    {
+      "text": "Half-fill 6 tall glasses with ice. Fill to about three quarters with cranberry-apple juice. Pour ginger ale evenly into the glasses. Stir gently. Decorate with lime and mint sprigs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/G0zVY0cDErhuwFlhdqTi7QpzW44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1123092-c16b786b972543c086424c8f5d6d3b75.jpg"
+      ],
+      "image": "assets/images/20417/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "carbohydrateContent": "58 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "25 mg",
+    "sugarContent": "15 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/4FBCeQbp-ma1DlVvV.mp4",
+    "description": "See how to make a bright and tangy refresher for summer or the holidays.",
+    "duration": "PT59S",
+    "name": "Cranberry Punch",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/4FBCeQbp/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T15:58:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/G0zVY0cDErhuwFlhdqTi7QpzW44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1123092-c16b786b972543c086424c8f5d6d3b75.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20417/hero.webp",
+    "steps": [
+      "assets/images/20417/step_01.webp"
+    ]
+  }
+}

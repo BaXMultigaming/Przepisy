@@ -1,0 +1,73 @@
+{
+  "id": "19881",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19881/maplenut-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/19881/maplenut-ice-cream/",
+  "title": "Maplenut Ice Cream",
+  "description": "Vanilla ice cream with hints of maple and crunchy wheat/barley nugget cereal.",
+  "authors": [
+    "HAYWIRE"
+  ],
+  "date_published": "2000-05-14T13:13:08-04:00",
+  "date_modified": "2022-07-14T16:25:19-04:00",
+  "prep_time": "PT4M",
+  "cook_time": null,
+  "total_time": "PT50M",
+  "yield": [
+    "32",
+    "4 quarts"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 quarts milk",
+    "1 (14 ounce) can sweetened condensed milk",
+    "3 eggs, beaten",
+    "2 cups white sugar",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon maple flavored extract",
+    "1 cup wheat and barley nugget cereal (e.g. Grape-Nuts™)"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, condensed milk, eggs, sugar, vanilla, maple extract and cereal in the freezer canister of an ice cream maker. Freeze according to manufacturer's directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "82 mg",
+    "sugarContent": "24 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DFFzHUev6KPTo9yNIGB6yiAhU0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2841533-9a20bc52c81945b59134be4e60552b99.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19881/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

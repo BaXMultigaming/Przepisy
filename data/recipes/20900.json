@@ -1,0 +1,113 @@
+{
+  "id": "20900",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20900/easter-breakfast-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/20900/easter-breakfast-casserole/",
+  "title": "Easter Breakfast Casserole",
+  "description": "A delicious breakfast casserole with bacon and vegetables in the mix. This egg and hash brown breakfast dish is perfect for Easter brunch.",
+  "authors": [
+    "Stephanie"
+  ],
+  "date_published": "2000-09-03T09:33:51-04:00",
+  "date_modified": "2025-11-21T13:25:30-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT75M",
+  "total_time": "PT100M",
+  "yield": [
+    "12",
+    "1 (7x11-inch) casserole"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "cooking spray",
+    "1 pound bacon",
+    "8 large eggs",
+    "2 cups milk",
+    "3 cups shredded Cheddar cheese",
+    "0.25 cup diced onion",
+    "0.25 cup diced green bell pepper",
+    "1 (16 ounce) package frozen hash brown potatoes, thawed"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 7x11-inch casserole dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fry bacon in a large, deep skillet over medium-high heat until evenly browned, about 10 minutes. Drain on a paper towel-lined plate. Crumble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat eggs and milk together in a large bowl; mix in cheese, bacon, onion, and green pepper. Stir in thawed hash browns. Pour mixture into prepared casserole.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover with aluminum foil and bake in preheated oven for 45 minutes. Uncover and bake until eggs have set, another 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/9NfN-mWH2QxAghXy9ocTazXe1Ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4556853-easter-breakfast-casserole-AllrecipesPhoto-1x1-1-3cba620ee76b4a328dbbf8ad1c51e776.jpg"
+      ],
+      "image": "assets/images/20900/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "171 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "538 mg",
+    "sugarContent": "3 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "583"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/xMSI8dDE-K3AjnAEN.mp4",
+    "description": "AR_FEB_0015",
+    "duration": "PT3M7S",
+    "name": "Easter Breakfast Casserole",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/xMSI8dDE/poster.jpg?width=1280",
+    "uploadDate": "2021-07-04T13:36:25-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9NfN-mWH2QxAghXy9ocTazXe1Ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4556853-easter-breakfast-casserole-AllrecipesPhoto-1x1-1-3cba620ee76b4a328dbbf8ad1c51e776.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20900/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/20900/step_04.webp"
+    ]
+  }
+}

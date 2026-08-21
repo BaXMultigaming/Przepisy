@@ -1,0 +1,109 @@
+{
+  "id": "20703",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20703/baked-brunch-omelet/",
+  "requested_url": "https://www.allrecipes.com/recipe/20703/baked-brunch-omelet/",
+  "title": "Baked Brunch Omelet",
+  "description": "A baked egg casserole with cheese, ham and green onions.",
+  "authors": [
+    "WALLEN"
+  ],
+  "date_published": "2000-07-05T10:02:22-04:00",
+  "date_modified": "2022-07-14T18:07:29-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "12",
+    "1 - 9x13 inch pan"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 (1 pound) loaf white bread, cut into cubes",
+    "1.5 pounds Cheddar cheese, shredded",
+    "1 cup cubed cooked ham",
+    "8 eggs",
+    "2 cups milk",
+    "1 pinch salt",
+    "1 dash hot pepper sauce, or to taste",
+    "0.25 cup chopped green onion"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place half of the bread cubes on bottom of baking pan. Sprinkle with half of the ham and then half of the cheese; repeat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, beat together eggs, milk, salt, hot sauce and green onions. Pour egg mixture into pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place pan on top of a baking sheet with a rim and place in oven. Pour water into baking sheet and bake for 60 minutes, or until eggs have set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7FjYfg1I2j7nlc-afNlpmlRvMeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/774534-ddc923ebfb064cac86b9df02fad96aa7.jpg"
+      ],
+      "image": "assets/images/20703/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "375 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "193 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "692 mg",
+    "sugarContent": "3 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "223"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/a9hyHNnt-ma1DlVvV.mp4",
+    "description": "A simple baked egg casserole with ham, cheese, and green onions.",
+    "duration": "PT2M29S",
+    "name": "Baked Brunch Omelet",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/a9hyHNnt/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T01:19:01-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7FjYfg1I2j7nlc-afNlpmlRvMeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/774534-ddc923ebfb064cac86b9df02fad96aa7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20703/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/20703/step_04.webp"
+    ]
+  }
+}
