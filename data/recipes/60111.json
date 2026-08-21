@@ -1,0 +1,114 @@
+{
+  "id": "60111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/60111/margarita-grilled-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/60111/margarita-grilled-shrimp/",
+  "title": "Margarita Grilled Shrimp",
+  "description": "This margarita grilled shrimp recipe features a marinade of cilantro, lime, garlic, tequila, cayenne pepper, and olive oil for a full-flavored kick.",
+  "authors": [
+    "Jenny Thompson"
+  ],
+  "date_published": "2003-04-06T22:22:07-04:00",
+  "date_modified": "2026-08-19T14:29:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT50M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound shrimp, peeled and deveined",
+    "3 tablespoons olive oil",
+    "3 tablespoons chopped fresh cilantro",
+    "2 tablespoons fresh lime juice",
+    "2 cloves garlic, minced",
+    "2 teaspoons tequila",
+    "0.25 teaspoon cayenne pepper",
+    "0.25 teaspoon salt",
+    "4 bamboo skewers, soaked in water for 20 minutes"
+  ],
+  "steps": [
+    {
+      "text": "Combine shrimp, oil, cilantro, lime juice, garlic, tequila, cayenne pepper, and salt in a large bowl. Cover the bowl with plastic wrap; refrigerate for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for high heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove shrimp from marinade and shake off excess; discard remaining marinade. Thread shrimp onto the prepared skewers.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on the preheated grill until shrimp turn pink, 2 to 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/AI8KYD1DRsGfIou4APDfCqhpwK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245122-8c3bfd10fbf949a4b92606ef06ec4e7d.jpg"
+      ],
+      "image": "assets/images/60111/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "188 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "173 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "345 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "364"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/DnsnPrXs-ma1DlVvV.mp4",
+    "description": "Shrimp marinated in tequila, lime juice, cayenne pepper, and garlic will wow your company. Make it cute and serve in a margarita glass, or put them on a skewer! Either way, these will delight because of their spicy ingredients and refreshing lime taste!",
+    "duration": "PT59S",
+    "name": "Margarita Grilled Shrimp",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/DnsnPrXs/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T08:48:18-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AI8KYD1DRsGfIou4APDfCqhpwK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245122-8c3bfd10fbf949a4b92606ef06ec4e7d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/60111/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/60111/step_04.webp"
+    ]
+  }
+}

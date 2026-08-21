@@ -1,0 +1,82 @@
+{
+  "id": "69751",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/69751/shuk-shuka/",
+  "requested_url": "https://www.allrecipes.com/recipe/69751/shuk-shuka/",
+  "title": "Shakshuka (Middle Eastern Baked Eggs)",
+  "description": "Eggs are poached in a garlicky tomato sauce in this traditional Jordanian version of shakshuka, a Middle Eastern and North African classic.",
+  "authors": [
+    "Crystal Miller"
+  ],
+  "date_published": "2019-03-04T23:50:22-05:00",
+  "date_modified": "2024-02-22T06:42:05-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "5 large fresh tomatoes, coarsely chopped",
+    "1 tablespoon minced garlic",
+    "6 eggs",
+    "4 pita bread rounds"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Add chopped tomatoes and garlic, stirring occasionally, until liquid has cooked out of tomatoes. Carefully break eggs over tomatoes without breaking yolks. Lightly season with salt, reduce heat and cover.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Simmer covered for 20 minutes, or until yolks are fully cooked. Adjust seasoning with salt as needed. Serve with pita bread.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "346 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "279 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "438 mg",
+    "sugarContent": "7 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HuBvLPAAP0qQ9aXP6avSmuIo5yM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/69751-Shuk-Shuka-Baking-Nana_823240_original-4x3-1-50c5505c1499489a8e9b6b799500161d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/69751/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

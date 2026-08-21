@@ -1,0 +1,92 @@
+{
+  "id": "64655",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/64655/bacon-cheeseburgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/64655/bacon-cheeseburgers/",
+  "title": "Bacon Cheeseburgers",
+  "description": "This takes a little more effort than the average cheeseburger, but is well worth it! Serve on buns with your favorite condiments.",
+  "authors": [
+    "Naomi Adcock Thompson"
+  ],
+  "date_published": "2018-06-08T09:22:35-04:00",
+  "date_modified": "2025-02-16T16:13:52-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "16",
+    "16 burgers"
+  ],
+  "categories": [
+    "Entree"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound sliced bacon, diced",
+    "5 pounds ground beef chuck",
+    "1 large onion, chopped",
+    "0.25 cup steak sauce",
+    "salt and pepper to taste",
+    "1 pound American cheese slices"
+  ],
+  "steps": [
+    {
+      "text": "Preheat a grill for high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large skillet over medium heat. Fry, stirring occasionally. When the bacon is almost done, add the onion. Cook until the bacon is crisp, and the onion is tender. Remove onion and bacon from the pan with a slotted spoon, and transfer to a food processor. Pulse a couple of times to chop finely. Do not puree. Pour into a large bowl, and mix with steak sauce and ground chuck using your hands. Form into 16 patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place patties on the grill, and cook for 5 minutes per side, or until well done. Place a slice of cheese on top of each one during the last minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "365 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "735 mg",
+    "sugarContent": "1 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/59IOrgcgoT8qNDGMJF56mnd1MQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/292235-b963b95f101f44f3b57191c0097bcd6f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/64655/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

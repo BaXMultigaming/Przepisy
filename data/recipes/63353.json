@@ -1,0 +1,92 @@
+{
+  "id": "63353",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/63353/turkish-coffee-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/63353/turkish-coffee-ice-cream/",
+  "title": "Turkish Coffee Ice Cream",
+  "description": "If you like coffee-flavored ice cream, this rich custard-style ice cream is for you!",
+  "authors": [
+    "Marilyn Perzik"
+  ],
+  "date_published": "2020-06-18T23:10:07-04:00",
+  "date_modified": "2022-08-02T11:35:34-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT450M",
+  "yield": [
+    "8",
+    "1 quart"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "2 cups white sugar",
+    "1.5 cups heavy cream",
+    "1.5 cups milk",
+    "6 egg yolks",
+    "3 tablespoons instant coffee granules",
+    "2 tablespoons finely ground coffee"
+  ],
+  "steps": [
+    {
+      "text": "Bring the water and sugar to a boil in a saucepan over high heat until the sugar dissolves and the syrup turns clear. Pour into a double boiler along with the cream and milk. Whisk until the syrup has dissolved into the milk, then whisk in the egg yolks and instant coffee until completely incorporated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Set the double boiler insert over (but not touching) a pan of gently simmering water. Cook, stirring constantly until the custard has thickened and will stick to the back of a spoon, about 10 minutes. Pour through a mesh strainer into a bowl and stir in the coffee grounds. Refrigerate several hours until cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into an ice cream maker and freeze according to manufacturer's directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "413 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "218 mg",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "44 mg",
+    "sugarContent": "52 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Usly9ebWGDkszdJKAlPVxDEIrU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/733996-0f52b47eb43d45e4a25f64eb0e077ff5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/63353/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "60363",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/60363/starlit-summer-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/60363/starlit-summer-smoothie/",
+  "title": "Starlit Summer Smoothie",
+  "description": "This simple and unique smoothie is perfect for breakfast or snacking. Has a smooth, uniform flavor that makes it light and delicious.",
+  "authors": [
+    "Chef W"
+  ],
+  "date_published": "2020-06-18T23:09:56-04:00",
+  "date_modified": "2020-06-18T23:09:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 red seedless grapes",
+    "0.5 cup milk",
+    "1 (6 ounce) container peach yogurt",
+    "2 tablespoons white sugar",
+    "2 teaspoons vanilla extract",
+    "1 cup ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, mix the grapes, milk, peach yogurt, sugar, vanilla, and ice. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "82 mg",
+    "sugarContent": "37 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CrGgnUJ2VVYKU-CmuBFe87jI0og=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/49016-0379f55110684149ba18804845382b44.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/60363/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

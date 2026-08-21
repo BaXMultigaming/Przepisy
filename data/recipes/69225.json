@@ -1,0 +1,97 @@
+{
+  "id": "69225",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/69225/strawberry-bruschetta/",
+  "requested_url": "https://www.allrecipes.com/recipe/69225/strawberry-bruschetta/",
+  "title": "Strawberry Bruschetta",
+  "description": "This strawberry bruschetta recipe creates a delicious variation on the popular tomato-based version, especially when the sugar topping caramelizes.",
+  "authors": [
+    "Sarah Stephan"
+  ],
+  "date_published": "2004-01-28T11:18:18-05:00",
+  "date_modified": "2025-09-16T10:07:43-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter, softened",
+    "24 slices French baguette",
+    "2 cups chopped fresh strawberries",
+    "0.25 cup white sugar, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread thin layer butter on each bread slice; arrange slices in a single layer on a large baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Broil under the preheated broiler until lightly toasted, 1 to 2 minutes. Divide strawberries among toast pieces; sprinkle with sugar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Broil under the preheated broiler until sugar caramelizes, 3 to 5 minutes. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "120 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "202 mg",
+    "sugarContent": "6 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5I-1Vv5z98R7z0Mw7wYm6LE8Bw0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1281203-b3d965d7ce28422699f8638396640c2e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/69225/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

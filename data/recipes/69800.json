@@ -1,0 +1,69 @@
+{
+  "id": "69800",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/69800/bills-braisin-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/69800/bills-braisin-bread/",
+  "title": "Bill&#39;s Braisin Bread",
+  "description": "Here&#39;s my own recipe for raisin bread made with raisin bran cereal. Enjoy.",
+  "authors": [
+    "WHATS HIS FACE"
+  ],
+  "date_published": "2020-06-18T23:10:38-04:00",
+  "date_modified": "2022-09-15T19:54:49-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT180M",
+  "total_time": "PT190M",
+  "yield": [
+    "12"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "1 (.25 ounce) package active dry yeast",
+    "1 tablespoon white sugar",
+    "3 cups bread flour",
+    "1.5 cups raisin bran cereal",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Med Crust cycle; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "153 kcal",
+    "carbohydrateContent": "32 g",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "240 mg",
+    "sugarContent": "4 g",
+    "fatContent": "1 g",
+    "servingSize": "1 - 1 1/2 pound loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SEj7KaU-6NRj7hT46e8e973BArQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/340652-cfad18dfb73e418a89a2e1380c5a970a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/69800/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

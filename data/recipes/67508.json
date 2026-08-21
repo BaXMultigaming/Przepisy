@@ -1,0 +1,99 @@
+{
+  "id": "67508",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/67508/chris-grilled-orange-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/67508/chris-grilled-orange-chicken/",
+  "title": "Chris&#39; Grilled Orange Chicken",
+  "description": "This is a chicken recipe that my family absolutely loves. It is chicken breast marinated in lime juice, orange juice, lemon juice, mint, and honey. It is very tender and the chicken is very moist.",
+  "authors": [
+    "CLHARTMAN"
+  ],
+  "date_published": "2019-07-10T02:54:01-04:00",
+  "date_modified": "2022-07-14T15:43:20-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT520M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves",
+    "0.25 cup lemon juice",
+    "0.25 cup lime juice",
+    "3 cups orange juice",
+    "0.25 cup crushed fresh mint leaves",
+    "2 tablespoons honey"
+  ],
+  "steps": [
+    {
+      "text": "Place the chicken into a large bowl, and pour in the lemon juice, lime juice and orange juice. Sprinkle the mint leaves over, and drizzle with honey. Cover and refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat a grill for medium heat. When the grill is hot, lightly brush the grate with oil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the chicken onto the preheated grill, and discard the marinade. Cook for 6 to 8 minutes per side, or until no longer pink and juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/70Udr7nh5pwxS8bxVUeBE6jbZXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/254077-5659160ba1c5477a9d18733c7751fbac.jpg"
+      ],
+      "image": "assets/images/67508/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "254 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "80 mg",
+    "sugarContent": "25 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "25"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lWNJH31a-ma1DlVvV.mp4",
+    "description": "Try this delicious marinade for chicken made from lemon, lime and orange juice. It's a refreshingly different take on the usual chicken marinade.",
+    "duration": "PT2M21S",
+    "name": "Chris' Grilled Orange Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lWNJH31a/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T01:04:37-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/70Udr7nh5pwxS8bxVUeBE6jbZXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/254077-5659160ba1c5477a9d18733c7751fbac.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/67508/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/67508/step_03.webp"
+    ]
+  }
+}

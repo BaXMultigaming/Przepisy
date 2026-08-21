@@ -1,0 +1,84 @@
+{
+  "id": "68341",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/68341/wheat-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/68341/wheat-salad/",
+  "title": "Wheat Salad",
+  "description": "I serve this creamy wheat and pineapple salad at Thanksgiving and Christmas dinner. It&#39;s a family favorite!",
+  "authors": [
+    "Melanie"
+  ],
+  "date_published": "2019-07-10T02:54:01-04:00",
+  "date_modified": "2026-05-09T12:28:31-04:00",
+  "prep_time": "PT300M",
+  "cook_time": "PT300M",
+  "total_time": "PT600M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups whole wheat berries",
+    "1 (8 ounce) package cream cheese, softened",
+    "1 (15.25 ounce) can crushed pineapple in juice, drained",
+    "2 tablespoons lemon juice",
+    "1 (3.4 ounce) package instant vanilla pudding mix",
+    "1 (8 ounce) tub frozen whipped topping, thawed"
+  ],
+  "steps": [
+    {
+      "text": "Soak wheat berries in a bowl of water for at least 5 hours or overnight. Drain and place in a slow cooker with enough water to cover by one inch. Cover, and cook on Low setting for 5 to 6 hours, until tender. Add more water if needed. When tender, drain, and rinse under cold water to chill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, stir together the cream cheese, pineapple and lemon juice. Stir in the dry pudding mix until smooth. Stir in the wheat berries until evenly coated. Fold in whipped topping just before serving. Refrigerate any leftovers.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "284 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "213 mg",
+    "sugarContent": "19 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Twm1IP8zaNKKRStBWROpfAcLVwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/939140-7b5804cc62764f06b87a02a9c9670fb0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/68341/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

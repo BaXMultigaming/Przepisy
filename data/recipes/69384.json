@@ -1,0 +1,88 @@
+{
+  "id": "69384",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/69384/soy-milk-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/69384/soy-milk-pancakes/",
+  "title": "Soy Milk Pancakes",
+  "description": "Craving pancakes, but all you have is soy milk? Then this is the perfect solution!",
+  "authors": [
+    "LADYBACH"
+  ],
+  "date_published": "2020-06-18T23:10:36-04:00",
+  "date_modified": "2026-07-02T22:34:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup all-purpose flour",
+    "1.5 tablespoons white sugar",
+    "2 teaspoons baking powder",
+    "0.5 teaspoon baking soda",
+    "0.25 teaspoon salt",
+    "1 cup vanilla soy milk",
+    "1 egg, lightly beaten",
+    "2 teaspoons vegetable oil",
+    "0.5 teaspoon vanilla extract",
+    "0.5 teaspoon almond extract"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, whisk together the flour, sugar, baking powder, baking soda, and salt. In a small bowl, mix the vanilla soy milk, egg, oil, vanilla extract, and almond extract. Pour the soy milk mixture into the bowl with the flour mixture, and whisk together until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grease a skillet, and heat over medium low heat. Pour about 1/4 cup batter onto the heated skillet, and cook until bubbly. Flip with a spatula, and continue cooking about 1 minute, until golden brown. Repeat with the remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "404 kcal",
+    "carbohydrateContent": "64 g",
+    "cholesterolContent": "93 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1055 mg",
+    "sugarContent": "14 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "122"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BEO19OYxKJUqoP5m9g70vgcJjuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1128035-soy-milk-pancakes-Keri-Bailey-4x3-1-f4ec6d5b37ed4794b2311d3173c915db.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/69384/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

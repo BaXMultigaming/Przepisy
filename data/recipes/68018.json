@@ -1,0 +1,82 @@
+{
+  "id": "68018",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/68018/chicken-fried-pheasant/",
+  "requested_url": "https://www.allrecipes.com/recipe/68018/chicken-fried-pheasant/",
+  "title": "Chicken Fried Pheasant",
+  "description": "This chicken-fried pheasant recipe dips pheasant breasts in a milk-vinegar mixture then dredges them in cracker crumbs before frying to crispy perfection.",
+  "authors": [
+    "KATHYKOEHN"
+  ],
+  "date_published": "2018-03-21T12:35:05-04:00",
+  "date_modified": "2025-05-19T15:04:08-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1.5 tablespoons distilled white vinegar",
+    "1 cup finely crushed saltine cracker crumbs",
+    "2 pheasant breast halves, thinly sliced",
+    "1 cup canola oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk and vinegar in a shallow bowl. Place cracker crumbs in another shallow bowl. Dip pheasant slices in milk mixture, then press into cracker crumbs until both sides coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Add pheasant; cook until golden, about 5 minutes per side. Drain on paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "275 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "58 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "243 mg",
+    "sugarContent": "3 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ihb6PwEkgV2JzIYVExebDGoeAmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4573562-e1ba82fa96e64caea89032f51f6c8697.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/68018/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

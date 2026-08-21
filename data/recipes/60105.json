@@ -1,0 +1,80 @@
+{
+  "id": "60105",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/60105/tomato-dill-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/60105/tomato-dill-soup/",
+  "title": "Tomato Dill Soup",
+  "description": "This is a fantastic tomato dill soup recipe hot or cold. I&#39;m sure you will want to double it, I always do. Garnish with sour cream, for a simple, comforting bowl.",
+  "authors": [
+    "zale"
+  ],
+  "date_published": "2019-04-02T02:45:43-04:00",
+  "date_modified": "2022-06-30T08:27:11-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "4"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "2 cloves garlic, minced",
+    "1 onion, chopped",
+    "1 (28 ounce) can peeled and diced tomatoes",
+    "0.5 teaspoon dried dill weed",
+    "0.25 teaspoon salt",
+    "0.25 teaspoon pepper",
+    "1 (10.5 ounce) can condensed chicken broth",
+    "1 bay leaf"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a saucepan over medium heat. Add onion and garlic, and cook, stirring until tender. Stir in tomatoes and condensed chicken broth, and season with dill weed, salt, pepper, and bay leaf. Bring to a boil, then reduce heat and simmer for 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat, and discard bay leaf. Use a food processor or blender to purée the soup in small batches until smooth. Serve immediately, or chill and serve cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "128 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "963 mg",
+    "sugarContent": "7 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "65"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JYhJgeR2fYtQWrZ7a3z8XwsjfjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/645456-d8e1c64c03c7471ba98f751f18f6639e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/60105/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

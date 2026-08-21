@@ -1,0 +1,112 @@
+{
+  "id": "64014",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/64014/apple-cider-beef-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/64014/apple-cider-beef-stew/",
+  "title": "Apple Cider Beef Stew",
+  "description": "In this savory stew, apple cider and sliced apple bring sweetness while cider vinegar adds tang to a one-pot meal made with beef, carrots, potatoes, and celery. Serve with a hearty, crusty bread.",
+  "authors": [
+    "CHARLESTONCSA"
+  ],
+  "date_published": "2019-12-18T20:45:00-05:00",
+  "date_modified": "2026-06-08T15:12:47-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT135M",
+  "total_time": "PT165M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons all-purpose flour",
+    "2 teaspoons salt",
+    "1 teaspoon ground black pepper",
+    "0.5 teaspoon dried thyme",
+    "2 pounds cubed beef stew meat",
+    "3 tablespoons olive oil",
+    "2.5 cups apple cider",
+    "0.75 cup water",
+    "0.25 cup apple cider vinegar",
+    "1 large bay leaf",
+    "4 carrots, sliced",
+    "3 potatoes, cubed",
+    "2 onions, diced",
+    "2 celery stalks, chopped",
+    "1 large McIntosh apple, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Combine flour, salt, pepper, and thyme in a bowl. Toss beef cubes in the flour mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a Dutch oven or large pot over medium-high heat. Working in batches, brown beef cubes on all sides. Combine browned meat, apple cider, water, and cider vinegar in the pot and bring it to a boil. Add bay leaf; reduce heat to low. Simmer, partially covered, for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in carrots, potatoes, onions, celery, and apple and simmer until the vegetables are tender, about 1 hour more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/oHjzlkQf8it27y_FSnNmnWRF4I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7114883-f3d838472fdc46e4a23afc86807cfb59.jpg"
+      ],
+      "image": "assets/images/64014/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "526 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "891 mg",
+    "sugarContent": "21 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "73"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/YeqOtAqD-K3AjnAEN.mp4",
+    "description": "This warm and hearty stew is an easy and cozy dinner! The fall and winter flavors of apple cider are sure to please!",
+    "duration": "PT2M",
+    "name": "Apple Cider Beef Stew ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/YeqOtAqD/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T12:40:15-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oHjzlkQf8it27y_FSnNmnWRF4I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7114883-f3d838472fdc46e4a23afc86807cfb59.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/64014/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/64014/step_03.webp"
+    ]
+  }
+}

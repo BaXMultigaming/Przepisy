@@ -1,0 +1,99 @@
+{
+  "id": "66646",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/66646/potato-chips/",
+  "requested_url": "https://www.allrecipes.com/recipe/66646/potato-chips/",
+  "title": "Potato Chips",
+  "description": "These microwave potato chips are made with mandoline-sliced potatoes tossed in oil and seasoned with salt for an easy-to-make crunchy, natural snack.",
+  "authors": [
+    "Jessica"
+  ],
+  "date_published": "2019-04-02T02:45:57-04:00",
+  "date_modified": "2025-12-28T11:16:35-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT10M",
+  "total_time": "PT40M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "cooking spray",
+    "1 tablespoon vegetable oil",
+    "1 potato, sliced paper thin (peel optional)",
+    "0.5 teaspoon salt, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Lightly grease a large dinner plate with cooking spray; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour oil into a plastic bag (a produce bag works well). Add potato slices and shake to coat. Arrange potato slices in a single layer on the prepared plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook in the microwave on high until lightly browned, 3 to 5 minutes. Remove chips to a large bowl and toss with salt. Chips will crisp as they cool. Repeat with remaining potato slices; no need to grease the plate again.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/TIYpMO7rCfUtyaFNltzFC789_h8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969840-19bd7d245a4e4d97aa414241610820cd.jpg"
+      ],
+      "image": "assets/images/66646/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "80 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "295 mg",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1000"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/yPtZAeQQ-ma1DlVvV.mp4",
+    "description": "This video shows you how to make crispy, crunchy homemade potato chips in the microwave. Incredible! Best of all, the only oil you need is a tablespoon of vegetable oil! For the best results, use a mandoline to slice the potatoes paper thin. They’re a perfect side for burgers and sandwiches—and they’re delicious for munching while watching the big game with a cold beer.",
+    "duration": "PT2M20S",
+    "name": "Potato Chips",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/yPtZAeQQ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T02:27:37-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TIYpMO7rCfUtyaFNltzFC789_h8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969840-19bd7d245a4e4d97aa414241610820cd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/66646/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/66646/step_03.webp"
+    ]
+  }
+}

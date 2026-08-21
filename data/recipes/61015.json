@@ -1,0 +1,83 @@
+{
+  "id": "61015",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/61015/beetroot-relish/",
+  "requested_url": "https://www.allrecipes.com/recipe/61015/beetroot-relish/",
+  "title": "Beetroot Relish",
+  "description": "A delicious and colorful side dish, especially good served with lamb or other grilled meats.",
+  "authors": [
+    "AUSSIE GIRL"
+  ],
+  "date_published": "2020-06-18T23:09:58-04:00",
+  "date_modified": "2022-07-14T16:05:17-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 medium beets, scrubbed and chopped",
+    "1 cup chopped onion",
+    "1 cup chopped red bell pepper",
+    "1 stalk celery, chopped",
+    "2 tablespoons salt",
+    "0.5 cup white sugar",
+    "1 cup chopped cauliflower",
+    "3 tablespoons mustard seed",
+    "1 tablespoon celery seed",
+    "1 cup white vinegar"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot, combine the beets, onion, red bell pepper, celery, sugar, and cauliflower. Season with salt, mustard seed, and celery seed, then stir in vinegar. Bring to a boil, then reduce heat to low.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Simmer, stirring occasionally, until vegetables are tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "179 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "6 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "2447 mg",
+    "sugarContent": "29 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ktiSSgLgwwiuPFsa2PCRVqUT_Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27036-6e2899a1da3d4e0ca5d28efbfd0ad530.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/61015/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

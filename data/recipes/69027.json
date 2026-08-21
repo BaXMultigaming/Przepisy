@@ -1,0 +1,83 @@
+{
+  "id": "69027",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/69027/lentils-with-tomatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/69027/lentils-with-tomatoes/",
+  "title": "Lentils with Tomatoes",
+  "description": "This Middle Eastern dish of lentils and tomatoes is deliciously simple and easy to make. Serve it with rice or couscous to make it a meal.",
+  "authors": [
+    "Mary Hansen Smith"
+  ],
+  "date_published": "2019-04-03T23:32:09-04:00",
+  "date_modified": "2026-08-05T12:44:21-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT75M",
+  "total_time": "PT90M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 quart water",
+    "1 cup dry lentils",
+    "3 tablespoons olive oil",
+    "1 medium green bell pepper, chopped",
+    "1 medium onion, chopped",
+    "2.5 cups peeled, seeded, and chopped tomatoes",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring water to a boil in a pot and stir in lentils. Reduce the heat and simmer 20 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium heat. Add bell pepper and onion and cook, stirring, until tender. Mix in tomatoes and season with salt and pepper. Stir in lentils, reduce the heat, and simmer until lentils are tender, 25 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "266 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "12 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "7 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "153"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cQTbN3ESyRpsLgUkyrl27cknEJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8280176-991dc85a1e564281b6add865bdf5ae68.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/69027/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

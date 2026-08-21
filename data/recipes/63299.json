@@ -1,0 +1,85 @@
+{
+  "id": "63299",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/63299/spaghetti-with-garlic-and-basil/",
+  "requested_url": "https://www.allrecipes.com/recipe/63299/spaghetti-with-garlic-and-basil/",
+  "title": "Spaghetti with Garlic and Basil",
+  "description": "A simple, fresh-tasting summer dish. Pasta is tossed with garlic, basil, butter, and olive oil.",
+  "authors": [
+    "Marilyn Perzik"
+  ],
+  "date_published": "2018-06-08T09:22:22-04:00",
+  "date_modified": "2026-08-05T16:35:22-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package uncooked spaghetti",
+    "0.25 cup extra-virgin olive oil",
+    "0.25 cup unsalted butter, melted",
+    "4 cloves garlic, minced",
+    "1 cup fresh basil, coarsely chopped",
+    "salt and pepper to taste",
+    "0.5 cup freshly grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Place spaghetti in the pot, cook for 8 to 10 minutes, until al dente, and drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, toss the spaghetti with the olive oil, butter, garlic, basil, salt, and pepper until evenly coated. Serve with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "336 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "79 mg",
+    "sugarContent": "0 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "123"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5Xxp_rTUSQrXshOJMymIXxbnZBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/63299spaghetti-with-garlic-and-basilChefMo-b33addaaae4f4e67a1c0194cf0182ca9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/63299/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

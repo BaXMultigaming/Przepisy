@@ -1,0 +1,104 @@
+{
+  "id": "62423",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/62423/beer-lime-grilled-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/62423/beer-lime-grilled-chicken/",
+  "title": "Beer Lime Grilled Chicken",
+  "description": "This grilled chicken is first marinated with a combination of beer, lime juice and spices. It&#39;s just amazing!",
+  "authors": [
+    "Lauren"
+  ],
+  "date_published": "2018-06-08T09:22:15-04:00",
+  "date_modified": "2024-12-01T01:41:16-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT14M",
+  "total_time": "PT54M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 lime, juiced",
+    "1 (12 fluid ounce) can light colored beer",
+    "1 teaspoon honey",
+    "2 cloves garlic, minced",
+    "2 tablespoons chopped fresh cilantro",
+    "Salt and pepper",
+    "4 skinless, boneless chicken breast halves"
+  ],
+  "steps": [
+    {
+      "text": "In a bowl, mix the lime juice, beer, honey, garlic, cilantro, and salt and pepper until the honey dissolves. Pour the mixture over the chicken, cover and marinate for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove chicken from marinade and shake off excess; discard remaining marinade. Grill chicken until tender and juices run clear, about 7 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NF3E6Oh5apWeGOUusiq0mlSzLP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/385492-195bc1d6546943b8aae1ae555c669d3e.jpg"
+      ],
+      "image": "assets/images/62423/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "67 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "63 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "489"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/QCdugSgz-ma1DlVvV.mp4",
+    "description": "AR1134",
+    "duration": "PT3M4S",
+    "name": "Beer Lime Grilled Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/QCdugSgz/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T10:35:14-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NF3E6Oh5apWeGOUusiq0mlSzLP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/385492-195bc1d6546943b8aae1ae555c669d3e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/62423/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/62423/step_03.webp"
+    ]
+  }
+}

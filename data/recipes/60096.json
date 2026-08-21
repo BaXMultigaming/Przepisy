@@ -1,0 +1,85 @@
+{
+  "id": "60096",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/60096/maple-curry-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/60096/maple-curry-chicken/",
+  "title": "Maple-Curry Chicken",
+  "description": "Maple syrup brings a unique flavor to a great curry chicken dish.",
+  "authors": [
+    "Matt HG"
+  ],
+  "date_published": "2020-06-18T23:09:55-04:00",
+  "date_modified": "2023-02-05T20:22:23-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "2 tablespoons olive oil",
+    "1 large onion, chopped",
+    "1 red bell pepper, seeded and chopped",
+    "1 yellow bell pepper, seeded and chopped",
+    "1 green bell pepper, seeded and chopped",
+    "2 cups cubed cooked chicken breast meat",
+    "3 cloves garlic, minced",
+    "1 teaspoon sugar",
+    "0.25 cup pure maple syrup",
+    "1 cup heavy cream",
+    "2.5 tablespoons hot curry paste"
+  ],
+  "steps": [
+    {
+      "text": "Heat butter and oil in a large skillet over medium heat. Add onion and bell peppers; cook until onion is soft and translucent. Mix in cooked chicken and garlic, then sprinkle with sugar. Cook and stir for about 3 minutes, then stir in maple syrup and cook until caramelized, about 5 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in heavy cream and curry paste; reduce heat to low and simmer uncovered until sauce reaches desired thickness, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "546 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "149 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "292 mg",
+    "sugarContent": "18 g",
+    "fatContent": "40 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "97"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/C0tKnVWObe97TwsDg0hFm5bN6IE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237573-maple-curry-chicken-gapch1026-4x3-1-c21159ade3284fa998594d407bac8528.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/60096/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

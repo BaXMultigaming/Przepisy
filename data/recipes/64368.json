@@ -1,0 +1,80 @@
+{
+  "id": "64368",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/64368/amazing-brown-rice-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/64368/amazing-brown-rice-salad/",
+  "title": "Amazing Brown Rice Salad",
+  "description": "Everyone will love this cold salad made with brown rice, dried cranberries, and balsamic vinaigrette.",
+  "authors": [
+    "Suzanne Gwinn"
+  ],
+  "date_published": "2020-06-18T23:10:16-04:00",
+  "date_modified": "2022-01-17T18:21:53-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT195M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cup brown rice",
+    "0.25 cup diced red onion",
+    "0.5 cup diced celery",
+    "0.25 cup dried cranberries",
+    "0.5 cup balsamic vinaigrette salad dressing",
+    "1 tablespoon sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, bring water to a boil. Stir in rice, cover, and reduce heat to low. Simmer for 45 to 60 minutes, or until done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer rice to a serving bowl, and stir in onion, celery, cranberries, salad dressing and sugar. Cover, refrigerate, and serve cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "302 kcal",
+    "carbohydrateContent": "50 g",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "365 mg",
+    "sugarContent": "10 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "110"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wV9xnE9tWuNxx9AV8q0nuXPSZyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9442522-3755242c38dc4e429896474bf9a0a534.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/64368/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

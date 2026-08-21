@@ -1,0 +1,88 @@
+{
+  "id": "60309",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/60309/alis-green-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/60309/alis-green-sauce/",
+  "title": "Ali&#39;s Green Sauce",
+  "description": "This creamy sauce - made from fresh avocado, tomatillos, sour cream, and seasonings - is extremely similar to a very well known Mexican restaurant&#39;s sauce. Serve with salsa and tortilla chips. Better double the recipe because this dip goes fast!",
+  "authors": [
+    "Ali_B"
+  ],
+  "date_published": "2020-02-01T02:50:31-05:00",
+  "date_modified": "2025-03-03T09:27:29-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 avocados, peeled and pitted",
+    "3 green tomatoes",
+    "4 fresh tomatillos, husks removed",
+    "3 cloves garlic, peeled",
+    "2 jalapeno peppers, seeded and halved",
+    "5 sprigs fresh cilantro",
+    "1.5 cups sour cream",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place tomatoes, tomatillos, garlic, and jalapenos in a saucepan, and add enough water to cover. Bring to a boil, and cook for 15 minutes, or until vegetables are tender. Remove from heat, drain, and allow to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place avocados, the cooked vegetables, sour cream, and cilantro in a blender or food processor, and blend until smooth. Season to taste with salt. Cover, and refrigerate until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "155 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "24 mg",
+    "sugarContent": "2 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/n11br9K8uaqQfjycncOXc9Ra1EE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/636162-222a0640132b47e08b9f54b672f21263.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/60309/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

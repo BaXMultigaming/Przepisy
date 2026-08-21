@@ -1,0 +1,78 @@
+{
+  "id": "68600",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/68600/berry-refresher/",
+  "requested_url": "https://www.allrecipes.com/recipe/68600/berry-refresher/",
+  "title": "Berry Refresher",
+  "description": "This recipe is a perfect refresher for a hot summer day or to quench a raging thirst! Absolutely delicious! To make it thick, simply use berries frozen!",
+  "authors": [
+    "Leslie Straub"
+  ],
+  "date_published": "2020-06-18T23:10:32-04:00",
+  "date_modified": "2022-08-08T10:39:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup apple juice",
+    "1 cup orange juice",
+    "0.33333334326744 cup milk",
+    "1 tablespoon honey",
+    "2 frozen strawberries, thawed",
+    "0.33333334326744 cup frozen raspberries, thawed",
+    "0.66666668653488 cup frozen blueberries, thawed",
+    "3 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "Place the apple juice, orange juice, milk, honey, strawberries, raspberries, blueberries, and ice cubes in a blender. Blend until slushy. Serve cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "120 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "24 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Vu-EejZjhTtJNV9ugwW7lOgoSbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/879811-a88565bdcc9b4e23944bc16a267df195.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/68600/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

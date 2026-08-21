@@ -1,0 +1,77 @@
+{
+  "id": "65300",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/65300/tomato-basil-and-feta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/65300/tomato-basil-and-feta-salad/",
+  "title": "Tomato, Basil, and Feta Salad",
+  "description": "This Mediterranean-inspired tomato and feta salad with crunchy cucumber and fresh basil is full of flavor and a wonderful addition to any meal.",
+  "authors": [
+    "VANCGIRL2"
+  ],
+  "date_published": "2018-06-08T09:22:39-04:00",
+  "date_modified": "2026-04-08T14:09:26-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 roma (plum) tomatoes, diced",
+    "1 small cucumber - peeled, quartered lengthwise, and chopped",
+    "3 green onions, chopped",
+    "0.25 cup fresh basil leaves, cut into thin strips",
+    "3 tablespoons crumbled feta cheese",
+    "3 tablespoons olive oil",
+    "2 tablespoons balsamic vinegar",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss tomatoes, cucumber, green onions, basil, feta, oil, and vinegar together in a large bowl. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "140 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "89 mg",
+    "sugarContent": "5 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "323"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2D4fxIaSyXchzeL4MpkDO8bRAaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/691785-3d7a7b3dacc643579f6b364cd4bee40e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/65300/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

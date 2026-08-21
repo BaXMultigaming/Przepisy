@@ -1,0 +1,78 @@
+{
+  "id": "64116",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/64116/creamy-spiced-coleslaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/64116/creamy-spiced-coleslaw/",
+  "title": "Creamy Spiced Coleslaw",
+  "description": "This creamy coleslaw recipe features mild spices like celery seed, onion powder, and garlic powder which complement each other for a delicious result.",
+  "authors": [
+    "Wilemon"
+  ],
+  "date_published": "2020-06-18T23:10:13-04:00",
+  "date_modified": "2026-02-23T12:54:26-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT65M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mayonnaise",
+    "2 tablespoons sugar",
+    "2 tablespoons cider vinegar",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon pepper",
+    "0.5 teaspoon celery seed",
+    "0.5 teaspoon garlic powder",
+    "0.5 teaspoon onion powder",
+    "1 (16 ounce) package shredded coleslaw mix"
+  ],
+  "steps": [
+    {
+      "text": "Mix mayonnaise, sugar, cider vinegar, salt, pepper, celery seed, garlic powder, and onion powder together in a large bowl. Add coleslaw mix and toss to coat. Cover and chill for at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "315 mg",
+    "sugarContent": "4 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "473"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/N-jM-0G11mRmfJvdIrHq3MJIVAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/64116-creamy-spiced-coleslaw-VAT-beauty-4x3-940fea8a2da84ecbb948862d6433cd1d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/64116/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

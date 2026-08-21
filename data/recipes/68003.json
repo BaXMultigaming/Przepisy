@@ -1,0 +1,123 @@
+{
+  "id": "68003",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/68003/chimichurri-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/68003/chimichurri-sauce/",
+  "title": "Chimichurri Sauce",
+  "description": "This chimichurri sauce, made with fresh parsley, ground cumin, oregano, and garlic blended with hot sauce and red wine vinegar, is great with grilled meats.",
+  "authors": [
+    "COOKINCOWGIRLS"
+  ],
+  "date_published": "2018-06-08T09:22:53-04:00",
+  "date_modified": "2024-08-19T00:39:14-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Argentine",
+    "South American"
+  ],
+  "regions": [
+    "Argentine",
+    "South American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup fresh parsley",
+    "0.75 cup extra virgin olive oil",
+    "3 tablespoons red wine vinegar",
+    "2 tablespoons dried oregano",
+    "2 teaspoons ground cumin",
+    "1.5 teaspoons minced garlic",
+    "1.5 teaspoons pepper sauce (such as Frank's Red Hot®)",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2VbphLhMoJGB67JZ4aUf8KFpR-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/68003-chimichurri-sauce-step-1-BG-8561-2-e084bb122dcb4202a44576845c70a832.jpg"
+      ],
+      "image": "assets/images/68003/step_01.webp"
+    },
+    {
+      "text": "Combine parsley, oil, vinegar, oregano, cumin, garlic, hot sauce, and salt in a blender or food processor.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/guaK8AgzwpAJ6mcnoc58e85zk9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/68003-chimichurri-sauce-step-2-BG-8563-2-328bf6eff19541cab308d69dfc040534.jpg"
+      ],
+      "image": "assets/images/68003/step_02.webp"
+    },
+    {
+      "text": "Mix on medium speed until ingredients are evenly blended, about 10 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/oHY2Er4PHwg07s2eqvMMLVVbKJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/68003-chimichurri-sauce-step-3-BG-8568-2-51d7c6f0380b48b789e9e547580bfc75.jpg"
+      ],
+      "image": "assets/images/68003/step_03.webp"
+    },
+    {
+      "text": "Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kk6ONJCWjQTG0mrlJ0hBL_kgZzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/68003-chimichurri-sauce-beauty-4x3-BG-8592-bee7b4149be44a919299ef7c772ba4ce.jpg"
+      ],
+      "image": "assets/images/68003/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "133 kcal",
+    "carbohydrateContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "201 mg",
+    "sugarContent": "0 g",
+    "fatContent": "14 g",
+    "servingSize": "1 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "242"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/MPFJ01Aj-K3AjnAEN.mp4",
+    "description": "See how to make the famous parsley sauce for grilled meats.",
+    "duration": "PT1M32S",
+    "name": "Chimichurri Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/MPFJ01Aj/thumbnails/VrUOaZWG.jpg?width=1280",
+    "uploadDate": "2021-07-19T15:11:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kk6ONJCWjQTG0mrlJ0hBL_kgZzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/68003-chimichurri-sauce-beauty-4x3-BG-8592-bee7b4149be44a919299ef7c772ba4ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/68003/hero.webp",
+    "steps": [
+      "assets/images/68003/step_01.webp",
+      "assets/images/68003/step_02.webp",
+      "assets/images/68003/step_03.webp",
+      "assets/images/68003/step_04.webp"
+    ]
+  }
+}

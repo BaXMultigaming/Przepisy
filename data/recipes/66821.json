@@ -1,0 +1,75 @@
+{
+  "id": "66821",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/66821/red-apple-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/66821/red-apple-milkshake/",
+  "title": "Red Apple Milkshake",
+  "description": "You will love this yummy, refreshing shake! All skim milk and no ice cream makes for a guilt-free treat.",
+  "authors": [
+    "Sapna"
+  ],
+  "date_published": "2020-06-18T23:10:26-04:00",
+  "date_modified": "2025-02-27T12:06:56-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 red apple - peeled, cored, and chopped",
+    "2 cups cold skim milk",
+    "2 tablespoons white sugar",
+    "fresh mint leaves for garnish"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, blend the apple, skim milk, and sugar until smooth. Garnish with mint to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "104 mg",
+    "sugarContent": "32 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.3",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lZ8W_Z2d3P3VZa6IrdN5UHgPBFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2285290-9e947879ada4492fbb1470ca2f2fde63.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/66821/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

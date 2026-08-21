@@ -1,0 +1,85 @@
+{
+  "id": "63310",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/63310/marilyns-green-beans-italiano/",
+  "requested_url": "https://www.allrecipes.com/recipe/63310/marilyns-green-beans-italiano/",
+  "title": "Marilyn&#39;s Green Beans Italiano",
+  "description": "Fresh green beans are cooked in butter with seasoned bread crumbs and Parmesan cheese for a quick and tasty side dish.",
+  "authors": [
+    "Marilyn Perzik"
+  ],
+  "date_published": "2019-04-02T02:45:49-04:00",
+  "date_modified": "2024-11-25T21:04:31-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds fresh green beans, trimmed and cut into 1-inch pieces",
+    "0.25 cup butter",
+    "0.5 cup Italian-seasoned bread crumbs",
+    "0.25 cup grated Parmesan cheese",
+    "salt and pepper to taste",
+    "1.5 teaspoons chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Place the green beans in a saucepan with a lid and pour enough water over the beans to cover; bring to a boil. Reduce the heat to low and cover; simmer until the beans are tender but still crisp, about 10 minutes. Drain. Spread the beans onto paper towels to dry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in a large skillet over medium-low heat; stir the bread crumbs and Parmesan cheese into the melted butter. Reduce heat to low; add the beans and cook and stir until the beans are heated through and the crumbs are beginning to brown, about 3 minutes. Season with salt and pepper. Sprinkle the parsley over the mixture to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "156 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "283 mg",
+    "sugarContent": "2 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "66"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fl2owk4yL7bFY81eAOIfOw8vD48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3275513-d04c0beeec4540aa8c35b62c02af8e4a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/63310/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

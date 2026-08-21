@@ -1,0 +1,71 @@
+{
+  "id": "68460",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/68460/hot-fruit-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/68460/hot-fruit-salad/",
+  "title": "Hot Fruit Salad",
+  "description": "This is a great hot salad to serve on a cold night. This tastes great with any dish and can be changed according to your tastes.",
+  "authors": [
+    "dutchkidzx2"
+  ],
+  "date_published": "2020-03-04T23:58:32-05:00",
+  "date_modified": "2022-01-28T14:14:00-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT90M",
+  "total_time": "PT100M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (20 ounce) jar chunky applesauce",
+    "1 (21 ounce) can cherry pie filling",
+    "1 (15 ounce) can sliced peaches, drained",
+    "1 (11 ounce) can mandarin orange segments, drained",
+    "1 (8 ounce) can pineapple chunks",
+    "0.5 cup brown sugar",
+    "1 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Pour the applesauce, cherry pie filling, sliced peaches, mandarin oranges, pineapple, brown sugar and cinnamon into a slow cooker. Cover, and cook on Low setting for 90 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "149 kcal",
+    "carbohydrateContent": "38 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "22 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/obxRxhXJXWE024Bo7vxRr32Prys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1090244-d060162d722945999ed52c004125f3ab.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/68460/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
