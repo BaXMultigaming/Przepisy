@@ -1,0 +1,85 @@
+{
+  "id": "83368",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/83368/easy-red-pepper-hummus/",
+  "requested_url": "https://www.allrecipes.com/recipe/83368/easy-red-pepper-hummus/",
+  "title": "Easy Red Pepper Hummus",
+  "description": "Red Pepper Hummus that has been a favorite of all my friends. Easy to make! Serve with chips, pita chips, veggies, or whatever.",
+  "authors": [
+    "kfordham281"
+  ],
+  "date_published": "2019-04-03T23:33:35-04:00",
+  "date_modified": "2022-01-14T02:18:33-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) can garbanzo beans, drained and rinsed",
+    "1 tablespoon olive oil",
+    "1 medium red bell pepper, cut into 1/2 inch pieces",
+    "1 tablespoon tahini",
+    "1 fresh lime, juiced",
+    "1.5 tablespoons water",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "0.25 teaspoon garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "In a food processor or blender, mix the garbanzo beans, olive oil, red bell pepper, tahini, lime juice, water, salt, black pepper, and garlic powder. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Gjo3jo_X0DlbK1zyiYyOOBU-NwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2607360-85ce0cc816c249248349cb3aff4d353e.jpg"
+      ],
+      "image": "assets/images/83368/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "101 kcal",
+    "carbohydrateContent": "15 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "318 mg",
+    "sugarContent": "1 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "131"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/CNSqeY7j-ma1DlVvV.mp4",
+    "description": "AR0858",
+    "duration": "PT1M39S",
+    "name": "Easy Red Pepper Hummus",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/CNSqeY7j/poster.jpg?width=1280",
+    "uploadDate": "2021-07-23T15:40:09-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Gjo3jo_X0DlbK1zyiYyOOBU-NwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2607360-85ce0cc816c249248349cb3aff4d353e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/83368/hero.webp",
+    "steps": [
+      "assets/images/83368/step_01.webp"
+    ]
+  }
+}

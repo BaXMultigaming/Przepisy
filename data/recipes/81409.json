@@ -1,0 +1,97 @@
+{
+  "id": "81409",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/81409/molasses-baked-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/81409/molasses-baked-chicken/",
+  "title": "Molasses Baked Chicken",
+  "description": "A molasses, vinegar, and mustard sauce adds a nice flavor to baked chicken.",
+  "authors": [
+    "Jane Baier Warren"
+  ],
+  "date_published": "2018-06-08T09:25:30-04:00",
+  "date_modified": "2022-07-18T19:55:02-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (3 pound) whole chicken, cut into pieces",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "1 teaspoon ground cinnamon",
+    "2 tablespoons molasses",
+    "2 tablespoons cider vinegar",
+    "2 tablespoons Dijon mustard"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a large baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season the chicken with salt, pepper, and cinnamon. Arrange in the prepared baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, mix the molasses, vinegar, and mustard.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake chicken 20 minutes in the preheated oven. Coat chicken with the molasses mixture. Continue baking 20 minutes, or until chicken juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "312 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "97 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "609 mg",
+    "sugarContent": "4 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RDY8Op5IAvUDtjSsR8fqtz4d50g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/773325-3f7df93d2fb545ccbb3adbc11e1e5a67.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/81409/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

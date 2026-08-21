@@ -1,0 +1,100 @@
+{
+  "id": "82082",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/82082/easy-bbq-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/82082/easy-bbq-sauce/",
+  "title": "Easy BBQ Sauce",
+  "description": "Crushed fennel seeds give this easy sauce a distinctive flavor. Great as a dip or for glazing ribs or chicken.",
+  "authors": [
+    "ShonaD"
+  ],
+  "date_published": "2020-03-04T23:59:11-05:00",
+  "date_modified": "2025-05-20T11:57:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 small onion, chopped",
+    "3 cloves garlic, crushed",
+    "1 fresh red chile pepper, finely chopped",
+    "0.25 cup dark brown sugar",
+    "1 teaspoon fennel seed, crushed",
+    "1 cup ketchup",
+    "2 tablespoons dark soy sauce",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qHQRnAnnQ3P9S3wAzWRCDQ4Y6n8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/82082-easy-bbq-sauce-DDMFS-3x4-step1-15702-aac23ba0e2b348faa335c55325ac254c.jpg"
+      ],
+      "image": "assets/images/82082/step_01.webp"
+    },
+    {
+      "text": "Heat the oil in a saucepan over medium heat. Stir in the onion, garlic, red chile pepper, brown sugar, and fennel seeds, and cook until onion is tender and sugar has melted. Mix in ketchup and soy sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/8doV_0mSurl_mALfHpTdZUnQdaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/82082-easy-bbq-sauce-DDMFS-3x4-step2-15711-5524ed9b06c14e8d84f3ecf47d1f3d5b.jpg"
+      ],
+      "image": "assets/images/82082/step_02.webp"
+    },
+    {
+      "text": "Bring to a boil. Reduce heat to low, and simmer 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "54 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "375 mg",
+    "sugarContent": "10 g",
+    "fatContent": "1 g",
+    "servingSize": "1 - 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/a68PMtVlt1q3AJ--g7-Y3zK9dbY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/82082-easy-bbq-sauce-DDMFS-Beauty-3x4-157261572915934-da39aecf023f4dc090b896426a4a84a9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/82082/hero.webp",
+    "steps": [
+      "assets/images/82082/step_01.webp",
+      "assets/images/82082/step_02.webp",
+      null
+    ]
+  }
+}

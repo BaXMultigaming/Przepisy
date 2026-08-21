@@ -1,0 +1,88 @@
+{
+  "id": "83219",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/83219/citrus-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/83219/citrus-shrimp/",
+  "title": "Citrus Shrimp",
+  "description": "A light, healthy way to enjoy shrimp. A great summer dish. You can also throw the shrimps on a skewer and BBQ on the grill.",
+  "authors": [
+    "SBorodko"
+  ],
+  "date_published": "2018-06-08T09:26:04-04:00",
+  "date_modified": "2018-06-08T09:26:04-04:00",
+  "prep_time": "PT45M",
+  "cook_time": "PT5M",
+  "total_time": "PT50M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 oranges, zested and juiced",
+    "3 limes, zested and juiced",
+    "2 tablespoons olive oil",
+    "0.5 teaspoon salt, or to taste",
+    "3 cloves garlic",
+    "1.5 pounds large shrimp, peeled and deveined"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor, combine the orange juice and zest, lime juice and zest, olive oil, garlic and salt. Be careful with the salt - the shrimp really suck it up! Cover, and puree until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place shrimp in a bowl, and pour the citrus marinade over them. Let them marinate for 20 minutes at room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a non-stick skillet over medium-high heat. Fry the shrimp about 3 minutes per side, in batches if necessary, until opaque. Spoon a little of the marinade in with them for extra flavor while they cook if you like.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "199 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "173 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "363 mg",
+    "sugarContent": "6 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MHfZ6DUfRBKT5TWTft81op1pD3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17553-be9349e7d3464e729c96949329087725.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/83219/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "82368",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/82368/bloody-mary-bites/",
+  "requested_url": "https://www.allrecipes.com/recipe/82368/bloody-mary-bites/",
+  "title": "Bloody Mary Bites",
+  "description": "Cherry tomatoes are marinated in vodka, then served with a dry seasoning blend as a dip. They taste like a Bloody Mary in every bite!",
+  "authors": [
+    "JEREMYC"
+  ],
+  "date_published": "2018-03-21T12:42:38-04:00",
+  "date_modified": "2022-07-14T18:13:13-04:00",
+  "prep_time": "PT3M",
+  "cook_time": "PT720M",
+  "total_time": "PT723M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint cherry tomatoes",
+    "2 tablespoons hot pepper sauce (e.g. Tabasco™)",
+    "1 cup pepper flavored vodka",
+    "2 tablespoons lemon pepper",
+    "2 tablespoons celery salt"
+  ],
+  "steps": [
+    {
+      "text": "Remove the stems from the tomatoes, and place them in a shallow bowl. Pour vodka over them so that they are covered. Stir in the hot pepper sauce. Cover, and refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To serve, mix together the lemon pepper and celery salt in a small dish. Serve tomatoes floating in vodka. Provide toothpicks so that your guests may pick up the tomatoes and dip them in the seasoning before eating.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "40 kcal",
+    "carbohydrateContent": "1 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "743 mg",
+    "sugarContent": "0 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/95VwP2J64PJB9iIbFif6baZdeLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1961115-d4cefc07df034c84bf013a87841f5a2e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/82368/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

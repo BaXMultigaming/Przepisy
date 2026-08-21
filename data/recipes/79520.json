@@ -1,0 +1,77 @@
+{
+  "id": "79520",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/79520/cream-of-tomato-gorgonzola-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/79520/cream-of-tomato-gorgonzola-soup/",
+  "title": "Cream of Tomato Gorgonzola Soup",
+  "description": "This recipe transforms a can of tomato soup into a special meal by stirring in creamy Gorgonzola cheese, chopped tomatoes, and some savory seasonings.",
+  "authors": [
+    "MichelleR"
+  ],
+  "date_published": "2019-04-03T23:33:11-04:00",
+  "date_modified": "2025-04-21T10:00:08-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (14.5 ounce) cans Italian-style diced tomatoes, undrained",
+    "1 (26 ounce) can tomato soup",
+    "1 cup milk",
+    "0.5 cup water",
+    "4 ounces crumbled Gorgonzola cheese",
+    "2 tablespoons minced garlic",
+    "1 tablespoon dried basil",
+    "1 teaspoon onion powder"
+  ],
+  "steps": [
+    {
+      "text": "Combine diced tomatoes, tomato soup, milk, and water in a large saucepan over medium heat; stir in Gorgonzola cheese, garlic, basil, and onion powder. Reduce heat to low; simmer 15 to 20 minutes, stirring often.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "251 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1148 mg",
+    "sugarContent": "17 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "76"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/h4RsKv259VO2q3zZZYj1p9AU0IM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/602606-088a40d0b70045638b280d1512a1ef42.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/79520/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

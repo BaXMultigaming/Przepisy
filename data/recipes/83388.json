@@ -1,0 +1,79 @@
+{
+  "id": "83388",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/83388/honey-ginger-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/83388/honey-ginger-shrimp/",
+  "title": "Honey Ginger Shrimp",
+  "description": "This quick and easy, sweet and spicy dish combines honey, ginger, shrimp and garlic, and can be served over steamed vegetables or pasta.",
+  "authors": [
+    "MANDE2509"
+  ],
+  "date_published": "2018-06-08T09:26:06-04:00",
+  "date_modified": "2024-12-24T11:47:24-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 tablespoon red pepper flakes",
+    "1 teaspoon chopped garlic",
+    "0.25 yellow onion, chopped",
+    "1 teaspoon ground ginger",
+    "1 teaspoon honey",
+    "1 pound medium shrimp - peeled and deveined",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil and red pepper flakes in a large skillet over medium heat. Add the onions, garlic, ginger and honey; cook and stir until fragrant. Add the shrimp, and cook for 5 minutes, stirring as needed, until shrimp are pink and opaque. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "173 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "200 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "277"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ww5LSotc5L1E5cYQMi_lCa5xngc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/602357-honey-ginger-shrimp-kpeters-4x3-1-cc8317e06ab94a368b828b5fef1d124e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/83388/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

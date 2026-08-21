@@ -1,0 +1,87 @@
+{
+  "id": "80768",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/80768/olive-and-feta-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/80768/olive-and-feta-pasta/",
+  "title": "Olive and Feta Pasta",
+  "description": "I whipped up this pasta dish to satisfy a craving for olives and feta cheese.",
+  "authors": [
+    "MISSSMEW2"
+  ],
+  "date_published": "2018-06-08T09:25:23-04:00",
+  "date_modified": "2026-07-28T11:15:06-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces uncooked whole wheat spaghetti",
+    "1 tablespoon olive oil",
+    "2 cloves garlic, minced",
+    "8 ounces crimini mushrooms, sliced",
+    "2 small zucchini, sliced",
+    "dried oregano to taste",
+    "salt and pepper to taste",
+    "12 black olives, pitted and sliced",
+    "1 ounce crumbled feta cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add spaghetti and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the olive oil in a skillet over medium heat, and saute the garlic 2 minutes. Mix in mushrooms and zucchini. Season with oregano, salt, and pepper. Stir in olives, and cook until heated through. Place pasta in the skillet, toss to coat, and continue cooking about 2 minutes. Top with feta cheese to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "242 mg",
+    "sugarContent": "3 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "55"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/q4afPXWUNOpdkoWrGpjIDefUheU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/80768olive-and-feta-pastalutzflcat4x3-76e058eb543844ddb04dcde0f4ce7848.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/80768/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

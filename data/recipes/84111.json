@@ -1,0 +1,89 @@
+{
+  "id": "84111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/84111/cognac-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/84111/cognac-shrimp/",
+  "title": "Cognac Shrimp",
+  "description": "This recipe yields a luxurious creamy cognac sauce that perfectly complements the mix of shallots, succulent shrimp, and tangy sun-dried tomatoes.",
+  "authors": [
+    "jade"
+  ],
+  "date_published": "2018-06-08T09:26:15-04:00",
+  "date_modified": "2025-06-04T08:26:58-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American",
+    "French"
+  ],
+  "regions": [
+    "American",
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "1 tablespoon olive oil",
+    "0.5 cup thinly sliced shallots",
+    "2 cloves garlic, minced",
+    "1 pound shrimp, peeled and deveined",
+    "1 dash dried red pepper flakes",
+    "salt and pepper to taste",
+    "0.25 cup oil-packed sun-dried tomatoes, drained and diced",
+    "0.5 cup cognac",
+    "0.5 cup fat free half-and-half"
+  ],
+  "steps": [
+    {
+      "text": "Heat butter and olive oil in a large skillet over medium-high heat. Add shallots and garlic; cook until lightly browned. Add shrimp; season with pepper flakes, salt, and black pepper. Add sun-dried tomatoes; cook, stirring occasionally, until shrimp begin to brown, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour cognac into the skillet and bring to a boil while scraping the browned bits of food off the bottom of the skillet with a wooden spoon. Reduce heat to low. Add half-and-half; simmer until slightly thickened, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "276 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "182 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "284 mg",
+    "sugarContent": "2 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4FXSVYZNCpzvG4WEn9raDODZeVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970876-0af48b4f52e64474b96239722e525654.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/84111/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "81062",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/81062/bryans-spicy-red-lentil-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/81062/bryans-spicy-red-lentil-soup/",
+  "title": "Bryan&#39;s Spicy Red Lentil Soup",
+  "description": "This spiced red lentil soup is cooked on the stovetop with tomatoes, spinach, onion, and spices, then puréed in a blender for a quick and easy meal.",
+  "authors": [
+    "FISHFISHER2002"
+  ],
+  "date_published": "2019-04-03T23:33:18-04:00",
+  "date_modified": "2024-12-24T12:20:48-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon olive oil",
+    "1.5 cups chopped red onion",
+    "salt and pepper to taste",
+    "1 (28 ounce) can diced tomatoes",
+    "2 cups dry red lentils",
+    "1.5 cups frozen chopped spinach",
+    "2 cups water",
+    "2 teaspoons dried basil",
+    "1.5 teaspoons ground cardamom",
+    "1 teaspoon ground cumin",
+    "0.5 teaspoon ground cayenne pepper",
+    "0.5 teaspoon curry powder"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large pot over medium heat. Cook and stir onion in hot oil until golden brown. Season with salt and pepper. Mix in tomatoes, lentils, and spinach; pour in water. Season with basil, cardamom, cumin, cayenne pepper, and curry powder. Bring to a boil, reduce heat to low, and simmer for 25 minutes, stirring occasionally, until lentils are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer soup to a blender and purée until smooth before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KMOO0Ba_GPycjt9afrxaYnj8Xx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4589418-b6c3ad06a3934410b20f0c9397b1876a.jpg"
+      ],
+      "image": "assets/images/81062/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241 kcal",
+    "carbohydrateContent": "41 g",
+    "fiberContent": "15 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "268 mg",
+    "sugarContent": "8 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "105"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/zYUyizCi-ma1DlVvV.mp4",
+    "description": "Try this wonderful spicy red lentil soup. It's quick and easy to make and tastes delicious.",
+    "duration": "PT1M32S",
+    "name": "Bryan's Spicy Red Lentil Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/zYUyizCi/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:52:10-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KMOO0Ba_GPycjt9afrxaYnj8Xx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4589418-b6c3ad06a3934410b20f0c9397b1876a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/81062/hero.webp",
+    "steps": [
+      null,
+      "assets/images/81062/step_02.webp"
+    ]
+  }
+}

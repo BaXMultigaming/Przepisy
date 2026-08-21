@@ -1,0 +1,85 @@
+{
+  "id": "84084",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/84084/shiitake-delight/",
+  "requested_url": "https://www.allrecipes.com/recipe/84084/shiitake-delight/",
+  "title": "Shiitake Delight",
+  "description": "This is a very delightful meal. Very simple, and my two-year old loves it! Interesting taste and texture. Serve with white rice.",
+  "authors": [
+    "PINAYCOOK"
+  ],
+  "date_published": "2020-03-09T22:50:48-04:00",
+  "date_modified": "2025-04-27T15:51:18-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "4 cloves garlic",
+    "8 shiitake mushrooms, chopped",
+    "1 cup vegetable broth",
+    "2 tablespoons butter",
+    "Italian seasoning to taste",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a skillet over medium heat, and cook the garlic just until golden. Mix in mushroom pieces, and cook 10 minutes, until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour the broth into the skillet. Stir in butter until melted. Season with Italian seasoning and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "273 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "328 mg",
+    "sugarContent": "2 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AmenV566i3Q7mGXTVpTvWZ2CPM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131034-9afceb4fbf39453ab61f0bd87d7cc5fc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/84084/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

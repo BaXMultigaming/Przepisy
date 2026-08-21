@@ -1,0 +1,80 @@
+{
+  "id": "82498",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/82498/cherry-and-raisin-loaf/",
+  "requested_url": "https://www.allrecipes.com/recipe/82498/cherry-and-raisin-loaf/",
+  "title": "Cherry and Raisin Loaf",
+  "description": "A lovely fruity tea time bread! Gorgeous topped with clotted cream or just butter.",
+  "authors": [
+    "Christine"
+  ],
+  "date_published": "2020-03-04T23:59:12-05:00",
+  "date_modified": "2020-03-04T23:59:12-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT120M",
+  "total_time": "PT125M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "English"
+  ],
+  "regions": [
+    "English"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "3 tablespoons butter",
+    "1 tablespoon brown sugar",
+    "1 egg",
+    "1 teaspoon salt",
+    "1 tablespoon ground cinnamon",
+    "1.5 teaspoons bread machine yeast",
+    "3 cups bread flour",
+    "0.5 cup raisins",
+    "0.5 cup dried cherries"
+  ],
+  "steps": [
+    {
+      "text": "Place the milk, butter, brown sugar, egg, salt, cinnamon, yeast and bread flour into the pan of a bread machine in the order recommended by the manufacturer. Select the white bread cycle. About 5 minutes before the end of the mixing process, add the raisins and cherries. If your bread machine has a fruit setting, use that.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "30 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "278 mg",
+    "sugarContent": "11 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-O5WzfDE12wTI2IIXiTX5zaNDv4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/730584-4dfd95f0595d432eba3b63a663895665.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/82498/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

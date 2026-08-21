@@ -1,0 +1,75 @@
+{
+  "id": "83221",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/83221/mint-chutney/",
+  "requested_url": "https://www.allrecipes.com/recipe/83221/mint-chutney/",
+  "title": "Mint Chutney",
+  "description": "A perfect mint chutney recipe. Cilantro, mint, and a hint of spice make this a magnificent sauce that goes well with lamb or Indian dishes.",
+  "authors": [
+    "peep"
+  ],
+  "date_published": "2019-09-20T01:20:47-04:00",
+  "date_modified": "2026-06-02T12:13:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 medium onion, cut into chunks",
+    "1 bunch fresh cilantro",
+    "1.5 cups fresh mint leaves",
+    "1 green chile pepper",
+    "1 tablespoon tamarind juice or lemon juice",
+    "0.5 teaspoon salt",
+    "0.25 cup water, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Combine onion, cilantro, mint, chile pepper, tamarind juice, and salt in a food processor. Process to a fine paste, adding enough water to achieve a thick sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "13 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "150 mg",
+    "sugarContent": "1 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ws1DIbUxBKPFNy6iNstUAGOIr2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83221-mint-chutney-VAT-Beauty-4x3-689734b738af41f5b1e5135e40f85d0f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/83221/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "83242",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/83242/banana-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/83242/banana-ice-cream/",
+  "title": "No-Cream Banana Ice Cream",
+  "description": "A cheap and easy ice cream dessert without cream: just evaporated milk, skim milk, and sugar, flavored with vanilla and banana puree.",
+  "authors": [
+    "MUMMYJO"
+  ],
+  "date_published": "2020-06-18T23:11:54-04:00",
+  "date_modified": "2023-06-05T06:33:19-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT40M",
+  "total_time": "PT525M",
+  "yield": [
+    "8",
+    "1 quart"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups skim milk",
+    "0.5 (12 fluid ounce) can evaporated milk",
+    "0.5 cup white sugar",
+    "1 teaspoon vanilla extract",
+    "2 bananas, mashed",
+    "0.5 cup golden raisins"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix together the skim milk, evaporated milk, sugar and vanilla. Pour into an ice cream maker, and freeze according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the ice cream is done freezing, add the bananas and raisins and let them mix in. Transfer to a freezer container, and freeze overnight before serving to improve the texture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "52 mg",
+    "sugarContent": "28 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pq04sWu69XgHNkemj1nnwrXWFYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/650622-0daca17555dd480ea746f27a2904363b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/83242/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "80878",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/80878/curried-zucchini-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/80878/curried-zucchini-soup/",
+  "title": "Curried Zucchini Soup",
+  "description": "This simple and flavorful soup comes together in no time.",
+  "authors": [
+    "NADO2003"
+  ],
+  "date_published": "2018-03-21T12:41:31-04:00",
+  "date_modified": "2026-08-17T09:52:16-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons extra virgin olive oil",
+    "1 large onion, halved and thinly sliced",
+    "1 tablespoon curry powder",
+    "sea salt to taste",
+    "4 small zucchini, halved lengthwise and cut into 1 inch slices",
+    "1 quart chicken stock"
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a large pot. Stir in the onion, and season with curry powder and salt. Cook and stir until onion is tender. Stir in zucchini, and cook until tender. Pour in the chicken stock. Bring to a boil. Cover, reduce heat to low, and simmer 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove soup from heat. Use a hand blender, or transfer in batches to a blender, and blend until almost smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "74 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "537 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "266"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ppWWWe0zniuuWLjnk5izCj3F2ro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219051-e14a1dee7ac74dbba97de99b17523232.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/80878/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

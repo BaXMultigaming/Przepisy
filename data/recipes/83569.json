@@ -1,0 +1,91 @@
+{
+  "id": "83569",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/83569/tuna-egg-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/83569/tuna-egg-sandwich/",
+  "title": "Tuna Egg Sandwich",
+  "description": "This tuna salad with egg recipe is perfect for a satisfying sandwich. It&#39;s simple to make with canned tuna, hard-cooked eggs, mayo, and celery.",
+  "authors": [
+    "LISALC98"
+  ],
+  "date_published": "2019-04-02T02:47:19-04:00",
+  "date_modified": "2025-12-15T18:16:10-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "3 hard-cooked eggs, peeled and chopped",
+    "1 (5 ounce) can tuna, drained",
+    "1 cup chopped celery",
+    "1 tablespoon mayonnaise",
+    "salt and pepper to taste",
+    "4 slices whole wheat bread"
+  ],
+  "steps": [
+    {
+      "text": "Combine eggs, tuna, celery, and mayonnaise in a medium bowl. Season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/P253AZ0EKCrJxfH_WPojlnfWTwQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83569-tuna-egg-salad-sandwich-mfs-step-2-5fc559f3f4734dd0a362081d4bfccefc.jpg"
+      ],
+      "image": "assets/images/83569/step_01.webp"
+    },
+    {
+      "text": "Divide tuna mixture evenly onto two slices of bread; top with remaining slices of bread.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Ee80iXFaRtKHsvIsL9T6NCbE2N8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83569-tuna-egg-salad-sandwich-mfs-step-3-d77eadc3a46041d483051798f82509ea.jpg"
+      ],
+      "image": "assets/images/83569/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "420 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "312 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "777 mg",
+    "sugarContent": "5 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "82"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/59Zl5aj3tLORlvbb1R3KnBHl5ZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83569-tuna-egg-salad-sandwich-mfs-4-099850f40fd143e79b215b6977a30feb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/83569/hero.webp",
+    "steps": [
+      "assets/images/83569/step_01.webp",
+      "assets/images/83569/step_02.webp"
+    ]
+  }
+}

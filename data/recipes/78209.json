@@ -1,0 +1,74 @@
+{
+  "id": "78209",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/78209/super-duper-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/78209/super-duper-oatmeal/",
+  "title": "Super Duper Oatmeal",
+  "description": "Oatmeal is cooked with berries, applesauce, and wheat germ. It&#39;s delicious!",
+  "authors": [
+    "Cassandra"
+  ],
+  "date_published": "2020-06-18T23:11:37-04:00",
+  "date_modified": "2020-06-18T23:11:37-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "0.5 cup water",
+    "0.75 cup oats",
+    "0.5 cup blueberries",
+    "0.5 cup applesauce",
+    "2 tablespoons wheat germ",
+    "2 teaspoons ground cinnamon",
+    "2 teaspoons sugar"
+  ],
+  "steps": [
+    {
+      "text": "Bring the milk and water to a boil in a pot. Mix in the oats, and reduce heat to medium. Stir in blueberries, applesauce, wheat germ, cinnamon, and sugar. Cook 8 to 10 minutes, or until oats are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "270 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "55 mg",
+    "sugarContent": "20 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gtYNfGRah425QY4j7cHVUQ8QEMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/880086-a5b62db8e9db4fa6bdfc423cf312080d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/78209/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

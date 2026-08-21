@@ -1,0 +1,103 @@
+{
+  "id": "81236",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/81236/beer-beef-stew-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/81236/beer-beef-stew-ii/",
+  "title": "Beer Beef Stew II",
+  "description": "Traditional beef stew with a twist of beer, chili sauce, and brown sugar.",
+  "authors": [
+    "LAMOR27"
+  ],
+  "date_published": "2020-03-04T23:59:10-05:00",
+  "date_modified": "2022-08-30T13:25:45-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT480M",
+  "total_time": "PT510M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "3.5 pounds beef stew meat, cut into 1 1/2 inch pieces",
+    "1 cup all-purpose flour",
+    "2 large potatoes, chopped",
+    "1 cup chopped carrots",
+    "0.75 cup chopped celery",
+    "0.75 cup chopped onion",
+    "3 cloves garlic, chopped",
+    "1 tablespoon dried basil",
+    "1 tablespoon dried thyme",
+    "1 cup chili sauce",
+    "1 cup beer",
+    "0.25 cup brown sugar"
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a skillet over medium heat. Place the beef stew meat and flour in a large resealable plastic bag, and shake to coat. Transfer coated meat to the skillet, and cook about 1 minute, until browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix the potatoes, carrots, celery, onion, and garlic in a slow cooker. Place browned beef over the vegetables, and season with basil and thyme.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, mix the chili sauce, beer, and brown sugar, and pour over meat in the slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover slow cooker, and cook 8 hours on Low or 2 hours on High.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "421 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "73 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "376 mg",
+    "sugarContent": "9 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "85"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZK8ud1aTW6F1yVr-d5fgqVsWo1Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6290644-1068d8bb3156436ea72602559d35c1d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/81236/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

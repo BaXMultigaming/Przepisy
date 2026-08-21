@@ -1,0 +1,89 @@
+{
+  "id": "81354",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/81354/potato-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/81354/potato-curry/",
+  "title": "Potato Curry",
+  "description": "This is a great creamy curry recipe. It is very mild, and unlike typical curries. A crowd pleaser!",
+  "authors": [
+    "Jen Schaffer"
+  ],
+  "date_published": "2019-04-03T23:33:19-04:00",
+  "date_modified": "2022-01-14T01:27:05-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian Inspired"
+  ],
+  "regions": [
+    "Indian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons ghee",
+    "1 teaspoon cumin seeds",
+    "1 teaspoon turmeric",
+    "1 teaspoon ground coriander",
+    "1 teaspoon salt",
+    "0.5 teaspoon mustard seed",
+    "0.5 teaspoon ground cayenne pepper",
+    "6 medium potatoes, peeled and diced",
+    "2 cups water",
+    "1 cup yogurt",
+    "0.66666668653488 cup frozen green peas"
+  ],
+  "steps": [
+    {
+      "text": "Heat the ghee in a skillet over medium heat, and mix in the cumin, turmeric, coriander, salt, mustard seed, and cayenne pepper. Place potatoes in the skillet, and stir to evenly coat with the ghee. Cook 10 minutes, stirring often. Pour water into the skillet. Reduce heat to low, and simmer 30 minutes, until potatoes are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix the yogurt and peas into the saucepan. Continue cooking until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "396 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "677 mg",
+    "sugarContent": "8 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "124"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zdyJMsttHXu7gindDX0qy2jbPmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9218377-f632d112a78248df82b5b4521113f901.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/81354/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

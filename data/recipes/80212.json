@@ -1,0 +1,91 @@
+{
+  "id": "80212",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/80212/orange-ginger-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/80212/orange-ginger-bread/",
+  "title": "Orange Ginger Bread",
+  "description": "This is an orange flavored gingerbread for the bread machine that is especially good with chocolate syrup or hazelnut spread.",
+  "authors": [
+    "SINFONY_STAR"
+  ],
+  "date_published": "2020-03-04T23:59:07-05:00",
+  "date_modified": "2020-03-04T23:59:07-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup orange juice",
+    "3 tablespoons butter",
+    "3 tablespoons brown sugar",
+    "1 teaspoon ground cinnamon",
+    "1.5 teaspoons ground ginger",
+    "0.125 teaspoon salt",
+    "1.5 cups all-purpose flour",
+    "1.5 cups whole wheat flour",
+    "1.5 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients into the bread machine in the order recommended by the manufacturer. Select the Dough cycle, and press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the machine signals the end of the cycle, remove the dough. Roll into a loaf, and place in a 9x5 inch bread pan. Set aside to rise until doubled, or until your finger leaves a dent when the dough is pressed lightly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Bake the bread for 25 minutes in the preheated oven, or until a rich golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "158 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "47 mg",
+    "sugarContent": "5 g",
+    "fatContent": "3 g",
+    "servingSize": "1 (1 1/2 pound) loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aURxlJgM-BDa5ii47OFhy_ZiDS4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238933-b45ed6372c01463b8e21ebf5cd493100.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/80212/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

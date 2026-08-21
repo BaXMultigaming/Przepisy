@@ -1,0 +1,101 @@
+{
+  "id": "83029",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/83029/pumpkin-spice-latte/",
+  "requested_url": "https://www.allrecipes.com/recipe/83029/pumpkin-spice-latte/",
+  "title": "Homemade Pumpkin Spice Latte",
+  "description": "This easy homemade pumpkin spice latte recipe combines espresso, hot milk, pumpkin purée, and spices to make your favorite fall coffee drink at home.",
+  "authors": [
+    "SLEEEPY"
+  ],
+  "date_published": "2020-06-18T23:11:52-04:00",
+  "date_modified": "2026-08-11T12:08:52-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "2 tablespoons canned pumpkin puree",
+    "2 tablespoons white sugar",
+    "1 teaspoon vanilla extract",
+    "0.25 teaspoon pumpkin pie spice",
+    "1 (1.5 fluid ounce) jigger brewed espresso"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/lIEMICOHDYx9LwpAwpaMLLA75WE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83029-pumpkin-spice-latte-VAT-step-01-0ad29f489181457a89e2ea9c042dd318.jpg"
+      ],
+      "image": "assets/images/83029/step_01.webp"
+    },
+    {
+      "text": "Whisk milk, pumpkin purée, sugar, vanilla, and pumpkin pie spice together in a small saucepan; warm over medium heat, whisking constantly, until hot and frothy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/lLSLUA26hJpC6jt_isM1iMXfPks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83029-pumpkin-spice-latte-VAT-step-02-2425fed86a4448c492bc670b475642b1.jpg"
+      ],
+      "image": "assets/images/83029/step_02.webp"
+    },
+    {
+      "text": "Pour brewed espresso into a mug; top with pumpkin spiced milk. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/s8WVccgOcu99gd8RcCyUhrBU0to=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83029-pumpkin-spice-latte-VAT-step-03-b62ae8a62c3642ca89cc466c71073cbb.jpg"
+      ],
+      "image": "assets/images/83029/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "244 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "108 mg",
+    "sugarContent": "38 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "73"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UKHIpsXPAWjd5Th8xQvZTmiLv2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/83029-pumpkin-spice-latte-VAT-Beauty-4x3-fa7800f6bbdf4345b396236bbdc00cfc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/83029/hero.webp",
+    "steps": [
+      "assets/images/83029/step_01.webp",
+      "assets/images/83029/step_02.webp",
+      "assets/images/83029/step_03.webp"
+    ]
+  }
+}

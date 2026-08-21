@@ -1,0 +1,72 @@
+{
+  "id": "79235",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/79235/red-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/79235/red-salad-dressing/",
+  "title": "Red Salad Dressing",
+  "description": "Sweet and sour red salad dressing is the perfect topper for crisp iceberg lettuce.",
+  "authors": [
+    "Lucky Clover"
+  ],
+  "date_published": "2020-06-18T23:11:41-04:00",
+  "date_modified": "2022-11-29T16:10:54-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT35M",
+  "yield": [
+    "16",
+    "2 cups dressing"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup ketchup",
+    "0.75 cup vegetable oil",
+    "0.75 cup white sugar",
+    "1.5 teaspoons distilled white vinegar",
+    "1 teaspoon minced onion",
+    "0.25 teaspoon minced garlic",
+    "1 teaspoon Italian seasoning"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together the ketchup, oil, sugar, vinegar, onion, garlic, and Italian seasoning. Refrigerate until chilled, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "13 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "167 mg",
+    "sugarContent": "13 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2GVMXizFjRo_tVazSHhhq4A-kLE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2244956-ed4e9e2a3af542489397fff50b176103.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/79235/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

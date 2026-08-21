@@ -1,0 +1,73 @@
+{
+  "id": "84186",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/84186/orange-fizz/",
+  "requested_url": "https://www.allrecipes.com/recipe/84186/orange-fizz/",
+  "title": "Orange Fizz",
+  "description": "Make boring orange juice tangy and fizzy with this delicious blend!",
+  "authors": [
+    "LEAGILLIAN"
+  ],
+  "date_published": "2019-07-10T02:54:46-04:00",
+  "date_modified": "2024-11-23T00:56:15-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 drink"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice cubes",
+    "1 cup orange juice",
+    "0.33333334326744 cup tonic water",
+    "1 teaspoon lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Fill a glass with ice cubes. Pour in the orange juice, tonic water and lemon juice. Stir and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "140 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "19 mg",
+    "sugarContent": "28 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/I8DdGWKxdtgMlpZkjqbKm7CSFW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/700880-b4879fc33b7c4a3b99b7570db88d94b7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/84186/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

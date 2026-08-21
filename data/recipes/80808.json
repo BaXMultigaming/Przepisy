@@ -1,0 +1,79 @@
+{
+  "id": "80808",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/80808/great-pimento-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/80808/great-pimento-cheese/",
+  "title": "Great Pimento Cheese",
+  "description": "Easy and delicious pimento cheese is just moments away using cream cheese, sour cream, mayo, spices, Cheddar, and canned tomatoes with green chile.",
+  "authors": [
+    "MICAHGIBSON"
+  ],
+  "date_published": "2020-02-01T02:50:39-05:00",
+  "date_modified": "2025-01-28T18:47:32-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "4 cups"
+  ],
+  "categories": [
+    "Lunch",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "0.25 cup sour cream",
+    "0.25 cup mayonnaise",
+    "0.25 cup grated white onion",
+    "1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL®)",
+    "0.5 teaspoon garlic powder",
+    "salt and ground black pepper to taste",
+    "2 cups shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Stir together cream cheese, sour cream, and mayonnaise until smooth. Add onion, canned tomatoes with green chilies, garlic powder, salt, and pepper. Stir in Cheddar cheese. Refrigerate until set, at least 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "221 mg",
+    "sugarContent": "0 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0d8z-VMHmHKscdnWR9Ly72gD6Xs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4542388-61a1426814264e45a69da60cb637ea44.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/80808/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

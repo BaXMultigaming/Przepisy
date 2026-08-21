@@ -1,0 +1,86 @@
+{
+  "id": "78454",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/78454/black-eyed-pea-gumbo/",
+  "requested_url": "https://www.allrecipes.com/recipe/78454/black-eyed-pea-gumbo/",
+  "title": "Black-Eyed Pea Gumbo",
+  "description": "A hearty black-eyed pea gumbo with bell peppers, brown rice, and diced tomatoes with green chiles. Perfect for New Year’s Day with warm cornbread!",
+  "authors": [
+    "Lynn Blackwelder Patterson"
+  ],
+  "date_published": "2019-04-02T02:46:58-04:00",
+  "date_modified": "2022-06-09T11:58:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT55M",
+  "total_time": "PT70M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 medium onion, chopped",
+    "1 medium green bell pepper, chopped",
+    "5 stalks celery, chopped",
+    "2 cups chicken broth",
+    "1 cup brown rice",
+    "4 (15 ounce) cans black-eyed peas with liquid",
+    "1 (10 ounce) can diced tomatoes and green chiles",
+    "1 (14.5 ounce) can diced tomatoes",
+    "2 cloves garlic, finely chopped"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large saucepan over medium heat. Add onion, pepper, and celery; cook until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in chicken broth; stir in rice, black-eyed peas with liquid, diced tomatoes with green chiles, diced tomatoes, and garlic. Bring to a boil, reduce heat to low, and simmer for 45 minutes, or until rice is tender. Add water if gumbo is too thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "272 kcal",
+    "carbohydrateContent": "49 g",
+    "fiberContent": "10 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "870 mg",
+    "sugarContent": "3 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "546"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0pvUcxq31uTE3h-iLN-8RSqx_GA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4878055-abce379807c2432bbc3b2539fcc92066.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/78454/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

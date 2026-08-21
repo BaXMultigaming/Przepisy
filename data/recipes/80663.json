@@ -1,0 +1,80 @@
+{
+  "id": "80663",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/80663/bread-machine-pumpernickel-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/80663/bread-machine-pumpernickel-bread/",
+  "title": "Bread Machine Pumpernickel Bread",
+  "description": "A hearty, healthy bread that combines bread, rye, and whole wheat flours with cocoa and molasses.",
+  "authors": [
+    "Ann Davis"
+  ],
+  "date_published": "2019-04-03T23:33:15-04:00",
+  "date_modified": "2026-05-01T22:42:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT225M",
+  "total_time": "PT235M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Bread"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.125 cups warm water",
+    "1.5 tablespoons vegetable oil",
+    "0.33333334326744 cup molasses",
+    "3 tablespoons cocoa",
+    "1 tablespoon caraway seed",
+    "1.5 teaspoons salt",
+    "1.5 cups bread flour",
+    "1 cup rye flour",
+    "1 cup whole wheat flour",
+    "1.5 tablespoons vital wheat gluten",
+    "2.5 teaspoons bread machine yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Basic cycle; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "295 mg",
+    "sugarContent": "5 g",
+    "fatContent": "2 g",
+    "servingSize": "1 (1-1/2 pound) loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "242"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3RTXAsWxKMopRKm8fe2Iaco5H9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8476938-bread-machine-pumpernickel-bread-dennyflorida-4x3-1-d633053959fe4e1f969655575d8fea9a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/80663/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

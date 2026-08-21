@@ -1,0 +1,79 @@
+{
+  "id": "82417",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/82417/mommys-sweet-carrot-milk/",
+  "requested_url": "https://www.allrecipes.com/recipe/82417/mommys-sweet-carrot-milk/",
+  "title": "Mommy&#39;s Sweet Carrot Milk",
+  "description": "A sweet milk flavored by fresh carrots. I love when my mother makes this, and this is a hit among our friends.",
+  "authors": [
+    "SMANDA1"
+  ],
+  "date_published": "2020-06-18T23:11:50-04:00",
+  "date_modified": "2022-07-14T17:58:31-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT5M",
+  "total_time": "PT35M",
+  "yield": [
+    "16",
+    "1 gallon"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 large carrots, peeled and cut into large chunks",
+    "2 cups water",
+    "3 quarts skim milk",
+    "3 cups sugar",
+    "1 teaspoon ground cardamom"
+  ],
+  "steps": [
+    {
+      "text": "Place the carrots and water into a saucepan, and bring to a boil. Boil until tender, about 5 minutes. Remove from heat and let cool slightly, then puree carrots and water in a blender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pot, heat the milk over medium heat. Stir in the carrots, sugar and cardamom until sugar has dissolved. Cool to room temperature, then refrigerate until chilled, about 2 hours. Shake or stir before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "217 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "94 mg",
+    "sugarContent": "48 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bfPOqvNR3nnO_c07c9b6TCgdml0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/379509-30c7b102f4484865970179de65a97a6b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/82417/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

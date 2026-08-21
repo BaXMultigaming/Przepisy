@@ -1,0 +1,83 @@
+{
+  "id": "79383",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/79383/chunky-tomato-potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/79383/chunky-tomato-potato-soup/",
+  "title": "Chunky Tomato Potato Soup",
+  "description": "Creamy soup filled with chunky vegetables.",
+  "authors": [
+    "Kitchen Kitty"
+  ],
+  "date_published": "2019-04-02T02:47:01-04:00",
+  "date_modified": "2024-12-04T12:36:09-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT35M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "2 onions, chopped",
+    "4 cups peeled, cubed potatoes",
+    "1.5 cups chopped celery",
+    "1.5 cups chopped carrots",
+    "2 cloves garlic, minced",
+    "1 tablespoon Italian seasoning",
+    "2 cups milk",
+    "1 tablespoon cornstarch",
+    "1 (14.5 ounce) can tomatoes",
+    "1.25 cups chicken broth",
+    "2 tablespoons tomato paste",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt the butter in a large saucepan over medium heat, and cook the onions until tender. Mix in the potatoes, celery, carrots, and garlic. Season with Italian seasoning. Pour in milk, gradually stir in cornstarch, and bring to a boil. Mix in tomatoes, broth, and tomato paste. Return to boil, reduce heat to low, and simmer 20 minutes. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "158 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "191 mg",
+    "sugarContent": "8 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "202"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/STNM0u7QuOqYws2HuSMiLmI6VKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/532584-0326bf04d9f24eb2b251fbea2c224f0b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/79383/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "84107",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/84107/spicy-yogurt-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/84107/spicy-yogurt-dressing/",
+  "title": "Spicy Yogurt Dressing",
+  "description": "Delicious, creamy dressing with just a bit of spice.",
+  "authors": [
+    "MEATEATER"
+  ],
+  "date_published": "2019-07-10T02:54:46-04:00",
+  "date_modified": "2022-07-14T18:11:55-04:00",
+  "prep_time": "PT2M",
+  "cook_time": null,
+  "total_time": "PT2M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup chopped fresh cilantro",
+    "1 teaspoon lemon juice",
+    "1 pinch ground cumin",
+    "0.5 cup plain yogurt",
+    "1 teaspoon sweet chili sauce"
+  ],
+  "steps": [
+    {
+      "text": "In a small serving bowl, stir together the cilantro, lemon juice, cumin, yogurt and chili sauce. Chill for at least one hour, or until needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "47 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "75 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XesWbeYCsqVT5oRyj9td7eCB-K0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/850808-c7eb658e8d764efda241aab65bdfd5f4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/84107/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

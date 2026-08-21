@@ -1,0 +1,82 @@
+{
+  "id": "80986",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/80986/harvey-ham-sandwiches/",
+  "requested_url": "https://www.allrecipes.com/recipe/80986/harvey-ham-sandwiches/",
+  "title": "Harvey Ham Sandwiches",
+  "description": "Slow-cooked pulled ham in brown sugar and mustard sauce. Great for times when people will be in and out, eating irregularly all day.",
+  "authors": [
+    "IMATECHGIRL"
+  ],
+  "date_published": "2020-03-04T23:59:09-05:00",
+  "date_modified": "2026-07-23T13:58:45-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT540M",
+  "total_time": "PT570M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 pound) bone-in ham",
+    "1 pound brown sugar",
+    "1 (8 ounce) jar yellow mustard",
+    "24 dinner rolls, split"
+  ],
+  "steps": [
+    {
+      "text": "Place ham in a large pot or slow cooker and fill with enough water to cover. Bring to a boil, then reduce heat to low and simmer until fall-apart tender, 8 to 10 hours. Remove ham from water and allow to cool enough to handle.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pull ham apart into shreds and place in the slow cooker. Stir in brown sugar and mustard. Cover and cook on Low until heated through, about 1 hour. Serve on dinner rolls.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "445 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "65 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1721 mg",
+    "sugarContent": "20 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "140"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ay70uA27U8XE0bE5x9zaS_-ze4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/625743-harvey-ham-sandwiches-jkvalley-4x3-1-c721f65510a7495bbc86a8521847a4ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/80986/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

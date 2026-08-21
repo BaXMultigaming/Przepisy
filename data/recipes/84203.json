@@ -1,0 +1,77 @@
+{
+  "id": "84203",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/84203/miso-paste-ham-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/84203/miso-paste-ham-sandwich/",
+  "title": "Miso Paste Ham Sandwich",
+  "description": "An alternative ham and cheese sandwich that uses miso and wasabi instead of the traditional mustard and mayonnaise to give it a zesty flavor.",
+  "authors": [
+    "MISOHAM"
+  ],
+  "date_published": "2018-03-21T12:43:43-04:00",
+  "date_modified": "2018-03-21T12:43:43-04:00",
+  "prep_time": "PT1M",
+  "cook_time": "PT2M",
+  "total_time": "PT3M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices whole wheat bread, toasted",
+    "1 teaspoon miso paste",
+    "0.5 teaspoon wasabi paste",
+    "2 teaspoons mayonnaise",
+    "2 slices ham",
+    "1 leaf lettuce",
+    "1 slice Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Spread the miso paste and wasabi paste onto one side of one slice of bread. Spread the mayonnaise onto the other slice. Layer the ham, lettuce and cheese over the mayonnaise, and top with the other slice of bread, with the miso facing the inside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "340 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "765 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HdD7jipKrQ8Aa3lUjkG0xe0JHRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4265731-993f2d4f6c814641b96e28de2d2bbaa4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/84203/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

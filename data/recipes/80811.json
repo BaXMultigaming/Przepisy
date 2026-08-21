@@ -1,0 +1,83 @@
+{
+  "id": "80811",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/80811/feta-shrimp-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/80811/feta-shrimp-pasta/",
+  "title": "Feta Shrimp Pasta",
+  "description": "Delicately flavored, this pasta dish is so quick and delicious it will become a weekly favorite.",
+  "authors": [
+    "ESTEPHAN"
+  ],
+  "date_published": "2018-03-21T12:41:30-04:00",
+  "date_modified": "2018-03-21T12:41:30-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package uncooked angel hair pasta",
+    "2 tablespoons butter",
+    "2 tablespoons diced onion",
+    "4 ounces crumbled feta cheese",
+    "0.5 pound medium shrimp - peeled and deveined"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Place pasta in the pot, cook 4 minutes, until al dente, and drain. Transfer to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in a skillet over medium heat. Place onion in the skillet and cook until tender. Stir in shrimp, and cook 3 minutes, or until opaque. Mix in feta cheese, and continue cooking 1 minute. Toss with the pasta and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "246 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "344 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "61"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lSlIUN1BdO49LtRUH5VRlHEIYgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7905413-4f28b54482db40a494200ea58d751607.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/80811/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

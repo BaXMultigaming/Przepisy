@@ -1,0 +1,90 @@
+{
+  "id": "78095",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/78095/honey-oat-beer-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/78095/honey-oat-beer-bread/",
+  "title": "Honey Oat Beer Bread",
+  "description": "This beer bread variation is super easy and tasty. It has a great flavor from the honey and oats. So quick, too!",
+  "authors": [
+    "SPEARL20"
+  ],
+  "date_published": "2020-03-04T23:59:03-05:00",
+  "date_modified": "2022-01-14T01:27:30-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "12",
+    "1 loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "1.25 cups rolled oats",
+    "1 tablespoon baking powder",
+    "1 teaspoon salt",
+    "1 teaspoon brown sugar",
+    "1 tablespoon honey",
+    "1 (12 fluid ounce) bottle beer",
+    "0.25 cup butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease a 9x5 inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, stir together the flour, oats, baking powder, salt and brown sugar. Drizzle honey over the dry ingredients, then pour the beer on top. Mix just until blended. Spoon into the prepared loaf pan. Drizzle melted butter over the top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 25 to 30 minutes in the preheated oven, or until golden brown. A knife inserted into the top of the loaf should come out clean.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "162 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "307 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "92"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4DwYokmu_O_dzQldLmAEmTfgxC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4532274-deb4045a65d2472b8333cfa0927fd309.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/78095/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
