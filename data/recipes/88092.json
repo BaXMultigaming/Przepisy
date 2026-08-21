@@ -1,0 +1,86 @@
+{
+  "id": "88092",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/88092/russian-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/88092/russian-potato-salad/",
+  "title": "Russian Potato Salad",
+  "description": "This is no ordinary potato salad. This salad consists of potatoes, turkey hot dogs, pickles, scallions, hard-boiled eggs, and sweet peas. All of the ingredients are finely chopped and dressed with mayonnaise. This salad has been in my family for four generations. Enjoy!",
+  "authors": [
+    "KATUSHKA92"
+  ],
+  "date_published": "2018-06-08T09:27:09-04:00",
+  "date_modified": "2026-08-10T12:37:13-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT25M",
+  "total_time": "PT50M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Russian"
+  ],
+  "regions": [
+    "Russian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 large potatoes",
+    "1 (16 ounce) package turkey hot dogs",
+    "5 eggs",
+    "5 large dill pickles, chopped",
+    "1 bunch green onions, chopped",
+    "1 (15 ounce) can baby peas, drained",
+    "salt to taste",
+    "1 cup mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Place the potatoes in a large pot, and fill with enough water to cover. Bring to a boil, and cook until a fork can be easily inserted and removed, about 20 minutes. Drain and cool slightly. During the last 10 minutes, boil the hot dogs and eggs. Drain everything, and set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Peel the potatoes, and cut into cubes. Chop hot dogs. Place everything in a large bowl, and mix in the pickles, onions and peas. Peel the eggs, and grate them on top of the salad. Add mayonnaise and salt to individual servings.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "478 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "136 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1609 mg",
+    "sugarContent": "5 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DHlwf5JZOa7svRW-Ne3oxrLOaSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2278114-0b2521d0094246c39e9c35510c01ccb8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/88092/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

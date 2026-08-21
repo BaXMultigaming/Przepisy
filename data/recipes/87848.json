@@ -1,0 +1,86 @@
+{
+  "id": "87848",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/87848/missys-candied-walnut-gorgonzola-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/87848/missys-candied-walnut-gorgonzola-salad/",
+  "title": "Missy&#39;s Candied Walnut Gorgonzola Salad",
+  "description": "A yummy, easy salad with candied walnuts, cranberries, Gorgonzola cheese, mixed greens, and a raspberry vinaigrette. It&#39;s always a big hit and is requested by my friends and family constantly!",
+  "authors": [
+    "MissyPorkChop"
+  ],
+  "date_published": "2020-06-18T23:12:25-04:00",
+  "date_modified": "2026-05-12T14:28:59-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "North American"
+  ],
+  "regions": [
+    "North American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup walnut halves",
+    "0.25 cup sugar",
+    "3 cups mixed greens",
+    "0.5 cup dried cranberries",
+    "0.5 cup crumbled Gorgonzola cheese",
+    "1 tablespoon raspberry vinaigrette",
+    "1 tablespoon white vinegar",
+    "1 tablespoon olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Place walnuts and sugar in a skillet over medium heat, stirring constantly until the sugar dissolves into a light brown liquid and coats the walnuts. Remove walnuts from skillet, and spread them out on a sheet of aluminum foil to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place in a large salad bowl the mixed greens, cranberries, cheese, vinaigrette, vinegar, and olive oil. Toss gently; add candied walnuts, and toss again.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "308 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "273 mg",
+    "sugarContent": "24 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "436"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yzm8KkPNOH41pPBI-s9GjNCfxkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/507461-b06459a53a544f069b3c6bce550c5c1e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/87848/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

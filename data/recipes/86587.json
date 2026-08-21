@@ -1,0 +1,92 @@
+{
+  "id": "86587",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/86587/scrambled-eggs-done-right/",
+  "requested_url": "https://www.allrecipes.com/recipe/86587/scrambled-eggs-done-right/",
+  "title": "Scrambled Eggs Done Right",
+  "description": "You have found a good egg recipe here with this method for the right way to scramble eggs. There is more to just mixing eggs and cooking! Learn more.",
+  "authors": [
+    "WHATS HIS FACE"
+  ],
+  "date_published": "2020-06-18T23:12:18-04:00",
+  "date_modified": "2023-11-10T11:03:29-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large eggs",
+    "1 teaspoon mayonnaise or salad dressing",
+    "1 teaspoon water",
+    "1 teaspoon margarine or butter",
+    "1 pinch salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together eggs, mayonnaise, and water in a cup or small bowl using a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt margarine in a skillet over low heat. Pour in eggs and constantly stir as they cook. Remove eggs to a plate when they are set but still moist. Do not overcook. Season with salt and pepper to taste once eggs are on the plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/-O5epw-eH1jgrepZTSBvuDwrfpo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4512134-29897e8498d54b3cad94e25aebea8c79.jpg"
+      ],
+      "image": "assets/images/86587/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "374 mg",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "210 mg",
+    "sugarContent": "1 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "650"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/R5M8Ai9h-ma1DlVvV.mp4",
+    "description": "See how to make perfect fluffy scrambled eggs.",
+    "duration": "PT1M10S",
+    "name": "Scrambled Eggs Done Right",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/R5M8Ai9h/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:38:34-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-O5epw-eH1jgrepZTSBvuDwrfpo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4512134-29897e8498d54b3cad94e25aebea8c79.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/86587/hero.webp",
+    "steps": [
+      null,
+      "assets/images/86587/step_02.webp"
+    ]
+  }
+}

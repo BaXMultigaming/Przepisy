@@ -1,0 +1,80 @@
+{
+  "id": "85275",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/85275/mozzarella-mushroom-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/85275/mozzarella-mushroom-chicken/",
+  "title": "Mozzarella Mushroom Chicken",
+  "description": "A dinner for two featuring pan-cooked chicken breasts topped with sauteed mushrooms and melted cheese.",
+  "authors": [
+    "pinksnowflakeliz"
+  ],
+  "date_published": "2018-03-21T12:44:23-04:00",
+  "date_modified": "2022-01-14T01:24:33-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons olive oil",
+    "2 skinless, boneless chicken breast halves",
+    "1 tablespoon garlic powder",
+    "1 clove garlic, minced",
+    "6 fresh mushrooms, sliced",
+    "2 cups shredded mozzarella cheese"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a skillet over medium heat. Place chicken in the skillet, and season with garlic powder and garlic. Cook 12 minutes on each side, or until juices run clear. Set chicken aside, and keep warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir mushrooms into the skillet, and cook until tender. Return chicken to skillet, layer with mushrooms, and top with cheese. Cover skillet, and continue cooking 5 minutes, or until cheese is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "642 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "144 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "56 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "766 mg",
+    "sugarContent": "3 g",
+    "fatContent": "42 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "111"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QCmPX_5EDA7P9genUkWx-N5OwbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9114270-68f05ed3e044419b8738765a9e6f84af.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/85275/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

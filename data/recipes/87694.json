@@ -1,0 +1,88 @@
+{
+  "id": "87694",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/87694/maple-dill-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/87694/maple-dill-carrots/",
+  "title": "Dill Carrots",
+  "description": "Melted butter, brown sugar, and dill complement the carrots while bringing out their natural flavor. This recipe is number 1 on the request list when friends come for dinner.",
+  "authors": [
+    "Laura Cotnoir"
+  ],
+  "date_published": "2020-03-04T23:59:26-05:00",
+  "date_modified": "2026-04-10T17:40:52-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups peeled and sliced carrots",
+    "2 tablespoons butter",
+    "2 tablespoons brown sugar",
+    "1.5 tablespoons chopped fresh dill",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place carrots in a skillet and pour in just enough water to cover. Bring to a boil over medium heat; simmer until water has evaporated and the carrots are tender. Stir in butter, brown sugar, dill, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/L1gvETsM12nYjXW6pGQ8yIiB_Kk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/606040-bf5044cc044f4ec59b968e204131df0a.jpg"
+      ],
+      "image": "assets/images/87694/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "117 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "401 mg",
+    "sugarContent": "11 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "736"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ISrvXOh4-K3AjnAEN.mp4",
+    "description": "AR_MAR_0009",
+    "duration": "PT2M1S",
+    "name": "Maple Dill Carrots",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ISrvXOh4/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T08:44:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/L1gvETsM12nYjXW6pGQ8yIiB_Kk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/606040-bf5044cc044f4ec59b968e204131df0a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/87694/hero.webp",
+    "steps": [
+      "assets/images/87694/step_01.webp"
+    ]
+  }
+}

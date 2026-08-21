@@ -1,0 +1,89 @@
+{
+  "id": "85918",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/85918/cinnamon-ice-cream-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/85918/cinnamon-ice-cream-ii/",
+  "title": "Cinnamon Ice Cream II",
+  "description": "A rich custardy ice cream that is loaded with cinnamon. Perfect with peach cobbler, apple pie, or almost any of your favorite cakes.",
+  "authors": [
+    "Alexa"
+  ],
+  "date_published": "2020-06-18T23:12:13-04:00",
+  "date_modified": "2022-07-14T18:04:05-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT80M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup heavy cream",
+    "2 tablespoons sour cream",
+    "6 eggs",
+    "0.66666668653488 cup sugar",
+    "2 cups milk",
+    "1 tablespoon ground cinnamon",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, stir together the heavy cream and sour cream. Set aside in a warm place for about an hour to thicken.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a separate bowl, beat eggs with sugar using an electric mixer until pale. Stir in the milk and cinnamon, and transfer to a saucepan. Bring to a simmer over medium-low heat. Cook, stirring constantly, until thick enough to coat the back of a metal spoon. Stir in the vanilla, and remove from the heat. Set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the custard has cooled, stir in the sour cream mixture. Freeze in an ice cream maker according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "237 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "177 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "88 mg",
+    "sugarContent": "20 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GAJ4B6lmjdpj2XKs9e9KYO18wOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/701680-48d764624a5a41f196a31dc27f80efe1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/85918/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

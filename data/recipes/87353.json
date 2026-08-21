@@ -1,0 +1,78 @@
+{
+  "id": "87353",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/87353/cold-corn-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/87353/cold-corn-salad/",
+  "title": "Corn Salad",
+  "description": "This corn salad is made with cold corn, colorful bell peppers, red onion, cucumber, tomato, and mayo for a creamy salad perfect for any occasion!",
+  "authors": [
+    "LORI HAUSSY"
+  ],
+  "date_published": "2020-03-10T02:50:43-04:00",
+  "date_modified": "2026-07-06T13:06:41-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (10 ounce) package frozen whole-kernel corn, thawed",
+    "0.25 cup diced yellow bell pepper",
+    "0.25 cup diced red bell pepper",
+    "0.25 cup diced green bell pepper",
+    "0.5 red onion, chopped",
+    "0.25 cup chopped cucumber",
+    "1 small tomato, chopped",
+    "0.5 cup mayonnaise, or to taste",
+    "salt and freshly ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place corn, yellow pepper, red pepper, green pepper, red onion, cucumber, and tomato in a large bowl. Add just the amount of mayonnaise to your liking; mix well to combine. Season to taste with salt and pepper; chill until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "107 mg",
+    "sugarContent": "3 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oFBeqdRfZPz93lk-gMGWWga0RuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3755186-782ff11bb8614c418990a5e580c63ada.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/87353/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

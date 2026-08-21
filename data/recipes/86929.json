@@ -1,0 +1,88 @@
+{
+  "id": "86929",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/86929/fresh-chicken-salad-with-baby-greens/",
+  "requested_url": "https://www.allrecipes.com/recipe/86929/fresh-chicken-salad-with-baby-greens/",
+  "title": "Fresh Chicken Salad with Baby Greens",
+  "description": "This is a very delicious salad that will fill you up by itself, or it can be served on the side. Perfect with leftover chicken breast.",
+  "authors": [
+    "E Clark"
+  ],
+  "date_published": "2018-06-08T09:26:55-04:00",
+  "date_modified": "2025-05-01T15:00:09-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Entree"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons extra virgin olive oil, divided",
+    "2 skinless, boneless chicken breast halves",
+    "0.25 cup pesto sauce",
+    "3 cups mixed baby greens",
+    "1 medium red bell pepper, sliced",
+    "1 small cucumber, sliced",
+    "0.25 red onion, thinly sliced",
+    "1 tablespoon balsamic vinegar",
+    "1 tablespoon honey",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat 1 tablespoon olive oil in a skillet over medium heat. Cook chicken breast in the skillet 10 minutes on each side, or until juices run clear. Remove chicken from skillet and shred. Return to skillet, mix in pesto sauce, and continue cooking just until sauce is heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place greens in a bowl, and top with chicken, bell pepper, cucumber, and onion. Drizzle with remaining olive oil, balsamic vinegar, and honey. Season with salt and pepper. Toss, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "165 mg",
+    "sugarContent": "7 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7WyQ-i45Wpm6hAtbJ3E8oA6zQ-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/648680-258d0541c3dc4f1f88f8dcbcba9b9c54.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/86929/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

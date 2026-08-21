@@ -1,0 +1,103 @@
+{
+  "id": "86402",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/86402/sweet-and-sour-pork/",
+  "requested_url": "https://www.allrecipes.com/recipe/86402/sweet-and-sour-pork/",
+  "title": "Easy Sweet and Sour Pork",
+  "description": "Pork is stir-fried with peppers, carrots, onions and pineapple in this version of the classic dish. Easy to make, and delicious.",
+  "authors": [
+    "Kikkoman"
+  ],
+  "date_published": "2018-03-21T12:45:11-04:00",
+  "date_modified": "2026-04-30T16:17:50-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian"
+  ],
+  "regions": [
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon cornstarch",
+    "1 tablespoon Kikkoman Soy Sauce",
+    "1 pound boneless pork, cut into 1-inch cubes",
+    "2 tablespoons vegetable oil",
+    "2 carrots, thinly sliced",
+    "1 onion, chunked",
+    "1 green bell pepper, cut into 1-inch squares",
+    "1 cup Kikkoman Sweet & Sour Sauce",
+    "1 (8 ounce) can pineapple chunks, drained"
+  ],
+  "steps": [
+    {
+      "text": "Blend cornstarch and soy sauce in small bowl; stir in pork until well coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Brown pork in hot oil in Dutch oven or large skillet over medium-high heat. Stir in 1/4 cup water. Cover and simmer 20 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir carrots, onion, bell pepper and sweet & sour sauce into pork mixture. Simmer, covered, 10 minutes longer, stirring frequently.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add pineapple chunks; cook and stir only until pineapple is heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "366 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "670 mg",
+    "sugarContent": "26 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "87"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vTuxvhGt2L-DeQZx2uyl2z2YNPg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/881314-sweet-and-sour-pork-lutzflcat-4x3-1-5ddebff86ac4414fbcb2a5f03d9c4ad9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/86402/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

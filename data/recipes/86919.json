@@ -1,0 +1,79 @@
+{
+  "id": "86919",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/86919/sarahs-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/86919/sarahs-pasta-salad/",
+  "title": "Sarah&#39;s Pasta Salad",
+  "description": "This is something I threw together one day. Prepare the veggies while the pasta cooks and you&#39;re done in 10 minutes. I use different kinds of tomatoes, depending on what I have on hand. Cherry or grape tomatoes are easy to just throw in - no cutting required.",
+  "authors": [
+    "Sarah Ripley"
+  ],
+  "date_published": "2020-03-15T09:50:05-04:00",
+  "date_modified": "2020-03-15T09:50:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces uncooked rotini pasta",
+    "1 avocado - peeled, pitted and diced",
+    "1 large tomato, diced",
+    "0.5 cup Ranch dressing",
+    "2 tablespoons crumbled cooked bacon"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes, until al dente. Drain, and rinse under cold running water to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, gently toss together pasta, avocado, tomato, dressing, and bacon. Chill until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "464 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "424 mg",
+    "sugarContent": "5 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KbjOCA3senb4N6THxKNcuQQuFSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/424257-a7caf208aee042a2a29e597a64e4ab4a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/86919/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

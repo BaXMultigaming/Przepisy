@@ -1,0 +1,91 @@
+{
+  "id": "85787",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/85787/loco-moco/",
+  "requested_url": "https://www.allrecipes.com/recipe/85787/loco-moco/",
+  "title": "Loco Moco",
+  "description": "This hearty Hawaiian-style breakfast is quick to make. Rice is served with eggs and fried Spam™, topped with hot brown gravy.",
+  "authors": [
+    "MAKAIO420"
+  ],
+  "date_published": "2020-04-09T02:50:08-04:00",
+  "date_modified": "2022-07-14T17:18:47-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "regions": [
+    "Hawaiian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups long grain white rice",
+    "4 cups water",
+    "0.5 (12 ounce) container Spam™ sliced into 1/4 inch thick slices",
+    "4 eggs, beaten",
+    "1 (10.5 ounce) can brown gravy, heated"
+  ],
+  "steps": [
+    {
+      "text": "Combine the rice and water in a saucepan and bring to a boil. Reduce heat to low, cover, and simmer for 15 minutes or until rice is tender and water is absorbed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat a non-stick skillet over medium heat until hot. Fry Spam™ slices until browned. Remove from the skillet, and set aside. Pour the eggs into the skillet; cook and stir until scrambled and cooked through. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "For each plate, place two scoops of rice, two scrambled eggs, and two slices of spam. Top with brown gravy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1139 kcal",
+    "carbohydrateContent": "160 g",
+    "cholesterolContent": "437 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "2175 mg",
+    "sugarContent": "1 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p1n4Xex4hp4EDOmJpvqhnjuujrY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8280802-851137ca101741bf8efdbf6264312e2d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/85787/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

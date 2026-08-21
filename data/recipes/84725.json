@@ -1,0 +1,80 @@
+{
+  "id": "84725",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/84725/german-semolina-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/84725/german-semolina-pudding/",
+  "title": "German Semolina Pudding",
+  "description": "This is a delicious traditional German dessert-type dish that your kids will love! It&#39;s a sweet pudding served with anything from applesauce to ground cinnamon and sugar. You can adjust the amount of sugar to your preferred sweetness.",
+  "authors": [
+    "Catie"
+  ],
+  "date_published": "2020-06-18T23:12:01-04:00",
+  "date_modified": "2026-04-28T12:47:05-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "1.5 tablespoons white sugar",
+    "0.33333334326744 cup semolina"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk and sugar in a saucepan over medium heat; bring to a boil then immediately remove from heat. (Milk tends to boil over as soon as it boils, so stay with it!)",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in semolina. Return to medium heat; bring to a boil, stirring until thickened but still pourable. Pour into serving bowls; top with your favorite hot cereal toppings.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "259 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "100 mg",
+    "sugarContent": "21 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Hhf-7nnaYUKCtXhMqDrBnPL1aaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/127939-431aa54a437446f39976fb798da2eb9d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/84725/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

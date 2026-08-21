@@ -1,0 +1,88 @@
+{
+  "id": "84741",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/84741/jasmines-brussels-sprouts/",
+  "requested_url": "https://www.allrecipes.com/recipe/84741/jasmines-brussels-sprouts/",
+  "title": "Jasmine&#39;s Brussels Sprouts",
+  "description": "A tasty side dish that combines the flavors of garlic and pancetta with Brussels sprouts.",
+  "authors": [
+    "jade"
+  ],
+  "date_published": "2019-04-03T23:33:43-04:00",
+  "date_modified": "2023-11-07T16:45:04-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups water",
+    "1 pound Brussels sprouts, trimmed",
+    "2 tablespoons olive oil",
+    "2 cloves garlic, minced",
+    "8 ounces pancetta bacon, diced",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Bring the water to a boil in a large saucepan. Add Brussels sprouts, and cook for 5 to 7 minutes. They should still be slightly firm. Drain, and rinse with cold water. Slice the sprouts in half, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat one tablespoon of olive oil in a large skillet over medium-high heat. Add the garlic and pancetta; cook and stir for about 5 minutes, until garlic is lightly browned. Add the remaining olive oil and Brussels sprouts. Reduce the heat to medium and cook, stirring until the sprouts are well coated with the flavor. Season with salt and pepper, and cook for 5 more minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "369 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1077 mg",
+    "sugarContent": "3 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "165"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3u9BadFUTsuhMnBtfiB_GWzOBQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/84741jasmines-brussels-sproutsFranceCx3-1590c1f70ecb42148d7f9c3cc8a5e0e0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/84741/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

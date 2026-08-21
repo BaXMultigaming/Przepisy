@@ -1,0 +1,84 @@
+{
+  "id": "85771",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/85771/rava-laddu/",
+  "requested_url": "https://www.allrecipes.com/recipe/85771/rava-laddu/",
+  "title": "Rava Laddu",
+  "description": "This is a popular Indian dessert recipe that I got from my Indian coworker&#39;s wife. It is VERY sweet, so if you don&#39;t like overly sweet desserts, you might want to adjust the semolina/sugar ratio accordingly.",
+  "authors": [
+    "Anita"
+  ],
+  "date_published": "2020-06-18T23:12:12-04:00",
+  "date_modified": "2021-10-29T18:23:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups semolina flour",
+    "7 cups white sugar",
+    "1.5 tablespoons ground cardamom",
+    "0.5 cup ghee (clarified butter)",
+    "0.33333334326744 cup cashew nuts",
+    "1 cup hot milk"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large dry skillet over medium to medium-high heat. Add the semolina, and toast, stirring constantly. Stir in the sugar and cardamom while toasting until light brown and fragrant, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a small amount of the ghee in a separate skillet over medium heat. Add the cashews, and cook until lightly toasted, about 10 minutes. Add the cashews to the semolina along with the remaining ghee. Gradually stir hot milk into the semolina until it is thick enough to pack into a ball. Remove from heat, and form palm-sized balls. Let cool and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "646 kcal",
+    "carbohydrateContent": "135 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "25 mg",
+    "sugarContent": "89 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fgC2QI2_hJ08mwCm99Y4ZzZxtig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/61754-88836623be3042c6a90c099034fed360.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/85771/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

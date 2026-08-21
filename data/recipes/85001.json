@@ -1,0 +1,83 @@
+{
+  "id": "85001",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/85001/scrambled-eggs-and-tomatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/85001/scrambled-eggs-and-tomatoes/",
+  "title": "Scrambled Eggs and Tomatoes",
+  "description": "A fast meal of eggs scrambled with tomatoes, and then seasoned with salt, sugar, and soy sauce. A great summertime recipe for using fresh tomatoes.",
+  "authors": [
+    "SCGOATS"
+  ],
+  "date_published": "2020-06-18T23:12:05-04:00",
+  "date_modified": "2026-04-25T10:46:12-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large eggs, beaten",
+    "2 tomatoes, coarsely chopped",
+    "1.5 teaspoons sugar",
+    "salt to taste",
+    "1 dash soy sauce"
+  ],
+  "steps": [
+    {
+      "text": "In a skillet over medium heat, scramble eggs until almost done. Remove to a plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return skillet to medium heat, and stir in tomatoes. Cook 2 to 3 minutes. Stir in sugar, salt, and soy. Return eggs to skillet; cook, stirring, about 1 minute more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "94 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "186 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "104 mg",
+    "sugarContent": "4 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lhh6TPkFQjoh6DR1tSUvEiieI7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9058131-42eb1190a90249e79af088f769b9e42b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/85001/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

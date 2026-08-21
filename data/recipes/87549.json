@@ -1,0 +1,84 @@
+{
+  "id": "87549",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/87549/moms-oyster-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/87549/moms-oyster-stew/",
+  "title": "Mom&#39;s Oyster Stew",
+  "description": "Oyster stew is whipped up in a matter of minutes. The fresher the oysters, the better the flavor. This is a tasty, savory recipe that&#39;s sure to please!",
+  "authors": [
+    "Kathi Harrison Smith"
+  ],
+  "date_published": "2018-06-08T09:27:03-04:00",
+  "date_modified": "2023-01-08T18:12:39-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons butter",
+    "1 clove garlic, sliced",
+    "0.5 teaspoon salt",
+    "0.125 teaspoon ground white pepper",
+    "1 cup milk",
+    "0.5 cup half-and-half cream",
+    "1 pint fresh shucked oysters",
+    "2 tablespoons chopped fresh parsley",
+    "1 pinch cayenne pepper",
+    "0.25 cup sherry wine, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a saucepan over medium heat. Add garlic, salt, and pepper; cook and stir until fragrant, about 5 minutes. Stir in milk and half-and-half; transfer to the top of a double boiler. If you do not have a double boiler, set the pan of soup over a pan of simmering water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When soup is hot, add oysters and heat just until oysters are opaque. Season with fresh parsley, cayenne pepper, and sherry to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "316 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "157 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "953 mg",
+    "sugarContent": "3 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vIfNtWoxi9EpyugZB_0OhMF4p4Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4394384-moms-oyster-stew-Sheila-Bragg-4x3-1-b6ecd5a407dc4a5c8ae03e66959111cb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/87549/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

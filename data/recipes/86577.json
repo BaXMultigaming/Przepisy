@@ -1,0 +1,83 @@
+{
+  "id": "86577",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/86577/asparagus-guacamole/",
+  "requested_url": "https://www.allrecipes.com/recipe/86577/asparagus-guacamole/",
+  "title": "Asparagus Guacamole",
+  "description": "Guacamole made with asparagus instead of avocado. It is good stuff!",
+  "authors": [
+    "PEABOY"
+  ],
+  "date_published": "2018-03-21T12:45:23-04:00",
+  "date_modified": "2025-07-22T05:02:34-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "24 spears fresh asparagus, trimmed and coarsely chopped",
+    "0.5 cup salsa",
+    "1 tablespoon chopped cilantro",
+    "2 cloves garlic",
+    "4 green onions, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Place the asparagus in a pot with enough water to cover. Bring to a boil, and cook 5 minutes, until tender but firm. Drain, and rinse with cold water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the asparagus, salsa, cilantro, garlic, and green onions in a food processor or blender, and process to desired consistency. Refrigerate until chilled before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "35 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "199 mg",
+    "sugarContent": "3 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YKiLzw9mYc3GUTC-ii725d7i_rI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/387933-4a7701a6eb1b4cc489e65ad9582a7028.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/86577/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "84892",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/84892/strawberry-vanilla-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/84892/strawberry-vanilla-pancakes/",
+  "title": "Strawberry Vanilla Pancakes",
+  "description": "These fluffy strawberry pancakes are packed with sweet strawberries and vanilla for a delicious breakfast that tastes like dessert!",
+  "authors": [
+    "Kristi"
+  ],
+  "date_published": "2020-03-04T23:59:18-05:00",
+  "date_modified": "2025-12-18T21:02:21-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "8 pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup all-purpose flour",
+    "2 tablespoons brown sugar",
+    "2 teaspoons baking powder",
+    "1 teaspoon salt, or to taste",
+    "1 cup milk",
+    "1 large egg",
+    "2 tablespoons vegetable oil",
+    "2 tablespoons vanilla extract",
+    "1 cup chopped fresh strawberries"
+  ],
+  "steps": [
+    {
+      "text": "Stir flour, brown sugar, baking powder, and salt together in a medium bowl. Pour in milk, egg, oil, and vanilla; mix until well blended. Stir in strawberries.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grease and heat a large skillet or griddle over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop batter by large spoonfuls onto the griddle and cook until bubbles form and the edges are dry, 2 to 3 minutes. Flip and cook until browned on the other side, about 2 minutes more. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "272 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "424 mg",
+    "sugarContent": "12 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "299"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EofXKA7e5b_WI1XagAgVCC1xqx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/822812-strawberry-vanilla-pancakes-lutzflcat-4x3-1-e910c7b0b24f4a8f88ae3c0438256f97.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/84892/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

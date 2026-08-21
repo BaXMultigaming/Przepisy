@@ -1,0 +1,103 @@
+{
+  "id": "87163",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/87163/thai-spiced-barbecue-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/87163/thai-spiced-barbecue-shrimp/",
+  "title": "Thai Spiced Barbecue Shrimp",
+  "description": "These grilled shrimp are marinated in a flavorful blend of lemon juice, soy sauce, garlic, mustard, and curry paste for an easy weeknight meal.",
+  "authors": [
+    "Ned Bruce"
+  ],
+  "date_published": "2020-03-04T23:59:25-05:00",
+  "date_modified": "2026-06-17T14:24:14-04:00",
+  "prep_time": "PT60M",
+  "cook_time": "PT6M",
+  "total_time": "PT66M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons fresh lemon juice",
+    "1 tablespoon soy sauce",
+    "1 tablespoon Dijon mustard",
+    "2 cloves garlic, minced",
+    "1 tablespoon brown sugar",
+    "2 teaspoons curry paste",
+    "1 pound medium shrimp - peeled and deveined"
+  ],
+  "steps": [
+    {
+      "text": "Combine lemon juice, soy sauce, mustard, garlic, brown sugar, and curry paste in a shallow dish or resealable bag. Add shrimp and turn to coat. Cover or seal and refrigerate for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for high heat. Lightly oil the grate. Thread shrimp onto skewers or place in a grill basket. Transfer marinade to a saucepan; bring to a boil and cook for 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill shrimp, turning once and basting occasionally with the boiled marinade, until opaque and cooked through, about 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/zrDuLLY1DYJu4DOJFtAbx_n1Y4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1122496-97a1660b455042d2ba3775abd5a9a17d.jpg"
+      ],
+      "image": "assets/images/87163/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "73 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "86 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "268 mg",
+    "sugarContent": "2 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "286"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/dFWbhmoD-ma1DlVvV.mp4",
+    "description": "See how to make a spicy Thai-influenced marinade for grilled shrimp.",
+    "duration": "PT2M3S",
+    "name": "Thai Spiced Barbecue Shrimp",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dFWbhmoD/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T02:27:12-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zrDuLLY1DYJu4DOJFtAbx_n1Y4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1122496-97a1660b455042d2ba3775abd5a9a17d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/87163/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/87163/step_03.webp"
+    ]
+  }
+}

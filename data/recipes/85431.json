@@ -1,0 +1,89 @@
+{
+  "id": "85431",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/85431/annes-potato-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/85431/annes-potato-pancakes/",
+  "title": "Anne&#39;s Potato Pancakes",
+  "description": "Easy and tasty potato pancakes. Serve with sour cream, applesauce, and/or ketchup.",
+  "authors": [
+    "KURZANNA"
+  ],
+  "date_published": "2018-06-08T09:26:33-04:00",
+  "date_modified": "2018-06-08T09:26:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Jewish"
+  ],
+  "regions": [
+    "Jewish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 medium red potatoes, with peel, shredded",
+    "1 large sweet onion, minced",
+    "3 eggs, lightly beaten",
+    "3 tablespoons all-purpose flour",
+    "0.5 teaspoon baking powder",
+    "1 tablespoon dried rosemary",
+    "1 tablespoon salt",
+    "2 teaspoons ground black pepper",
+    "1.5 teaspoons lime juice",
+    "2 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, mix the red potatoes, onion, eggs, flour, baking powder, rosemary, salt, pepper, and lime juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the oil in a skillet over medium-high heat. Scoop about 2/3 cup at a time of the potato mixture into the skillet, and press down with a spatula into a pancake shape. Cook 3 to 4 minutes on each side, until crisp and golden brown. Drain on paper towels. Repeat with remaining potato mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "56 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "754 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SaVD_07HfwHhWz6wqeS7h8_TNf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8796861-420ce0892fef4d85bd957398bbe59875.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/85431/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

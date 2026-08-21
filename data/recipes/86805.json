@@ -1,0 +1,74 @@
+{
+  "id": "86805",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/86805/citrus-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/86805/citrus-salad/",
+  "title": "Citrus Salad",
+  "description": "Fresh summer fruit and lettuce salad made fast and easy.",
+  "authors": [
+    "BARBMD"
+  ],
+  "date_published": "2019-07-10T02:54:53-04:00",
+  "date_modified": "2022-02-25T18:25:46-05:00",
+  "prep_time": "PT25M",
+  "cook_time": null,
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 lime - zested, peeled, and sliced",
+    "1 mandarin orange (tangerine) - zested, peeled, and sectioned",
+    "1 navel orange, peeled and sectioned",
+    "1 grapefruit, peeled and sectioned",
+    "1 bulb shallots, diced",
+    "1 tablespoon lemon juice",
+    "1 tablespoon olive oil",
+    "0.5 teaspoon salt",
+    "1 head romaine lettuce, torn"
+  ],
+  "steps": [
+    {
+      "text": "Place lime slices, tangerine sections, navel orange, and grapefruit in a bowl. In a separate bowl, mix the lime zest, mandarin orange zest, shallots, lemon juice, olive oil, and salt. Pour over the fruit. Arrange dressed fruit atop romaine lettuce to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "117 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "300 mg",
+    "sugarContent": "13 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_M_GHXjuL6nQ0aQZdkXuMovgv5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/71982-b50f6ad3ddf2432291d3f9c8750fc31b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/86805/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

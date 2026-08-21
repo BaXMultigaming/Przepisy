@@ -1,0 +1,71 @@
+{
+  "id": "87553",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/87553/victorias-cucumber-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/87553/victorias-cucumber-salad/",
+  "title": "Victoria&#39;s Cucumber Salad",
+  "description": "This easy cucumber salad lets you turn your cucumbers into an instant side dish! A light seasoning of salt pepper and garlic powder and some mayonnaise is all you need.",
+  "authors": [
+    "SECRETV2"
+  ],
+  "date_published": "2018-06-08T09:27:03-04:00",
+  "date_modified": "2021-08-16T18:56:19-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large cucumbers, thinly sliced",
+    "1 teaspoon salt",
+    "1 tablespoon ground black pepper",
+    "1 pinch garlic powder",
+    "0.5 cup mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Place the cucumber slices into a large bowl. Season with salt, pepper and garlic powder. Stir in mayonnaise until coated. Refrigerate for 20 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "163 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "496 mg",
+    "sugarContent": "3 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KCfiS6C29pu9WU3WWpz2HBcxQs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9348980-4e4318d74dd649d19bd725d48f3739b1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/87553/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
