@@ -1,0 +1,71 @@
+{
+  "id": "43835",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/43835/chocolate-banana-oatmeal-porridge/",
+  "requested_url": "https://www.allrecipes.com/recipe/43835/chocolate-banana-oatmeal-porridge/",
+  "title": "Chocolate Banana Oatmeal Porridge",
+  "description": "A simple oatmeal porridge with mashed bananas and melted chocolate to make it extra special!",
+  "authors": [
+    "Glitzy Star"
+  ],
+  "date_published": "2020-03-04T23:57:40-05:00",
+  "date_modified": "2022-08-08T11:43:32-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups boiling water",
+    "1 cup rolled oats",
+    "0.25 teaspoon salt",
+    "0.5 cup brown sugar",
+    "1 banana, mashed",
+    "0.25 cup semisweet chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, combine water, oats and salt. Simmer 5 minutes uncovered, stirring occasionally. Remove from heat, cover, and let stand 3 minutes. Stir in brown sugar, banana and chocolate chips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "516 kcal",
+    "carbohydrateContent": "108 g",
+    "fiberContent": "7 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "319 mg",
+    "sugarContent": "72 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hpk2KQI1iYUjJ1FHOtGcZxb-r0w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chocolate-Banana-Oatmeal-Porridge-2000-334e95650bb84fc78d1ccd3374729875.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/43835/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

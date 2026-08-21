@@ -1,0 +1,80 @@
+{
+  "id": "41110",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/41110/cranberry-whip/",
+  "requested_url": "https://www.allrecipes.com/recipe/41110/cranberry-whip/",
+  "title": "Cranberry Whip",
+  "description": "This fluffy, flavorful cranberry salad makes a great side dish or dessert!",
+  "authors": [
+    "Deena"
+  ],
+  "date_published": "2020-06-18T23:08:10-04:00",
+  "date_modified": "2022-07-14T16:10:17-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT510M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups ground raw cranberries",
+    "1 (16 ounce) package miniature marshmallows",
+    "1 cup white sugar",
+    "2 cups apples - peeled, cored and finely chopped",
+    "0.5 cup walnuts",
+    "1 pint heavy cream, whipped"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, mix cranberries, miniature marshmallows, and sugar. Cover, and chill in the refrigerator 8 hours, or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix apples and walnuts into the cranberry mixture. Fold in whipped heavy cream just before serving. Serve cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "395 kcal",
+    "carbohydrateContent": "57 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "63 mg",
+    "sugarContent": "42 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jHxJs-RRbEP-kK2UNWK_RohlXkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/209166-f62a94df5342419ab6bba8051f481584.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/41110/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

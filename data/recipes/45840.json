@@ -1,0 +1,93 @@
+{
+  "id": "45840",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/45840/melissas-green-chile-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/45840/melissas-green-chile-stew/",
+  "title": "Melissa&#39;s Green Chile Stew",
+  "description": "A very delicious and satisfying green chile stew with ground beef and potatoes. Especially great with homemade tortillas!",
+  "authors": [
+    "Dolly Rickerman"
+  ],
+  "date_published": "2019-04-03T23:30:27-04:00",
+  "date_modified": "2025-01-01T15:14:53-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT75M",
+  "total_time": "PT90M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southwestern"
+  ],
+  "regions": [
+    "Southwestern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 pound ground beef",
+    "5 medium potatoes, peeled and cubed",
+    "1 (14.5 ounce) can stewed tomatoes",
+    "1 cup chopped green chile peppers",
+    "0.5 cup chopped onion",
+    "2 cups water",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large stockpot over medium-high heat. Crumble beef into the pot and cook, stirring frequently, until well-browned, 7 to 10 minutes. Drain and discard grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return the pot to the stove and add potatoes, tomatoes, chile peppers, and onion to the beef. Pour in water, stir to combine, and bring to a boil. Reduce heat and simmer until flavors have blended, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season with salt and pepper before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "320 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "858 mg",
+    "sugarContent": "5 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yJulpn_rCI_G60ZpGpQMS1ZEe3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6401121-9acafe0696964521b6b934837577b23d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/45840/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

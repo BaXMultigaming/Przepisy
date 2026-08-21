@@ -1,0 +1,98 @@
+{
+  "id": "40401",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/40401/hot-toddy/",
+  "requested_url": "https://www.allrecipes.com/recipe/40401/hot-toddy/",
+  "title": "Hot Toddy",
+  "description": "A hot toddy is easy to make with whiskey, hot water, honey, cloves, and lemon for a soothing warm cocktail perfect for cozy nights or cold relief.",
+  "authors": [
+    "SWIZZLESTICKS"
+  ],
+  "date_published": "2019-04-03T23:29:51-04:00",
+  "date_modified": "2026-03-11T06:58:24-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "Scottish"
+  ],
+  "regions": [
+    "Scottish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 fluid ounces boiling water",
+    "1.5 fluid ounces whiskey",
+    "1 teaspoon honey",
+    "3 whole cloves",
+    "1 cinnamon stick",
+    "1 slice lemon",
+    "1 pinch ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/iab2P7GXxTeEqbFu5GZ1oTojzbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-40401-Hot-Toddy-ddmfs-step-01-cab32d64b6ca426285d29064af549fdc.jpg"
+      ],
+      "image": "assets/images/40401/step_01.webp"
+    },
+    {
+      "text": "Pour boiling water, whiskey, and honey into a mug.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6mS7KxquK8csLnL6IepRXHOFeeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-40401-Hot-Toddy-ddmfs-step-02-7142ad7fcd404fae9da8833f3bd0c991.jpg"
+      ],
+      "image": "assets/images/40401/step_02.webp"
+    },
+    {
+      "text": "Add cloves, cinnamon, and lemon slice. Let steep 5 minutes for flavors to blend. Sprinkle with nutmeg (if using) before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ecIFLXMLAJ7fUOHPaTfpmaa3cJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-40401-Hot-Toddy-ddmfs-4x3-64d08dca4e9843c5bb4ce12a297d5e1f.jpg"
+      ],
+      "image": "assets/images/40401/step_03.webp"
+    }
+  ],
+  "nutrition": null,
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "163"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/uQzF8jEP-K3AjnAEN.mp4",
+    "description": "This potion is perfect for the colder season! Honey, lemon, water, whiskey, clove, nutmeg, and cinnamon blend beautifully to make this magical hot toddy! \n\n",
+    "duration": "PT31S",
+    "name": "Hot Toddy ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/uQzF8jEP/thumbnails/k6h3zFwy.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:46:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ecIFLXMLAJ7fUOHPaTfpmaa3cJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-40401-Hot-Toddy-ddmfs-4x3-64d08dca4e9843c5bb4ce12a297d5e1f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/40401/hero.webp",
+    "steps": [
+      "assets/images/40401/step_01.webp",
+      "assets/images/40401/step_02.webp",
+      "assets/images/40401/step_03.webp"
+    ]
+  }
+}

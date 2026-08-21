@@ -1,0 +1,103 @@
+{
+  "id": "42890",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42890/turkey-a-la-king/",
+  "requested_url": "https://www.allrecipes.com/recipe/42890/turkey-a-la-king/",
+  "title": "Turkey à la King",
+  "description": "This turkey à la king recipe, made with cooked turkey in a creamy mushroom-pea sauce, is perfect over puff pastry, biscuits, toast, or rice.",
+  "authors": [
+    "KARIN"
+  ],
+  "date_published": "2018-06-08T09:19:42-04:00",
+  "date_modified": "2026-02-17T21:34:30-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "3 fresh mushrooms, sliced",
+    "1 tablespoon all-purpose flour",
+    "1 cup chicken broth",
+    "1 cup chopped cooked turkey",
+    "0.5 cup heavy cream",
+    "0.33300000429153 cup frozen peas, thawed",
+    "salt and pepper to taste",
+    "freshly chopped parsley for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large skillet over medium-low heat; cook until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/G-Bwzt_xOOgdknQmx0sFDT26Z4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/42890-turkey-a-la-king-VAT-step-02-a96837e1748241d88bb39040e9f95564.jpg"
+      ],
+      "image": "assets/images/42890/step_01.webp"
+    },
+    {
+      "text": "Add mushrooms; cook until tender, stirring occasionally, about 3 minutes. Stir in flour until smooth. Slowly whisk in chicken broth; cook until slightly thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/W4D-3idz-3xhEmTe8lZf2JuqGqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/42890-turkey-a-la-king-VAT-step-03-517f3a764daf46428acad42bc78693e6.jpg"
+      ],
+      "image": "assets/images/42890/step_02.webp"
+    },
+    {
+      "text": "Stir in turkey, cream, and peas. Reduce the heat to low; continue cooking until sauce thickens, about 5 minutes. Season with salt and pepper; garnish with parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/SIKEgzF_nVicIW4AM030g2VZPDc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/42890-turkey-a-la-king-VAT-step-04-6c7ff9e4449b413aae3ea21c120f5b72.jpg"
+      ],
+      "image": "assets/images/42890/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "233 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "92 mg",
+    "sugarContent": "1 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "261"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xlLmblS6rdiNQXydeKT8js_wcmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/42890-turkey-a-la-king-VAT-Beauty-4x3-ac46567ffe0b4a12b578c20c2f216848.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42890/hero.webp",
+    "steps": [
+      "assets/images/42890/step_01.webp",
+      "assets/images/42890/step_02.webp",
+      "assets/images/42890/step_03.webp"
+    ]
+  }
+}

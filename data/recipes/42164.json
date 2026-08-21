@@ -1,0 +1,78 @@
+{
+  "id": "42164",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42164/supreme-apple-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/42164/supreme-apple-butter/",
+  "title": "Supreme Apple Butter",
+  "description": "Serve this rich, slow-cooked apple butter with your favorite breads and breakfast treats!",
+  "authors": [
+    "A. Parker"
+  ],
+  "date_published": "2020-03-04T23:57:34-05:00",
+  "date_modified": "2022-08-08T11:40:44-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT180M",
+  "total_time": "PT265M",
+  "yield": [
+    "48",
+    "3 pints"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 fluid ounce) can frozen apple juice concentrate, thawed",
+    "0.5 cup apple cider",
+    "4 pounds Macintosh apples - peeled, cored and chopped",
+    "0.75 cup dark brown sugar",
+    "1 cup apple brandy",
+    "1 teaspoon ground cinnamon",
+    "1 teaspoon ground ginger",
+    "0.25 teaspoon ground cloves"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, bring apple juice concentrate, apple cider, and Macintosh apples to a boil. Reduce heat to low. Stirring occasionally, simmer uncovered about 1 hour, until apples are easily mashed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix dark brown sugar, apple brandy, cinnamon, ginger, and cloves into the apple mixture. Bring to a boil, reduce heat, and simmer uncovered 2 hours, stirring occasionally, until thickened. Transfer to sealed sterile containers, and cool at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "60 kcal",
+    "carbohydrateContent": "14 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "12 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "96"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/foCKeXqJCaSeKd4WBxIXDAul_Bg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1044366-1ced1ef749c54f6a92b0519a7a1609cf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42164/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

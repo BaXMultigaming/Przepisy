@@ -1,0 +1,93 @@
+{
+  "id": "42159",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42159/sweet-and-tangy-glazed-salmon/",
+  "requested_url": "https://www.allrecipes.com/recipe/42159/sweet-and-tangy-glazed-salmon/",
+  "title": "Sweet and Tangy Glazed Salmon",
+  "description": "This is a great glaze for grilled salmon. Very easy, and everyone loves it.",
+  "authors": [
+    "SUSANNE"
+  ],
+  "date_published": "2020-03-04T23:57:34-05:00",
+  "date_modified": "2025-01-29T18:58:55-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Entree"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 tablespoons butter",
+    "1.5 cups brown sugar",
+    "4.5 tablespoons lemon juice",
+    "2.25 teaspoons dried dill weed",
+    "0.75 teaspoon ground cayenne pepper",
+    "1 pound salmon fillets, with skin",
+    "lemon pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an outdoor grill for high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in a saucepan over medium heat, and mix in the brown sugar, lemon juice, dill, and cayenne pepper. Cook and stir until the brown sugar is dissolved. Reduce heat and simmer until ready to brush onto the salmon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season salmon with lemon pepper, and place directly on the grill grate, skin side down. Brushing frequently with the butter and brown sugar glaze, cook the salmon 20 minutes, or until easily flaked with a fork. Reserve some of the glaze for serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "656 kcal",
+    "carbohydrateContent": "83 g",
+    "cholesterolContent": "102 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "259 mg",
+    "sugarContent": "81 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "50"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2ThqSk-OJVZNuwtE93p9_7WyMwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/41936-2d729dbaaddd40d499435a1e94c72c2e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42159/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

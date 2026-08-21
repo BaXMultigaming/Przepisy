@@ -1,0 +1,90 @@
+{
+  "id": "45616",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/45616/seven-flavor-hamburger/",
+  "requested_url": "https://www.allrecipes.com/recipe/45616/seven-flavor-hamburger/",
+  "title": "Seven Flavor Hamburger",
+  "description": "This ground beef and vegetable mixture in a tomato based sauce is wonderful served on hamburger buns, but equally good over noodles.",
+  "authors": [
+    "sharon"
+  ],
+  "date_published": "2020-06-18T23:08:38-04:00",
+  "date_modified": "2024-11-09T19:07:18-05:00",
+  "prep_time": null,
+  "cook_time": "PT20M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "0.5 cup chopped onion",
+    "0.25 cup chopped celery",
+    "0.25 cup chopped green bell pepper",
+    "1 teaspoon salt",
+    "1 pinch ground black pepper",
+    "0.33333334326744 cup ketchup",
+    "1 tablespoon white vinegar",
+    "1 tablespoon white sugar",
+    "2 tablespoons Worcestershire sauce",
+    "1 (8 ounce) can tomato sauce",
+    "6 hamburger buns, split"
+  ],
+  "steps": [
+    {
+      "text": "Cook ground beef in a large skillet over medium heat until no longer pink. Stir frequently, and break into pieces. Drain off grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add onion, celery, and green pepper to the skillet, and season with salt and pepper. Cook, stirring until onion is soft, about 5 minutes. Stir in ketchup, vinegar, sugar, Worcestershire sauce, and tomato sauce. Cover, reduce heat to low, and simmer for 20 minutes. Spoon onto buns, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "300 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1077 mg",
+    "sugarContent": "8 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dVM8DCyYvHj-FnN67e_gT-r4P_A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45616seven-flavor-hamburgerlutzflcat4x3-dec121f5f86c4609af10f77e477dd1f1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/45616/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

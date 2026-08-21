@@ -1,0 +1,85 @@
+{
+  "id": "40156",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/40156/linguini-with-white-clam-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/40156/linguini-with-white-clam-sauce/",
+  "title": "Linguini with White Clam Sauce",
+  "description": "This clam sauce is very creamy and there is no butter in it. I get requests for this all the time.",
+  "authors": [
+    "WHIPITUP"
+  ],
+  "date_published": "2018-06-08T09:18:54-04:00",
+  "date_modified": "2022-08-08T10:37:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package linguine pasta",
+    "4 tablespoons olive oil",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "3 tablespoons all-purpose flour",
+    "2 (6.5 ounce) cans minced clams, drained with juice reserved",
+    "1.5 cups milk",
+    "2 tablespoons white wine",
+    "0.5 teaspoon chopped fresh parsley",
+    "0.25 teaspoon pepper",
+    "0.25 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large heavy skillet over medium heat. Saute onion and garlic until soft and translucent. Stir in flour, then the reserved clam juice. Gradually blend in the milk. Stir in wine and parsley. Cook, stirring, for 5 minutes, or until sauce thickens. Mix in the clams. Spoon over cooked pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "744 kcal",
+    "carbohydrateContent": "98 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "43 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "294 mg",
+    "sugarContent": "9 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "99"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-z5SoyCUm6ZanUAM7Qt1DnKjru0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1424779-a869118c09414b62b68209e9104ad302.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/40156/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

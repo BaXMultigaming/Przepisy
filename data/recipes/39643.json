@@ -1,0 +1,90 @@
+{
+  "id": "39643",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/39643/baby-blt/",
+  "requested_url": "https://www.allrecipes.com/recipe/39643/baby-blt/",
+  "title": "Baby BLT",
+  "description": "Cherry tomatoes stuffed with a mixture of bacon, green onion, and mayonnaise. These BLT stuffed tomatoes may be a little time-consuming, but they are worth it to the last bite!",
+  "authors": [
+    "CATMANIACS"
+  ],
+  "date_published": "2019-04-02T02:44:25-04:00",
+  "date_modified": "2024-06-12T16:26:23-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT90M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound bacon, cooked and crumbled",
+    "0.5 cup mayonnaise",
+    "0.25 cup green onions, chopped",
+    "2 tablespoons chopped fresh parsley",
+    "24 cherry tomatoes"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium-high heat for 6 to 8 minutes, or until evenly brown. Once cooled, crumble and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, stir together mayonnaise, bacon, green onions, and parsley until well blended. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut a small slice from the top of each tomato. Using a melon baller or small spoon, scoop out the inside of each tomato and discard. Fill each tomato with the bacon mixture, and refrigerate for 1 hour. Serve chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "71 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "172 mg",
+    "sugarContent": "0 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "413"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eIsVYjEbKtsNJV3dCRpp4_SOvb0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1421591_Baby-BLT-photo-by-KGora-4x3-90f45c7e0695440e82a9c7da5af8705b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/39643/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

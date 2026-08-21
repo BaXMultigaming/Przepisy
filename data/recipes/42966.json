@@ -1,0 +1,89 @@
+{
+  "id": "42966",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42966/elk-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/42966/elk-chili/",
+  "title": "Elk Chili",
+  "description": "This elk chili recipe is a simple, rich, and tasty traditional-style chili using ground elk meat as the base. Best served with Mexican-style cornbread.",
+  "authors": [
+    "Mark Cunningham"
+  ],
+  "date_published": "2020-03-04T23:57:39-05:00",
+  "date_modified": "2026-04-16T12:35:15-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT60M",
+  "total_time": "PT90M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds ground elk meat",
+    "2 large yellow onions, diced",
+    "2 (10 ounce) cans tomato sauce",
+    "1 (15 ounce) can kidney beans, drained",
+    "1 (14.5 ounce) can Italian-style stewed tomatoes",
+    "1 (4 ounce) can diced green chiles",
+    "0.5 cup brown sugar",
+    "1.5 tablespoons chili powder",
+    "1.5 teaspoons ground cumin",
+    "1 teaspoon dried oregano",
+    "1 teaspoon salt",
+    "1 teaspoon black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Cook ground elk and onion in a large, deep skillet over medium heat until brown. Drain excess grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir tomato sauce, kidney beans, stewed tomatoes, and green chilies into elk mixture to combine; season with sugar, chili powder, cumin, oregano, salt, and black pepper. Cover the skillet; simmer over low heat at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "307 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "52 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1462 mg",
+    "sugarContent": "29 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "103"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/T2QTbmDR04_eEYdr2X5Z_soJ0To=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7207573-634343daa3ba45a4bb08238a82593701.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42966/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

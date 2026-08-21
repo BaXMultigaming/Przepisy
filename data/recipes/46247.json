@@ -1,0 +1,71 @@
+{
+  "id": "46247",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/46247/spinach-with-pecans/",
+  "requested_url": "https://www.allrecipes.com/recipe/46247/spinach-with-pecans/",
+  "title": "Spinach with Pecans",
+  "description": "Chopped pecans add a great taste and texture to cooked fresh spinach and onions.",
+  "authors": [
+    "Lisa-Michelle Boucher"
+  ],
+  "date_published": "2019-04-03T23:30:31-04:00",
+  "date_modified": "2019-04-03T23:30:31-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 medium onion, chopped",
+    "2 cups chopped fresh spinach",
+    "0.25 cup water",
+    "1 tablespoon pecan halves"
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a medium saucepan over medium heat, and saute the onion until tender. Stir in the spinach and water, and cook until wilted. Mix in the pecans, and continue to cook and stir until warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "57 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "13 mg",
+    "sugarContent": "1 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Vq53eAGh9Y2985MXktIcARh08Rg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/778414-f4832cd38e9a4eaeb9cf47722469cd51.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/46247/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

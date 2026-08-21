@@ -1,0 +1,87 @@
+{
+  "id": "43057",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/43057/orange-mango-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/43057/orange-mango-chicken/",
+  "title": "Orange Mango Chicken",
+  "description": "Chicken is topped with a delicious and colorful orange juice and mango sauce.",
+  "authors": [
+    "Michael Soucie"
+  ],
+  "date_published": "2018-06-08T09:19:44-04:00",
+  "date_modified": "2025-01-28T18:23:18-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons olive oil",
+    "4 skinless, boneless chicken breast halves",
+    "0.125 teaspoon ground thyme",
+    "salt and freshly ground black pepper to taste",
+    "1 lemon, juiced",
+    "1 cup orange juice",
+    "1 mango - peeled, seeded, and sliced",
+    "0.25 teaspoon ground ginger",
+    "0.125 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a medium skillet over medium heat. Place chicken breast halves in the skillet, and cook 5 to 10 minutes on each side, until no longer pink and juices run clear. Season both sides with thyme, salt, and pepper. Remove from heat, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the lemon juice in the skillet over medium heat, and scrape up browned bits. Mix in orange juice, mango, ginger, and cinnamon. Over high heat, cook and continuously stir 4 to 5 minutes, until thickened. Spoon over the cooked chicken breast halves to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "79 mg",
+    "sugarContent": "13 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "83"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Y0sqdfoxQzs4Y3uhgEZ7AUZTHv4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/181607-0b9bdfd001cd4f4c85a73d94d1608627.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/43057/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

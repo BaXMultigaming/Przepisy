@@ -1,0 +1,81 @@
+{
+  "id": "42829",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42829/beef-with-green-onion/",
+  "requested_url": "https://www.allrecipes.com/recipe/42829/beef-with-green-onion/",
+  "title": "Beef with Green Onion",
+  "description": "Tender beef steak and green onions are cooked together with oyster sauce and sherry.",
+  "authors": [
+    "Linda Cilek"
+  ],
+  "date_published": "2020-06-18T23:08:29-04:00",
+  "date_modified": "2022-07-14T17:48:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 tablespoons dry sherry",
+    "3 tablespoons oyster sauce",
+    "0.5 teaspoon white sugar",
+    "2 teaspoons cornstarch",
+    "2 tablespoons peanut oil",
+    "1 pound flank steak, thinly sliced",
+    "6 green onions, cut into 1/2-inch pieces"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, mix the sherry, oyster sauce, sugar, and cornstarch.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the oil in a skillet, and cook the flank steak about 3 minutes. Stir in sherry sauce mixture. Add the green onions, and continue cooking 10 minutes, or until the flank steak is evenly brown and the green onions are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "211 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "154 mg",
+    "sugarContent": "1 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9ohRp5EtHRrP0X2BJ3TMPZGKdwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3964790-4cf7f00c72f2493a92dcf3b81cd93115.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42829/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

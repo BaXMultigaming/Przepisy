@@ -1,0 +1,103 @@
+{
+  "id": "46347",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/46347/broccoli-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/46347/broccoli-soup/",
+  "title": "Broccoli Soup",
+  "description": "This creamy, smooth broccoli soup recipe is made with frozen broccoli, garlic, onion, and broth thickened with potatoes and seasoned with ground nutmeg.",
+  "authors": [
+    "LONBINDER"
+  ],
+  "date_published": "2002-01-25T20:22:08-05:00",
+  "date_modified": "2025-11-20T12:05:38-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 large onion, chopped",
+    "3 cloves garlic, peeled and chopped",
+    "4 cups chicken broth",
+    "2 (10 ounce) packages chopped frozen broccoli, thawed",
+    "1 potato, peeled and chopped",
+    "0.25 teaspoon ground nutmeg",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large saucepan. Add onion and garlic; cook until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FhW9RGSmZRFc-ups1tLBlVQ56Ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46347-broccoli-soup-DDMFS-step2-5d175200455e46cfa64bc8cc231d863c.jpg"
+      ],
+      "image": "assets/images/46347/step_01.webp"
+    },
+    {
+      "text": "Add broccoli, chicken broth, and potato; bring to a boil. Reduce heat; simmer until vegetables are tender, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/V387vI-nyYas7R9kbYNNXfG7P_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46347-broccoli-soup-DDMFS-step3-d0cba3ad1b2242bfa495142405d15013.jpg"
+      ],
+      "image": "assets/images/46347/step_02.webp"
+    },
+    {
+      "text": "Purée mixture with an immersion blender, or in a standard blender, until smooth. Reheat, if necessary; season with nutmeg, salt, and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jdiWtRf72zJ2unAIH7XssJb_aoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46347-broccoli-soup-DDMFS-step4-option-c45e4e3ba0fc4c1daed8f2a1b91fdb99.jpg"
+      ],
+      "image": "assets/images/46347/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "20 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "402"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/__2boxL3tHXc6DvtQebEmTKbSa4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/46347-broccoli-soup-DDMFS-4x3-99ad10dd0f2b4120ba0de3d597a8f533.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/46347/hero.webp",
+    "steps": [
+      "assets/images/46347/step_01.webp",
+      "assets/images/46347/step_02.webp",
+      "assets/images/46347/step_03.webp"
+    ]
+  }
+}

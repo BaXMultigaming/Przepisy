@@ -1,0 +1,95 @@
+{
+  "id": "40365",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/40365/cowpoke-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/40365/cowpoke-beans/",
+  "title": "Cowpoke Beans",
+  "description": "This recipe was used by a chef I worked for and still enjoy feeding to my crew at home. This was served as a side dish for a Mardi Gras feast. You can also make this for vegetarian by omitting the bacon. A little of the favor is missing, but it still has a kick.",
+  "authors": [
+    "sweetsophie"
+  ],
+  "date_published": "2019-04-02T02:44:28-04:00",
+  "date_modified": "2022-08-08T11:38:24-04:00",
+  "prep_time": "PT720M",
+  "cook_time": null,
+  "total_time": "PT720M",
+  "yield": [
+    "7",
+    "7 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dry pinto beans",
+    "4 slices bacon, cooked and crumbled",
+    "0.5 teaspoon crushed red pepper flakes",
+    "1 clove garlic, chopped",
+    "2 tablespoons butter",
+    "2 cups chopped onion",
+    "1.6666666269302 cups canned stewed tomatoes",
+    "0.25 cup chopped fresh parsley",
+    "0.5 teaspoon ground cumin",
+    "0.5 teaspoon dried marjoram",
+    "1.25 tablespoons chili powder",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Soak pinto beans overnight with plenty of water to cover. Drain, remove to a large cooking pot, and cover with fresh water. Add the bacon, red chile flakes, and garlic. Bring to a boil, then reduce heat and simmer, covered, for about 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium-high heat. Saute onion in butter until tender. Add the tomatoes, parsley, cumin, marjoram, and salt. Simmer over low heat for about 45 minutes to blend the flavors.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When beans are tender, drain off any remaining water. Pour in the tomato mixture, and simmer for an additional 20 minutes, stirring occasionally. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "127 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "705 mg",
+    "sugarContent": "4 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s7h6QfwNGohDWlbk3IgZQ0SQzfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/312545-94b40e8eb24c4211bf14a90faf29ae1f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/40365/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

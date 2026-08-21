@@ -1,0 +1,84 @@
+{
+  "id": "44445",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/44445/keema-indian-style-ground-meat/",
+  "requested_url": "https://www.allrecipes.com/recipe/44445/keema-indian-style-ground-meat/",
+  "title": "Keema (Indian-Style Ground Meat)",
+  "description": "This Indian recipe for ground lamb is sautéed with onions and lots of masala, then served over rice or noodles for a quick, flavorful meal.",
+  "authors": [
+    "ajr"
+  ],
+  "date_published": "2018-06-08T09:19:50-04:00",
+  "date_modified": "2022-11-06T05:22:48-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds ground lamb",
+    "1 onion, finely chopped",
+    "2 cloves garlic, minced",
+    "2 tablespoons garam masala",
+    "1 teaspoon salt",
+    "4 teaspoons tomato paste",
+    "0.75 cup beef broth"
+  ],
+  "steps": [
+    {
+      "text": "Cook lamb in a large, heavy skillet over medium heat until browned and crumbly, 5 to 7 minutes. Use a slotted spoon to transfer lamb to a bowl; drain off all but 1 tablespoon fat from the skillet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add onion to the skillet and sauté until soft and translucent, about 5 minutes. Stir in garlic and cook until fragrant, about 1 minute. Stir in garam masala and salt; cook for 1 minute. Return browned lamb to the pan with broth and tomato paste. Reduce the heat and simmer until lamb is fully cooked through and liquid has evaporated, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "513 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "124 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "885 mg",
+    "sugarContent": "2 g",
+    "fatContent": "41 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "151"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sAngZKq2lDtNcb1IDUxhsev6T-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4470256-50fb804e315845429ea2989174352d30.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/44445/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

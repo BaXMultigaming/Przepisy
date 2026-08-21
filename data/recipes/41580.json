@@ -1,0 +1,66 @@
+{
+  "id": "41580",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/41580/coconut-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/41580/coconut-syrup/",
+  "title": "Coconut Syrup",
+  "description": "A simple and delicious coconut syrup. Try it over banana or mango pancakes for a tropical delight.",
+  "authors": [
+    "Hunter StClaire"
+  ],
+  "date_published": "2020-03-04T23:57:32-05:00",
+  "date_modified": "2022-01-14T01:26:42-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) can coconut milk",
+    "1 cup flaked coconut",
+    "0.75 cup brown sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a heavy saucepan, combine coconut cream, flaked coconut and brown sugar. Bring to a boil, reduce to a simmer, and cook for 20 minutes, stirring occasionally. Transfer to a blender, and puree until smooth. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "868 kcal",
+    "carbohydrateContent": "106 g",
+    "fiberContent": "6 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "47 g",
+    "sodiumContent": "154 mg",
+    "sugarContent": "94 g",
+    "fatContent": "52 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/enc9Ix30u_7MdTq5n8iIP26cP2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32362-56feb69b9b3b4631a7cd889b80f05e9c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/41580/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

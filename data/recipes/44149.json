@@ -1,0 +1,93 @@
+{
+  "id": "44149",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/44149/trini-style-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/44149/trini-style-chicken/",
+  "title": "Trini Style Chicken",
+  "description": "This is a Trinidadian style chicken with bok choy. It is tasty and easy to make.",
+  "authors": [
+    "Kimberly"
+  ],
+  "date_published": "2020-06-18T23:08:33-04:00",
+  "date_modified": "2024-12-05T14:53:28-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "regions": [
+    "Caribbean"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 pounds bone-in chicken pieces",
+    "2 tablespoons garlic powder",
+    "1 tablespoon sea salt",
+    "1 tablespoon cayenne pepper",
+    "1 (.18 ounce) packet sazon seasoning",
+    "2 tablespoons white sugar",
+    "3 bok choy stalks, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Stir together the garlic powder, salt, cayenne pepper, and sazon seasoning in a shallow dish. Coat chicken pieces with this mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a Dutch oven or heavy skillet with a lid over medium heat for at least 3 minutes. Sprinkle the sugar over the bottom of the pan, and stir gently until it becomes liquid and caramelizes. Add the chicken, cover, and cook for about 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove cover, and cook for another 15 to 20 minutes, letting the juices cook down until they are almost gone. Add the bok choy, and cook just until wilted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "515 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "88 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1090 mg",
+    "sugarContent": "5 g",
+    "fatContent": "44 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "44"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p14m71SwB80-ygyehcNW8hy2bVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/681091_trini-style-chicken-4x3-09ca847a1b1242d4a4cec918c7ac99e5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/44149/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

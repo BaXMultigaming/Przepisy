@@ -1,0 +1,82 @@
+{
+  "id": "42796",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42796/thai-coffee/",
+  "requested_url": "https://www.allrecipes.com/recipe/42796/thai-coffee/",
+  "title": "Thai Coffee",
+  "description": "Thai coffee, as is served in Thai restaurants.",
+  "authors": [
+    "Talia"
+  ],
+  "date_published": "2019-04-03T23:30:14-04:00",
+  "date_modified": "2024-11-29T14:11:47-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "regions": [
+    "Thai"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons ground coffee beans",
+    "0.25 teaspoon ground cardamom",
+    "water",
+    "2 tablespoons sweetened condensed milk"
+  ],
+  "steps": [
+    {
+      "text": "Place coffee and cardamom in the filter of your coffee machine. Place enough water to make 2 cups of coffee in the machine. Turn on the coffee machine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour brewed coffee into 2 coffee cups, and stir 1 tablespoon sweetened condensed milk into each cup. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "27 mg",
+    "sugarContent": "10 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NNsFPYexEtux4ukhOdXwK3X9f44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3932529-041a045635314e32bdcf639eaa90d453.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42796/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

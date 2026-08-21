@@ -1,0 +1,75 @@
+{
+  "id": "46300",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/46300/coffee-gelatin-dessert/",
+  "requested_url": "https://www.allrecipes.com/recipe/46300/coffee-gelatin-dessert/",
+  "title": "Coffee Gelatin Dessert",
+  "description": "Sweetened coffee flavored gelatin is best eaten with a dollop of whipped cream on top. This is a fabulous dessert I once enjoyed at a Japanese restaurant, of all places!",
+  "authors": [
+    "Mardee"
+  ],
+  "date_published": "2020-06-18T23:08:41-04:00",
+  "date_modified": "2022-12-15T21:00:33-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT375M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Japanese Inspired"
+  ],
+  "regions": [
+    "Japanese Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup white sugar",
+    "3 (.25 ounce) envelopes unflavored gelatin powder",
+    "3 cups hot brewed coffee",
+    "1.3333333730698 cups water",
+    "1 tablespoon lemon juice",
+    "1 cup sweetened whipped cream for garnish"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, stir together the sugar and gelatin. Mix in hot coffee and water. Cook over low heat, stirring frequently until the gelatin and sugar have completely dissolved. Remove from heat, and stir in lemon juice. Pour into a 4 1/2 cup mold. Refrigerate until set, at least 6 hours or overnight. Serve with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "215 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "33 mg",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "30 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tSFHpERVlV9mQesqfIY1Jk5UKsI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/881719-coffee-gelatin-dessert-lutzflcat-4x3-1-5202b1d1be14458b839e9527badd29a2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/46300/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

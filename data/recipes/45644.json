@@ -1,0 +1,108 @@
+{
+  "id": "45644",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/45644/roasted-veggie-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/45644/roasted-veggie-pasta/",
+  "title": "Roasted Veggie Pasta",
+  "description": "Wonderful rustic Italian style pasta dish! Meal can be dressed up or down with accompaniments to this tasty pasta.",
+  "authors": [
+    "Bob McDonald"
+  ],
+  "date_published": "2018-03-21T12:27:42-04:00",
+  "date_modified": "2018-03-21T12:27:42-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 pound fresh asparagus",
+    "2 red bell pepper, sliced",
+    "0.25 pound crimini mushrooms, sliced",
+    "10 cloves roasted garlic, chopped",
+    "0.5 tomato, quartered",
+    "0.5 teaspoon chopped fresh rosemary",
+    "0.5 teaspoon chopped fresh oregano",
+    "2 tablespoons olive oil",
+    "8 ounces dry fettuccini noodles",
+    "0.25 cup grated Parmesan cheese",
+    "2 tablespoons tapenade"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Prepare asparagus by trimming woody base and cutting diagonally into 4 inch pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a roasting pan, combine asparagus, bell pepper, mushrooms, roasted garlic and tomato. Sprinkle with rosemary and oregano, then drizzle with olive oil. Bake in preheated oven for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Toss with Parmesan cheese, tapenade and roasted vegetables.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/en6E0OIw2FQudzR-wwwHLqZGj-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/354925-2c5221713a834abc9c80603540ecdf00.jpg"
+      ],
+      "image": "assets/images/45644/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "457 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "213 mg",
+    "sugarContent": "7 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "113"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/R36rmopH-ma1DlVvV.mp4",
+    "description": "How to make a rustic vegetarian pasta with plenty of roasted vegetables. This is a delicious and healthy way to introduce meatless meals into the weekly dinner lineup.",
+    "duration": "PT5M23S",
+    "name": "Roasted Veggie Pasta",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/R36rmopH/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T10:29:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/en6E0OIw2FQudzR-wwwHLqZGj-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/354925-2c5221713a834abc9c80603540ecdf00.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/45644/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/45644/step_03.webp"
+    ]
+  }
+}

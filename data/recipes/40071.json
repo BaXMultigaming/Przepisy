@@ -1,0 +1,81 @@
+{
+  "id": "40071",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/40071/barbarellas-german-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/40071/barbarellas-german-pancakes/",
+  "title": "Barbarella’s German Pancakes",
+  "description": "These blintz-like German pancakes are delicious and easy to make with just 4 simple ingredients. Serve for breakfast with fresh berries and cream.",
+  "authors": [
+    "Deborah"
+  ],
+  "date_published": "2020-06-18T23:08:01-04:00",
+  "date_modified": "2026-07-29T19:02:22-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "2 tablespoons white sugar",
+    "3 tablespoons all-purpose flour",
+    "0.75 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Place the eggs, sugar, flour, and milk into a blender. Process on low speed until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large skillet or griddle over medium heat. Pour about 1/4 cup batter at a time (or more for larger pancakes) into the hot skillet. Tilt the skillet to achieve a round shape. Cook until golden, then flip and brown on the other side. Serve hot with syrup or fresh berries and whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "104 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "97 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "54 mg",
+    "sugarContent": "9 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "194"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Cjwc_eVQAnhDwFa_5CV9s6bJYkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40071-barbarellas-german-pancakes-VAT-Beauty-4x3-bcb174bdfaf9466a8d7b8d447f417bb2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/40071/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

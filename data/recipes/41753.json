@@ -1,0 +1,76 @@
+{
+  "id": "41753",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/41753/apple-coleslaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/41753/apple-coleslaw/",
+  "title": "Apple Coleslaw",
+  "description": "Your basic coleslaw gets a sweet surprise with the addition of Granny Smith apples. Great as a side dish with pork sandwiches.",
+  "authors": [
+    "Tamara Harris"
+  ],
+  "date_published": "2020-03-04T23:57:33-05:00",
+  "date_modified": "2022-07-14T18:16:41-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT495M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups shredded cabbage",
+    "1 cup shredded carrot",
+    "1 Granny Smith apple - peeled, cored and coarsely shredded",
+    "2 tablespoons honey",
+    "1 tablespoon brown sugar",
+    "2 teaspoons white vinegar",
+    "1 tablespoon pineapple juice",
+    "2 tablespoons mayonnaise",
+    "1 dash salt",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place the shredded cabbage and carrot together in a bowl with the sliced apple, and toss to combine. In a separate bowl, stir together the honey, brown sugar, vinegar, pineapple juice, and mayonnaise until the honey and sugar have dissolved completely. Pour over the salad, and toss to coat. Season with salt and pepper, and toss again. Cover and chill until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "99 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "118 mg",
+    "sugarContent": "14 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "98"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/v0r7Nc1CfKZD7hntFZJu54vHnu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3545294-0d68aab847544b478c2e4a2cd5212e7e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/41753/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "42067",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42067/potato-salmon-patties/",
+  "requested_url": "https://www.allrecipes.com/recipe/42067/potato-salmon-patties/",
+  "title": "Potato Salmon Patties",
+  "description": "Flaked salmon is blended with herbs, bread crumbs, and potato flakes to form tasty and versatile little pan-fried patties.",
+  "authors": [
+    "JoyLee"
+  ],
+  "date_published": "2019-04-02T02:44:32-04:00",
+  "date_modified": "2026-04-19T10:14:54-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT45M",
+  "yield": [
+    "5",
+    "10 patties"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14.75 ounce) can salmon, drained and flaked",
+    "1 medium onion, minced",
+    "2 eggs, beaten",
+    "0.25 cup garlic and herb seasoned dry bread crumbs",
+    "0.25 cup dry potato flakes",
+    "1 clove garlic, minced",
+    "0.25 teaspoon celery salt",
+    "0.25 teaspoon dried dill weed",
+    "salt and pepper to taste",
+    "2 tablespoons olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine salmon, onion, eggs, bread crumbs, potato flakes, garlic, celery salt, dill, salt, and black pepper in a bowl; form into 2-inch balls then flatten into patties about 1/2-inch thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a medium skillet over medium heat. Cook patties, in batches, until lightly browned, about 5 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "252 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "111 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "509 mg",
+    "sugarContent": "1 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "802"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XxYCaXqbVLPHeNafT9E5oOH8DRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/310162-78bee16c128b4b8cba7e34a67813c719.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42067/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "40533",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/40533/red-cabbage/",
+  "requested_url": "https://www.allrecipes.com/recipe/40533/red-cabbage/",
+  "title": "Red Cabbage",
+  "description": "Cabbage and apples are cooked together in this delicious sweet and sour side dish.",
+  "authors": [
+    "Arita Heerschap Droog"
+  ],
+  "date_published": "2020-03-04T23:57:26-05:00",
+  "date_modified": "2022-09-23T14:55:49-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT45M",
+  "total_time": "PT70M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Drink",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup water",
+    "1 small head red cabbage, finely shredded",
+    "3 apples - peeled, cored and chopped",
+    "1 cup distilled white vinegar",
+    "0.25 cup packed brown sugar",
+    "2 tablespoons butter, divided",
+    "0.5 teaspoon ground cinnamon",
+    "0.25 teaspoon ground allspice",
+    "0.25 teaspoon ground cloves"
+  ],
+  "steps": [
+    {
+      "text": "Place water in a large saucepan over high heat. Stir in cabbage, apples, vinegar, brown sugar, 1 tablespoon butter, cinnamon, allspice, and cloves. Bring to a boil. Reduce heat, cover, and simmer, stirring occasionally, until cabbage is tender, about 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in remaining 1 tablespoon butter before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "136 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "56 mg",
+    "sugarContent": "20 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "200"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/holUDIjZmZ4j80vyQTYv4F-K6j4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5687206-44682be85cc346279b0bb67263ba32f3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/40533/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

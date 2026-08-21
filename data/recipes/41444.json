@@ -1,0 +1,92 @@
+{
+  "id": "41444",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/41444/garlic-pork-roast/",
+  "requested_url": "https://www.allrecipes.com/recipe/41444/garlic-pork-roast/",
+  "title": "Garlic Pork Roast",
+  "description": "A garlic pork roast is slow cooked with sweet potatoes, onion and garlic for a tasty and easy meal for the whole family to enjoy.",
+  "authors": [
+    "Brandy"
+  ],
+  "date_published": "2019-04-02T02:44:30-04:00",
+  "date_modified": "2024-11-23T20:57:17-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT360M",
+  "total_time": "PT380M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 (2 pound) boneless pork roast",
+    "salt and pepper to taste",
+    "4 sweet potatoes, quartered",
+    "1 onion, quartered",
+    "6 cloves garlic",
+    "1 (14.5 ounce) can chicken broth"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large, heavy skillet. Season meat with salt and pepper, and brown in oil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a slow cooker, layer sweet potatoes, onion, and garlic. Place browned roast on top of vegetables, and pour in chicken broth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover, and cook on Low for 6 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "532 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "148 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "51 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "579 mg",
+    "sugarContent": "9 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "277"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_k4bwd-AWKzdYF4ZObzM77Rbn2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3826427-garlic-pork-roast-Kali-Stanland-4x3-1-90a96f1ba7c447999f68298020a91885.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/41444/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

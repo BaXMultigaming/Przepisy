@@ -1,0 +1,74 @@
+{
+  "id": "42709",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42709/mustard-pickled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/42709/mustard-pickled-eggs/",
+  "title": "Mustard Pickled Eggs",
+  "description": "These pickled eggs are marinated in a cider vinegar that is spiced with mustard and turmeric powder. The longer they set, the better they get.",
+  "authors": [
+    "J. Murphy"
+  ],
+  "date_published": "2020-06-18T23:08:28-04:00",
+  "date_modified": "2022-11-14T00:47:32-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT4345M",
+  "yield": [
+    "6",
+    "6 pickled eggs"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 hard-cooked eggs",
+    "0.5 teaspoon mustard powder",
+    "1.5 teaspoons cornstarch",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon ground turmeric",
+    "1 teaspoon salt",
+    "2 cups apple cider vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Place the hard-cooked eggs into a 1 quart jar. In a saucepan, stir together the mustard, cornstarch, sugar, turmeric, and salt. Pour in just enough of the cider vinegar to make a paste, then gradually stir in the rest. Bring the mixture to a boil, stirring frequently. Pour into the jars with the eggs. Put the lid on the jar, and refrigerate for a few days before eating for best flavor.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "96 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "186 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "462 mg",
+    "sugarContent": "1 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rQu0w2LCr5BD5jn50qk8vhlmJUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15589-mustard-pickled-eggs-Ollie-Martin-4x3-1-cc6858aa09424c218de319cdb72f0c28.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42709/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "46214",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/46214/heart-chop-suey/",
+  "requested_url": "https://www.allrecipes.com/recipe/46214/heart-chop-suey/",
+  "title": "Heart Chop Suey",
+  "description": "This is a wonderful recipe for beef heart. The meat is cut into strips, browned, and then simmered in a sauce of onion, celery and beef broth. This is terrific served over steamed rice.",
+  "authors": [
+    "KECIA123"
+  ],
+  "date_published": "2019-04-03T23:30:30-04:00",
+  "date_modified": "2025-04-01T15:13:01-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT70M",
+  "total_time": "PT90M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds beef heart - rinsed and cut into thin strips",
+    "0.25 cup all-purpose flour",
+    "0.25 cup butter",
+    "4 onions, peeled and thinly sliced",
+    "1 stalk celery, diced",
+    "2 cups beef broth",
+    "0.5 cup water",
+    "salt and pepper to taste",
+    "1 tablespoon Worcestershire sauce, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Roll the strips of beef heart in flour to coat. Reserve flour. Melt the butter in a large heavy skillet or Dutch oven over medium-high heat. Brown the beef lightly in the butter. Add the onion, and saute for about 5 minutes, then add celery and just enough beef broth to cover the ingredients in the pan. Cover the pan, and simmer for one hour over low heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix the reserved flour with water to make a paste. Stir into the meat mixture. Season with salt, pepper and Worcestershire sauce. Cook until sauce is thickened, then serve hot over rice or noodles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "337 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "265 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "491 mg",
+    "sugarContent": "4 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/waFmCL-U7OnbGMvSol5aJE-ihWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1766069-0eb2a290ea7d42c59c8f360ce1225f25.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/46214/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

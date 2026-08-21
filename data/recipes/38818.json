@@ -1,0 +1,78 @@
+{
+  "id": "38818",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/38818/tomatillo-guacamole/",
+  "requested_url": "https://www.allrecipes.com/recipe/38818/tomatillo-guacamole/",
+  "title": "Tomatillo Guacamole",
+  "description": "Tomatillos are a colorful addition to everyone&#39;s favorite Mexican-inspired dip.",
+  "authors": [
+    "TCOOPER"
+  ],
+  "date_published": "2020-02-01T02:50:25-05:00",
+  "date_modified": "2024-11-27T19:54:45-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 avocados - peeled, pitted, and mashed",
+    "3 tomatillos, husked and chopped",
+    "1 red onion, finely chopped",
+    "3 roma (plum) tomatoes, seeded and chopped",
+    "1 tablespoon lime juice",
+    "1 teaspoon red pepper flakes",
+    "3 drops hot pepper sauce",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix avocados, tomatillos, red onion, roma tomatoes, and lime juice. Season with red pepper flakes, hot pepper sauce, and salt and pepper. Cover, and refrigerate at least 45 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "91 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "4 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "88"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1-VwIGzXFa24fOoFk2yU9c086_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8289354-0acbdf223b7e4faf9cd92b423983a23b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/38818/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "46462",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/46462/jalapeno-hummus/",
+  "requested_url": "https://www.allrecipes.com/recipe/46462/jalapeno-hummus/",
+  "title": "Jalapeño Hummus",
+  "description": "This jalapeño hummus is made by blending chickpeas, jalapeño peppers, garlic, cumin, and tahini to make a delicious dip that&#39;ll liven up any party!",
+  "authors": [
+    "Andrew"
+  ],
+  "date_published": "2019-07-10T02:53:30-04:00",
+  "date_modified": "2026-04-09T13:23:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup garbanzo beans",
+    "0.33333334326744 cup canned jalapeno pepper slices, juice reserved",
+    "3 tablespoons tahini",
+    "3 cloves garlic, minced",
+    "2 tablespoons lemon juice",
+    "0.5 teaspoon ground cumin",
+    "0.5 teaspoon curry powder",
+    "crushed red pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place chickpeas, jalapeño peppers and reserved juice, tahini, garlic, and lemon juice in a blender or food processor; season with cumin, curry powder, and crushed red pepper. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "75 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "191 mg",
+    "sugarContent": "0 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "265"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aA3_Vpxa-BPmqQNb9CN8rUV6i7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5215596-3de23a3274bf4b068f1dcfaf2587c6b7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/46462/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

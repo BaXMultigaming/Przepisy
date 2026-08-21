@@ -1,0 +1,76 @@
+{
+  "id": "42894",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/42894/simple-arrabbiata-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/42894/simple-arrabbiata-sauce/",
+  "title": "Simple Arrabbiata Sauce",
+  "description": "This easy arrabbiata sauce is simple and spicy with incredible flavor. Tomatoes are simmered with red pepper flakes, garlic, and fresh basil.",
+  "authors": [
+    "Rick Ogg"
+  ],
+  "date_published": "2019-11-07T01:50:03-05:00",
+  "date_modified": "2022-11-28T11:13:09-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT40M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (28 ounce) cans diced tomatoes",
+    "2 tablespoons olive oil",
+    "1 teaspoon crushed red pepper flakes",
+    "4 cloves garlic, minced",
+    "0.33333334326744 cup chopped fresh basil",
+    "0.5 teaspoon salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomatoes, olive oil, and red pepper flakes in a large saucepan. Simmer until sauce is thickened, 30 to 40 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in garlic and simmer for 10 minutes. Remove from heat and stir in basil, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "148 kcal",
+    "carbohydrateContent": "15 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "907 mg",
+    "sugarContent": "10 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bb-yj6WktcUvR9wFea1CsTHqge0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7248697-382d9496a3184626a206bb9f01d69860.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/42894/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

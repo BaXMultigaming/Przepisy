@@ -1,0 +1,76 @@
+{
+  "id": "40604",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/40604/orange-pork/",
+  "requested_url": "https://www.allrecipes.com/recipe/40604/orange-pork/",
+  "title": "Orange Pork",
+  "description": "Boneless pork chops are browned, then covered with a thickened orange sauce.",
+  "authors": [
+    "FIREBALL2000"
+  ],
+  "date_published": "2020-06-18T23:08:04-04:00",
+  "date_modified": "2026-04-13T15:55:40-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "World"
+  ],
+  "regions": [
+    "World"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 pound boneless pork chops",
+    "0.66666668653488 cup orange juice",
+    "0.25 cup soy sauce",
+    "1.5 tablespoons white sugar",
+    "2 teaspoons water",
+    "1 teaspoon cornstarch"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large heavy skillet over medium heat. Cook pork chops until evenly brown on both sides; remove from skillet. Pour in orange juice, soy sauce and sugar. Boil for 2 minutes, scraping the bottom of pan. In a small bowl, mix together water and cornstarch, and stir into sauce. Return pork to skillet and cook briefly until thickened and heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "78 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "902 mg",
+    "sugarContent": "8 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "232"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BY1-WugyoyxffHAD8wBAiohmv3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1061353-2a5eaea9d17d48ba836931d515f26c81.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/40604/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

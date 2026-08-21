@@ -1,0 +1,86 @@
+{
+  "id": "43425",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/43425/hawaiian-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/43425/hawaiian-stew/",
+  "title": "Hawaiian Stew",
+  "description": "Ground beef, green beans, onions, tomatoes, bell peppers, and cabbage are all layered into a large stock then covered with soy sauce and simmered for an hour. Served hot over steamed white rice.",
+  "authors": [
+    "STEPHANIE T"
+  ],
+  "date_published": "2018-03-21T12:27:11-04:00",
+  "date_modified": "2025-03-01T11:40:13-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT60M",
+  "total_time": "PT80M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "2 pounds fresh green beans, cut into 1 inch pieces",
+    "2 large Spanish onions, sliced",
+    "2 green bell peppers, chopped",
+    "2 large tomatoes, sliced",
+    "2 medium heads cabbage, quartered",
+    "soy sauce",
+    "1 cup white rice"
+  ],
+  "steps": [
+    {
+      "text": "In a large stock pot, layer ground beef, green beans, onions, bell peppers, and tomatoes. Finish with a layer of cabbage, then evenly drizzle soy sauce over top. Cover and cook over medium for 1 hour, or until cabbage is tender and meat is well done. Reduce heat as needed to prevent burning.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, rinse rice in a fine mesh strainer under cold running water until no longer cloudy. Transfer to a medium saucepan and cover with 2 cups water. Bring to a boil, cover, and reduce heat to low. Simmer for 15 minutes, remove from heat and let stand for 10 minutes, or until all liquid has evaporated. Serve over rice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "415 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1447 mg",
+    "sugarContent": "11 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/myUSmemUXAeOfjk25azvXSxpCSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5308036-ed439dcc580b4af6a56e5fd23e2b0cc6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/43425/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
