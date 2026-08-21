@@ -1,0 +1,112 @@
+{
+  "id": "140729",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/140729/mediterranean-puff-pastry-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/140729/mediterranean-puff-pastry-chicken/",
+  "title": "Mediterranean Puff Pastry Chicken",
+  "description": "This Mediterranean puff pastry chicken recipe uses a garlic marinade and wraps with sun-dried tomatoes, pesto, spinach, and feta cheese in puff pastry.",
+  "authors": [
+    "Rose"
+  ],
+  "date_published": "2019-04-02T02:49:00-04:00",
+  "date_modified": "2025-04-08T18:03:30-04:00",
+  "prep_time": "PT255M",
+  "cook_time": "PT35M",
+  "total_time": "PT290M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons crushed garlic",
+    "1 egg yolk",
+    "2 boneless skinless chicken breast halves",
+    "2 cups chopped fresh spinach",
+    "2 tablespoons basil pesto",
+    "0.33333334326744 cup chopped sun-dried tomatoes",
+    "0.25 cup crumbled herbed feta cheese",
+    "1 frozen puff pastry sheet, thawed, cut in half"
+  ],
+  "steps": [
+    {
+      "text": "Combine garlic and egg yolk in a small bowl using a fork. Place chicken breasts in a shallow glass dish; spread both sides with egg mixture. Cover dish with plastic wrap; refrigerate 4 hours to overnight (recommended).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease a baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place ½ puff pastry sheet on a lightly floured surface; place ½ cup spinach in center of pastry sheet. Remove 1 chicken breast from marinade, shake off any excess, and place on top of spinach. Spread 1 tablespoon pesto over chicken, layer with ½ sun-dried tomatoes, sprinkle with ½ feta cheese, and top with ½ cup spinach. Fold pastry sheet around chicken, using fingers or fork to seal pastry seam. Place wrapped chicken, seam-side down, on the prepared baking sheet. Repeat with remaining ½ puff pastry sheet, spinach, chicken breast, pesto, sun-dried tomatoes, and feta cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until juices run clear, 35 to 40 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Toiks2nn8FTyMFZlaxPskeDL450=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2685644-82087086a7ac4c5f89dbd85bc630236e.jpg"
+      ],
+      "image": "assets/images/140729/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "515 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "524 mg",
+    "sugarContent": "3 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "251"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/5kK5SnxM-K3AjnAEN.mp4",
+    "description": "Chicken marinated in garlic, layered with sun-dried tomatoes, pesto, spinach, and feta cheese all wrapped in flaky puff pastry - delicious! ",
+    "duration": "PT1M20S",
+    "name": "Mediterranean Puff Pastry Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5kK5SnxM/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T23:58:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Toiks2nn8FTyMFZlaxPskeDL450=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2685644-82087086a7ac4c5f89dbd85bc630236e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/140729/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/140729/step_04.webp"
+    ]
+  }
+}

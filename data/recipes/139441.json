@@ -1,0 +1,72 @@
+{
+  "id": "139441",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/139441/pink-fruit-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/139441/pink-fruit-dip/",
+  "title": "Pink Fruit Dip",
+  "description": "This quick and easy dip for fruit was given to me by my aunt many years ago. It is a hit whenever I serve it.",
+  "authors": [
+    "Devina"
+  ],
+  "date_published": "2020-06-18T23:29:45-04:00",
+  "date_modified": "2020-06-18T23:29:45-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT125M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [
+    "Snack",
+    "Appetizer",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (6 ounce) containers vanilla yogurt",
+    "1 cup mayonnaise",
+    "1 cup sour cream",
+    "0.25 cup white sugar",
+    "0.25 cup grenadine"
+  ],
+  "steps": [
+    {
+      "text": "In a bowl, stir together yogurt, mayonnaise, sour cream, sugar, and grenadine; mix well. Cover and refrigerate 2 hours to overnight to allow flavors to meld.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "87 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "6 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "51 mg",
+    "sugarContent": "4 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-6QiompR2RK00nOD7ngr_tDdcd8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/211613-ebb75caaaff5402fbdf3ce4053e5bfd8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/139441/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "143005",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/143005/grape-walnut-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/143005/grape-walnut-salad/",
+  "title": "Grape-Walnut Salad",
+  "description": "Seedless green grapes, chopped walnuts and blue cheese dressing are all you need for this quick fruit salad.",
+  "authors": [
+    "Adrienne"
+  ],
+  "date_published": "2011-12-15T15:32:58-05:00",
+  "date_modified": "2022-01-28T14:13:47-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound seedless green grapes, rinsed and patted dry",
+    "6 ounces roughly chopped walnuts",
+    "0.5 cup blue cheese dressing"
+  ],
+  "steps": [
+    {
+      "text": "Place grapes in a large bowl. Stir in the walnuts. Pour the blue cheese dressing over the grape mixture and stir until everything is evenly coated. Chill until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "150 mg",
+    "sugarContent": "11 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mrdLrVAe3Exj8lQFHCUsssXCdZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/860998-38e8344cb3a54659b22d83b4a6e0f0f3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/143005/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

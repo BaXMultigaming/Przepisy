@@ -1,0 +1,71 @@
+{
+  "id": "139626",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/139626/banana-banana-strawberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/139626/banana-banana-strawberry-smoothie/",
+  "title": "Banana Banana Strawberry Smoothie",
+  "description": "Banana extract provides this smoothie with a double dose of fruit flavor!",
+  "authors": [
+    "Jennifer V"
+  ],
+  "date_published": "2020-06-18T23:29:46-04:00",
+  "date_modified": "2020-06-18T23:29:46-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana, broken into chunks",
+    "1 teaspoon banana extract",
+    "0.75 cup milk",
+    "1 (8 ounce) container strawberry yogurt",
+    "2 teaspoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place banana, banana extract, milk, yogurt, and sugar into a blender. Blend until smooth and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "468 kcal",
+    "carbohydrateContent": "89 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "224 mg",
+    "sugarContent": "70 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/J80Wk-i30f48vLgDDyiN2ecNP4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57018-dd06e6a5880143c4909fb0ff917e81fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/139626/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

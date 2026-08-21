@@ -1,0 +1,80 @@
+{
+  "id": "143122",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/143122/tangy-banana-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/143122/tangy-banana-salad/",
+  "title": "Tangy Banana Salad",
+  "description": "In this simple and quick salad. the sweetness of bananas is complemented by the tang of yogurt and a hint of mustard.",
+  "authors": [
+    "RADHIKA GHATAGE"
+  ],
+  "date_published": "2018-06-08T09:47:38-04:00",
+  "date_modified": "2022-01-31T20:31:35-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup plain yogurt",
+    "1 teaspoon mustard powder",
+    "1 pinch salt",
+    "3 bananas, sliced",
+    "1 teaspoon minced fresh cilantro",
+    "1 pinch chili powder"
+  ],
+  "steps": [
+    {
+      "text": "Mix together the yogurt, mustard powder, and salt in a serving bowl. Add the banana slices and stir gently until bananas are evenly coated with yogurt mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Garnish with chopped cilantro and chili powder. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "93 mg",
+    "sugarContent": "30 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IOq8QH_I-ibiYoI7C59HjXHxp74=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/834410-bca6c107a0df44a58db5aa1486ab8681.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/143122/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

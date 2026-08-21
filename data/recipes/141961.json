@@ -1,0 +1,93 @@
+{
+  "id": "141961",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/141961/hot-pink-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/141961/hot-pink-lemonade/",
+  "title": "Hot Pink Lemonade",
+  "description": "This hot pink lemonade is a refreshing, fun recipe for blueberry lemonade. Tart and sweet from the blueberries, its color is hot pink, almost purple.",
+  "authors": [
+    "Candice S"
+  ],
+  "date_published": "2020-06-23T20:25:54-04:00",
+  "date_modified": "2025-07-16T13:12:03-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "3 quarts"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups white sugar",
+    "1 cup water",
+    "2.25 cups fresh lemon juice",
+    "7 cups cool water",
+    "2 cups ice",
+    "0.75 cup blueberries"
+  ],
+  "steps": [
+    {
+      "text": "Boil sugar and 1 cup water in a saucepan over medium-high heat, stirring until liquid becomes clear. Off heat, stir in lemon juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add 7 cups cool water and ice to a serving pitcher. Add lemon syrup and blueberries; stir until reaches \"hot pink\" color.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ajm_Y-BgFj3QR-7rayQdCuQWIMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/445924-ce4cbb28927b4f15a8682f0548b94896.jpg"
+      ],
+      "image": "assets/images/141961/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "291 kcal",
+    "carbohydrateContent": "77 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "13 mg",
+    "sugarContent": "71 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "71"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/3MxOZtfT-K3AjnAEN.mp4",
+    "description": "This blueberry lemonade is sweet and refreshing! Blueberries make this lemonade pink!",
+    "duration": "PT1M16S",
+    "name": "How to Make Hot Pink Lemonade ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/3MxOZtfT/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:53:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ajm_Y-BgFj3QR-7rayQdCuQWIMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/445924-ce4cbb28927b4f15a8682f0548b94896.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/141961/hero.webp",
+    "steps": [
+      null,
+      "assets/images/141961/step_02.webp"
+    ]
+  }
+}

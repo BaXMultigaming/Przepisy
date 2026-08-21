@@ -1,0 +1,92 @@
+{
+  "id": "142857",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/142857/the-red-dwarf-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/142857/the-red-dwarf-sandwich/",
+  "title": "The Red Dwarf Sandwich",
+  "description": "Eggs, chutney, and chili sauce are stacked between slices of toast for a fictional red dwarf sandwich recipe created for a British sci-fi television show.",
+  "authors": [
+    "Ellie"
+  ],
+  "date_published": "2015-11-19T02:10:55-05:00",
+  "date_modified": "2025-03-24T21:38:35-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Brunch",
+    "Lunch",
+    "Breakfast"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "regions": [
+    "British"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "3 eggs",
+    "3 tablespoons mango chutney",
+    "4 slices toasted white bread",
+    "1 teaspoon chili sauce"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a skillet over medium heat. Cook eggs until whites are completely set, but yolks are still soft, flipping once.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide and spread mango chutney among 4 toast slices. Place 1 fried egg on chutney side of 1 toast slice; break yolk and season with chili sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Repeat twice more with 2 toast slices, remaining 2 eggs, and chili sauce. Stack egg topped toast slices, egg-sides up, placing remaining toast slice on top, chutney-side down. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "662 kcal",
+    "carbohydrateContent": "72 g",
+    "cholesterolContent": "589 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "983 mg",
+    "sugarContent": "23 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yPnZQmD0Mc4MGhqtluQTPjzQXDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/498838-fd72f89459f04cc58cb00eccaddada69.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/142857/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

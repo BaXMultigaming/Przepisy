@@ -1,0 +1,74 @@
+{
+  "id": "141371",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/141371/watermelon-cooler-slushy/",
+  "requested_url": "https://www.allrecipes.com/recipe/141371/watermelon-cooler-slushy/",
+  "title": "Watermelon Slushie",
+  "description": "This watermelon slushie is simple to make by blending watermelon, ice, and a bit of lime juice for a refreshing drink perfect for hot summer days!",
+  "authors": [
+    "Olivia"
+  ],
+  "date_published": "2020-06-19T21:50:28-04:00",
+  "date_modified": "2025-12-19T11:51:12-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "5",
+    "5 cups"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups cubed seedless watermelon",
+    "10 ice cubes",
+    "0.33333334326744 cup fresh lime juice",
+    "0.25 cup white sugar",
+    "0.125 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Place watermelon and ice into a blender. Pour in lime juice, sugar, and salt. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "79 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "61 mg",
+    "sugarContent": "18 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "152"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nSNR9z9ZI8sJ89yzkIMoGAwL7Jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/watermelon-cooler-slushy-4x3-1-2000-4938c16097054f4282181864a149a707.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/141371/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

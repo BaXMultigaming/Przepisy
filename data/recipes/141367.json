@@ -1,0 +1,84 @@
+{
+  "id": "141367",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/141367/strawberry-lassi/",
+  "requested_url": "https://www.allrecipes.com/recipe/141367/strawberry-lassi/",
+  "title": "Strawberry Lassi",
+  "description": "This creamy strawberry lassi is a blend of yogurt, milk, and ripe strawberries served over ice for a sweet, frothy, and refreshing chilled drink.",
+  "authors": [
+    "RADHIKA GHATAGE"
+  ],
+  "date_published": "2020-06-18T23:29:58-04:00",
+  "date_modified": "2026-08-10T13:08:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "9 ripe strawberries, rinsed",
+    "2 tablespoons white sugar",
+    "0.25 cup whole milk",
+    "1 cup low-fat yogurt",
+    "3 ice cubes",
+    "ground cardamon"
+  ],
+  "steps": [
+    {
+      "text": "Cut 3 strawberries into small pieces and set aside. Place remaining strawberries and sugar into a blender; blend on high speed for 30 seconds. Pour in milk and blend another 30 seconds. Add yogurt and blend on high speed for 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place 1 ice cube in each of 3 glasses and pour in lassi. Top with reserved strawberry pieces and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "111 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "67 mg",
+    "sugarContent": "18 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "55"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qGk_6Mx18Wq7i5T_mC03GScf8CY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/377687-3e2d8b10d7d04162ba00b05622d2bef4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/141367/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

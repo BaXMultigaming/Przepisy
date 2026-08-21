@@ -1,0 +1,84 @@
+{
+  "id": "141768",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/141768/tempeh-mock-tuna-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/141768/tempeh-mock-tuna-salad/",
+  "title": "Tempeh Mock Tuna Salad",
+  "description": "This flavorful mock tuna salad is made with tempeh soy protein and soy mayonnaise, a real vegetarian treat. Serve it as a salad filling or on fresh greens.",
+  "authors": [
+    "bibliobubba"
+  ],
+  "date_published": "2020-03-09T22:51:16-04:00",
+  "date_modified": "2020-03-09T22:51:16-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT25M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "4 cups"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups vegetable broth",
+    "1 (8 ounce) package tempeh",
+    "2 tablespoons soy sauce",
+    "2 tablespoons lemon juice",
+    "1 clove garlic, minced",
+    "1 tablespoon seaweed flakes or granules",
+    "0.5 cup minced red onion",
+    "1 cup chopped celery",
+    "1 cup chopped dill pickles",
+    "0.25 cup soy mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Heat the broth to a light boil over medium-high heat. Add the tempeh to the broth, and simmer for 25 minutes. Drain and let cool to room temperature for 15 minutes. Once cooled, grate tempeh into a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, whisk together the soy sauce, lemon juice, garlic, and seaweed flakes. Pour the seaweed mixture in with the grated tempeh and stir until well mixed. Mix in the red onion, celery, and dill pickles. Toss with the mayonnaise. This salad can be served immediately, but is best when chilled for several hours to allow the flavors to blend.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "128 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "677 mg",
+    "sugarContent": "2 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bBRWstJK3ZUSvXfMcS10yaFVRjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/889788-93c88be4eac445c6a4437822977d262c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/141768/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

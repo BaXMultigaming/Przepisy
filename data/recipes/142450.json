@@ -1,0 +1,76 @@
+{
+  "id": "142450",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/142450/creamy-vanilla-frozen-yogurt/",
+  "requested_url": "https://www.allrecipes.com/recipe/142450/creamy-vanilla-frozen-yogurt/",
+  "title": "Creamy Vanilla Frozen Yogurt",
+  "description": "This creamy and delicious frozen yogurt has a subtle hint of vanilla. Try this for an easy summer dessert with mixed berries.",
+  "authors": [
+    "Paige"
+  ],
+  "date_published": "2020-06-18T23:30:41-04:00",
+  "date_modified": "2020-06-18T23:30:41-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "4",
+    "1 quart"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups Greek yogurt",
+    "0.75 cup white sugar",
+    "0.5 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Mix together the yogurt, sugar, and vanilla. Refrigerate the yogurt mixture for 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour the yogurt mixture into the bowl of an ice cream maker and freeze according to the manufacturer's directions",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "34 mg",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "98 mg",
+    "sugarContent": "44 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IptPpFeACEOwbTaAEEAiIUhgTpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/923213-41802b1092014fe0932a645b7b5e4ff1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/142450/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

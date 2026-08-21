@@ -1,0 +1,91 @@
+{
+  "id": "143071",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/143071/spinach-caprese-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/143071/spinach-caprese-salad/",
+  "title": "Spinach Caprese Salad",
+  "description": "This spinach caprese salad recipe starts with tomatoes, fresh mozzarella, and baby spinach, drizzled with olive oil, balsamic vinegar, and fresh basil.",
+  "authors": [
+    "mcbeal"
+  ],
+  "date_published": "2015-05-26T18:44:37-04:00",
+  "date_modified": "2026-07-09T12:54:07-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Lunch",
+    "Side Dish",
+    "Dinner",
+    "Salad"
+  ],
+  "cuisines": [
+    "American",
+    "Italian"
+  ],
+  "regions": [
+    "American",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup baby spinach leaves",
+    "1 large tomato, sliced 3/4 inch thick",
+    "1 ball of fresh mozzarella cheese, sliced",
+    "2 tablespoons chopped fresh basil",
+    "2 tablespoons balsamic vinegar",
+    "1 tablespoon extra-virgin olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Arrange spinach on a serving plate; top with tomato slices. Top each tomato slice with 1 slice mozzarella cheese; sprinkle with basil. Drizzle salad with balsamic vinegar and olive oil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_SD_37XI71AeiEJewgMeobY6bR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/849469-bbc893ae4b014eeb966d62cd5ffe8a1e.jpg"
+      ],
+      "image": "assets/images/143071/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "415 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "89 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "183 mg",
+    "sugarContent": "7 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "98"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/tKHkZklH-ma1DlVvV.mp4",
+    "description": "AR1170",
+    "duration": "PT1M44S",
+    "name": "Spinach Caprese Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/tKHkZklH/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T02:54:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_SD_37XI71AeiEJewgMeobY6bR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/849469-bbc893ae4b014eeb966d62cd5ffe8a1e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/143071/hero.webp",
+    "steps": [
+      "assets/images/143071/step_01.webp"
+    ]
+  }
+}

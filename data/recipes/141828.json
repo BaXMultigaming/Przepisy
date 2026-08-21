@@ -1,0 +1,108 @@
+{
+  "id": "141828",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/141828/lolas-horchata/",
+  "requested_url": "https://www.allrecipes.com/recipe/141828/lolas-horchata/",
+  "title": "Horchata",
+  "description": "This horchata recipe is easy to make with long-grain rice, vanilla, sugar, and cinnamon for a refreshing Mexican drink that&#39;s great with spicy foods.",
+  "authors": [
+    "LOLA"
+  ],
+  "date_published": "2007-05-11T20:52:03-04:00",
+  "date_modified": "2026-01-22T11:39:12-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT190M",
+  "yield": [
+    "6",
+    "6 cups"
+  ],
+  "categories": [
+    "Beverage"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "5 cups water",
+    "1 cup uncooked white long-grain rice",
+    "0.66666668653488 cup white sugar",
+    "0.5 cup milk",
+    "0.5 tablespoon vanilla extract",
+    "0.5 tablespoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Pour water and rice into a blender; mix until rice begins to break up, about 1 minute. Let rice and water stand at room temperature for at least 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Strain rice water into a pitcher and discard rice. Stir in sugar, milk, vanilla, and cinnamon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/giiXyKSuzLkfzX5RQ_QW1JLMRtY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/141828-lolas-horchata-step4-176copy-db2c8d4f61ff46d1876137b0c4b4a156.jpg"
+      ],
+      "image": "assets/images/141828/step_02.webp"
+    },
+    {
+      "text": "Chill thoroughly before serving over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/e9QqDRoeha0gJbb0bfPt_AYSQDU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3365053-lolas-horchata-KGora-4x3-f927b7fff4a8443480e08ccd7965a755.jpg"
+      ],
+      "image": "assets/images/141828/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "213 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "23 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "556"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ut2CEYOF-K3AjnAEN.mp4",
+    "description": "Horchata is yummy",
+    "duration": "PT53S",
+    "name": "How to Make Horchata",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ut2CEYOF/poster.jpg?width=1280",
+    "uploadDate": "2021-11-03T11:40:40-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/e9QqDRoeha0gJbb0bfPt_AYSQDU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3365053-lolas-horchata-KGora-4x3-f927b7fff4a8443480e08ccd7965a755.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/141828/hero.webp",
+    "steps": [
+      null,
+      "assets/images/141828/step_02.webp",
+      "assets/images/141828/step_03.webp"
+    ]
+  }
+}

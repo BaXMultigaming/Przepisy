@@ -1,0 +1,85 @@
+{
+  "id": "139424",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/139424/horchata/",
+  "requested_url": "https://www.allrecipes.com/recipe/139424/horchata/",
+  "title": "The Best Horchata",
+  "description": "Horchata is a creamy Mexican drink made with rice, milk, and cinnamon. Serve over ice for a refreshing treat on a hot summer&#39;s day!",
+  "authors": [
+    "Lindsay W"
+  ],
+  "date_published": "2020-06-18T23:29:44-04:00",
+  "date_modified": "2026-05-22T14:26:53-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT195M",
+  "yield": [
+    "8",
+    "2 quarts"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts hot water",
+    "0.5 cup white sugar",
+    "1.5 teaspoons ground cinnamon",
+    "1 cup long grain rice",
+    "1 cup milk",
+    "ice cubes, for serving"
+  ],
+  "steps": [
+    {
+      "text": "Pour sugar, cinnamon, and rice into hot water; stir until sugar dissolves. Cover, and let stand at room temperature for at least 3 hours, but preferably overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in milk, then puree with a hand blender, or in batches in a standing blender until the rice resembles fine sand. Strain through several layers of cheesecloth, or through a very fine strainer. Serve over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "91 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "25 mg",
+    "sugarContent": "14 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wVaskLIbphPkbodAaPfhn6FNZUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5370465-horchata-Buckwheat-Queen-4x3-1-cfac77ac84d344cd96e1b9755cd3acb2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/139424/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

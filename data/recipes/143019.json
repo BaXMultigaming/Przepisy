@@ -1,0 +1,100 @@
+{
+  "id": "143019",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/143019/banana-walnut-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/143019/banana-walnut-ice-cream/",
+  "title": "Banana Walnut Ice Cream",
+  "description": "Break out your ice cream maker to whip up this banana walnut ice cream recipe featuring bananas and walnuts. It is unique and unlikely to be rivaled.",
+  "authors": [
+    "franklint99"
+  ],
+  "date_published": "2020-06-18T23:31:18-04:00",
+  "date_modified": "2025-01-22T17:39:59-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT690M",
+  "yield": [
+    "8",
+    "2 quarts"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups half-and-half",
+    "8 egg yolks, beaten",
+    "1 cup white sugar",
+    "2.5 cups heavy whipping cream",
+    "2 bananas",
+    "1 cup walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Heat 2 1/2 cups half-and-half in a large saucepan over medium heat until small bubbles begin to form around the edges. Remove from heat and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat egg yolks and sugar together in a large bowl until smooth. Slowly stir in warmed half-and-half, stirring constantly. Transfer egg yolk mixture to the same saucepan; heat over medium heat until bubbles begin to form around the edges. Transfer to the same bowl; stir in heavy cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine bananas and remaining 3/4 cup half-and-half in a blender; blend until smooth. Transfer banana purée to the cream mixture; mix well. Cover and refrigerate until cold, 3 to 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour mixture into an ice cream maker and freeze according to manufacturer's instructions. (Refrigerate any remaining mixture until ready to freeze.) Stir in walnuts. Transfer to 1 quart containers and freeze before serving, 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "658 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "343 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "27 g",
+    "sodiumContent": "77 mg",
+    "sugarContent": "29 g",
+    "fatContent": "53 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/346TmeowNTzFHQes7bfta0KYp0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/788007-113e56214b7749ffaacfff37bb4e6143.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/143019/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

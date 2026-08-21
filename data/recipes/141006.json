@@ -1,0 +1,72 @@
+{
+  "id": "141006",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/141006/mexican-jicama-snack/",
+  "requested_url": "https://www.allrecipes.com/recipe/141006/mexican-jicama-snack/",
+  "title": "Mexican Jicama Snack",
+  "description": "For this Mexican jicama snack recipe, peel and cut a jicama into sticks, season with lime juice and red pepper for a crunchy snack in under 10 minutes.",
+  "authors": [
+    "caztoindy"
+  ],
+  "date_published": "2014-07-26T02:00:14-04:00",
+  "date_modified": "2025-04-23T15:04:52-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large jicama",
+    "2 lime, juiced",
+    "1 tablespoon crushed red pepper, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Peel jicama; cut into French fry-sized sticks. Toss jicama with lime juice and cayenne pepper in a bowl to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "10 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "4 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/61ZeSRnHKt-6sgvnFB1Dc8wfhjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8981464-38d7879a36b8429ba5c632372e8a5f6e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/141006/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

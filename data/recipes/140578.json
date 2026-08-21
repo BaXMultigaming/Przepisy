@@ -1,0 +1,77 @@
+{
+  "id": "140578",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/140578/taco-bean-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/140578/taco-bean-burgers/",
+  "title": "Taco Bean Burgers",
+  "description": "Quick and Easy fix for dinner or lunch, takes a short amount of time and minimal ingredients. Kids love it! Great change from the sloppy joes rut!",
+  "authors": [
+    "Wrightone"
+  ],
+  "date_published": "2020-02-26T00:50:49-05:00",
+  "date_modified": "2025-04-10T23:08:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 sandwiches"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "2 (16 ounce) cans baked beans",
+    "1 (1 ounce) package taco seasoning",
+    "soft hamburger buns"
+  ],
+  "steps": [
+    {
+      "text": "Place the ground beef into a skillet over medium heat. Cook, stirring to crumble, until completely browned. Mix in taco seasoning. Reduce heat to low and stir in the baked beans, simmering until thoroughly hot. Serve on hamburger buns.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "750 kcal",
+    "carbohydrateContent": "57 g",
+    "cholesterolContent": "129 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "1208 mg",
+    "sugarContent": "13 g",
+    "fatContent": "43 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AI4FDClByfwpLnzZZ7qubMC9J0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3808613-36a71cb836f645239906ac960adced39.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/140578/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

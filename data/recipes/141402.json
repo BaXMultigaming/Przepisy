@@ -1,0 +1,76 @@
+{
+  "id": "141402",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/141402/sangria-barcelona-style/",
+  "requested_url": "https://www.allrecipes.com/recipe/141402/sangria-barcelona-style/",
+  "title": "Sangria Barcelona Style",
+  "description": "This is sangria as seen in Barcelona; it only takes 15 minutes to make!",
+  "authors": [
+    "KBorg"
+  ],
+  "date_published": "2020-06-18T23:29:59-04:00",
+  "date_modified": "2022-07-12T14:34:30-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 lemon, sliced",
+    "1 orange, sliced",
+    "3 tablespoons brown sugar",
+    "1 (1.5 fluid ounce) jigger vodka",
+    "1 (1.5 fluid ounce) jigger cointreau or triple sec",
+    "1 (1.5 fluid ounce) jigger gin",
+    "0.25 cup orange soda",
+    "0.25 cup lemon-lime soda",
+    "0.75 cup pineapple juice",
+    "0.75 cup orange juice",
+    "1 cup ice cubes",
+    "1 (750 milliliter) bottle dry red wine"
+  ],
+  "steps": [
+    {
+      "text": "Place the lemon, orange, and brown sugar in a large pitcher. Pour in vodka, Cointreau, gin, orange soda, lemon-lime soda, pineapple juice, and orange juice. Add ice cubes and pour in red wine; stir well until the sugar has dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "248 kcal",
+    "carbohydrateContent": "28 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "19 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fUQQtyATU2aPYirdvJmYHWLKQ5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/141402-Sangria-Barcelona-Style-Shannon_42098_original-4x3-2-043355a9f99b43b6aa4b9ca6aec2ff0f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/141402/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
