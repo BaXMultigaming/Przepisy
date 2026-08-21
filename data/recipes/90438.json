@@ -1,0 +1,87 @@
+{
+  "id": "90438",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/90438/slow-cooker-baked-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/90438/slow-cooker-baked-beans/",
+  "title": "Slow Cooker Baked Beans",
+  "description": "These beans have that classic baked bean flavor and are cooked conveniently in a slow cooker. Yummy!",
+  "authors": [
+    "creamcheese5"
+  ],
+  "date_published": "2020-03-04T23:59:31-05:00",
+  "date_modified": "2022-12-24T22:11:10-05:00",
+  "prep_time": null,
+  "cook_time": "PT840M",
+  "total_time": "PT840M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "New England"
+  ],
+  "regions": [
+    "New England"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dry great Northern beans",
+    "8 cups water",
+    "4 ounces diced salt pork",
+    "1 cup chopped onion",
+    "0.5 cup molasses",
+    "0.33333334326744 cup packed brown sugar",
+    "1 teaspoon dry mustard",
+    "0.125 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "The night before, combine the Great Northern Beans and water in a large saucepan. Bring to a boil, and cook for 1 1/2 hours. Pour beans and their liquid into a bowl, cover and refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In the morning, drain off liquid, reserving 1 cup. Pour beans and the reserved liquid into the crock of a slow cooker. Stir in the salt pork, onion, molasses, brown sugar, mustard and pepper. Cover, and cook on Low for 12 to 14 hours. Stir before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "364 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "223 mg",
+    "sugarContent": "21 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "118"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MQZ2aahrttq7UhUUC1B-S4ryg-U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/967834-slow-cooker-baked-beans-pomplemousse-4x3-1-9c232b70ed3d41d69d37b0aaedf294f6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/90438/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

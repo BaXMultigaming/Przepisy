@@ -1,0 +1,88 @@
+{
+  "id": "90030",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/90030/skillet-zucchini/",
+  "requested_url": "https://www.allrecipes.com/recipe/90030/skillet-zucchini/",
+  "title": "Skillet Zucchini",
+  "description": "Zucchini is sautéed in a skillet with onion, tomatoes, bacon, and cheese for a great side dish or vegetarian main.",
+  "authors": [
+    "Alice Shockley"
+  ],
+  "date_published": "2019-04-03T23:34:12-04:00",
+  "date_modified": "2025-01-17T13:16:52-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "6 medium zucchini, sliced",
+    "2 large tomatoes, cut into chunks",
+    "1 large onion, sliced",
+    "4 slices cooked bacon",
+    "salt and pepper to taste",
+    "0.25 cup water",
+    "1 cup bread crumbs",
+    "1 teaspoon soy sauce",
+    "1 cup shredded Cheddar cheese",
+    "0.5 grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large skillet over medium-high heat. Mix in zucchini, tomatoes, onion, and bacon. Season with salt and pepper; pour in water. Cover and cook, stirring occasionally, until vegetables are tender, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir bread crumbs and soy sauce into the skillet. Mix in Cheddar cheese. Cover and continue cooking until cheese is melted, about 2 minutes. Sprinkle with Parmesan cheese to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "292 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "781 mg",
+    "sugarContent": "6 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "240"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mtR1sTLSItf_X_Glt2TJcM_U_ok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4475730-e68d76ab79be4344bdf47036f908d67c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/90030/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

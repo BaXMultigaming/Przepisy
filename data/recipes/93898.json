@@ -1,0 +1,77 @@
+{
+  "id": "93898",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/93898/savory-lassi/",
+  "requested_url": "https://www.allrecipes.com/recipe/93898/savory-lassi/",
+  "title": "Savory Lassi",
+  "description": "This is an Indian-style yogurt lassi drink that&#39;s tangy, refreshing, subtly spiced with cumin and cilantro, but not sweet.",
+  "authors": [
+    "NP"
+  ],
+  "date_published": "2019-04-03T23:34:30-04:00",
+  "date_modified": "2019-04-03T23:34:30-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup plain yogurt",
+    "0.5 cup water",
+    "0.5 cup milk",
+    "1 teaspoon ground cumin",
+    "1 teaspoon chopped cilantro leaves",
+    "0.66666668653488 teaspoon salt",
+    "1 pinch black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Combine the yogurt, water, milk, cumin, cilantro, salt, and pepper in a blender, and blend until smooth. Serve plain or over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "113 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "890 mg",
+    "sugarContent": "12 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oAmWhts6Gfg63bC-r_Unmo4-84g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/231045-3f9049ab369942e8900977a4e0e2c42a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/93898/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "90209",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/90209/italian-peas/",
+  "requested_url": "https://www.allrecipes.com/recipe/90209/italian-peas/",
+  "title": "Italian Peas",
+  "description": "Frozen peas are made fabulous by sautéing with garlic and onions, then simmering with chicken stock until tender. A fresh take on a classic side dish.",
+  "authors": [
+    "WORSHIPWARRIORMT"
+  ],
+  "date_published": "2005-09-03T15:14:43-04:00",
+  "date_modified": "2026-01-26T05:19:12-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "16 ounces frozen green peas",
+    "1 tablespoon chicken stock",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/lzWgxQD4Ae65_089r56mitTN8fQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/90209-Italian-Peas-ddmsf-step-1-071-b6811b97dee4441f8cf9d332fc69f751.jpg"
+      ],
+      "image": "assets/images/90209/step_01.webp"
+    },
+    {
+      "text": "Heat olive oil in a skillet over medium heat. Stir in onion; cook until softened, about 5 minutes. Stir in garlic and cook for 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Yk5Yzq-rhmHjfrr5CI3dhunfNj0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/90209-Italian-Peas-ddmsf-step-2-073-db62768c390447b89d31b82423eb0168.jpg"
+      ],
+      "image": "assets/images/90209/step_02.webp"
+    },
+    {
+      "text": "Add frozen peas and stir in stock. Season with salt and pepper. Cover and cook until the peas are tender, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/E3YAUZurm_Rt1f3LzbS7iq6zlZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/90209-Italian-Peas-ddmsf-step-3-075-09d397c9362a469b8630227ff1e491bb.jpg"
+      ],
+      "image": "assets/images/90209/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "121 mg",
+    "sugarContent": "5 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "604"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uZJHL9OpmAf-kjbSTxA5ee08dKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2432901-italian-peas-Allrecipes-Magazine-4x3-1-a69276aa176b4f34a1f323ae704fce77.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/90209/hero.webp",
+    "steps": [
+      "assets/images/90209/step_01.webp",
+      "assets/images/90209/step_02.webp",
+      "assets/images/90209/step_03.webp"
+    ]
+  }
+}

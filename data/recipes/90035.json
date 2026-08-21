@@ -1,0 +1,82 @@
+{
+  "id": "90035",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/90035/smoky-fried-salmon/",
+  "requested_url": "https://www.allrecipes.com/recipe/90035/smoky-fried-salmon/",
+  "title": "Smoky Fried Salmon",
+  "description": "Salmon isn&#39;t usually fried for breakfast, but if prepared this way, it can be a great bacon substitute that will help you incorporate more fish into your diet.",
+  "authors": [
+    "CHAMMI"
+  ],
+  "date_published": "2018-03-21T12:47:56-04:00",
+  "date_modified": "2025-05-01T12:41:49-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT15M",
+  "total_time": "PT45M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) salmon fillet, frozen",
+    "1 teaspoon sea salt",
+    "ground black pepper to taste",
+    "1 dash liquid smoke flavoring",
+    "2 tablespoons butter, divided"
+  ],
+  "steps": [
+    {
+      "text": "Thaw the salmon slightly in cold water, and remove the skin. Use a very sharp knife to slice the fillet into thin slices. Place the slices in a bowl, and sprinkle with salt and pepper. Toss with enough liquid smoke to coat the fish, and refrigerate for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the butter in a large skillet over medium heat. Fry the salmon slices for a few minutes turning once. Fish should flake easily with a fork when done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "261 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "80 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1012 mg",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NdRwD6sn1EdbhcOPtVjZAWBYKgU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18657-0d76c21627e944e29de8ef1de51d6d0a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/90035/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

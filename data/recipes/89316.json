@@ -1,0 +1,82 @@
+{
+  "id": "89316",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/89316/preetys-chickpea-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/89316/preetys-chickpea-salad/",
+  "title": "Preety&#39;s Chickpea Salad",
+  "description": "A chickpea salad garnished with lemons.",
+  "authors": [
+    "PREETYGILL"
+  ],
+  "date_published": "2018-06-08T09:27:20-04:00",
+  "date_modified": "2022-05-05T19:36:49-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 clove garlic, minced",
+    "2 teaspoons olive oil",
+    "1 (16 ounce) can garbanzo beans (chickpeas), drained and rinsed",
+    "1 tomato, chopped",
+    "0.33333334326744 onion, chopped",
+    "1 teaspoon cider vinegar",
+    "0.5 teaspoon salt, or to taste",
+    "1 pinch ground black pepper",
+    "0.5 lemon, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Mix the garlic and olive oil in a small microwave-safe bowl. Cook 15 seconds in the microwave on High, or just until warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, toss together the garlic and olive oil, garbanzo beans, tomato, onion, and vinegar. Season with salt and pepper, and garnish with lemon slices. Cover and chill until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "340 kcal",
+    "carbohydrateContent": "59 g",
+    "fiberContent": "13 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1265 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9JTSI6ZEd-ednMnNKcEdpVAqnnU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Preetys-Chickpea-Salad-2000-4429eb6b1bff4a61ac50000ceda01100.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/89316/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

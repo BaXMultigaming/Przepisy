@@ -1,0 +1,85 @@
+{
+  "id": "90314",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/90314/my-country-style-steak/",
+  "requested_url": "https://www.allrecipes.com/recipe/90314/my-country-style-steak/",
+  "title": "My Country Style Steak",
+  "description": "A simple and easy recipe for cube steak that can easily be stretched to feed as many as you like. Serve over rice or potatoes.",
+  "authors": [
+    "SUZANNER"
+  ],
+  "date_published": "2020-06-18T23:12:38-04:00",
+  "date_modified": "2026-05-13T09:10:40-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT60M",
+  "total_time": "PT70M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound cube steak, cut into bite-sized pieces",
+    "0.5 cup all-purpose flour for coating",
+    "2 tablespoons vegetable oil",
+    "1 (1 ounce) envelope dry onion soup mix",
+    "1 tablespoon all-purpose flour",
+    "2 cups water, or as needed",
+    "salt and pepper to taste",
+    "garlic salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Dredge steak pieces in 1/2 cup flour to coat; shake off excess. Heat oil in a large skillet over medium-high heat; add steak pieces. Cook until browned on all sides and some juices in skillet. Transfer to a plate using a slotted spoon; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk soup mix and remaining 1 tablespoon flour together in a bowl; sprinkle into skillet. Cook and stir over medium heat until starts to brown. Gradually stir in water; return steak to skillet and season with salt, pepper, and garlic salt. Cover, and simmer over low heat for about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "254 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "732 mg",
+    "sugarContent": "0 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "461"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FLdYIlNKaUWn0ZAygUL_zwzvpDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200174-73a387d837ee4be2a0151679e5f340fa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/90314/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

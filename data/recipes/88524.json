@@ -1,0 +1,70 @@
+{
+  "id": "88524",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/88524/icy-banana-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/88524/icy-banana-milkshake/",
+  "title": "Icy Banana Milkshake",
+  "description": "Sliced bananas, milk, sugar, and some ice cubes are blended until smooth to make a kid-pleasing banana milkshake in mere minutes.",
+  "authors": [
+    "mary"
+  ],
+  "date_published": "2020-06-18T23:12:29-04:00",
+  "date_modified": "2023-01-07T19:42:20-05:00",
+  "prep_time": "PT1M",
+  "cook_time": "PT1M",
+  "total_time": "PT2M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 bananas, peeled and sliced",
+    "6 ice cubes",
+    "5 cups milk",
+    "0.5 cup sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine bananas, ice cubes, milk, and sugar in a blender. Cover and blend for 2 minutes, or until ice is finely crushed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "101 mg",
+    "sugarContent": "37 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "82"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/B5fAylNlW6-8CC-vDBAb196Im0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7536617-icy-banana-milkshake-KimAbby-4x3-1-0345cadb38f5445da97d546694922ef7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/88524/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

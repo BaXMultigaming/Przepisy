@@ -1,0 +1,78 @@
+{
+  "id": "88735",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/88735/pepperoni-cheese-balls/",
+  "requested_url": "https://www.allrecipes.com/recipe/88735/pepperoni-cheese-balls/",
+  "title": "Pepperoni Cheese Balls",
+  "description": "A delicious cheese ball that combines sour cream, butter, cream cheese, and Worcestershire sauce with finely chopped pepperoni. Try it with crackers or pretzels.",
+  "authors": [
+    "PFD3563"
+  ],
+  "date_published": "2018-03-21T12:47:08-04:00",
+  "date_modified": "2022-11-14T15:43:04-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "12",
+    "12 cheese balls"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces pepperoni sausage",
+    "8 ounces cream cheese",
+    "1 teaspoon Worcestershire sauce",
+    "2 tablespoons butter",
+    "0.5 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Place pepperoni slices in a food processor or blender, and pulse until finely chopped. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, stir together cream cheese, Worcestershire sauce, butter, and sour cream. Mix well with a mixer. Add chopped pepperoni, and mix well. Form into small balls, place on a serving platter, and refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "50 mg",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "388 mg",
+    "sugarContent": "0 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nfmdaYVSiCHIitU_CSvtGdrUjbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pepperoni-Cheese-Balls-2000-2cc5167744434d55878255fe5c4ab481.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/88735/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

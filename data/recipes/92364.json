@@ -1,0 +1,81 @@
+{
+  "id": "92364",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/92364/thirty-minute-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/92364/thirty-minute-chili/",
+  "title": "Thirty Minute Chili",
+  "description": "This 30-minute chili recipe features four ingredients: ground beef, kidney beans, diced tomatoes, and chili seasoning mix. Top with onion and cheese.",
+  "authors": [
+    "Jen"
+  ],
+  "date_published": "2018-03-21T12:49:45-04:00",
+  "date_modified": "2025-12-10T15:39:41-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 (15 ounce) can kidney beans, drained",
+    "1 (14.5 ounce) can canned diced tomatoes",
+    "1 (1.25 ounce) package chili seasoning mix"
+  ],
+  "steps": [
+    {
+      "text": "Crumble beef into a large skillet over medium-high heat; cook and stir until evenly browned. Drain off excess grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir kidney beans, tomatoes, and chili seasoning mix into beef; reduce heat to medium and simmer for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "266 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "55 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1026 mg",
+    "sugarContent": "3 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "77"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7muOfxuEfw53rxbUZG4vhNXOPOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1118014-a38b5b87ea9848d88f36a7440a4da16b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/92364/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

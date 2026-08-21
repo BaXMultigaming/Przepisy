@@ -1,0 +1,102 @@
+{
+  "id": "91027",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/91027/sour-cream-waffles/",
+  "requested_url": "https://www.allrecipes.com/recipe/91027/sour-cream-waffles/",
+  "title": "Sour Cream Waffles",
+  "description": "These waffles substitute sour cream and yogurt for milk. The inspiration came about one morning when there was no milk in the house.",
+  "authors": [
+    "holly george"
+  ],
+  "date_published": "2019-04-03T23:34:18-04:00",
+  "date_modified": "2026-07-16T16:12:59-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "0.5 cup sour cream",
+    "0.5 cup plain yogurt",
+    "0.25 teaspoon white vinegar",
+    "2 cups all-purpose flour",
+    "2 teaspoons baking powder",
+    "1 teaspoon baking soda",
+    "0.5 teaspoon salt",
+    "2 eggs, beaten"
+  ],
+  "steps": [
+    {
+      "text": "In a bowl, mix together water, sour cream, yogurt, and vinegar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sift flour into a separate, large bowl; stir in baking powder, baking soda, and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add sour cream mixture and eggs to flour mixture; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on a lightly greased waffle iron until golden brown; lift off with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "345 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "108 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "858 mg",
+    "sugarContent": "3 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "116"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/idxUXXtF4CC7I0PYQc7Op3BAdIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8162096-sour-cream-waffles-Drew-4x3-1-2000-1b16103e210843069d8e8fa73bbc2cc9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/91027/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "89229",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/89229/fresh-orange-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/89229/fresh-orange-juice/",
+  "title": "Fresh Orange Juice",
+  "description": "Fresh orange juice tastes better than concentrate and is loaded with vitamins. Make fresh-squeezed orange juice at home with 1 ingredient in minutes.",
+  "authors": [
+    "CHELSEASKINGIRL"
+  ],
+  "date_published": "2018-03-21T12:47:22-04:00",
+  "date_modified": "2025-10-24T13:10:58-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 oranges"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/A4w1PNID4TooQXLDfgpY-kOVAfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8922-fresh-orange-juice-step-1-83626f86d5a346d28024051ea0cea69b.jpg"
+      ],
+      "image": "assets/images/89229/step_01.webp"
+    },
+    {
+      "text": "Lightly smack each orange on the counter. Cut each orange in half and squeeze juice into a glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ccl0ppn6R3RdaFi_YmeHuZh-FVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8922-fresh-orange-juice-step-3-083c7d4ace4344fca7938c5eee001610.jpg"
+      ],
+      "image": "assets/images/89229/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "50 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "9 g",
+    "fatContent": "0 g",
+    "servingSize": "1 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "71"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xS3iWl-8a1acmb0wJb8RDRfO44o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8922-fresh-orange-juice-DDMFS-4x3-5ddc816f82c9417db63e5176a60305b4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/89229/hero.webp",
+    "steps": [
+      "assets/images/89229/step_01.webp",
+      "assets/images/89229/step_02.webp"
+    ]
+  }
+}

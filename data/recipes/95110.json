@@ -1,0 +1,84 @@
+{
+  "id": "95110",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/95110/fresh-pea-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/95110/fresh-pea-soup/",
+  "title": "Fresh Pea Soup",
+  "description": "This classic French soup, made with fresh peas and shallots, comes together in a snap!",
+  "authors": [
+    "Lizz C"
+  ],
+  "date_published": "2019-04-03T23:34:34-04:00",
+  "date_modified": "2026-05-12T14:57:09-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT12M",
+  "total_time": "PT17M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "2 medium shallots, finely chopped",
+    "2 cups water",
+    "3 cups fresh shelled green peas",
+    "salt and pepper to taste",
+    "3 tablespoons whipping cream"
+  ],
+  "steps": [
+    {
+      "text": "Melt the butter in a heavy-bottomed saucepan over medium heat. Cook the shallots until soft and translucent, about 3 minutes. Pour in the water and peas, season to taste with salt and pepper. Increase the heat to medium-high, bring to a boil, then reduce heat to low, cover, and simmer until the peas are tender, 12 to 18 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Puree the peas in a blender or food processor in batches. Strain back into the saucepan, stir in the cream if using, and reheat. Season to taste with salt and pepper before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "203 mg",
+    "sugarContent": "1 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "126"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VCTCrfhisCmgXQ_B0wPhAeo7EoU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8038576-d114658ff0ab42b6a0769b006fa7888c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/95110/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

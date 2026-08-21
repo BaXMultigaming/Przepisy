@@ -1,0 +1,90 @@
+{
+  "id": "90033",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/90033/harvest-slaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/90033/harvest-slaw/",
+  "title": "Harvest Slaw",
+  "description": "Grapes, feta, and toasted pecans are the unique ingredients in this coleslaw. You can increase the amount of mayonnaise or Ranch dressing if you prefer a creamier slaw.",
+  "authors": [
+    "bdh76"
+  ],
+  "date_published": "2020-06-18T23:12:35-04:00",
+  "date_modified": "2022-01-14T11:59:09-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup chopped pecans",
+    "1 (8.5 ounce) package coleslaw mix",
+    "0.5 cup matchstick-style shredded carrots",
+    "1.5 cups red grapes",
+    "0.25 cup crumbled feta cheese",
+    "0.5 cup mayonnaise",
+    "0.5 cup Ranch dressing",
+    "1 tablespoon sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a medium ungreased skillet, over medium heat, toast the pecans by stirring frequently until golden brown. Set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine coleslaw mix, carrots, grapes, pecans, and feta cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, stir together the mayonnaise, and Ranch dressing. Pour in sugar, and mix until dissolved. Toss coleslaw mixture with dressing until evenly coated. Serve immediately, or cover and chill in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "265 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "287 mg",
+    "sugarContent": "8 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2YK5__8uNkr92PWlt_zV-8llFyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1068329-62415c47ef66476bb32920e0b9ddb2ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/90033/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

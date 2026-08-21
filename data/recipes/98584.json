@@ -1,0 +1,84 @@
+{
+  "id": "98584",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/98584/mint-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/98584/mint-chicken/",
+  "title": "Mint Chicken",
+  "description": "A favorite family recipe that my Mom has made for hundreds of guests. Fresh lemon juice and mint leaves are a must! Serve over hot cooked white rice.",
+  "authors": [
+    "TXGIRLSX3"
+  ],
+  "date_published": "2019-07-10T02:55:25-04:00",
+  "date_modified": "2026-05-20T16:21:39-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 skinless, boneless chicken breast halves - cut into bite-size pieces",
+    "1 clove garlic, crushed",
+    "0.5 cup all-purpose flour",
+    "0.5 cup margarine",
+    "0.25 cup fresh lemon juice",
+    "0.5 cup chopped fresh mint leaves"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix together the chicken pieces and garlic. Toss with the flour just to coat, and shake off excess.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the margarine in a large skillet over medium-high heat. Add the chicken pieces; cook and stir until browned. Add the mint leaves and lemon juice, cover and steam for about 5 minutes, just until the chicken is cooked through. Do not over cook the chicken or it will be tough.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "328 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "302 mg",
+    "sugarContent": "1 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GApnP7r05VoncCMwDO0OfzWhW9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mint_Chicken_010-2000-4ca7a46e70264a799ae9862d78515098.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/98584/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

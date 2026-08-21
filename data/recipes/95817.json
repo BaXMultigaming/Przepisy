@@ -1,0 +1,106 @@
+{
+  "id": "95817",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/95817/vanilla-crepes/",
+  "requested_url": "https://www.allrecipes.com/recipe/95817/vanilla-crepes/",
+  "title": "Vanilla Crepes",
+  "description": "Crepes are made with extra vanilla for a heavenly aroma.",
+  "authors": [
+    "lelainem10"
+  ],
+  "date_published": "2020-06-18T23:13:15-04:00",
+  "date_modified": "2026-04-28T23:10:59-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "12 crepes"
+  ],
+  "categories": [
+    "Breakfast",
+    "Lunch",
+    "Bread"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups milk",
+    "3 egg yolks",
+    "2 tablespoons vanilla extract",
+    "1.5 cups all-purpose flour",
+    "2 tablespoons sugar",
+    "0.5 teaspoon salt",
+    "5 tablespoons melted butter"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, mix together the milk, egg yolks and vanilla. Stir in the flour, sugar, salt and melted butter until well blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a crepe pan over medium heat until hot. Coat with vegetable oil or cooking spray. Pour about 1/4 cup of batter into the pan and tip to spread the batter to the edges. When bubbles form on the top and the edges are dry, flip over and cook until lightly browned on the other side and edges are golden. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill crepes with your favorite fruit, cream, caramel or even ice cream or cheese to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/cJnyLm-NXTFmRnh_KjOOnvHNgvA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/667046-197363bc6a2141dba6dd9e3fcc6a687e.jpg"
+      ],
+      "image": "assets/images/95817/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "66 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "146 mg",
+    "sugarContent": "4 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "908"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/KhmYwwk0-ma1DlVvV.mp4",
+    "description": "A little extra vanilla makes these crepes irresistible.",
+    "duration": "PT2M36S",
+    "name": "Vanilla Crepes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/KhmYwwk0/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T01:29:45-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cJnyLm-NXTFmRnh_KjOOnvHNgvA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/667046-197363bc6a2141dba6dd9e3fcc6a687e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/95817/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/95817/step_03.webp"
+    ]
+  }
+}

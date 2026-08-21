@@ -1,0 +1,91 @@
+{
+  "id": "88928",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/88928/zucchini-miso/",
+  "requested_url": "https://www.allrecipes.com/recipe/88928/zucchini-miso/",
+  "title": "Zucchini Miso",
+  "description": "Thin slices of fresh zucchini are tossed with a fragrant Asian-style dressing in this delicious summer salad.",
+  "authors": [
+    "Amy Brolsma"
+  ],
+  "date_published": "2020-03-04T23:59:29-05:00",
+  "date_modified": "2020-03-04T23:59:29-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 tablespoons sesame seeds",
+    "0.25 cup chicken broth",
+    "3 tablespoons miso paste",
+    "2 tablespoons soy sauce",
+    "1 tablespoon rice vinegar",
+    "1 tablespoon lime juice",
+    "0.5 teaspoon Thai chile sauce",
+    "2 teaspoons brown sugar",
+    "0.5 cup chopped green onions",
+    "0.25 cup chopped cilantro",
+    "6 medium zucchini, julienned",
+    "2 sheets nori, cut into thin slices",
+    "2 tablespoons slivered almonds"
+  ],
+  "steps": [
+    {
+      "text": "Place sesame seeds in a skillet over medium heat. Cook 5 minutes, stirring frequently, until lightly toasted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix the chicken broth, miso paste, soy sauce, rice vinegar, lime juice, chile sauce, brown sugar, green onions, and cilantro. Toss zucchini in the dressing to coat just before serving, and top with toasted sesame seeds, nori, and almonds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "88 kcal",
+    "carbohydrateContent": "13 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "647 mg",
+    "sugarContent": "6 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rwQBwgFTGpdRL-U0d4ijE3MvrLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5157070-21de3f31808c40e2874d000e999359f0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/88928/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

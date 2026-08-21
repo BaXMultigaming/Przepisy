@@ -1,0 +1,81 @@
+{
+  "id": "88924",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/88924/tender-tomato-chicken-breasts/",
+  "requested_url": "https://www.allrecipes.com/recipe/88924/tender-tomato-chicken-breasts/",
+  "title": "Tender Tomato Chicken Breasts",
+  "description": "Seasoned chicken is stewed with tomatoes and served over mixed vegetables. Goes well with rice.",
+  "authors": [
+    "Erin"
+  ],
+  "date_published": "2019-04-03T23:34:08-04:00",
+  "date_modified": "2023-02-03T20:47:37-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "3 skinless, boneless chicken breast halves",
+    "1 tablespoon ground black pepper, or to taste",
+    "3 tablespoons onion powder, or to taste",
+    "1 (28 ounce) can chopped stewed tomatoes, 1/2 the liquid reserved",
+    "1 (14 ounce) can chicken broth",
+    "1 (10 ounce) package frozen mixed vegetables",
+    "0.25 cup water"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a skillet over medium heat. Season chicken breasts on both sides with pepper and onion powder, and arrange in the skillet. Cook 2 minutes on each side, just until browned. Pour tomatoes and reserved liquid over chicken. Pour in broth. Cover skillet, and continue cooking 15 minutes on each side, until chicken juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While chicken is cooking, place frozen mixed vegetables and water in a pot. Scoop about 3/4 cup liquid from the skillet, and mix into the pot. Bring to a boil, and cook 5 minutes, or until vegetables are tender; drain. Arrange chicken breasts over vegetables, and drizzle with liquid from the skillet to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "326 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1302 mg",
+    "sugarContent": "12 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "141"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VIxFZK4QA7IZWewIaxXyT_q9rpA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1027504-tender-tomato-chicken-breasts-pchbloom-4x3-1-d3a89ad9c1da4519a9954e38bce00f57.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/88924/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

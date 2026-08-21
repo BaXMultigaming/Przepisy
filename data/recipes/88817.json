@@ -1,0 +1,104 @@
+{
+  "id": "88817",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/88817/grilled-lemon-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/88817/grilled-lemon-chicken/",
+  "title": "Grilled Lemon Chicken",
+  "description": "Grilled lemon chicken, basted with a fresh lemon, garlic, and mustard marinade is quick and easy to make for a deliciously easy summer meal.",
+  "authors": [
+    "KRCTLC"
+  ],
+  "date_published": "2019-07-10T02:55:00-04:00",
+  "date_modified": "2023-03-23T07:29:00-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup lemon juice",
+    "0.25 cup olive oil",
+    "1 tablespoon Dijon mustard",
+    "2 large cloves garlic, finely chopped",
+    "2 tablespoons finely chopped red bell pepper",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "4 skinless, boneless chicken breast halves"
+  ],
+  "steps": [
+    {
+      "text": "Combine lemon juice, olive oil, Dijon mustard, garlic, red bell pepper, salt, and pepper together in a bowl. Set aside 1/4 cup of the marinade to use for basting. Place chicken breasts in the bowl and stir to coat. Marinate at least 20 minutes in the refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for high heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove chicken from marinade and shake off excess; discard the remaining marinade in the bowl. Cook chicken on the preheated grill until no longer pink in the center, about 6 to 8 minutes per side, basting occasionally with the reserved marinade. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MAnx17eLx5pM8iomXu4IvmEuCUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Grilled-Lemon-Chicken-baca5bf1696d4575bcfc9f1200422cf0.png"
+      ],
+      "image": "assets/images/88817/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "264 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "462 mg",
+    "sugarContent": "1 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "587"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/GzK7hI27-ma1DlVvV.mp4",
+    "description": "A zesty marinade for grilled chicken breasts. Dinner’s ready in minutes.",
+    "duration": "PT2M16S",
+    "name": "Grilled Lemon Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/GzK7hI27/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T07:28:49-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MAnx17eLx5pM8iomXu4IvmEuCUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Grilled-Lemon-Chicken-baca5bf1696d4575bcfc9f1200422cf0.png"
+  ],
+  "images": {
+    "hero": "assets/images/88817/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/88817/step_03.webp"
+    ]
+  }
+}

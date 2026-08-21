@@ -1,0 +1,76 @@
+{
+  "id": "88920",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/88920/zucchini-relish/",
+  "requested_url": "https://www.allrecipes.com/recipe/88920/zucchini-relish/",
+  "title": "Simple Zucchini Relish",
+  "description": "A simple, colorful recipe prepared from zucchini and fresh garden vegetables. Goes especially well with salmon.",
+  "authors": [
+    "nostatic"
+  ],
+  "date_published": "2020-06-18T23:12:31-04:00",
+  "date_modified": "2025-07-18T08:57:09-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT0M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "1 cup"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup chopped zucchini",
+    "0.5 cup chopped onion",
+    "1 tablespoon white sugar",
+    "1 tablespoon chopped fresh basil",
+    "2 tablespoons chopped red bell pepper",
+    "2 tablespoons lemon juice",
+    "0.25 teaspoon salt",
+    "0.25 teaspoon pepper"
+  ],
+  "steps": [
+    {
+      "text": "Stir zucchini, onion, sugar, basil, red pepper, lemon juice, salt, and pepper together in a medium bowl. Cover and refrigerate until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "29 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "150 mg",
+    "sugarContent": "5 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GonuBY-7LwV_wij6LM1Yw-OnrVw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3732845-1f90df9671ff4ebeb1f7e63dcce434c0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/88920/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

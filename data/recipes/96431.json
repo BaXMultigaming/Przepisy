@@ -1,0 +1,84 @@
+{
+  "id": "96431",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/96431/fresh-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/96431/fresh-salsa/",
+  "title": "Fresh Salsa",
+  "description": "This raw salsa recipe is loaded with vegetables, including plum tomatoes, jalapeno peppers, onions, and jicama.",
+  "authors": [
+    "bbmchicago"
+  ],
+  "date_published": "2019-07-10T02:55:24-04:00",
+  "date_modified": "2025-01-29T13:34:41-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT80M",
+  "yield": [
+    "36",
+    "9 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 roma tomatoes, diced",
+    "3 fresh jalapeno peppers, seeded and chopped",
+    "0.25 red onion, chopped",
+    "3 green onions, chopped",
+    "2 cloves cloves garlic, crushed",
+    "2 tablespoons chopped fresh cilantro",
+    "2 tablespoons fresh lime juice",
+    "2 tablespoons fresh lemon juice",
+    "1.5 teaspoons ground cumin",
+    "1 small jicama, peeled and chopped",
+    "1 (10 ounce) can diced tomatoes with green chilies, drained",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mix together tomato, jalapeño peppers, red onion, green onions, garlic, cilantro, lime juice, lemon juice, cumin, jicama, and diced tomatoes with chilies in a bowl. Season with salt and pepper. Allow to sit at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "9 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "1 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "66"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/py7pXwIxmX2rH93empgmMakTi2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/452139-fresh-salsa-Hannah-Culbertson-4x3-1-0db181487720428697fc7469162ed7d9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/96431/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

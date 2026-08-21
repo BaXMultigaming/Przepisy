@@ -1,0 +1,88 @@
+{
+  "id": "89710",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/89710/creamy-tomato-basil-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/89710/creamy-tomato-basil-soup/",
+  "title": "Creamy Tomato-Basil Soup",
+  "description": "Simple to prepare, delicious tomato-basil soup. Great for an easy lunch served with bread or grilled cheese!",
+  "authors": [
+    "Alok"
+  ],
+  "date_published": "2019-04-02T02:47:53-04:00",
+  "date_modified": "2026-08-17T13:02:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT45M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "0.25 cup olive oil",
+    "1.5 cups chopped onions",
+    "3 pounds tomatoes - cored, peeled, and quartered",
+    "0.5 cup chopped fresh basil leaves",
+    "salt to taste",
+    "ground black pepper to taste",
+    "1 quart chicken broth",
+    "1 cup heavy cream",
+    "8 sprigs fresh basil for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Heat the butter and olive oil in a large pot over medium heat. Stir in onions and cook until tender. Mix in tomatoes and chopped basil. Season with salt and pepper. Pour in the chicken broth, reduce heat to low, and continue cooking 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer soup to a blender (or use an immersible hand blender), and blend until smooth. Return to the pot, and bring to a boil. Reduce heat to low, and gradually mix in the heavy cream. Pour soup through a strainer before serving. Garnish each serving with a sprig of basil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "259 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "56 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "62 mg",
+    "sugarContent": "6 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "178"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/S7Z-9-bhUAYZDAkMoSMuBae18Ww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5543908-dcfe48f790aa4d3489428e22b585d694.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/89710/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "89124",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/89124/cullen-skink/",
+  "requested_url": "https://www.allrecipes.com/recipe/89124/cullen-skink/",
+  "title": "Cullen Skink",
+  "description": "A tasty warming soup originating from Cullen a small coastal town in the North of Scotland, with a unique smoked taste.",
+  "authors": [
+    "t mcleod"
+  ],
+  "date_published": "2018-03-21T12:47:16-04:00",
+  "date_modified": "2025-01-27T10:46:30-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT60M",
+  "total_time": "PT90M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Scottish"
+  ],
+  "regions": [
+    "Scottish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds smoked haddock fillets, undyed",
+    "2.5 cups milk",
+    "2 large baking potatoes, peeled and diced",
+    "1 large onion, finely chopped",
+    "ground black pepper to taste",
+    "2 tablespoons chopped fresh parsley for garnish"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan over medium heat, combine the haddock and milk. Simmer for about 15 minutes, or until the fish flakes easily with a fork. When the fish is done, remove it with a slotted spoon and set aside in a bowl. Add the potatoes and onion to the milk, and simmer until tender, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer the contents of the pan to a blender, in batches if needed, and blend until smooth and creamy. Return to the pan and flake the fish into the soup. Heat through gently, do not boil. Serve immediately. Season with pepper and garnish with parsley to individual tastes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "329 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "125 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "44 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1207 mg",
+    "sugarContent": "7 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vFbEhbgtYdJ6rM1zgR3VbJyU1zA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3822891-f09d2f5910794991be8c18b8f93ed199.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/89124/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
