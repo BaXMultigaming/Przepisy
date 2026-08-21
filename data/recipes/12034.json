@@ -1,0 +1,109 @@
+{
+  "id": "12034",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12034/meaty-spaghetti-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/12034/meaty-spaghetti-sauce/",
+  "title": "Meaty Spaghetti Sauce",
+  "description": "This meaty spaghetti sauce recipe is a hearty blend of beef, pork, and pepperoni with tomatoes, peppers, aromatics, and a medley of spices.",
+  "authors": [
+    "Stacey Adkins"
+  ],
+  "date_published": "1999-02-11T11:34:24-05:00",
+  "date_modified": "2022-09-16T15:03:59-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT140M",
+  "total_time": "PT160M",
+  "yield": [
+    "32",
+    "16 cups"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 pound ground pork sausage",
+    "2 ounces sliced pepperoni sausage",
+    "2 medium onions, chopped",
+    "2 medium carrots, diced",
+    "2 stalks celery, chopped",
+    "1 medium green bell pepper, chopped",
+    "0.5 medium red bell pepper, chopped",
+    "1 tablespoon minced garlic",
+    "2 (14.5 ounce) cans diced tomatoes",
+    "1 (15 ounce) can tomato sauce",
+    "2 (6 ounce) cans tomato paste",
+    "1 (8 ounce) can sliced mushrooms",
+    "1 cup beef broth",
+    "3 cubes beef bouillon",
+    "1.5 tablespoons dried oregano",
+    "1.5 teaspoons dried basil",
+    "1 tablespoon dried thyme",
+    "1 tablespoon white sugar",
+    "3 bay leaves",
+    "1 teaspoon ground black pepper",
+    "0.5 teaspoon crushed red pepper flakes"
+  ],
+  "steps": [
+    {
+      "text": "Combine ground beef, pork sausage, and sliced pepperoni in a large stockpot over medium heat. Add onions, carrots, celery, bell peppers, and garlic; cook and stir until beef and sausage are browned and crumbly and vegetables are tender. Transfer the mixture into a large colander to drain grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add diced tomatoes, tomato sauce, tomato paste, mushrooms, beef broth, bouillon cubes, oregano, basil, thyme, sugar, bay leaves, pepper, and red pepper flakes to the empty stockpot. Add drained meat mixture and stir until well combined. Bring to a boil, then reduce heat, cover, and simmer for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/afsAwH6inPSNvUQ5Cc04AHNwPMU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/934641-84f6331a144e473f9c41fc0d92858661.jpg"
+      ],
+      "image": "assets/images/12034/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "102 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "515 mg",
+    "sugarContent": "4 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "313"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/H2vKyf76-ma1DlVvV.mp4",
+    "description": "AR1241",
+    "duration": "PT3M49S",
+    "name": "Meaty Spaghetti Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/H2vKyf76/poster.jpg?width=1280",
+    "uploadDate": "2021-07-08T20:33:42-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/afsAwH6inPSNvUQ5Cc04AHNwPMU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/934641-84f6331a144e473f9c41fc0d92858661.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12034/hero.webp",
+    "steps": [
+      null,
+      "assets/images/12034/step_02.webp"
+    ]
+  }
+}

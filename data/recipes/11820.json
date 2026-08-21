@@ -1,0 +1,88 @@
+{
+  "id": "11820",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11820/spinach-ziti/",
+  "requested_url": "https://www.allrecipes.com/recipe/11820/spinach-ziti/",
+  "title": "Spinach Ziti",
+  "description": "Make a creamy and colorful meal with cream cheese and fresh spinach stirred into hot ziti and flavored with ground nutmeg. Toss gently with a simple blend of diced tomatoes and hot pepper flakes.",
+  "authors": [
+    "Sue H."
+  ],
+  "date_published": "1999-03-16T10:08:34-05:00",
+  "date_modified": "2022-07-14T17:57:05-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces ziti pasta",
+    "1 (14.5 ounce) can Italian-style stewed tomatoes",
+    "0.125 teaspoon crushed red pepper flakes",
+    "4 ounces fresh spinach, washed and chopped",
+    "2 ounces cream cheese",
+    "0.25 teaspoon ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot filled with salted water to a boil. Add ziti and cook until tender but still firm, about 12 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a medium sized non-reactive pan, combine tomatoes and hot pepper flakes. Warm over medium-low heat, breaking up tomatoes if necessary.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain pasta and return to hot pan. Add spinach, cream cheese and nutmeg. Cook, stirring, over low heat until spinach wilts, 1-2 minutes. Pour tomato sauce over spinach ziti. Stir and toss gently to mix.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "194 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "114"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LWffR7ilkvATYhASauQho6LZ47U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/35724-db087f4bf6b6419d9062230afb43e7b3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11820/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

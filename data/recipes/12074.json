@@ -1,0 +1,96 @@
+{
+  "id": "12074",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12074/pasta-e-olio/",
+  "requested_url": "https://www.allrecipes.com/recipe/12074/pasta-e-olio/",
+  "title": "Pasta e Olio",
+  "description": "In just a matter of minutes you can whip up this simply splendid dish of pasta and olive oil, heady with garlic and seasoned with parsley and red pepper flakes. Finish with a generous coating of melted butter and serve warm.",
+  "authors": [
+    "MARBALET"
+  ],
+  "date_published": "1999-09-26T14:00:20-04:00",
+  "date_modified": "2026-04-13T19:02:06-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish",
+    "Pasta"
+  ],
+  "cuisines": [
+    "American",
+    "Italian"
+  ],
+  "regions": [
+    "American",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound spaghetti",
+    "2 teaspoons chopped garlic",
+    "0.25 cup chopped parsley",
+    "0.25 teaspoon crushed red pepper flakes",
+    "0.25 cup olive oil",
+    "0.25 cup melted butter"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot with boiling salted water cook spaghetti pasta until al dente. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a large skillet over low heat saute garlic, parsley, and red pepper flakes with olive oil . Cook until garlic turns golden in color, about 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss pasta with garlic mixture and butter or margarine. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "323 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "2 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "404"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cQx-NYgBWr4fcLQG4XH4cXCPIeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/961922-d74ebc1be36444159b1609732def53f2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12074/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

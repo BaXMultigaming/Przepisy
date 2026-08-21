@@ -1,0 +1,106 @@
+{
+  "id": "11915",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11915/alfredo-light/",
+  "requested_url": "https://www.allrecipes.com/recipe/11915/alfredo-light/",
+  "title": "Alfredo Light",
+  "description": "In this light Alfredo dish, whip up a delightful sauce with skim milk, broth, and flour instead of heavy cream. Parmesan cheese gives it a zing.",
+  "authors": [
+    "Dorothy"
+  ],
+  "date_published": "1999-02-24T11:40:51-05:00",
+  "date_modified": "2023-07-05T16:34:48-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American",
+    "Italian"
+  ],
+  "regions": [
+    "American",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 onion, chopped",
+    "1 clove garlic, minced",
+    "2 teaspoons vegetable oil",
+    "2 cups skim milk",
+    "1 cup chicken broth",
+    "3 tablespoons all-purpose flour",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "0.5 cup grated Parmesan cheese",
+    "16 ounces dry fettuccine pasta",
+    "1 (16 ounce) package frozen broccoli florets"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan, heat oil over medium heat. Add onion and garlic, and sauté until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small saucepan, stir together milk, chicken broth, flour, salt, and pepper over low heat until smooth and thick. Stir into onion mixture. Continue to cook over medium-low heat, frequently stirring, until sauce is thick. Stir in Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, cook pasta in boiling water. Add broccoli to pasta for the last several minutes of cooking. Continue cooking until pasta is al dente.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain pasta and vegetables, and transfer to a large bowl. Toss with sauce. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "292 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "360 mg",
+    "sugarContent": "6 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "338"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CAAMsn_QvTqNO6dnO9Mac2iTVtA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/650747-a76def2feb7f4cfdbdd57833fd2734be.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11915/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

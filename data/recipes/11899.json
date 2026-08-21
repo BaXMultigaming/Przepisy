@@ -1,0 +1,111 @@
+{
+  "id": "11899",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11899/basic-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/11899/basic-pasta/",
+  "title": "Basic Homemade Pasta",
+  "description": "Making deliciously tender homemade pasta is easy with this three-ingredient recipe. Simply double or triple the amounts if you need more.",
+  "authors": [
+    "Pat"
+  ],
+  "date_published": "1999-04-08T16:41:24-04:00",
+  "date_modified": "2025-10-27T12:21:42-04:00",
+  "prep_time": "PT25M",
+  "cook_time": null,
+  "total_time": "PT25M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup all-purpose flour",
+    "0.5 teaspoon salt",
+    "1 egg, beaten",
+    "2 tablespoons water"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KVV9cjQdkApACEpBcqAWrVxF5pI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-step-01--9eab2a9a60404627ae298732f9ef10f8.jpg"
+      ],
+      "image": "assets/images/11899/step_01.webp"
+    },
+    {
+      "text": "Combine flour and salt in a medium bowl. Make a well in the center and add beaten egg. Mix well until a stiff dough forms, adding up to 2 tablespoons water if needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/P0AS-f5r-csCPJt13egvF6VXXWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-step-02-1f9827a322ba4d39b6ab7e4c21ff7a9c.jpg"
+      ],
+      "image": "assets/images/11899/step_02.webp"
+    },
+    {
+      "text": "Knead dough on a lightly floured surface until smooth, 3 to 4 minutes. Wrap dough and let rest for 30 minutes to 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/St99qMaxNwYAKPa4yMLEFnUbW8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-step-03-7d3c45ca5e424a0e8fc46b6f02903022.jpg"
+      ],
+      "image": "assets/images/11899/step_03.webp"
+    },
+    {
+      "text": "Roll dough by hand or with a pasta machine to desired thickness, then cut into strips of desired width and length.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2NSWOwRwl26n2RvJIneIueEsNVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-step-04-bd2bc909b43148a2a46abe88c786eccb.jpg"
+      ],
+      "image": "assets/images/11899/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "176 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "412 mg",
+    "sugarContent": "0 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "633"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6pENC13Ep6dvQKaUagFevca7r9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11899-basic-pasta-4x3-hero-89f27506618044bd8dad72a436aff32d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11899/hero.webp",
+    "steps": [
+      "assets/images/11899/step_01.webp",
+      "assets/images/11899/step_02.webp",
+      "assets/images/11899/step_03.webp",
+      "assets/images/11899/step_04.webp"
+    ]
+  }
+}

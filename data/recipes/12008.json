@@ -1,0 +1,103 @@
+{
+  "id": "12008",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12008/pasta-broccoli-and-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/12008/pasta-broccoli-and-chicken/",
+  "title": "Pasta, Broccoli and Chicken",
+  "description": "Tomatoes and pesto add zesty flavor to blanched broccoli tossed with chicken and pasta. A generous amount of Parmesan cheese completes the dish!",
+  "authors": [
+    "Joanne"
+  ],
+  "date_published": "1999-02-20T11:48:40-05:00",
+  "date_modified": "2026-08-20T19:26:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 ounces rigatoni pasta",
+    "0.5 pound fresh broccoli florets",
+    "0.25 cup olive oil",
+    "1 tablespoon minced garlic",
+    "2 tablespoons pesto",
+    "1 cup chopped tomatoes",
+    "0.75 cup grated Parmesan cheese",
+    "1 pound boneless chicken breast halves, cooked and chopped",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot of salted boiling water, cook pasta until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, blanch broccoli in boiling water; remove with a slotted spoon and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a skillet over medium heat. Add minced garlic and pesto; sauté for 2 minutes. Stir in chopped tomatoes; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, toss cooked pasta with broccoli, cooked chicken, and tomato mixture. Add grated Parmesan cheese, salt, and ground black pepper; mix well and serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "509 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "67 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "257 mg",
+    "sugarContent": "3 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "255"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rVyFRT8ONctYrkyPstL5SupxmbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/576075-pasta-broccoli-and-chicken-Rock_lobster-4x3-1-ec113430d22643c6a754b71ea6ae3463.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12008/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

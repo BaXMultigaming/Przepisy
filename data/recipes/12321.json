@@ -1,0 +1,89 @@
+{
+  "id": "12321",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12321/never-ever-fail-meringue/",
+  "requested_url": "https://www.allrecipes.com/recipe/12321/never-ever-fail-meringue/",
+  "title": "Never-Ever-Fail Meringue",
+  "description": "The secret to no-fail meringue is cornstarch, which acts as a stabilizer.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "1998-07-04T11:34:06-04:00",
+  "date_modified": "2026-05-13T08:21:40-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "1 9-inch pie's worth"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon cornstarch",
+    "2 tablespoons cold water",
+    "0.5 cup boiling water",
+    "1 teaspoon vanilla extract",
+    "3 egg whites",
+    "6 tablespoons white sugar",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Blend cornstarch and cold water in a saucepan. Add boiling water, and cook until thick and clear. Cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat egg whites till foamy. Gradually beat in sugar, beating until stiff and glossy. Add salt and vanilla, and slowly beat in cold cornstarch mixture. Beat quickly for several minutes. Spread meringue on filled, cooled 9-inch pie.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake pie at 350 degrees F (175 degrees C) for 10 minutes until tips of meringue begin to brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "48 kcal",
+    "carbohydrateContent": "10 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "92"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vPOkRnkfyZPLLSJUmSzBOPjqiXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/795805-89c60a9f1998496781415a75921cd2e6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12321/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

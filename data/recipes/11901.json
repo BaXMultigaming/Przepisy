@@ -1,0 +1,92 @@
+{
+  "id": "11901",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11901/to-die-for-fettuccini-alfredo/",
+  "requested_url": "https://www.allrecipes.com/recipe/11901/to-die-for-fettuccini-alfredo/",
+  "title": "To Die For Fettuccini Alfredo",
+  "description": "This rich and creamy classic features hot buttered fettuccini tossed with a sinful sauce of butter, heavy cream and Romano cheese, and seasoned with a grating of fresh nutmeg and a dash of black pepper.",
+  "authors": [
+    "Michelle Barr"
+  ],
+  "date_published": "1999-02-06T19:09:26-05:00",
+  "date_modified": "2024-12-05T19:14:03-05:00",
+  "prep_time": null,
+  "cook_time": "PT30M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dry fettuccine pasta",
+    "3 pints heavy whipping cream",
+    "1 cup grated Romano cheese",
+    "4 tablespoons butter",
+    "1 pinch ground nutmeg",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook pasta according to directions on package. Drain and toss with one tablespoon of butter, cover and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium sauce pan over low heat, heat cream and 3 tablespoons of butter, stirring constantly. When cream begins to simmer mix in a small amounts of Romano cheese, stirring constantly, until all cheese is added and sauce has reduced. It should be thick and easily cover the back of a spoon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in nutmeg and black pepper. Toss with warm fettuccini and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "928 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "275 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "48 g",
+    "sodiumContent": "290 mg",
+    "sugarContent": "2 g",
+    "fatContent": "77 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "152"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8bYd1Mpfd1VnK9_MFuiL2WQS7jU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3830163-7b5f4210620d4ac599d96b5235b5461a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11901/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

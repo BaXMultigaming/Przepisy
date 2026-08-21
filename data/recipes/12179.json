@@ -1,0 +1,80 @@
+{
+  "id": "12179",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12179/cherry-cheesecake-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/12179/cherry-cheesecake-pie/",
+  "title": "Cherry Cheesecake Pie",
+  "description": "This is the best cheesecake pie I&#39;ve ever had.",
+  "authors": [
+    "Nancy Reeves"
+  ],
+  "date_published": "1998-05-18T21:26:54-04:00",
+  "date_modified": "2022-07-14T18:12:18-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8",
+    "9 - inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (9 inch) prepared graham cracker crust",
+    "1 (8 ounce) package cream cheese, softened",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 (21 ounce) can cherry pie filling, chilled",
+    "0.5 cup lemon juice",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, beat cream cheese until fluffy. Add condensed milk and mix thoroughly. Stir in lemon juice and vanilla.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into crust. Chill 2 hours. Top with cherry or other pie filling before serving. Refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "494 kcal",
+    "carbohydrateContent": "69 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "329 mg",
+    "sugarContent": "39 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QOzkUPI18BtT6-kNnwTdBGkgjzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/447016-d6a54cc214e840db92e699cc6dfe699f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12179/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

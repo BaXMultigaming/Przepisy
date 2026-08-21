@@ -1,0 +1,88 @@
+{
+  "id": "11912",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11912/old-fashioned-macaroni-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/11912/old-fashioned-macaroni-salad/",
+  "title": "Old Fashioned Macaroni Salad",
+  "description": "For a perfect picnic salad, mix canned tuna with crunchy bell peppers and celery, toss with garlic powder, mayonnaise and mustard, add salt and pepper to taste, then stir in cooked macaroni and chill a bit to let the flavors meld.",
+  "authors": [
+    "Jennie Minor"
+  ],
+  "date_published": "1999-05-31T20:01:46-04:00",
+  "date_modified": "2026-05-11T14:53:11-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups macaroni",
+    "2 (5 ounce) cans tuna, drained",
+    "1 onion, chopped",
+    "1 green bell pepper, chopped",
+    "2 stalks celery, chopped",
+    "2 teaspoons garlic powder",
+    "1.5 cups mayonnaise",
+    "2 tablespoons prepared mustard",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook noodles in a large pot of boiling water until al dente. Rinse under cold water, and drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix tuna, onion, bell pepper, celery, garlic powder, mayonnaise, salt and pepper, and mustard together in a large bowl. Add pasta, and mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "360 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "244 mg",
+    "sugarContent": "2 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "180"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eJHKlT6vgzwZLcUlv8ip6GLPFVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11912-old-fashioned-macaroni-salad-France-C-4x3-1-1e538d9623a74d8e96ebdcedc8822573.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11912/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "12340",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12340/watermelon-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/12340/watermelon-pie/",
+  "title": "Watermelon Pie",
+  "description": "This watermelon pie is made with watermelon jello, diced watermelon, and whipped topping for a simple, delicious, and refreshing summer dessert.",
+  "authors": [
+    "JJOHN32"
+  ],
+  "date_published": "1998-08-03T23:07:12-04:00",
+  "date_modified": "2026-05-15T13:00:08-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT195M",
+  "yield": [
+    "8",
+    "1 (9-inch) pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 (3 ounce) package watermelon flavored Jell-O®",
+    "0.25 cup water",
+    "1 (12 ounce) container frozen whipped topping, thawed",
+    "2 cups watermelon",
+    "1 (9 inch) prepared graham cracker crust"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KAtZDRHkUkPMTy60KR39yUQZpZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12340-watermelon-pie-VAT-005-step-01-198a5cd933144034beb9982c3c1905d7.jpg"
+      ],
+      "image": "assets/images/12340/step_01.webp"
+    },
+    {
+      "text": "Combine Jell-O and hot water in a large bowl; stir until dissolved and cool, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3tonMM0uWGX2uR-XRcsoSuxgqtM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12340-watermelon-pie-VAT-006-step-02-707628d26eb1491fb2ee92dd84126fde.jpg"
+      ],
+      "image": "assets/images/12340/step_02.webp"
+    },
+    {
+      "text": "Fold dessert topping and diced watermelon into gelatin mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fFGetTlECB6xpmxU7TRrAdKlBpY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12340-watermelon-pie-VAT-007-step-03-844e64e7b73c4293a87a8aa49891185d.jpg"
+      ],
+      "image": "assets/images/12340/step_03.webp"
+    },
+    {
+      "text": "Pour mixture into the prepared crust. Cool in the refrigerator until set, about 3 to 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/sibdVfeajsKXQFw_93PcKedP76Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12340-watermelon-pie-VAT-008-step-04-a139fba646a64b83bc9cfd532b543498.jpg"
+      ],
+      "image": "assets/images/12340/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "332 kcal",
+    "carbohydrateContent": "41 g",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "206 mg",
+    "sugarContent": "33 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IBi4b1jIw-_dVRvKdsljzag7Bvc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12340-watermelon-pie-VAT-001-4x3-eb7d12ab4626438f865ba26b7748a976.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12340/hero.webp",
+    "steps": [
+      "assets/images/12340/step_01.webp",
+      "assets/images/12340/step_02.webp",
+      "assets/images/12340/step_03.webp",
+      "assets/images/12340/step_04.webp"
+    ]
+  }
+}

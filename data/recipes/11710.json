@@ -1,0 +1,92 @@
+{
+  "id": "11710",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11710/pasta-with-asparagus/",
+  "requested_url": "https://www.allrecipes.com/recipe/11710/pasta-with-asparagus/",
+  "title": "Pasta with Asparagus",
+  "description": "Fresh asparagus and pasta make a light meal with extra flavor from chicken broth and sliced mushrooms. Tossed with Parmesan cheese, this makes a wonderful dish.",
+  "authors": [
+    "S. Butters"
+  ],
+  "date_published": "1999-02-15T18:55:00-05:00",
+  "date_modified": "2026-04-14T07:04:16-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds fresh asparagus, trimmed and cut into 1 inch pieces",
+    "0.25 cup chicken broth",
+    "0.5 pound fresh mushrooms, sliced",
+    "8 ounces angel hair pasta",
+    "1 tablespoon olive oil",
+    "0.5 teaspoon crushed red pepper",
+    "0.5 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Cook pasta according to package instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a nonstick skillet. Saute asparagus in the pan over medium heat for about 3 minutes. Add chicken broth and mushroom slices; cook 3 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain pasta, and transfer to a serving dish. Gently toss pasta with asparagus mixture; sprinkle with Parmesan and crushed red pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "339 mg",
+    "sugarContent": "4 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "282"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_mdKpQmQa9RPHJx854rWZSdBShg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/398979-pasta-with-asparagus-FNChef-4x3-1-7731fd81d2b24f39a940437f3e214fca.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11710/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "11891",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11891/main-dish-macaroni-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/11891/main-dish-macaroni-salad/",
+  "title": "Main Dish Macaroni Salad",
+  "description": "A rich blend of mayonnaise, milk, Parmesan, garlic, and parsley is tossed with macaroni and tasty ham. This recipe can be served as a side or a main course salad.",
+  "authors": [
+    "Jill M."
+  ],
+  "date_published": "1999-05-11T14:17:24-04:00",
+  "date_modified": "2022-07-14T16:35:01-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT145M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups corkscrew pasta",
+    "1 cup mayonnaise",
+    "0.25 cup grated Parmesan cheese",
+    "0.25 cup chopped parsley",
+    "2 tablespoons milk",
+    "1 clove garlic, minced",
+    "1.5 cups diced ham",
+    "2 cups halved cherry tomatoes"
+  ],
+  "steps": [
+    {
+      "text": "Cook pasta in a large pot of boiling water until al dente. Drain, rinse, and drain once more. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine mayonnaise, grated cheese, parsley, milk, and garlic. Mix well. Stir in pasta, ham, and tomatoes. Chill for several hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "556 mg",
+    "sugarContent": "1 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9SCcOkqqUWl4lTXPfPiR7lMR2uw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/126834-417cd7aaab4e43738e7f15e5c547781e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11891/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "12255",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12255/chocolate-wafer-crust/",
+  "requested_url": "https://www.allrecipes.com/recipe/12255/chocolate-wafer-crust/",
+  "title": "Chocolate Wafer Crust",
+  "description": "This simple and delicious crust of chocolate wafers and butter is perfect for your favorite cheesecake recipe, or for a strawberry and whipped cream pie.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "1998-07-03T13:05:21-04:00",
+  "date_modified": "2026-08-12T12:39:11-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8",
+    "1 pie crust"
+  ],
+  "categories": [
+    "Dessert",
+    "Pie"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups chocolate cookie crumbs",
+    "6 tablespoons butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "Mix crumbs and melted butter or margarine until well blended. Press into an 8 or 9 inch pie plate. Chill until firm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "167 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "183 mg",
+    "sugarContent": "6 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ClPC4BbosNv0Op6wsw-XcmdyPRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3954602-4621077662c5406b831691a5f1e08cbc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12255/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

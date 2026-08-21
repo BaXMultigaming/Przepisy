@@ -1,0 +1,86 @@
+{
+  "id": "12102",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12102/cookies-and-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/12102/cookies-and-cream/",
+  "title": "Cookies and Cream",
+  "description": "This luscious frozen pie is made with chocolate pudding, whipped topping, and lots and lots of crushed chocolate cream-filled cookies. And, the crust is chocolate too.",
+  "authors": [
+    "Kimberly"
+  ],
+  "date_published": "1998-03-13T13:42:49-05:00",
+  "date_modified": "2022-07-14T17:07:28-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT555M",
+  "yield": [
+    "8",
+    "9 - inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (3.9 ounce) package instant chocolate pudding mix",
+    "1 (8 ounce) container frozen whipped topping, thawed",
+    "1 cup crushed chocolate sandwich cookies",
+    "1 (9 inch) prepared chocolate cookie crumb crust"
+  ],
+  "steps": [
+    {
+      "text": "Prepare pudding as directed for pie filling; let set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When pudding is set, fold in whipped topping and crushed cookies. Pour pudding mixture into crust.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Freeze overnight. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "329 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "438 mg",
+    "sugarContent": "26 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/K4toJ6MeXwOogeir6iGdnWd4QCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8163127-ee2ffc26743049a8ac4d0880bb4ec5b1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12102/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

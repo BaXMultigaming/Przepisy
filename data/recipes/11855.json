@@ -1,0 +1,93 @@
+{
+  "id": "11855",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11855/lemon-pasta-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/11855/lemon-pasta-sauce/",
+  "title": "Lemon Pasta Sauce",
+  "description": "This lemon pasta sauce tossed with hot noodles features a rich, tangy blend of butter, beef broth, and cream flavored with lemon juice and lime zest.",
+  "authors": [
+    "MARBALET"
+  ],
+  "date_published": "1999-03-24T10:54:54-05:00",
+  "date_modified": "2025-04-30T16:32:54-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup beef broth",
+    "1 cup heavy whipping cream",
+    "4 tablespoons butter",
+    "2 tablespoons fresh lemon juice",
+    "1 teaspoon lemon zest",
+    "1 teaspoon grated lime zest",
+    "10 ounces uncooked pasta"
+  ],
+  "steps": [
+    {
+      "text": "Combine broth, cream, and butter in a large saucepan or skillet. Bring to a simmer over medium heat; cook until reduced by about half. Stir in lemon juice, lemon zest, and lime zest. Set sauce aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook until tender yet firm to the bite, 8 to 10 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add pasta to sauce and toss until well coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "412 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "131 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "256 mg",
+    "sugarContent": "0 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "209"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FGZUlGJGG_QopkZMBwGVI3I1L8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11855lemon-pasta-sauceLaDOnnaLangwell4x3-c3e25fc5bd794e4782a027cf1aea6dc6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11855/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

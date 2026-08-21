@@ -1,0 +1,91 @@
+{
+  "id": "11970",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11970/easy-chicken-alfredo/",
+  "requested_url": "https://www.allrecipes.com/recipe/11970/easy-chicken-alfredo/",
+  "title": "Easy Chicken Alfredo",
+  "description": "Chicken Alfredo recipe with jar sauce, mixed vegetables, and linguine pasta; easy to make when you need quick and creamy comfort on busy weeknights.",
+  "authors": [
+    "jojolyn"
+  ],
+  "date_published": "1999-02-24T18:43:16-05:00",
+  "date_modified": "2025-10-28T12:40:02-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound uncooked fettuccine or linguine",
+    "2 boneless chicken breast halves, cooked and cubed",
+    "1 (16 ounce) jar Alfredo-style pasta sauce",
+    "1 (10 ounce) package frozen mixed vegetables",
+    "1 (4.5 ounce) can sliced mushrooms",
+    "0.33333334326744 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Cook fettuccine at a boil until tender yet firm to the bite, about 8 minutes. Drain well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the pasta is cooking, place cubed cooked chicken, Alfredo sauce, frozen vegetables, mushrooms, and milk in a large saucepan over medium-low heat. Cook and stir until chicken is heated through and vegetables are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve warm Alfredo and chicken sauce over cooked noodles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "901 kcal",
+    "carbohydrateContent": "100 g",
+    "cholesterolContent": "89 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "1315 mg",
+    "sugarContent": "9 g",
+    "fatContent": "41 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "133"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-kffYE8LMEO9UJSs9mX2vrRhItk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11970easy-chicken-alfredofabeveryday2x1-a4112dbccf3d4149a18eb45435e77115.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11970/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

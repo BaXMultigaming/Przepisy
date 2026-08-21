@@ -1,0 +1,74 @@
+{
+  "id": "11895",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11895/american-chop-suey/",
+  "requested_url": "https://www.allrecipes.com/recipe/11895/american-chop-suey/",
+  "title": "American Chop Suey",
+  "description": "This easy chop suey recipe made with stewed tomatoes, canned spaghetti, and ground beef is a great option for dinner when you&#39;re pressed for time.",
+  "authors": [
+    "Susan Wright"
+  ],
+  "date_published": "1999-05-23T17:15:54-04:00",
+  "date_modified": "2023-03-31T11:40:23-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "0.5 cup chopped celery",
+    "0.5 cup chopped onion",
+    "1 (14.5 ounce) can stewed tomatoes",
+    "2 (15 ounce) cans spaghetti with sauce"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet, cook beef with celery and onion until onion is tender and beef is browned and crumbly, 7 to 10 minutes. Add tomatoes and spaghetti and cook, stirring all together, until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "249 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "565 mg",
+    "sugarContent": "2 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RU56Dlg3BkUspu1-RCSbZqHAoso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2366533-a1bfe18bd37e4ff5b7f2f66449c9225c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11895/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

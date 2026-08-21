@@ -1,0 +1,80 @@
+{
+  "id": "12634",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12634/creamy-lemon-pie-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/12634/creamy-lemon-pie-i/",
+  "title": "Creamy Lemon Pie",
+  "description": "This lemon pie is creamy with Cool Whip and a snap to fix. Condensed milk, lemon, and whipped topping are mixed and poured into graham cracker crust.",
+  "authors": [
+    "Becca Jones"
+  ],
+  "date_published": "1999-02-16T16:05:07-05:00",
+  "date_modified": "2022-12-05T19:09:11-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "8",
+    "1 9-inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.33333334326744 cup fresh lemon juice",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 (12 ounce) container frozen whipped topping, thawed",
+    "1 (9 inch) prepared graham cracker crust"
+  ],
+  "steps": [
+    {
+      "text": "Squeeze juice from lemons into a medium mixing bowl. Stir in condensed milk and whipped topping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into pie crust. Chill until set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "441 kcal",
+    "carbohydrateContent": "57 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "243 mg",
+    "sugarContent": "48 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bEmM4VqbrHbl0nLufnaCuEPdSew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5626625-18781ccb25d34e6680dc9db7f6826b04.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12634/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "11714",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11714/pasta-con-broccoli/",
+  "requested_url": "https://www.allrecipes.com/recipe/11714/pasta-con-broccoli/",
+  "title": "Pasta Con Broccoli",
+  "description": "A creamy, buttery tomato sauce, flavored with garlic and loaded with broccoli, is tossed with cooked noodles and gently simmered. Fresh sliced mushrooms and Parmesan cheese complete the dish.",
+  "authors": [
+    "Phyllis Zeleny"
+  ],
+  "date_published": "1999-02-09T09:11:09-05:00",
+  "date_modified": "2024-11-26T22:34:37-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces dry fettuccine pasta",
+    "1 cup heavy whipping cream",
+    "2 tablespoons butter",
+    "1 ounce tomato sauce",
+    "0.5 teaspoon minced garlic",
+    "0.5 cup broccoli florets",
+    "0.25 cup fresh sliced mushrooms",
+    "salt to taste",
+    "ground black pepper to taste",
+    "2 tablespoons grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Cook fettuccini in a large pot of boiling salted water until \"almost\" done. Drain, and return noodles to pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir cream, butter or margarine, tomato sauce, garlic, and broccoli into the noodles. Simmer until noodles are done. Stir in sliced mushrooms, and remove from heat. Sprinkle with Parmesan cheese, and season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "749 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "198 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "36 g",
+    "sodiumContent": "288 mg",
+    "sugarContent": "3 g",
+    "fatContent": "58 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "166"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NDxLXLCDniC43UHZjHmnoBFtgMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11714pasta-con-broccolimyhotsouthernmess4x3-0a29f48ae3c74abcab9a7ee02f309544.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11714/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

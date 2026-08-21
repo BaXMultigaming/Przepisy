@@ -1,0 +1,81 @@
+{
+  "id": "12080",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12080/chocolate-pudding-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/12080/chocolate-pudding-pie/",
+  "title": "Chocolate Pudding Pie",
+  "description": "This chocolate pudding pie is fun and easy to make with an Jell-O instant pudding mix, a baked pie crust, whipped topping, and gummy worms.",
+  "authors": [
+    "Ketherine Erickson"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2023-07-17T12:28:26-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "1 9-inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (5.9 ounce) package instant chocolate pudding mix",
+    "1 (9 inch) prepared graham cracker crust",
+    "1 (8 ounce) container frozen whipped topping, thawed",
+    "10 gummi worms"
+  ],
+  "steps": [
+    {
+      "text": "Make instant pudding according to the directions on the box. Dump pudding into graham cracker crust.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread whipped topping over pudding. Refrigerate until not too gooey, about 40 minutes. Decorate with gummy worms.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "347 kcal",
+    "carbohydrateContent": "52 g",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "474 mg",
+    "sugarContent": "37 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fQieIBXLNnE2S7vfC3neyeiPb2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2052954-a43b356201e64b30a0dd94b1e4710bd7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12080/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

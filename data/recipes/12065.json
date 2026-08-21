@@ -1,0 +1,97 @@
+{
+  "id": "12065",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12065/classic-alfredo-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/12065/classic-alfredo-sauce/",
+  "title": "Classic Alfredo Sauce",
+  "description": "This traditional Alfredo sauce is made with a combination of butter, cream, egg, nutmeg, and two kinds of cheese to create a luxurious pasta sauce.",
+  "authors": [
+    "B Mason"
+  ],
+  "date_published": "1999-09-11T16:52:54-04:00",
+  "date_modified": "2026-05-12T07:32:46-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons butter",
+    "8 fluid ounces heavy whipping cream",
+    "0.25 cup grated Parmesan cheese",
+    "0.25 cup grated Romano cheese",
+    "1 pinch ground nutmeg",
+    "salt to taste",
+    "1 egg yolk",
+    "2 tablespoons grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a medium saucepan over medium heat. Mix in cream, stirring constantly. Add Parmesan cheese, Romano cheese, nutmeg, and salt; stir constantly until cheese has melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in egg yolk until well combined; simmer and stir over medium-low heat for 3 to 5 minutes. Garnish with additional grated Parmesan cheese, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/aajEByufe1zvWglN3kybd3h7OQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2345812-25d8d064c8924176b4f7c69b4ee0f479.jpg"
+      ],
+      "image": "assets/images/12065/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "666 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "233 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "43 g",
+    "sodiumContent": "499 mg",
+    "fatContent": "68 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1009"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jlQnw0Ez-ma1DlVvV.mp4",
+    "description": "AR0434",
+    "duration": "PT2M26S",
+    "name": "Alfredo Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jlQnw0Ez/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T16:45:22-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aajEByufe1zvWglN3kybd3h7OQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2345812-25d8d064c8924176b4f7c69b4ee0f479.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12065/hero.webp",
+    "steps": [
+      null,
+      "assets/images/12065/step_02.webp"
+    ]
+  }
+}

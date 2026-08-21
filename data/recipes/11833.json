@@ -1,0 +1,91 @@
+{
+  "id": "11833",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11833/fettuccini-with-zucchini/",
+  "requested_url": "https://www.allrecipes.com/recipe/11833/fettuccini-with-zucchini/",
+  "title": "Fettuccini with Zucchini",
+  "description": "Enjoy a fresh and flavorful saute of zucchini, colorful bell peppers and tomatoes seasoned with onion, garlic and a dash of cayenne pepper. Pour over hot fettuccini for a quick and easy meal.",
+  "authors": [
+    "donna garlington"
+  ],
+  "date_published": "1999-03-27T20:00:28-05:00",
+  "date_modified": "2022-07-14T18:09:18-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "5",
+    "6 - servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "1 onion, chopped",
+    "1 clove garlic, minced",
+    "0.5 pound zucchini, julienned",
+    "1 red bell pepper, thinly sliced",
+    "1 green bell pepper, sliced",
+    "2 tomatoes, chopped",
+    "0.5 teaspoon salt",
+    "1 pinch cayenne pepper",
+    "8 ounces dry fettuccine pasta"
+  ],
+  "steps": [
+    {
+      "text": "Cook pasta in a large pot of boiling water until al dente. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the pasta is cooking, prepare the vegetables. In a large skillet, heat oil over medium heat. Add onion, garlic, zucchini and peppers; saute 5 minutes. Add tomatoes, salt, and cayenne pepper. Cook over low heat 5 minutes, or until vegetables are crisp tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour vegetables over hot pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "324 kcal",
+    "carbohydrateContent": "45 g",
+    "fiberContent": "4 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "466 mg",
+    "sugarContent": "5 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Qo0gE3M0cy7YJ6E2IuNQJRkivmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/400913-3e8de7b129084411a5d2e20959bd520f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11833/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

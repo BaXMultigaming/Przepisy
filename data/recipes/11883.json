@@ -1,0 +1,96 @@
+{
+  "id": "11883",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11883/garden-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/11883/garden-pasta-salad/",
+  "title": "Garden Pasta Salad",
+  "description": "This chilled garden pasta salad is loaded with crunchy vegetables, flavored with nutty Parmesan cheese, and tossed in your favorite Italian-style salad dressing.",
+  "authors": [
+    "L Gale"
+  ],
+  "date_published": "1999-05-17T14:25:14-04:00",
+  "date_modified": "2026-06-12T11:15:44-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT15M",
+  "total_time": "PT100M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package tri-color rotini pasta",
+    "2 large tomatoes, diced",
+    "2 stalks celery, chopped",
+    "0.5 cup thinly sliced carrots",
+    "0.5 cup chopped green bell pepper",
+    "0.5 cup cucumber, peeled and thinly sliced",
+    "0.25 cup chopped onion",
+    "1.5 (16 ounce) bottles Italian-style salad dressing, or to taste",
+    "0.5 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil; cook pasta at a boil until tender yet firm to the bite, about 8 minutes. Rinse under cold water, and drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix tomatoes, celery, carrots, bell pepper, cucumber, and onion together in a large bowl. Add cooled pasta, salad dressing, and Parmesan; mix until well combined. Cover and chill for 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LaEAH_b51s4ydqWODbx3LlSlIuE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11883-garden-pasta-salad-VAT-Beauty-4x3-1e10e6a85f4449b0b4a76248e3a4e4dd.jpg"
+      ],
+      "image": "assets/images/11883/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "385 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1174 mg",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "514"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/77vr7fBZ-ma1DlVvV.mp4",
+    "description": "Watch how to make a spiral pasta salad with garden fresh veggies.",
+    "duration": "PT4M16S",
+    "name": "0692 Garden Pasta Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/77vr7fBZ/thumbnails/2WRqVWNh.jpg?width=1280",
+    "uploadDate": "2021-07-15T07:41:48-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LaEAH_b51s4ydqWODbx3LlSlIuE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11883-garden-pasta-salad-VAT-Beauty-4x3-1e10e6a85f4449b0b4a76248e3a4e4dd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11883/hero.webp",
+    "steps": [
+      null,
+      "assets/images/11883/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "12023",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12023/one-dish-broccoli-rotini/",
+  "requested_url": "https://www.allrecipes.com/recipe/12023/one-dish-broccoli-rotini/",
+  "title": "One Dish Broccoli Rotini",
+  "description": "Try giving extra flavor to pasta by boiling it in the same water used to cook broccoli. Combine the pasta and broccoli with sauteed garlic and Parmesan, add salt and pepper to taste, then serve!",
+  "authors": [
+    "Maria Magee"
+  ],
+  "date_published": "1999-02-17T09:50:59-05:00",
+  "date_modified": "2025-04-02T12:26:31-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "16 ounces fresh broccoli, chopped",
+    "1 (16 ounce) package rotini pasta",
+    "2 cloves garlic, minced",
+    "0.5 cup olive oil",
+    "0.5 cup grated Parmesan cheese",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot, cook broccoli in boiling water until tender. Drain broccoli, but reserve cooking water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reusing broccoli cooking water, cook rotini pasta until al dente. Drain and remove pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pot, saute the garlic in the olive oil. Add the cooked pasta, broccoli, grated Parmesan cheese and toss together. If desired, add salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "362 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "98 mg",
+    "sugarContent": "3 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8bnacLrnX75M2pCguMl_IZx8L34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2339529-13ff368dd7b14a4e9407f0d51ca674bf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12023/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

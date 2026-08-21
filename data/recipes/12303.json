@@ -1,0 +1,103 @@
+{
+  "id": "12303",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12303/peanutty-ice-cream-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/12303/peanutty-ice-cream-pie/",
+  "title": "Peanutty Ice Cream Pie",
+  "description": "This peanutty ice cream pie recipe mixes soft vanilla ice cream with coconut and chopped peanuts, then spreads into a chopped peanut crust and freezes.",
+  "authors": [
+    "Debbie Rowe"
+  ],
+  "date_published": "1998-07-22T23:39:10-04:00",
+  "date_modified": "2025-06-25T17:24:39-04:00",
+  "prep_time": "PT25M",
+  "cook_time": null,
+  "total_time": "PT520M",
+  "yield": [
+    "8",
+    "1 (9-inch) pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.3333333730698 cups finely chopped peanuts",
+    "3 tablespoons margarine, melted",
+    "2 tablespoons white sugar",
+    "0.25 cup peanut butter",
+    "0.25 cup light corn syrup",
+    "0.25 cup flaked coconut",
+    "3 tablespoons chopped peanuts",
+    "1 quart vanilla ice cream, softened",
+    "0.25 cup mini candy-coated chocolate pieces"
+  ],
+  "steps": [
+    {
+      "text": "Grease a 9-inch pie plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine 1 ⅓ cups peanuts, butter, and sugar in a bowl until well mixed; press into the bottom and up the sides of the prepared pie plate. Cover and refrigerate for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine peanut butter and corn syrup in a large bowl; stir in coconut and 3 tablespoons peanuts and mix well. Stir in ice cream just until combined; spoon into crust and evenly smooth top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and freeze until firm, 8 hours to overnight. Sprinkle with mini candy-coated chocolate pieces before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "439 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "253 mg",
+    "sugarContent": "28 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JC8q08k8Cu2umyMgb8tDn_zQvNM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1006535-bb31df1bf9f84be1b7dc5daacd654dc4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12303/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

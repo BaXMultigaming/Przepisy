@@ -1,0 +1,110 @@
+{
+  "id": "12003",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12003/chicken-macaroni-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/12003/chicken-macaroni-salad/",
+  "title": "Chicken Macaroni Salad",
+  "description": "Toss cooked macaroni with a simple mix of chicken, corn, peas, carrots, shredded lettuce, mayonnaise and dried basil for a colorfully delicious chilled salad.",
+  "authors": [
+    "purple"
+  ],
+  "date_published": "1999-02-26T15:57:00-05:00",
+  "date_modified": "2025-04-16T11:51:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT240M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 pounds skinless, boneless chicken breast halves",
+    "2 cups macaroni",
+    "1 (15 ounce) can mixed vegetables, drained",
+    "2 cups shredded lettuce",
+    "3 cups mayonnaise",
+    "0.25 tablespoon dried basil",
+    "salt and pepper to taste",
+    "1 pinch garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "In a medium skillet over medium heat, cook chicken until no longer pink and juices run clear. Let rest until cool enough to handle, then shred with two forks. Set aside 4 cups of shredded meat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium pot with boiling salted water cook elbow macaroni until al dente. Drain and rinse under cold water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a large bowl mix together the cooked chicken, drained vegetables, shredded lettuce, and mayonnaise. Add basil, pepper, salt, and garlic powder to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add drained elbow macaroni to chicken mixture. Toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Refrigerate for several hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "699 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "91 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "545 mg",
+    "sugarContent": "1 g",
+    "fatContent": "54 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MfrQcSBeV1BfWVu-l9owAvp5Jx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12003chicken-macaroni-saladTammyLynn4c3-2b1df77d5d8b4f8c8add79e486f51be7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12003/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

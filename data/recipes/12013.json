@@ -1,0 +1,89 @@
+{
+  "id": "12013",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12013/moms-spaghetti-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/12013/moms-spaghetti-sauce/",
+  "title": "Mom&#39;s Spaghetti Sauce",
+  "description": "This spaghetti sauce with ground beef parsley, and onions is made with a pleasing blend of tomato juice, tomato sauce, and Worcestershire for an extra kick.",
+  "authors": [
+    "Ronda Kirsch"
+  ],
+  "date_published": "1999-02-22T17:13:41-05:00",
+  "date_modified": "2024-11-26T22:20:09-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT70M",
+  "total_time": "PT80M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Pasta"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 medium onion, chopped",
+    "7 tablespoons olive oil",
+    "0.25 cup chopped fresh parsley",
+    "1 (46 fluid ounce) can tomato juice",
+    "1.5 (15 ounce) cans tomato sauce",
+    "2 teaspoons Worcestershire sauce",
+    "2 teaspoons salt",
+    "0.25 teaspoon garlic salt",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine ground beef, onion, olive oil, and parsley in a large skillet over medium heat. Cook and stir until onions are soft and ground beef is cooked through, 8 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour tomato juice and tomato sauce into a large pot over medium heat. Add ground beef mixture, Worcestershire sauce, salt, garlic salt, and pepper. Simmer for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "308 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1539 mg",
+    "sugarContent": "10 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DlAhI82nK9JXZ4qiZirbgWI7tNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/844356-fd5fe0fbb84e4388ae8fb05ae14dc47d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12013/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

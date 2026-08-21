@@ -1,0 +1,84 @@
+{
+  "id": "11711",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11711/italian-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/11711/italian-pasta-salad/",
+  "title": "Pasta and Vegetable Salad",
+  "description": "This pasta salad with mixed vegetables, olives, and cubed cheese is tossed in Italian dressing and can be made with any assortment of frozen veggies.",
+  "authors": [
+    "Janet Eckermann"
+  ],
+  "date_published": "1999-02-16T09:25:39-05:00",
+  "date_modified": "2024-02-05T08:28:47-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT60M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces rotini pasta",
+    "2.5 cups frozen mixed vegetables",
+    "0.5 cup diced Cheddar cheese",
+    "0.33329999446869 cup pitted black olives",
+    "1 cup Italian-style salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Cook pasta according to package directions. Drain and rinse with cold water until completely cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine cooked pasta, mixed vegetables, Cheddar cheese, and olives in a large bowl. Toss well with dressing. Serve chilled or at room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "338 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "809 mg",
+    "sugarContent": "5 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GLp6YaHcQKkXuJQz6HRYxVZrzg4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11711italian-pasta-saladTammyLynn4x3-1802a524e8454297be38467fcecbe095.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11711/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

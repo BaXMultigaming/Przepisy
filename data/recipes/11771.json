@@ -1,0 +1,112 @@
+{
+  "id": "11771",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11771/easy-pizza-sauce-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/11771/easy-pizza-sauce-i/",
+  "title": "Easy Homemade Pizza Sauce",
+  "description": "This pizza sauce is a simple, no-cook recipe made with just 5 ingredients: tomato paste, olive oil, garlic, oregano, basil, and rosemary.",
+  "authors": [
+    "Frank Sweterlitsch"
+  ],
+  "date_published": "1999-03-06T19:27:07-05:00",
+  "date_modified": "2025-11-03T10:42:42-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "2 1/2 cups"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "1 (6 ounce) can tomato paste",
+    "0.33333334326744 cup extra virgin olive oil",
+    "2 cloves garlic, minced",
+    "0.5 tablespoon dried oregano",
+    "0.5 tablespoon dried basil",
+    "0.5 teaspoon dried rosemary, crushed",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kO2FZZpIeWPpmyG3FrQeC-xjmjU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11771-easy-homemade-pizza-sauce-DDMFS-4x3-step-01-2f30d4a44ac9491eac8b6db68cac56f9.jpg"
+      ],
+      "image": "assets/images/11771/step_01.webp"
+    },
+    {
+      "text": "Mix together water, tomato paste, and olive oil in a large bowl or jar. Add garlic, oregano, basil, rosemary, salt, and pepper; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/I8TQE7amTqiUSaxuN0cXRtqeRpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11771-easy-homemade-pizza-sauce-DDMFS-4x3-step-02-61e6dbb4b8154c53b65d9450ed72baf3.jpg"
+      ],
+      "image": "assets/images/11771/step_02.webp"
+    },
+    {
+      "text": "For best results, let sauce stand for several hours to allow the flavors to blend. No cooking is necessary; just spread on pizza crust.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4lq_X3VBAgznQR82um-83FpZUAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11771-easy-homemade-pizza-sauce-DDMFS-4x3-beauty-bca339ff20164b66a4bb4bd3efc37e94.jpg"
+      ],
+      "image": "assets/images/11771/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "104 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "170 mg",
+    "sugarContent": "3 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "574"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/5gWTjFOW-ma1DlVvV.mp4",
+    "description": "AR0929",
+    "duration": "PT2M49S",
+    "name": "Easy Pizza Sauce I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5gWTjFOW/thumbnails/MsL2rKXE.jpg?width=1280",
+    "uploadDate": "2021-07-08T08:16:37-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4lq_X3VBAgznQR82um-83FpZUAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-11771-easy-homemade-pizza-sauce-DDMFS-4x3-beauty-bca339ff20164b66a4bb4bd3efc37e94.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11771/hero.webp",
+    "steps": [
+      "assets/images/11771/step_01.webp",
+      "assets/images/11771/step_02.webp",
+      "assets/images/11771/step_03.webp"
+    ]
+  }
+}

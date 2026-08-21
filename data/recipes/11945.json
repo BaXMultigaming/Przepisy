@@ -1,0 +1,85 @@
+{
+  "id": "11945",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11945/easy-alfredo-sauce-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/11945/easy-alfredo-sauce-i/",
+  "title": "Easy Alfredo Sauce",
+  "description": "Use heavy cream for pasta Alfredo, a rich dish with a velvety, smooth, easy cream sauce made with 3 ingredients, including butter and Parmesan cheese.",
+  "authors": [
+    "Kathy Rose"
+  ],
+  "date_published": "1999-05-15T14:49:17-04:00",
+  "date_modified": "2026-01-02T17:11:01-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Condiment",
+    "Pasta"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint heavy whipping cream",
+    "1.5 cups grated Parmesan cheese",
+    "0.5 cup butter"
+  ],
+  "steps": [
+    {
+      "text": "Combine whipping cream, grated Parmesan cheese, and butter in a medium saucepan. Cook and stir over medium-low heat until smooth. Remove from heat; sauce will thicken as it sits.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/roGdXUOD_2C0U_VXJlRi6C57_l4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3334325-2527e8dde34c4005affc473ea09091f3.jpg"
+      ],
+      "image": "assets/images/11945/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "372 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "125 mg",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "24 g",
+    "sodiumContent": "334 mg",
+    "sugarContent": "0 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "837"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/XgvlQ1RL-ma1DlVvV.mp4",
+    "description": "AR0672",
+    "duration": "PT1M50S",
+    "name": "Easy Alfredo Sauce I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/XgvlQ1RL/poster.jpg?width=1280",
+    "uploadDate": "2021-07-03T00:17:25-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/roGdXUOD_2C0U_VXJlRi6C57_l4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3334325-2527e8dde34c4005affc473ea09091f3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11945/hero.webp",
+    "steps": [
+      "assets/images/11945/step_01.webp"
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "11821",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11821/tomato-alfredo/",
+  "requested_url": "https://www.allrecipes.com/recipe/11821/tomato-alfredo/",
+  "title": "Tomato Alfredo",
+  "description": "For a simple pasta with tomato Alfredo sauce, toss peas, chopped tomatoes, tart sour cream, salt, pepper and Parmesan cheese to make a tasty dish.",
+  "authors": [
+    "Nancy"
+  ],
+  "date_published": "1999-04-01T14:00:28-05:00",
+  "date_modified": "2025-01-22T17:10:08-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dry fettuccine pasta",
+    "0.75 cup frozen green peas",
+    "1 (14.5 ounce) can diced tomatoes",
+    "1 cup low-fat sour cream",
+    "0.75 cup grated Parmesan cheese",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Cook fettuccine at a boil until tender yet firm to the bite, about 8 minutes, adding peas just before pasta is done. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine tomatoes, sour cream, Parmesan, and 1/4 cup reserved juice. Add pasta and peas. Season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "340 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "298 mg",
+    "sugarContent": "5 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "76"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0DE_IqBXVv5swsfXnjHKd8vaSwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/99626-eba826bda67e43088841a138f85b9b96.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11821/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

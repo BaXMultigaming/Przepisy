@@ -1,0 +1,79 @@
+{
+  "id": "11846",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11846/bechamel-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/11846/bechamel-sauce/",
+  "title": "Bechamel Sauce",
+  "description": "This bechamel sauce recipe makes a creamy white sauce with chicken broth, cream, butter, and flour flavored with grated onion, white pepper, and thyme.",
+  "authors": [
+    "Holly"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-01-22T15:22:02-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons butter",
+    "2 tablespoons grated onion",
+    "2 tablespoons all-purpose flour",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground white pepper",
+    "1 cup half-and-half",
+    "1 cup chicken broth",
+    "1 pinch dried thyme",
+    "1 pinch ground cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a small saucepan over medium-low heat; stir in onion, flour, salt, and white pepper. Stir in half-and-half and chicken broth; cook, stirring frequently, at medium heat until thickened. Off heat, stir in thyme and cayenne pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "52 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "147 mg",
+    "sugarContent": "0 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "175"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XSL8LM65ROoMzKtADSNiXNH4Tyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11846-bechamel-sauce-Alberto-Arturo-Bejarano-4x3-ead917b7412642a98df40b31a6eff963.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11846/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

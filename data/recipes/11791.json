@@ -1,0 +1,97 @@
+{
+  "id": "11791",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11791/spaghetti-carbonara-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/11791/spaghetti-carbonara-i/",
+  "title": "Spaghetti Carbonara I",
+  "description": "Fry up some bacon and scrambled eggs, then toss with cooked spaghetti, olive oil and Parmesan cheese for a quick, savory meal.",
+  "authors": [
+    "Marian Collins"
+  ],
+  "date_published": "1999-03-12T16:32:42-05:00",
+  "date_modified": "2022-07-14T16:04:39-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 pound spaghetti",
+    "1 pound bacon, chopped",
+    "4 eggs, well beaten",
+    "1 cup grated Parmesan cheese",
+    "0.25 cup olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, reserving some of the drippings, crumble and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Scramble eggs in bacon drippings.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place spaghetti in a large bowl. Pour in olive oil, and mix well; use enough to just moisten spaghetti. Stir in bacon, eggs, and Parmesan cheese. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "601 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "163 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "832 mg",
+    "sugarContent": "2 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/16d-woiyYYM1e9D7W_ldcm8GrF8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2434057-fc8814272f4841a3a26230d1962859e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11791/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

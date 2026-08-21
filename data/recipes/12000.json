@@ -1,0 +1,93 @@
+{
+  "id": "12000",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12000/linguine-with-white-clam-sauce-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/12000/linguine-with-white-clam-sauce-i/",
+  "title": "Easy Linguine with White Clam Sauce",
+  "description": "This easy linguine white clam sauce recipe is a snap: Simmer clams, clam juice, and parsley in an olive oil and garlic base, then toss with linguine. Dinner is served!",
+  "authors": [
+    "JANBLIDEN"
+  ],
+  "date_published": "1999-02-27T17:24:31-05:00",
+  "date_modified": "2026-05-20T12:00:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package linguine pasta",
+    "1 tablespoon olive oil",
+    "3 cloves garlic, minced",
+    "2 (6.5 ounce) cans minced clams, with juice",
+    "0.25 cup clam juice",
+    "1 tablespoon chopped fresh parsley",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook linguine in a large pot of salted boiling water until al dente.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, cook olive oil and garlic in a medium saucepan over medium heat until garlic is fragrant. Add chopped clams, clam juice, and parsley. Add salt and ground black pepper to taste. Bring to a boil. Lower heat and simmer for 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss pasta with clam sauce. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "457 kcal",
+    "carbohydrateContent": "70 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "114 mg",
+    "sugarContent": "3 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "115"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/S_mKMr98KUoBzWX21jBlJwH6pzc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2349032-linguine-with-white-clam-sauce-i-yourstruly1419-4x3-1-1ff4bf9962654c5da72e21eafafee394.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12000/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

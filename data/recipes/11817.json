@@ -1,0 +1,105 @@
+{
+  "id": "11817",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11817/pepperoni-penne/",
+  "requested_url": "https://www.allrecipes.com/recipe/11817/pepperoni-penne/",
+  "title": "Pepperoni Penne",
+  "description": "This snappy sauce starts with sautéed slices of spicy pepperoni with shallots and garlic added to the pan. Chopped tomatoes, cream, and parsley jump in for a quick simmer before merging with hot pasta. Grate Parmesan over the top to finish.",
+  "authors": [
+    "Melissa"
+  ],
+  "date_published": "1999-02-09T14:58:54-05:00",
+  "date_modified": "2023-02-10T17:53:37-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT25M",
+  "total_time": "PT50M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package penne pasta",
+    "0.75 pound sliced pepperoni sausage",
+    "2 tablespoons minced shallots",
+    "1 clove garlic, minced",
+    "4 medium tomato - peeled, seeded and chopped",
+    "1 cup heavy whipping cream",
+    "0.25 cup chopped fresh parsley",
+    "2 tablespoons grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Cook penne according to the package directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet, sauté pepperoni until crispy, 5 to 8 minutes. Drain all but 1 tablespoon grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add shallot and garlic to grease in the skillet. Cook until translucent. Stir in tomatoes and simmer for about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in cream and cook until reduced, about 8 minutes. Add parsley and remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add pasta and toss. Garnish with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "533 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "87 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "741 mg",
+    "sugarContent": "4 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "64"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/r2yKrmyIKStW-ln_WyL6Idh6izc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3616475-pepperoni-penne-mslolA-4x3-1-116118c4a7774bd387de1512c3f002bd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11817/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

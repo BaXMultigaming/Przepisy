@@ -1,0 +1,79 @@
+{
+  "id": "12244",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12244/clarke-cheesecake-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/12244/clarke-cheesecake-pie/",
+  "title": "Clarke Cheesecake Pie",
+  "description": "This pie is a snap to make. Cream cheese, milk, vanilla and lots of lemon juice are blended until smooth and creamy. Then the mixture is poured into a graham cracker crust and chilled for a few hours. Garnish with mint and lemon slices.",
+  "authors": [
+    "Belina Clarke"
+  ],
+  "date_published": "1998-06-30T17:02:33-04:00",
+  "date_modified": "2022-07-14T16:03:10-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8",
+    "1 pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (9 inch) prepared graham cracker crust",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 (8 ounce) package cream cheese, softened",
+    "1 tablespoon vanilla extract",
+    "0.25 cup lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Blend together cream cheese and milk. Stir in vanilla. Add lemon juice 1 teaspoon at a time, blending well after each addition.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour filling into a 9 inch graham cracker crust. Refrigerate for 4 hours, or overnight to set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "409 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "316 mg",
+    "sugarContent": "39 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OOEN8qzJVywW2sSimnMwI2TVitQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1371691-6216fa9ed1614fc88b5252d8580356ff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12244/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

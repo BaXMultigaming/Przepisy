@@ -1,0 +1,90 @@
+{
+  "id": "11977",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11977/pecos-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/11977/pecos-pasta/",
+  "title": "Pecos Pasta",
+  "description": "A sweet saute of bell peppers and onions is stirred into canned chili with beans and canned corn to make a quick and hearty sauce for cooked macaroni. Try grating Cheddar cheese and sprinkling olive slices over the top.",
+  "authors": [
+    "Dianne VanHuss"
+  ],
+  "date_published": "1999-03-10T12:29:40-05:00",
+  "date_modified": "2022-07-14T16:10:07-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces macaroni",
+    "1 tablespoon butter",
+    "1 green bell pepper, chopped",
+    "1 onion, chopped",
+    "1 (8.75 ounce) can whole kernel corn, drained",
+    "1 (15 ounce) can chili with beans",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot of boiling salted water cook macaroni past until al dente. Drain well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a large skillet melt the butter or margarine and add chopped green bell pepper and chopped onion. Cook vegetables until tender. Add chili beans, corn, salt and pepper. Simmer on low heat for 5 minutes. Stir in cooked and drained macaroni. Cover and cook on low 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "315 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1336 mg",
+    "sugarContent": "6 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dWv2N5FFSm0XHgbOXBUsgLE1V5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2059731-ea923d4ae79446b1a0eb009e1f0b5d84.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11977/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

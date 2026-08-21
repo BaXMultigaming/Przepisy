@@ -1,0 +1,124 @@
+{
+  "id": "11914",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11914/taco-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/11914/taco-casserole/",
+  "title": "Taco Casserole",
+  "description": "For a fun and flavorful baked fiesta, cook ground beef and chopped onions with tomato soup, diced tomatoes and taco seasoning mix. Add cooked macaroni and bake with a scrumptious topping of corn chips, Cheddar and Monterey Jack cheese!",
+  "authors": [
+    "Debi Van Name"
+  ],
+  "date_published": "1999-03-16T12:48:53-05:00",
+  "date_modified": "2026-08-17T12:56:06-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT35M",
+  "total_time": "PT60M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Tex-Mex"
+  ],
+  "regions": [
+    "Tex-Mex"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "8 ounces macaroni",
+    "0.5 cup chopped onion",
+    "1 (10.75 ounce) can condensed tomato soup",
+    "1 (14.5 ounce) can diced tomatoes",
+    "1 (1.25 ounce) package taco seasoning mix",
+    "2 ounces shredded Cheddar cheese",
+    "2 ounces shredded Monterey Jack cheese",
+    "1 cup crushed tortilla chips",
+    "0.5 cup sour cream",
+    "0.25 cup chopped green onions"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook pasta in a large pot of boiling water until al dente. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet, cook and stir ground beef and chopped onion over medium heat until brown. Mix in tomato soup, diced tomatoes, and taco seasoning mix. Stir in pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon beef mixture into a 9x13 inch baking dish. Sprinkle crumbled taco chips and grated cheese on top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 30 to 35 minutes, until the cheese is melted. Serve with chopped green onions and sour cream, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BWG4QCskezIQA29bVgQJnuGRPwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45010-503ec6e3ed1c4b41802d475569429007.jpg"
+      ],
+      "image": "assets/images/11914/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "334 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "635 mg",
+    "sugarContent": "5 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "1030"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/mNoBlCRj-ma1DlVvV.mp4",
+    "description": "AR0723",
+    "duration": "PT2M51S",
+    "name": "Taco Casserole",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/mNoBlCRj/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T11:33:52-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BWG4QCskezIQA29bVgQJnuGRPwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45010-503ec6e3ed1c4b41802d475569429007.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11914/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/11914/step_05.webp"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "11869",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/11869/summertime-tuna-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/11869/summertime-tuna-pasta-salad/",
+  "title": "Summertime Tuna Pasta Salad",
+  "description": "This summertime tuna pasta salad recipe tosses crisp, fresh broccoli, carrots, celery, and cucumber with pasta, creamy salad dressing, and dried dill.",
+  "authors": [
+    "CORWYNN DARKHOLME"
+  ],
+  "date_published": "1999-04-10T20:19:48-04:00",
+  "date_modified": "2025-06-25T15:43:00-04:00",
+  "prep_time": "PT25M",
+  "cook_time": null,
+  "total_time": "PT25M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup creamy salad dressing (e.g. Miracle Whip)",
+    "1 teaspoon dried dill weed",
+    "0.5 teaspoon ground black pepper",
+    "2 cups elbow macaroni",
+    "1 cup broccoli florets",
+    "1 cup chopped carrots",
+    "1 cup sliced celery",
+    "1 cup cucumber - peeled, seeded and chopped",
+    "1 (5 ounce) can tuna, drained"
+  ],
+  "steps": [
+    {
+      "text": "Combine salad dressing, dill, and black pepper in a large bowl until well mixed. Stir in macaroni, broccoli, carrots, celery, cucumber, and tuna until well blended. Cover the bowl; refrigerate until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "221 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "287 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1JSTX14MCMeC9RY9RjY_UKHC2TY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8149191-dee44d5c3d4646f7a73ec15ccbbe491e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/11869/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

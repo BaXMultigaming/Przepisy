@@ -1,0 +1,103 @@
+{
+  "id": "12280",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12280/magic-lemon-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/12280/magic-lemon-pie/",
+  "title": "Magic Lemon Pie",
+  "description": "Sweetened condensed milk, egg yolks and lemon juice are combined and poured into a graham cracker crust. Egg whites are sugared, beaten into a stiff meringue and spooned onto the lemon filling. The pie is then slipped into a hot oven until the meringue turns golden.",
+  "authors": [
+    "JANE HUEY"
+  ],
+  "date_published": "1998-07-05T12:50:26-04:00",
+  "date_modified": "2026-04-09T12:09:14-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8",
+    "1 pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (9 inch) prepared graham cracker crust",
+    "0.5 cup lemon juice",
+    "1 (14 ounce) can sweetened condensed milk",
+    "2 eggs, separated",
+    "0.25 teaspoon cream of tartar",
+    "4 tablespoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Blend sweetened condensed milk and egg yolks together. Gradually add lemon juice, stirring until mixture thickens and is well blended. Pour filling into crust.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In another bowl, beat room temperature egg whites with cream of tartar until foamy. Gradually add sugar, and continue beating until egg whites are stiff. Carefully spread meringue over filling, sealing the edges.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 400 degrees F (205 degrees C) until meringue browns, about 6 minutes. Cool. Refrigerate uneaten portions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/v4RFtSxc6QEGyV1zK8yDaReR2mY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12280_Magic-Lemon-Pie_naples34102_4562865_original-1x1-1-87897d12531c44ceb353571ee85f63e8.jpg"
+      ],
+      "image": "assets/images/12280/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "351 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "63 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "251 mg",
+    "sugarContent": "45 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "176"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/6Y7ABIxo-K3AjnAEN.mp4",
+    "description": "This is quite a magic pie! It’s super simple to assemble and what a delicious treat to have as the result! Creamy condensed milk is the base for this pie, while lemon juice and eggs add structure and the sweet and tart flavors. Top it all off with soft and cloud-like meringue – pie full of magic!",
+    "duration": "PT50S",
+    "name": "Magic Lemon Pie",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/6Y7ABIxo/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:34:39-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/v4RFtSxc6QEGyV1zK8yDaReR2mY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12280_Magic-Lemon-Pie_naples34102_4562865_original-1x1-1-87897d12531c44ceb353571ee85f63e8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12280/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/12280/step_03.webp"
+    ]
+  }
+}
