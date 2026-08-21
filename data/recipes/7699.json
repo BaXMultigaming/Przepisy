@@ -1,0 +1,75 @@
+{
+  "id": "7699",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7699/mocha-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/7699/mocha-cream/",
+  "title": "Mocha Cream",
+  "description": "This mocha whipped cream is a tasty coffee-flavored cream perfect for fillings and frostings. A delicious spin on vanilla whipped cream to enjoy.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-09-24T11:33:55-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "16",
+    "4 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups heavy whipping cream",
+    "2 tablespoons white sugar",
+    "1 tablespoon instant coffee powder",
+    "1 tablespoon boiling water"
+  ],
+  "steps": [
+    {
+      "text": "Beat whipping cream and sugar together in a mixing bowl until stiff.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dissolve coffee granules in boiling water. Cool. Add to whipped cream and beat in. Keep mocha cream refrigerated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "109 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "41 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "2 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Qrkri01edQPDHYT_wzA5ka3KeUY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20668-b5717b922ec44d7fb2aa41285ba22298.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7699/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

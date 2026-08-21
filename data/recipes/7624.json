@@ -1,0 +1,81 @@
+{
+  "id": "7624",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7624/white-mountain-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/7624/white-mountain-frosting/",
+  "title": "White Mountain Frosting",
+  "description": "This white mountain frosting is a very good frosting. You can flavor it with any flavoring extract to suit your taste.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "1998-06-03T13:18:35-04:00",
+  "date_modified": "2022-11-20T06:56:16-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups white sugar",
+    "1 cup water",
+    "0.25 teaspoon cream of tartar",
+    "3 large egg whites",
+    "1 teaspoon vanilla extract",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Stir sugar, water, and cream of tartar together in a saucepan over medium heat. Cover and bring to a boil, then uncover and cook until a candy thermometer reaches 238 degrees F (115 degrees C), 5 to 7 minutes; syrup should spin a long thread when dripped from a spoon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the syrup is cooking, beat egg whites in the bowl of a stand mixer with the whisk attachment until stiff peaks form.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the syrup has reached temperature, slowly pour a thin stream into egg whites, beating constantly, until frosting stands in peaks. Stir in vanilla and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "75 kcal",
+    "carbohydrateContent": "19 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "10 mg",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2NeTkCyU45ya6IjmbymckvAVTRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3365837-139b59d591db49eaa45e2e3773911829.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7624/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "8080",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8080/amazing-corn-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/8080/amazing-corn-cake/",
+  "title": "Amazing Corn Cake",
+  "description": "This is a moist spice cake with a &#39;secret&#39; ingredient. They will never guess!",
+  "authors": [
+    "lois"
+  ],
+  "date_published": "1998-10-09T09:31:26-04:00",
+  "date_modified": "2022-08-08T10:48:05-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "18",
+    "13 - x inch pan"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14.75 ounce) can cream-style corn",
+    "0.5 cup packed brown sugar",
+    "0.75 cup white sugar",
+    "3 eggs",
+    "1 cup vegetable oil",
+    "1 tablespoon baking powder",
+    "2.25 cups all-purpose flour",
+    "1 teaspoon baking soda",
+    "1 teaspoon salt",
+    "1 teaspoon ground cinnamon",
+    "0.5 cup raisins",
+    "0.5 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Stir together flour, baking powder, baking soda, cinnamon, and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a mixing bowl, combine corn and sugars. Beat in eggs and oil till well blended. Mix flour mixture into batter. Stir in raisins and nuts. Pour batter into greased 9 x 13 inch pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 350 degrees F (175 degrees C) for 30 to 35 minutes, or till cake tests done. Cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "283 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "360 mg",
+    "sugarContent": "18 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Y7SCMMiSVSReFIuBKv3-uLkU8l4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/504252-8e99f5aca228494cb7872771df0848ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8080/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

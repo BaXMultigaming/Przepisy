@@ -1,0 +1,93 @@
+{
+  "id": "7777",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7777/strawberry-marble-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/7777/strawberry-marble-cake/",
+  "title": "Strawberry Marble Cake",
+  "description": "This strawberry marble cake is a beautiful dessert made with convenient ingredients like cake mix, gelatin mix, whipped topping mix, and pudding mix.",
+  "authors": [
+    "K Cipriano"
+  ],
+  "date_published": "1998-06-22T13:18:31-04:00",
+  "date_modified": "2023-03-31T15:49:12-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT25M",
+  "total_time": "PT200M",
+  "yield": [
+    "15",
+    "1 9x13-inch cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (18.25 ounce) package marble cake mix",
+    "1 (3 ounce) package strawberry flavored Jell-O®",
+    "1 cup boiling water",
+    "1 (1.3 ounce) envelope whipped topping mix",
+    "1 (3.5 ounce) package instant vanilla pudding mix",
+    "2 cups milk",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Prepare and bake marble cake as directed on the box. Let cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Poke holes in cooled cake with a fork. Dissolve strawberry gelatin in 1 cup boiling water. Pour gelatin over cake, then refrigerate for 2 1/2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix whipped topping mix, pudding mix, milk, and vanilla in a mixing bowl with an electric mixer on high speed until frosting is thick enough for spreading, about 3 to 5 minutes. Frost the cake and serve. Store any leftovers in the refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "211 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "387 mg",
+    "sugarContent": "29 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RbaiF7RVhBX-5aNNH69EZUkdQ4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4954155-5c2ddebc25424e5cbf1380dd57906ff5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7777/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

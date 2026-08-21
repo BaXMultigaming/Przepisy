@@ -1,0 +1,75 @@
+{
+  "id": "7554",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7554/banana-butter-icing/",
+  "requested_url": "https://www.allrecipes.com/recipe/7554/banana-butter-icing/",
+  "title": "Banana Butter Icing",
+  "description": "Can be used on banana cake, white cake or peanut butter cake.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "1998-05-12T13:36:30-04:00",
+  "date_modified": "2026-08-07T22:49:24-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "11"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter, softened",
+    "0.5 cup mashed bananas",
+    "0.5 teaspoon lemon juice",
+    "0.5 teaspoon vanilla extract",
+    "3.25 cups confectioners' sugar"
+  ],
+  "steps": [
+    {
+      "text": "Cream together butter, banana, lemon juice and vanilla. Slowly beat in confectioners’ sugar, adding more if needed to make a nice fluffy, spreadable icing. Makes about 2 1/3 cups.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "30 mg",
+    "sugarContent": "36 g",
+    "fatContent": "4 g",
+    "servingSize": "2 1/3 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cFMwk_wUQ5-2e2VSZk32mZVUCmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1092589-1e6bae929d2c474fafac8d002ca5a801.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7554/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

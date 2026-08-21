@@ -1,0 +1,88 @@
+{
+  "id": "7741",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7741/banana-split-cheesecake/",
+  "requested_url": "https://www.allrecipes.com/recipe/7741/banana-split-cheesecake/",
+  "title": "Banana Split Cheesecake",
+  "description": "A good no-bake cheesecake. It tastes just like its name.",
+  "authors": [
+    "Peggy"
+  ],
+  "date_published": "1998-06-08T23:30:04-04:00",
+  "date_modified": "2026-07-20T12:46:44-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "18",
+    "1 -9x12 inch pan"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups graham cracker crumbs",
+    "0.75 cup melted butter",
+    "4 cups confectioners' sugar",
+    "2 (8 ounce) packages cream cheese",
+    "1 (8 ounce) can crushed pineapple, drained",
+    "3 medium bananas, quartered",
+    "1 (12 ounce) container frozen whipped topping, thawed",
+    "8 maraschino cherries, halved",
+    "0.25 cup chocolate syrup",
+    "0.5 cup pecan halves"
+  ],
+  "steps": [
+    {
+      "text": "Blend the melted butter or margarine with the graham crackers and press into the bottom of one 9x12 inch pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend the confectioner’s sugar and the cream cheese together until smooth. Spread over the graham cracker crumb layer. Layer the crushed pineapple and the bananas over the cream cheese layer. Then spread the whipped topping over the top. Decorate with maraschino cherry halves. Drizzle chocolate syrup over the top and sprinkle with pecans. Chill for at least 4 hours then serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "428 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "207 mg",
+    "sugarContent": "41 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "152"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1EN0zvsNT9DYdc34O_HSVjq6a3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1390-28220096ef6a46358b11f170eb3a1e3d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7741/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

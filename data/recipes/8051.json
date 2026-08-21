@@ -1,0 +1,109 @@
+{
+  "id": "8051",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8051/four-egg-yellow-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/8051/four-egg-yellow-cake/",
+  "title": "Four Egg Yellow Cake",
+  "description": "This 4-egg cake recipe is our favorite yellow cake. I usually don&#39;t get to put any icing on it before it is gone.",
+  "authors": [
+    "Carolyn"
+  ],
+  "date_published": "1998-09-15T15:38:20-04:00",
+  "date_modified": "2022-09-08T14:47:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "24",
+    "1 9x13-inch cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups white sugar",
+    "1 cup shortening",
+    "4 large eggs",
+    "2 teaspoons vanilla extract",
+    "2.75 cups all-purpose flour",
+    "1 tablespoon baking powder",
+    "1 teaspoon salt",
+    "1.75 cups milk"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cream together sugar and shortening. Beat in eggs and vanilla.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a separate bowl, combine flour, baking powder, and salt. Add to creamed mixture alternately with milk. Mix well. Pour batter into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 45 minutes, or until cake tests done. Cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ajMEEHks4W8_vmU66VhvFy0zqPM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/644202-5100b428021f49eebcc35442a110625e.jpg"
+      ],
+      "image": "assets/images/8051/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "177 mg",
+    "sugarContent": "18 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "744"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/1A39NH2p-JxZ4e411.mp4",
+    "description": "See how to make a simple, fluffy, and moist yellow cake.",
+    "duration": "PT3M7S",
+    "name": "Four Egg Yellow Cake",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1A39NH2p/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T14:39:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ajMEEHks4W8_vmU66VhvFy0zqPM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/644202-5100b428021f49eebcc35442a110625e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8051/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/8051/step_04.webp"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "8371",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8371/coconut-pecan-frosting-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/8371/coconut-pecan-frosting-i/",
+  "title": "Easy Coconut Pecan Frosting",
+  "description": "This sweet frosting with flaked coconut and chopped pecans is the traditional filling and frosting for German chocolate cake.",
+  "authors": [
+    "Marsha C"
+  ],
+  "date_published": "1999-08-28T15:18:50-04:00",
+  "date_modified": "2026-04-14T17:55:06-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT35M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) can sweetened condensed milk",
+    "3 egg yolks",
+    "0.5 cup butter",
+    "1.3333300352097 cups flaked coconut",
+    "1 cup chopped pecans",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Place condensed milk, egg yolks, and butter in a heavy 2-quart saucepan; cook over medium heat, stirring constantly, until bubbly, about 10 minutes. Remove from heat; stir in coconut, pecans, and vanilla.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Allow to cool for 15 minutes before spreading on cake.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "121 mg",
+    "sugarContent": "21 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "129"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l9y74M5ETsRJwxb60OYIcktK010=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8806-eb8c8b66f04148de84da7f7041d1d2a0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8371/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "8121",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8121/peanut-butter-and-banana-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/8121/peanut-butter-and-banana-frosting/",
+  "title": "Peanut Butter and Banana Frosting",
+  "description": "Better than a peanut butter and banana sandwich! Use this to frost a yellow layer cake.",
+  "authors": [
+    "Stephanie"
+  ],
+  "date_published": "1999-01-10T03:29:14-05:00",
+  "date_modified": "2022-07-14T18:01:32-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "1 layer cake"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup margarine",
+    "0.5 cup shortening",
+    "1 cup peanut butter",
+    "3 tablespoons evaporated milk",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon butter flavored extract",
+    "1 pound confectioners' sugar",
+    "2 bananas"
+  ],
+  "steps": [
+    {
+      "text": "Combine margarine, shortening, peanut butter, milk, vanilla, and butter flavoring. Add confectioners' sugar and beat until creamy. Add more milk, if needed, 1 teaspoon at a time.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread icing over one layer of a yellow cake. Slice bananas on top. Place second layer on top and frost top and sides.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "528 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "230 mg",
+    "sugarContent": "50 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BQebLW23_zynS8QzlBfqvnnoomw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1040672-804d31de0c844e50a4090a422d4757ff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8121/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

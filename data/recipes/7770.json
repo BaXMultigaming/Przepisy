@@ -1,0 +1,87 @@
+{
+  "id": "7770",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7770/lemon-icing/",
+  "requested_url": "https://www.allrecipes.com/recipe/7770/lemon-icing/",
+  "title": "Lemon Icing",
+  "description": "This superb lemon frosting comes together in one quick and easy step. It is a tasty icing perfect for baked goods like cake, cupcakes, and cookies.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "1998-06-04T14:00:16-04:00",
+  "date_modified": "2025-10-21T13:03:01-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "12",
+    "2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup unsalted butter, at room temperature",
+    "2 tablespoons lemon juice",
+    "0.5 teaspoon vanilla extract",
+    "3 cups confectioners' sugar"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Xi2pT_Hn5a5ShjYi0FbMve-Dou0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-7770-Lemon-Icing-ddmfs-4x3-step-01-a860f1af0e834be8b7041858853757f9.jpg"
+      ],
+      "image": "assets/images/7770/step_01.webp"
+    },
+    {
+      "text": "Combine butter, lemon juice, vanilla, and confectioners' sugar in a large mixing bowl and beat until light and fluffy. Add more confectioners' sugar, or lemon juice to adjust the consistency as needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jp5ejavMePZKThYlO9mFRVFu89I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-7770-Lemon-Icing-ddmfs-4x3-step-02-16090b97924340c2b4c4824781b7771f.jpg"
+      ],
+      "image": "assets/images/7770/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "191 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "20 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "55 mg",
+    "sugarContent": "31 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "398"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/J0MQDof3LTO45ijr7bEQbbnPEUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-7770-Lemon-Icing-ddmfs-beauty-4x3-4aec162c5b49462a9fa7972c58047732.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7770/hero.webp",
+    "steps": [
+      "assets/images/7770/step_01.webp",
+      "assets/images/7770/step_02.webp"
+    ]
+  }
+}

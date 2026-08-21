@@ -1,0 +1,92 @@
+{
+  "id": "7710",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7710/carrot-cake-iv/",
+  "requested_url": "https://www.allrecipes.com/recipe/7710/carrot-cake-iv/",
+  "title": "Carrot Cake from a Mix",
+  "description": "Easy carrot cake recipe from a cake mix. It also makes good cupcakes.",
+  "authors": [
+    "cookie"
+  ],
+  "date_published": "1998-06-08T19:23:11-04:00",
+  "date_modified": "2026-03-16T14:41:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "10",
+    "1 8-inch layer cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15.25 ounce) package carrot cake mix",
+    "1 (8 ounce) can crushed pineapple with juice",
+    "3 large eggs",
+    "0.5 cup water",
+    "0.5 cup vegetable oil",
+    "0.5 cup finely chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two (8-inch) round pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat cake mix, pineapple with juice, eggs, water, oil, and nuts in a large bowl with an electric mixer at medium speed until well blended, about 2 minutes. Spread batter into the prepared pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a toothpick inserted into the centers comes out clean, 35 to 40 minutes. Cool completely before frosting.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "410 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "98 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "327 mg",
+    "sugarContent": "24 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VsS4lN9Eqg-L1BB4jUDrWw9-snU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7710-Carrot-Cake-IV-PIFS-20672_4x3-8161d055dd1d444cbe6d2f3a1d0dd1bc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7710/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

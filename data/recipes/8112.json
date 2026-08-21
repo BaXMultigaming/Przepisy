@@ -1,0 +1,68 @@
+{
+  "id": "8112",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8112/maple-icing/",
+  "requested_url": "https://www.allrecipes.com/recipe/8112/maple-icing/",
+  "title": "Maple Icing",
+  "description": "A delicious, easy-to-make maple frosting, great on white cakes.",
+  "authors": [
+    "Rachael"
+  ],
+  "date_published": "1999-01-05T20:01:15-05:00",
+  "date_modified": "2022-07-14T17:42:07-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12",
+    "3 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese",
+    "0.25 cup butter",
+    "4 cups confectioners' sugar",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon maple flavored extract"
+  ],
+  "steps": [
+    {
+      "text": "Cream together the cheese and butter or margarine. Stir in the confectioner's sugar and flavorings. Mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "31 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "83 mg",
+    "sugarContent": "39 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1oj4N0kpzTgRyKv_9B13e3yVKXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/520519-b966906042c942969d9ca640de98e921.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8112/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

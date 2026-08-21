@@ -1,0 +1,82 @@
+{
+  "id": "8056",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8056/pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/8056/pancakes/",
+  "title": "Pancakes",
+  "description": "Pancakes made with self-rising flour, milk, and an egg are simple to make for breakfast any day of the week, just top with fruit or syrup!",
+  "authors": [
+    "Jan H"
+  ],
+  "date_published": "1998-09-06T02:09:10-04:00",
+  "date_modified": "2026-03-02T15:36:16-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "5",
+    "10 (4-inch) pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1 egg",
+    "2 tablespoons vegetable oil",
+    "1 cup sifted self-rising flour"
+  ],
+  "steps": [
+    {
+      "text": "Whisk milk, egg, and 2 tablespoons oil together in a bowl. Stir in flour until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat remaining 1/2 tablespoon oil on a griddle over medium heat until drops of water sprinkled on it evaporate noisily. Working in batches, pour 1/8 cup batter (or 1/4 cup for larger pancakes) onto the griddle for each pancake. Cook until bubbles begin to form on top, 2 to 3 minutes. Flip with a metal spatula and cook until golden brown on the other side, about 1 more minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "176 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "352 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "595"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xl9dicCnAsqnUjO2idLXYLIIgVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4074772-525f05f7266a40d89daf55c17e0f8f57.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8056/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

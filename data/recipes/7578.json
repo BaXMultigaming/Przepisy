@@ -1,0 +1,85 @@
+{
+  "id": "7578",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7578/mocha-icing/",
+  "requested_url": "https://www.allrecipes.com/recipe/7578/mocha-icing/",
+  "title": "Mocha Icing",
+  "description": "This is an old recipe I have for Mocha Icing. I hope you like it. The recipe makes enough for one 8 inch layer cake.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "1998-05-31T14:37:10-04:00",
+  "date_modified": "2026-05-15T13:21:15-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12",
+    "2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33329999446869 cup unsweetened cocoa powder",
+    "0.33329999446869 cup strong, hot, brewed coffee",
+    "3 cups confectioners' sugar",
+    "0.33329999446869 cup melted butter",
+    "0.125 teaspoon salt",
+    "1 teaspoon vanilla extract",
+    "0.25 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Combine coffee and cocoa in small bowl of electric mixer. Beat until blended. Add sugar, butter or margarine, salt, and vanilla. Beat until blended. Scrape bowl, and beat icing until it has a spreading consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Frost the cake, and sprinkle with chopped walnuts if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "62 mg",
+    "sugarContent": "30 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "110"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_0_7BcrUgfwhVfXOaWIre1eVZfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/744717-cc1e893d2994406cb9ce6d8f244666c4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7578/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

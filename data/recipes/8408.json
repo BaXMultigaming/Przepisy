@@ -1,0 +1,100 @@
+{
+  "id": "8408",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8408/barm-brack/",
+  "requested_url": "https://www.allrecipes.com/recipe/8408/barm-brack/",
+  "title": "Barm Brack",
+  "description": "Delicious Irish fruit cake. Serve thickly sliced with butter.",
+  "authors": [
+    "Ruth"
+  ],
+  "date_published": "1999-10-15T12:32:01-04:00",
+  "date_modified": "2023-01-09T07:19:10-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "8 - inch round cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups brewed black tea, cold",
+    "1 cup packed light brown sugar",
+    "1.25 cups golden raisins",
+    "0.25 cup chopped candied citron",
+    "1.25 cups self-rising flour",
+    "1 egg, beaten"
+  ],
+  "steps": [
+    {
+      "text": "Put the tea, sugar, raisins and peel into a bowl, cover and leave to soak overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8 inch round pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sift the flour into the fruit mixture, add the egg and beat well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into the cake pan and bake at 350 degrees F (175 degrees C) for 1 hour and 45 minutes, or until toothpick inserted into center of cake comes out clean. Leave in the pan for 5 minutes, then turn out onto a wire rack.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "220 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "233 mg",
+    "sugarContent": "32 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nm1BKZxThvrS2bpWedz66SzUlj8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/259911-594039bb542345cfb3ee32a6d686e0cf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8408/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

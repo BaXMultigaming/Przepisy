@@ -1,0 +1,91 @@
+{
+  "id": "8156",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8156/orange-cream-cake-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/8156/orange-cream-cake-iii/",
+  "title": "Orange Cream Cake III",
+  "description": "Creamy orange flavored cake. This is an excellent summer cake!",
+  "authors": [
+    "shirleyo"
+  ],
+  "date_published": "1999-02-24T18:59:39-05:00",
+  "date_modified": "2022-07-14T17:35:18-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "24",
+    "1 -9x13 cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (18.25 ounce) package orange cake mix",
+    "1 (3 ounce) package orange flavored Jell-O® mix",
+    "1 cup hot water",
+    "0.5 cup cold water",
+    "1 (8 ounce) container frozen whipped topping, thawed",
+    "1 (3.5 ounce) package instant vanilla pudding mix",
+    "1 cup milk",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon orange extract"
+  ],
+  "steps": [
+    {
+      "text": "Mix orange cake mix and bake in a 9x13 inch cake pan according to package directions. Let cake cool and poke holes in cake 1 inch apart with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix the gelatin with the hot water and then add the cold water. Pour evenly over the cooled cake.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the whipped topping, instant vanilla pudding, milk, vanilla and orange extracts. Beat until thoroughly mixed and thickened. Spread evenly over the cake. Refrigerate cake for 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "156 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "218 mg",
+    "sugarContent": "18 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Am4LiAeFVq3OzkmzMSzy2Le3MU8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/845074-b2a307567e8742dba38697d370b3c3e4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8156/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

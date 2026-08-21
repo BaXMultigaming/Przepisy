@@ -1,0 +1,89 @@
+{
+  "id": "7905",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/7905/blueberry-muffins-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/7905/blueberry-muffins-i/",
+  "title": "Blueberry Muffins I",
+  "description": "Great muffins made with fresh or frozen blueberries.",
+  "authors": [
+    "Jenn Hall"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:38:56-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12",
+    "1 dozen"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "0.5 cup white sugar",
+    "3 teaspoons baking powder",
+    "0.5 teaspoon salt",
+    "0.75 cup milk",
+    "0.33333298563957 cup vegetable oil",
+    "1 egg",
+    "1 cup fresh blueberries",
+    "1 teaspoon grated lemon zest"
+  ],
+  "steps": [
+    {
+      "text": "Heat oven to 400 degrees F (205 degrees C). Grease bottoms only of 12 muffin cups or line with baking cups.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, combine flour, sugar, baking powder, blueberries, grated lemon zest and salt; mix well. In a small bowl, combine milk, oil and egg; blend well. Add dry ingredients all at once; stir just until dry ingredients are moistened (batter will be lumpy.)",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill cups 2/3 full. Bake for 20 to 25 minutes or until toothpick inserted in center comes out clean. Cool 1 minute before removing from pan. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "231 mg",
+    "sugarContent": "10 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "204"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/R_i-xMSd1kW0TaUkF5MFJ2oQpCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9411084-a8fea56894e041ef8220a175db1e7314.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/7905/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

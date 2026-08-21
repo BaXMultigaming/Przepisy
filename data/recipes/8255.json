@@ -1,0 +1,107 @@
+{
+  "id": "8255",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8255/snickerdoodle-cake-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/8255/snickerdoodle-cake-i/",
+  "title": "Snickerdoodle Cake I",
+  "description": "Sugar and cinnamon topping. Like the famous cookie, only BIGGER!",
+  "authors": [
+    "Kathy Tylka"
+  ],
+  "date_published": "1999-06-20T21:40:36-04:00",
+  "date_modified": "2022-08-08T10:42:48-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "24",
+    "1 - 9x13"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups white sugar",
+    "0.5 cup shortening",
+    "2 eggs",
+    "2.5 cups all-purpose flour",
+    "2 teaspoons baking powder",
+    "0.5 teaspoon salt",
+    "1 cup milk",
+    "3 tablespoons white sugar",
+    "1 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, sift together flour, baking powder and salt. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, cream shortening and 2 cups sugar until fluffy. Add eggs one at a time, mixing well with each addition. Alternately add milk and flour mixture in three stages, mixing well with each addition.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, mix 3 tablespoons sugar with 1 teaspoon cinnamon. Sprinkle this mixture evenly over cake.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into prepared 9x13 inch pan and bake at 350 degrees F (175 degrees C) for 35 to 40 minutes or until done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "167 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "99 mg",
+    "sugarContent": "19 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "151"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iWYL7R0cyrkE0cLZwFCGZ_Q1y1Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/789078-ac2fe32aec904eb7b30410a3e44e3ba1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8255/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

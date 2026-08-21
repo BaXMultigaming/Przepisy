@@ -1,0 +1,95 @@
+{
+  "id": "8213",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8213/italian-cheesecake/",
+  "requested_url": "https://www.allrecipes.com/recipe/8213/italian-cheesecake/",
+  "title": "Italian Cheesecake",
+  "description": "A slightly lighter version of cheesecake without the crust!",
+  "authors": [
+    "LYNN SEVERNS"
+  ],
+  "date_published": "1999-04-19T02:00:18-04:00",
+  "date_modified": "2022-07-14T17:45:45-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT50M",
+  "total_time": "PT90M",
+  "yield": [
+    "12",
+    "9 - inch cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds ricotta cheese",
+    "2 cups confectioners' sugar",
+    "3 eggs",
+    "1.5 teaspoons vanilla extract",
+    "0.5 teaspoon almond extract",
+    "0.5 teaspoon rum flavored extract",
+    "1 tablespoon grated lemon zest",
+    "0.25 cup fresh lemon juice",
+    "1 tablespoon grated orange zest"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 400 degrees F (205 degrees C). Grease and flour one 9 inch round springform or regular pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the ricotta, confectioners' sugar and eggs. Blend well. Stir in vanilla, almond extract, rum extract, lemon juice, lemon zest and orange zest. Beat by hand until smooth and creamy. Pour batter into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 400 degrees F (205 degrees C) for 40 minutes, until golden. Place on a rack and cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "179 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "89 mg",
+    "sugarContent": "20 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Se37Bx8icqiTjJbYj-WRBp0pgds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2059811-2890c132cf044d12a16e5617982c1e2d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8213/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

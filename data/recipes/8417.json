@@ -1,0 +1,86 @@
+{
+  "id": "8417",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8417/chocolate-icing/",
+  "requested_url": "https://www.allrecipes.com/recipe/8417/chocolate-icing/",
+  "title": "Chocolate Icing",
+  "description": "This chocolate icing uses butter and brown sugar with plenty of confectioners&#39; sugar for a quick frosting for your cake.",
+  "authors": [
+    "Chas"
+  ],
+  "date_published": "1999-10-13T23:07:51-04:00",
+  "date_modified": "2022-09-23T14:46:53-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons butter",
+    "0.5 cup packed brown sugar",
+    "2 tablespoons milk",
+    "1.5 cups confectioners' sugar",
+    "1 tablespoon unsweetened cocoa powder",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, melt butter and brown sugar over medium heat. Stir until sugar is dissolved, then add milk. Bring to a boil and remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sift together cocoa and confectioners sugar. Blend into butter mixture and add vanilla. If consistency is too stiff, add more milk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread Quickly over cooled cake, as frosting will set up very fast.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "157 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "37 mg",
+    "sugarContent": "29 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "243"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pMYYMbWx5RizqU-Dt9IZRLAyB8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/29006-ee0836a0163c4e2f9e5c9e803bfbe48b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8417/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

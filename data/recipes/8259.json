@@ -1,0 +1,95 @@
+{
+  "id": "8259",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8259/cream-cheese-cupcakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/8259/cream-cheese-cupcakes/",
+  "title": "Cream Cheese Cupcakes",
+  "description": "Quick and Easy recipe. A hit with those who like cheese cake. Top with your favorite pie filling.",
+  "authors": [
+    "Diane Mattes"
+  ],
+  "date_published": "1999-06-12T01:06:55-04:00",
+  "date_modified": "2022-07-14T17:23:18-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "24",
+    "24 cupcakes"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 (8 ounce) packages cream cheese",
+    "1 cup white sugar",
+    "1.5 teaspoons vanilla extract",
+    "5 eggs",
+    "3.5 cups apple pie filling"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 325 degrees F (165 degrees C). Line 2 (12 cup) muffin tins with paper liners.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine cream cheese and sugar. Mix until soft. Add eggs and combine. Add vanilla.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Distribute evenly into 2 (12 cup) lined muffin tins and bake at 325 degrees F (165 degrees C) for 35 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When done, the centers will fall in a bit while cooling. When cool, fill depressions with 2 to 3 tablespoons of your favorite fruit pie filling. Store in the refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "114 mg",
+    "sugarContent": "9 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EFg6BeVWxUbvORarfb9b-VgXrUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50535-8809097d919b4ec7a9ace1111ae8eae2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8259/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
