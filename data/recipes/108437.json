@@ -1,0 +1,68 @@
+{
+  "id": "108437",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/108437/mango-tango/",
+  "requested_url": "https://www.allrecipes.com/recipe/108437/mango-tango/",
+  "title": "Mango Tango",
+  "description": "This mango tango juice drink is made with a delicious blend of fresh mango, apple, and lime served over ice to keep you cool.",
+  "authors": [
+    "Hanna"
+  ],
+  "date_published": "2018-03-21T12:54:15-04:00",
+  "date_modified": "2022-09-07T11:58:10-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 medium mangos, peeled and sliced",
+    "2 apples, cored and quartered",
+    "2 peeled limes"
+  ],
+  "steps": [
+    {
+      "text": "Juice the mango, apples, and limes in a juice machine. Serve over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "226 kcal",
+    "carbohydrateContent": "61 g",
+    "fiberContent": "9 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "46 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rzGgwt0fYUwLdI7cB8hMXcIX34g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7884465-d1aaa85b8e4845a69c3cdaa3b03a3e8c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/108437/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

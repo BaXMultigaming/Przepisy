@@ -1,0 +1,107 @@
+{
+  "id": "101006",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/101006/amazing-crunchy-tofu-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/101006/amazing-crunchy-tofu-salad/",
+  "title": "Amazing Crunchy Tofu Salad",
+  "description": "Tofu cubes are marinated in soy sauce and lemon, then breaded and fried creating a crunchy and flavorful component to this mixed salad.",
+  "authors": [
+    "Alyssa"
+  ],
+  "date_published": "2020-06-18T23:13:25-04:00",
+  "date_modified": "2025-02-16T16:17:32-05:00",
+  "prep_time": "PT40M",
+  "cook_time": "PT10M",
+  "total_time": "PT50M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package firm tofu, drained and cubed",
+    "2 tablespoons lemon juice",
+    "6 tablespoons soy sauce, divided",
+    "1 cup cornstarch",
+    "2 tablespoons dry bread crumbs",
+    "2 medium shallots, finely minced, divided",
+    "0.5 bunch green onions, sliced, divided",
+    "vegetable oil for pan-frying",
+    "0.25 cup champagne vinegar",
+    "2 tablespoons white sugar",
+    "1 teaspoon chili oil",
+    "1 (10 ounce) package mixed salad greens",
+    "0.5 large cucumber, chopped",
+    "1 medium tomato, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Toss the tofu with lemon juice and 2 tablespoons of soy sauce in a small bowl, set aside to marinate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the cornstarch and bread crumbs with 1 minced shallot and half of the green onions in a bowl. Toss the tofu with the cornstarch mixture to generously bread; reserve the remaining marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat about 1/4 inch of oil in a skillet over medium heat. Fry the tofu cubes on all sides until golden brown, remove to drain on a paper towel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk together the remaining marinade with the vinegar, 4 tablespoons of soy sauce, sugar, and chili oil; set aside. Toss together the salad mix, cucumber, tomato, tofu cubes, and remaining shallot in a large bowl; add the dressing and toss to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "295 kcal",
+    "carbohydrateContent": "36 g",
+    "fiberContent": "2 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "946 mg",
+    "sugarContent": "7 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7xiZCqpI260Ig-OI1s0y6AV6KTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7963433-49e84593f2cb4a31bd74f981c9ef9f36.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/101006/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

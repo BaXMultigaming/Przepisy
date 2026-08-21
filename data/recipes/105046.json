@@ -1,0 +1,91 @@
+{
+  "id": "105046",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/105046/cucumber-raita/",
+  "requested_url": "https://www.allrecipes.com/recipe/105046/cucumber-raita/",
+  "title": "Cucumber Raita",
+  "description": "Raita is easy to make at home with yogurt, cucumber, and fresh mint for a cool, refreshing, delicious dip, sauce, or side dish for Indian dishes.",
+  "authors": [
+    "BenevolentEmpress"
+  ],
+  "date_published": "2020-06-18T23:13:35-04:00",
+  "date_modified": "2025-12-16T18:40:01-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "24",
+    "3 cups raita"
+  ],
+  "categories": [
+    "Side Dish",
+    "Sauce"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups Greek yogurt",
+    "2 hot house cucumber - peeled, seeded and thinly sliced",
+    "3 tablespoons lemon juice",
+    "2 tablespoons chopped fresh mint",
+    "0.5 teaspoon white sugar",
+    "0.25 teaspoon kosher salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/p2ZVftEdaX38wiXrns_TU09roZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3231-Cucumber-Raita-DDMFS-Step-01-2969-2cabbd5c4e86489c877be8af88bf734e.jpg"
+      ],
+      "image": "assets/images/105046/step_01.webp"
+    },
+    {
+      "text": "Stir yogurt, cucumber, lemon juice, mint, sugar, and salt together in a bowl. For best results cover and refrigerate the raita for a few hours, or preferably overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/osjL8XZXLkB9ozOXBB5mkhdzGuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3231-Cucumber-Raita-DDMFS-Step-02-2971-e975f657970846eca14a4111579090ca.jpg"
+      ],
+      "image": "assets/images/105046/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "14 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "21 mg",
+    "sugarContent": "1 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "135"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WSxInIhG3s3o65lp_ImRMprubho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3231-Cucumber-Raita-DDMFS-4x3-2987-20872957351240c2a51cfe7f1a93a9d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/105046/hero.webp",
+    "steps": [
+      "assets/images/105046/step_01.webp",
+      "assets/images/105046/step_02.webp"
+    ]
+  }
+}

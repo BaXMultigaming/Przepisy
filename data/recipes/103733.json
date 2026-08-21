@@ -1,0 +1,74 @@
+{
+  "id": "103733",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/103733/toum/",
+  "requested_url": "https://www.allrecipes.com/recipe/103733/toum/",
+  "title": "Toum",
+  "description": "This toum recipe makes a small batch of Lebanese-style garlic sauce that&#39;s great as a dip, marinade, or for flavoring creamy soups.",
+  "authors": [
+    "Sahaj108"
+  ],
+  "date_published": "2018-06-08T09:29:26-04:00",
+  "date_modified": "2026-05-08T14:40:26-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Lebanese",
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Lebanese",
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cloves garlic, peeled",
+    "1 pinch salt",
+    "0.25 cup vegetable oil, or as needed",
+    "1 lemon, juiced"
+  ],
+  "steps": [
+    {
+      "text": "Crush garlic in a mortar and pestle with a generous pinch of salt until smooth. Mix in oil as needed, a teaspoon at a time, until mixture is emulsified. Stir in the lemon juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "87 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1 mg",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FSPPNeBRtn01ONn9wGBnSQTFltw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ToumKim4x3-a549c6318758432aa523060b294fb6db.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/103733/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

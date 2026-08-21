@@ -1,0 +1,73 @@
+{
+  "id": "107712",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/107712/licuado-de-mango/",
+  "requested_url": "https://www.allrecipes.com/recipe/107712/licuado-de-mango/",
+  "title": "Licuado de Mango",
+  "description": "Every town in Mexico has someone selling licuados, fabulously refreshing drinks. Try experimenting with other fruit!",
+  "authors": [
+    "SunFlower"
+  ],
+  "date_published": "2020-06-18T23:13:43-04:00",
+  "date_modified": "2022-04-29T13:08:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 mango - peeled, seeded and diced",
+    "1.5 cups milk",
+    "3 tablespoons honey",
+    "1 cup ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Place mango, milk, honey, and ice cubes into a blender. Cover and blend until smooth. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "78 mg",
+    "sugarContent": "50 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s-RO5GBBbcTKz7Ly6gf40Lik_qA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/919158-0a5849a22ea84bc0b132afc45e30bd77.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/107712/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

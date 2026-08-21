@@ -1,0 +1,86 @@
+{
+  "id": "102274",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/102274/microwave-ham/",
+  "requested_url": "https://www.allrecipes.com/recipe/102274/microwave-ham/",
+  "title": "Microwave Ham",
+  "description": "My mom&#39;s recipe. She glazes this ham in the microwave, but it can easily be done in the oven as well.",
+  "authors": [
+    "Janis Dee"
+  ],
+  "date_published": "2020-03-05T00:00:01-05:00",
+  "date_modified": "2023-01-16T15:04:42-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT75M",
+  "total_time": "PT80M",
+  "yield": [
+    "6",
+    "1 boneless ham"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (3 pound) boneless ham",
+    "0.5 cup packed brown sugar",
+    "0.25 cup soy sauce",
+    "3 tablespoons Dijon mustard"
+  ],
+  "steps": [
+    {
+      "text": "Cut the ham in half lengthwise. Place into a large pot, and fill with enough water to cover. Bring to a boil and cook for 1 hour, replenishing water as needed. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, stir together the brown sugar, soy sauce and mustard in a small bowl. Set aside until the ham is done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the ham halves into a glass or ceramic baking dish with the cut sides facing up. Cover the ham with the brown sugar mixture. Cook in the microwave for 15 minutes. Slice and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "451 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "120 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "42 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "3695 mg",
+    "sugarContent": "18 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JIXW7fSgwmPdZCI06f-fuq959GE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Microwave-Ham-4x3-1-2000-57df84a3f34a4a93a1343b034f77507c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/102274/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

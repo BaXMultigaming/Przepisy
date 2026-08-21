@@ -1,0 +1,86 @@
+{
+  "id": "108511",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/108511/simple-swiss-chard/",
+  "requested_url": "https://www.allrecipes.com/recipe/108511/simple-swiss-chard/",
+  "title": "Simple Swiss Chard",
+  "description": "Swiss chard cooked with garlic and balsamic vinegar. Quick and delicious!",
+  "authors": [
+    "THERESA_M"
+  ],
+  "date_published": "2018-06-08T09:30:22-04:00",
+  "date_modified": "2024-12-24T11:24:26-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons extra-virgin olive oil",
+    "4 cloves garlic, minced",
+    "1 bunch Swiss chard, stalks discarded, leaves cut into wide ribbons",
+    "0.25 cup balsamic vinegar",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil on a large skillet over medium heat. Stir in the garlic and cook until tender and aromatic, about 2 minutes. Add the Swiss chard and balsamic vinegar; cook and stir until the chard is wilted and tender, about 5 minutes. Season with salt and pepper and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NSDu07whtiqXbgYAMdyH9Rle1N4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035133-simple-swiss-chard-Seattle2Sydney-1x1-1-e90ecfb762ce4277849e3defa13779b9.jpg"
+      ],
+      "image": "assets/images/108511/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "172 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "251 mg",
+    "sugarContent": "6 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "148"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/whAu0MmH-ma1DlVvV.mp4",
+    "description": "AR0785",
+    "duration": "PT2M22S",
+    "name": "Simple Swiss Chard",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/whAu0MmH/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T11:29:13-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NSDu07whtiqXbgYAMdyH9Rle1N4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035133-simple-swiss-chard-Seattle2Sydney-1x1-1-e90ecfb762ce4277849e3defa13779b9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/108511/hero.webp",
+    "steps": [
+      "assets/images/108511/step_01.webp"
+    ]
+  }
+}

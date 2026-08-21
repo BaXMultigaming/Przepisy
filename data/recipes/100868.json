@@ -1,0 +1,70 @@
+{
+  "id": "100868",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100868/sweet-grilled-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/100868/sweet-grilled-cheese/",
+  "title": "Sweet Grilled Cheese",
+  "description": "This sandwich recipe has been passed down in my family for years and I even sold my husband on it and it&#39;s now his favorite. It&#39;s your average grilled cheese but with brown sugar added.",
+  "authors": [
+    "Teresa L"
+  ],
+  "date_published": "2020-03-04T23:59:58-05:00",
+  "date_modified": "2021-09-09T13:24:21-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices white bread",
+    "2 slices American cheese",
+    "2 teaspoons brown sugar",
+    "2 teaspoons softened butter"
+  ],
+  "steps": [
+    {
+      "text": "Heat a skillet over medium heat. Spread butter onto one side of a piece of bread and place butter side down in the skillet. Place one piece of cheese on top of the bread, then sprinkle with brown sugar. Top with the other slice of cheese. Butter the other slice of bread and place on top with the butter side up. Fry on each side until golden brown, 3 to 5 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "453 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "75 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "1245 mg",
+    "sugarContent": "11 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "36"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WhmXFlOpPoD_gTjGiu5OOwiYIK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9382331-33641d98b4354f8a92f68c7216445408.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100868/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

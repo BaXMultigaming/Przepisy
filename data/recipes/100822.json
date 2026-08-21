@@ -1,0 +1,73 @@
+{
+  "id": "100822",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100822/heavenly-blueberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/100822/heavenly-blueberry-smoothie/",
+  "title": "Heavenly Blueberry Smoothie",
+  "description": "This blueberry, banana, and flax smoothie is to die for! It tastes so good, you forget that it&#39;s good for ya!",
+  "authors": [
+    "bon_a_petite808"
+  ],
+  "date_published": "2018-03-21T12:51:27-04:00",
+  "date_modified": "2022-07-14T17:57:49-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 frozen banana, thawed for 10 to 15 minutes",
+    "0.5 cup vanilla soy milk",
+    "1 cup vanilla fat-free yogurt",
+    "1.5 teaspoons flax seed meal",
+    "1.5 teaspoons honey",
+    "0.66666668653488 cup frozen blueberries"
+  ],
+  "steps": [
+    {
+      "text": "Cut banana into small pieces and place into the bowl of a blender. Add the soy milk, yogurt, flax seed meal, and honey. Blend on lowest speed until smooth, about 5 seconds. Gradually add the blueberries while continuing to blend on low. Once the blueberries have been incorporated, increase speed, and blend to desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "117 mg",
+    "sugarContent": "40 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "170"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CILcKgFBN92JuYvLBrKEPs4L4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/410436-6724264c37954d3fb02a91ab42733c92.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100822/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

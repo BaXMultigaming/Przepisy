@@ -1,0 +1,84 @@
+{
+  "id": "99118",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/99118/hamburger-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/99118/hamburger-salad/",
+  "title": "Hamburger Salad",
+  "description": "Ground beef, bacon, and onions are cooked with baked beans and pinto beans in a zesty sauce. A great potluck dish!",
+  "authors": [
+    "Mike"
+  ],
+  "date_published": "2020-06-18T23:13:20-04:00",
+  "date_modified": "2022-07-14T17:27:06-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT360M",
+  "total_time": "PT380M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 pound bacon",
+    "1 cup chopped onion",
+    "0.5 cup ketchup",
+    "2 tablespoons white vinegar",
+    "0.75 cup brown sugar",
+    "0.5 cup white sugar",
+    "1 teaspoon mustard powder",
+    "1 (15 ounce) can baked beans with pork",
+    "3 (15 ounce) cans pinto beans, drained"
+  ],
+  "steps": [
+    {
+      "text": "Fry the bacon in a large skillet over medium heat until crisp, turning as needed. Remove to paper towels and drain off the grease from the skillet. Crumble the ground beef into the same skillet; cook and stir over medium heat until evenly browned. Add the onions and cook just until wilted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer the beef, onions and bacon to a slow cooker, crumbling the bacon as you put it in. Pour in the baked beans and pinto beans. Stir in the ketchup, vinegar, brown sugar, white sugar and mustard powder. Cover and heat on Low setting for 5 to 6 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "509 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1143 mg",
+    "sugarContent": "42 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/afJb-l1bqODRWVQs47cNCBF7nDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131922-9e8fcde72c084c18a64d5c963cceb413.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/99118/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

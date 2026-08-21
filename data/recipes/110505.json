@@ -1,0 +1,71 @@
+{
+  "id": "110505",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/110505/summa-borscht/",
+  "requested_url": "https://www.allrecipes.com/recipe/110505/summa-borscht/",
+  "title": "Summa Borscht",
+  "description": "This potato, dill, and buttermilk soup is from my mother&#39;s German-Mennonite ancestry. We eat it with hard-boiled eggs diced and added to the soup, for a meal in a bowl. Delicious!",
+  "authors": [
+    "Robin C"
+  ],
+  "date_published": "2019-04-03T23:35:34-04:00",
+  "date_modified": "2019-04-03T23:35:34-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT40M",
+  "total_time": "PT65M",
+  "yield": [
+    "8",
+    "2 quarts"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups diced red potatoes",
+    "7 cups water",
+    "4 teaspoons salt",
+    "1.25 cups green onions, chopped",
+    "0.33333334326744 cup chopped fresh dill",
+    "2 cups buttermilk",
+    "1 cup half-and-half"
+  ],
+  "steps": [
+    {
+      "text": "Place diced potatoes into a large saucepan, and cover with water. Bring to a boil over high heat, then reduce heat, and simmer until potatoes are tender, about 25 minutes. Stir in the green onions, dill, and buttermilk; bring back to a simmer. Stir in the half-and-half before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "135 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1248 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AehDp9I9JMc_8IBSuWq3RtJISTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/740688-5a6e95121c3d471bab75913834a718a8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/110505/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "104990",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/104990/mashed-potatoes-with-spinach-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/104990/mashed-potatoes-with-spinach-pesto/",
+  "title": "Mashed Potatoes with Spinach Pesto",
+  "description": "Spinach, garlic, and vegetable stock give this bright green dish as much flavor as it has color!",
+  "authors": [
+    "Traci"
+  ],
+  "date_published": "2020-03-09T22:50:55-04:00",
+  "date_modified": "2025-04-30T12:08:05-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "5",
+    "5 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 red potatoes, peeled and cubed",
+    "2 cloves garlic, minced",
+    "1 tablespoon olive oil",
+    "1 (14 ounce) can vegetable broth",
+    "0.75 (10 ounce) bag washed fresh spinach",
+    "0.5 cup grated Parmesan cheese",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam for a few minutes. Meanwhile, place garlic, olive oil, vegetable broth, and spinach into a blender. Puree until smooth and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the potatoes are ready, mash until smooth, then fold in Parmesan cheese, and season to taste with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "328 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "368 mg",
+    "sugarContent": "5 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kXoSo5HNlTyhtk9FBxkLs0OwaDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/798533-a632be2be9c44d33b6f6ea53a550ea7a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/104990/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

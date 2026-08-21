@@ -1,0 +1,82 @@
+{
+  "id": "110248",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/110248/banana-and-peanut-butter-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/110248/banana-and-peanut-butter-pancakes/",
+  "title": "Banana and Peanut Butter Pancakes",
+  "description": "Silver dollar pancakes packed with little chunks of banana and a hint of peanut butter.",
+  "authors": [
+    "Toby's Mom"
+  ],
+  "date_published": "2020-03-05T00:00:19-05:00",
+  "date_modified": "2022-08-08T10:48:08-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup all-purpose flour",
+    "1.25 teaspoons baking powder",
+    "1 teaspoon brown sugar",
+    "0.25 teaspoon salt",
+    "0.25 cup creamy peanut butter",
+    "1.5 cups milk",
+    "0.25 teaspoon vanilla extract",
+    "1 small banana, peeled and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Combine flour, baking powder, brown sugar, and salt in a large bowl. Mix in the peanut butter until the texture resembles cornmeal. Add milk and vanilla; stir just until blended. Stir in the banana pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large skillet over medium heat, and coat with cooking spray. Spoon batter onto the skillet, using approximately 2 tablespoons to form each silver dollar pancake. Cook until pancakes are golden brown on both sides; serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "283 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "411 mg",
+    "sugarContent": "10 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fMobhjB0FHMz9ehfmzAV9MsNLiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/501855-1bf3a851883645989db286b9d66275d6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/110248/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

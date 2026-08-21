@@ -1,0 +1,82 @@
+{
+  "id": "100811",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100811/fabulous-fried-cabbage/",
+  "requested_url": "https://www.allrecipes.com/recipe/100811/fabulous-fried-cabbage/",
+  "title": "Fabulous Fried Cabbage",
+  "description": "This cabbage dish has no bacon and is super easy to make by simmering cabbage in a buttery broth until tender and sweet.",
+  "authors": [
+    "cook-it-up-axel"
+  ],
+  "date_published": "2019-04-02T02:48:12-04:00",
+  "date_modified": "2026-07-01T11:26:26-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT45M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons butter",
+    "1 (15 ounce) can chicken broth",
+    "1 head cabbage, cored and coarsely chopped",
+    "1 pinch salt and ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Bring broth and butter to a boil in a large skillet. Reduce heat to low and add cabbage.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook over low heat, stirring frequently, until cabbage is tender and sweet, about 45 minutes. Season with salt and pepper and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "66 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "384 mg",
+    "sugarContent": "7 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "390"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0NfBARA5Ok_zQawp6j9TvJyt_j8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100811-fabulous-fried-cabbage-PICS-Beauty-4x3-be6d88fe0018446ba10d9ca2157e095d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100811/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

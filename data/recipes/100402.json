@@ -1,0 +1,90 @@
+{
+  "id": "100402",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100402/quick-salmon-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/100402/quick-salmon-salad/",
+  "title": "Quick Salmon Salad",
+  "description": "This salmon salad recipe is super quick to make with canned or leftover salmon, celery, dill, and green onion tossed in a creamy lemon dressing.",
+  "authors": [
+    "LILREDCV"
+  ],
+  "date_published": "2019-09-24T02:57:36-04:00",
+  "date_modified": "2025-12-16T16:45:11-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (6 ounce) cans pink salmon, drained",
+    "0.5 cup finely sliced green onions",
+    "0.5 cup finely chopped celery",
+    "0.25 cup mayonnaise",
+    "0.75 teaspoon lemon juice",
+    "0.75 teaspoon dried dill",
+    "0.75 teaspoon seasoned salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YnqBtF_3nfsL1efJ9g3dnei7OSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100402-quick-salmon-salad-VAT-step-01-1-deae8d47df0048458e408fe4db7134f1.jpg"
+      ],
+      "image": "assets/images/100402/step_01.webp"
+    },
+    {
+      "text": "Combine salmon, green onions, celery, mayonnaise, and lemon juice in a bowl until well combined; season with dill and salt to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/xw_xxAHyX3jy6RYRCxw92MkBq8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100402-quick-salmon-salad-VAT-step-02-1-8ae62f0f1fc843f2b8de34f228da741f.jpg"
+      ],
+      "image": "assets/images/100402/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "248 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "571 mg",
+    "sugarContent": "1 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "83"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-Sus6qQMqBvGS8Bs_2EyrmXXoSM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100402-quick-salmon-salad-VAT-4x3-1-2710494c745b45ddbd66de67a8be0cb5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100402/hero.webp",
+    "steps": [
+      "assets/images/100402/step_01.webp",
+      "assets/images/100402/step_02.webp"
+    ]
+  }
+}

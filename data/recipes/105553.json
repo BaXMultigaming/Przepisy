@@ -1,0 +1,96 @@
+{
+  "id": "105553",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/105553/spicy-indian-chicken-and-mango-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/105553/spicy-indian-chicken-and-mango-curry/",
+  "title": "Spicy Indian Chicken and Mango Curry",
+  "description": "This delicious, Indian-inspired dish is made by quickly cooking chicken and shallots with curry paste, then bathing everything with a coconut milk-mango puree!",
+  "authors": [
+    "KIKI810"
+  ],
+  "date_published": "2018-03-21T12:53:11-04:00",
+  "date_modified": "2018-03-21T12:53:11-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT10M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 medium mangoes, peeled and sliced, divided",
+    "1 (10 ounce) can coconut milk",
+    "4 teaspoons vegetable oil",
+    "4 teaspoons spicy curry paste",
+    "14 ounces skinless, boneless chicken breast halves - cut into cubes",
+    "4 medium shallots, sliced",
+    "1 large English cucumber, seeded and sliced"
+  ],
+  "steps": [
+    {
+      "text": "Place half of the mango slices into the bowl of a blender with the coconut milk. Blend until smooth and reserve for later.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the oil in a large pot over medium-high heat. Stir in the curry paste, and cook until fragrant, about 1 minute. Add the chicken and shallot; cook until the chicken is done and the shallots have softened, about 5 minutes. Pour in the mango puree, and cook until heated through. To serve, stir in the remaining mango slices and cucumber.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MDVWLZRn8Ek4Gw9FsHINOSIYZyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4616708-9b14eefbd58149579174a869de066547.jpg"
+      ],
+      "image": "assets/images/105553/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "398 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "58 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "179 mg",
+    "sugarContent": "18 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "214"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/e9yOST1P-ma1DlVvV.mp4",
+    "description": "AR0914",
+    "duration": "PT4M17S",
+    "name": "Spicy Indian Chicken and Mango Curry",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/e9yOST1P/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T09:58:09-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MDVWLZRn8Ek4Gw9FsHINOSIYZyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4616708-9b14eefbd58149579174a869de066547.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/105553/hero.webp",
+    "steps": [
+      null,
+      "assets/images/105553/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "99855",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/99855/hot-breakfast-couscous/",
+  "requested_url": "https://www.allrecipes.com/recipe/99855/hot-breakfast-couscous/",
+  "title": "Hot Breakfast Couscous",
+  "description": "When I went on a six-day kayaking trip, our guides whipped up this breakfast couscous one morning over the campfire. It was delicious, and I started making it at home.",
+  "authors": [
+    "JUNEBUFF1"
+  ],
+  "date_published": "2018-03-21T12:51:16-04:00",
+  "date_modified": "2023-02-06T01:51:34-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups skim milk",
+    "2 tablespoons honey",
+    "1 tablespoon ground cinnamon",
+    "2 cups dry couscous",
+    "0.5 cup slivered almonds",
+    "0.33333334326744 cup chopped dried apricots",
+    "0.33333334326744 cup raisins"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, honey and cinnamon in a saucepan over medium heat. As soon as it comes to a boil, stir in couscous. Turn off heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and let stand for 5 minutes. Stir in almonds, apricots, and raisins.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "286 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "32 mg",
+    "sugarContent": "15 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "96"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LzvaEU1GpiwjByCEHOrvR6XKTxs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1834998-hot-breakfast-couscous-Gina-4x3-1-13792c056d824ddb9136417c19503395.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/99855/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

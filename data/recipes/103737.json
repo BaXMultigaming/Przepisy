@@ -1,0 +1,76 @@
+{
+  "id": "103737",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/103737/celery-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/103737/celery-salad/",
+  "title": "Celery Salad",
+  "description": "A cool, crisp salad adds crunch and contrast to any menu. You can also use dried cranberries and walnuts.",
+  "authors": [
+    "Willow"
+  ],
+  "date_published": "2019-07-10T02:55:30-04:00",
+  "date_modified": "2022-01-07T10:51:39-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT40M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup sliced celery",
+    "0.33333334326744 cup dried sweet cherries",
+    "0.33333334326744 cup frozen green peas, thawed",
+    "3 tablespoons chopped fresh parsley",
+    "1 tablespoon chopped pecans, toasted",
+    "1.5 tablespoons fat-free mayonnaise",
+    "1.5 tablespoons plain low-fat yogurt",
+    "1.5 teaspoons fresh lemon juice",
+    "0.125 teaspoon salt",
+    "0.125 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine the celery, cherries, peas, parsley and pecans. Stir in the mayonnaise, yogurt and lemon juice. Season with salt and pepper. Chill before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "150 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "304 mg",
+    "sugarContent": "16 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "114"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wNf21L2NAymkiCiAqVWPK5VaK6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1092820-0240a2907a1d4c9fae860b1275893a67.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/103737/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

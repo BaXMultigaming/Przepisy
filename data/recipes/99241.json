@@ -1,0 +1,82 @@
+{
+  "id": "99241",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/99241/macks-tunaburgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/99241/macks-tunaburgers/",
+  "title": "Mack&#39;s Tunaburgers",
+  "description": "Low fat, no-beef burgers that taste almost exactly like all-beef burgers. Great for the guy trying to lower his cholesterol!",
+  "authors": [
+    "Chris McCoy"
+  ],
+  "date_published": "2018-03-21T12:51:13-04:00",
+  "date_modified": "2018-03-21T12:51:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT4M",
+  "total_time": "PT14M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (5 ounce) can water-packed tuna, drained",
+    "0.25 cup teriyaki sauce",
+    "0.5 cup bread crumbs",
+    "1 egg white",
+    "0.25 teaspoon black pepper",
+    "0.25 teaspoon minced garlic",
+    "0.25 teaspoon hot pepper sauce",
+    "1 teaspoon vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine the tuna, teriyaki sauce, bread crumbs, and egg whites in a bowl until well combined, and no large pieces of tuna remain. Season with black pepper, garlic, and hot sauce. Mix well, then form into two patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat vegetable oil in a skillet over medium-high heat. Cook the patties until brown on both sides, about 2 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1652 mg",
+    "sugarContent": "7 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "76"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BUGKuNdsEWC_bNHA_0mDC9j39tE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/209755-41833e4b23954a078daf920735d8de00.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/99241/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

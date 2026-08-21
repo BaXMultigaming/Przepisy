@@ -1,0 +1,83 @@
+{
+  "id": "101353",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/101353/ricotta-breakfast-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/101353/ricotta-breakfast-pancakes/",
+  "title": "Ricotta Breakfast Pancakes",
+  "description": "Make ricotta pancakes with pancake mix, ricotta cheese, and milk for fluffy pancakes that are a nice change from traditional pancakes and a great way to use ricotta cheese.",
+  "authors": [
+    "BARBARALB"
+  ],
+  "date_published": "2018-03-21T12:51:31-04:00",
+  "date_modified": "2023-01-17T22:45:41-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "10",
+    "30 small pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups pancake mix",
+    "2.6666667461395 cups skim milk, or as needed",
+    "2 cups part-skim ricotta cheese"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together pancake mix, skim milk, and ricotta in a bowl until smooth. Batter should be thick; add more milk if necessary to reach desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle over medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop batter by large spoonfuls onto the preheated griddle; cook until bubbles form and edges are dry. Flip and cook until bottom is browned. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "1 mg",
+    "proteinContent": "5 g",
+    "sodiumContent": "511 mg",
+    "sugarContent": "3 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AQRs2IhKznl4KErd5IRrM__8bbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7945407-ricotta-breakfast-pancakes-searay-4x3-1-6aa40bc17b7546348cf5a0f013bcf508.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/101353/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "98843",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/98843/korean-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/98843/korean-salad/",
+  "title": "Korean Salad",
+  "description": "A delightful spinach salad made with bacon, eggs, and a bold, tangy dressing.",
+  "authors": [
+    "Marianne"
+  ],
+  "date_published": "2020-06-18T23:13:20-04:00",
+  "date_modified": "2025-02-04T13:55:08-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT1470M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Asian Inspired",
+    "American",
+    "Asian"
+  ],
+  "regions": [
+    "Asian Inspired",
+    "American",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup salad oil",
+    "0.75 cup sugar",
+    "0.5 cup ketchup",
+    "0.25 cup vinegar",
+    "salt and pepper to taste",
+    "2 eggs",
+    "1 pound bacon",
+    "1 pound fresh spinach, torn",
+    "1 (4 ounce) can water chestnuts, drained and chopped",
+    "1 cup fresh bean sprouts",
+    "8 mushrooms, sliced"
+  ],
+  "steps": [
+    {
+      "text": "In a bowl, mix oil, sugar, ketchup and vinegar. Season with salt and pepper. Cover and chill at least 24 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place egg in a pot with enough cold water to cover. Bring to a boil and remove from heat. Cover pot and let egg stand in hot water for 10 to 12 minutes. Remove from water, cool, peel and slice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a skillet over medium heat and cook until evenly brown. Drain and crumble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix eggs, bacon, spinach, water chestnuts, bean sprouts and mushrooms. Toss with dressing just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "469 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "67 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "664 mg",
+    "sugarContent": "23 g",
+    "fatContent": "37 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WoNllk77L2eOJ1rEONMJkzWdIxs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1020336-150d0928c6664e30b61c234d8fea901a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/98843/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

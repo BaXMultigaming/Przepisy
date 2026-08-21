@@ -1,0 +1,99 @@
+{
+  "id": "102603",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/102603/roasted-easter-ham/",
+  "requested_url": "https://www.allrecipes.com/recipe/102603/roasted-easter-ham/",
+  "title": "Roasted Easter Ham",
+  "description": "A succulent bone-in ham is coated with an easy glaze of brown sugar, mustard, and maple syrup to make the best Easter ham for your buffet.",
+  "authors": [
+    "DOJAGRAM"
+  ],
+  "date_published": "2020-03-05T00:00:02-05:00",
+  "date_modified": "2025-03-20T13:44:24-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT120M",
+  "total_time": "PT145M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (5 pound) bone-in ham",
+    "0.33333334326744 cup prepared yellow mustard",
+    "0.33333334326744 cup maple syrup",
+    "2 tablespoons brown sugar",
+    "2 teaspoons onion powder"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 325 degrees F (165 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/uB6rh3TbB773I-njVxpvM2IgLH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102603-roasted-easter-ham-DDMFS_Step1-16bd3b6086844e7584a46a88298db789.jpg"
+      ],
+      "image": "assets/images/102603/step_01.webp"
+    },
+    {
+      "text": "Place ham in a shallow roasting pan. Mix mustard, maple syrup, brown sugar, and onion powder together in a small bowl. Coat ham entirely with the glaze using a spoon or brush.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bueyGYKScv9ltbgrzaSlcTBcVmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102603-roasted-easter-ham-DDMFS_step2-9175e14b563541dcabc20d936054bd99.jpg"
+      ],
+      "image": "assets/images/102603/step_02.webp"
+    },
+    {
+      "text": "Roast ham in the preheated oven, uncovered, until heated through, about 2 hours. Let ham rest for about 15 minutes before carving to keep it from drying out.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/vpHHXBuZaQzhEZZXMtKqB5sfK_A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102603-roasted-easter-ham-DDMFS_step3-60310ad9873a47f28ae4d59cdfd9604f.jpg"
+      ],
+      "image": "assets/images/102603/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "604 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "127 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "42 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "3014 mg",
+    "sugarContent": "9 g",
+    "fatContent": "42 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "109"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Po_Wv20G-9VbXU9N53_5pMM8iGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/102603-roasted-easter-ham-DDMFS_4x3-b531879aedca4486bc7e7d436cbfd1c2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/102603/hero.webp",
+    "steps": [
+      "assets/images/102603/step_01.webp",
+      "assets/images/102603/step_02.webp",
+      "assets/images/102603/step_03.webp"
+    ]
+  }
+}

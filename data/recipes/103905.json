@@ -1,0 +1,77 @@
+{
+  "id": "103905",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/103905/red-fish-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/103905/red-fish-soup/",
+  "title": "Red Fish Soup",
+  "description": "Use fillets of your favorite white fish to make an easy soup. This is a spicy red soup but the heat all depends on you.",
+  "authors": [
+    "KIRSTIANNA"
+  ],
+  "date_published": "2019-04-03T23:34:53-04:00",
+  "date_modified": "2025-03-26T17:23:17-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (28 ounce) can tomato puree",
+    "4 cups water",
+    "1 bunch green onions, sliced",
+    "2 tablespoons red pepper flakes, or to taste",
+    "1 cup long grain white rice",
+    "1 pound catfish fillets, cut into 1 inch pieces",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot, combine the tomato puree, water and green onions. Season with red pepper flakes. Set over medium heat and bring to a boil. Add rice and cook until tender, about 30 minutes. Add fish and simmer for 20 minutes. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "286 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "570 mg",
+    "sugarContent": "8 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UheAG2tq39u4_cWJJ5g1wStnAgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1121416-aee5cc69265d4cd9a9fc7f36fb2d2ebe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/103905/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

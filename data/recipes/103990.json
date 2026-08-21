@@ -1,0 +1,93 @@
+{
+  "id": "103990",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/103990/italian-nachos-restaurant-style/",
+  "requested_url": "https://www.allrecipes.com/recipe/103990/italian-nachos-restaurant-style/",
+  "title": "Italian Nachos Restaurant-Style",
+  "description": "Italian sausage, pepperoni, banana peppers, mozzarella, and pizza sauce make for great nachos.",
+  "authors": [
+    "reneeg"
+  ],
+  "date_published": "2019-04-03T02:30:39-04:00",
+  "date_modified": "2019-04-03T02:30:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound bulk Italian sausage",
+    "1 (7-1/2 ounce) bag tortilla chips",
+    "1 (2 ounce) package sliced pepperoni",
+    "0.5 pound shredded mozzarella cheese",
+    "0.5 cup banana peppers, drained",
+    "1.25 cups pizza sauce"
+  ],
+  "steps": [
+    {
+      "text": "Preheat your oven's broiler.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Crumble the sausage into a large skillet over medium heat. Cook and stir until no longer pink; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange the tortilla chips on a baking sheet. Top with sausage, pepperoni, mozzarella cheese, and banana peppers. Place nachos under the preheated broiler until the cheese is melted, 5 to 8 minutes. Serve with pizza sauce for dipping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "453 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "1133 mg",
+    "sugarContent": "2 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/I72ycCu8APt6eO7cOdYX-iyJ_RU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/784542-79c21f9d193f43c49bd7a9ffdaac336f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/103990/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

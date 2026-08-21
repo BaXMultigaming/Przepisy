@@ -1,0 +1,90 @@
+{
+  "id": "100769",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100769/slow-cooker-bananas-foster/",
+  "requested_url": "https://www.allrecipes.com/recipe/100769/slow-cooker-bananas-foster/",
+  "title": "Slow Cooker Bananas Foster",
+  "description": "Banana slices are cooked in a rich butter and rum sauce with walnuts and coconut. Serve warm over vanilla ice cream.",
+  "authors": [
+    "Jerry Gulley"
+  ],
+  "date_published": "2020-03-04T23:59:58-05:00",
+  "date_modified": "2022-10-07T14:06:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT120M",
+  "total_time": "PT130M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 bananas, peeled and sliced",
+    "4 tablespoons butter, melted",
+    "1 cup packed brown sugar",
+    "0.25 cup rum",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon ground cinnamon",
+    "0.25 cup chopped walnuts",
+    "0.25 cup shredded coconut"
+  ],
+  "steps": [
+    {
+      "text": "Layer sliced bananas in the bottom of a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine butter, brown sugar, rum, vanilla and cinnamon in a small bowl; pour over bananas.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on Low for 2 hours. Top bananas with walnuts and coconut during the last 30 minutes of cooking.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "539 kcal",
+    "carbohydrateContent": "84 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "101 mg",
+    "sugarContent": "69 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1f98uMh1_gesKyqM9IiAycF8Kxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SlowCookerBananasFoster_013-849a7cd900d1417ea3b1e42626fb003c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100769/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

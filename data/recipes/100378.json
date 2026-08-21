@@ -1,0 +1,104 @@
+{
+  "id": "100378",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100378/irish-bacon-and-cabbage-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/100378/irish-bacon-and-cabbage-soup/",
+  "title": "Irish Bacon and Cabbage Soup",
+  "description": "This hearty Irish soup is loaded with potatoes, cabbage, bacon, and tomatoes in every bite for a filling, flavorful, and colorful winter meal.",
+  "authors": [
+    "Ita"
+  ],
+  "date_published": "2019-04-02T02:48:11-04:00",
+  "date_modified": "2026-01-01T00:51:01-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.5 pound Irish bacon, diced",
+    "2 large potatoes, peeled and cubed",
+    "1 (15 ounce) can diced tomatoes with juice",
+    "1 cup chicken stock, or as needed",
+    "Salt and black pepper to taste",
+    "2 cups thinly sliced dark green Savoy cabbage leaves"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep stockpot or saucepan. Cook over medium high heat until evenly brown. Drain off any excess fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in potatoes, tomatoes, and enough chicken stock to cover. Season with salt and pepper. Bring to a boil, reduce heat and let simmer for 20 minutes, or until potatoes are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in cabbage and allow the soup to simmer for a few minutes longer before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fH4_24URGavPoLzEUi3qtVqE1Nw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4x3-GOLDMAN_ALR0323_InSeason_Soup_1645-ea6d03eae39f46a5b31c56adc7f3043e.jpg"
+      ],
+      "image": "assets/images/100378/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "276 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "825 mg",
+    "sugarContent": "5 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "221"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/C4PjcUVA-K3AjnAEN.mp4",
+    "description": "Watch how to turn a standard cabbage and potato soup into something special and decadent by adding half a pound of bacon. We use Savoy cabbage leaves for their dark green color, but regular green cabbage will work just fine.",
+    "duration": "PT1M25S",
+    "name": "Irish Bacon and Cabbage Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/C4PjcUVA/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T12:04:43-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fH4_24URGavPoLzEUi3qtVqE1Nw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4x3-GOLDMAN_ALR0323_InSeason_Soup_1645-ea6d03eae39f46a5b31c56adc7f3043e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100378/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/100378/step_03.webp"
+    ]
+  }
+}

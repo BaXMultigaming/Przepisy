@@ -1,0 +1,117 @@
+{
+  "id": "100839",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100839/irish-beef-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/100839/irish-beef-stew/",
+  "title": "Irish Beef Stew",
+  "description": "This hearty Irish beef stew has tender chunks of beef and vegetables slow-cooked in a rich and flavorful Guinness sauce for an incredibly delicious meal.",
+  "authors": [
+    "ONEHOTMAMA9"
+  ],
+  "date_published": "2020-02-01T02:50:43-05:00",
+  "date_modified": "2026-04-22T14:14:26-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT360M",
+  "total_time": "PT390M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "3 tablespoons all-purpose flour",
+    "2 pounds beef chuck, cut into 1 1/2-inch cubes",
+    "1 pound carrots, peeled and cut into 1-inch chunks",
+    "6 large potatoes, peeled and cut into large chunks",
+    "1 white onion, cut into large chunks",
+    "2 cloves garlic, minced",
+    "2 cups beef broth",
+    "1 (6 ounce) can tomato paste",
+    "1 (12 fluid ounce) can or bottle Irish stout beer (e.g. Guinness(r))",
+    "1 tablespoon cold water",
+    "1 tablespoon cornstarch"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jE46lEEaRAEGrT_iQFbc0Bo4wfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-006-step-01-3fe3745288d243d98fc5bebd6a0e6786.jpg"
+      ],
+      "image": "assets/images/100839/step_01.webp"
+    },
+    {
+      "text": "Heat oil in a large skillet over medium heat. Toss beef cubes with flour to coat, then fry in the hot oil until browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YfRgm3h1nu6wQS224xmS2qMIVFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-010-step-02-edcbd4f02e98430ea16532620840f0ba.jpg"
+      ],
+      "image": "assets/images/100839/step_02.webp"
+    },
+    {
+      "text": "Place carrots, potatoes, onion, and garlic into a large slow cooker; place browned beef on top of vegetables. Mix beef broth and tomato paste together until combined; pour into the slow cooker along with beer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/hr6mWIbvxB3A5hSXGtMuCL4Spa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-012-step-03-de54351e08484c89ba37d6c88c27f89a.jpg"
+      ],
+      "image": "assets/images/100839/step_03.webp"
+    },
+    {
+      "text": "Cover and cook on High for 6 hours or Low for 8 hours. During the last hour before serving, dissolve cornstarch in cold water and stir into broth. Simmer on the High setting for a few minutes to thicken. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/DUzWfKw_gSxjj1Og-ZlyHHaYQBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-048-step-04-e2709275b6504c4ab29102eb9788b862.jpg"
+      ],
+      "image": "assets/images/100839/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "597 kcal",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "82 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "498 mg",
+    "sugarContent": "8 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "143"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GE1RyY9-ujSK9h1sshFbt5jqPIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100839-irish-beef-stew-DDMFS-063-4x3-4fd29bf668ab490e8132e446d69277af.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100839/hero.webp",
+    "steps": [
+      "assets/images/100839/step_01.webp",
+      "assets/images/100839/step_02.webp",
+      "assets/images/100839/step_03.webp",
+      "assets/images/100839/step_04.webp"
+    ]
+  }
+}

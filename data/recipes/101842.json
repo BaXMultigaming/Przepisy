@@ -1,0 +1,84 @@
+{
+  "id": "101842",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/101842/clapshot/",
+  "requested_url": "https://www.allrecipes.com/recipe/101842/clapshot/",
+  "title": "Clapshot",
+  "description": "Clapshot, made with mashed potatoes, turnips, and carrots, is a Scottish vegetable dish that&#39;s traditionally served as an accompaniment to haggis.",
+  "authors": [
+    "Grant"
+  ],
+  "date_published": "2018-06-08T09:29:16-04:00",
+  "date_modified": "2022-09-25T16:03:31-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT25M",
+  "total_time": "PT50M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Scottish"
+  ],
+  "regions": [
+    "Scottish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound baking potatoes, peeled and cubed",
+    "0.75 pound turnips, peeled and cubed",
+    "0.25 pound carrots, peeled and cubed",
+    "1 teaspoon salt",
+    "2 tablespoons butter, cubed",
+    "3 tablespoons heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes, turnips, carrots, and salt into a Dutch oven. Fill with water to cover vegetables and bring to a boil over high heat. Reduce the heat to medium-high and boil until vegetables are tender, 20 to 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain and mash vegetables with a potato masher. Spoon mashed vegetables into a serving dish. Top with butter and drizzle with cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "355 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/757Grba4u_yFJZTg6eeoWqE-oRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/807331-161dcb356e7f4846b8f57837cf1180dd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/101842/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

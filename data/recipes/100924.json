@@ -1,0 +1,89 @@
+{
+  "id": "100924",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100924/calabacitas/",
+  "requested_url": "https://www.allrecipes.com/recipe/100924/calabacitas/",
+  "title": "Calabacitas",
+  "description": "Calabacitas is a recipe of zucchini, bell pepper, onion, and corn. The veggies are lightly fried in olive oil and butter and topped with Monterey Jack.",
+  "authors": [
+    "A P. Newman"
+  ],
+  "date_published": "2020-03-10T02:50:49-04:00",
+  "date_modified": "2026-07-24T15:36:38-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 tablespoon butter",
+    "2 zucchini, quartered lengthwise and then cut crosswise into 1/2-inch pieces",
+    "1 small sweet onion, diced",
+    "0.5 green bell pepper, diced",
+    "2 cloves garlic, minced",
+    "1 cup corn kernels",
+    "0.33333334326744 cup half and half",
+    "0.25 teaspoon salt",
+    "0.125 teaspoon ground black pepper",
+    "0.5 cup shredded Monterey Jack cheese"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil and butter in a large skillet over medium heat until butter melted. Add zucchini, onion, bell pepper, and garlic; cook until zucchini begins to soften, about 5 minutes. Stir in corn, half-and-half, salt, and black pepper. Cover, reduce heat to low, and simmer 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Off heat, sprinkle Monterey Jack cheese over top. Cover skillet until cheese melts, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "148 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "172 mg",
+    "sugarContent": "2 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/G7le5-FYBM-pG7Pg5hzFDRLwJjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/332667-d977744eca4b448492cbbc055d830217.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100924/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

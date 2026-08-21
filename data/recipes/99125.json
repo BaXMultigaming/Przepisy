@@ -1,0 +1,75 @@
+{
+  "id": "99125",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/99125/asparagus-and-cashews/",
+  "requested_url": "https://www.allrecipes.com/recipe/99125/asparagus-and-cashews/",
+  "title": "Asparagus and Cashews",
+  "description": "Crispy asparagus spears are stir-fried with fresh ginger and cashews in soy sauce, sesame oil, and olive oil for a quick and easy side dish.",
+  "authors": [
+    "Shelly Domke"
+  ],
+  "date_published": "2006-01-19T14:05:52-05:00",
+  "date_modified": "2025-01-24T11:43:13-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "World"
+  ],
+  "regions": [
+    "World"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "2 tablespoons sesame oil",
+    "1 teaspoon minced fresh ginger root",
+    "1 bunch asparagus stalks, ends cut",
+    "0.5 cup chopped cashews",
+    "1 tablespoon soy sauce"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil and sesame oil in a wok over low to medium heat. Add ginger and stir-fry until slightly brown. Add asparagus and stir-fry for 2 to 3 minutes. Add cashews and soy sauce. Cook, stirring frequently, until asparagus is tender but still crisp and bright green.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "243 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "338 mg",
+    "sugarContent": "3 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "300"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OwMO27Q2sbHJEYE6UviS7r37uEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5885046-9136f90611484afeb6e185ccf02199cd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/99125/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "106069",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/106069/vietnamese-tofu-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/106069/vietnamese-tofu-salad/",
+  "title": "Vietnamese Tofu Salad",
+  "description": "Chilled, garlic and soy sauce glazed tofu is tossed with sliced cucumbers in a sweet chili-lime sauce.",
+  "authors": [
+    "Chelle"
+  ],
+  "date_published": "2018-03-21T12:53:19-04:00",
+  "date_modified": "2022-07-14T16:00:18-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT15M",
+  "total_time": "PT100M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "2 tablespoons chopped garlic",
+    "1 (14 ounce) package tofu, drained and cubed",
+    "0.5 cup peanuts",
+    "2 tablespoons soy sauce",
+    "2 large cucumbers, peeled and thinly sliced",
+    "0.5 cup Vietnamese sweet chili sauce",
+    "0.25 cup lime juice",
+    "1 bunch chopped cilantro leaves"
+  ],
+  "steps": [
+    {
+      "text": "Heat the vegetable oil over medium heat in a large frying pan. Cook the garlic until fragrant, about 30 seconds. Gently stir in the tofu and peanuts; cook until the tofu has lightly browned. Pour in the soy sauce, and cook, stirring frequently, until absorbed by the tofu. Remove from heat and let cool. Refrigerate for at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss the sliced cucumbers together with the chili sauce, lime juice, and cilantro. Gently fold in the chilled tofu.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 kcal",
+    "carbohydrateContent": "18 g",
+    "fiberContent": "3 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "636 mg",
+    "sugarContent": "9 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PjWmDJuc1G1hHxhxMqKIGYVb2Uo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221972-cb444b33183e454583ec7cd7bd180421.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/106069/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "100218",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100218/corrigans-minestrone/",
+  "requested_url": "https://www.allrecipes.com/recipe/100218/corrigans-minestrone/",
+  "title": "Corrigan&#39;s Minestrone",
+  "description": "Hearty and filling vegetarian soup with potatoes, carrots, celery, onion, garlic, beans and pasta.",
+  "authors": [
+    "Corrigan Gommenginger"
+  ],
+  "date_published": "2020-03-09T22:50:53-04:00",
+  "date_modified": "2022-07-14T16:09:10-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT60M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "5 potatoes, peeled and cubed",
+    "5 carrots, chopped",
+    "4 stalks celery, chopped",
+    "1 sweet onion, chopped",
+    "3 cloves garlic, chopped",
+    "1 (6 ounce) can tomato paste",
+    "1 (15 ounce) can kidney beans, drained and rinsed",
+    "1 (14 ounce) can vegetable broth",
+    "1.5 quarts water",
+    "3 tablespoons chopped fresh basil",
+    "2 tablespoons chopped fresh oregano",
+    "1 tablespoon salt",
+    "2 cups uncooked elbow macaroni"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large pot over medium heat. Stir potatoes, carrots, celery, onion and garlic into pot. Mix in tomato paste, beans, broth and water. Season with basil, oregano and salt. Cook and stir 30 minutes, or until vegetables are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix macaroni into pot. Continue cooking 10 minutes, or until macaroni is tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "221 kcal",
+    "carbohydrateContent": "42 g",
+    "fiberContent": "7 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "874 mg",
+    "sugarContent": "5 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "178"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9Qd512zqSEu8YQ4alBRiMlDzaC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/363843-860c8fe5d6854d01ab53f0d0d892977f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100218/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

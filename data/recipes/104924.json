@@ -1,0 +1,87 @@
+{
+  "id": "104924",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/104924/supa-dupa-egg-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/104924/supa-dupa-egg-sandwich/",
+  "title": "Supa-Dupa Egg Sandwich",
+  "description": "This is a hamburger sandwich made with fried egg, ham, and mozzarella. Easy, good tasting, kind of wet. Delicious!",
+  "authors": [
+    "Oscar Scheepstra"
+  ],
+  "date_published": "2018-03-21T12:52:49-04:00",
+  "date_modified": "2025-04-27T18:09:01-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 pound extra lean ground beef",
+    "2 (1 ounce) slices bread",
+    "ketchup",
+    "mayonnaise",
+    "1 egg",
+    "2 slices mozzarella cheese",
+    "2 slices ham",
+    "1 slice fresh tomato"
+  ],
+  "steps": [
+    {
+      "text": "Place a frying pan over medium heat. Form the ground beef into a patty and cook to desired doneness. Fry egg in a small, lightly oiled pan over medium heat. Flip the egg over and cover with cheese. Cook until the yolk has hardened and the cheese has melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread ketchup and mayonnaise onto the bread slices . Place the egg on one of the slices of bread. Heat the ham in the pan, and place on top of the egg. Top with hamburger and tomato slices. Place the other slice of bread on top, and slice in half.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "643 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "301 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "50 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1120 mg",
+    "sugarContent": "8 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fy-6otmlDUdpqJg5CLLpm9kkxNs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1901664-24b48f2a55314f05b22897028fe7d218.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/104924/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

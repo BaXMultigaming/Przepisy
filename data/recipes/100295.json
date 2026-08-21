@@ -1,0 +1,111 @@
+{
+  "id": "100295",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100295/irish-champ/",
+  "requested_url": "https://www.allrecipes.com/recipe/100295/irish-champ/",
+  "title": "Irish Champ",
+  "description": "Northern Irish champ is similar to colcannon but made without cabbage. Serve these creamy scallion-flavored mashed spuds with good quality sausages.",
+  "authors": [
+    "Ita"
+  ],
+  "date_published": "2018-06-08T09:29:08-04:00",
+  "date_modified": "2025-11-26T13:10:55-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds potatoes, peeled and halved",
+    "1 cup milk",
+    "1 bunch green onions, thinly sliced",
+    "0.25 cup butter, cut into pieces",
+    "0.5 teaspoon salt, or to taste",
+    "freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce the heat to medium-low and simmer until tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain potatoes well, then return to the pot and cover with a clean dish towel. Place the pot over very low heat until potatoes are dry, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat the milk and green onion in a saucepan over medium-low heat until warm, 3 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Once potatoes are dry, add butter and salt; mash with a potato masher until smooth. Stir in warm milk mixture until well combined, then season with pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rB81ilgowRhBb_NKsJTchDrfanE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100295irish-champGroceryAddict4x3-e7e6beefaf6841708dba138039f928e5.jpg"
+      ],
+      "image": "assets/images/100295/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "326 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "35 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "420 mg",
+    "sugarContent": "6 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "178"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/gddJzJwN-K3AjnAEN.mp4",
+    "description": "Champ is made by blending scallions or green onions with creamy mashed potatoes. Great on its own, served steaming hot with extra butter that will melt and ooze right through it. But it's also the perfect side dish for good quality sausages.",
+    "duration": "PT54S",
+    "name": "Irish Champ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/gddJzJwN/poster.jpg?width=1280",
+    "uploadDate": "2023-02-27T12:29:25-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rB81ilgowRhBb_NKsJTchDrfanE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100295irish-champGroceryAddict4x3-e7e6beefaf6841708dba138039f928e5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100295/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/100295/step_04.webp"
+    ]
+  }
+}

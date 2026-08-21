@@ -1,0 +1,89 @@
+{
+  "id": "111515",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/111515/quinoa-with-chickpeas-and-tomatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/111515/quinoa-with-chickpeas-and-tomatoes/",
+  "title": "Quinoa with Chickpeas and Tomatoes",
+  "description": "This delicious recipe was presented to me by a vegan friend. The lime juice gives the quinoa a fresh flavor that can&#39;t be beat!",
+  "authors": [
+    "sarahhouston"
+  ],
+  "date_published": "2019-04-03T23:35:36-04:00",
+  "date_modified": "2026-07-03T11:00:18-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "3 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup quinoa",
+    "0.125 teaspoon salt",
+    "1.75 cups water",
+    "1 cup canned garbanzo beans (chickpeas), drained",
+    "1 tomato, chopped",
+    "1 clove garlic, minced",
+    "3 tablespoons lime juice",
+    "4 teaspoons olive oil",
+    "0.5 teaspoon ground cumin",
+    "1 pinch salt and pepper to taste",
+    "0.5 teaspoon chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Place the quinoa in a fine mesh strainer, and rinse under cold, running water until the water no longer foams. Bring the quinoa, salt, and water to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until the quinoa is tender, 20 to 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Once done, stir in the garbanzo beans, tomatoes, garlic, lime juice, and olive oil. Season with cumin, salt, and pepper. Sprinkle with chopped fresh parsley to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "176 mg",
+    "sugarContent": "1 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "388"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WElKH4AN6pcQkoD7LbFL_J-zeeA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/388300-quinoa-with-chickpeas-and-tomatoes-Alberta-Rose-4x3-1-b3668f8b948844cdbc059045e82984eb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/111515/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

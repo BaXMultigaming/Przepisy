@@ -1,0 +1,70 @@
+{
+  "id": "99044",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/99044/european-fry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/99044/european-fry-sauce/",
+  "title": "European Fry Sauce",
+  "description": "A tangy European style dipping sauce for french fries.",
+  "authors": [
+    "Ryan Stroud"
+  ],
+  "date_published": "2018-06-08T09:29:02-04:00",
+  "date_modified": "2023-02-22T12:49:13-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT65M",
+  "yield": [
+    "6"
+  ],
+  "categories": [],
+  "cuisines": [
+    "European"
+  ],
+  "regions": [
+    "European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup mayonnaise",
+    "1 pinch salt",
+    "2 tablespoons red wine vinegar"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, stir together the mayonnaise and salt. Stir in vinegar 1 teaspoon at a time until you reach a your desired consistency. Chill for 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "133 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "7 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "104 mg",
+    "sugarContent": "0 g",
+    "fatContent": "15 g",
+    "servingSize": "3 /4 cup",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8Ze40NAW7a9UrJnXH4ZdJX4myig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/99044-European-Fry-Sauce-France-C-2000-870bb9cc5649458598b93c0befbf9c13.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/99044/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

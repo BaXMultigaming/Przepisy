@@ -1,0 +1,83 @@
+{
+  "id": "107794",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/107794/tropical-carrot-apple-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/107794/tropical-carrot-apple-juice/",
+  "title": "Tropical Carrot-Apple Juice",
+  "description": "This tropical pink-tinged juice gets its zing from pineapple and a bit of fresh ginger!",
+  "authors": [
+    "meg"
+  ],
+  "date_published": "2020-06-18T23:13:44-04:00",
+  "date_modified": "2020-06-18T23:13:44-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "3 cups"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large apple, quartered",
+    "0.5 (15 ounce) can pineapple chunks",
+    "3 large carrots, ends trimmed",
+    "2 teaspoons fresh ginger",
+    "2 large stalks celery",
+    "0.5 medium beet",
+    "1 teaspoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Juice the apple, pineapple, carrots, ginger, celery, and beet in a juice machine. Sweeten with sugar if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/l-2EQASmYWd6_HADHJuTAzaHsSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5143979-68549c07d4aa46e7a058853b642b311b.jpg"
+      ],
+      "image": "assets/images/107794/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "16 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "48 mg",
+    "sugarContent": "12 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "22"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/62vXbQAS-ma1DlVvV.mp4",
+    "description": "0009 Tropical Carrot Apple Juice - APPROVED",
+    "duration": "PT1M3S",
+    "name": "Tropical Carrot Apple",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/62vXbQAS/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T05:22:14-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l-2EQASmYWd6_HADHJuTAzaHsSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5143979-68549c07d4aa46e7a058853b642b311b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/107794/hero.webp",
+    "steps": [
+      "assets/images/107794/step_01.webp"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "99219",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/99219/dynamite-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/99219/dynamite-sauce/",
+  "title": "Dynamite Sauce",
+  "description": "This version of dynamite sauce is made with mayonnaise, chili garlic sauce, and a bit of sugar. It&#39;s delicious over sushi or with tempura dishes.",
+  "authors": [
+    "The Sushi Guy"
+  ],
+  "date_published": "2020-06-18T23:13:20-04:00",
+  "date_modified": "2026-04-21T18:13:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Condiment",
+    "Sauce"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "regions": [
+    "Japanese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mayonnaise",
+    "1 tablespoon sugar",
+    "1 tablespoon chili garlic sauce"
+  ],
+  "steps": [
+    {
+      "text": "Mix mayonnaise, sugar, and chili garlic sauce together in a small bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "204 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "11 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "236 mg",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "46"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_ZogDxJGfzVlKVsqQ5j02Jd3Vqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/99219dynamite-sauceYoly4x3-05d0257285ee4a94b971c4158747d68a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/99219/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

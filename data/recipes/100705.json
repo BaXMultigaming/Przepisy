@@ -1,0 +1,108 @@
+{
+  "id": "100705",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100705/slow-cooked-habanero-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/100705/slow-cooked-habanero-chili/",
+  "title": "Slow-Cooked Habanero Chili",
+  "description": "This slow-cooked habanero chili recipe combines ground turkey, black-eyed peas, corn, and dried habanero chiles. Top with Cheddar cheese or cornbread.",
+  "authors": [
+    "Nicole"
+  ],
+  "date_published": "2020-03-10T02:50:48-04:00",
+  "date_modified": "2025-02-11T22:07:46-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT180M",
+  "total_time": "PT200M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons olive oil",
+    "1 pound lean ground turkey",
+    "1 cup red bell pepper, chopped",
+    "3 cloves garlic, minced",
+    "1 (16 ounce) can kidney beans, rinsed and drained",
+    "1 (16 ounce) can black beans, rinsed and drained",
+    "1 (15 ounce) can low sodium tomato sauce",
+    "1 cup rinsed and drained canned black-eyed peas",
+    "1 dried habanero pepper, chopped",
+    "1 cup frozen corn kernels",
+    "1 tablespoon packed brown sugar",
+    "1 tablespoon dried basil",
+    "1 teaspoon Worcestershire sauce",
+    "1 teaspoon dried sage",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat 1 tablespoon olive oil in a large skillet over medium-high heat. Add ground turkey; cook until no longer pink and evenly browned, about 10 minutes. Transfer to a slow cooker using a slotted spoon; drain any oil from the skillet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat remaining 2 tablespoons olive oil in the same skillet over medium-high heat. Add bell pepper and garlic; cook until tender, about 3 minutes. Stir into turkey.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir kidney beans, black beans, tomato sauce, black-eyed peas, and habanero into turkey mixture. Cover slow cooker. Cook on High for 2 hours or on Low for 6 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in corn, brown sugar, basil, Worcestershire sauce, and sage; cook 1 hour more. Season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "240 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "380 mg",
+    "sugarContent": "3 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lZBLsRJ427R9Oanxu8Ut_5rcv4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/210015-c52731c7e6154479926db41739d3fbdd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100705/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "100011",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100011/pork-and-black-bean-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/100011/pork-and-black-bean-stew/",
+  "title": "Pork and Black Bean Stew",
+  "description": "This Brazilian pork and black bean stew recipe features pork tenderloin and chorizo sausage along with canned black beans, onion, garlic, and bay leaves.",
+  "authors": [
+    "MICHELLE0011"
+  ],
+  "date_published": "2019-04-03T23:34:42-04:00",
+  "date_modified": "2025-04-22T22:51:33-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT60M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Brazilian"
+  ],
+  "regions": [
+    "Brazilian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "1 large onion, chopped",
+    "1 teaspoon minced garlic",
+    "1 (12 ounce) pork tenderloin, cut into 1/2 inch cubes",
+    "1 (19 ounce) can black beans, drained and rinsed",
+    "0.25 cup water",
+    "3 chorizo sausages, cut into 1/2 inch thick pieces",
+    "1.5 cups chicken stock",
+    "2 bay leaves",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat 1 tablespoon vegetable oil in a skillet over medium heat. Add onion and garlic; cook until onion softens and turns translucent, 3 to 5 minutes. Transfer onion to a saucepan. Pour remaining 1 tablespoon vegetable oil into the skillet; place over medium-high heat. Add cubed pork; cook until well browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, add ¾ black beans and water to a blender; pulse until finely chopped, but not quite smooth. Transfer bean purée to the saucepan; stir in remaining whole black beans, pork cubes, chorizo, chicken stock, and bay leaves. Bring to a boil over medium-high heat, then reduce heat to medium-low, cover, and simmer 30 minutes. Season with salt and black pepper before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "482 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "77 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1361 mg",
+    "sugarContent": "2 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "109"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NKxDmXOWMNOzxgsXveLTyB-r9GM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1441062-7d87107a7af842a49d03f7f43cc5857c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100011/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

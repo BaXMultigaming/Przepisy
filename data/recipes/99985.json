@@ -1,0 +1,84 @@
+{
+  "id": "99985",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/99985/russian-syrniki/",
+  "requested_url": "https://www.allrecipes.com/recipe/99985/russian-syrniki/",
+  "title": "Russian Syrniki",
+  "description": "This is a traditional dessert served in Russia. Cottage cheese is first sweetened with sugar, then kneaded into a dough with flour. The resulting disks are fried to a golden brown in hot oil. They are best served with sour cream and jam.",
+  "authors": [
+    "LRISPENS"
+  ],
+  "date_published": "2020-06-18T23:13:22-04:00",
+  "date_modified": "2020-06-18T23:13:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT8M",
+  "total_time": "PT18M",
+  "yield": [
+    "4",
+    "8 syrniki"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Russian"
+  ],
+  "regions": [
+    "Russian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup cottage cheese",
+    "2 eggs, beaten",
+    "3 tablespoons white sugar",
+    "2 tablespoons semolina flour",
+    "3 tablespoons all-purpose flour, plus extra for dusting",
+    "0.33333334326744 cup canola oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Mix together the cottage cheese, eggs, and sugar. Stir in semolina and all-purpose flour, and work into a soft dough. Turn the dough onto a floured surface, and roll into a 1-inch thick log. Slice the log into 8 pieces, then pat each piece in additional flour to form a patty.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the oil over medium heat until hot. Fry the syrniki in hot oil until golden brown on each side, 3 to 4 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "186 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "263 mg",
+    "sugarContent": "10 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nEhir0eWATuDVIdcbP9IBN8R-KY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4512756-c52a14dae92b499482a96bea61f5850e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/99985/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

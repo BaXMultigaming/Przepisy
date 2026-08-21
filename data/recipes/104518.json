@@ -1,0 +1,93 @@
+{
+  "id": "104518",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/104518/italian-ricotta-cheesecake/",
+  "requested_url": "https://www.allrecipes.com/recipe/104518/italian-ricotta-cheesecake/",
+  "title": "Italian Ricotta Cheesecake",
+  "description": "This is a basic Italian cheesecake made with ricotta cheese, a little orange, and a shot of whiskey!",
+  "authors": [
+    "CLIFFYW"
+  ],
+  "date_published": "2020-06-18T23:13:33-04:00",
+  "date_modified": "2020-06-18T23:13:33-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT60M",
+  "total_time": "PT70M",
+  "yield": [
+    "16",
+    "2 cheesecakes"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "9 eggs",
+    "3 pounds ricotta cheese",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon ground cinnamon",
+    "1 cup white sugar",
+    "1 teaspoon grated orange zest",
+    "1 (1.5 fluid ounce) jigger whiskey, optional"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Coat two 9-inch pie pans with vegetable oil cooking spray.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat eggs in a large bowl. Mix in the ricotta cheese, vanilla, cinnamon, sugar, zest, and whiskey. Pour into prepared pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 1 hour to 1 hour 15 minutes, until firm. Let cool, then refrigerate until cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "131 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "146 mg",
+    "sugarContent": "13 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IUKBo6euiaTrdOGpJSV8Ti1iImk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15133-54febb9af6014877befd3ffb110bcb87.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/104518/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

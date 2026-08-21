@@ -1,0 +1,95 @@
+{
+  "id": "99234",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/99234/boiled-lobster/",
+  "requested_url": "https://www.allrecipes.com/recipe/99234/boiled-lobster/",
+  "title": "Boiled Lobster",
+  "description": "Boiled lobsters are cooked in a fragrant broth of seasoned salt, onions, garlic, oranges, lemons, and celery.",
+  "authors": [
+    "Venita Johnson"
+  ],
+  "date_published": "2019-04-03T23:34:40-04:00",
+  "date_modified": "2026-06-08T11:19:47-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT15M",
+  "total_time": "PT45M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "New England"
+  ],
+  "regions": [
+    "New England"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 gallons water",
+    "2 large onions, quartered",
+    "10 cloves garlic, peeled and cut in half",
+    "2 lemons, quartered",
+    "2 oranges, quartered",
+    "5 stalks celery, quartered",
+    "4 tablespoons black pepper",
+    "4 tablespoons seasoned salt",
+    "6 fresh jalapeno peppers",
+    "2 fresh live lobsters"
+  ],
+  "steps": [
+    {
+      "text": "Pour water into a large pot and add onions, garlic, lemons, oranges, celery, black pepper, seasoned salt, and jalapeño peppers. Bring to a rolling boil and boil for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add lobsters and place a lid over the pot. Boil until shells are bright red and meat is opaque, about 15 minutes (depending on the size of your lobsters).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove lobsters from the pot and place them in a colander under cool running water to stop the cooking process.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "793 kcal",
+    "carbohydrateContent": "77 g",
+    "cholesterolContent": "383 mg",
+    "fiberContent": "19 g",
+    "proteinContent": "118 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "7794 mg",
+    "sugarContent": "25 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pr0WhQRjMdqmtEH0C_8AtJaxjww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9368099-3802e66ae8d645a6baafef142c05ab62.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/99234/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

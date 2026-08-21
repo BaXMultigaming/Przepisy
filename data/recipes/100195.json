@@ -1,0 +1,120 @@
+{
+  "id": "100195",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/100195/baked-haddock/",
+  "requested_url": "https://www.allrecipes.com/recipe/100195/baked-haddock/",
+  "title": "Baked Haddock",
+  "description": "This baked haddock recipe is quick and easy to prepare with a Parmesan bread crumb coating for a kid-friendly dinner in less than 30 minutes!",
+  "authors": [
+    "linda"
+  ],
+  "date_published": "2019-04-02T02:48:11-04:00",
+  "date_modified": "2026-06-29T16:51:01-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.75 cup milk",
+    "2 teaspoons salt",
+    "0.75 cup bread crumbs",
+    "0.25 cup grated Parmesan cheese",
+    "0.25 teaspoon ground dried thyme",
+    "4 haddock fillets",
+    "0.25 cup butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 500 degrees F (260 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, combine the milk and salt. In a separate bowl, mix together the bread crumbs, Parmesan cheese, and thyme.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/W_uQQPHFjvPk0A-Hx1_m8JS29NM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100195-BakedHaddock-mfs-Step1-1422-133d892cbfe44444971be450a8ee73d9.jpg"
+      ],
+      "image": "assets/images/100195/step_02.webp"
+    },
+    {
+      "text": "Dip the haddock fillets in the milk, then press into the crumb mixture to coat. Place haddock fillets in a glass baking dish, and drizzle with melted butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2FcxA5oos0no9KHG2lnglaFSeBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100195-BakedHaddock-mfs-Step2-1425-273d8c1eab9f4aa09bcac47b06caf108.jpg"
+      ],
+      "image": "assets/images/100195/step_03.webp"
+    },
+    {
+      "text": "Bake on the top rack of the preheated oven until the fish flakes easily, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jWIHVlM1bGEylpNGfybNRB_xN28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100195-BakedHaddock-mfs-4x3-1441-867e32979a2b409bb7445f59f8c170bb.jpg"
+      ],
+      "image": "assets/images/100195/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "325 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "103 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1565 mg",
+    "sugarContent": "4 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1108"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/vryPBRPT-K3AjnAEN.mp4",
+    "description": "Are you on the hunt for the best baked fish recipe? Fortunately, your search ends here. In this video, learn how to make baked haddock, the perfect recipe for those hurried weeknight meals. This seafood recipe is quick and easy to prepare using a Parmesan bread crumb coating, and it makes a healthier alternative to deep frying without sacrificing flavor. We think everyone at your table will love this wonderful meal.",
+    "duration": "PT55S",
+    "name": "How to Make Baked Haddock",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/vryPBRPT/poster.jpg?width=1280",
+    "uploadDate": "2023-02-05T11:33:45-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jWIHVlM1bGEylpNGfybNRB_xN28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/100195-BakedHaddock-mfs-4x3-1441-867e32979a2b409bb7445f59f8c170bb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/100195/hero.webp",
+    "steps": [
+      null,
+      "assets/images/100195/step_02.webp",
+      "assets/images/100195/step_03.webp",
+      "assets/images/100195/step_04.webp"
+    ]
+  }
+}

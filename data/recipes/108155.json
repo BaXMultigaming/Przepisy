@@ -1,0 +1,84 @@
+{
+  "id": "108155",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/108155/super-blt/",
+  "requested_url": "https://www.allrecipes.com/recipe/108155/super-blt/",
+  "title": "Super BLT",
+  "description": "This super BLT recipe takes an ordinary BLT to the next level with layers of crispy bacon, juicy lettuce, tomatoes, guacamole, and tangy cream cheese.",
+  "authors": [
+    "Lisabeth"
+  ],
+  "date_published": "2019-04-02T02:48:24-04:00",
+  "date_modified": "2025-10-27T21:42:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 slices bacon",
+    "0.25 cup guacamole",
+    "8 slices bread, toasted",
+    "0.25 cup cream cheese",
+    "4 lettuce leaves",
+    "4 slices tomato"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on a paper towel-lined plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread guacamole on 4 slices toast; spread cream cheese on remaining 4 slices toast. Divide lettuce, tomato, and bacon between 4 slices toast; top with remaining toast slices, coated sides down.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "306 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "809 mg",
+    "sugarContent": "3 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "78"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Q8DaGXJTCsx1mU8Oy1jQPafDN68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/814610-47da23119c4e4dd09319ae5dfcf60089.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/108155/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
