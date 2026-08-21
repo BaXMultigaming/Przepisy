@@ -1,0 +1,82 @@
+{
+  "id": "17380",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17380/meringue-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/17380/meringue-ii/",
+  "title": "Meringue Topping",
+  "description": "This foolproof vanilla meringue is perfect for topping pies or piping into individual meringue shells.",
+  "authors": [
+    "Saundra"
+  ],
+  "date_published": "2000-03-15T18:12:14-05:00",
+  "date_modified": "2026-06-03T08:01:36-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "1 pie topping"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup water",
+    "2 tablespoons white sugar",
+    "1 tablespoon cornstarch",
+    "3 egg whites",
+    "0.25 teaspoon cream of tartar",
+    "1 pinch salt",
+    "0.5 teaspoon vanilla extract",
+    "6 tablespoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine water, 2 tablespoons sugar, and cornstarch in a small saucepan. Cook over low heat, stirring constantly, until clear and thickened, about 2 minutes. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat egg whites, cream of tartar, and salt in a large glass or metal bowl until foamy. Add vanilla. Gradually beat in remaining 6 tablespoons sugar until soft peaks form. Gradually beat in cornstarch mixture until stiff, glossy peaks form. Spread meringue over hot pie filling, sealing to the crust. Brown in the oven as desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "59 kcal",
+    "carbohydrateContent": "14 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "21 mg",
+    "sugarContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "263"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BB18i41o49EpZb5MWZDYSAVioac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9280378-a0e654888e14468c90a9588dd894bf52.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17380/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

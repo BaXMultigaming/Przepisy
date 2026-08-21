@@ -1,0 +1,101 @@
+{
+  "id": "17971",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17971/carrot-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/17971/carrot-rice/",
+  "title": "Carrot Rice",
+  "description": "Fragrant basmati rice sauteed with carrots, onions, fresh ginger, peanuts, and cilantro.",
+  "authors": [
+    "Allrecipes Member"
+  ],
+  "date_published": "2000-03-18T21:13:55-05:00",
+  "date_modified": "2026-06-26T15:54:54-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup basmati rice",
+    "2 cups water",
+    "0.25 cup roasted peanuts",
+    "1 tablespoon margarine",
+    "1 onion, sliced",
+    "1 teaspoon minced fresh ginger root",
+    "0.75 cup grated carrots",
+    "salt to taste",
+    "cayenne pepper to taste",
+    "chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Combine rice and water in a medium saucepan. Bring to a boil over high heat. Reduce heat to low, cover with lid, and allow to steam until tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While rice is cooking, grind peanuts in a blender and set aside. Heat the margarine in a skillet over medium heat. Stir in the onion; cook and stir until the onion has softened and turned golden brown about 10 minutes. Stir in ginger, carrots, and salt to taste. Reduce heat to low and cover to steam 5 minutes. Stir in cayenne pepper and peanuts. When rice is done, add it to skillet and stir gently to combine with other ingredients. Garnish with chopped cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LwkBXpx7w2wOWimdroCBg-ZxANw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1013061-32d48b8396314f2da3cf48562f483f2a.jpg"
+      ],
+      "image": "assets/images/17971/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "179 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "34 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "770"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/1G6pSH5A-K3AjnAEN.mp4",
+    "description": "Fragrant basmati rice sautéed with carrots, onions, fresh ginger, peanuts, and cilantro. You will be pleasantly surprised when you taste this delicious rice.",
+    "duration": "PT1M29S",
+    "name": "Carrot Rice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1G6pSH5A/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T00:33:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LwkBXpx7w2wOWimdroCBg-ZxANw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1013061-32d48b8396314f2da3cf48562f483f2a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17971/hero.webp",
+    "steps": [
+      null,
+      "assets/images/17971/step_02.webp"
+    ]
+  }
+}

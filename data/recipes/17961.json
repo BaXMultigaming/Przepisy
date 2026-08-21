@@ -1,0 +1,110 @@
+{
+  "id": "17961",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17961/rolled-tacos/",
+  "requested_url": "https://www.allrecipes.com/recipe/17961/rolled-tacos/",
+  "title": "Rolled Tacos",
+  "description": "I love Mexican food but a lot of it is too spicy for me, so I&#39;ve created this excellent, low-spiced version of rolled chicken tacos.",
+  "authors": [
+    "GIPSY"
+  ],
+  "date_published": "2000-04-23T21:52:03-04:00",
+  "date_modified": "2022-07-14T17:05:47-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "12",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 boneless, skinless chicken breasts",
+    "2 (6 ounce) cans black olives, drained",
+    "1 (16 ounce) jar salsa",
+    "24 (6 inch) flour tortillas",
+    "0.25 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Boil chicken breasts for 20 minutes or until they are thoroughly cooked. Drain breasts well and let cool. Use an electric food processor or manually shred the chicken and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Use an electric food processor or blender to puree the olives. In a mixing bowl, combine salsa, olives, and chicken. Heat tortillas in microwave for about 20 to 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place 1 to 2 tablespoons of the chicken mixture into the center of each warmed tortilla and roll the tortillas tightly, using toothpicks to keep them closed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in skillet over a high heat. When the oil is hot, place the rolled taco into the oil and deep fry until lightly browned. Drain on paper towels and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3CxZlwjDzPB2SY0j9PQfJeP-z7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-507-16005c9c4be44d64968063189b53b994.jpg"
+      ],
+      "image": "assets/images/17961/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "337 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "911 mg",
+    "sugarContent": "2 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "18"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/4QkpkV2s-K3AjnAEN.mp4",
+    "description": "These Rolled Tacos have all of the flavor we crave with Mexican food, with a mild spice level. Add these chicken tacos to your dinner menu. They're a great meal for people of all ages!",
+    "duration": "PT58S",
+    "name": "How to Make Rolled Tacos",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/4QkpkV2s/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:25:09-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3CxZlwjDzPB2SY0j9PQfJeP-z7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-507-16005c9c4be44d64968063189b53b994.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17961/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/17961/step_04.webp"
+    ]
+  }
+}

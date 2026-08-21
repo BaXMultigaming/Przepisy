@@ -1,0 +1,99 @@
+{
+  "id": "18325",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18325/sauerkraut-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/18325/sauerkraut-casserole/",
+  "title": "Sauerkraut Casserole",
+  "description": "This sauerkraut casserole with bacon and tomatoes bakes slowly to allow the ingredients to caramelize thoroughly for a deliciously savory side dish.",
+  "authors": [
+    "SHELLEY SHARPIN"
+  ],
+  "date_published": "2000-05-20T13:15:03-04:00",
+  "date_modified": "2025-09-10T18:56:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT135M",
+  "total_time": "PT145M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound sauerkraut",
+    "14 ounces tomato, coarsely chopped",
+    "1 cup white sugar",
+    "6 slices bacon, diced",
+    "1 tablespoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients. Preheat the oven to 325 degrees F (165 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3yWPsHo_b4WeHx5VuD3MJ3JKPV8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18325-sauerkraut-casserole-VAT-step-01-19518bceb7d94518b12eac7f590c8f1f.jpg"
+      ],
+      "image": "assets/images/18325/step_01.webp"
+    },
+    {
+      "text": "Combine sauerkraut, tomatoes, sugar, bacon, and black pepper in a 9x13-inch casserole dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Ay60CneGoCV3YiAicooYeu1_G2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18325-sauerkraut-casserole-VAT-step-02-4f1d0dbe3a0349aea85ceba7045af418.jpg"
+      ],
+      "image": "assets/images/18325/step_02.webp"
+    },
+    {
+      "text": "Bake in the preheated oven until bubbly around the edges and caramelized on top, about 2 hours and 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/s6dTiAtQlUx_YNwwbS83mmcF3Ig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18325-sauerkraut-casserole-VAT-step-03-8e3fd09f99624ce29cbdb8f17d723cf2.jpg"
+      ],
+      "image": "assets/images/18325/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "557 mg",
+    "sugarContent": "27 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7mvdTFgQ87cIPa5DL76S7eH5be0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18325-sauerkraut-casserole-VAT-Beauty-4x3-029ab6494cb941ceabfcce91bc75f647.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18325/hero.webp",
+    "steps": [
+      "assets/images/18325/step_01.webp",
+      "assets/images/18325/step_02.webp",
+      "assets/images/18325/step_03.webp"
+    ]
+  }
+}

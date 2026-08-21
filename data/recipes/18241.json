@@ -1,0 +1,119 @@
+{
+  "id": "18241",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18241/candied-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/18241/candied-carrots/",
+  "title": "Candied Carrots",
+  "description": "These candied carrots are made with tender, boiled carrots cooked in a buttery brown sugar sauce until glazed for a colorful, crowd-pleasing side.",
+  "authors": [
+    "Denyse"
+  ],
+  "date_published": "2000-05-29T18:51:03-04:00",
+  "date_modified": "2025-11-04T14:09:11-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound carrots, cut into 2 inch pieces",
+    "0.25 cup packed brown sugar",
+    "2 tablespoons butter, diced",
+    "1 pinch salt",
+    "1 pinch ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JhVz1iJACOntuwC2CypfNPOE9wA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18241-candied-carrots-DDMFS-082-4x3-step-01-fbd1a6da39174acfa511edaa01597b51.jpg"
+      ],
+      "image": "assets/images/18241/step_01.webp"
+    },
+    {
+      "text": "Place carrots in a pot of salted water; bring to a boil. Reduce heat to a low boil and cook until tender but not mushy, about 15 minutes. Drain and return carrots to the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FlD5-fPSW-QB2bA5lumzu-azJOU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18241-candied-carrots-DDMFS-106-4x3-step-02-b236d2c10b5f4b0a8744ded0bb62ad9e.jpg"
+      ],
+      "image": "assets/images/18241/step_02.webp"
+    },
+    {
+      "text": "Place the pot with carrots over the lowest possible heat setting. Stir in brown sugar, butter, salt, and pepper. Cook until sugar is bubbly, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/TrUrl08xmFh9XiFshCtslNBAbzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18241-candied-carrots-DDMFS-108-4x3-step-03-cb608bdc975f4d3e81c43cc0bdfabfa1.jpg"
+      ],
+      "image": "assets/images/18241/step_03.webp"
+    },
+    {
+      "text": "Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7h8AeN2BZA_otfC9SJKkQPkbmHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18241-candied-carrots-DDMFS-121-4x3-beauty--3db2514953504ef1a654d244c1fbc44a.jpg"
+      ],
+      "image": "assets/images/18241/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "150 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "123 mg",
+    "sugarContent": "19 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "869"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/435euFl0-K3AjnAEN.mp4",
+    "description": "AR_MAR_0010",
+    "duration": "PT1M33S",
+    "name": "Candied Carrots",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/435euFl0/thumbnails/NBVY4iq7.jpg?width=1280",
+    "uploadDate": "2021-07-13T02:27:51-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7h8AeN2BZA_otfC9SJKkQPkbmHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18241-candied-carrots-DDMFS-121-4x3-beauty--3db2514953504ef1a654d244c1fbc44a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18241/hero.webp",
+    "steps": [
+      "assets/images/18241/step_01.webp",
+      "assets/images/18241/step_02.webp",
+      "assets/images/18241/step_03.webp",
+      "assets/images/18241/step_04.webp"
+    ]
+  }
+}

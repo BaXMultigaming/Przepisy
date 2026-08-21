@@ -1,0 +1,82 @@
+{
+  "id": "17580",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17580/sugar-free-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/17580/sugar-free-frosting/",
+  "title": "Sugar-Free Frosting",
+  "description": "Versatile cream cheese frosting flavored with sugar-free instant pudding. It will frost one 9x13 or one 2 layer cake. Use any flavor of pudding mix.",
+  "authors": [
+    "Chelsey Stewart"
+  ],
+  "date_published": "1998-12-28T23:12:45-05:00",
+  "date_modified": "2026-05-17T17:39:31-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "1 frosting cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (1.4 ounce) package sugar-free instant pudding mix",
+    "1.75 cups milk",
+    "1 (8 ounce) package cream cheese",
+    "1 (8 ounce) container lite frozen whipped topping, thawed"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine pudding mix and milk. Mix well and let stand until thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, beat cream cheese until smooth. Add pudding and mix well. Finally, fold in whipped topping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "135 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "164 mg",
+    "sugarContent": "4 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "153"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-Xs2_OMKywoLxl2nSKW5n7PL7uI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1609843-3d254f8ea38f47bf919ec88764bbb045.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17580/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

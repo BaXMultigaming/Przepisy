@@ -1,0 +1,96 @@
+{
+  "id": "17370",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17370/chocolate-cake-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/17370/chocolate-cake-ii/",
+  "title": "Chocolate Cake",
+  "description": "A moist chocolate cake made with cocoa, hot coffee, and vanilla. Top with your favorite vanilla or chocolate frosting for a sweet treat.",
+  "authors": [
+    "Nanci"
+  ],
+  "date_published": "1999-09-13T14:26:34-04:00",
+  "date_modified": "2026-04-30T16:10:22-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "24",
+    "1 9x13-inch cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "2 cups white sugar",
+    "0.75 cup unsweetened cocoa powder",
+    "2 teaspoons baking soda",
+    "1 teaspoon baking powder",
+    "0.5 cup vegetable oil",
+    "1 cup milk",
+    "2 eggs",
+    "1 teaspoon vanilla extract",
+    "1 cup hot, strong coffee"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9x13-inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, stir together flour, sugar, cocoa, baking powder, and baking soda. Add oil, milk, eggs, and vanilla; mix until smooth. Stir in hot coffee last. Spread evenly into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 25 to 35 minutes, or until a toothpick inserted into the cake comes out clean.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "162 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "131 mg",
+    "sugarContent": "17 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "396"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A3x28NU-5YdUX369WDeSsaCzsX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/507101-6da7f358416f4df1a2c318c2ff370018.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17370/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "18264",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18264/cheesy-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/18264/cheesy-potatoes/",
+  "title": "Microwave Cheesy Potatoes",
+  "description": "These cheesy potatoes make an easy side dish when you use the microwave. All you need are potatoes, onion, and Cheddar cheese.",
+  "authors": [
+    "Iona"
+  ],
+  "date_published": "2000-06-15T21:17:11-04:00",
+  "date_modified": "2024-11-19T00:37:50-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large potatoes, peeled and sliced",
+    "1 small onion, finely chopped",
+    "1.5 cups shredded Cheddar cheese",
+    "1 teaspoon margarine",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Layer potatoes, onion, cheese, salt and pepper into a microwave-safe casserole dish. Once finished layering, place 1 teaspoon of butter on the top of the uppermost layer. Cover and cook in the microwave oven on High for 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the dish from the microwave and stir before cooking for another 10 minutes or until done. Stir well and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "508 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "355 mg",
+    "sugarContent": "4 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "115"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/H0PtFdcesX9o4JqmL0ZVpjbEwnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3493898-dbfb33bdeac04bf79277268bf4dcb14c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18264/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

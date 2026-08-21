@@ -1,0 +1,86 @@
+{
+  "id": "18100",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18100/eggless-crepes/",
+  "requested_url": "https://www.allrecipes.com/recipe/18100/eggless-crepes/",
+  "title": "Eggless Crêpes",
+  "description": "These small eggless crêpes taste just like classic crêpes. Top them with fresh fruit, jam, whipped cream, or hazelnut spread and enjoy at any meal!",
+  "authors": [
+    "Monica Shah"
+  ],
+  "date_published": "2000-04-24T23:51:59-04:00",
+  "date_modified": "2023-05-04T15:45:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT140M",
+  "yield": [
+    "4",
+    "16 6-inch crêpes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66670000553131 cup water",
+    "0.5 cup skim milk",
+    "0.25 cup butter, melted",
+    "2 tablespoons vanilla extract",
+    "1 cup all-purpose flour",
+    "1 tablespoon white sugar",
+    "0.25 teaspoon salt",
+    "1 tablespoon vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Mix water, milk, melted butter, and vanilla together in a medium bowl. Mix flour, sugar, and salt together in a small bowl until thoroughly combined. Whisk flour mixture into milk mixture until smooth. Cover batter and refrigerate for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Warm a medium skillet over medium-high heat. Coat the pan with vegetable oil, then pour in about 2 tablespoons batter. Swirl the pan to allow batter to spread out thinly. Cook until the edges are crispy and golden, then flip to cook the other side until lightly browned. Remove to a plate and repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "241 mg",
+    "sugarContent": "6 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "58"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/C25DmUMC15AvvKCiACE2t13FyUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3565437-25199dad8ab5414097a41a1131202504.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18100/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

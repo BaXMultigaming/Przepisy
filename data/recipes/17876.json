@@ -1,0 +1,82 @@
+{
+  "id": "17876",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17876/plain-potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/17876/plain-potato-soup/",
+  "title": "Plain Potato Soup",
+  "description": "Very basic, very simple soup. Potatoes are boiled, then mashed. Evaporated milk is blended in and some salt and white pepper is used to season the soup. Serve hot, or you can reheat in a microwave or double boiler.",
+  "authors": [
+    "Rosemary"
+  ],
+  "date_published": "2000-04-20T15:57:21-04:00",
+  "date_modified": "2026-05-11T08:51:25-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 potatoes, peeled and cubed",
+    "water to cover",
+    "2 (12 fluid ounce) cans evaporated milk",
+    "4 tablespoons unsalted butter",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place the potatoes in a large pot over high heat. Add water to cover, about 1 inch over the potatoes. Boil for about 10 to 15 minutes, or until potatoes are tender. Do not drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to low and pour in the evaporated milk and the butter. Mash the potatoes in the pot with a potato masher. Season with salt and white pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "519 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "215 mg",
+    "sugarContent": "21 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6QpTGDpGdWho5EpPsNbpy3Ugiss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/445574-9de71685d96c42358f45b495c8d7813b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17876/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

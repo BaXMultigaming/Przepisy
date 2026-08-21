@@ -1,0 +1,81 @@
+{
+  "id": "18300",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18300/kumquats/",
+  "requested_url": "https://www.allrecipes.com/recipe/18300/kumquats/",
+  "title": "Kumquats",
+  "description": "Enjoy this easy recipe for kumquats. This fruit is entirely edible when ripe, rind and all, though the seeds should be removed. Eat as-is or sliced.",
+  "authors": [
+    "Patty Hern"
+  ],
+  "date_published": "2000-05-21T19:16:16-04:00",
+  "date_modified": "2026-04-24T11:50:55-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT35M",
+  "total_time": "PT40M",
+  "yield": [
+    "16",
+    "1 pound"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "World",
+    "American"
+  ],
+  "regions": [
+    "World",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ripe kumquats",
+    "2 cups white sugar",
+    "0.25 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Wash kumquats and cover with water in a non-aluminum saucepan. Bring to a boil and simmer for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add sugar and cinnamon, return to a boil, and cook for 5 minutes. Remove from heat and drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "117 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "28 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AMwBb4uUg-ARzrpUxbbtp9rUIXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4649830-b0a69d6bc43947fb813136b535e77039.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18300/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "18053",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18053/french-toast-waffles/",
+  "requested_url": "https://www.allrecipes.com/recipe/18053/french-toast-waffles/",
+  "title": "French Toast Waffles",
+  "description": "Tired of plain old waffles? Do you love French toast, but don&#39;t like the hassle? Then try this recipe that combines the ease of waffles with the taste of French toast!",
+  "authors": [
+    "Fred Fields"
+  ],
+  "date_published": "2000-02-17T09:39:56-05:00",
+  "date_modified": "2022-07-14T16:20:48-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 waffles"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup pancake/waffle mix",
+    "2 teaspoons white sugar",
+    "1 teaspoon ground cinnamon",
+    "0.5 cup cold milk",
+    "2 eggs",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Preheat waffle iron. In a large mixing bowl, combine waffle mix, sugar and cinnamon. Stir in milk, eggs and vanilla extract.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden brown. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "123 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "354 mg",
+    "sugarContent": "3 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "145"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-UcTLykAWvrtYtXt0fu45hhDFnI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5495209-8658fcd1e63347c98691310f53e05a97.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18053/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

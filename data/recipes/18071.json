@@ -1,0 +1,92 @@
+{
+  "id": "18071",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18071/sues-taco-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/18071/sues-taco-salad/",
+  "title": "Sue&#39;s Taco Salad",
+  "description": "This taco salad is a great dish for potlucks. It&#39;s easy and can be made in advance. Add dressing just before serving.",
+  "authors": [
+    "SUE CASE"
+  ],
+  "date_published": "2000-03-20T10:17:12-05:00",
+  "date_modified": "2023-01-18T22:01:29-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 (1 ounce) package taco seasoning mix",
+    "0.5 (14.5 ounce) package nacho-flavor tortilla chips",
+    "2 cups shredded Cheddar cheese",
+    "0.5 (15 ounce) can kidney beans, drained",
+    "0.5 cup ranch-style salad dressing",
+    "1 chopped tomato",
+    "1 cup chopped lettuce",
+    "0.25 cup chopped green onion"
+  ],
+  "steps": [
+    {
+      "text": "Place ground beef in a large, deep skillet over medium-high heat. Cook, stirring to crumble, until well done; drain. Stir in taco seasoning mix. Set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place chips into a large bowl; crush them into bite-sized pieces. Combine with seasoned meat, cheese, beans, tomatoes, lettuce, and green onions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour dressing on top; toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "626 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "92 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "1125 mg",
+    "sugarContent": "4 g",
+    "fatContent": "42 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "311"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IKc6tGm-XsyQVsiTy9ukjoDWcIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/642470-sues-taco-salad-Rock_lobster-4x3-1-b612af5f54b24bcb9d465667db12746a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18071/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

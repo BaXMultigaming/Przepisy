@@ -1,0 +1,75 @@
+{
+  "id": "18316",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18316/onion-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/18316/onion-rice/",
+  "title": "Onion Rice",
+  "description": "Simple and versatile rice side dish that everyone loves!",
+  "authors": [
+    "Denyse"
+  ],
+  "date_published": "2000-06-09T23:44:08-04:00",
+  "date_modified": "2026-04-30T15:40:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 red onion, chopped",
+    "1 cup long-grain white rice",
+    "1 teaspoon ground black pepper",
+    "2 cups chicken broth"
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a saucepan over medium heat. Stir in the onion, and cook until almost tender. Stir in rice, and continue cooking until coated with oil. When onion is tender and rice begins to brown lightly, season with pepper, and pour in the broth. Bring to a boil. Reduce heat to low, cover, and simmer 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "141 kcal",
+    "carbohydrateContent": "27 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "1 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "479"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/i_n0s7tUwY3m27rbYgSME2WWn18=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Onion-Rice-2000-6c38221a8ec04c9dabea4868c806c760.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18316/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

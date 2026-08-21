@@ -1,0 +1,84 @@
+{
+  "id": "17645",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17645/easy-chicken-cacciatore/",
+  "requested_url": "https://www.allrecipes.com/recipe/17645/easy-chicken-cacciatore/",
+  "title": "Easy Chicken Cacciatore",
+  "description": "A classic chicken cacciatore recipe that is easy and comforting. Chicken simmered with vegetables and tomatoes in a fragrant sauce with oregano.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-02-21T19:59:18-05:00",
+  "date_modified": "2022-10-23T12:52:45-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33329999446869 cup chopped onion",
+    "0.33329999446869 cup chopped green bell pepper",
+    "1 clove garlic, chopped",
+    "0.75 pound chicken meat, cooked and cubed",
+    "0.5 cup whole peeled tomatoes",
+    "0.5 cup green beans",
+    "0.25 teaspoon dried oregano"
+  ],
+  "steps": [
+    {
+      "text": "Sauté onion, bell pepper, and garlic in a large skillet until soft. Add chicken, then stir in tomatoes, beans, and oregano.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium-low and simmer, stirring constantly, for 8 to 10 minutes. Remove from heat and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "240 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "119 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "38 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "221 mg",
+    "sugarContent": "4 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "89"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A6uVIaqoGvdvKhs6Ko34rNmxYww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9000241-c980a11390c944c9b4143cab6c9d53b5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17645/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

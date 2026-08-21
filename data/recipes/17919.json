@@ -1,0 +1,83 @@
+{
+  "id": "17919",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17919/sausage-gravy-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/17919/sausage-gravy-iii/",
+  "title": "Sausage Gravy III",
+  "description": "This is a simple and great recipe for sausage gravy that you can serve over hot biscuits. This is a great breakfast treat. Hearty and delectable.",
+  "authors": [
+    "Bonnie"
+  ],
+  "date_published": "2000-03-14T13:55:59-05:00",
+  "date_modified": "2024-11-27T02:04:23-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground pork sausage",
+    "2 tablespoons margarine",
+    "0.25 cup all-purpose flour",
+    "4 cups milk",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium high heat, saute the sausage for 10 minutes, or until browned. Stir in the margarine until well blended, then stir in the flour until mixture is thick and pasty.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium low and slowly add the milk, stirring constantly, until mixture is thick and bubbly and to desired consistency. Season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "671 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "97 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "919 mg",
+    "sugarContent": "12 g",
+    "fatContent": "56 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "417"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PlD5Xh7nmChQdYRNtKOSfflmi0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/500551-ba0bd5af30374f05942ce11443b708fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17919/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

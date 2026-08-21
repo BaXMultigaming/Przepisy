@@ -1,0 +1,77 @@
+{
+  "id": "18288",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18288/garlic-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/18288/garlic-green-beans/",
+  "title": "Garlic Green Beans",
+  "description": "Caramelized garlic and cheese! Is there anything better with green beans? You’d better make plenty for everyone!",
+  "authors": [
+    "Ericka Ettinger"
+  ],
+  "date_published": "2000-06-25T19:09:16-04:00",
+  "date_modified": "2026-08-13T21:40:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "3 tablespoons olive oil",
+    "1 medium head garlic - peeled and sliced",
+    "2 (14.5 ounce) cans green beans, drained",
+    "salt and pepper to taste",
+    "0.25 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium heat, melt butter with olive oil; add garlic, and cook until lightly browned, stirring frequently. Stir in green beans, and season with salt and pepper. Cook until beans are tender, about 10 minutes. Remove from heat, and sprinkle with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "157 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "555 mg",
+    "sugarContent": "3 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "1265"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XhBtD0PvGYXb6UOzUJuc8GM3Dcs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/610614-56c962aa7d6d4e6da97dbdd4027b8da3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18288/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

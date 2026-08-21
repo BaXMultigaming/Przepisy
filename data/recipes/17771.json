@@ -1,0 +1,109 @@
+{
+  "id": "17771",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17771/maryland-crab-cakes-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/17771/maryland-crab-cakes-i/",
+  "title": "Maryland Crab Cakes",
+  "description": "These Maryland crab cakes are the real deal, made with fresh lump crab meat, Old Bay seasoning, and white bread for a true Chesapeake Bay staple.",
+  "authors": [
+    "John L"
+  ],
+  "date_published": "1999-08-30T14:48:29-04:00",
+  "date_modified": "2025-11-21T15:07:33-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 crab cakes"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound crabmeat",
+    "2 slices white bread, crusts trimmed",
+    "1 large egg, beaten",
+    "1 tablespoon Old Bay Seasoning TM",
+    "1 tablespoon mayonnaise",
+    "1 teaspoon Dijon-style prepared mustard",
+    "1 teaspoon Worcestershire sauce",
+    "2 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Place crab meat in a large bowl and remove any remaining shell pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Break bread into small pieces and add to crab meat. Add beaten egg, Old Bay seasoning, mayonnaise, mustard, and Worcestershire sauce to the bowl. Mix by hand to avoid overworking crab meat; you want to keep the lumps of meat as much as possible. Form into 6 patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_deF3LJwxlRjXBT8paNk34bUZcs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17771-Maryland-crab-cakes-i-ddmfs-Step1-0818-60e7baa2a181451f88995aa3997817cb.jpg"
+      ],
+      "image": "assets/images/17771/step_02.webp"
+    },
+    {
+      "text": "Heat butter in a skillet over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fry patties in hot butter until golden brown, about 4 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/pWD3zAugjdHn_DyNbZxF8CP6jNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17771-Maryland-crab-cakes-i-ddmfs-Step2-0822-36e73ed518184cd1876a4f91faed47a5.jpg"
+      ],
+      "image": "assets/images/17771/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "114 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "896 mg",
+    "sugarContent": "1 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "230"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RefKgoBMOTgAoZ9jmsXEM2wg7-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17771-Maryland-crab-cakes-i-ddmfs-3-2-0830-07fd748b3eb6440595e4aef8860326e4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17771/hero.webp",
+    "steps": [
+      null,
+      "assets/images/17771/step_02.webp",
+      null,
+      "assets/images/17771/step_04.webp"
+    ]
+  }
+}

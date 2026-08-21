@@ -1,0 +1,94 @@
+{
+  "id": "18008",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18008/pork-apple-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/18008/pork-apple-burgers/",
+  "title": "Pork Apple Burgers",
+  "description": "A taste treat your family is sure to enjoy. Serve with a slice of pineapple on a toasted bun. Sweet and savory.",
+  "authors": [
+    "Kevin"
+  ],
+  "date_published": "2000-05-22T11:06:13-04:00",
+  "date_modified": "2025-10-30T17:41:18-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground pork",
+    "1 Granny Smith apple - peeled, cored and chopped",
+    "1 sweet onion, finely chopped",
+    "3 cloves garlic, minced",
+    "0.25 cup teriyaki sauce",
+    "1 egg",
+    "8 hamburger buns",
+    "1 (20 ounce) can sliced pineapple, drained"
+  ],
+  "steps": [
+    {
+      "text": "Preheat grill for medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix together ground pork, apple, onion, garlic, teriyaki sauce, and egg. If too dry, add some juice from the can of pineapple slices. Form into eight patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly oil grill grate. Grill pork burgers for 10 minutes, or until well done. Toast buns on grill. Serve burgers on toasted buns topped with pineapple slices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "532 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "105 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "663 mg",
+    "sugarContent": "16 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "161"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fKRwfxcMwGEs_AqRqTcymtsb6Gg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18008pork-apple-burgersFranceC4x3-c1d0ec64ddf54c2087cded73ec9ae815.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18008/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

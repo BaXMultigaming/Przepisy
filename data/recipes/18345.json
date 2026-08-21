@@ -1,0 +1,83 @@
+{
+  "id": "18345",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18345/artichokes/",
+  "requested_url": "https://www.allrecipes.com/recipe/18345/artichokes/",
+  "title": "Steamed Artichokes",
+  "description": "This artichoke recipe simple steams fresh artichokes with garlic and butter until tender. Delicious served with melted butter for dipping.",
+  "authors": [
+    "Shai"
+  ],
+  "date_published": "2000-04-25T02:26:42-04:00",
+  "date_modified": "2025-12-15T09:39:57-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S.",
+    "Italian"
+  ],
+  "regions": [
+    "U.S.",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 whole artichokes",
+    "2 tablespoons butter",
+    "2 cloves garlic, sliced",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Fill the pan with enough water to cover bottom. Bring to a boil over medium heat. While water is heating, trim and discard the stems and tough outer leaves of artichokes. Tuck slivers of butter and slices of garlic into artichoke leaves; season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When water is boiling, place steamer insert in pot and set artichokes in steamer, stem-side down. Cover pot with lid and allow artichokes to steam until tender, about 25 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "133 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "113 mg",
+    "sugarContent": "1 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "152"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s_L0z1m-dQj634Gsqq-k904Bi3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1019864-artichokes-Nanby-4x3-1-6b6243a3ab3748a49d9b71bde4aca128.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18345/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

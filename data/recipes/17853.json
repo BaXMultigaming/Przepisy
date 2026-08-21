@@ -1,0 +1,72 @@
+{
+  "id": "17853",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17853/peasant-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/17853/peasant-bread/",
+  "title": "Bread Machine Peasant Bread",
+  "description": "A delicious bread machine bread great for french toast, grilled sandwiches, or toast. It has no fat and very little sugar.",
+  "authors": [
+    "Becki C"
+  ],
+  "date_published": "2000-01-27T16:54:08-05:00",
+  "date_modified": "2026-04-22T08:35:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT175M",
+  "total_time": "PT180M",
+  "yield": [
+    "12",
+    "1 (1 ½-pound) loaf"
+  ],
+  "categories": [
+    "Bread"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "1 tablespoon white sugar",
+    "1.5 teaspoons salt",
+    "3.5 cups bread flour",
+    "2.5 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Light or Medium Crust cycle; press Start. For a crispier crust, use the French cycle or turn machine off after first rise and start the cycle over.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "7 kcal",
+    "carbohydrateContent": "1 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "291 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "142"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/750xfDa0G6Gvla8x-hq49Sa5ytQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8648400-10310416e86d40d58f8f63bb9d5fbc09.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17853/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

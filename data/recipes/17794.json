@@ -1,0 +1,94 @@
+{
+  "id": "17794",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17794/beef-noodle-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/17794/beef-noodle-soup/",
+  "title": "Beef Noodle Soup",
+  "description": "This delicious beef noodle soup recipe is always a hit. Stew meat, mixed vegetables and egg noodles are combined in beef broth base in this favorite.",
+  "authors": [
+    "Brenda"
+  ],
+  "date_published": "2000-04-26T21:21:17-04:00",
+  "date_modified": "2026-02-16T13:06:34-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound cubed beef stew meat",
+    "1 cup chopped onion",
+    "1 cup chopped celery",
+    "1 cup chopped carrots",
+    "0.25 cup beef bouillon granules",
+    "0.25 teaspoon dried parsley",
+    "1 pinch ground black pepper",
+    "5.75 cups water",
+    "2.5 cups frozen egg noodles"
+  ],
+  "steps": [
+    {
+      "text": "Sauté stew meat, onion, and celery in a large saucepan over medium-high heat until meat is browned on all sides, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in carrots, then season with bouillon, parsley, and pepper. Stir in water and add egg noodles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring to a boil, reduce heat to low, and simmer for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "377 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "89 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1040 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "374"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rYPllwDf7Rvqg8lz7bpRsa4OHkk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17794beef-noodle-soupfabeveryday4x3-af1d03a973434d9494257f13a2b62ad6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17794/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

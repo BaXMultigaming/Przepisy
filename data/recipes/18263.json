@@ -1,0 +1,99 @@
+{
+  "id": "18263",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18263/cheese-rosti/",
+  "requested_url": "https://www.allrecipes.com/recipe/18263/cheese-rosti/",
+  "title": "Cheese Rösti",
+  "description": "This delicious Swiss rösti recipe consists of layers of potato and Swiss cheese. The recipe comes from Basel, Switzerland. Enjoy!",
+  "authors": [
+    "Bob"
+  ],
+  "date_published": "2000-04-19T00:52:21-04:00",
+  "date_modified": "2025-01-10T14:44:16-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Swiss"
+  ],
+  "regions": [
+    "Swiss"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large potatoes",
+    "6 tablespoons butter",
+    "8 ounces Swiss cheese, grated",
+    "salt to taste",
+    "ground black pepper to taste",
+    "2 tablespoons hot water"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain, and let cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Once cool, peel and grate potatoes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt 3 tablespoons of butter in large nonstick skillet. Add a layer of potatoes and a layer of cheese, then sprinkle with salt and pepper. Repeat layers. Dot each layer with remaining butter. Sprinkle 2 tablespoons hot water over the top layer, cover, and cook over low to medium heat until bottom layer browns.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Turn potato cake with spatula and brown other side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "531 kcal",
+    "carbohydrateContent": "69 g",
+    "cholesterolContent": "65 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "171 mg",
+    "sugarContent": "3 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dEZUGjMpcJXuixR7G1_pzswZ9Ho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9219041-a55f35334e654518b1ffdf739aec4175.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18263/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

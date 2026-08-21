@@ -1,0 +1,92 @@
+{
+  "id": "17435",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17435/homemade-horseradish/",
+  "requested_url": "https://www.allrecipes.com/recipe/17435/homemade-horseradish/",
+  "title": "Homemade Horseradish",
+  "description": "This easy horseradish recipe shows you how to make prepared horseradish by simply blending fresh horseradish root with vinegar, salt, and sugar.",
+  "authors": [
+    "BOOK_WORM"
+  ],
+  "date_published": "2000-04-19T14:37:09-04:00",
+  "date_modified": "2026-03-23T08:46:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "10",
+    "1 1/4 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer",
+    "Side Dish",
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup peeled and cubed horseradish root",
+    "0.75 cup white vinegar",
+    "2 teaspoons white sugar",
+    "0.25 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Combine horseradish, vinegar, sugar, and salt in the bowl of a food processor or blender; pulse until blended. Carefully remove the cover of the processor or blender, keeping your face away from the container.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and store horseradish in the refrigerator for up to one month.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/gTshC4qpTc3DdjTi2nfUpCeXdf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7243726-a6785a3de3d44fafbb446eb89b551f9e.jpg"
+      ],
+      "image": "assets/images/17435/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "12 kcal",
+    "carbohydrateContent": "3 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "59 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "116"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ZS7nzTKM-K3AjnAEN.mp4",
+    "description": "AR_APR_0007",
+    "duration": "PT1M26S",
+    "name": "Homemade Horseradish",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ZS7nzTKM/poster.jpg?width=1280",
+    "uploadDate": "2021-07-02T15:28:21-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gTshC4qpTc3DdjTi2nfUpCeXdf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7243726-a6785a3de3d44fafbb446eb89b551f9e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17435/hero.webp",
+    "steps": [
+      null,
+      "assets/images/17435/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "17631",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17631/cold-green-bean-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/17631/cold-green-bean-salad/",
+  "title": "Cold Green Bean Salad",
+  "description": "This canned green bean salad is tossed with Italian dressing and sliced red onion, then chilled for a quick and delicious light lunch or side dish.",
+  "authors": [
+    "Dale"
+  ],
+  "date_published": "1999-11-23T06:24:22-05:00",
+  "date_modified": "2023-04-10T11:23:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (15 ounce) cans green beans, drained",
+    "1 red onion, sliced in rings",
+    "1 (16 ounce) bottle Italian-style salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Place beans in a serving dish. Toss with onion and salad dressing. Cover the dish with plastic wrap and chill in the refrigerator for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1213 mg",
+    "sugarContent": "7 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dVmtuGtcAqxsGeKcSY1l4RSw_bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7674126-e2edf1aa063443db8cf81233e202c39a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17631/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

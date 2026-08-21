@@ -1,0 +1,79 @@
+{
+  "id": "18010",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18010/flax-and-sunflower-seed-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/18010/flax-and-sunflower-seed-bread/",
+  "title": "Flax and Sunflower Seed Bread",
+  "description": "This is a great bread for seed lovers, one of the tastiest I’ve tried.",
+  "authors": [
+    "Erna Walmsley"
+  ],
+  "date_published": "2000-01-05T17:48:00-05:00",
+  "date_modified": "2026-08-05T10:17:40-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT180M",
+  "yield": [
+    "15"
+  ],
+  "categories": [
+    "Bread"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.3333330154419 cups water",
+    "2 tablespoons butter, softened",
+    "3 tablespoons honey",
+    "1.5 cups bread flour",
+    "1.3333333730698 cups whole wheat bread flour",
+    "1 teaspoon salt",
+    "1 teaspoon active dry yeast",
+    "0.5 cup flax seeds",
+    "0.5 cup sunflower seeds"
+  ],
+  "steps": [
+    {
+      "text": "Place all ingredients (except sunflower seeds) in the pan of the bread machine in the order recommended by the manufacturer. Select Basic White Cycle; press Start. Add the sunflower seeds when the alert sounds during the Knead Cycle.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "140 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "169 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "servingSize": "1 - 1 1/2 pound loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "569"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/m27Fj2Gm1_LeAplX1acjqBeV0jg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1340303-flax-and-sunflower-seed-bread-Holiday-Baker-4x3-1-ebce22a0f12d4e9eac05d525255d76ef.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18010/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

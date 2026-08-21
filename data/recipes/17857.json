@@ -1,0 +1,71 @@
+{
+  "id": "17857",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17857/dill-dip-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/17857/dill-dip-ii/",
+  "title": "Dill Dip II",
+  "description": "Great as a dip with chips, vegetables, on crackers, on fish, on baked potatoes - anything except brownies.",
+  "authors": [
+    "Sue Hogan"
+  ],
+  "date_published": "2000-01-24T19:49:00-05:00",
+  "date_modified": "2022-01-03T09:50:36-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT480M",
+  "yield": [
+    "14",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup sour cream",
+    "1 cup mayonnaise",
+    "1 teaspoon monosodium glutamate (MSG)",
+    "1 teaspoon seasoning salt",
+    "1 teaspoon dried parsley",
+    "1.25 teaspoons dried dill weed"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine sour cream, mayonnaise, monosodium glutamate, seasoning salt, parsley and dill. Cover and refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "149 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "13 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "199 mg",
+    "sugarContent": "0 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NQd33-eJ-wU5Os9J_n5v5BYU2r0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/334845-8cfce4ef72ef498a9aef1d619218e859.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17857/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

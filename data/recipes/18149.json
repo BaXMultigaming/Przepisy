@@ -1,0 +1,114 @@
+{
+  "id": "18149",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18149/shrimp-and-asparagus/",
+  "requested_url": "https://www.allrecipes.com/recipe/18149/shrimp-and-asparagus/",
+  "title": "Shrimp and Asparagus",
+  "description": "Mushrooms, shrimp, and asparagus cooked in a lemony garlic butter are tossed with egg noodles and Parmesan cheese.",
+  "authors": [
+    "Cathy Christensen"
+  ],
+  "date_published": "1999-09-30T15:33:45-04:00",
+  "date_modified": "2026-06-01T13:37:05-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package egg noodles",
+    "1 pound fresh asparagus, trimmed and cut into 1-inch pieces",
+    "0.5 cup extra virgin olive oil",
+    "4 cloves garlic, minced",
+    "1 cup butter, cut into pieces",
+    "1 tablespoon lemon juice",
+    "1 pound medium shrimp - peeled and deveined",
+    "1 pound fresh mushrooms, thinly sliced",
+    "0.5 cup grated Parmesan cheese",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rapid boil. Add egg noodles and boil until tender yet firm to the bite, 7 to 9 minutes. Drain and keep warm until needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "At the same time, bring a small saucepan of water to a boil. Add asparagus, reduce the heat to medium-low, and simmer until tender, about 5 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large saucepan over medium-low heat. Add garlic and cook until fragrant and golden brown, 1 to 2 minutes. Add butter and lemon juice; cook until butter melts, 2 to 3 minutes. Add shrimp and cook, stirring occasionally, for 1 to 2 minutes. Add mushrooms and asparagus; cook until mushrooms have softened, 3 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add egg noodles to the saucepan and toss to coat. Season with salt and pepper and garnish with Parmesan cheese. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_IwGP50bePva_23chJ3IMAeKBgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5132853-1e8262427e324787b9a373b8837b4937.jpg"
+      ],
+      "image": "assets/images/18149/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "653 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "199 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "340 mg",
+    "sugarContent": "3 g",
+    "fatContent": "42 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "607"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RtJsb2GT-ma1DlVvV.mp4",
+    "description": "AR_MAR_0002",
+    "duration": "PT1M44S",
+    "name": "Shrimp and Asparagus",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RtJsb2GT/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T03:57:57-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_IwGP50bePva_23chJ3IMAeKBgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5132853-1e8262427e324787b9a373b8837b4937.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18149/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/18149/step_04.webp"
+    ]
+  }
+}

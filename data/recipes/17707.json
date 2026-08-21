@@ -1,0 +1,88 @@
+{
+  "id": "17707",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17707/sweet-and-sour-chicken-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/17707/sweet-and-sour-chicken-ii/",
+  "title": "Sara’s Sweet and Sour Chicken",
+  "description": "Sweet and sour chicken with pineapple, green peppers, celery, and water chestnuts in a soy, vinegar, and brown sugar sauce.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-04-13T20:14:29-04:00",
+  "date_modified": "2026-07-24T16:37:39-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "World",
+    "Asian"
+  ],
+  "regions": [
+    "World",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (20 ounce) can pineapple chunks, juice reserved",
+    "0.25 cup soy sauce",
+    "0.5 cup vinegar",
+    "0.75 cup brown sugar",
+    "0.25 cup all-purpose flour",
+    "1.5 green bell peppers, diced",
+    "1 cup chopped celery",
+    "1 (8 ounce) can water chestnuts, drained and sliced",
+    "1.5 pounds cooked chicken meat, cut into strips"
+  ],
+  "steps": [
+    {
+      "text": "Blend reserved pineapple juice, soy sauce, vinegar, and brown sugar in a 12-inch skillet or large saucepan over medium-low heat; mix in flour, and stir until thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in bell peppers, celery, and water chestnuts. Mix in cooked chicken and stir until heated through. Stir in pineapple chunks before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "418 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "94 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "710 mg",
+    "sugarContent": "42 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "313"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/t4qXmHvU4gqYFiTKQ8YwG1DbsN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17707-AR-Copycat-Sweet-and-Sour-Chicken-Beauty-4x3-62ff628c29b1466facb2d1f333976030.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17707/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

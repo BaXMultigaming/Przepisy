@@ -1,0 +1,80 @@
+{
+  "id": "18376",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18376/cherry-cheese-pie-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/18376/cherry-cheese-pie-ii/",
+  "title": "Cherry Cheese Pie",
+  "description": "This is a sweet and creamy cherry cheese pie with a cherry topping. Very easy and very good!",
+  "authors": [
+    "Ginger"
+  ],
+  "date_published": "1999-12-12T22:15:32-05:00",
+  "date_modified": "2022-06-15T09:46:21-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT195M",
+  "yield": [
+    "8",
+    "1 9-inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese",
+    "1 (14 ounce) can sweetened condensed milk",
+    "0.33333334326744 cup lemon juice",
+    "1 teaspoon vanilla extract",
+    "1 (9 inch) prepared graham cracker crust",
+    "1 (21 ounce) can cherry pie filling"
+  ],
+  "steps": [
+    {
+      "text": "Beat cream cheese in a mixing bowl until fluffy. Beat in milk until smooth. Stir in lemon juice and vanilla. Pour mixture into graham cracker crust.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and refrigerate until set, about 3 hours. Top with desired amount of pie filling before serving. Refrigerate leftovers.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "492 kcal",
+    "carbohydrateContent": "69 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "329 mg",
+    "sugarContent": "39 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "94"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DSUR34fBgrm1Wm88oJ6NBwUVxDE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8237693-ed3202848d834505a27051d9926b8e92.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18376/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

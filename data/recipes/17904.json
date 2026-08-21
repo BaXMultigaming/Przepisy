@@ -1,0 +1,115 @@
+{
+  "id": "17904",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17904/kabobs/",
+  "requested_url": "https://www.allrecipes.com/recipe/17904/kabobs/",
+  "title": "Kabobs",
+  "description": "Grilled kabobs made with cubes of steak, chicken, bell peppers, onions, and mushrooms in a honey teriyaki sauce are easy to make and delicious to eat!",
+  "authors": [
+    "Sue"
+  ],
+  "date_published": "2000-05-15T20:43:13-04:00",
+  "date_modified": "2026-01-22T09:03:10-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT10M",
+  "total_time": "PT280M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup teriyaki sauce",
+    "0.5 cup honey",
+    "0.5 teaspoon garlic powder",
+    "0.5 pinch ground ginger",
+    "1.5 pounds skinless, boneless chicken breast halves - cut into cubes",
+    "1 pound beef sirloin, cut into 1 inch cubes",
+    "2 red bell peppers, cut into 2 inch pieces",
+    "1 large sweet onion, peeled and cut into wedges",
+    "1.5 cups whole fresh mushrooms",
+    "skewers"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RmWXgXduqkE0I7QJViEzJv8Q5HA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17904-kabobs-DDMFS-step-1-42bdeaf72e5c46f3a2b3d5ac1d9862c9.jpg"
+      ],
+      "image": "assets/images/17904/step_01.webp"
+    },
+    {
+      "text": "Mix teriyaki sauce, honey, garlic powder, and ginger in a large resealable plastic bag. Place chicken, beef, red bell peppers, onion wedges, and mushrooms in the bag; coat with marinade, squeeze out excess air, and seal the bag. Refrigerate for 4 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/yfkIA5XWgeaP8Irb2K4KpL-qz-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17904-kabobs-DDMFS-step-3-1f5cb381c5854db894e2d6b1f75fb413.jpg"
+      ],
+      "image": "assets/images/17904/step_02.webp"
+    },
+    {
+      "text": "Preheat the grill to medium-high heat. Lightly oil the grill grate. Thread meat and vegetables onto skewers, leaving a small space between each item. Discard any remaining marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jvS4SkVj_2nJudKaU05mKyiKlZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17904-kabobs-DDMFS-step-4-d2b074c2be4b4979b1f22eb1c7386c36.jpg"
+      ],
+      "image": "assets/images/17904/step_03.webp"
+    },
+    {
+      "text": "Grill skewers, turning as needed, until meat is cooked through and vegetables are tender, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KSvrVFLTV96-YhLeRUdpgimyO6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17904-kabobs-DDMFS-4x3-7967247b3e0543058cd03689f6d59ae0.jpg"
+      ],
+      "image": "assets/images/17904/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "304 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "74 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "623 mg",
+    "sugarContent": "19 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "280"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KSvrVFLTV96-YhLeRUdpgimyO6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-17904-kabobs-DDMFS-4x3-7967247b3e0543058cd03689f6d59ae0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17904/hero.webp",
+    "steps": [
+      "assets/images/17904/step_01.webp",
+      "assets/images/17904/step_02.webp",
+      "assets/images/17904/step_03.webp",
+      "assets/images/17904/step_04.webp"
+    ]
+  }
+}

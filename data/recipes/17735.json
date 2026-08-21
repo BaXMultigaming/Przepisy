@@ -1,0 +1,95 @@
+{
+  "id": "17735",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17735/pickled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/17735/pickled-eggs/",
+  "title": "Pickled Eggs",
+  "description": "This pickled egg recipe uses beets, brown sugar, vinegar, cloves, and cinnamon. The mixture is pickled for 5 days before the eggs are ready to eat.",
+  "authors": [
+    "Terry"
+  ],
+  "date_published": "2000-04-26T19:30:00-04:00",
+  "date_modified": "2024-04-22T11:22:08-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT7220M",
+  "yield": [
+    "6",
+    "6 pickled eggs"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can red beets",
+    "0.5 cup white vinegar",
+    "0.5 cup cold water",
+    "0.25 cup brown sugar",
+    "1 small cinnamon stick",
+    "4 whole cloves",
+    "0.5 teaspoon salt",
+    "6 hard-cooked eggs"
+  ],
+  "steps": [
+    {
+      "text": "Pour beet juice into a medium pot over medium heat. Stir in vinegar, cold water, brown sugar, cinnamon stick, cloves, and salt. Cook, stirring occasionally, until sugar is dissolved, about 8 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place beets into liquid mixture and continue cooking until beets are heated through, about 2 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place hard-cooked eggs in a container with a tight-fitting lid. Pour liquid and beets into the container with eggs. Store the container in the refrigerator for about 5 days before eating.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "131 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "186 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "368 mg",
+    "sugarContent": "14 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Az3zUlqpWHdb7Byg_ew6eX7TRF8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7616272-9424ad28d8fe487da1451085e3e503ed.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17735/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "18031",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18031/baked-ziti-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/18031/baked-ziti-ii/",
+  "title": "Easy Baked Ziti",
+  "description": "This baked ziti with ricotta recipe cooks ziti pasta in a creamy spaghetti sauce with two other Italian cheeses — mozzarella and Parmesan.",
+  "authors": [
+    "BUCHKO"
+  ],
+  "date_published": "2000-01-27T11:02:04-05:00",
+  "date_modified": "2025-10-28T10:20:46-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "8",
+    "1 (9x13-inch) casserole"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 (16 ounce) package ziti pasta",
+    "24 ounces ricotta cheese",
+    "1 pound shredded mozzarella cheese",
+    "1 egg, beaten",
+    "1 (32 ounce) jar spaghetti sauce",
+    "0.25 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 9x13-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Add ziti pasta and cook for 8 to 10 minutes or until al dente; drain and rinse.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine cooked ziti, ricotta cheese, mozzarella cheese, egg, and 1 ½ cups spaghetti sauce in a medium bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6zr8SsrWP-Xtr2dOirmxMEsk4i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18031-baked-ziti-ii-ddmfs-step1-0310-4x3-0c246d02d3ec4e23a3929a83aa1b0838.jpg"
+      ],
+      "image": "assets/images/18031/step_03.webp"
+    },
+    {
+      "text": "Transfer into the prepared baking dish. Top with remaining spaghetti sauce, then sprinkle with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_QtxCbhG4TN1_O0ZX9-QkoIXgLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18031-baked-ziti-ii-ddmfs-step3-0313-4x3-4da28a371c024989b70fa684422efc78.jpg"
+      ],
+      "image": "assets/images/18031/step_04.webp"
+    },
+    {
+      "text": "Bake in the preheated oven for 30 minutes; let stand for 15 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/oXuLKPsb-Wa_LolmP3JpVl7q2ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18031-baked-ziti-ii-DDMFS-4x3-45e614088a504a67b9a9dde7001be4ee.jpg"
+      ],
+      "image": "assets/images/18031/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "703 kcal",
+    "carbohydrateContent": "73 g",
+    "cholesterolContent": "113 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "38 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "1111 mg",
+    "sugarContent": "14 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1258"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/oBCpOws5-ma1DlVvV.mp4",
+    "description": "AR0169",
+    "duration": "PT2M41S",
+    "name": "Baked Ziti II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/oBCpOws5/poster.jpg?width=1280",
+    "uploadDate": "2021-07-04T00:12:22-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oXuLKPsb-Wa_LolmP3JpVl7q2ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18031-baked-ziti-ii-DDMFS-4x3-45e614088a504a67b9a9dde7001be4ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18031/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/18031/step_03.webp",
+      "assets/images/18031/step_04.webp",
+      "assets/images/18031/step_05.webp"
+    ]
+  }
+}

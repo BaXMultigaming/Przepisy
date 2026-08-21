@@ -1,0 +1,82 @@
+{
+  "id": "17605",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17605/party-kielbasa/",
+  "requested_url": "https://www.allrecipes.com/recipe/17605/party-kielbasa/",
+  "title": "Party Kielbasa",
+  "description": "This awesome slow cooker or sauce pot kielbasa is made with grape jelly and ketchup. It may sound gross but it tastes good! You can substitute any cooked sausage or cocktail franks for kielbasa.",
+  "authors": [
+    "marli"
+  ],
+  "date_published": "2000-04-12T19:05:15-04:00",
+  "date_modified": "2026-08-05T21:02:34-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "15",
+    "15 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds kielbasa sausage",
+    "2 cups ketchup",
+    "2 cups grape jelly"
+  ],
+  "steps": [
+    {
+      "text": "Slice kielbasa into strips or circles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour ketchup and jelly into a slow cooker. Turn the heat to a medium temperature, stir occasionally while the jelly and ketchup melt together. When the mixture forms into a thin glaze, add the kielbasa and cook until the kielbasa is hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "331 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "904 mg",
+    "sugarContent": "36 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "126"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EXKTJIYusImv3KYXrCnQjlcTZVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/772443-party-kielbasa-Cookin-Up-A-Storm-4x3-1-0b1c970363ee4b1c9d78011e90194959.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17605/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

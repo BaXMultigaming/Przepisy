@@ -1,0 +1,88 @@
+{
+  "id": "17962",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17962/mexican-cornbread-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/17962/mexican-cornbread-ii/",
+  "title": "Mexican Cornbread II",
+  "description": "This savory bread is made easy with a shortcut using cornbread mix with creamed corn. Jalapeno peppers and Monterey Jack cheese give this tasty bread an unmistakable South-of-the-Border flair.",
+  "authors": [
+    "Bea"
+  ],
+  "date_published": "1999-12-26T20:40:35-05:00",
+  "date_modified": "2022-10-10T18:50:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "12",
+    "1 - 9x9 inch pan"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8.5 ounce) package self-rising cornmeal",
+    "1 egg",
+    "0.5 cup milk",
+    "1 (8 ounce) can cream-style corn",
+    "1 cup shredded Monterey Jack cheese",
+    "1 (4 ounce) can diced green chile peppers, drained"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a 9x9 inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place cornmeal mix in a large bowl. Stir in egg, milk, creamed corn, cheese and diced green chile peppers. Spread batter into prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 25 minutes, or until golden brown and cornbread pulls away from sides of pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "128 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "471 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "162"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d4TQHiqZdOCZnaxuihVgsLODgVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/453292-mexican-cornbread-ii-Melissa-Goff-4x3-1-fd8e72f738e04dbd93d117e49d4fe83b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17962/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

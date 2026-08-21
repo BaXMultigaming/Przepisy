@@ -1,0 +1,93 @@
+{
+  "id": "18003",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18003/cucumber-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/18003/cucumber-sandwich/",
+  "title": "Cucumber Sandwich",
+  "description": "I worked at a sandwich shop that made these vegetable sandwiches stuffed with cucumbers, sprouts, tomatoes, and avocadoes. They were a veggie’s dream!",
+  "authors": [
+    "REDVELVT22"
+  ],
+  "date_published": "2000-03-17T11:40:14-05:00",
+  "date_modified": "2026-07-25T13:40:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 thick slices whole wheat bread",
+    "2 tablespoons cream cheese, softened",
+    "6 slices cucumber",
+    "2 tablespoons alfalfa sprouts",
+    "1 teaspoon olive oil",
+    "1 teaspoon red wine vinegar",
+    "1 tomato, sliced",
+    "1 leaf lettuce",
+    "1 ounce pepperoncini, sliced",
+    "0.5 avocado, mashed"
+  ],
+  "steps": [
+    {
+      "text": "Spread each slice of bread with 1 tablespoon cream cheese. On one slice of bread, arrange cucumber slices in a single layer. Cover with sprouts, then sprinkle with oil and vinegar. Layer tomato slices, lettuce, and pepperoncini. Spread other slice of bread with mashed avocado. Close sandwich and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RLcU6lSMwP1QBKgUAZtnv7i1XhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2574910-5a6e45eec83d4eb283e3ac29001eb01a.jpg"
+      ],
+      "image": "assets/images/18003/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "496 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "12 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1024 mg",
+    "sugarContent": "4 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "441"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lW75xyWb-ma1DlVvV.mp4",
+    "description": "AR0885",
+    "duration": "PT2M3S",
+    "name": "Cucumber Sandwich",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lW75xyWb/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T04:31:03-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RLcU6lSMwP1QBKgUAZtnv7i1XhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2574910-5a6e45eec83d4eb283e3ac29001eb01a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18003/hero.webp",
+    "steps": [
+      "assets/images/18003/step_01.webp"
+    ]
+  }
+}

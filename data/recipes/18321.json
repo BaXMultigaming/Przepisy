@@ -1,0 +1,82 @@
+{
+  "id": "18321",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18321/primavera-noodles/",
+  "requested_url": "https://www.allrecipes.com/recipe/18321/primavera-noodles/",
+  "title": "Primavera Noodles",
+  "description": "Pasta and vegetables in creamy ranch sauce. This easy dish is a hit with everyone. Very versatile: you can use any pasta and veggies you have on hand.",
+  "authors": [
+    "BECKARIAH"
+  ],
+  "date_published": "2000-04-05T19:53:22-04:00",
+  "date_modified": "2022-07-14T15:52:12-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT8M",
+  "total_time": "PT18M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 ounces dry pasta",
+    "1 cup chopped broccoli",
+    "3 carrots, chopped",
+    "0.5 cup fresh sliced mushrooms",
+    "0.5 green bell pepper, chopped",
+    "0.75 cup ranch-style salad dressing",
+    "0.5 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Cook pasta according to package directions. During last 2 minutes of cooking, add broccoli and carrots to water. When pasta is al dente and broccoli and carrots are crisp-tender, drain water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix in mushrooms, green pepper, salad dressing, and cheese. Season with salt and pepper to taste. Serve hot or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "405 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "419 mg",
+    "sugarContent": "5 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UAaxj-hSw-_RBmfBAkBUgQWoTkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4525608-57e4df48b38c43068036550f98615775.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18321/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

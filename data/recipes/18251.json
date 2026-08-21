@@ -1,0 +1,92 @@
+{
+  "id": "18251",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18251/basic-cheese-polenta/",
+  "requested_url": "https://www.allrecipes.com/recipe/18251/basic-cheese-polenta/",
+  "title": "Basic Cheese Polenta",
+  "description": "Parmesan cheese gives this polenta a nice, subtle cheese flavor. Serve it immediately as a creamy side dish, or chill it so that the polenta can be sliced, then fried or grilled.",
+  "authors": [
+    "Dawn"
+  ],
+  "date_published": "2000-06-23T14:45:28-04:00",
+  "date_modified": "2022-07-14T16:08:46-04:00",
+  "prep_time": "PT240M",
+  "cook_time": "PT30M",
+  "total_time": "PT270M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup cornmeal",
+    "1 cup cold water",
+    "1 teaspoon salt",
+    "3 cups boiling water",
+    "1 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a mixing bowl combine cornmeal, cold water and salt. Grease a loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring the remaining 3 cups of water to a rolling boil and stir in the cornmeal mixture. Bring the mixture back to a boil while stirring constantly. Reduce heat to a simmer and stir in the cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let the mixture simmer for 20 to 30 minutes; stirring frequently. Allow the polenta to simmer until it becomes very thick. Spread the mixture into the loaf pan and refrigerate at least 4 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "897 mg",
+    "sugarContent": "1 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "143"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/U8Zgi-8_izm9Ggh871gQpvLChJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/656609-48f224a9941a4b82a75bcdfaf7b9e99f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18251/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

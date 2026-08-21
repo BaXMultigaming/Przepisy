@@ -1,0 +1,71 @@
+{
+  "id": "17465",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17465/honey-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/17465/honey-syrup/",
+  "title": "Honey Syrup",
+  "description": "Honey syrup is simple to make at home with honey, lemon juice, and lemon zest for a sweet addition to cocktails and hot drinks, or drizzle over cakes.",
+  "authors": [
+    "DeniseNH"
+  ],
+  "date_published": "2000-01-10T20:10:19-05:00",
+  "date_modified": "2026-06-22T19:37:26-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "2 cups"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups honey",
+    "0.5 cup water",
+    "0.25 cup fresh lemon juice",
+    "0.5 teaspoon grated lemon zest"
+  ],
+  "steps": [
+    {
+      "text": "Combine honey, water, lemon juice, and zest in a small saucepan. Cook over medium heat, stirring occasionally, until boiling. Continue to boil until mixture thickens and is reduced by a fourth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130 kcal",
+    "carbohydrateContent": "35 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/n3S1PAyPc64JWtLtgSE2Rnd4SKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5499509_Honey-Syrup-4x3-eba1c29b2e32428685b02691bf6d1e95.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17465/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

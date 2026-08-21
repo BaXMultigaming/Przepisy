@@ -1,0 +1,114 @@
+{
+  "id": "18085",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18085/hot-german-potato-salad-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/18085/hot-german-potato-salad-iii/",
+  "title": "Hot German Potato Salad",
+  "description": "This hot German potato salad recipe is packed with flavor thanks to the addition of crispy bacon, tender onions, sugar, vinegar, and black pepper.",
+  "authors": [
+    "Tequila"
+  ],
+  "date_published": "1999-08-30T17:27:10-04:00",
+  "date_modified": "2026-03-05T22:09:04-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT50M",
+  "total_time": "PT60M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "9 potatoes, peeled",
+    "6 slices bacon",
+    "0.75 cup chopped onions",
+    "2 tablespoons all-purpose flour",
+    "2 tablespoons white sugar",
+    "2 teaspoons salt",
+    "0.5 teaspoon celery seed",
+    "0.125 teaspoon ground black pepper",
+    "0.75 cup water",
+    "0.33333334326744 cup distilled white vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain, cool, and slice thin.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside, reserving drippings.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sauté onions in bacon drippings over medium heat until they are golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk flour, sugar, salt, celery seed, and pepper together in a small bowl; stir into onions and cook until bubbling, then remove from heat. Stir in water and vinegar; bring to a boil over medium heat, stirring constantly, and simmer for one minute. Gently stir bacon and sliced potatoes into the onion mixture until potatoes are heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/tkM_mUrW7DExK6CDG_avyeMAkcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2209525-hot-german-potato-salad-iii-DeDe-1x1-1-49c05ec367d04fca982fbeabe5fcf4ea.jpg"
+      ],
+      "image": "assets/images/18085/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "512 mg",
+    "sugarContent": "4 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1006"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ZTu6YW2d-K3AjnAEN.mp4",
+    "description": "Want to try a different side with your sandwich? This German-inspired potato dish could be just the thing! Red potatoes, crispy bacon, vinegar, and onions with a dash of salt and pepper, and you’ve got yourself a tasty potato salad! ",
+    "duration": "PT1M",
+    "name": "Hot German Potato Salad III",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ZTu6YW2d/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:32:18-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tkM_mUrW7DExK6CDG_avyeMAkcU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2209525-hot-german-potato-salad-iii-DeDe-1x1-1-49c05ec367d04fca982fbeabe5fcf4ea.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18085/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/18085/step_04.webp"
+    ]
+  }
+}

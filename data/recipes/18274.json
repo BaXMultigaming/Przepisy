@@ -1,0 +1,91 @@
+{
+  "id": "18274",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18274/cream-peas/",
+  "requested_url": "https://www.allrecipes.com/recipe/18274/cream-peas/",
+  "title": "Cream Peas",
+  "description": "These creamed peas are made with basic pantry staples, cook in just 10 minutes, and make a quick and easy side dish that goes well with everything.",
+  "authors": [
+    "STEPHNDON"
+  ],
+  "date_published": "2000-05-31T21:37:00-04:00",
+  "date_modified": "2026-02-06T07:28:33-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups frozen green peas, thawed",
+    "0.66666698455811 cup water",
+    "0.125 teaspoon salt",
+    "3 tablespoons butter",
+    "0.33333298563957 cup heavy cream",
+    "2 tablespoons all-purpose flour",
+    "1 tablespoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine peas, water, and salt in a medium saucepan. Bring to a boil, then stir in butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/tInS0vavCqd5Jz9b5t-g9aWEzYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18274-cream-peas-PICS-step-01-a9fcd57be86f48db8be736055623e30a.jpg"
+      ],
+      "image": "assets/images/18274/step_01.webp"
+    },
+    {
+      "text": "Whisk together cream, flour, and sugar in a small bowl. Stir mixture into peas. Cook over medium-high heat until thick and bubbly, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/exfkp7U_YuK82XGAYXDA262R3o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18274-cream-peas-PICS-step-02-a2f11def82c248a9ba033d1626bd0fd3.jpg"
+      ],
+      "image": "assets/images/18274/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "144 mg",
+    "sugarContent": "8 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "483"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ot3k5ZPDbTNz8Q2tUJCPBGAPblU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18274-cream-peas-PICS-beauty-4x3-1c98450bade945368872124d22bd7c6a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18274/hero.webp",
+    "steps": [
+      "assets/images/18274/step_01.webp",
+      "assets/images/18274/step_02.webp"
+    ]
+  }
+}

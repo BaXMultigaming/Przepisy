@@ -1,0 +1,79 @@
+{
+  "id": "17617",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17617/cherry-delight/",
+  "requested_url": "https://www.allrecipes.com/recipe/17617/cherry-delight/",
+  "title": "Cherry Delight",
+  "description": "Three American favorites: cherries, cream cheese, and vanilla wafers! This is a great light dessert; whenever served, seconds have been requested. For variety, you could also use blueberry or lemon pie filling.",
+  "authors": [
+    "DAYLERENE"
+  ],
+  "date_published": "2000-03-24T15:41:36-05:00",
+  "date_modified": "2022-07-14T16:15:05-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT1460M",
+  "yield": [
+    "9",
+    "1 9x9-inch pan"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 ounce) package vanilla wafers, crushed",
+    "1 cup whipping cream",
+    "1 (8 ounce) package cream cheese, softened",
+    "0.5 cup confectioners' sugar",
+    "1 (21 ounce) can cherry pie filling"
+  ],
+  "steps": [
+    {
+      "text": "Crumble cookies into a 9x9 inch pan and set aside. In a medium bowl, whip cream and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a separate mixing bowl, whip together cream cheese and confectioners' sugar until smooth and fluffy. Fold whipped cream into cream cheese mixture and spoon over crumbled cookies. Spread pie filling over top and refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "457 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "210 mg",
+    "sugarContent": "7 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/60LJyc9xt85IZXCL2rhzw05OlPM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4970286-2dcaaab368914a9eb1ce7173e19349d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17617/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

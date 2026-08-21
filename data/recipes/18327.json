@@ -1,0 +1,119 @@
+{
+  "id": "18327",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18327/sesame-pasta-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/18327/sesame-pasta-chicken-salad/",
+  "title": "Sesame Pasta Chicken Salad",
+  "description": "A refreshing light pasta salad with a delicious Asian flair. Great for a summer cookout or picnic.",
+  "authors": [
+    "ohines"
+  ],
+  "date_published": "2000-06-11T09:20:15-04:00",
+  "date_modified": "2026-05-19T08:21:38-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "World",
+    "American"
+  ],
+  "regions": [
+    "World",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup sesame seeds",
+    "1 (16 ounce) package bow tie pasta",
+    "0.5 cup vegetable oil",
+    "0.33333334326744 cup light soy sauce",
+    "0.33333334326744 cup rice vinegar",
+    "1 teaspoon sesame oil",
+    "3 tablespoons white sugar",
+    "0.5 teaspoon ground ginger",
+    "0.25 teaspoon ground black pepper",
+    "3 cups shredded, cooked chicken breast meat",
+    "0.33333334326744 cup chopped fresh cilantro",
+    "0.33333334326744 cup chopped green onion"
+  ],
+  "steps": [
+    {
+      "text": "Heat a skillet over medium-high heat. Add sesame seeds, and cook stirring frequently until lightly toasted. Remove from heat, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente. Drain pasta, and rinse under cold water until cool. Transfer to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a jar with a tight-fitting lid, combine vegetable oil, soy sauce, vinegar, sesame oil, sugar, sesame seeds, ginger, and pepper. Shake well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour sesame dressing over pasta, and toss to coat evenly. Gently mix in chicken, cilantro, and green onions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BY7ANwGUONeaoSLXvW2g8khpFZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/92940-6ee997cd6284474689a152cf8feca175.jpg"
+      ],
+      "image": "assets/images/18327/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "349 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "24 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "308 mg",
+    "sugarContent": "6 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1359"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/6a2Vc2ri-K3AjnAEN.mp4",
+    "description": "In this video, we make a pasta salad shine with a flavorful sesame seed dressing. The dressing has soy sauce, rice vinegar and ground ginger. And the best part? You make it directly in a jar. Add cooked chicken and your favorite vegetables, and the salad is ready.",
+    "duration": "PT1M59S",
+    "name": "Sesame Pasta Chicken Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/6a2Vc2ri/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T16:20:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BY7ANwGUONeaoSLXvW2g8khpFZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/92940-6ee997cd6284474689a152cf8feca175.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18327/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/18327/step_04.webp"
+    ]
+  }
+}

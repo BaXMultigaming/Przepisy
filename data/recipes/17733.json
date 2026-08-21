@@ -1,0 +1,82 @@
+{
+  "id": "17733",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17733/honey-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/17733/honey-rice/",
+  "title": "Honey Rice",
+  "description": "This is a delicious rice dish! It&#39;s similar to an Indian-style rice pudding recipe. Top with slivered almonds and cinnamon if you&#39;d like. Enjoy!",
+  "authors": [
+    "Susan"
+  ],
+  "date_published": "2000-04-13T21:27:35-04:00",
+  "date_modified": "2023-01-17T11:42:19-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups cooked rice",
+    "0.5 cup raisins",
+    "2.5 cups milk",
+    "0.5 cup honey",
+    "2 tablespoons butter",
+    "1 teaspoon grated lemon rind",
+    "1 tablespoon lemon juice",
+    "0.125 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Combine rice, raisins, milk, honey, and butter in a saucepan. Bring mixture to a boil, reduce heat, and let it simmer for 15 minutes; occasionally stirring. Stir in lemon rind and juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve rice in bowls; garnish with cinnamon and slivered almonds if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "334 kcal",
+    "carbohydrateContent": "66 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "72 mg",
+    "sugarContent": "37 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ojkuv-wNmoiK4uNRFr5eu98qVhk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/412904-785eaacf6de548f3bb7ea86b7acadcd8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17733/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

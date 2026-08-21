@@ -1,0 +1,92 @@
+{
+  "id": "18185",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18185/yum/",
+  "requested_url": "https://www.allrecipes.com/recipe/18185/yum/",
+  "title": "Yum",
+  "description": "Great golden brown soft cookies with chocolate and peanut butter chips. If you like, you can use white chocolate chips, too!",
+  "authors": [
+    "Ben"
+  ],
+  "date_published": "2000-02-27T19:04:58-05:00",
+  "date_modified": "2022-07-14T16:13:08-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "12",
+    "1 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups butter, softened",
+    "1.25 cups packed brown sugar",
+    "1.25 cups white sugar",
+    "1 egg",
+    "1 teaspoon vanilla extract",
+    "4 cups all-purpose flour",
+    "2 teaspoons baking soda",
+    "0.5 teaspoon salt",
+    "1 cup semisweet chocolate chips",
+    "1 cup peanut butter chips"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, cream together the butter, brown sugar and white sugar until light and fluffy. Beat in the egg, then stir in the vanilla. Combine the flour, baking soda and salt; gradually stir into the creamed mixture. Finally, stir in the chocolate and peanut butter chips. Drop by rounded spoonfuls onto the unprepared cookie sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "710 kcal",
+    "carbohydrateContent": "94 g",
+    "cholesterolContent": "77 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "23 g",
+    "sodiumContent": "534 mg",
+    "sugarContent": "59 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nyMXhaA2vIFcPd2dEbyWVQR8PwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1446837-fb863617130043e098e75f97a4976392.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18185/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

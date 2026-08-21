@@ -1,0 +1,101 @@
+{
+  "id": "18338",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18338/yum-yum-corn/",
+  "requested_url": "https://www.allrecipes.com/recipe/18338/yum-yum-corn/",
+  "title": "Yum-Yum Corn",
+  "description": "The easy yum-yum corn recipe features corn baked with butter, cream cheese, parsley, garlic, and a touch of sugar. Just one taste and everyone says yum.",
+  "authors": [
+    "Sharon Durham"
+  ],
+  "date_published": "2000-05-19T19:08:29-04:00",
+  "date_modified": "2026-03-24T02:33:06-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (16 ounce) packages frozen corn kernels",
+    "1 (8 ounce) package cream cheese, softened",
+    "0.5 cup butter, melted",
+    "1 clove garlic, pressed",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon dried parsley",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook corn according to package directions. Drain; transfer to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir cream cheese, melted butter, garlic, sugar, parsley, and salt into corn until well combined; transfer to a casserole dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until lightly browned on top, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "258 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "132 mg",
+    "sugarContent": "3 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "165"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ryURaPrPBmRLfVt7oQ5EijB0I7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1119703-55782037cbe64238ae0d082ca4d8ed89.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18338/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

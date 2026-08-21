@@ -1,0 +1,72 @@
+{
+  "id": "18233",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18233/citrus-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/18233/citrus-dressing/",
+  "title": "Citrus Dressing",
+  "description": "Creamy citrus flavored dressing! If the mixture initially turns out too thick, thin it out by adding a little half and half.",
+  "authors": [
+    "Sheila Greer"
+  ],
+  "date_published": "2000-06-03T09:03:04-04:00",
+  "date_modified": "2022-08-08T10:47:52-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup lemon juice",
+    "1 cup orange juice",
+    "1 lime, juiced",
+    "1 egg",
+    "1 egg white",
+    "0.75 cup white sugar",
+    "2 tablespoons honey",
+    "2 cups canola oil"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor, combine the lemon juice, orange juice, lime juice, egg, egg white, sugar, honey, and oil and process until well blended. Refrigerate until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "153 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "7 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qA5pIVsdwRN7s8OvvzfN9n7pwxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/964298-0c7a546e734c4095896c977c3b42faa9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18233/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

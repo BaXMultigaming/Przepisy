@@ -1,0 +1,82 @@
+{
+  "id": "17841",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17841/sopp/",
+  "requested_url": "https://www.allrecipes.com/recipe/17841/sopp/",
+  "title": "S.O.P.P.",
+  "description": "This S.O.P.P (sausage, onions, potatoes, and peppers) skillet dish tastes delicious and is easy to whip up for your family any day of the week!",
+  "authors": [
+    "Jennifer"
+  ],
+  "date_published": "2000-04-18T13:05:15-04:00",
+  "date_modified": "2023-04-04T11:50:44-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "6 potatoes - peeled and cubed",
+    "2 pounds smoked sausage, sliced",
+    "1 onion, sliced",
+    "2 green bell peppers, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium heat. Place potatoes in skillet, cover, and simmer. Turn occasionally until potatoes are almost tender and a little browned, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in sausage, onions, and peppers. Cover and cook for about 5 minutes or until onions and peppers are desired tenderness.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "970 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "124 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "46 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "2742 mg",
+    "sugarContent": "8 g",
+    "fatContent": "63 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "359"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/q02SsfHHCqAu2CoLCLIMzIzIyhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/872294-022afdfeaa744045821bd86f28db7378.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17841/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

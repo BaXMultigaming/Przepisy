@@ -1,0 +1,81 @@
+{
+  "id": "18062",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18062/mock-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/18062/mock-chicken/",
+  "title": "Mock Chicken",
+  "description": "Make mock chicken by freezing tofu for a meat-like texture. This is a great substitute for any recipe that calls for cooked or diced chicken meat.",
+  "authors": [
+    "SILVERWOLF"
+  ],
+  "date_published": "2000-03-24T23:23:30-05:00",
+  "date_modified": "2022-12-13T11:55:21-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT4335M",
+  "yield": [
+    "4",
+    "2 cups"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 ounce) package firm tofu"
+  ],
+  "steps": [
+    {
+      "text": "Leave tofu in original package and place in freezer for 72 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a pot of water to a simmer. Place package of tofu in water and allow to thaw, approximately 10 minutes. When thawed, remove from package, place in a piece of cheesecloth, and squeeze out liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Shred, dice, or slice tofu and include it in your favorite recipe.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "124 kcal",
+    "carbohydrateContent": "4 g",
+    "fiberContent": "2 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "12 mg",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6AGllbqMVxvcdu5JfYGH4MaWNek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/475124-ee72638633f445fa904bf504e2183f95.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18062/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
