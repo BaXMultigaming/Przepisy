@@ -1,0 +1,79 @@
+{
+  "id": "24408",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24408/cheesiest-tomato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/24408/cheesiest-tomato-soup/",
+  "title": "Cheesiest Tomato Soup",
+  "description": "Canned tomatoes are pureed then simmered with Cheddar and herbs for an easy, cheesy tomato soup.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-06-08T09:15:34-04:00",
+  "date_modified": "2025-02-03T12:50:09-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (28 ounce) cans whole peeled tomatoes",
+    "5 cups chicken broth",
+    "3 cups shredded sharp Cheddar cheese",
+    "1 (6 ounce) can tomato paste",
+    "1 teaspoon dried parsley",
+    "1 teaspoon dried basil leaves",
+    "0.5 teaspoon dried tarragon",
+    "1 pinch dried thyme",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor, puree tomatoes with liquid until smooth. Pour into a medium saucepan over medium-low heat. Stir in broth, cheese and tomato paste. Season with parsley, basil, tarragon, thyme, salt and pepper. Simmer 30 minutes, stirring frequently, until cheese is melted and smooth and flavors are well blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "223 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "712 mg",
+    "sugarContent": "8 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4sI-D-_3cZGSDQnr-Mxz-yn5mLA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1052345-2187cdaf7836459d8e14c95cf63106a4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24408/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

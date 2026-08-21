@@ -1,0 +1,78 @@
+{
+  "id": "23781",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23781/spiced-pickled-beets/",
+  "requested_url": "https://www.allrecipes.com/recipe/23781/spiced-pickled-beets/",
+  "title": "Spiced Pickled Beets",
+  "description": "Sliced beets are marinated with cider vinegar, sugar, spices and onion to create this fresh tasting and delicious side salad.",
+  "authors": [
+    "Bea Gassman"
+  ],
+  "date_published": "2020-06-18T23:05:07-04:00",
+  "date_modified": "2020-06-18T23:05:07-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT60M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups sliced canned beets, juice reserved",
+    "0.5 cup apple cider vinegar",
+    "2 tablespoons sugar",
+    "2 whole cloves",
+    "3 black peppercorns",
+    "1 bay leaf",
+    "0.5 teaspoon salt",
+    "1 small onion, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Place the beets into a medium bowl and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium saucepan, combine vinegar and 1/2 cup beet juice and bring to a boil. Add sugar, cloves, peppercorns, bay leaf, salt and onion, and return to a boil. Remove from heat, and pour mixture over the beets. Toss until coated, cover and chill. Serve the beets very cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "44 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "257 mg",
+    "sugarContent": "8 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "79"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kBlk4tfejLisPxJqPTbKo6Hnj2g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8153039-9ffc224ded7d40748854d1c863d3003f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23781/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

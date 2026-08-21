@@ -1,0 +1,90 @@
+{
+  "id": "23882",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23882/asparagus-casserole-with-hard-boiled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/23882/asparagus-casserole-with-hard-boiled-eggs/",
+  "title": "Asparagus Casserole with Hard-Boiled Eggs",
+  "description": "A baked delight incorporating asparagus, chopped egg, bread crumbs, and a simple white sauce of butter, flour, and milk.",
+  "authors": [
+    "MECLA"
+  ],
+  "date_published": "2020-05-06T00:02:36-04:00",
+  "date_modified": "2022-11-02T10:23:40-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "4",
+    "1 9x13-inch casserole"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons butter",
+    "4 tablespoons all-purpose flour",
+    "1.5 cups milk",
+    "1 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "0.5 cup dry bread crumbs, browned in butter",
+    "20 asparagus tips",
+    "5 hard-boiled eggs, chopped"
+  ],
+  "steps": [
+    {
+      "text": "To make the white sauce: Melt butter in a small skillet over medium-low heat; stir in flour, then milk. Cook until thickened and season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To make the casserole: Spread 1/2 of browned bread crumbs in the bottom of a 9x13-inch baking dish. Add layers of asparagus and chopped egg, alternately. Pour white sauce over all and top with remaining bread crumbs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "278 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "822 mg",
+    "sugarContent": "7 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_SDUjUYuF93pb0Jyi0vkuaLAh6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7952646-216ac0839b364fe7a859cbe914ce6244.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23882/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

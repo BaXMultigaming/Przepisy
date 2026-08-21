@@ -1,0 +1,74 @@
+{
+  "id": "23943",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23943/ham-rolls/",
+  "requested_url": "https://www.allrecipes.com/recipe/23943/ham-rolls/",
+  "title": "Ham Rolls",
+  "description": "A tray of these mouth-watering ham roll appetizers is sure to put a smile on everyone&#39;s face at your next party.",
+  "authors": [
+    "Lynn"
+  ],
+  "date_published": "2018-03-21T12:16:58-04:00",
+  "date_modified": "2026-05-30T18:43:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12",
+    "25 ham bites"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 slices cooked ham",
+    "1 (8 ounce) package cream cheese, softened",
+    "5 green onions"
+  ],
+  "steps": [
+    {
+      "text": "Lay the ham slices on a flat surface and spread with cream cheese. Place one green onion on each ham slice. Roll the ham slices tightly. Cut into bite sized pieces and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "96 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "208 mg",
+    "sugarContent": "0 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "90"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7dXTphOVhK-eCCfvz-qAQVCTNPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6184693-b4f0b9317ec242e199a3f303f6cf7b7b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23943/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

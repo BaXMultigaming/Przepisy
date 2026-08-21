@@ -1,0 +1,98 @@
+{
+  "id": "24329",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24329/spanish-rice-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/24329/spanish-rice-ii/",
+  "title": "Homemade Spanish Rice",
+  "description": "Rice is sauteed with onion and green bell pepper, and then simmered with water, chopped tomatoes and spices.",
+  "authors": [
+    "JOHN MAC"
+  ],
+  "date_published": "2019-04-03T23:27:58-04:00",
+  "date_modified": "2026-05-19T10:30:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "1 cup uncooked white rice",
+    "1 onion, chopped",
+    "0.5 green bell pepper, chopped",
+    "2 cups water",
+    "1 (10 ounce) can diced tomatoes and green chiles",
+    "2 teaspoons chili powder, or to taste",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a deep skillet over medium heat. Saute rice, onion, and bell pepper until rice is browned and onions are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in water and tomatoes. Season with chili powder and salt. Cover, and simmer for 30 minutes, or until rice is cooked and liquid is absorbed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FLGj81TE_nclXcN3dq_OyVBKqlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/334552-f35daa66fd8848e98964b86ab73f1b3a.jpg"
+      ],
+      "image": "assets/images/24329/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "270 kcal",
+    "carbohydrateContent": "46 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "882 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1871"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/y0ffVcpN-ma1DlVvV.mp4",
+    "description": "AR0362",
+    "duration": "PT1M48S",
+    "name": "Spanish Rice II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/y0ffVcpN/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T22:38:12-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FLGj81TE_nclXcN3dq_OyVBKqlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/334552-f35daa66fd8848e98964b86ab73f1b3a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24329/hero.webp",
+    "steps": [
+      null,
+      "assets/images/24329/step_02.webp"
+    ]
+  }
+}

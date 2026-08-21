@@ -1,0 +1,85 @@
+{
+  "id": "23867",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23867/french-onion-soup-vii/",
+  "requested_url": "https://www.allrecipes.com/recipe/23867/french-onion-soup-vii/",
+  "title": "French Onion Soup VII",
+  "description": "Onions are caramelized in butter, then combined with broth and white wine for a quick and simple onion soup.",
+  "authors": [
+    "Zabocka"
+  ],
+  "date_published": "2020-03-09T22:50:27-04:00",
+  "date_modified": "2025-02-26T17:22:01-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "8 onions, sliced",
+    "1 quart vegetable broth",
+    "1.5 cups white wine",
+    "salt and pepper to taste",
+    "6 slices baguette",
+    "2 cups shredded mozzarella cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large pot over medium heat. Saute onions until deep brown, about 20 minutes. Stir in broth and wine, using a wooden spoon to scrape the bottom of the pot. Season with salt and pepper. Cook until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven on broiler setting. Ladle soup into heatproof serving bowls. Top each bowl with a slice of bread, and sprinkle with cheese. Place under a hot broiler until cheese is melted and slightly browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "343 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "44 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "699 mg",
+    "sugarContent": "10 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "51"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aemppL75ydt02RYQsUCPWirFotY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/556420-b33ddf4079df44d392c78bee87d5e992.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23867/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

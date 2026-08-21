@@ -1,0 +1,92 @@
+{
+  "id": "24043",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24043/cookie-balls/",
+  "requested_url": "https://www.allrecipes.com/recipe/24043/cookie-balls/",
+  "title": "Cookie Balls",
+  "description": "Chocolate sandwich cookie crumbs are combined with cream cheese and dipped in candy coating.",
+  "authors": [
+    "Annette"
+  ],
+  "date_published": "2019-04-02T02:42:26-04:00",
+  "date_modified": "2026-06-21T22:17:21-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT50M",
+  "yield": [
+    "36",
+    "3 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound chocolate sandwich cookies, crushed",
+    "1 (8 ounce) package cream cheese, softened",
+    "1 pound vanilla-flavored candy coating, melted"
+  ],
+  "steps": [
+    {
+      "text": "In a large mixing bowl, combine crushed cookies and cream cheese to form a stiff dough. Roll into balls and dip with a fork in melted candy coating.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let rest on waxed paper until set, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mvKE3bBM-VlkxKhFYc-RbpfjJKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/797850_Cookie-Balls-1x1-1-2000-33a24c082ea942c8a6ccbcd953857498.jpg"
+      ],
+      "image": "assets/images/24043/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "149 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "91 mg",
+    "sugarContent": "13 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "604"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/A79Zqj8V-ma1DlVvV.mp4",
+    "description": "AR0941",
+    "duration": "PT3M48S",
+    "name": "Cookie Balls",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/A79Zqj8V/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T08:15:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mvKE3bBM-VlkxKhFYc-RbpfjJKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/797850_Cookie-Balls-1x1-1-2000-33a24c082ea942c8a6ccbcd953857498.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24043/hero.webp",
+    "steps": [
+      null,
+      "assets/images/24043/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "24180",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24180/indian-relish/",
+  "requested_url": "https://www.allrecipes.com/recipe/24180/indian-relish/",
+  "title": "Indian Relish",
+  "description": "This zesty Indian relish recipe combines bell peppers and sweet onion simmered in wine vinegar and pepper flakes. Top crackers or spread on cream cheese.",
+  "authors": [
+    "CINDYLEE65"
+  ],
+  "date_published": "2020-06-18T23:05:22-04:00",
+  "date_modified": "2025-06-03T07:20:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT275M",
+  "yield": [
+    "24",
+    "3 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 red bell peppers, chopped",
+    "1 sweet onion, peeled and chopped",
+    "1 cup white wine vinegar",
+    "1 cup white sugar",
+    "1 tablespoon crushed red pepper flakes"
+  ],
+  "steps": [
+    {
+      "text": "Combine bell peppers, onion, white wine vinegar, sugar, and red pepper flakes in a medium saucepan over medium heat. Bring to a boil, then reduce heat to a simmer. Cook until thickened, stirring occasionally, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer to a sterilized glass container; cover. Refrigerate before serving, 4 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0OBw_MlKhxTUP2iQ44EBh1KP2jw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/86389-620a6328959c4345a282dafce5e37cd1.jpg"
+      ],
+      "image": "assets/images/24180/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "39 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "9 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "126"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/bpIDSkgU-ma1DlVvV.mp4",
+    "description": "AR0917",
+    "duration": "PT2M47S",
+    "name": "Indian Relish",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/bpIDSkgU/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T08:31:58-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0OBw_MlKhxTUP2iQ44EBh1KP2jw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/86389-620a6328959c4345a282dafce5e37cd1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24180/hero.webp",
+    "steps": [
+      null,
+      "assets/images/24180/step_02.webp"
+    ]
+  }
+}

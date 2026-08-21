@@ -1,0 +1,80 @@
+{
+  "id": "23980",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23980/tuna-delicious/",
+  "requested_url": "https://www.allrecipes.com/recipe/23980/tuna-delicious/",
+  "title": "Tuna Delicious",
+  "description": "Egg noodles in a creamy mushroom, tuna and onion sauce.",
+  "authors": [
+    "Michelle from South Africa"
+  ],
+  "date_published": "2018-03-21T12:17:03-04:00",
+  "date_modified": "2022-07-14T17:26:55-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package egg noodles",
+    "1 tablespoon vegetable oil",
+    "1 onion, chopped",
+    "1 (6 ounce) can tuna, drained",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "1 (8 ounce) container sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add egg noodles and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet over medium heat, fry onion in oil until browned. Mix in tuna and mushroom soup. Stir in sour cream and heat through. Mix together the cooked egg noodles and sauce and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "471 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "78 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "551 mg",
+    "sugarContent": "3 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "88"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ica6tfn7VGwumRCm_gh2Rn-ex0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6550318-e4f48d08ec174434bca24a138c5587b2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23980/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "23828",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23828/hot-mocha-drink-mix/",
+  "requested_url": "https://www.allrecipes.com/recipe/23828/hot-mocha-drink-mix/",
+  "title": "Hot Mocha Drink Mix",
+  "description": "Make this recipe for a creamy mocha mix, or hot chocolate with a hint of coffee, for a shortcut to a warm mug of deliciousness or to give as a gift.",
+  "authors": [
+    "Rebecca"
+  ],
+  "date_published": "2020-06-18T23:05:10-04:00",
+  "date_modified": "2026-03-24T08:30:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "66",
+    "4 cups"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage",
+    "Ingredient",
+    "Coffee"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "1 cup dry milk powder",
+    "1 cup powdered non-dairy creamer",
+    "0.5 cup unsweetened cocoa",
+    "0.25 cup instant coffee granules"
+  ],
+  "steps": [
+    {
+      "text": "Combine sugar, milk powder, creamer, cocoa and instant coffee in a large bowl. Mix together until well blended. Store in a sealed container.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To serve: Heat a cup of water per serving (or milk, for a creamier taste). Stir in 2 to 3 heaping teaspoons of cocoa mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "28 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "13 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ysNXLB2pI6O4EfqPjH37ECX4KAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/127845-b6cee0fb391b4592a249dc20b38c9eb4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23828/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

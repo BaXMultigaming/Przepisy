@@ -1,0 +1,73 @@
+{
+  "id": "24047",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24047/whipped-cream-filling/",
+  "requested_url": "https://www.allrecipes.com/recipe/24047/whipped-cream-filling/",
+  "title": "Whipped Cream Filling",
+  "description": "Heavy cream is whipped with confectioners’ sugar and gelatin for a pipeable pastry cream.",
+  "authors": [
+    "Cathy"
+  ],
+  "date_published": "2019-04-03T23:27:53-04:00",
+  "date_modified": "2026-08-09T16:06:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT1M",
+  "total_time": "PT11M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint heavy cream",
+    "1.5 tablespoons confectioners' sugar",
+    "1 tablespoon cold water",
+    "1 teaspoon unflavored gelatin"
+  ],
+  "steps": [
+    {
+      "text": "Whip cream with confectioners’ sugar until soft peaks form. Dissolve gelatin in water over low heat. Remove from heat, allow to cool slightly, then whip into cream until stiff peaks form.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "41 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "1 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "73"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ebpu69-UpEYtRi-uFOHFuaTQodE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1097072-ad203a9f99664170897c2b32ff77995b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24047/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "24044",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24044/pecan-rice-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/24044/pecan-rice-pudding/",
+  "title": "Pecan Rice Pudding",
+  "description": "Rice and milk are cooked on the stove and flavored with maple syrup, lemon zest and pecans.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-03-21T12:17:11-04:00",
+  "date_modified": "2022-08-04T10:06:10-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 quart milk",
+    "2.25 cups uncooked white rice",
+    "0.33000001311302 cup maple syrup",
+    "1 teaspoon grated lemon zest",
+    "0.5 cup pecan halves"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan over medium heat, bring rice and milk to a boil. Reduce heat, cover and simmer 25 minutes. Stir in maple syrup, lemon zest and pecans. Pour into serving dishes and chill until set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "345 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "53 mg",
+    "sugarContent": "14 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iJDtwCWRpJAn3enuPARl34TcYXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1003235-a874ff6ce7134c9883c8e1a55bb71ab5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24044/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

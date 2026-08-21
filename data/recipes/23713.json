@@ -1,0 +1,90 @@
+{
+  "id": "23713",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23713/chicken-caesar-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/23713/chicken-caesar-pasta/",
+  "title": "Chicken Caesar Pasta",
+  "description": "Flavorful Caesar style sauce with chunks of chicken breast and penne pasta.",
+  "authors": [
+    "bsteimle"
+  ],
+  "date_published": "2018-06-08T09:14:59-04:00",
+  "date_modified": "2018-06-08T09:14:59-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT20M",
+  "total_time": "PT50M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dry penne pasta",
+    "1 tablespoon butter",
+    "6 skinless, boneless chicken breast halves - cut into 1 inch cubes",
+    "0.5 teaspoon ground black pepper",
+    "0.25 teaspoon salt",
+    "1 (8 ounce) bottle Caesar salad dressing",
+    "0.25 cup red wine vinegar",
+    "0.5 cup grated Parmesan cheese",
+    "1 head romaine lettuce - rinsed, dried and shredded",
+    "1 large tomato, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add penne pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium heat. Add chicken, pepper and salt. Cook 10 minutes or until chicken is cooked through. Remove skillet from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, mix together salad dressing, vinegar and cheese. Toss together pasta, chicken, lettuce, and dressing mixture. Place in large serving bowl, and sprinkle with tomato. Garnish with croutons and Parmesan curls, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "465 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "63 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "529 mg",
+    "sugarContent": "2 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "254"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-7Htxfnk3Md2U_YHHFwTfa9dFTk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1242096-c31875d9feab4c19863425fd3c5e0aff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23713/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

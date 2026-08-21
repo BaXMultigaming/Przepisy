@@ -1,0 +1,101 @@
+{
+  "id": "24230",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24230/vinegar-pickled-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/24230/vinegar-pickled-carrots/",
+  "title": "Vinegar Pickled Carrots",
+  "description": "This tasty pickled carrots recipe is easy to prepare and sure to please everyone. It makes a great accompaniment to sandwiches or garnish for salads.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:05:25-04:00",
+  "date_modified": "2026-03-18T15:47:45-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT745M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [
+    "Side Dish",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup distilled white vinegar",
+    "0.67 cup water",
+    "2 tablespoons white sugar",
+    "1 teaspoon salt",
+    "0.125 teaspoon ground black pepper",
+    "8 large carrots, diced"
+  ],
+  "steps": [
+    {
+      "text": "Mix distilled white vinegar, water, white sugar, salt, and pepper in a medium saucepan. Bring the mixture to a boil. Remove from heat and allow to cool slightly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/EaOgPQn28Dcb6PILrkZ4JwT58Ns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24230-Vinegar-Pickled-Carrots-ddmfs-148-step1-2291b6a75a5340dc973df7e6a95a8345.jpg"
+      ],
+      "image": "assets/images/24230/step_01.webp"
+    },
+    {
+      "text": "Place carrots in sterile containers. Cover with the vinegar solution.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fBTw5gYXmnT7Er4C2mNeSzBL5iA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24230-Vinegar-Pickled-Carrots-ddmfs-150-step2-bf32e175901c483595b3e25b8fd0d46c.jpg"
+      ],
+      "image": "assets/images/24230/step_02.webp"
+    },
+    {
+      "text": "Seal the containers, refrigerate and marinate carrots, 12 hours or overnight before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CpgL1Kl_LdnjrWPHRrjXvJpc2Vw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24230-Vinegar-Pickled-Carrots-ddmfs-152-step3-352fd81dc8e74980b0134d6d0c3c6ae5.jpg"
+      ],
+      "image": "assets/images/24230/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "11 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "85 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "46"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yJPyVZ3M_jYqBFO-gYr9hdHM0ms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24230-Vinegar-Pickled-Carrots-ddmfs-160-4x3-0e5e6af05c8549de86661a2e04518c52.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24230/hero.webp",
+    "steps": [
+      "assets/images/24230/step_01.webp",
+      "assets/images/24230/step_02.webp",
+      "assets/images/24230/step_03.webp"
+    ]
+  }
+}

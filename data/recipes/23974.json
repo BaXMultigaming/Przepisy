@@ -1,0 +1,99 @@
+{
+  "id": "23974",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23974/pasta-with-peas-and-sausage/",
+  "requested_url": "https://www.allrecipes.com/recipe/23974/pasta-with-peas-and-sausage/",
+  "title": "Pasta with Peas and Sausage",
+  "description": "Rigatoni pasta in a creamy sausage sauce with green peas.",
+  "authors": [
+    "Elaina"
+  ],
+  "date_published": "2000-11-27T12:22:38-05:00",
+  "date_modified": "2026-02-23T06:28:37-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 pound rigatoni pasta",
+    "2 tablespoons olive oil",
+    "1 clove garlic, minced",
+    "1 pound sweet Italian sausage, casings removed",
+    "12 ounces frozen green peas",
+    "1.5 cups heavy cream",
+    "4 tablespoons butter",
+    "2 tablespoons grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a skillet heat oil and saute garlic over medium heat. Brown sausage in skillet. Once brown add frozen peas and simmer for 5 minutes. Slowly add heavy cream and butter to skillet; bring to a slight boil. Add more cream if necessary. Cook for 5 minutes. Toss with cooked pasta and top with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_Sx1H9VVeZ0lo0k0q-dolBTnHJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1800425-ce712e89ffea418d9570cfd266a8fd9b.jpg"
+      ],
+      "image": "assets/images/23974/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "611 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "100 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "599 mg",
+    "sugarContent": "5 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "433"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lzP34lwG-K3AjnAEN.mp4",
+    "description": "Who doesn't love creamy pasta sauce with the perfect peas and sausage pair. \nInstead of heavy cream, use half and half for a lighter option but still the same \ncreaminess. Sprinkle a little Parmesan cheese on top and enjoy!",
+    "duration": "PT43S",
+    "name": "Pasta with Peas and Sausage",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lzP34lwG/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T07:25:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_Sx1H9VVeZ0lo0k0q-dolBTnHJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1800425-ce712e89ffea418d9570cfd266a8fd9b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23974/hero.webp",
+    "steps": [
+      null,
+      "assets/images/23974/step_02.webp"
+    ]
+  }
+}

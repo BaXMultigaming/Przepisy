@@ -1,0 +1,93 @@
+{
+  "id": "24250",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24250/hot-sausage-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/24250/hot-sausage-dip/",
+  "title": "Hot Sausage Dip",
+  "description": "This spicy sausage dip is great with tortilla chips or crackers. It&#39;s so thick and tasty, it could be a meal in itself!",
+  "authors": [
+    "Carey"
+  ],
+  "date_published": "2019-04-02T02:42:33-04:00",
+  "date_modified": "2026-06-01T12:33:02-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "48",
+    "6 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground pork sausage",
+    "1.5 cups chopped onions",
+    "1 (10 ounce) can diced tomatoes with green chile peppers, drained",
+    "1 (8 ounce) package cream cheese",
+    "1 (16 ounce) container sour cream",
+    "1 tablespoon crushed red pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place pork sausage in a large, deep skillet. Cook over medium high heat until evenly brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain sausage and stir in onions. Cook until slightly tender, about 2 minutes. Mix in diced tomatoes with green chile peppers. Stirring occasionally, allow the mixture to simmer approximately 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend cream cheese and sour cream into the sausage mixture. Season with crushed red pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "80 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "106 mg",
+    "sugarContent": "0 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "87"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Kc_UCIl6LzSKX8HmxdrmcHvwrTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24250hot-sausage-dipYoly4x3-3eadae0f409c48e299493a6e955c54e4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24250/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

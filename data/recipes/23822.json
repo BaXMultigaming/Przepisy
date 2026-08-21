@@ -1,0 +1,118 @@
+{
+  "id": "23822",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23822/pumpkin-gingerbread/",
+  "requested_url": "https://www.allrecipes.com/recipe/23822/pumpkin-gingerbread/",
+  "title": "Pumpkin Gingerbread",
+  "description": "A delicious quick bread that will fill your kitchen with spicy holiday scents.",
+  "authors": [
+    "frosty"
+  ],
+  "date_published": "2020-06-18T23:05:09-04:00",
+  "date_modified": "2026-05-11T10:57:25-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "24",
+    "2 - 9x5 inch loaves"
+  ],
+  "categories": [
+    "Bread"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups sugar",
+    "1 cup vegetable oil",
+    "4 eggs",
+    "0.66666668653488 cup water",
+    "1 (15 ounce) can pumpkin puree",
+    "2 teaspoons ground ginger",
+    "1 teaspoon ground allspice",
+    "1 teaspoon ground cinnamon",
+    "1 teaspoon ground cloves",
+    "3.5 cups all-purpose flour",
+    "2 teaspoons baking soda",
+    "1.5 teaspoons salt",
+    "0.5 teaspoon baking powder"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease two 9x5 inch loaf pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large mixing, combine sugar, oil and eggs; beat until smooth. Add water and beat until well blended. Stir in pumpkin, ginger, allspice cinnamon, and clove.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In medium bowl, combine flour, soda, salt, and baking powder. Add dry ingredients to pumpkin mixture and blend just until all ingredients are mixed. Divide batter between prepared pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until toothpick comes out clean, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0P5J366ro5PNFPxdyTAE7SuKX38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/270708-7d3c96453e5e4c989c0a03b904cd1f89.jpg"
+      ],
+      "image": "assets/images/23822/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "263 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "313 mg",
+    "sugarContent": "26 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "1547"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/s2e824Cv-ma1DlVvV.mp4",
+    "description": "It’s practically the official taste and aroma of the holidays.",
+    "duration": "PT2M2S",
+    "name": "Pumpkin Gingerbread",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/s2e824Cv/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T10:29:09-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0P5J366ro5PNFPxdyTAE7SuKX38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/270708-7d3c96453e5e4c989c0a03b904cd1f89.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23822/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/23822/step_04.webp"
+    ]
+  }
+}

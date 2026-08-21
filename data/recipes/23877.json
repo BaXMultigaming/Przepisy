@@ -1,0 +1,90 @@
+{
+  "id": "23877",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23877/wild-rice-soup-v/",
+  "requested_url": "https://www.allrecipes.com/recipe/23877/wild-rice-soup-v/",
+  "title": "Wild Rice Soup V",
+  "description": "A rich tasting blend of wild rice, ham, vegetables, chicken broth and a touch of sweet Vermouth.",
+  "authors": [
+    "Bette Wirth"
+  ],
+  "date_published": "2018-03-21T12:16:51-04:00",
+  "date_modified": "2022-07-14T15:53:49-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT75M",
+  "total_time": "PT90M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup uncooked wild rice",
+    "1 tablespoon butter",
+    "1 onion, chopped",
+    "0.25 cup all-purpose flour",
+    "1 quart chicken broth",
+    "2 large carrots, shredded",
+    "3 cups cubed cooked ham",
+    "0.5 cup milk",
+    "2 tablespoons chopped fresh parsley",
+    "0.25 cup sweet vermouth"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan, boil rice in water 30 minutes. Drain, rinse, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a large soup pot, melt butter over medium heat. Cook onion in butter until translucent. Stir in flour all at once to form a roux. Stir in broth, a little at a time, and cook until slightly thickened. Stir in carrots, ham, milk, parsley and reserved rice. Reduce heat and simmer 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in vermouth and simmer 30 minutes more. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "312 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "907 mg",
+    "sugarContent": "4 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/guvS_Y4juga4T-QnCMR6jTzyiDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1088594-f591e28b53c843faa2654e0e5ee5f2d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23877/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

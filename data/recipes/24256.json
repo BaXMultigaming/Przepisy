@@ -1,0 +1,81 @@
+{
+  "id": "24256",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24256/cranberry-coleslaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/24256/cranberry-coleslaw/",
+  "title": "Cranberry Coleslaw",
+  "description": "Sweet-tart and crunchy, this unusual slaw is enlivened by a combination of cabbage, sugared cranberries and thin orange slices.",
+  "authors": [
+    "Winna"
+  ],
+  "date_published": "2020-06-18T23:05:25-04:00",
+  "date_modified": "2022-08-22T14:02:47-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup halved cranberries",
+    "0.25 cup white sugar",
+    "2 oranges, peeled and thinly sliced",
+    "1 red onion, thinly sliced",
+    "4 cups shredded cabbage",
+    "1 large apple - peeled, cored, and chopped",
+    "0.25 cup mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, toss together the cranberries and sugar. Cover and refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, toss together the oranges, onion, cabbage, apple and mayonnaise until evenly coated. When ready to serve add cranberry mixture and toss again.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "102 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "37 mg",
+    "sugarContent": "12 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PfNtHaCRfFwn6JxTazn8AmCBkfY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1118826-d2a97900f83441cb9d017ac9400d1177.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24256/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

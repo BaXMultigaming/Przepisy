@@ -1,0 +1,93 @@
+{
+  "id": "24342",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24342/spanish-tortilla/",
+  "requested_url": "https://www.allrecipes.com/recipe/24342/spanish-tortilla/",
+  "title": "Spanish Tortilla",
+  "description": "Great for breakfast or brunch. Combines eggs with delicious potatoes in a very short time.",
+  "authors": [
+    "Leslie Rosas"
+  ],
+  "date_published": "2018-03-21T12:17:46-04:00",
+  "date_modified": "2025-04-01T10:17:39-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Spanish"
+  ],
+  "regions": [
+    "Spanish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "2 potatoes, peeled",
+    "4 slices bacon",
+    "2 slices cooked ham, diced",
+    "0.5 onion, thinly sliced",
+    "0.5 red bell pepper, sliced",
+    "4 eggs",
+    "0.25 teaspoon Spanish seasoning"
+  ],
+  "steps": [
+    {
+      "text": "Slice edges off of potatoes so that potatoes are roughly square; thinly slice. Heat olive oil in medium skillet over medium heat. Add potatoes and lightly fry. Remove potatoes with a slotted spoon and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Remove bacon, crumble and set aside. Reserve 1 tablespoon bacon grease and cook ham, onion and red pepper. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat eggs and paprika together in a bowl; pour into skillet with vegetables. Add bacon and potatoes. Cook over medium heat, without stirring until bottom begins to brown. Turn omelet over and allow both sides to brown. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "447 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "213 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "558 mg",
+    "sugarContent": "3 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A6hfvLBixz7IljHTB6b09W79RJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8592703-64f639dbd8434eee8220aad17b1f5a0a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24342/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

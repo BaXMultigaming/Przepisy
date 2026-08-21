@@ -1,0 +1,94 @@
+{
+  "id": "23938",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23938/hoagie-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/23938/hoagie-dip/",
+  "title": "Hoagie Dip",
+  "description": "This hoagie dip combines all your favorite sandwich tastes into a mouthwatering dip.",
+  "authors": [
+    "C Schuster"
+  ],
+  "date_published": "2018-03-21T12:16:58-04:00",
+  "date_modified": "2026-05-09T11:06:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups mayonnaise",
+    "2 teaspoons dried oregano",
+    "1 pound processed American cheese, sliced",
+    "0.5 pound cooked ham, thinly sliced",
+    "0.5 pound Genoa salami, thinly sliced",
+    "1 medium onion, diced",
+    "0.5 head iceberg lettuce, shredded",
+    "2 medium tomatoes, diced",
+    "12 hoagie rolls, torn into pieces for dipping"
+  ],
+  "steps": [
+    {
+      "text": "Stir mayonnaise and oregano together in a medium bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Tear American cheese, ham, and salami into small pieces; place into a large bowl. Stir in mayonnaise mixture, 1/2 cup at a time, until cheese and meats are well coated. Stir in onion, then stir in lettuce and tomatoes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve with bread pieces for dipping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "264 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "699 mg",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "237"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A6KLRqtP20qDZZUDiaWkqR0scE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/69504-294725067a844ea88a5ed0413bfb509e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23938/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

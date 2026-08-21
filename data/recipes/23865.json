@@ -1,0 +1,86 @@
+{
+  "id": "23865",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23865/ultimate-potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/23865/ultimate-potato-soup/",
+  "title": "Ultimate Potato Soup",
+  "description": "Potatoes, celery and onion are cooked with chicken broth and cream, and thickened with flour in this creamy, simple, potato soup.",
+  "authors": [
+    "Chrisee Irvine"
+  ],
+  "date_published": "2018-03-21T12:16:49-04:00",
+  "date_modified": "2026-04-24T11:11:21-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups diced potatoes",
+    "3 stalks celery, diced",
+    "1 cup chopped onion",
+    "3 (14.5 ounce) cans chicken broth, divided",
+    "4 cups half-and-half cream",
+    "6 tablespoons butter, melted",
+    "6 tablespoons all-purpose flour",
+    "4 cubes chicken bouillon",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot, bring potatoes, celery and onion to a boil in 2 cups of broth. Cook until potatoes are tender, 15 minutes. Drain and reserve liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine reserved broth and half-and-half in pot. In a bowl, combine melted butter and flour. Stir into half-and-half mixture over medium heat. Stir until thickened. Stir in reserved vegetables, remaining broth, bouillon and pepper. Heat through and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "469 mg",
+    "sugarContent": "2 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "429"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cJYKK6Ymtaa_cj1_DGXYCQ5DvNQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4581808-9dd7c1d4d54a424fa703f6d30f9824ed.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23865/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

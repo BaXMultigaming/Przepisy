@@ -1,0 +1,90 @@
+{
+  "id": "24076",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24076/speedy-spaghetti/",
+  "requested_url": "https://www.allrecipes.com/recipe/24076/speedy-spaghetti/",
+  "title": "Speedy Spaghetti",
+  "description": "Spaghetti simmers directly in a delicious beef and tomato sauce with seasonings. This is an easy dinner with great flavor that everyone will love.",
+  "authors": [
+    "RAE921"
+  ],
+  "date_published": "2019-04-03T23:27:54-04:00",
+  "date_modified": "2023-02-03T19:04:37-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound ground beef",
+    "1 small onion, chopped",
+    "2 (8 ounce) cans tomato sauce",
+    "1.5 cups water",
+    "1.5 teaspoons salt",
+    "1 teaspoon dried parsley",
+    "0.5 teaspoon black pepper",
+    "0.5 pinch dried basil",
+    "4 ounces uncooked spaghetti"
+  ],
+  "steps": [
+    {
+      "text": "Brown ground beef with onion in a large skillet over medium heat until all pink is gone; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in tomato sauce, water, salt, parsley, pepper, and basil; mix well. Heat until sauce boils. Break spaghetti in half and drop into the sauce a little at a time. Cover and turn to low.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook until spaghetti is tender, approximately 20 to 25 minutes. Stir occasionally to keep from sticking together or to the pan. Add water, 1/2 to 1 cup, if it starts to dry out and noodles are not cooked.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "252 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1535 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "64"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/o9RsgmPJjz5s-SW_YmYNSfqqZho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/582649-speedy-spaghetti-Pam-Ziegler-Lutz-4x3-1-01af63e84210486f82a794d4cee8ba3e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24076/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

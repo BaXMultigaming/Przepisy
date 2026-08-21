@@ -1,0 +1,81 @@
+{
+  "id": "23876",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23876/mexican-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/23876/mexican-soup/",
+  "title": "Mexican Soup",
+  "description": "This easy Mexican soup made with shredded chicken, bell peppers, stewed tomatoes, and green chiles is full of color and flavor with a touch of heat!",
+  "authors": [
+    "Bette Wirth"
+  ],
+  "date_published": "2018-03-21T12:16:50-04:00",
+  "date_modified": "2025-12-22T07:27:46-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT45M",
+  "total_time": "PT65M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cooked, boneless chicken breast halves, shredded",
+    "2 (14.5 ounce) cans chicken broth",
+    "1 (15 ounce) can kidney beans",
+    "1 (14.5 ounce) can stewed tomatoes",
+    "1 cup whole kernel corn",
+    "0.5 cup chopped onion",
+    "0.5 green bell pepper, chopped",
+    "0.5 red bell pepper, chopped",
+    "1 (4 ounce) can chopped green chile peppers",
+    "1 tablespoon ground cumin"
+  ],
+  "steps": [
+    {
+      "text": "Combine cooked chicken, chicken broth, kidney beans, stewed tomatoes, corn, onion, bell peppers, chile peppers, and cumin in a large pot over medium heat. Simmer for 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "336 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "841 mg",
+    "sugarContent": "8 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "96"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BTJFSvnQA8MR4h6DkledsC22UQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/394324-7da368bbf8ae4b3ebb148ba9e3d138d8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23876/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "23779",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23779/balsamic-bleu-cheese-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/23779/balsamic-bleu-cheese-salad/",
+  "title": "Balsamic Bleu Cheese Salad",
+  "description": "This is a delicious, light salad of spring greens tossed with walnuts, bleu cheese and a balsamic vinaigrette.",
+  "authors": [
+    "NANMURAT"
+  ],
+  "date_published": "2019-07-10T02:52:32-04:00",
+  "date_modified": "2022-07-14T17:34:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups mixed baby greens",
+    "1 cup leaf lettuce - rinsed, dried and torn into bite-size pieces",
+    "8 ounces blue cheese, crumbled",
+    "1 cup chopped walnuts",
+    "1 tablespoon balsamic vinegar",
+    "2 tablespoons olive oil",
+    "2 teaspoons lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, toss together the mixed greens, leaf lettuce, cheese and walnuts. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, whisk together the balsamic vinegar, olive oil and lemon juice. Pour over the salad mixture and toss well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "921 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "27 g",
+    "sodiumContent": "1609 mg",
+    "sugarContent": "4 g",
+    "fatContent": "84 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KoV-tVmV_YUF-1IUNczdFjSMFvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/744010-4fc45608ae8949e690a3659a41891e15.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23779/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

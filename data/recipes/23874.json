@@ -1,0 +1,107 @@
+{
+  "id": "23874",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23874/catherines-spicy-chicken-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/23874/catherines-spicy-chicken-soup/",
+  "title": "Catherine&#39;s Spicy Chicken Soup",
+  "description": "A shredded chicken soup flavored with garlic, onion powder, salsa, tomatoes, tomato soup, chili powder, corn, beans and sour cream. Serve with tortilla chips.",
+  "authors": [
+    "AUNTTAF"
+  ],
+  "date_published": "2019-04-03T23:27:48-04:00",
+  "date_modified": "2026-04-26T10:35:32-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT90M",
+  "total_time": "PT105M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts water",
+    "8 skinless, boneless chicken breast halves",
+    "0.5 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "1 teaspoon garlic powder",
+    "2 tablespoons dried parsley",
+    "1 tablespoon onion powder",
+    "5 cubes chicken bouillon",
+    "3 tablespoons olive oil",
+    "1 onion, chopped",
+    "3 cloves garlic, chopped",
+    "1 (16 ounce) jar chunky salsa",
+    "2 (14.5 ounce) cans peeled and diced tomatoes",
+    "1 (14.5 ounce) can whole peeled tomatoes",
+    "1 (10.75 ounce) can condensed tomato soup",
+    "3 tablespoons chili powder",
+    "1 (15 ounce) can whole kernel corn, drained",
+    "2 (16 ounce) cans chili beans, undrained",
+    "1 (8 ounce) container sour cream"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over medium heat, combine water, chicken, salt, pepper, garlic powder, parsley, onion powder and bouillon cubes. Bring to a boil, then reduce heat and simmer 1 hour, or until chicken juices run clear. Remove chicken, reserve broth. Shred chicken.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pot over medium heat, cook onion and garlic in olive oil until slightly browned. Stir in salsa, diced tomatoes, whole tomatoes, tomato soup, chili powder, corn, chili beans, sour cream, shredded chicken and 5 cups broth. Simmer 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kOZ8n4tHn0A4mK1RbacnNg6_W0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/698391_Catherines-Spicy-Chicken-Soup-4x3-f65c65297fc243698d8ef374eb3dac58.jpg"
+      ],
+      "image": "assets/images/23874/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "473 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "82 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "40 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "2436 mg",
+    "sugarContent": "15 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "2440"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/haXix8yg-ma1DlVvV.mp4",
+    "description": "AR0427",
+    "duration": "PT4M44S",
+    "name": "Catherine's Spicy Chicken Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/haXix8yg/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T13:18:43-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kOZ8n4tHn0A4mK1RbacnNg6_W0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/698391_Catherines-Spicy-Chicken-Soup-4x3-f65c65297fc243698d8ef374eb3dac58.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23874/hero.webp",
+    "steps": [
+      null,
+      "assets/images/23874/step_02.webp"
+    ]
+  }
+}

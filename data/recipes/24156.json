@@ -1,0 +1,93 @@
+{
+  "id": "24156",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24156/potato-skillet/",
+  "requested_url": "https://www.allrecipes.com/recipe/24156/potato-skillet/",
+  "title": "Potato Skillet",
+  "description": "Good old-fashioned fried potatoes and bacon topped with melted cheese.",
+  "authors": [
+    "LaDonna"
+  ],
+  "date_published": "2019-04-02T02:42:30-04:00",
+  "date_modified": "2026-05-16T00:29:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 slices bacon",
+    "2 peeled and diced potatoes",
+    "0.125 teaspoon garlic salt",
+    "0.125 teaspoon seasoning salt",
+    "0.125 teaspoon black pepper",
+    "3 eggs, beaten",
+    "0.25 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Remove bacon slices, reserving grease. Crumble bacon and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add potatoes to bacon grease and season with garlic salt, seasoned salt and black pepper. Cook until potatoes are soft.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When potatoes are tender, add crumbled bacon. Pour eggs over potatoes and cook until firm. Spread with cheese and cover with lid until melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "485 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "332 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "837 mg",
+    "sugarContent": "1 g",
+    "fatContent": "37 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "384"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/M92hIaUHFTjTost9E6M4LJH0fak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4519011-ffc4a2f6c1d94c28bb79161587f798eb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24156/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

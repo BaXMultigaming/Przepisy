@@ -1,0 +1,82 @@
+{
+  "id": "24210",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24210/banana-frittata/",
+  "requested_url": "https://www.allrecipes.com/recipe/24210/banana-frittata/",
+  "title": "Banana Frittata",
+  "description": "Here&#39;s a quick and easy banana pancake recipe that anyone can make.",
+  "authors": [
+    "nausheen"
+  ],
+  "date_published": "2020-06-18T23:05:24-04:00",
+  "date_modified": "2020-06-18T23:05:24-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup all-purpose flour",
+    "1 pinch salt",
+    "2 tablespoons white sugar",
+    "0.25 cup milk",
+    "2 eggs",
+    "2 large bananas, sliced",
+    "2 tablespoons vegetable oil",
+    "0.5 tablespoon butter"
+  ],
+  "steps": [
+    {
+      "text": "In a bowl, combine the flour, salt and sugar. Gradually pour in the milk, stirring constantly, until a smooth batter is formed. Add the eggs, one at time, stirring well each addition. Stir in sliced bananas.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil and butter in a nine inch non-stick skillet over medium heat. Pour the mixture in by spoonfuls, spreading the mixture evenly across the pan. When the bottom has turned a golden brown, turn the frittata and cook over low heat until golden brown on the other side. Sprinkle with sugar and serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "344 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "131 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "70 mg",
+    "sugarContent": "21 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "149"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Q6zwDtLeyNmGB9qm1sgNs2aYKLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/388920-813720c9cd5e46fc98e953efca3766fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24210/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

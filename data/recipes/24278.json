@@ -1,0 +1,83 @@
+{
+  "id": "24278",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24278/brandied-fruit-topping/",
+  "requested_url": "https://www.allrecipes.com/recipe/24278/brandied-fruit-topping/",
+  "title": "Brandied Fruit Topping",
+  "description": "This saucy topping combines brandy with raisins, mandarin oranges, prunes, peaches and pineapple. Serve over ice cream, or on any dessert.",
+  "authors": [
+    "Kate"
+  ],
+  "date_published": "2020-06-18T23:05:26-04:00",
+  "date_modified": "2025-02-04T11:28:06-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "64",
+    "64 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup raisins",
+    "0.5 cup mandarin oranges",
+    "1 cup pitted prunes",
+    "0.75 cup white sugar",
+    "water to cover",
+    "1 (15 ounce) can sliced peaches, chopped",
+    "1 (15 ounce) can pineapple chunks",
+    "0.75 cup brandy"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan combine raisins, mandarin oranges, prunes, sugar and water to cover. Simmer over medium heat until syrupy, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in peaches, pineapple and brandy. Store in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "31 kcal",
+    "carbohydrateContent": "6 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MfKtJ1-RoHsZaA2mK5kKNzym5FM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8651710-d1e66433fcca4dd588c0b6d8655d5fb7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24278/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

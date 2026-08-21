@@ -1,0 +1,83 @@
+{
+  "id": "23789",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23789/nutty-pecan-waffles/",
+  "requested_url": "https://www.allrecipes.com/recipe/23789/nutty-pecan-waffles/",
+  "title": "Nutty Pecan Waffles",
+  "description": "Sweet and nutty waffles to warm any winter morning.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:05:08-04:00",
+  "date_modified": "2022-08-04T10:05:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups all-purpose flour",
+    "1 tablespoon baking powder",
+    "0.25 cup sugar",
+    "0.5 teaspoon baking soda",
+    "3 eggs, separated",
+    "2 cups buttermilk",
+    "0.33300000429153 cup butter, melted",
+    "0.5 cup vegetable oil",
+    "1.6660000085831 cups finely chopped pecans"
+  ],
+  "steps": [
+    {
+      "text": "Preheat waffle iron. In a large mixing bowl, sift together flour, baking powder, sugar and baking soda. In a separate bowl, beat together egg yolks and milk. Add milk mixture, butter and oil to flour; stir gently to combine. Beat egg whites until stiff peaks have formed; fold into batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron and sprinkle generously with chopped pecans. Cook until golden brown. Keep warm in oven while remaining waffles cook.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1184 kcal",
+    "carbohydrateContent": "97 g",
+    "cholesterolContent": "185 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "701 mg",
+    "sugarContent": "21 g",
+    "fatContent": "81 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qp9HiH_mYfdNvT1NOUM_TtcvJB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1810052-890ace638cde49b2a5dfe731985ee49a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23789/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

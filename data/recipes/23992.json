@@ -1,0 +1,89 @@
+{
+  "id": "23992",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23992/steak-and-spinach-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/23992/steak-and-spinach-salad/",
+  "title": "Steak and Spinach Salad",
+  "description": "Sizzling sliced of steak top a bed of fresh spinach sprinkled with dried cranberries and walnuts and crowned with fresh tomato slices.",
+  "authors": [
+    "Rena"
+  ],
+  "date_published": "2019-04-02T02:42:23-04:00",
+  "date_modified": "2022-07-14T17:44:02-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups fresh spinach, rinsed and dried",
+    "0.5 cup dried cranberries",
+    "0.5 cup walnut halves",
+    "1 tomato, sliced",
+    "1 pound top round steak, thinly sliced",
+    "1 pinch salt",
+    "1 pinch ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Arrange spinach on a large plate. Sprinkle with cranberries and walnuts, and arrange tomato slices on top. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a non-stick skillet (or a regular skillet coated with non-stick spray) cook steak over medium heat until no pink remains and steak is thoroughly cooked.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange cooked steak over salad. Sprinkle salt and pepper on top, and drizzle with your favorite dressing. Note: I suggest using a light flavored dressing. Citrus dressings taste especially good on this salad!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "620 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "121 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "53 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "135 mg",
+    "sugarContent": "22 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "76"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uzgVlBazIYy0ZLD8Bns1SOoFqA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9151978-4d81000bf2944717bfe93ab25a6f172c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23992/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

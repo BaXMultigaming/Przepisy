@@ -1,0 +1,80 @@
+{
+  "id": "23853",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23853/broccoli-cheese-soup-vii/",
+  "requested_url": "https://www.allrecipes.com/recipe/23853/broccoli-cheese-soup-vii/",
+  "title": "Broccoli Cheese Soup VII",
+  "description": "A thick rich broccoli soup with a really really cheesy flavor. This can be made in half an hour.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-06-08T09:15:08-04:00",
+  "date_modified": "2022-08-04T10:05:59-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (10 ounce) package frozen broccoli",
+    "2.5 cups milk",
+    "2.5 cups cubed processed cheese",
+    "0.33300000429153 cup all-purpose flour",
+    "1 cup heavy cream",
+    "1 cube chicken bouillon",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place broccoli in a medium saucepan with just enough water to cover. Cook until tender, about 8 minutes. Set aside and do not drain water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan, heat milk. Blend in the flour and cheese until smooth. Stir in the cream and bouillon cube. Add the broccoli and it's water to the mixture and season with salt and pepper. Heat soup to warm and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "470 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "121 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "1384 mg",
+    "sugarContent": "11 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "111"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xBgvC1xaPdb5iVLV1G4VuJ3b474=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6529866-0c6901e76da346f6817b1f8b13044b73.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23853/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

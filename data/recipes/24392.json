@@ -1,0 +1,103 @@
+{
+  "id": "24392",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24392/southwestern-turkey-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/24392/southwestern-turkey-soup/",
+  "title": "Southwestern Turkey Soup",
+  "description": "This turkey soup is a flavorful way to use up leftover turkey, with tomatoes, green chiles, and spices for a zesty twist on Thanksgiving leftovers.",
+  "authors": [
+    "Doug Matthews"
+  ],
+  "date_published": "2000-11-28T13:14:31-05:00",
+  "date_modified": "2026-08-16T07:36:35-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups vegetable broth",
+    "1 (28 ounce) can whole peeled tomatoes",
+    "1.5 cups shredded cooked turkey",
+    "2 roma (plum) tomatoes, chopped",
+    "1 onion, chopped",
+    "1 (4 ounce) can chopped green chile peppers",
+    "2 cloves garlic, crushed",
+    "1 tablespoon lime juice",
+    "0.5 teaspoon cayenne pepper",
+    "0.5 teaspoon ground cumin",
+    "salt and pepper to taste",
+    "1 avocado - peeled, pitted and diced",
+    "0.5 teaspoon dried cilantro",
+    "1 cup shredded Monterey Jack cheese"
+  ],
+  "steps": [
+    {
+      "text": "Combine broth, canned tomatoes, turkey, fresh tomatoes, onion, green chiles, garlic, and lime juice in a large pot over medium heat; season with cayenne pepper, cumin, salt, and black pepper. Bring to a boil, then reduce heat; simmer 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in avocado and cilantro; simmer until slightly thickened, 15 to 20 minutes. Serve hot, topped with Monterey Jack cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/cxgSPdfl8bLVTS93qcGPtaM0VXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1075142-299998aa29e644ea98de161b4b1754a4.jpg"
+      ],
+      "image": "assets/images/24392/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "632 mg",
+    "sugarContent": "6 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "371"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Tg4WwH2D-ma1DlVvV.mp4",
+    "description": "Turn leftover Thanksgiving turkey into a deliciously different soup with some kick.",
+    "duration": "PT1M50S",
+    "name": "Southwestern Turkey Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Tg4WwH2D/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T23:25:59-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cxgSPdfl8bLVTS93qcGPtaM0VXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1075142-299998aa29e644ea98de161b4b1754a4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24392/hero.webp",
+    "steps": [
+      null,
+      "assets/images/24392/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "23923",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23923/beef-tips/",
+  "requested_url": "https://www.allrecipes.com/recipe/23923/beef-tips/",
+  "title": "Beef Tips",
+  "description": "Juicy, tender beef tips are slow-simmered to perfection in a soy and Worcestershire sauce. They&#39;re perfect for serving over egg noodles or white rice.",
+  "authors": [
+    "denisef"
+  ],
+  "date_published": "2019-04-03T23:27:50-04:00",
+  "date_modified": "2026-06-04T13:47:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT105M",
+  "total_time": "PT115M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "3 tablespoons vegetable oil",
+    "1 medium onion, chopped",
+    "2 pounds cubed beef stew meat",
+    "3 cups water, divided",
+    "0.25 cup soy sauce",
+    "0.25 cup Worcestershire sauce",
+    "1 teaspoon garlic powder",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "1 (.75 ounce) packet dry brown gravy mix"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over high heat. Add onion and saute until almost translucent, about 3 minutes. Add stew meat and cook, stirring occasionally, until browned on all sides; about 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ZSWBLa3wd9s0WxcijutgYY5cNqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23923-beef-tips-ddmfs-step2-0113-381db046989c496781b9e53c0523fd5d.jpg"
+      ],
+      "image": "assets/images/23923/step_01.webp"
+    },
+    {
+      "text": "Pour 2 cups water, soy sauce, and Worcestershire sauce into the skillet. Stir in garlic powder, salt, and pepper; bring to a boil. Reduce the heat, cover, and simmer until meat is tender, 1 1/2 to 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/QXEpZTZKzsnEmd7gka0kqJIxjnU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23923-beef-tips-ddmfs-step3-0116-4c8b15d66c6b42e18ef21bb32c682358.jpg"
+      ],
+      "image": "assets/images/23923/step_02.webp"
+    },
+    {
+      "text": "When the meat is almost finished, mix remaining 1 cup water and gravy mix until thoroughly combined; stir into the meat mixture and bring to a boil. Cook, stirring frequently, until slightly thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7403NRDLpCuOchsv6myQD4E0V88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23923-beef-tips-DDMFS-4x3-7477f073cf824257a280eb452ccb7adc.jpg"
+      ],
+      "image": "assets/images/23923/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "526 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "132 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "43 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1368 mg",
+    "sugarContent": "2 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "1368"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lVHmM0mp-ma1DlVvV.mp4",
+    "description": "See how to make saucy, melt-in-your mouth beef tips.",
+    "duration": "PT2M27S",
+    "name": "Beef Tips",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lVHmM0mp/poster.jpg?width=1280",
+    "uploadDate": "2023-02-02T13:18:03-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7403NRDLpCuOchsv6myQD4E0V88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23923-beef-tips-DDMFS-4x3-7477f073cf824257a280eb452ccb7adc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23923/hero.webp",
+    "steps": [
+      "assets/images/23923/step_01.webp",
+      "assets/images/23923/step_02.webp",
+      "assets/images/23923/step_03.webp"
+    ]
+  }
+}

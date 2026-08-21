@@ -1,0 +1,81 @@
+{
+  "id": "23817",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23817/easy-whole-wheat-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/23817/easy-whole-wheat-bread/",
+  "title": "Easy Whole Wheat Bread",
+  "description": "An easy basic recipe for whole wheat bread that is great for sandwiches and for toasting!",
+  "authors": [
+    "Petal"
+  ],
+  "date_published": "2020-06-18T23:05:09-04:00",
+  "date_modified": "2020-06-18T23:05:09-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT180M",
+  "total_time": "PT190M",
+  "yield": [
+    "12",
+    "1 - pound loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup warm water (110 degrees F/45 degrees C)",
+    "1 tablespoon powdered egg substitute",
+    "2 tablespoons vegetable oil",
+    "2 tablespoons sugar",
+    "1 teaspoon salt",
+    "1 cup bread flour",
+    "1 cup whole wheat flour",
+    "1 teaspoon rapid rise yeast"
+  ],
+  "steps": [
+    {
+      "text": "Dissolve egg substitute in warm water. Place all ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Whole Wheat cycle and Regular bake time; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "After 5 minutes, check how the dough is kneading, it may need either 1 tablespoon of flour or 1 tablespoon of water, depending on the consistency. Once the bread is done, allow it time to cool on a wire rack before cutting.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "65 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "198 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "83"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5CeOLGjzrnPv232zVxVeSwXl3u4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3626896-874152634b624f8f9ea5e97754149574.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23817/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

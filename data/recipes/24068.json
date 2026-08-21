@@ -1,0 +1,80 @@
+{
+  "id": "24068",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24068/peanut-butter-fudge/",
+  "requested_url": "https://www.allrecipes.com/recipe/24068/peanut-butter-fudge/",
+  "title": "Peanut Butter Fudge",
+  "description": "Evaporated milk, peanut butter and marshmallow creme are the signature ingredients in this fudge.",
+  "authors": [
+    "Pam"
+  ],
+  "date_published": "2020-06-18T23:05:16-04:00",
+  "date_modified": "2022-07-14T15:55:11-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT45M",
+  "yield": [
+    "16",
+    "1 - 8x8 inch dish"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup evaporated milk",
+    "2 cups sugar",
+    "2 tablespoons butter",
+    "1.125 cups peanut butter",
+    "2 cups marshmallow creme",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Grease an 8x8 inch dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium saucepan over medium heat, combine milk, sugar and butter. Bring to a rolling boil, and let boil 5 minutes. Remove from heat and stir in peanut butter, marshmallow creme and vanilla until well incorporated. Spread into prepared dish. Let cool completely before cutting into squares.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "116 mg",
+    "sugarContent": "34 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "159"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jhrz6KO5ruiLNXz10oC8ryoE31I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1032340-63cbe221cb4f4796bc6c53c1b3bf67d6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24068/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

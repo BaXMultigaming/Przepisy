@@ -1,0 +1,79 @@
+{
+  "id": "24111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24111/peanut-butter-pie-xix/",
+  "requested_url": "https://www.allrecipes.com/recipe/24111/peanut-butter-pie-xix/",
+  "title": "Peanut Butter Pie XIX",
+  "description": "An incredibly easy and delicious pie with cream cheese, peanut butter and whipped topping.",
+  "authors": [
+    "Andrew"
+  ],
+  "date_published": "2020-06-18T23:05:19-04:00",
+  "date_modified": "2022-07-14T16:17:11-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT125M",
+  "yield": [
+    "8",
+    "9 - inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "0.75 cup white sugar",
+    "1.5 cups peanut butter",
+    "2 (8 ounce) containers frozen whipped topping, thawed",
+    "1 (9 inch) pie shell, baked"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, beat cream cheese and sugar until smooth. Beat in the peanut butter. Fold in 1 container of whipped topping. Spread filling in baked pie shell. Chill for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread top with remaining container of whipped topping. Refrigerate 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "751 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "25 g",
+    "sodiumContent": "441 mg",
+    "sugarContent": "36 g",
+    "fatContent": "56 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-bB9vZK_G4EXCFCPvFfNX_DM1zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6121316-1821ee69d7384c7b9810c1d5933c74c9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24111/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

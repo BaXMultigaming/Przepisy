@@ -1,0 +1,91 @@
+{
+  "id": "23957",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23957/beef-ball/",
+  "requested_url": "https://www.allrecipes.com/recipe/23957/beef-ball/",
+  "title": "Beef Ball",
+  "description": "Break out the beef ball and get the party rolling! Dried chipped beef and cheese are rolled into a tantalizing treat that&#39;s great with buttery, round crackers, vegetables and tortilla chips.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-03-21T12:17:00-04:00",
+  "date_modified": "2022-08-04T10:06:07-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT80M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 (8 ounce) jars dried chipped beef",
+    "2 tablespoons butter",
+    "2 (8 ounce) packages cream cheese, softened",
+    "1 tablespoon prepared horseradish",
+    "0.25 cup chopped green bell pepper",
+    "0.25 cup chopped red bell pepper",
+    "0.25 teaspoon ground black pepper",
+    "0.25 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan over medium heat, cook and stir the dried chipped beef in butter until evenly browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, whip the cream cheese, horseradish, green bell pepper, red bell pepper and pepper until well blended. Mix in 2/3 of the beef. Roll into a ball.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Roll the ball in the remaining beef and the Cheddar cheese. Wrap in plastic and chill in the refrigerator at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "92 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "35 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "640 mg",
+    "sugarContent": "1 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GgyHtC00suhXp5NTO42ZY-14Urc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/490582-58aba4c91abb4831867adcb0ba71c1d9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23957/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

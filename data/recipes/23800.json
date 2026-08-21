@@ -1,0 +1,74 @@
+{
+  "id": "23800",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23800/appalachian-slaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/23800/appalachian-slaw/",
+  "title": "Appalachian Slaw",
+  "description": "Chopped cabbage, tomato, cucumber and onion all mingle with a seasoned mayonnaise dressing in this crunchy salad.",
+  "authors": [
+    "BLUEWOULF"
+  ],
+  "date_published": "2020-06-18T23:05:08-04:00",
+  "date_modified": "2022-07-14T15:54:53-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups chopped cabbage",
+    "1 tomato, chopped",
+    "0.5 cucumber, chopped",
+    "0.5 cup chopped onion",
+    "1 tablespoon sugar",
+    "1 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "1 tablespoon mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, stir together the cabbage, tomato, cucumber, onion, sugar, salt, pepper and mayonnaise. Add additional mayonnaise to suit your taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "77 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "620 mg",
+    "sugarContent": "8 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OX5W-BWNHxod_9lS5wkN0G8ePIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/834861-a8705c26ca4c4191a4f37d12baae0c13.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23800/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

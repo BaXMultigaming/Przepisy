@@ -1,0 +1,76 @@
+{
+  "id": "24397",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24397/hearty-hot-dog-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/24397/hearty-hot-dog-soup/",
+  "title": "Hearty Hot Dog Soup",
+  "description": "Sliced frankfurters are cooked with canned corn and American cheese and spiced with chili powder and cayenne in this fast and easy soup.",
+  "authors": [
+    "PAT BUCHANAN"
+  ],
+  "date_published": "2019-04-03T23:28:00-04:00",
+  "date_modified": "2022-01-14T11:58:15-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package frankfurters, sliced",
+    "1 (15 ounce) can whole kernel corn, drained",
+    "1 (6 ounce) can tomato paste",
+    "1 tablespoon chili powder",
+    "1 teaspoon cayenne pepper",
+    "1 tablespoon onion powder",
+    "1 teaspoon salt",
+    "1 pinch ground black pepper",
+    "2 cups water",
+    "1 cup shredded, processed American cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan combine frankfurters, corn, tomato paste, chili powder, cayenne, onion powder, salt, pepper, water and cheese. Cook over medium heat until frankfurters plump and cheese is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "581 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "2926 mg",
+    "sugarContent": "9 g",
+    "fatContent": "41 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VrtN7znAj3yEdN7nr0KgDuuyN0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/939333-6a3319f5e06c4be6b9e9a9ec031c767b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24397/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

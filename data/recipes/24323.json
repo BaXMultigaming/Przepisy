@@ -1,0 +1,100 @@
+{
+  "id": "24323",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24323/cheesy-corn/",
+  "requested_url": "https://www.allrecipes.com/recipe/24323/cheesy-corn/",
+  "title": "Cheesy Corn",
+  "description": "Creamed and whole kernel corn is baked with bacon, butter and processed cheese.",
+  "authors": [
+    "JenFen"
+  ],
+  "date_published": "2018-03-21T12:17:44-04:00",
+  "date_modified": "2018-03-21T12:17:44-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT55M",
+  "total_time": "PT60M",
+  "yield": [
+    "13",
+    "15 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 slices bacon",
+    "2 (11 ounce) cans creamed corn",
+    "2 (11 ounce) cans whole kernel corn, drained",
+    "1 cup butter, cubed",
+    "2 cups cubed processed cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain and crumble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a 9x13 inch casserole dish combine bacon, creamed corn, whole kernel corn, butter and processed cheese; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 25 minutes; stir. Bake another 20 minutes, or until heated through and set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "315 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "705 mg",
+    "sugarContent": "4 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pL-wdlfGevoQFtA7vEVh62qkmH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2832533-953d81451e1d47d7878760f34c11b834.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24323/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "24033",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24033/famous-pork-chops/",
+  "requested_url": "https://www.allrecipes.com/recipe/24033/famous-pork-chops/",
+  "title": "Famous Pork Chops",
+  "description": "Pork chops coated with a crumbly cracker mixture and egg then baked.",
+  "authors": [
+    "HAULBUR"
+  ],
+  "date_published": "2019-04-02T02:42:25-04:00",
+  "date_modified": "2026-07-20T17:10:22-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup crushed butter crackers",
+    "garlic salt to taste",
+    "ground black pepper to taste",
+    "3 eggs, beaten",
+    "4 pork chops",
+    "0.5 cup butter"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine crushed crackers, garlic salt, and black pepper in a shallow dish. Beat eggs in a separate bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dip pork chops in beaten eggs, letting excess drip off, then dredge in cracker mixture. Place chops in a casserole dish; drop chunks of butter around chops. Cover dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/eTkNrGeEQpbtWc4l81OjMKyx9tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/459738-6dff88d3c248491988c1b1ba91c49192.jpg"
+      ],
+      "image": "assets/images/24033/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "444 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "248 mg",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "335 mg",
+    "sugarContent": "1 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "1970"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RhtjzJft-ma1DlVvV.mp4",
+    "description": "AR0133",
+    "duration": "PT1M53S",
+    "name": "Famous Pork Chops",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RhtjzJft/poster.jpg?width=1280",
+    "uploadDate": "2021-03-09T22:38:15-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eTkNrGeEQpbtWc4l81OjMKyx9tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/459738-6dff88d3c248491988c1b1ba91c49192.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24033/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/24033/step_04.webp"
+    ]
+  }
+}

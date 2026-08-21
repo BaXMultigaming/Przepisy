@@ -1,0 +1,83 @@
+{
+  "id": "24339",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24339/pecan-pralines/",
+  "requested_url": "https://www.allrecipes.com/recipe/24339/pecan-pralines/",
+  "title": "Pecan Pralines",
+  "description": "Pecans are cooked in a sugar syrup then dropped by spoonfuls onto baking sheets to set.",
+  "authors": [
+    "Susan White"
+  ],
+  "date_published": "2020-06-18T23:05:28-04:00",
+  "date_modified": "2026-06-16T09:05:14-04:00",
+  "prep_time": null,
+  "cook_time": "PT20M",
+  "total_time": "PT60M",
+  "yield": [
+    "30",
+    "30 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup brown sugar",
+    "1 cup white sugar",
+    "0.33000001311302 cup water",
+    "1 tablespoon butter",
+    "2 cups chopped pecans"
+  ],
+  "steps": [
+    {
+      "text": "Generously butter baking sheets.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine brown sugar, white sugar, water, and butter in a large saucepan over medium heat. Bring to a rapid boil; stir in pecans. Continue to cook and stir until large bubbles form on the surface, the pecans begin to look sugary, and a candy thermometer registers 240 degrees F (115 degrees C). Remove from heat and drop by rounded spoonfuls onto prepared baking sheets. Let cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "107 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "14 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QQHbd_459-7v8sJxJk5xlEYLkYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2605849-2818aaa275e64bd8ade150f47ed3c473.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24339/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

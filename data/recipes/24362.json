@@ -1,0 +1,82 @@
+{
+  "id": "24362",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24362/italian-taco-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/24362/italian-taco-salad/",
+  "title": "Italian Taco Salad",
+  "description": "Browned ground beef is tossed with two kinds of cheese, crushed tortilla chips, and mixed salad greens, and topped with zesty Italian dressing.",
+  "authors": [
+    "Blayne"
+  ],
+  "date_published": "2018-03-21T12:17:49-04:00",
+  "date_modified": "2022-07-14T16:37:52-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "3 cups crushed tortilla chips",
+    "2 cups shredded mozzarella cheese",
+    "2 cups shredded Cheddar cheese",
+    "1 (10 ounce) package mixed salad greens",
+    "1 (8 ounce) bottle zesty Italian dressing"
+  ],
+  "steps": [
+    {
+      "text": "In a medium skillet over medium heat, cook the ground beef until evenly browned. Remove from heat, and drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine the ground beef, tortilla chips, mozzarella cheese, Cheddar cheese, and salad greens. Toss with Italian dressing until evenly coated, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "610 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "110 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "1186 mg",
+    "sugarContent": "3 g",
+    "fatContent": "47 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_F0UjLZfx5FEKv-PaGzrPGoACT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4560506-f9f2868304344160987214d38f10d1b8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24362/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

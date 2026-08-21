@@ -1,0 +1,79 @@
+{
+  "id": "23749",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23749/no-bake-peanut-butter-bars/",
+  "requested_url": "https://www.allrecipes.com/recipe/23749/no-bake-peanut-butter-bars/",
+  "title": "No Bake Peanut Butter Bars",
+  "description": "These are no-bake peanut butter and crispy rice bars covered in chocolate.",
+  "authors": [
+    "Ravelle Lakin"
+  ],
+  "date_published": "2018-03-21T12:16:35-04:00",
+  "date_modified": "2022-07-14T17:47:27-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "24",
+    "24 bars"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter, softened",
+    "2 cups creamy peanut butter",
+    "2 cups confectioners' sugar",
+    "3 cups crispy rice cereal",
+    "1 cup semisweet chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Butter a 9x13 inch baking dish. In a medium bowl, stir together the butter, peanut butter and confectioners' sugar until well blended. Mix in the rice cereal so that it is evenly distributed. Press the mixture into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In the microwave or over a double boiler, melt chocolate chips, stirring occasionally until smooth. Spread the melted chocolate evenly over the peanut butter bars. Refrigerate until set before cutting into bars.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "246 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "154 mg",
+    "sugarContent": "16 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/--Tdhu_bpABHQaijpcjnJxqbcyM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2365370-0784fd90ef5d467db256b9382f1b89c2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23749/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

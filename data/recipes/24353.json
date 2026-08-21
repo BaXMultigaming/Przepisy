@@ -1,0 +1,93 @@
+{
+  "id": "24353",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24353/dill-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/24353/dill-potato-salad/",
+  "title": "Dill Potato Salad",
+  "description": "This potato salad starts with new potatoes dressed with a tangy sour cream, dill, parsley, and Dijon mustard dressing, and topped with green onions.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-06-08T09:15:30-04:00",
+  "date_modified": "2025-04-09T14:19:47-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT65M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "7 cups chopped new potatoes",
+    "1 (8 ounce) container sour cream",
+    "2 tablespoons Dijon mustard",
+    "2 teaspoons chopped fresh dill weed",
+    "1 teaspoon dried parsley",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon pepper",
+    "2 tablespoons sliced green onions"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 15 to 20 minutes. Drain, cool, peel, place in a large bowl, and chill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, combine sour cream, Dijon, dill, parsley, salt, and pepper in a medium bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour dressing over potatoes and toss gently. Chill before serving. Top with green onions, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "228 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "346 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "90"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Z8dSx23CTKnH_finaDSku-e9_Fk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2458-0095425f4dc349b88951faeb51d0d790.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24353/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

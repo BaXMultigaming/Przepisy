@@ -1,0 +1,83 @@
+{
+  "id": "24405",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24405/sorrel-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/24405/sorrel-soup/",
+  "title": "Sorrel Soup",
+  "description": "Just sorrel, rice, broth, and cream make up this luscious lemony-tasting soup.",
+  "authors": [
+    "BFOULDS"
+  ],
+  "date_published": "2020-03-09T22:50:28-04:00",
+  "date_modified": "2024-12-05T20:23:01-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Australian"
+  ],
+  "regions": [
+    "Australian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups vegetable broth",
+    "2 tablespoons uncooked white rice",
+    "1 bunch sorrel, stemmed and rinsed",
+    "0.5 cup heavy cream",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, bring broth to a boil over medium-high heat. Stir in rice, reduce heat, and simmer for about 8 minutes. Stir in sorrel and return to a boil. Remove from heat and puree in batches in a blender or food processor or using an immersion blender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return to medium-low heat and stir in cream, salt, and pepper. Heat through and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "239 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pZUapTdG25IkIXrtF16hYqUq-bY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3423440-10e81b3a5b064d20af7bbe5ce4924990.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24405/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

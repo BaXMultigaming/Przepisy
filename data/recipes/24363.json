@@ -1,0 +1,95 @@
+{
+  "id": "24363",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24363/wild-rice-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/24363/wild-rice-salad/",
+  "title": "Wild Rice Salad",
+  "description": "Nutty wild rice salad combines tender turkey, sweet grapes, and crunchy almonds with a light, creamy dressing in this wonderful salad.",
+  "authors": [
+    "GINNYKAE"
+  ],
+  "date_published": "2020-06-18T23:05:29-04:00",
+  "date_modified": "2026-06-26T12:42:56-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT120M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) package wild rice",
+    "0.75 cup light mayonnaise",
+    "1 teaspoon white vinegar",
+    "1 teaspoon white sugar",
+    "salt and pepper to taste",
+    "2 cups cooked, cubed turkey meat",
+    "0.25 cup diced green onion",
+    "1 cup seedless red grapes",
+    "6 ounces blanched slivered almonds"
+  ],
+  "steps": [
+    {
+      "text": "Cook rice according to package directions. Remove from heat and set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk together mayonnaise, vinegar, sugar, salt, and pepper in a medium bowl. Stir in rice, turkey, onion, and grapes until evenly coated with dressing. Cover and refrigerate for 1 to 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle slivered almonds over salad before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "221 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "138 mg",
+    "sugarContent": "4 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "64"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pUjPwB5skQnX57n2l3QyzqwEalo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wild-rice-salad-fshndva-4x3-1-92af89e26c1644e2802ab35b145a95fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24363/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

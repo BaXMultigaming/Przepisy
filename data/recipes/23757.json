@@ -1,0 +1,107 @@
+{
+  "id": "23757",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23757/french-egg-and-bacon-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/23757/french-egg-and-bacon-sandwich/",
+  "title": "French Egg and Bacon Sandwich",
+  "description": "A delicious French toast and bacon sandwich.",
+  "authors": [
+    "Amber"
+  ],
+  "date_published": "2018-03-21T12:16:36-04:00",
+  "date_modified": "2026-08-16T17:01:01-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American",
+    "French",
+    "Fusion"
+  ],
+  "regions": [
+    "American",
+    "French",
+    "Fusion"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs, beaten",
+    "4 slices bread",
+    "4 slices bacon",
+    "2 eggs",
+    "0.5 cup maple syrup"
+  ],
+  "steps": [
+    {
+      "text": "Dip bread slices in beaten eggs. Heat a lightly oiled griddle or frying pan over medium high heat. Cook until browned on both sides. Set aside but keep warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain and set aside. Reserve 1 tablespoon of bacon grease in pan and fry remaining two eggs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place one piece of French toast on each of two plates. Place the fried eggs on top of the bread, top the eggs with strips of bacon. Cover with the remaining pieces of French toast. Following that by pouring on the syrup.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rX5m4ZQLXvks-odg73RiFFJiMBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/832481-21efe153ec2445569e7a3a1437ac216b.jpg"
+      ],
+      "image": "assets/images/23757/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "738 kcal",
+    "carbohydrateContent": "79 g",
+    "cholesterolContent": "410 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "954 mg",
+    "sugarContent": "50 g",
+    "fatContent": "37 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "144"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/3vYt7z1q-K3AjnAEN.mp4",
+    "description": "See how to make a bacon and egg sandwich with a French twist.",
+    "duration": "PT2M12S",
+    "name": "French Egg and Bacon Sandwich",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/3vYt7z1q/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T07:15:11-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rX5m4ZQLXvks-odg73RiFFJiMBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/832481-21efe153ec2445569e7a3a1437ac216b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23757/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/23757/step_03.webp"
+    ]
+  }
+}

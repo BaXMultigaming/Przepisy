@@ -1,0 +1,91 @@
+{
+  "id": "24414",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24414/broccoli-and-stilton-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/24414/broccoli-and-stilton-soup/",
+  "title": "Broccoli and Stilton Soup",
+  "description": "This delicious puréed broccoli soup with Stilton cheese is easy to make with just six ingredients, including two potatoes for a thicker consistency.",
+  "authors": [
+    "Ann Maksymiw"
+  ],
+  "date_published": "2018-03-21T12:17:56-04:00",
+  "date_modified": "2025-11-20T07:37:47-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT35M",
+  "total_time": "PT60M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 onion, diced",
+    "2 heads broccoli, chopped",
+    "2 potatoes, peeled and cubed",
+    "4 cups chicken broth",
+    "4 ounces stilton cheese"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large saucepan over medium heat. Add onion and cook until translucent, 5 to 7 minutes. Stir in broccoli and potatoes and cook until vegetables begin to release their moisture, 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in chicken broth and bring to a boil. Reduce the heat and simmer until vegetables are tender, about 20 minutes. Remove from the heat and let cool slightly, about 5 minutes. Stir in cheese until melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Purée soup with an immersion blender or use a blender or food processor.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "297 mg",
+    "sugarContent": "3 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UMJRIgC-AxSI02t-mragcW6Aulk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/708167-b3a9ce8b63e84b63a95801af77b51986.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24414/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

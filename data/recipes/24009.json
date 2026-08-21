@@ -1,0 +1,87 @@
+{
+  "id": "24009",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24009/creamed-chicken-for-biscuits/",
+  "requested_url": "https://www.allrecipes.com/recipe/24009/creamed-chicken-for-biscuits/",
+  "title": "Creamed Chicken for Biscuits",
+  "description": "This creamed chicken is perfect for pouring over biscuits. Cooked chicken is simmered with cream, chicken broth, almonds, and peas for a tasty dish.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2019-04-02T02:42:24-04:00",
+  "date_modified": "2026-03-14T17:01:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33300000429153 cup butter",
+    "0.33300000429153 cup all-purpose flour",
+    "2 cups chicken broth",
+    "2 cups heavy cream",
+    "0.25 teaspoon garlic powder",
+    "1 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "3 cups cooked, chopped chicken breast meat",
+    "2 cups frozen green peas, thawed and drained",
+    "1 cup toasted sliced almonds"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large saucepan over medium heat. Stir in flour, then add broth, cream, garlic powder, salt, and pepper. Mix together and cook until thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in chicken, peas, and almonds. Heat through and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "511 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "147 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "449 mg",
+    "sugarContent": "3 g",
+    "fatContent": "41 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "237"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YO6gveXXVI_bmhRry4p2Fy67IZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Creamed-Chicken-and-Biscuits-recropped-eb2db207c7cc4f4f9b8182e7fec2e49e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24009/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

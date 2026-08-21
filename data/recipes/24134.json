@@ -1,0 +1,91 @@
+{
+  "id": "24134",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24134/barbs-pumpkin-chocolate-chip-muffins/",
+  "requested_url": "https://www.allrecipes.com/recipe/24134/barbs-pumpkin-chocolate-chip-muffins/",
+  "title": "Barb&#39;s Pumpkin Chocolate Chip Muffins",
+  "description": "These muffins are a perfect holiday treat.",
+  "authors": [
+    "Barb"
+  ],
+  "date_published": "2020-06-18T23:05:21-04:00",
+  "date_modified": "2022-07-14T15:57:19-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "24",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3.33 cups all-purpose flour",
+    "2 teaspoons baking soda",
+    "3 cups white sugar",
+    "1 teaspoon salt",
+    "1 teaspoon ground nutmeg",
+    "2 cups canned pumpkin puree",
+    "4 eggs, beaten",
+    "0.67 cup water",
+    "1 cup semisweet chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease 24 muffin cups or line with paper muffin liners.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, stir together flour, baking soda, sugar, salt and nutmeg. In a separate bowl, beat together pumpkin, eggs and water. Stir pumpkin mixture into flour mixture; beat until well blended. Fold in chocolate chips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 30 minutes, until a toothpick inserted into center of a muffin comes out clean.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "213 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "264 mg",
+    "sugarContent": "30 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "85"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/r6WX6ryVEmH1amnJigMl7wA_QdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/194438-34bdca2b7acc4a7c87e9586b36afd4ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24134/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

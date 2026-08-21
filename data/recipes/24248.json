@@ -1,0 +1,93 @@
+{
+  "id": "24248",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/24248/spicy-pretzels/",
+  "requested_url": "https://www.allrecipes.com/recipe/24248/spicy-pretzels/",
+  "title": "Spicy Pretzels",
+  "description": "Spicy pretzels are coated in a flavorful mixture of ranch-style dressing mix, cayenne, lemon pepper, and garlic salt in this easy, sweet snack recipe.",
+  "authors": [
+    "Valarie"
+  ],
+  "date_published": "2018-03-21T12:17:35-04:00",
+  "date_modified": "2026-06-16T13:20:08-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT125M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup vegetable oil",
+    "1 (1 ounce) package dry Ranch-style dressing mix",
+    "1.5 teaspoons garlic salt",
+    "1 teaspoon ground cayenne pepper",
+    "1 teaspoon lemon pepper",
+    "1.5 (15 ounce) packages mini pretzels"
+  ],
+  "steps": [
+    {
+      "text": "Mix together oil, dressing mix, garlic salt, cayenne, and lemon pepper in a small bowl until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place pretzels in a large resealable plastic bag. Pour in ranch dressing mixture. Seal the bag and shake to coat. Allow pretzels to marinate for about 2 hours before serving. Shake occasionally to maintain coating.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mcNULtUSHAluW_R5lO6RAAHgF_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24248-spicy-pretzels-VAT-Beauty-4x3-30490e4e673940d99a360fdd4a96cc91.jpg"
+      ],
+      "image": "assets/images/24248/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "161 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "553 mg",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "242"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/8YgyGlLm-ma1DlVvV.mp4",
+    "description": "AR1293",
+    "duration": "PT1M51S",
+    "name": "Spicy Pretzels",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/8YgyGlLm/thumbnails/g3ChwLnI.jpg?width=1280",
+    "uploadDate": "2021-07-23T21:14:11-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mcNULtUSHAluW_R5lO6RAAHgF_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24248-spicy-pretzels-VAT-Beauty-4x3-30490e4e673940d99a360fdd4a96cc91.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/24248/hero.webp",
+    "steps": [
+      null,
+      "assets/images/24248/step_02.webp"
+    ]
+  }
+}
