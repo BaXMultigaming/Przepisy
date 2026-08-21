@@ -1,0 +1,106 @@
+{
+  "id": "15784",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15784/hashbrown-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/15784/hashbrown-casserole/",
+  "title": "Hashbrown Casserole",
+  "description": "It is very easy to make, and everyone loves this casserole.",
+  "authors": [
+    "Louise"
+  ],
+  "date_published": "1999-12-17T12:35:26-05:00",
+  "date_modified": "2024-11-20T20:22:00-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (10.75 ounce) cans condensed cream of chicken soup",
+    "1.5 cups sour cream",
+    "2 tablespoons butter, softened",
+    "2 tablespoons dried minced onion flakes",
+    "ground black pepper to taste",
+    "1 (2 pound) package frozen shredded hash brown potatoes, thawed",
+    "4 ounces extra sharp Cheddar cheese, shredded",
+    "0.5 cup crushed cornflakes cereal"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix together the soup, sour cream, butter, dried onion flakes, and pepper. Stir in the hash browns and 1/2 the cheese. Pour into the prepared baking dish, sprinkle with remaining cheese, and top with crushed cornflakes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake 45 minutes in the preheated oven, or until cheese is melted and bubbly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PEVTkVLf8DfhRcJRMFHGJEq93jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1820984-544ce0db1bb2437e9c1f546df6fca467.jpg"
+      ],
+      "image": "assets/images/15784/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "272 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "544 mg",
+    "sugarContent": "1 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "435"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/7D12owi9-ma1DlVvV.mp4",
+    "description": "AR0498",
+    "duration": "PT2M15S",
+    "name": "Hashbrown Casserole",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7D12owi9/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T10:58:34-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PEVTkVLf8DfhRcJRMFHGJEq93jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1820984-544ce0db1bb2437e9c1f546df6fca467.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15784/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/15784/step_03.webp"
+    ]
+  }
+}

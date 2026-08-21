@@ -1,0 +1,81 @@
+{
+  "id": "16456",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16456/hawaiian-bread-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/16456/hawaiian-bread-i/",
+  "title": "Hawaiian Bread I",
+  "description": "Styled after the classic Hawaiian sweet bread and very good.",
+  "authors": [
+    "Teresa"
+  ],
+  "date_published": "2000-03-19T14:46:31-05:00",
+  "date_modified": "2022-08-08T11:35:33-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT180M",
+  "total_time": "PT190M",
+  "yield": [
+    "15"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "regions": [
+    "Hawaiian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup mashed banana",
+    "0.5 cup crushed pineapple, with juice",
+    "1 egg",
+    "0.25 cup milk",
+    "0.25 cup margarine, softened",
+    "1 teaspoon coconut extract",
+    "0.5 teaspoon salt",
+    "0.33333298563957 cup white sugar",
+    "0.5 cup instant potato flakes",
+    "3 cups bread flour",
+    "1.5 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Light setting; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "122 mg",
+    "sugarContent": "7 g",
+    "fatContent": "4 g",
+    "servingSize": "1 - 1 1/2 pound loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "238"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AIV7M-PV6UfRRY2vTPUi_l7Q4vo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/566875-074f3a6f4b4b483ab314caf83688f577.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16456/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

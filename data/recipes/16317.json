@@ -1,0 +1,82 @@
+{
+  "id": "16317",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16317/oatmeal-cakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/16317/oatmeal-cakes/",
+  "title": "Oatmeal Cakes",
+  "description": "A moist and delicious bread cooked on the griddle. My mother enjoys this for dinner too!",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-02-24T20:43:20-05:00",
+  "date_modified": "2022-08-04T10:04:17-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "12 cakes"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup all-purpose flour",
+    "1 teaspoon baking powder",
+    "1.5 cups rolled oats",
+    "1 egg, beaten",
+    "0.5 cup evaporated milk",
+    "2 tablespoons water",
+    "2 tablespoons applesauce",
+    "1 tablespoon butter, softened"
+  ],
+  "steps": [
+    {
+      "text": "In a medium mixing bowl, sift together flour and baking powder. Add the remaining ingredients and stir to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each cake. Cook until bubbles form in the cakes. Flip and cook the other side. Serve warm with syrup or jam.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "87 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hOHDBfRTz4EXX64LjaNa-hyM3CQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2985297-af13467db9cb44b79c6c4c81cd0bdd5d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16317/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

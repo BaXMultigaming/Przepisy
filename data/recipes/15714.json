@@ -1,0 +1,85 @@
+{
+  "id": "15714",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15714/kentucky-banana-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/15714/kentucky-banana-pudding/",
+  "title": "Kentucky Banana Pudding",
+  "description": "This banana pudding is made with evaporated milk and features a crust of vanilla wafers topped with creamy pudding and a layer of sliced bananas.",
+  "authors": [
+    "Melly Neel"
+  ],
+  "date_published": "1998-12-23T00:11:01-05:00",
+  "date_modified": "2023-03-26T10:43:19-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT100M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 fluid ounce) can evaporated milk",
+    "1.5 cups milk",
+    "1 cup white sugar",
+    "0.25 cup cornstarch",
+    "1 egg, beaten",
+    "2 teaspoons vanilla extract",
+    "1 (12 ounce) package vanilla wafers",
+    "4 banana, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Combine evaporated milk, milk, sugar, cornstarch, and egg in a saucepan over medium heat. Cook and stir until thick. Remove pudding from heat; add vanilla and mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange a layer of wafers in a large bowl or casserole dish. Pour pudding over wafers and top with banana slices. Refrigerate until chilled, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "461 kcal",
+    "carbohydrateContent": "79 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "207 mg",
+    "sugarContent": "39 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "171"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/e25Xgf2ZN_mgR9k68UyE9-BJfLE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8106380-55bf50ec5f864fdfb413e49e317520e3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15714/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

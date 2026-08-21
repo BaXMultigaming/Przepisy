@@ -1,0 +1,83 @@
+{
+  "id": "15549",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15549/fabulous-football-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/15549/fabulous-football-dip/",
+  "title": "Fabulous Football Dip",
+  "description": "This warm and hearty football dip features cooked ground sausage mixed with spicy canned tomatoes and cream cheese for a downright meaty chip accompaniment.",
+  "authors": [
+    "Eric Hallett"
+  ],
+  "date_published": "1999-12-31T13:26:22-05:00",
+  "date_modified": "2026-08-19T17:32:52-04:00",
+  "prep_time": null,
+  "cook_time": "PT15M",
+  "total_time": "PT15M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound sausage",
+    "1 (10 ounce) can diced tomatoes with green chile peppers",
+    "2 (8 ounce) packages cream cheese, softened"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet, cook sausage over a medium heat until browned and cooked through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix tomatoes and cream cheese into the skillet. Stir and continue cooking mixture over a medium heat until cheese has melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "173 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "406 mg",
+    "sugarContent": "0 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "220"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SXje9hnmmcWhCJk3cdL8xC4COok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/577101-2babdb4aed5e4a8787e76f1c17970e84.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15549/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

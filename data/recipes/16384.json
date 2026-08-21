@@ -1,0 +1,98 @@
+{
+  "id": "16384",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16384/brunswick-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/16384/brunswick-stew/",
+  "title": "Traditional Brunswick Stew",
+  "description": "This traditional Brunswick stew recipe makes a comforting meal using a great combination of chicken, salt pork, potatoes, beans, tomatoes, and corn.",
+  "authors": [
+    "Rene"
+  ],
+  "date_published": "2000-02-21T19:43:45-05:00",
+  "date_modified": "2026-07-15T15:59:03-04:00",
+  "prep_time": "PT60M",
+  "cook_time": "PT120M",
+  "total_time": "PT180M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces diced salt pork",
+    "2 pounds chicken parts",
+    "8 cups water",
+    "1 (28 ounce) can whole peeled tomatoes, chopped",
+    "3 potatoes, cubed",
+    "3 onions, chopped",
+    "2 cups canned whole kernel corn",
+    "1 (10 ounce) package frozen lima beans",
+    "1 tablespoon Worcestershire sauce",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Combine salt pork, chicken, and water in a large pot; bring to a boil. Reduce heat to low, cover, and simmer until chicken is tender, about 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove meat from chicken, chop into bite-sized pieces, and return to pot; discard skin and bones.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add tomatoes, potatoes, onions, corn, lima beans, Worcestershire sauce, salt, and pepper. Simmer, uncovered, stirring occasionally, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "368 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "71 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "496 mg",
+    "sugarContent": "4 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lrMRpBEW06dr0MG29SpBWL5f5Zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16384-brunswick-stew-VAT-Beauty-4x3-f44d3d38f2dc4c5da11fad674966aac8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16384/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

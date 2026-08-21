@@ -1,0 +1,79 @@
+{
+  "id": "15841",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15841/hamburger-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/15841/hamburger-stew/",
+  "title": "Hamburger Stew",
+  "description": "This hamburger stew is simple to make with tomato soup and is easy to customize to your own tastes. This is a soup recipe everyone will enjoy.",
+  "authors": [
+    "Terri"
+  ],
+  "date_published": "1999-01-18T20:26:09-05:00",
+  "date_modified": "2023-03-24T12:13:18-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 (1.25 ounce) package taco seasoning mix",
+    "1 (10.75 ounce) can condensed tomato soup",
+    "3.75 cups water",
+    "1 cup chopped onion",
+    "4 carrots, chopped",
+    "3 potatoes, peeled and cubed",
+    "1 stalk celery, chopped",
+    "1 (15 ounce) can pork and beans"
+  ],
+  "steps": [
+    {
+      "text": "Sauté ground beef in a large pot over medium-high heat. Add taco seasoning, condensed soup, water, onion, carrots, potatoes, celery, and beans. Reduce heat to low. Cover and simmer until the vegetables are tender, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "409 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "943 mg",
+    "sugarContent": "8 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "190"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DcJrh1rPAEbAEn2edCJkVj23lNY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4582257-a23324649731493cb180d1653af074a0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15841/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

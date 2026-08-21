@@ -1,0 +1,103 @@
+{
+  "id": "15840",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15840/chicken-tortilla-soup-v/",
+  "requested_url": "https://www.allrecipes.com/recipe/15840/chicken-tortilla-soup-v/",
+  "title": "Chicken Tortilla Soup with Salsa",
+  "description": "This chicken tortilla soup with salsa, corn, cumin, chili powder, and lemon juice makes a delicious meal garnished with cheese and sour cream.",
+  "authors": [
+    "Betty"
+  ],
+  "date_published": "1999-11-05T09:31:43-05:00",
+  "date_modified": "2026-04-18T12:47:11-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 teaspoon olive oil",
+    "2 skinless, boneless chicken breasts, cut into cubes",
+    "0.5 teaspoon minced garlic",
+    "0.25 teaspoon ground cumin",
+    "2 (14.5 ounce) cans chicken broth",
+    "1 cup frozen corn kernels",
+    "1 cup chopped onion",
+    "1 cup chunky salsa",
+    "1 tablespoon lemon juice",
+    "0.5 teaspoon chili powder",
+    "8 ounces corn tortilla chips",
+    "0.5 cup shredded Monterey Jack cheese",
+    "sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large pot over medium heat. Cook and stir chicken in hot oil until browned, about 5 minutes. Mix in garlic and cumin. Add broth, corn, onion, salsa, lemon juice, and chili powder; bring to a boil. Reduce heat to low and simmer soup for 20 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Break up tortilla chips into individual bowls; ladle soup over chips. Top each with Monterey Jack cheese and a dollop of sour cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0p6lfPAzzWy-O6fulEyWeCaWpLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/328329_Chicken-Tortilla-Soup-V-4x3-26fa5ad2409a4fa09e8b5490ea572fb3.jpg"
+      ],
+      "image": "assets/images/15840/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "467 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "56 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1542 mg",
+    "sugarContent": "8 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "2402"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/8HwwURK8-ma1DlVvV.mp4",
+    "description": "AR0682",
+    "duration": "PT3M29S",
+    "name": "Chicken Tortilla Soup V",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/8HwwURK8/poster.jpg?width=1280",
+    "uploadDate": "2021-07-10T07:52:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0p6lfPAzzWy-O6fulEyWeCaWpLg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/328329_Chicken-Tortilla-Soup-V-4x3-26fa5ad2409a4fa09e8b5490ea572fb3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15840/hero.webp",
+    "steps": [
+      null,
+      "assets/images/15840/step_02.webp"
+    ]
+  }
+}

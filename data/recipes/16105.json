@@ -1,0 +1,90 @@
+{
+  "id": "16105",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16105/beef-stroganoff-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16105/beef-stroganoff-ii/",
+  "title": "Beef Stroganoff with Steak",
+  "description": "This creamy, tasty beef stroganoff is made with sirloin steak, mushroom soup, paprika, and nonfat sour cream for a lighter version of the traditional dish.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-02-06T20:19:33-05:00",
+  "date_modified": "2022-12-28T21:58:33-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound sirloin steak, cut into bite size strips",
+    "1 onion, chopped",
+    "1.5 tablespoons all-purpose flour",
+    "0.75 teaspoon salt",
+    "0.25 teaspoon paprika",
+    "0.125 teaspoon ground black pepper",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "1.25 cups fat free sour cream",
+    "1 (8 ounce) package egg noodles"
+  ],
+  "steps": [
+    {
+      "text": "Brown steak strips in a large skillet over medium-high heat; drain excess fat. Add onion and sauté for 5 minutes, or until tender. Stir in flour, salt, paprika, and ground black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in soup; reduce heat to medium-low and simmer for 15 minutes. Stir in sour cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Prepare egg noodles according to package directions. Serve beef stroganoff over egg noodles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "606 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "130 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1063 mg",
+    "sugarContent": "8 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "374"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cKFhkWkv1BCTgWwEwKqv4ly4UNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16105-beef-stroganoff-ii-fabeveryday-4x3-1-c2db4043979e47f589146e2f264bdec2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16105/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

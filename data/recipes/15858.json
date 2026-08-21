@@ -1,0 +1,72 @@
+{
+  "id": "15858",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15858/delicious-apple-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/15858/delicious-apple-salad/",
+  "title": "Delicious Apple Salad",
+  "description": "Fresh and dried fruits are dressed in sour cream in this salad which can be served with turkey or ham, or as a dessert.",
+  "authors": [
+    "Carmen Cuevas"
+  ],
+  "date_published": "1999-11-25T02:20:03-05:00",
+  "date_modified": "2022-07-14T16:00:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "15",
+    "15 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 Granny Smith apples - peeled, cored and chopped",
+    "2 (8 ounce) cans pineapple chunks",
+    "2 cups raisins",
+    "1 cup chopped pecans",
+    "20 ounces sour cream",
+    "1 teaspoon granulated sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine the apples, undrained pineapple, raisins, pecans and sour cream. Mix well and add sugar to taste. Serve chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "23 mg",
+    "sugarContent": "26 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ybyTW5haDRA5qaL8dj9c5lqJD6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/455511-4b31ab6862f047889473a3496fca780a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15858/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "15568",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15568/hawaiian-millionaire-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/15568/hawaiian-millionaire-pie/",
+  "title": "Hawaiian Millionaire Pie",
+  "description": "This no-bake Hawaiian-inspired millionaire pie features a deliciously creamy maraschino cherry, walnut, and pineapple filling.",
+  "authors": [
+    "Sharon"
+  ],
+  "date_published": "1998-12-11T23:26:10-05:00",
+  "date_modified": "2023-01-22T02:36:31-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "8",
+    "1 9-inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "regions": [
+    "Hawaiian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (9 inch) pie crust, baked",
+    "1 (15 ounce) can crushed pineapple, drained",
+    "0.25 cup lemon juice",
+    "1 (12 ounce) container frozen whipped topping, thawed",
+    "0.5 cup maraschino cherries, chopped",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "In a large mixing bowl, fold pineapple, lemon juice, whipped topping, cherries, condensed milk, and walnuts together. Pour into pie shell and chill for at least one hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "519 kcal",
+    "carbohydrateContent": "60 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "176 mg",
+    "sugarContent": "45 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "46"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l94F7lpuM07BDkq-1f_ZHKc5eeM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/902086-hawaiian-millionaire-pie-MrsFisher0729-4x3-1-96cb1555be3942df9229d12daa357c2b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15568/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

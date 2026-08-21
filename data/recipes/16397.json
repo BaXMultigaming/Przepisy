@@ -1,0 +1,84 @@
+{
+  "id": "16397",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16397/cream-of-onion-and-potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/16397/cream-of-onion-and-potato-soup/",
+  "title": "Cream of Onion and Potato Soup",
+  "description": "This is a creamy, rich pureed potato and onion soup that is the best comfort food. Try it with some fresh Italian or French bread, or garnish with croutons.",
+  "authors": [
+    "Charlie Swann"
+  ],
+  "date_published": "2000-02-06T11:37:04-05:00",
+  "date_modified": "2026-07-20T10:40:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT50M",
+  "total_time": "PT60M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 potatoes, peeled and cubed",
+    "12 onions, chopped",
+    "6 tablespoons all-purpose flour",
+    "6 tablespoons butter",
+    "9 cups milk",
+    "3 tablespoons chopped fresh parsley",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over high heat, combine potatoes, onions, and water to cover and boil for 30 to 45 minutes, or until tender. Drain the mixture, reserving 3 cups of the cooking liquid. Transfer this in small batches to a blender and puree until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In the same pot over medium heat, combine flour and butter, stirring together well, to form a roux. Slowly add milk, stirring constantly, until well blended. Reduce heat to low and add the puréed potato mixture. Let simmer, stirring occasionally for 5 to 10 minutes. Add parsley and season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "67 mg",
+    "sugarContent": "8 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QeQ2wzs-ObOy-y5if6ED5hi8VhY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7889555-44dc7c472de8423c8263bf6ddbe11360.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16397/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

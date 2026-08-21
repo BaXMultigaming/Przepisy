@@ -1,0 +1,99 @@
+{
+  "id": "15679",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15679/asian-beef-with-snow-peas/",
+  "requested_url": "https://www.allrecipes.com/recipe/15679/asian-beef-with-snow-peas/",
+  "title": "Asian Beef with Snow Peas",
+  "description": "Stir-fried beef with snow peas in a light gingery sauce.",
+  "authors": [
+    "MARBALET"
+  ],
+  "date_published": "1999-12-29T10:31:39-05:00",
+  "date_modified": "2026-05-21T14:30:17-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "regions": [
+    "Chinese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "3 tablespoons soy sauce",
+    "2 tablespoons rice wine",
+    "1 tablespoon brown sugar",
+    "0.5 teaspoon cornstarch",
+    "1 tablespoon vegetable oil",
+    "1 tablespoon minced fresh ginger root",
+    "1 tablespoon minced garlic",
+    "1 pound beef round steak, cut into thin strips",
+    "8 ounces snow peas"
+  ],
+  "steps": [
+    {
+      "text": "Combine soy sauce, rice wine, brown sugar, and cornstarch in a small bowl until smooth; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a wok or skillet over medium-high heat. Stir-fry ginger and garlic until fragrant, about 30 seconds. Add steak and stir-fry until evenly browned, about 2 minutes. Stir in snow peas and cook until crisp-tender, about 3 minutes. Pour in soy sauce mixture and bring to a boil, stirring constantly. Reduce heat to medium-low and simmer until sauce is thickened and smooth. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jRKfGkESjWRshPWF9Y5T8j4hr_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4488559-b4b204c9cdd04a5981f4c627d1553320.jpg"
+      ],
+      "image": "assets/images/15679/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "203 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "711 mg",
+    "sugarContent": "6 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "1276"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/XYMMJ9I3-K3AjnAEN.mp4",
+    "description": "For a fast weeknight dinner that’s hearty and full of flavor, you’ll love this awesome stir-fry dish. Simply make a sauce of soy sauce, rice wine, brown sugar and cornstarch. Get your wok hot, then stir-fry fresh ginger and garlic. Add a pound of beef round steak that you’ve cut into strips, and when browned, add snow peas and sauce, stirring until thick and rich. Serve over rice and enjoy! ",
+    "duration": "PT47S",
+    "name": "Asian Beef and Snow Peas",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/XYMMJ9I3/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T07:34:54-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jRKfGkESjWRshPWF9Y5T8j4hr_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4488559-b4b204c9cdd04a5981f4c627d1553320.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15679/hero.webp",
+    "steps": [
+      null,
+      "assets/images/15679/step_02.webp"
+    ]
+  }
+}

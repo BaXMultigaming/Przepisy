@@ -1,0 +1,91 @@
+{
+  "id": "16138",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16138/taco-salad-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16138/taco-salad-ii/",
+  "title": "Beef Taco Salad",
+  "description": "This beef taco salad with Western dressing features onion, green bell pepper, tomatoes, seasoned ground beef, crushed tortilla chips, lettuce, and cheese.",
+  "authors": [
+    "Susan"
+  ],
+  "date_published": "2000-02-05T17:33:32-05:00",
+  "date_modified": "2026-08-17T14:42:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT510M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 (1.25 ounce) package taco seasoning mix",
+    "1 head iceberg lettuce - rinsed, dried, and shredded",
+    "1 onion, chopped",
+    "1 green bell pepper, chopped",
+    "3 cups shredded Cheddar-Monterey Jack cheese blend",
+    "2 tomatoes, chopped",
+    "4 ounces crushed tortilla chips",
+    "0.25 cup French dressing"
+  ],
+  "steps": [
+    {
+      "text": "Place ground beef in a large, deep skillet. Cook and stir over medium-high heat until evenly brown. Drain and discard grease. Add taco seasoning mix and prepare according to package directions. Set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine cooled beef mixture, lettuce, onion, bell pepper, cheese, tomatoes, and tortilla chips in a large serving bowl. Add enough dressing to coat; mix well and refrigerate for 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "467 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "859 mg",
+    "sugarContent": "6 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "144"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PG7KEuPhOe8QTjBOYXaP6iZ6oz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/272404-df91b4f22fcf437ca99d27844532c9a7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16138/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

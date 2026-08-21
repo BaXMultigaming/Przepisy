@@ -1,0 +1,91 @@
+{
+  "id": "16173",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16173/beefy-spanish-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/16173/beefy-spanish-rice/",
+  "title": "Beefy Spanish Rice",
+  "description": "Dinner in one pot! Ground beef and rice are briefly sauteed with onion and bell pepper, then simmered with sweet corn and tomato sauce.",
+  "authors": [
+    "Donna L"
+  ],
+  "date_published": "1999-10-25T18:24:41-04:00",
+  "date_modified": "2025-03-16T00:35:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Spanish"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Spanish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "1 cup uncooked converted white rice",
+    "0.5 cup chopped onion",
+    "0.5 cup chopped green bell pepper",
+    "1 pound ground beef",
+    "1 cup canned corn",
+    "1 (6 ounce) can tomato sauce",
+    "0.5 cup ketchup",
+    "1 cup water",
+    "salt and pepper to taste",
+    "garlic powder to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan over medium heat, heat the oil. Add the rice, onion and bell pepper and saute for 5 minutes, or until onions are tender. Add the ground beef and saute until browned. Drain excess oil and fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the corn, tomato sauce, ketchup and water. Reduce heat to low, cover and simmer for 20 minutes or until rice is cooked, stirring occasionally. Season with salt, pepper and garlic powder to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "365 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "496 mg",
+    "sugarContent": "7 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "189"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yJ0-T8aCz61KIgVW4WzRYOQLPww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1156-4c76752053664ff39ca4994c5e5b92a4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16173/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "16263",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16263/cheese-ball/",
+  "requested_url": "https://www.allrecipes.com/recipe/16263/cheese-ball/",
+  "title": "Cheese Ball",
+  "description": "In this variation on a classic appetizer, two bricks of cream cheese are transformed into a slightly sweet spread for crackers by the addition of pineapple, green pepper and spices.",
+  "authors": [
+    "Lesslie"
+  ],
+  "date_published": "1999-11-21T00:04:34-05:00",
+  "date_modified": "2022-07-14T17:28:58-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "20",
+    "20 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (8 ounce) packages cream cheese",
+    "1 (8 ounce) can crushed pineapple, drained",
+    "1 tablespoon diced onion",
+    "1 tablespoon chopped green bell pepper",
+    "0.25 tablespoon seasoning salt",
+    "1 cup chopped pecans"
+  ],
+  "steps": [
+    {
+      "text": "Mix together the cream cheese, pineapple, onion, bell pepper and seasoning salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Form into a ball and roll in chopped pecans. Chill and serve with butter crackers.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "123 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "101 mg",
+    "sugarContent": "2 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "90"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8cKyf7119DFq01fqVLdi-f6Ue5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1740636-1d1b79ed68ba4f129ffabb6e11851bfb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16263/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

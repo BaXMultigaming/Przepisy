@@ -1,0 +1,105 @@
+{
+  "id": "16098",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16098/alysons-broccoli-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/16098/alysons-broccoli-salad/",
+  "title": "Alyson&#39;s Broccoli Salad",
+  "description": "Bacon adds a little saltiness to this broccoli salad recipe made with sunflower seeds, red onion, and raisins.",
+  "authors": [
+    "JJOHN32"
+  ],
+  "date_published": "1999-12-06T19:37:55-05:00",
+  "date_modified": "2026-05-13T11:50:43-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 slices bacon",
+    "1 head fresh broccoli, cut into bite size pieces",
+    "0.25 cup red onion, chopped",
+    "0.5 cup raisins",
+    "3 tablespoons white wine vinegar",
+    "2 tablespoons white sugar",
+    "1 cup mayonnaise",
+    "1 cup sunflower seeds"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, combine the broccoli, onion and raisins. In a small bowl, whisk together the vinegar, sugar and mayonnaise. Pour over broccoli mixture, and toss until well mixed. Refrigerate for at least two hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Before serving, toss salad with crumbled bacon and sunflower seeds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/w0Vj_cZ4pjCq7kpkoWDbb5p8Yvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/503913-fd89ba5796774baebc24d7568bc722e7.jpg"
+      ],
+      "image": "assets/images/16098/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "559 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "584 mg",
+    "sugarContent": "14 g",
+    "fatContent": "48 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "1757"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/F4BLxnff-ma1DlVvV.mp4",
+    "description": "AR1137",
+    "duration": "PT2M12S",
+    "name": "Alyson's Broccoli Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/F4BLxnff/poster.jpg?width=1280",
+    "uploadDate": "2021-07-11T23:31:45-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/w0Vj_cZ4pjCq7kpkoWDbb5p8Yvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/503913-fd89ba5796774baebc24d7568bc722e7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16098/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/16098/step_03.webp"
+    ]
+  }
+}

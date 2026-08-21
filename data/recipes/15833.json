@@ -1,0 +1,75 @@
+{
+  "id": "15833",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15833/cabbage-soup-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/15833/cabbage-soup-ii/",
+  "title": "Cabbage Soup II",
+  "description": "This is a hearty soup made with ham, barley and shredded cabbage cooked in chicken broth.",
+  "authors": [
+    "KLUSE"
+  ],
+  "date_published": "2000-01-29T15:01:49-05:00",
+  "date_modified": "2019-04-02T02:38:40-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 (14.5 ounce) cans chicken broth",
+    "4 stalks celery, chopped",
+    "6 carrots, chopped",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 medium head cabbage, shredded",
+    "0.5 cup barley",
+    "2 cups diced ham",
+    "1 tablespoon dried parsley"
+  ],
+  "steps": [
+    {
+      "text": "Place the chicken broth, celery, carrots, onion, garlic, cabbage, barley, ham and parsley in a large pot over high heat. Bring to a boil, reduce heat to low and simmer for 1 1/2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "203 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "605 mg",
+    "sugarContent": "10 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "118"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DB36h8MqTAjVm55kaY8EFHKfcyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/388049-f7396ed3efcb4d1d951773866498c491.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15833/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

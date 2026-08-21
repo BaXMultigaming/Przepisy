@@ -1,0 +1,80 @@
+{
+  "id": "15540",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15540/penne-pasta-with-peppers/",
+  "requested_url": "https://www.allrecipes.com/recipe/15540/penne-pasta-with-peppers/",
+  "title": "Penne Pasta with Peppers",
+  "description": "Colorful red and yellow sweet bell peppers sauteed with sliced red onions and chopped garlic are poured over cooked penne to make a cheerful dish of pasta.",
+  "authors": [
+    "Donna Lasater"
+  ],
+  "date_published": "2000-01-07T17:45:17-05:00",
+  "date_modified": "2022-07-14T15:48:41-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound penne pasta",
+    "2 tablespoons olive oil",
+    "2 red onions, cut into strips",
+    "2 cloves garlic, chopped",
+    "3 red bell peppers, chopped",
+    "2 yellow bell pepper, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and reserve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium heat. Add onion, garlic, red bell peppers and yellow bell peppers and saute for 10 minutes or until tender. Pour this vegetable mixture over cooked pasta and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "432 kcal",
+    "carbohydrateContent": "80 g",
+    "fiberContent": "6 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "9 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Yac_dRC51MPrvjl2BRcDZxKXBZo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5855999-3553d4784515469ca9ed671da168c845.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15540/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

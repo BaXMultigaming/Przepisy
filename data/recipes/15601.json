@@ -1,0 +1,86 @@
+{
+  "id": "15601",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15601/southwestern-black-bean-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/15601/southwestern-black-bean-stew/",
+  "title": "Southwestern Black Bean Stew",
+  "description": "Browned ground beef seasoned with a package of taco seasoning mix is combined with whole kernel corn and canned black beans in this stew served with a dollop of sour cream and grated cheddar cheese.",
+  "authors": [
+    "Lanay Bien"
+  ],
+  "date_published": "1999-09-26T16:26:32-04:00",
+  "date_modified": "2022-09-07T18:47:17-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 (1.25 ounce) package taco seasoning mix",
+    "1 (15 ounce) can whole kernel corn, drained",
+    "1 (15 ounce) can black beans, undrained",
+    "1 (6 ounce) can tomato paste",
+    "1.5 cups water",
+    "0.5 cup sour cream",
+    "2 (8 ounce) packages shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium high heat, saute the ground beef and drain the excess fat. Add taco seasoning, and stir. Reduce heat to low, cover and simmer for 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a slow cooker over low heat, combine the corn, beans, tomato paste and water. Mix well. Add the seasoned meat and the sour cream. Raise heat to high setting and simmer for 20 minutes. Pour into individual bowls and garnish with shredded cheddar cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "635 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "133 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "22 g",
+    "sodiumContent": "1596 mg",
+    "sugarContent": "7 g",
+    "fatContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "149"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vPpSmXhIIQEzqAuT232CvQWFMH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15601_Southwestern-Black-Bean-Stew_Melissa-Goff_4559926_original-4x3-1-08ee7b92f24649f7a079c0f5bd4f5492.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15601/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

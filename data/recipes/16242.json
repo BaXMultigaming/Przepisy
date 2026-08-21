@@ -1,0 +1,91 @@
+{
+  "id": "16242",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16242/beef-jerky-in-a-smoker/",
+  "requested_url": "https://www.allrecipes.com/recipe/16242/beef-jerky-in-a-smoker/",
+  "title": "Smoked Beef Jerky",
+  "description": "Learn how to make beef jerky in a smoker with this easy recipe that features marinated sliced sirloin dried slowly for a chewy, spicy, and savory snack.",
+  "authors": [
+    "Doug Patrick"
+  ],
+  "date_published": "2000-01-26T19:13:45-05:00",
+  "date_modified": "2023-06-20T13:10:26-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT360M",
+  "total_time": "PT850M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup soy sauce",
+    "4 tablespoons ground black pepper, or to taste",
+    "1 tablespoon cider vinegar",
+    "1 dash hot pepper sauce",
+    "1 dash Worcestershire sauce",
+    "2 pounds sirloin, cut into 1/2 inch thick slices"
+  ],
+  "steps": [
+    {
+      "text": "Combine soy sauce, black pepper, vinegar, hot pepper sauce, and Worcestershire sauce in a large, nonporous bowl; add sirloin slices and mix well to coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange sirloin slices, unstacked, onto wire racks; discard marinade. Place the racks into an outdoor smoker. Add wood chips according to manufacturer's directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Smoke over low heat until edges of sirloin slices appear dry with just a slight hint of moisture in the center, 6 to 8 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "362 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "2489 mg",
+    "sugarContent": "1 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/B7mebzHfkiwaTrnFGlMAzUfK5fE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/348937-b45a2e18fd6f4037996ba84e1773738c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16242/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "16259",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16259/ds-famous-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/16259/ds-famous-salsa/",
+  "title": "D&#39;s Famous Salsa",
+  "description": "This salsa with canned tomatoes is easy to make in a food processor with onion, garlic, lime juice, chiles, and cilantro for a smooth or chunky dip.",
+  "authors": [
+    "Denise Smith"
+  ],
+  "date_published": "1999-11-27T12:51:08-05:00",
+  "date_modified": "2026-03-16T07:54:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "U.S.",
+    "Mexican"
+  ],
+  "regions": [
+    "U.S.",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (14.5 ounce) cans stewed tomatoes",
+    "0.5 onion, finely diced",
+    "0.25 cup canned sliced green chiles, or to taste",
+    "3 tablespoons chopped fresh cilantro",
+    "0.5 lime, juiced",
+    "1 teaspoon minced garlic",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Place tomatoes, onion, green chiles, cilantro, lime juice, garlic, and salt in a blender or food processor. Blend on low to desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/q2meLyXa7_6lmO_hcVPO9ckj2es=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/866636-a3f03b3d2b384508a28e55a6a595770d.jpg"
+      ],
+      "image": "assets/images/16259/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "16 kcal",
+    "carbohydrateContent": "4 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "283 mg",
+    "sugarContent": "2 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "1189"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Mii5Ylk8-ma1DlVvV.mp4",
+    "description": "A fast and delicious salsa from easy ingredients you may already have on hand.",
+    "duration": "PT2M2S",
+    "name": "D's Famous Salsa",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Mii5Ylk8/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T02:14:53-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/q2meLyXa7_6lmO_hcVPO9ckj2es=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/866636-a3f03b3d2b384508a28e55a6a595770d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16259/hero.webp",
+    "steps": [
+      "assets/images/16259/step_01.webp"
+    ]
+  }
+}

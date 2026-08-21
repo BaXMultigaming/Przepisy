@@ -1,0 +1,102 @@
+{
+  "id": "15926",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15926/irish-breakfast/",
+  "requested_url": "https://www.allrecipes.com/recipe/15926/irish-breakfast/",
+  "title": "Irish Breakfast",
+  "description": "This Irish breakfast is a hearty way to start your day. Eggs, mushrooms, and tomatoes are fried with bacon and butter and served with grilled soda bread.",
+  "authors": [
+    "jenn"
+  ],
+  "date_published": "2000-02-10T13:13:07-05:00",
+  "date_modified": "2026-08-05T16:56:14-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 thick slices bacon",
+    "2 tablespoons butter or margarine",
+    "4 eggs",
+    "2 small tomatoes, sliced",
+    "1.5 cups whole mushrooms",
+    "4 slices prepared soda bread"
+  ],
+  "steps": [
+    {
+      "text": "Lay bacon slices in a single layer in a large skillet. Fry over medium heat until starting to brown. Fry on both sides. Remove from the pan, but save the grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add butter to the skillet and melt. Crack eggs into the pan, being careful not to break the yolks. Place tomato slices, mushrooms, and bread into the skillet, keeping everything separate. Fry gently, stirring mushrooms and tomatoes occasionally. Flip bread to brown on both sides.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When egg whites are set but the yolks are still runny, dish half of everything onto each of two warmed plates and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bI1Muhazqj1ozuOVhe-evQ69geY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5178641-b4d312d150a044f385009d2f2d6bb884.jpg"
+      ],
+      "image": "assets/images/15926/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "724 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "459 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "1431 mg",
+    "sugarContent": "4 g",
+    "fatContent": "42 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "50"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lZJc8hTP-K3AjnAEN.mp4",
+    "description": "You can face anything after this hearty breakfast of bacon and eggs with savory mushrooms and tomatoes - all fried in decadent butter. Slices of Irish soda bread are grilled in the skillet and served on the side. This meal has so much variety going for it that it won’t be a boring breakfast!",
+    "duration": "PT42S",
+    "name": "Irish Breakfast",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lZJc8hTP/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T13:00:49-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bI1Muhazqj1ozuOVhe-evQ69geY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5178641-b4d312d150a044f385009d2f2d6bb884.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15926/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/15926/step_03.webp"
+    ]
+  }
+}

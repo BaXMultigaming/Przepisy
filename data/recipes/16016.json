@@ -1,0 +1,113 @@
+{
+  "id": "16016",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16016/hungarian-lentil-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/16016/hungarian-lentil-soup/",
+  "title": "Hungarian Lentil Soup",
+  "description": "A lentil soup recipe with onions, garlic, carrots, celery, tomatoes, paprika and bay leaves to flavor this comforting dish that is easy to make.",
+  "authors": [
+    "Gabriella"
+  ],
+  "date_published": "1999-12-08T14:54:57-05:00",
+  "date_modified": "2026-04-20T12:09:47-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT70M",
+  "total_time": "PT90M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Hungarian",
+    "Eastern European"
+  ],
+  "regions": [
+    "Hungarian",
+    "Eastern European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "2 large onions, cubed",
+    "3 carrots, diced",
+    "2 stalks celery, diced",
+    "1 teaspoon minced garlic",
+    "0.5 teaspoon paprika",
+    "7 cups chicken stock",
+    "3.5 cups crushed tomatoes",
+    "1.5 cups lentils - soaked, rinsed and drained",
+    "2 bay leaves",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "0.75 cup white wine",
+    "0.5 cup grated Parmesan cheese",
+    "1 sprig fresh parsley, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large stockpot. Sauté onions until they are glossy. Stir in carrots, celery, garlic, and paprika, and sauté for 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in chicken stock, tomatoes, lentils, bay leaves, salt, and pepper. Stir well, then add wine and bring the mixture to a boil. Slowly reduce the heat and cook for 1 hour on low to medium heat; or until lentils are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle soup with Parmesan and parsley before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MzKwbwOAaceBIurcxMpF58e4yPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/564286-hungarian-lentil-soup-larkspur-1x1-1-02588222d31f46608ef73d00d993dc04.jpg"
+      ],
+      "image": "assets/images/16016/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "258 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "14 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1278 mg",
+    "sugarContent": "7 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "491"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RcZSGXa8-ma1DlVvV.mp4",
+    "description": "AR0781",
+    "duration": "PT4M40S",
+    "name": "Lentil Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RcZSGXa8/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:38:52-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MzKwbwOAaceBIurcxMpF58e4yPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/564286-hungarian-lentil-soup-larkspur-1x1-1-02588222d31f46608ef73d00d993dc04.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16016/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/16016/step_03.webp"
+    ]
+  }
+}

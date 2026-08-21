@@ -1,0 +1,97 @@
+{
+  "id": "15551",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15551/sweet-and-sour-meatballs/",
+  "requested_url": "https://www.allrecipes.com/recipe/15551/sweet-and-sour-meatballs/",
+  "title": "Slow Cooker Sweet and Sour Meatballs",
+  "description": "This recipe for sweet and sour meatballs is easy to prepare in the slow cooker and gets extra flavor from a delicious sauce with a secret ingredient.",
+  "authors": [
+    "Tammy Moore"
+  ],
+  "date_published": "1999-07-22T12:14:37-04:00",
+  "date_modified": "2026-03-26T12:44:50-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT100M",
+  "total_time": "PT120M",
+  "yield": [
+    "12",
+    "2 dozen"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 fluid ounce) can or bottle chile sauce",
+    "9 ounces grape jelly",
+    "2 teaspoons lemon juice",
+    "1 pound lean ground beef",
+    "1 large onion, grated",
+    "1 large egg, beaten",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together chile sauce, grape jelly, and lemon juice. Pour into a slow cooker and simmer over Low heat until warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine ground beef, onion, egg, and salt. Mix well and form into 24 1-inch balls. Add to sauce and simmer for 1 1/2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qJG6V_vBzDQtE_2qs3jk6MXO3to=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242199-73e6ff7c40374161b527d592c922f395.jpg"
+      ],
+      "image": "assets/images/15551/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "13 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "322"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/iqBuK6nt-ma1DlVvV.mp4",
+    "description": "AR0790",
+    "duration": "PT2M31S",
+    "name": "Sweet and Sour Meatballs",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/iqBuK6nt/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T07:16:54-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qJG6V_vBzDQtE_2qs3jk6MXO3to=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242199-73e6ff7c40374161b527d592c922f395.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15551/hero.webp",
+    "steps": [
+      null,
+      "assets/images/15551/step_02.webp"
+    ]
+  }
+}

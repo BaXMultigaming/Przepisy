@@ -1,0 +1,82 @@
+{
+  "id": "16247",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16247/fruit-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/16247/fruit-dip/",
+  "title": "Fruit Dip",
+  "description": "Serve this pineapple flavored dip made with marshmallow cream, whipped topping and cream cheese accompanied by skewered chunks of seasonal fruits.",
+  "authors": [
+    "Carolyn"
+  ],
+  "date_published": "1999-11-16T23:13:54-05:00",
+  "date_modified": "2022-08-08T11:39:34-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "24",
+    "3 cups"
+  ],
+  "categories": [
+    "Snack",
+    "Appetizer",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces cream cheese",
+    "0.5 cup marshmallow creme",
+    "2 cups frozen whipped topping, thawed",
+    "0.25 cup unsweetened pineapple juice"
+  ],
+  "steps": [
+    {
+      "text": "Blend together the cream cheese, marshmallow cream and thawed topping. Add enough pineapple juice to make it dipping consistency. Chill for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/TueA3xzJ9buub0gHza_Fhh5jH5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1098373-976bb30744814f1f9b6fe706989bc899.jpg"
+      ],
+      "image": "assets/images/16247/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "57 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "10 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "30 mg",
+    "sugarContent": "2 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "92"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lLoh9TxQ-K3AjnAEN.mp4",
+    "description": "AR_MAY_0003",
+    "duration": "PT1M26S",
+    "name": "Fruit Dip",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lLoh9TxQ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T19:51:57-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TueA3xzJ9buub0gHza_Fhh5jH5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1098373-976bb30744814f1f9b6fe706989bc899.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16247/hero.webp",
+    "steps": [
+      "assets/images/16247/step_01.webp"
+    ]
+  }
+}

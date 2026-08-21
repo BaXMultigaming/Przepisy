@@ -1,0 +1,107 @@
+{
+  "id": "16360",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16360/cock-a-leekie-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/16360/cock-a-leekie-soup/",
+  "title": "Cock-a-Leekie Soup",
+  "description": "Scottish cock-a-leekie soup has many variations, but most of them feature leeks simmered in chicken stock. This version is thickened with barley.",
+  "authors": [
+    "briony"
+  ],
+  "date_published": "2000-02-04T19:53:48-05:00",
+  "date_modified": "2026-01-05T16:41:48-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT90M",
+  "total_time": "PT100M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Scottish"
+  ],
+  "regions": [
+    "Scottish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 pounds chicken thighs, bone in, skin removed",
+    "10 cups water",
+    "1 medium onion, chopped",
+    "0.33333334326744 cup barley",
+    "1 (10.5 ounce) can condensed chicken broth",
+    "7 medium leeks, sliced",
+    "2 stalks celery, thickly sliced",
+    "1 tablespoon chopped fresh parsley",
+    "1 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "1 sprig fresh thyme, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Place chicken into a large pot; pour in water and add onion and barley. Bring to a boil over high heat, then reduce the heat to low and simmer for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Use tongs to transfer chicken to a cutting board. Discard skin and bones; chop meat into bite-sized pieces and return to the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add condensed broth, leeks, celery, parsley, salt, pepper, and thyme; simmer until vegetables are tender, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/hkviA4o5oExUfeD1ckPw9g5SLJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-99-05751ed2de5f45ffa5c284b166a17cc3.jpg"
+      ],
+      "image": "assets/images/16360/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "243 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "126 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "503 mg",
+    "sugarContent": "3 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "87"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/tANCBmqY-K3AjnAEN.mp4",
+    "description": "Cock-a-leekie is a classic soup from Scotland made with chicken and leeks as the name suggests. The traditional recipe is garnished with prunes but there are many variations of this soup. ",
+    "duration": "PT1M",
+    "name": "Cock A Leekie Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/tANCBmqY/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:55:58-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hkviA4o5oExUfeD1ckPw9g5SLJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-99-05751ed2de5f45ffa5c284b166a17cc3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16360/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/16360/step_03.webp"
+    ]
+  }
+}

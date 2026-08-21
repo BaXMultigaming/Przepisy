@@ -1,0 +1,82 @@
+{
+  "id": "15607",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15607/spinach-and-pine-nuts/",
+  "requested_url": "https://www.allrecipes.com/recipe/15607/spinach-and-pine-nuts/",
+  "title": "Spinach and Pine Nuts",
+  "description": "An easy spinach with pine nuts recipe. Simply sauté spinach in olive oil with garlic, pepper, and toasted pine nuts for a fancy spin on greens.",
+  "authors": [
+    "Robyn Webb"
+  ],
+  "date_published": "2000-01-05T18:38:21-05:00",
+  "date_modified": "2026-08-13T18:08:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds spinach, rinsed",
+    "2 teaspoons olive oil",
+    "2 tablespoons toasted pine nuts",
+    "1 teaspoon minced garlic",
+    "freshly ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Wash spinach, but allow the water to cling to the leaves. Cook spinach until it wilts in a skillet over medium-high heat, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a skillet over medium-high heat. Add spinach, pine nuts, and garlic and cook for 2 minutes. Season with pepper and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "180 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qJhmcU50KQhggyXU5ssalJpsBYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15607spinach-and-pine-nutsFranceC4x3-8cebf55d8dcf4227b0c089f7adaff225.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15607/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

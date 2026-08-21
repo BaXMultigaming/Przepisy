@@ -1,0 +1,85 @@
+{
+  "id": "15719",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15719/basic-bean-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/15719/basic-bean-soup/",
+  "title": "Basic Bean Soup",
+  "description": "White beans and ham are combined with carrots, onion and spices in this simple, yet classic, soup.",
+  "authors": [
+    "Chris Davis"
+  ],
+  "date_published": "2000-01-27T14:08:08-05:00",
+  "date_modified": "2025-01-01T14:56:57-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dry great Northern beans",
+    "8 cups water",
+    "12 baby carrots",
+    "1 cup chopped onion",
+    "0.5 pound chopped ham",
+    "0.25 cup ketchup",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, combine the beans with the water, cover and let soak overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pot over medium high heat, combine the soaked beans with water, carrots, onion and ham. Add more water to cover all, if necessary. Bring to a boil, then reduce heat to low and let simmer for 4 to 6 hours. Add ketchup just to get desired color. Season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "181 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "381 mg",
+    "sugarContent": "3 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XqxAo5yRhcP2C0ZPRo0sw1k_b8w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/577193-bd4ff1de28ae480bb5bc627d2e3cfa41.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15719/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

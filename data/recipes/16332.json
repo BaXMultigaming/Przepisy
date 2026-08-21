@@ -1,0 +1,83 @@
+{
+  "id": "16332",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16332/spinach-tortellini-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/16332/spinach-tortellini-soup/",
+  "title": "Spinach Tortellini Soup",
+  "description": "This spinach tortellini soup is super quick and easy to make by combining frozen spinach and packaged cheese tortellini in a garlicky chicken broth.",
+  "authors": [
+    "Nicole"
+  ],
+  "date_published": "2000-01-29T14:19:58-05:00",
+  "date_modified": "2026-03-18T11:02:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (14.5 ounce) cans chicken broth",
+    "1 (10 ounce) package frozen chopped spinach",
+    "1 (9 ounce) package cheese tortellini",
+    "0.25 tablespoon dried basil",
+    "0.25 tablespoon garlic powder",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken broth and spinach in a large pot over high heat; bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium-low and stir in tortellini; cook uncovered, stirring occasionally, until the tortellini float to the top and the filling is hot, about 3 to 5 minutes. Season with basil, garlic powder, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "294 mg",
+    "sugarContent": "2 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "304"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-ug0oCtqPS0bjIS4FZMuC8H0IpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7309254-ac88c891b1ab42388bd32cdcb8bfe970.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16332/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

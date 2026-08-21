@@ -1,0 +1,103 @@
+{
+  "id": "16135",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16135/tabbouleh-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16135/tabbouleh-ii/",
+  "title": "Tabbouleh",
+  "description": "Tabbouleh is a delicious Middle Eastern salad made with tender bulgur wheat, lots of finely chopped fresh parsley, mint, tomatoes, and lemon juice.",
+  "authors": [
+    "Nadine"
+  ],
+  "date_published": "1999-10-30T20:04:25-04:00",
+  "date_modified": "2026-01-22T11:49:51-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish",
+    "Salad"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup bulgur",
+    "0.5 cup boiling water",
+    "5 tomatoes, diced",
+    "1 onion, finely diced",
+    "1 cup chopped parsley",
+    "0.25 cup chopped fresh mint leaves",
+    "1 lemon, juiced",
+    "2 teaspoons olive oil",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/m8d4XcXeOXbbkSB_gFoalF4GoBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16135-easy-tabbouleh-VAT-005-step-01-bf517adad6514d36bf7326c24b162d2c.jpg"
+      ],
+      "image": "assets/images/16135/step_01.webp"
+    },
+    {
+      "text": "Place bulgur in a small mixing bowl. Add boiling water, mix, and cover with a clean towel. Let stand for 1 hour. Drain any excess water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YPg2BvanbzssDrolLwtVoR84NYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16135-easy-tabbouleh-VAT-006-step-02-edeee16f68b3433cb4b81cccee683bc2.jpg"
+      ],
+      "image": "assets/images/16135/step_02.webp"
+    },
+    {
+      "text": "Combine tomatoes, onion, parsley, mint, lemon juice, olive oil, and salt. Add bulgur; mix well and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/vX9WiMYeiSdQ3nZgj_3DZdpgO7I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16135-easy-tabbouleh-VAT-007-step-03-b1d045f2daa14caaa199ec5cc0bff4a1.jpg"
+      ],
+      "image": "assets/images/16135/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "101 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "6 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "20 mg",
+    "sugarContent": "5 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "121"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Y1quDWQ0oNQEd2RCS17v6Y3abFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16135-easy-tabbouleh-VAT-001-4x3-0caa0985ce114600bb68ab8a7c86f831.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16135/hero.webp",
+    "steps": [
+      "assets/images/16135/step_01.webp",
+      "assets/images/16135/step_02.webp",
+      "assets/images/16135/step_03.webp"
+    ]
+  }
+}

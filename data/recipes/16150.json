@@ -1,0 +1,77 @@
+{
+  "id": "16150",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16150/braunschweiger-spread/",
+  "requested_url": "https://www.allrecipes.com/recipe/16150/braunschweiger-spread/",
+  "title": "Braunschweiger Spread",
+  "description": "This makes a great snack or appetizer anytime. Serve with your favorite crackers.",
+  "authors": [
+    "Tammy Taylor"
+  ],
+  "date_published": "1999-12-26T15:04:53-05:00",
+  "date_modified": "2026-04-08T16:20:21-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT125M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound braunschweiger liverwurst",
+    "1 (8 ounce) package cream cheese, softened",
+    "2 drops ketchup",
+    "0.5 onion, chopped",
+    "2 teaspoons steak sauce",
+    "1 (5 ounce) jar pitted green olives"
+  ],
+  "steps": [
+    {
+      "text": "In a medium-size mixing bowl, combine braunsweiger, cream cheese, ketchup, onion, and steak sauce. Mix until blended. Shape mixture into a ball. Press olives into the ball. Chill before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "491 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "193 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "1621 mg",
+    "sugarContent": "1 g",
+    "fatContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PlmikFHSzZTK42fZC9zGCqy7lCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16150-braunschweiger-spread-VAT-Beauty-4x3-7ada0ffb01094f6bb3ee278433410643.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16150/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

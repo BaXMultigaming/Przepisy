@@ -1,0 +1,99 @@
+{
+  "id": "16235",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16235/debdoozies-blue-ribbon-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/16235/debdoozies-blue-ribbon-chili/",
+  "title": "Blue Ribbon Chili",
+  "description": "This award-winning blue ribbon chili is a hearty combination of ground beef, kidney beans, and salsa that will please everyone at the table!",
+  "authors": [
+    "Deb"
+  ],
+  "date_published": "1999-10-07T16:59:29-04:00",
+  "date_modified": "2025-12-10T16:24:47-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT70M",
+  "total_time": "PT75M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 pounds ground beef",
+    "0.5 medium onion, chopped",
+    "2.5 cups tomato sauce",
+    "1 (15 ounce) can light red kidney beans",
+    "1 (15 ounce) can dark red kidney beans",
+    "1 (8 ounce) jar salsa",
+    "0.25 cup chili seasoning mix",
+    "1 teaspoon ground black pepper",
+    "0.5 teaspoon garlic salt"
+  ],
+  "steps": [
+    {
+      "text": "Place ground beef and onion into a large nonstick saucepan over medium heat. Cook and stir until beef is browned and crumbly and onion is translucent, about 10 minutes. Drain grease if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in tomato sauce, light and dark kidney beans, salsa, chili seasoning, pepper, and garlic salt until well combined. Reduce the heat to low and simmer for at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/vqWG-HeN1_vIwD6ARDjU4BAoyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/593156-e3b70582fe1844bda07d9d600f91bd09.jpg"
+      ],
+      "image": "assets/images/16235/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "480 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "97 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1366 mg",
+    "sugarContent": "5 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "3512"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/U7ZaKWux-ma1DlVvV.mp4",
+    "description": "AR0124",
+    "duration": "PT2M21S",
+    "name": "Debdoozie's Blue Ribbon Chili",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/U7ZaKWux/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T18:22:55-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vqWG-HeN1_vIwD6ARDjU4BAoyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/593156-e3b70582fe1844bda07d9d600f91bd09.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16235/hero.webp",
+    "steps": [
+      null,
+      "assets/images/16235/step_02.webp"
+    ]
+  }
+}

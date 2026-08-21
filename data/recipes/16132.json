@@ -1,0 +1,70 @@
+{
+  "id": "16132",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16132/raspberry-salad-dressing-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/16132/raspberry-salad-dressing-i/",
+  "title": "Raspberry Salad Dressing I",
+  "description": "This yogurt-based dressing touts fresh raspberries and raspberry vinegar, and is perfect tossed with a simple salad of crisp greens. Great splashed on a salad of sliced oranges.",
+  "authors": [
+    "Jackie"
+  ],
+  "date_published": "2000-02-11T10:10:12-05:00",
+  "date_modified": "2022-07-14T15:50:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12",
+    "11 cups"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup plain yogurt",
+    "0.5 cup raspberries",
+    "1 tablespoon red wine vinegar",
+    "2 teaspoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine the yogurt, raspberries, vinegar and sugar. Blend until smooth and refrigerate until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "18 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "2 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_rFR4sxx6u-cL52Zm1F1ttdCsLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/181303-86156c3c006a4f80ae305bd7c1f56f53.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16132/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

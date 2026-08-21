@@ -1,0 +1,95 @@
+{
+  "id": "16409",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16409/spinach-and-strawberry-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/16409/spinach-and-strawberry-salad/",
+  "title": "Spinach and Strawberry Salad",
+  "description": "This easy spinach strawberry salad is packed with greens, fresh strawberries, and a deliciously sweet sesame and poppy seed vinaigrette dressing.",
+  "authors": [
+    "JerJer"
+  ],
+  "date_published": "2000-02-15T10:23:35-05:00",
+  "date_modified": "2025-12-30T20:28:25-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 bunches spinach, rinsed and torn into bite-size pieces",
+    "4 cups sliced strawberries",
+    "0.5 cup vegetable oil",
+    "0.5 cup white sugar",
+    "0.25 cup white wine vinegar",
+    "2 tablespoons sesame seeds",
+    "1 tablespoon poppy seeds",
+    "0.25 teaspoon paprika"
+  ],
+  "steps": [
+    {
+      "text": "Toss spinach and strawberries together in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk oil, sugar, vinegar, sesame seeds, poppy seeds, and paprika together in a medium bowl; pour over spinach and strawberries, and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7OjjcmRQC8Sb236VtRX5YljlaIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4535439-564adcef998c47bebfcb6d9c5aa2a3df.jpg"
+      ],
+      "image": "assets/images/16409/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235 kcal",
+    "carbohydrateContent": "23 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "69 mg",
+    "sugarContent": "17 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "1797"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/xq5bZJHK-ma1DlVvV.mp4",
+    "description": "Make a top-rated salad with fresh spinach and fresh strawberries. These two power foods just happen to taste amazing together, and the popp-seed dressing is the perfect touch.",
+    "duration": "PT2M40S",
+    "name": "Spinach and Strawberry Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/xq5bZJHK/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T18:09:57-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7OjjcmRQC8Sb236VtRX5YljlaIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4535439-564adcef998c47bebfcb6d9c5aa2a3df.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16409/hero.webp",
+    "steps": [
+      null,
+      "assets/images/16409/step_02.webp"
+    ]
+  }
+}
