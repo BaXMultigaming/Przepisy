@@ -1,0 +1,70 @@
+{
+  "id": "13020",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13020/savory-mushroom-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13020/savory-mushroom-soup/",
+  "title": "Savory Mushroom Soup",
+  "description": "Dress up a can of cream of mushroom soup with red onion, frozen peas, and sour cream in this recipe which serves two.",
+  "authors": [
+    "Lois"
+  ],
+  "date_published": "1999-01-30T11:08:20-05:00",
+  "date_modified": "2022-07-14T17:55:19-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "3 - servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 red onion, minced",
+    "1.5 tablespoons butter",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "1 cup milk",
+    "0.5 cup frozen green peas",
+    "3 tablespoons sour cream"
+  ],
+  "steps": [
+    {
+      "text": "In small saucepan saute onion in butter. Add soup, milk, and peas. Heat on medium-low until peas are soft. Add sour cream. Stir. When hot, serve. Add sour cream to thickness desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "348 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1149 mg",
+    "sugarContent": "11 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Zv5kDLDO8UNIVMu5xdBPL0rRDto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4583459-3c0be942041b40499dfdd4fe366bacf1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13020/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

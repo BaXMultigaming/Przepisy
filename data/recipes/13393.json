@@ -1,0 +1,93 @@
+{
+  "id": "13393",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13393/long-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13393/long-soup/",
+  "title": "Long Soup",
+  "description": "Thinly sliced pork, fresh ginger, green onions, and Chinese-style egg noodles star in this quick and easy recipe for long soup.",
+  "authors": [
+    "CORWYNN DARKHOLME"
+  ],
+  "date_published": "1999-08-17T21:11:46-04:00",
+  "date_modified": "2026-08-17T17:03:15-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "regions": [
+    "Chinese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 tablespoons vegetable oil",
+    "0.25 small head cabbage, shredded",
+    "4 ounces lean pork tenderloin, cut into thin strips",
+    "0.5 teaspoon minced fresh ginger root",
+    "6 cups chicken broth",
+    "2 tablespoons soy sauce",
+    "8 fresh green onions, chopped",
+    "4 ounces dry Chinese egg noodles"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet or wok over medium-high heat. Add cabbage and pork; stir-fry until pork is no longer pink inside, about 5 minutes. Stir in ginger.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add chicken broth and soy sauce to the skillet; bring to a boil. Reduce heat to low; simmer for 10 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in onions and add noodles. Cook until noodles are tender, 2 to 4 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1623 mg",
+    "sugarContent": "3 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "90"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PRU13oWcsE2QMmupWP6hnt69TPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1778584-long-soup-cookiecat-4x3-1-e4717bdfbe2f446aadae6469259308cc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13393/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

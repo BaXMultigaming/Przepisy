@@ -1,0 +1,79 @@
+{
+  "id": "12920",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12920/chinese-egg-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/12920/chinese-egg-soup/",
+  "title": "Chinese Egg Soup",
+  "description": "In this simple soup, a beaten egg is slowly poured into a pot of simmering chicken broth with peas. Serve with sliced green onions.",
+  "authors": [
+    "akhowell"
+  ],
+  "date_published": "1999-01-21T14:56:00-05:00",
+  "date_modified": "2018-04-12T23:00:49-04:00",
+  "prep_time": "PT2M",
+  "cook_time": "PT13M",
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Chinese"
+  ],
+  "regions": [
+    "Chinese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups seasoned chicken broth",
+    "0.5 cup frozen green peas",
+    "1 egg, beaten"
+  ],
+  "steps": [
+    {
+      "text": "Bring chicken broth and peas to a boil in a large saucepan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slowly add egg to the boiling broth, stirring constantly. Serve hot, garnished with chopped green onions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "35 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "639 mg",
+    "sugarContent": "1 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/w3O-gBwkY1Tz3kTMYoZ4mXZdRm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6237635-343fb100c7ec4e37af7ff778d812eb34.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12920/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

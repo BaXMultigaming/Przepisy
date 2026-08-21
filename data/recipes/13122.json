@@ -1,0 +1,84 @@
+{
+  "id": "13122",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13122/excellent-venison-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13122/excellent-venison-soup/",
+  "title": "Excellent Venison Soup",
+  "description": "Venison is delicious and healthy in this rich-flavored soup packed with cabbage, rutabagas, and parsnips.",
+  "authors": [
+    "Michelle"
+  ],
+  "date_published": "1999-02-16T14:18:37-05:00",
+  "date_modified": "2026-07-20T16:14:43-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT80M",
+  "total_time": "PT105M",
+  "yield": [
+    "6",
+    "1 soup"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground venison",
+    "1 onion, chopped",
+    "1 parsnip, sliced",
+    "3 potatoes, cubed",
+    "3 carrots, sliced",
+    "0.5 rutabagas, peeled and cubed",
+    "1 (16 ounce) can whole peeled tomatoes, with liquid",
+    "3 cubes beef bouillon cube",
+    "3 cups water",
+    "0.5 medium head cabbage, coarsely chopped",
+    "1 bay leaf",
+    "0.5 teaspoon dried oregano",
+    "1 teaspoon salt",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Brown venison and onions in a large pot over medium heat. Mix in onion, parsnip, potatoes, carrots, rutabagas, tomatoes, bouillon, water, cabbage, bay leaf, oregano, salt, and pepper. Bring to a boil, reduce heat to low, and simmer 1 to 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "114 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1019 mg",
+    "sugarContent": "11 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bjBnPKQ_EPrjMkWcvFvSUbOPJFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8973486-222b079da10b480994a55c428d24e488.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13122/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

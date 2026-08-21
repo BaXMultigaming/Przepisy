@@ -1,0 +1,100 @@
+{
+  "id": "13288",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13288/split-pea-and-ham-soup-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/13288/split-pea-and-ham-soup-i/",
+  "title": "Split Pea and Ham Bone Soup",
+  "description": "This is a straight-forward version of a classic soup combines dried split peas with onion and ham. Variations include adding carrots, celery, or potatoes.",
+  "authors": [
+    "TEETOE"
+  ],
+  "date_published": "1999-04-21T22:08:27-04:00",
+  "date_modified": "2025-12-15T09:55:20-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT125M",
+  "total_time": "PT150M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon vegetable oil",
+    "1 cup chopped onion",
+    "1 pound dried split peas",
+    "1 pound ham bone",
+    "1 pinch salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a medium pot, add onions and saute until tender. Stir in split peas, ham bone, and enough water to cover ingredients; season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover, and cook until there are no peas left, just a green liquid, 2 hours. While it is cooking, check to see if water has evaporated. You may need to add more water as the soup continues to cook.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Once the soup is a green liquid remove from heat, and let stand so it will thicken. Once thickened you may need to heat through to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2ZjeWgm5hCcoX20pXqRON962I0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/28341-57b5344496ab42378b7757febeaa5af4.jpg"
+      ],
+      "image": "assets/images/13288/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "413 kcal",
+    "carbohydrateContent": "72 g",
+    "fiberContent": "30 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "19 mg",
+    "sugarContent": "11 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "521"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/GQoX8StK-ma1DlVvV.mp4",
+    "description": "AR0303",
+    "duration": "PT1M46S",
+    "name": "Split Pea Soup I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/GQoX8StK/poster.jpg?width=1280",
+    "uploadDate": "2021-06-30T12:08:21-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2ZjeWgm5hCcoX20pXqRON962I0I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/28341-57b5344496ab42378b7757febeaa5af4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13288/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/13288/step_03.webp"
+    ]
+  }
+}

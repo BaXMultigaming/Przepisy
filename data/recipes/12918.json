@@ -1,0 +1,92 @@
+{
+  "id": "12918",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12918/tuscan-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/12918/tuscan-soup/",
+  "title": "Tuscan Soup",
+  "description": "This hearty Tuscan soup is full of tender potatoes, spicy Italian sausage, and leafy green spinach simmered in a creamy, chicken-based broth.",
+  "authors": [
+    "Dianne Brown"
+  ],
+  "date_published": "1999-01-22T08:47:15-05:00",
+  "date_modified": "2026-04-17T09:52:52-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 (3.5 ounce) links spicy Italian sausage",
+    "1 onion, chopped",
+    "6 cups chicken broth",
+    "3 large potatoes, cubed",
+    "1 bunch fresh spinach, washed and chopped",
+    "0.25 cup evaporated milk",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place sausage and onion into a large stockpot over medium heat. Break sausage up with a spoon and cook until onion is translucent and sausage is browned and crumbly, 7 to 8 minutes. Drain if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add chicken broth and potatoes; bring to a boil. Reduce the heat to medium-low and simmer until potatoes are tender, 10 to 15 minutes. Stir in spinach and cook until wilted, 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from the heat and stir in evaporated milk. Taste and season with salt and pepper as needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1287 mg",
+    "sugarContent": "4 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "1007"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DsJH0V0WUaVgcPYXJhZY9TGFnZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7644101_12918_Tuscan-Soup-4x3-70299b9fd7ca4bc085f13bbf879eb0d4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12918/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

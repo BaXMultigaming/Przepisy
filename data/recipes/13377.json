@@ -1,0 +1,83 @@
+{
+  "id": "13377",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13377/vegetable-beef-soup-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/13377/vegetable-beef-soup-ii/",
+  "title": "Vegetable Beef Soup II",
+  "description": "A soup of ground beef and stewed tomatoes simmered with onions, carrots, potatoes and celery in beef bouillon seasoned with thyme, bay leaf, and basil.",
+  "authors": [
+    "Priscilla"
+  ],
+  "date_published": "1999-01-10T21:38:26-05:00",
+  "date_modified": "2026-07-25T23:34:53-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds ground sirloin",
+    "1 cup chopped onion",
+    "2 (14.5 ounce) cans stewed tomatoes",
+    "5 cups water",
+    "1 tablespoon salt",
+    "2 cubes beef bouillon cube",
+    "2 carrots, chopped",
+    "2 stalks celery, chopped",
+    "1 russet potato, chopped",
+    "0.25 teaspoon dried thyme",
+    "1 bay leaf",
+    "0.25 teaspoon dried basil"
+  ],
+  "steps": [
+    {
+      "text": "In a large stock pot brown sirloin and onion. Drain grease and add tomatoes, water, salt, beef bouillon, carrots, celery, potatoes, thyme, bay leaf and basil. Cover and cook until vegetables are tender, approximately 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1380 mg",
+    "sugarContent": "6 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "154"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4sUUF3Ao1-_0WnYUYWnCnXqTk1c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/445261-9b0accff3d2d4698b73b922d50bf319b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13377/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

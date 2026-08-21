@@ -1,0 +1,86 @@
+{
+  "id": "12958",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12958/cheese-soup-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/12958/cheese-soup-i/",
+  "title": "Easy Vegetable Cheese Soup",
+  "description": "American processed cheese food and milk are blended into a simmering pot of onions, potatoes and celery in boullion.",
+  "authors": [
+    "Shirley M"
+  ],
+  "date_published": "1999-01-05T18:30:47-05:00",
+  "date_modified": "2026-04-24T11:31:37-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup chopped celery",
+    "0.5 cup chopped onion",
+    "2 cups cubed potatoes",
+    "1 (16 ounce) package frozen mixed vegetables",
+    "4 cubes chicken bouillon",
+    "2.5 cups water",
+    "1 pound processed cheese food (eg. Velveeta), cubed",
+    "2.5 cups milk",
+    "2 tablespoons margarine"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot boil the chopped celery, chopped onion, potatoes, mixed vegetables, bouillon cubes and water until all the vegetables are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the Velveeta® milk and butter or margarine. Heat until hot and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "424 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "2528 mg",
+    "sugarContent": "15 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tNRt-SZwSeMMQ-QCM6rkoLx8ckM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1073020-df0cc0407d354d85afcfd3b3b442e004.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12958/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

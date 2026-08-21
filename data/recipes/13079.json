@@ -1,0 +1,106 @@
+{
+  "id": "13079",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13079/flatlander-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/13079/flatlander-chili/",
+  "title": "Flatlander Chili",
+  "description": "This is a good red bean and ground beef chili with lots of chili powder and plenty of herbs!",
+  "authors": [
+    "George Couch"
+  ],
+  "date_published": "1999-02-20T06:34:41-05:00",
+  "date_modified": "2026-04-16T12:54:55-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT90M",
+  "total_time": "PT105M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 pounds lean ground beef",
+    "1 (46 fluid ounce) can tomato juice",
+    "1 (29 ounce) can tomato sauce",
+    "1.5 cups chopped onion",
+    "0.5 cup chopped celery",
+    "0.25 cup chopped green bell pepper",
+    "0.25 cup chili powder",
+    "2 teaspoons ground cumin",
+    "1.5 teaspoons garlic powder",
+    "1 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "0.5 teaspoon dried oregano",
+    "0.5 teaspoon white sugar",
+    "0.125 teaspoon ground cayenne pepper",
+    "2 cups canned red beans, drained and rinsed"
+  ],
+  "steps": [
+    {
+      "text": "Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add all ingredients to a large kettle. Bring to boil. Reduce heat and simmer for 1 to 1 1/2 hours, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FNNfhHL7LUFvUjpkhsPwZbfZckM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2324795-flatlander-chili-Rock_lobster-4x3-1-8709592d47b3412eb1b93fabbf671e0e.jpg"
+      ],
+      "image": "assets/images/13079/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "347 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1246 mg",
+    "sugarContent": "10 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "2499"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/PnrvBWnP-ma1DlVvV.mp4",
+    "description": "AR0507",
+    "duration": "PT3M26S",
+    "name": "Flatlander Chili",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/PnrvBWnP/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T02:40:33-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FNNfhHL7LUFvUjpkhsPwZbfZckM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2324795-flatlander-chili-Rock_lobster-4x3-1-8709592d47b3412eb1b93fabbf671e0e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13079/hero.webp",
+    "steps": [
+      null,
+      "assets/images/13079/step_02.webp"
+    ]
+  }
+}

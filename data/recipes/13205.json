@@ -1,0 +1,95 @@
+{
+  "id": "13205",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13205/vichyssoise/",
+  "requested_url": "https://www.allrecipes.com/recipe/13205/vichyssoise/",
+  "title": "Vichyssoise",
+  "description": "Vichyssoise is a smooth and creamy French soup made with leek and potatoes that&#39;s traditionally served chilled for a delicious summer appetizer.",
+  "authors": [
+    "Derek Parker"
+  ],
+  "date_published": "1999-04-17T10:10:38-04:00",
+  "date_modified": "2024-12-24T11:54:39-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT295M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 leeks, chopped",
+    "1 onion, chopped",
+    "2 tablespoons unsalted butter",
+    "0.75 cup thinly sliced potatoes",
+    "2.3333332538605 cups chicken stock",
+    "salt to taste",
+    "ground black pepper to taste",
+    "1.125 cups heavy whipping cream"
+  ],
+  "steps": [
+    {
+      "text": "Heat butter in a large saucepan over medium-low heat: add leeks and onions. Sauté until soft but not browned, about 8 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add potatoes and stock; season with salt and pepper to taste. Bring to a boil, reduce heat to low, and simmer gently for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Puree soup in a blender or food processor until very smooth. Set soup aside to cool; transfer into a bowl or a jug and refrigerate until chilled, at least 4 hours. Gently stir in cream before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "88 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "478 mg",
+    "sugarContent": "3 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ew2OsgsI1rq-w8N7hOYQlcNNHdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3034395-af1126d7e8cf44f8bede6dbd99245909.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13205/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

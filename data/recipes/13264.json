@@ -1,0 +1,90 @@
+{
+  "id": "13264",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13264/vermicelli-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13264/vermicelli-soup/",
+  "title": "Vermicelli Soup",
+  "description": "Fried vermicelli pasta is simmered in a tomato-garlic-onion puree in this Mexican-inspired sopa seca, or dry soup.",
+  "authors": [
+    "Kathy"
+  ],
+  "date_published": "1999-06-09T02:18:50-04:00",
+  "date_modified": "2024-12-06T14:34:06-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 ounces vermicelli pasta",
+    "2 tablespoons vegetable oil",
+    "2 cups water",
+    "0.25 yellow onion",
+    "2 tomatoes",
+    "1 clove garlic",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Using a large sauté pan, fry vermicelli in vegetable oil until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a food processor or blender, blend water, onion, tomatoes, garlic, and salt. Strain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour blended mixture over vermicelli and allow to simmer until all the liquid has been absorbed or evaporated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "242 kcal",
+    "carbohydrateContent": "41 g",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "5 mg",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/usWCTqC1JQdthoJeF90hl9sUX0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/964503-3b45df46ed074cb28d11e9d3b7c07625.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13264/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

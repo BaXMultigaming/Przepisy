@@ -1,0 +1,85 @@
+{
+  "id": "12957",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12957/kitchen-sink-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/12957/kitchen-sink-soup/",
+  "title": "Kitchen Sink Soup",
+  "description": "Beans, veggies, and everything but the kitchen sink goes into this hearty soup that’s inspired by the contents of your refrigerator.",
+  "authors": [
+    "Judy"
+  ],
+  "date_published": "1999-01-05T18:16:34-05:00",
+  "date_modified": "2025-01-01T15:26:43-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 cups chicken broth",
+    "1 head fresh broccoli, chopped",
+    "2 medium potatoes, cubed",
+    "2 medium carrots, sliced",
+    "2 stalks celery, diced",
+    "1 medium green bell pepper, chopped",
+    "1 medium parsnip, sliced",
+    "1 medium onion, chopped",
+    "5 fresh mushrooms, sliced",
+    "4 cups cauliflower florets",
+    "1 cup green peas",
+    "1 cup cut green beans, drained",
+    "1 cup wax beans, drained",
+    "0.5 cup cooked chickpeas",
+    "0.5 cup cooked navy beans",
+    "1 teaspoon dried parsley",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken broth, broccoli, potatoes, carrots, celery, bell pepper, parsnip, onion, and mushrooms in a large stockpot over medium heat. Stir in cauliflower, peas, green beans, wax beans, chickpeas, navy beans, and parsley; season with salt and pepper. Cover partially with a lid and cook until vegetables are tender, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "carbohydrateContent": "26 g",
+    "fiberContent": "7 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1008 mg",
+    "sugarContent": "6 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l1MMik4hQKxRJChhlkxkm3ipPN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/914126-dae1164a81ae4266820e2767f307018e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12957/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

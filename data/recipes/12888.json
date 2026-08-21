@@ -1,0 +1,92 @@
+{
+  "id": "12888",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12888/conh-chowdah-corn-chowder/",
+  "requested_url": "https://www.allrecipes.com/recipe/12888/conh-chowdah-corn-chowder/",
+  "title": "Conh Chowdah (Corn Chowder)",
+  "description": "This is a rich stew made with heavy cream, bacon and fresh corn.",
+  "authors": [
+    "Michelle Barr"
+  ],
+  "date_published": "1999-01-05T08:48:13-05:00",
+  "date_modified": "2025-04-27T18:11:08-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "5",
+    "6 - servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 white onion, chopped",
+    "4 slices bacon, diced",
+    "6 ears fresh corn",
+    "2 quarts heavy whipping cream",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Remove corn kernels from the ears of corn.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Saute bacon, onions, and corn in a medium pot until the onions are translucent and the bacon is crispy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the heavy cream. Heat through over medium low heat. Season with salt and pepper. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "892 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "288 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "49 g",
+    "sodiumContent": "279 mg",
+    "sugarContent": "5 g",
+    "fatContent": "85 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NHBeBxIIezOIS02DbeOoTIfnTco=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/472969-05d9ea2813174b9b830d2cd7e72e3e4f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12888/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "13363",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13363/old-fashioned-onion-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13363/old-fashioned-onion-soup/",
+  "title": "Old-Fashioned Onion Soup",
+  "description": "This recipe requires only four ingredients (onions, butter, French bread, and chicken broth), but you need to start simmering this soup ten to eighteen hours before you plan to serve it.",
+  "authors": [
+    "CORWYNN DARKHOLME"
+  ],
+  "date_published": "1999-08-01T21:10:09-04:00",
+  "date_modified": "2026-03-03T23:37:36-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT240M",
+  "total_time": "PT255M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds onions, sliced",
+    "0.5 cup butter, melted",
+    "7 slices French or Italian bread, cut into 1 inch cubes",
+    "4.5 cups chicken broth"
+  ],
+  "steps": [
+    {
+      "text": "Place sliced onions and butter into slow cooker, and mix until onions are thoroughly coated. Stir in bread and chicken broth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover, and cook on LOW for 10 to 18 hours or on HIGH 4 to 5 hours, stirring occasionally. Stir well during last hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "660 mg",
+    "sugarContent": "8 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nGKAmkYh6yLRyK4VUvFBa4EewIw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5784812-043dddcb2bb247f0b6fe0d14659c45ec.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13363/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "12975",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12975/hamburger-goulash/",
+  "requested_url": "https://www.allrecipes.com/recipe/12975/hamburger-goulash/",
+  "title": "Hamburger Goulash",
+  "description": "Hamburger goulash will warm you up anytime! Very good with cornbread or crackers.",
+  "authors": [
+    "Jackye Homeyer"
+  ],
+  "date_published": "1999-01-08T11:11:11-05:00",
+  "date_modified": "2022-11-18T01:48:01-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT80M",
+  "total_time": "PT95M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "4 potatoes, peeled and cubed",
+    "0.25 cup sliced onion",
+    "1.5 cups frozen corn kernels",
+    "1 (15 ounce) can cut green beans, drained",
+    "1 cup elbow macaroni",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "2 (8 ounce) cans tomato sauce",
+    "2 teaspoons Worcestershire sauce",
+    "1 teaspoon garlic salt",
+    "0.5 teaspoon dried basil"
+  ],
+  "steps": [
+    {
+      "text": "Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add all ingredients (except noodles) to browned ground meat and simmer for 1 hour, then add noodles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "334 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1021 mg",
+    "sugarContent": "6 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "176"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MMdl4BTPuSNRXuvFxE_mSmjlUFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8553687-hamburger-goulash-Dhal-Glad-4x3-1-0204647f2a294b099d3f470d2516ef83.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12975/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

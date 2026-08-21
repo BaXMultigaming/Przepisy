@@ -1,0 +1,88 @@
+{
+  "id": "13094",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13094/swiss-cheese-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13094/swiss-cheese-soup/",
+  "title": "Swiss Cheese Soup",
+  "description": "This garlicky veloute soup contains chicken broth and white wine thickened with a roux. A generous amount of grated Swiss cheese is melted into the flavorful broth immediately prior to serving.",
+  "authors": [
+    "Karena"
+  ],
+  "date_published": "1999-02-28T00:12:05-05:00",
+  "date_modified": "2022-10-17T18:16:32-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups chicken stock",
+    "10 cloves garlic, crushed",
+    "4 tablespoons unsalted butter",
+    "4 tablespoons all-purpose flour",
+    "0.5 cup white wine",
+    "2.5 cups shredded Swiss cheese"
+  ],
+  "steps": [
+    {
+      "text": "Place the stock in a large pot over high heat. Bring to a boil, stir in the garlic and reduce heat to low.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In separate skillet over medium heat, combine the butter and flour and stir well for a few minutes. Add the garlic and stock mixture along with the wine, stirring constantly. Bring to a boil to thicken.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in the cheese and serve immediately. (Do NOT allow to boil once cheese has been added, and do not allow to sit long or the cheese will separate out.)",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "282 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "89 mg",
+    "sugarContent": "1 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.3",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Teh2MDuGY3kN9ObIjdy83BVO6w4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/729022-ddfee83f89d1412bb06fdcea2c0d43b0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13094/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

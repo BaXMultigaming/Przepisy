@@ -1,0 +1,95 @@
+{
+  "id": "13226",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13226/creamy-chicken-peanut-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13226/creamy-chicken-peanut-soup/",
+  "title": "Creamy Chicken Peanut Soup",
+  "description": "This is a smooth soup made by combining chicken broth, peanut butter and heavy cream with sauteed onions and celery.",
+  "authors": [
+    "leia"
+  ],
+  "date_published": "1999-04-19T00:59:17-04:00",
+  "date_modified": "2022-07-14T17:39:29-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "9",
+    "10 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup margarine",
+    "1 cup chopped celery",
+    "0.33329999446869 cup chopped onion",
+    "3 (14.5 ounce) cans chicken broth",
+    "1 tablespoon all-purpose flour",
+    "1 cup crunchy peanut butter",
+    "2 cups heavy whipping cream"
+  ],
+  "steps": [
+    {
+      "text": "In a 4 quart saucepan saute celery and onion in butter overmedium-high heat. Saute until celery and onion are tender, approximately five minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat and add the flour and peanut butter, stirring until melted. Once melted gradually stir in chicken broth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return to medium-high heat and bring to boil for two minutes. Reduce heat and simmer uncovered approximately 10 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in heavy cream and heat through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "404 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "73 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "229 mg",
+    "sugarContent": "3 g",
+    "fatContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WQ99P3jBCAYnrMREXO_9plAO4uI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5010575-eb57d573c1d2485db95c9b21f7bb40e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13226/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

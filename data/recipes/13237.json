@@ -1,0 +1,87 @@
+{
+  "id": "13237",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13237/fishermans-catch-chowder/",
+  "requested_url": "https://www.allrecipes.com/recipe/13237/fishermans-catch-chowder/",
+  "title": "Fisherman&#39;s Catch Chowder",
+  "description": "A fisherman&#39;s dream soup with an abundance of vegetables, rosemary, and parsley.",
+  "authors": [
+    "CORWYNN DARKHOLME"
+  ],
+  "date_published": "1999-06-20T21:30:06-04:00",
+  "date_modified": "2019-04-02T02:37:02-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT480M",
+  "total_time": "PT495M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds cod fillets, cubed",
+    "1 (16 ounce) can whole peeled tomatoes, mashed",
+    "1 (8 ounce) jar clam juice",
+    "0.5 cup chopped onion",
+    "0.5 cup chopped celery",
+    "0.5 cup chopped carrots",
+    "0.5 cup dry white wine",
+    "0.25 cup chopped fresh parsley",
+    "0.25 teaspoon dried rosemary",
+    "1 teaspoon salt",
+    "3 tablespoons all-purpose flour",
+    "3 tablespoons butter, melted",
+    "0.33333334326744 cup light cream"
+  ],
+  "steps": [
+    {
+      "text": "In a slow cooker, stir together the cod, tomatoes, clam juice, onion, celery, carrots, wine, parsley, rosemary, and salt. Cover, and cook on Low 7 to 8 hours or on High 3 to 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "One hour prior to serving, mix flour, butter, and light cream in a small bowl. Stir into the slow cooker until the fish mixture is thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "344 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "117 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1064 mg",
+    "sugarContent": "5 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "68"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8GpCiy6WRGLS47nQmo9hv993FzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1125377-5eb54ec0a16c44028f37db7a3e012528.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13237/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

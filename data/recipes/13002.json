@@ -1,0 +1,94 @@
+{
+  "id": "13002",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13002/baked-potato-soup-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/13002/baked-potato-soup-ii/",
+  "title": "Baked Potato Soup II",
+  "description": "Cubes of cooked potato are added with sour cream to a pot of roux-thickened milk in this soup which is garnished with cheddar cheese and chives.",
+  "authors": [
+    "JW fa"
+  ],
+  "date_published": "1999-02-03T15:39:02-05:00",
+  "date_modified": "2022-08-04T11:43:10-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "5",
+    "6 - servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Entree",
+    "Side Dish",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33300000429153 cup butter",
+    "0.33333298563957 cup all-purpose flour",
+    "4 cups skim milk",
+    "6 large baking potatoes, scrubbed",
+    "1 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Microwave potatoes until done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While potatoes are cooking make a roux over low to medium heat. Mix butter, margarine, or light olive oil, and flour. DO NOT BURN THE ROUX. When roux is thickened a bit, gradually blend in milk. Continue cooking over low to medium heat while preparing potatoes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Peel and cut up potatoes. You may want to mash some of the potatoes also. Add potatoes to the milk mixture. Blend in sour cream. Soup is ready to be served.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "645 kcal",
+    "carbohydrateContent": "95 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "221 mg",
+    "sugarContent": "13 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "134"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QOgnGhmEA7N204BNXmULFsXLlKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6570197_baked-potato-soup-ii_Yoly_4x3-a688d18ec94640d48c2aa3a76bafae68.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13002/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

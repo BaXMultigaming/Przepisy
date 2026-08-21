@@ -1,0 +1,106 @@
+{
+  "id": "13161",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13161/tom-ka-gai-coconut-chicken-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13161/tom-ka-gai-coconut-chicken-soup/",
+  "title": "Tom Ka Gai (Coconut Chicken Soup)",
+  "description": "Coconut milk and lime juice seasoned with ginger root and cayenne pepper create a spicy broth for this Thai-inspired soup with strips of white chicken, cilantro and chopped scallions.",
+  "authors": [
+    "MARBALET"
+  ],
+  "date_published": "1999-03-29T15:21:43-05:00",
+  "date_modified": "2022-08-04T10:02:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Thai"
+  ],
+  "regions": [
+    "Thai"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 pound boneless, skinless chicken meat",
+    "3 tablespoons vegetable oil",
+    "2 (14 ounce) cans coconut milk",
+    "2 cups water",
+    "2 tablespoons minced fresh ginger root",
+    "4 tablespoons fish sauce",
+    "0.25 cup fresh lime juice",
+    "0.25 teaspoon cayenne pepper",
+    "0.5 teaspoon ground turmeric",
+    "2 tablespoons thinly sliced green onion",
+    "1 tablespoon chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Cut chicken into thin strips and saute in oil for to 2 to 3 minutes until the chicken turns white.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a pot, bring coconut milk and water to a boil. Reduce heat. Add ginger, fish sauce, lime juice, cayenne powder and turmeric. Simmer until the chicken is done, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle with scallions and fresh cilantro and serve steaming hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/R-5EPTqpjdx7RDHVW0AW6PZ_21k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7670-9fc921333833416f8285fd685b96262c.jpg"
+      ],
+      "image": "assets/images/13161/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "433 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "27 g",
+    "sodiumContent": "787 mg",
+    "sugarContent": "1 g",
+    "fatContent": "41 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "317"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/IrpynR7s-K3AjnAEN.mp4",
+    "description": "Cayenne pepper, green onion, fresh ginger, and turmeric make this a satisfying,\nwarm, and healthy soup that’s excellent all year round! Top it off with a squeeze \nof lime, and what a delectable soup that’s a favorite to many!",
+    "duration": "PT1M31S",
+    "name": "Tom Ka Gai Coconut Chicken Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/IrpynR7s/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T02:33:06-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/R-5EPTqpjdx7RDHVW0AW6PZ_21k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7670-9fc921333833416f8285fd685b96262c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13161/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/13161/step_03.webp"
+    ]
+  }
+}

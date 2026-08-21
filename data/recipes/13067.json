@@ -1,0 +1,109 @@
+{
+  "id": "13067",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13067/the-ultimate-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/13067/the-ultimate-chili/",
+  "title": "The Ultimate Chili",
+  "description": "Red wine in chili adds intense flavor! This chili is big on taste with beef, beans, veggies, and spices, and the wine really kicks it up a notch.",
+  "authors": [
+    "Wendy"
+  ],
+  "date_published": "1999-02-20T15:26:01-05:00",
+  "date_modified": "2025-12-26T08:18:26-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT365M",
+  "total_time": "PT380M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Tex-Mex"
+  ],
+  "regions": [
+    "Tex-Mex"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "salt and pepper to taste",
+    "3 (15 ounce) cans dark red kidney beans",
+    "3 (14.5 ounce) cans Mexican-style stewed tomatoes",
+    "2 stalks celery, chopped",
+    "1 red bell pepper, chopped",
+    "0.25 cup red wine vinegar",
+    "2 tablespoons chili powder",
+    "1 teaspoon ground cumin",
+    "1 teaspoon dried parsley",
+    "1 teaspoon dried basil",
+    "1 dash Worcestershire sauce",
+    "0.5 cup red wine"
+  ],
+  "steps": [
+    {
+      "text": "Cook and stir ground beef in a large skillet over medium-high heat until evenly browned, 5 to 7 minutes. Drain off grease, then season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer beef to a slow cooker. Add kidney beans, tomatoes, celery, bell pepper, and vinegar. Season with chili powder, cumin, parsley, basil, and Worcestershire sauce. Stir to distribute ingredients evenly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on Low for 8 hours or High for 6 hours. Pour in wine during the last 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Q6E8IQRVSs8V9IqqnP8ilm9MNqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1003997-950539aec61f4bd8810413720ded6c71.jpg"
+      ],
+      "image": "assets/images/13067/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "414 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "17 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1015 mg",
+    "sugarContent": "9 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "488"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/0Ozrtx8C-K3AjnAEN.mp4",
+    "description": "A tangy, spicy ground beef and kidney bean chili you make in the slow cooker.",
+    "duration": "PT2M31S",
+    "name": "The Ultimate Chili",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/0Ozrtx8C/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T23:15:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Q6E8IQRVSs8V9IqqnP8ilm9MNqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1003997-950539aec61f4bd8810413720ded6c71.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13067/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/13067/step_03.webp"
+    ]
+  }
+}

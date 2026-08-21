@@ -1,0 +1,81 @@
+{
+  "id": "13106",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13106/peanut-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13106/peanut-soup/",
+  "title": "Peanut Soup",
+  "description": "An interesting and nutty soup that&#39;s also very rich.",
+  "authors": [
+    "Michelle Chen"
+  ],
+  "date_published": "1999-03-04T22:05:37-05:00",
+  "date_modified": "2025-02-24T08:48:52-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "World",
+    "American"
+  ],
+  "regions": [
+    "World",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons margarine",
+    "3 tablespoons minced onion",
+    "1 clove garlic, minced",
+    "1 tablespoon all-purpose flour",
+    "1 cup heavy whipping cream",
+    "1 cup peanut butter",
+    "0.5 cup ground peanuts",
+    "4 cups chicken broth",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a heavy soup pot melt the butter. Add the onion, garlic, flour and peanut butter. Stir until very smooth. Beat in the stock and season well with salt and pepper. Simmer over low heat until thick, about 20 minutes. Stir in the cream and heat through. Serve warm with ground peanuts.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "557 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "805 mg",
+    "sugarContent": "5 g",
+    "fatContent": "50 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d0kKOO-dgPWBUSIa7I1LONga2do=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5250833-a450fefc31384abd96f1382042c1c88e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13106/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

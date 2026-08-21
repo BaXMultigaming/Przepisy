@@ -1,0 +1,97 @@
+{
+  "id": "12991",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12991/tomato-curry-lentil-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/12991/tomato-curry-lentil-stew/",
+  "title": "Tomato-Curry Lentil Stew",
+  "description": "In this recipe serving two, dried lentils are cooked with garlic and stewed tomatoes in curry seasoned broth with onions and celery.",
+  "authors": [
+    "Robin Oswald"
+  ],
+  "date_published": "1999-01-29T12:01:35-05:00",
+  "date_modified": "2024-12-06T02:42:43-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT50M",
+  "total_time": "PT60M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup dry lentils",
+    "1 cup water",
+    "5 ounces stewed tomatoes",
+    "0.125 cup chopped onion",
+    "2 stalks celery, chopped, with leaves",
+    "0.25 teaspoon curry powder",
+    "3 cloves garlic, minced",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine lentils and water, bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lower heat to simmer, add tomatoes, onion, and celery. Cover and let simmer 45 minutes. Check every 15 minutes to stir, and add water if necessary. Add spices last 15 minutes to taste. Taste and re-spice if necessary before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/nOC6Y6WKsxP3hkZU9e9DJCS6aWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-83-601c2b3aa0f543ce9dadc12f0197a008.jpg"
+      ],
+      "image": "assets/images/12991/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "16 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "194 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "277"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/tZqTyQ4l-ma1DlVvV.mp4",
+    "description": "AR0850",
+    "duration": "PT2M26S",
+    "name": "Tomato Curry Lentil Stew",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/tZqTyQ4l/poster.jpg?width=1280",
+    "uploadDate": "2020-11-18T15:48:49-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nOC6Y6WKsxP3hkZU9e9DJCS6aWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-83-601c2b3aa0f543ce9dadc12f0197a008.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12991/hero.webp",
+    "steps": [
+      null,
+      "assets/images/12991/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "12886",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12886/cream-of-broccoli-cheese-soup-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/12886/cream-of-broccoli-cheese-soup-i/",
+  "title": "Cream of Broccoli Cheese Soup I",
+  "description": "This is a chicken stock and milk based soup with wide egg noodles, processed American cheese, and broccoli florets.",
+  "authors": [
+    "Lisa"
+  ],
+  "date_published": "1999-01-04T14:28:20-05:00",
+  "date_modified": "2022-10-17T18:20:31-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "7",
+    "8 - servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66670000553131 cup chopped onion",
+    "1 tablespoon margarine",
+    "5 cups chicken broth",
+    "1 (8 ounce) package wide egg noodles",
+    "1 (10 ounce) package frozen chopped broccoli",
+    "1 clove garlic, minced",
+    "6 cups milk",
+    "12 ounces shredded American cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, saute onion and garlic in butter or margarine over medium heat till tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add broth, and bring to a boil. Reduce heat, and add noodles. Cook for 3 to 4 minutes. Stir in broccoli. Cover, and cook for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in milk and cheese. Heat slowly, stirring, till cheese melts. DO NOT BOIL. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "483 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "97 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "1450 mg",
+    "sugarContent": "12 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CYAtEeOc9IAShqBQAqdHjeHZbes=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26090-7893b59a7cd34e4180094551a65cc022.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12886/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

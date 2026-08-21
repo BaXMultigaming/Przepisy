@@ -1,0 +1,101 @@
+{
+  "id": "12899",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12899/vegetable-chowder/",
+  "requested_url": "https://www.allrecipes.com/recipe/12899/vegetable-chowder/",
+  "title": "Vegetable Chowder",
+  "description": "This vegetable chowder recipe is full of veggies, cooked in chicken or vegetable broth, and combined with a creamy cheddar cheese mixture with parsley.",
+  "authors": [
+    "TALL MOM"
+  ],
+  "date_published": "1999-01-12T22:55:56-05:00",
+  "date_modified": "2026-03-25T12:54:55-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup margarine",
+    "0.5 cup chopped red bell pepper",
+    "0.5 cup chopped onion",
+    "3 cups water",
+    "1 cup chopped celery",
+    "1 cup diced carrots",
+    "1 cup cauliflower, chopped",
+    "1 cup fresh chopped broccoli",
+    "3 cubes chicken bouillon",
+    "salt to taste",
+    "ground black pepper to taste",
+    "1.5 cups milk",
+    "0.5 cup all-purpose flour",
+    "1 tablespoon chopped fresh parsley",
+    "3 cups shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt margarine in a Dutch oven or soup pot over medium-high heat. Add bell pepper and onion; cook until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add water, celery, carrots, cauliflower, broccoli, bouillon cubes, salt, and black pepper; bring to a boil. Reduce heat; simmer, covered, until vegetables are tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk milk and flour together in a bowl until smooth; stir into soup. Bring soup to a boil; cook and stir 2 minutes. Stir in parsley. Just before serving, stir in Cheddar cheese until melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "341 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "55 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "927 mg",
+    "sugarContent": "5 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "321"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4zeAewty7Ipn-136hxIML1OsK4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2525491-65385eee2f6645fd8b53f2f2c6e37ccc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12899/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

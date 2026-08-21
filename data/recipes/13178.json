@@ -1,0 +1,95 @@
+{
+  "id": "13178",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13178/creamy-string-bean-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13178/creamy-string-bean-soup/",
+  "title": "Creamy String Bean Soup",
+  "description": "String beans are cooked in salted water with potatoes, sauteed onions, vinegar and a clove of garlic in this German soup thickened with sour cream.",
+  "authors": [
+    "MARBALET"
+  ],
+  "date_published": "1999-03-30T08:40:18-05:00",
+  "date_modified": "2024-12-06T02:09:41-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can cut green beans",
+    "4 potatoes, diced",
+    "2 tablespoons distilled white vinegar",
+    "1 clove garlic",
+    "1 cup sour cream",
+    "salt and pepper to taste",
+    "2 tablespoons all-purpose flour",
+    "0.25 cup water",
+    "1 yellow onion, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Cook potatoes in salted water. When half done, add beans, vinegar, pepper and garlic (spear on toothpick for easy finding). Add onion. Simmer until potatoes are done. Remove garlic glove.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the flour and 1/4 cup water and make a smooth paste. Thicken soup with the flour paste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat. Slowly stir in sour cream. Do not cook any further. Stir in cooked and diced Mettwurst or other German sausage just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "221 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "228 mg",
+    "sugarContent": "3 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NEDoPJDh3eQASPhRqS2FFaycBo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1041459-655b4b73669f4fb0912181d0facb37cb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13178/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

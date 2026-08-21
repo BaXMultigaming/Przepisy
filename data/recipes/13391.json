@@ -1,0 +1,73 @@
+{
+  "id": "13391",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13391/strawberry-soup-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/13391/strawberry-soup-iii/",
+  "title": "Strawberry Soup III",
+  "description": "Strawberries are blended with buttermilk in this chilled soup sweetened to taste with white sugar.",
+  "authors": [
+    "Elissa"
+  ],
+  "date_published": "1999-08-20T13:06:25-04:00",
+  "date_modified": "2022-07-14T17:28:21-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups strawberries",
+    "1 cup buttermilk",
+    "1 teaspoon granulated sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place strawberries and buttermilk into a blender or food processor and puree. Sweeten with sugar to taste, blend and either serve immediately or chill in the refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "52 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "8 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4ERYz2YbK2wo9VBnwzBgFD2-yzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberry-Soup-III-1-2000-3a22b02307214f889fe0895a5cd795b6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13391/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

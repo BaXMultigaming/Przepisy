@@ -1,0 +1,94 @@
+{
+  "id": "13258",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13258/white-stock/",
+  "requested_url": "https://www.allrecipes.com/recipe/13258/white-stock/",
+  "title": "White Stock",
+  "description": "This boiled chicken and veal stock with turnip, carrot, onion, and celery can be used as a base for a variety of soups and sauces.",
+  "authors": [
+    "Andrew Chinn"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-12-18T13:10:54-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT300M",
+  "total_time": "PT360M",
+  "yield": [
+    "12",
+    "12 cups"
+  ],
+  "categories": [
+    "Ingredient"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds chicken",
+    "1 veal knuckle",
+    "2 stalks celery",
+    "1 yellow onion",
+    "1 turnip",
+    "1 carrots",
+    "2 teaspoons salt",
+    "4 quarts water"
+  ],
+  "steps": [
+    {
+      "text": "Cut veal from bone.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine water, veal meat, veal bone, chicken, vegetables, and salt in a stock pot. Bring to a boil. Reduce heat, cover, and simmer for 5 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Strain stock, and let cool. Discard vegetables and bones, use veal and chicken as desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "111 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "455 mg",
+    "sugarContent": "1 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wOX7JrRniFTD-rVm6ms8BnMH8uU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/whitestockrecipe-4284ed6618074ba69135cd10ea07ee9c.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/13258/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "12732",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12732/fish-chowder/",
+  "requested_url": "https://www.allrecipes.com/recipe/12732/fish-chowder/",
+  "title": "Fish Chowder",
+  "description": "This fish chowder recipe makes a rich and comforting soup with fresh cod, clam juice, potatoes, and crispy bacon in a delicious creamy broth.",
+  "authors": [
+    "AMYTHE"
+  ],
+  "date_published": "1999-06-26T17:32:05-04:00",
+  "date_modified": "2026-08-10T15:28:47-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "2 cups chopped onion",
+    "4 fresh mushrooms, sliced",
+    "1 stalk celery, chopped",
+    "4 cups chicken stock",
+    "4 cups diced potatoes",
+    "2 pounds cod, diced into 1/2 inch cubes",
+    "1 cup clam juice",
+    "0.5 cup all-purpose flour",
+    "0.125 teaspoon Old Bay Seasoning TM, or to taste",
+    "salt and ground black pepper to taste",
+    "2 (12 fluid ounce) cans evaporated milk",
+    "0.25 cup cooked crumbled bacon"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large stockpot over medium heat. Sauté onions, mushrooms, and celery in butter until tender. Add chicken stock and potatoes; simmer for 10 minutes. Add fish; simmer for another 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix together clam juice and flour in a small bowl until smooth; stir into soup and simmer for 1 minute. Season with Old Bay, salt, and pepper. Remove from heat and stir in evaporated milk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Portion into soup bowls and top with crumbled bacon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JuxWARD9NsQd12piMm9i8MBNedk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12732-fish-chowder-PICS-Beauty-4x3-b22871f4954d4b8e9d90cd0404c9893b.jpg"
+      ],
+      "image": "assets/images/12732/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "386 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "84 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "748 mg",
+    "sugarContent": "12 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "690"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/wQveM74E-ma1DlVvV.mp4",
+    "description": "AR1221",
+    "duration": "PT2M50S",
+    "name": "Fish Chowder",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wQveM74E/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T02:59:22-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JuxWARD9NsQd12piMm9i8MBNedk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12732-fish-chowder-PICS-Beauty-4x3-b22871f4954d4b8e9d90cd0404c9893b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12732/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/12732/step_03.webp"
+    ]
+  }
+}

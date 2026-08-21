@@ -1,0 +1,90 @@
+{
+  "id": "13189",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13189/beefy-lentil-vegetable-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13189/beefy-lentil-vegetable-soup/",
+  "title": "Beefy Lentil Vegetable Soup",
+  "description": "Lentils and ground beef are simmered with carrots, onion and celery in a vegetable juice and beef bouillon broth with Worcestershire sauce and canned mushrooms.",
+  "authors": [
+    "ILDeb"
+  ],
+  "date_published": "1999-04-09T08:39:43-04:00",
+  "date_modified": "2025-02-14T14:20:11-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "7",
+    "8 - servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1.5 cups dry lentils, rinsed",
+    "1 cup chopped carrots",
+    "1 cup chopped onion",
+    "1 cup chopped celery",
+    "3 cups water",
+    "1 teaspoon salt",
+    "ground black pepper to taste",
+    "2 cubes beef bouillon cube",
+    "6 cups tomato-vegetable juice cocktail",
+    "1 (4.5 ounce) can mushrooms, drained",
+    "1 dash Worcestershire sauce"
+  ],
+  "steps": [
+    {
+      "text": "Brown beef; break meat into small pieces while cooking. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place meat in a big pot with lid. Add lentils, vegetables, water, salt, pepper, bouillon, vegetable juice, mushrooms, and Worcestershire sauce. Cook on high until it boils. Reduce heat to low, and cover. Simmer for about 1 1/2 to 2 hours, or until lentils are tender. Stir occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "385 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "16 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1262 mg",
+    "sugarContent": "9 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "134"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SbOLJK1__a7rVsxP2WVfjt36bAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/42603-145363419e6343b18fa88769b42cb00d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13189/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

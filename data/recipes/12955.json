@@ -1,0 +1,87 @@
+{
+  "id": "12955",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12955/hamburger-soup-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/12955/hamburger-soup-ii/",
+  "title": "Hamburger Soup II",
+  "description": "A slow-cooked soup that makes a hearty and satisfying meal.",
+  "authors": [
+    "Cindy Granger"
+  ],
+  "date_published": "1999-01-04T21:39:50-05:00",
+  "date_modified": "2024-11-24T00:37:19-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT505M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds lean ground beef",
+    "2 large potatoes, sliced",
+    "2 stalks celery, sliced",
+    "salt and pepper to taste",
+    "2 onions, thinly sliced",
+    "1 (15 ounce) can peas",
+    "3 small carrots, sliced",
+    "1 (10.75 ounce) can condensed tomato soup",
+    "1.25 cups water"
+  ],
+  "steps": [
+    {
+      "text": "Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place a the potatoes in a layer to cover the bottom of the slow cooker. Sprinkle the celery over the potatoes, and cover with a layer of ground beef. Season each layer with salt and pepper. Throw in the carrots, onions and peas. Mix together the tomato soup and water, and pour over the top. Cover, and set to low for 6 to 8 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "492 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "530 mg",
+    "sugarContent": "10 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "238"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4Hk22l9Vrp70rD5eHcQQ823WxYU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/771601-d481b68fccda427d9033b78dbd62a469.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12955/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

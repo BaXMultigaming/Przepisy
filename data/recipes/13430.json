@@ -1,0 +1,84 @@
+{
+  "id": "13430",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13430/santa-fe-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13430/santa-fe-soup/",
+  "title": "Santa Fe Soup",
+  "description": "This Santa Fe soup recipe combines browned ground beef with processed cheese, tomatoes, corn kernels, and canned ranch-style beans for easy comfort.",
+  "authors": [
+    "Sammye"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-10-30T11:42:41-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "2 (15 ounce) cans ranch-style beans",
+    "1 pound processed cheese food (eg. Velveeta), cubed",
+    "1 (15.25 ounce) can whole kernel corn",
+    "1 (14.5 ounce) can peeled and diced tomatoes",
+    "1 (10 ounce) can diced tomatoes with green chile peppers",
+    "1 onion, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine browned beef, tomatoes with liquid, stewed tomatoes with chilies, corn with liquid, Ranch-style beans with liquid, cubed processed cheese, and onion in a large pot. Simmer on low heat until cheese is melted and the onion is tender. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "455 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "72 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1827 mg",
+    "sugarContent": "9 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "80"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Rh98r0TL6ccuiLl1E6IWZeKZG5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51110-e8773ad0edae43e2baacd6e7e1bb91d4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13430/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

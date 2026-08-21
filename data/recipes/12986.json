@@ -1,0 +1,84 @@
+{
+  "id": "12986",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12986/cream-of-fresh-tomato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/12986/cream-of-fresh-tomato-soup/",
+  "title": "Cream of Fresh Tomato Soup",
+  "description": "This homemade tomato soup is made with fresh tomatoes, a roux, and milk.",
+  "authors": [
+    "Karen Gibson"
+  ],
+  "date_published": "1999-01-09T16:16:07-05:00",
+  "date_modified": "2024-12-10T18:13:26-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large tomatoes, chopped",
+    "0.5 cup chopped onion",
+    "0.5 teaspoon white sugar",
+    "salt and ground black pepper to taste",
+    "2 tablespoons butter",
+    "2 tablespoons all-purpose flour",
+    "2 cups milk"
+  ],
+  "steps": [
+    {
+      "text": "Bring tomatoes, onion, sugar, salt, and pepper to a simmer in a saucepan over medium heat; cook until onion is soft, 5 to 10 minutes. Strain broth into a bowl; discard any solids.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a saucepan over medium-low heat. Stir in flour and cook until fragrant, about 3 minutes. Slowly whisk in milk and cook until thickened, 5 to 7 minutes. Stir in strained tomato broth and cook until heated through, 5 to 6 minutes. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "298 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "235 mg",
+    "sugarContent": "19 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "132"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VeqXQ9T0xo0dZZhp7ydnNvtQq7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4041881-54da08b345e34f21862fec1b90ab6245.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12986/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

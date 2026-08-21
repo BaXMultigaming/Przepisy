@@ -1,0 +1,95 @@
+{
+  "id": "13197",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13197/green-bean-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13197/green-bean-soup/",
+  "title": "Green Bean Soup",
+  "description": "Green beans are combined with bacon, and sour cream in this thick Transylvanian soup.",
+  "authors": [
+    "Jamie Elliott"
+  ],
+  "date_published": "1999-03-29T12:22:02-05:00",
+  "date_modified": "2026-03-17T11:58:42-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Eastern European"
+  ],
+  "regions": [
+    "Eastern European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds fresh green beans",
+    "1 clove garlic, minced",
+    "1 sprig fresh parsley",
+    "1 pinch salt",
+    "2 slices bacon",
+    "3 tablespoons all-purpose flour",
+    "1 onion, chopped",
+    "1 cup sour cream",
+    "3 tablespoons vinegar"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over medium heat, combine green beans, garlic, parsley, salt and water to cover and cook until beans are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fry bacon until crisp, set aside. Add onion and flour to bacon grease, stirring until smooth and brown. Add some water from the beans, stirring slowly and constantly to prevent lumps.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook to thicken a bit, then add it to the bean soup and bring to a boil. Stir crisp bacon, sour cream and vinegar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "111 mg",
+    "sugarContent": "3 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_Ibf9hHMqb05BMwz35TXqvaNRfc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9442382-green-bean-soup-Durrant-4x3-1-f09b05b47d81427286badb86002b97bf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13197/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "12870",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12870/ahi-poke-basic/",
+  "requested_url": "https://www.allrecipes.com/recipe/12870/ahi-poke-basic/",
+  "title": "Ahi Tuna Poke",
+  "description": "This easy poke recipe is a Hawaiian salad of cubed ahi tuna tossed with soy sauce, sesame oil, and green onions for a dish full of umami flavor.",
+  "authors": [
+    "Josh Chan"
+  ],
+  "date_published": "1999-11-19T20:14:53-05:00",
+  "date_modified": "2026-01-21T15:54:39-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "4",
+    "4 main course servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "regions": [
+    "Hawaiian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 pounds fresh tuna steaks, cubed",
+    "1 cup soy sauce",
+    "0.75 cup chopped green onions",
+    "2 tablespoons sesame oil",
+    "2 tablespoons finely chopped macadamia nuts",
+    "1 tablespoon toasted sesame seeds",
+    "1 tablespoon crushed red pepper"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/cJdcsPT15w0l3ieFN5ySmgq3eGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-AhiPokeBasicRecipe-mfs-Step-1-4x3-2e6d7ecab450414789de0a48ab82e426.jpg"
+      ],
+      "image": "assets/images/12870/step_01.webp"
+    },
+    {
+      "text": "Place tuna in a medium non-reactive bowl. Add soy sauce, green onions, sesame oil, sesame seeds, macadamia nuts, and red pepper flakes; mix well. Cover and refrigerate at least 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2o9l8rqwLIvucOyjrPG-jN7LYHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-AhiPokeBasicRecipe-mfs-Step-3-4x3-a1787468867a4bbf84711e7d74de792e.jpg"
+      ],
+      "image": "assets/images/12870/step_02.webp"
+    },
+    {
+      "text": "Serve over rice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/K6R7Al6Yjd0clq9EcCYtXkW7_MA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-ahi-tuna-poke-beauty1-4x3-dea05e5e824b4b1987f78202887da37a.jpg"
+      ],
+      "image": "assets/images/12870/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "396 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "102 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "58 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "3696 mg",
+    "sugarContent": "2 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "194"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/yIfGGego-K3AjnAEN.mp4",
+    "description": "In this video, learn how to make authentic poke, a refreshing Hawaiian seafood salad of cubed ahi tuna steak covered with soy sauce, sesame oil, and green onions. Simply mix all the ingredients in a bowl, and marinate in the fridge for about two hours. This dish makes a fantastic healthy protein packed snack, and it’s filling enough to serve as a light meal when served in a poke bowl with other ingredients — like rice, vegetables, and hot sauce.",
+    "duration": "PT45S",
+    "name": "How to Make Ahi Poke",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/yIfGGego/thumbnails/Os6a1OG3.jpg?width=1280",
+    "uploadDate": "2023-12-14T11:36:01-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/K6R7Al6Yjd0clq9EcCYtXkW7_MA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12870-ahi-tuna-poke-beauty1-4x3-dea05e5e824b4b1987f78202887da37a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12870/hero.webp",
+    "steps": [
+      "assets/images/12870/step_01.webp",
+      "assets/images/12870/step_02.webp",
+      "assets/images/12870/step_03.webp"
+    ]
+  }
+}

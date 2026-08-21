@@ -1,0 +1,75 @@
+{
+  "id": "13104",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13104/strawberry-soup-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/13104/strawberry-soup-i/",
+  "title": "Simple Strawberry Soup",
+  "description": "Strawberries and plain yogurt are pureed with sugar, orange juice, and ground cardamom in this recipe for a refreshing chilled summer soup.",
+  "authors": [
+    "Michelle Young"
+  ],
+  "date_published": "1999-03-08T12:13:44-05:00",
+  "date_modified": "2025-04-16T07:48:17-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT125M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pints strawberries",
+    "2 cups plain yogurt",
+    "0.5 cup orange juice",
+    "0.5 cup white sugar",
+    "0.5 cup water",
+    "0.125 teaspoon ground cardamom"
+  ],
+  "steps": [
+    {
+      "text": "Combine strawberries, yogurt, orange juice, sugar, water, and cardamom in a blender; purée until well mixed. Chill in the refrigerator before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "70 mg",
+    "sugarContent": "36 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "164"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BTYd_6GQVv5IzbBtVZXTmvo0Pvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2106-1ef75be25a2f4717a5ff5b86859de17f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13104/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

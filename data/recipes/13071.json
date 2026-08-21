@@ -1,0 +1,92 @@
+{
+  "id": "13071",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13071/ham-potato-and-cheese-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13071/ham-potato-and-cheese-soup/",
+  "title": "Ham, Potato, and Cheese Soup",
+  "description": "This ham, potato, and cheese soup is made with milk and seasoned with pepper. Paired with hot rolls, it is the perfect dish for a cold winter night.",
+  "authors": [
+    "Donna"
+  ],
+  "date_published": "1999-02-22T21:06:52-05:00",
+  "date_modified": "2024-11-25T20:00:05-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT40M",
+  "total_time": "PT70M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 potatoes, peeled and cubed",
+    "2 large onions, finely chopped",
+    "2 pounds processed cheese food (eg. Velveeta)",
+    "1 pound chopped ham",
+    "ground black pepper to taste",
+    "3.5 tablespoons all-purpose flour",
+    "1 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes, onion, and cubed ham in large stockpot. Cover with water. Cook until potatoes are almost tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove about one cup of cooked potatoes and mash in a bowl with the back of a fork. Add some of the liquid from the pan (about a tablespoon at a time) along with the flour till you have a thick paste. Add this back to the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place cheese (either whole of cubed) in the pot. Let soup simmer until cheese melts and is thick. Add ground black pepper to taste and stir in milk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "321 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1294 mg",
+    "sugarContent": "8 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "275"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/34lEjNfMXDTNvWAn5SCI70ovjSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13071-Ham-Potato-and-Cheese-Soup-Tammy-Lynn-2000-4b47d6e5a38b483da81c698051824fcc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13071/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

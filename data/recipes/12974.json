@@ -1,0 +1,105 @@
+{
+  "id": "12974",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12974/butternut-squash-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/12974/butternut-squash-soup/",
+  "title": "Butternut Squash Soup with Cream Cheese",
+  "description": "This butternut squash soup with cream cheese is blended for a smooth and creamy texture. Marjoram and cayenne pepper add even more delicious flavor.",
+  "authors": [
+    "Mary"
+  ],
+  "date_published": "1999-01-07T19:13:47-05:00",
+  "date_modified": "2026-03-25T08:51:59-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT30M",
+  "total_time": "PT55M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons margarine",
+    "6 cups peeled and cubed butternut squash",
+    "6 tablespoons chopped onion",
+    "3 cups water",
+    "4 cubes chicken bouillon",
+    "0.5 teaspoon dried marjoram",
+    "0.25 teaspoon ground black pepper",
+    "0.125 teaspoon ground cayenne pepper",
+    "2 (8 ounce) packages cream cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt margarine in a large saucepan over medium-low heat. Add onion and sauté until soft and translucent, about 5 minutes. Add butternut squash, water, bouillon, marjoram, black pepper, and cayenne pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring to a boil over medium-high heat; reduce heat and simmer until squash is tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Purée squash mixture and cream cheese in a blender or food processor in batches until smooth. Return to saucepan and cook until just heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JXOa4dNWdtfEEtWNglxezCcRGSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/195750-99bf67de50344f0c8a6c8b273d6ed163.jpg"
+      ],
+      "image": "assets/images/12974/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "398 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "1081 mg",
+    "sugarContent": "4 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "3374"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/SOunKRP2-ma1DlVvV.mp4",
+    "description": "AR0233",
+    "duration": "PT2M9S",
+    "name": "Butternut Squash Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/SOunKRP2/poster.jpg?width=1280",
+    "uploadDate": "2021-07-05T10:53:34-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JXOa4dNWdtfEEtWNglxezCcRGSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/195750-99bf67de50344f0c8a6c8b273d6ed163.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12974/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/12974/step_03.webp"
+    ]
+  }
+}

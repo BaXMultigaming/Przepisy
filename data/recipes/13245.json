@@ -1,0 +1,78 @@
+{
+  "id": "13245",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13245/broccoli-cheese-soup-iv/",
+  "requested_url": "https://www.allrecipes.com/recipe/13245/broccoli-cheese-soup-iv/",
+  "title": "Broccoli Cheese Soup IV",
+  "description": "Red onion sauteed in margarine is combined with broccoli florets in a soup made with milk, cream cheese and processed American cheese food.",
+  "authors": [
+    "wendy"
+  ],
+  "date_published": "1999-01-10T00:06:53-05:00",
+  "date_modified": "2022-07-14T16:33:22-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup chopped red onion",
+    "1 tablespoon margarine",
+    "2.5 cups milk",
+    "1 (8 ounce) package cream cheese, softened",
+    "1 pound processed cheese, cubed",
+    "1 (10 ounce) package frozen chopped broccoli"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter or margarine over medium heat in a 2 quart saucepan. Cook and stir onions in butter or margarine until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add milk and cream cheese; stirring until cream cheese melts. Stir in cheese food and broccoli. Stir until cheese food melts, and soup is heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "556 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "132 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "25 g",
+    "sodiumContent": "1373 mg",
+    "sugarContent": "14 g",
+    "fatContent": "43 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "62"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gAI9dHW6n2WtnrGvitUW7MnXdkQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/356235-265d8240aee147dd9839f5626064ca59.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13245/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

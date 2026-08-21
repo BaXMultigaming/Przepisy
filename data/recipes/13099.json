@@ -1,0 +1,83 @@
+{
+  "id": "13099",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13099/potato-soup-with-a-kick/",
+  "requested_url": "https://www.allrecipes.com/recipe/13099/potato-soup-with-a-kick/",
+  "title": "Potato Soup with a Kick",
+  "description": "Perfect way to warm a cold winter day!",
+  "authors": [
+    "Ann"
+  ],
+  "date_published": "1999-01-25T12:37:03-05:00",
+  "date_modified": "2022-10-13T13:44:46-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "6 potatoes, peeled and cubed",
+    "1 onion, chopped",
+    "1 (16 ounce) can whole peeled tomatoes, with liquid",
+    "1 (8 ounce) can tomato sauce",
+    "3 cups water",
+    "2 teaspoons salt",
+    "1 teaspoon ground black pepper",
+    "1 teaspoon hot pepper sauce"
+  ],
+  "steps": [
+    {
+      "text": "In a skillet, brown ground beef and onion. Drain",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan, combine hamburger mixture, tomatoes (in juice), potatoes, and tomato sauce. Mix well. Stir in water, salt, pepper, and hot pepper sauce, and bring to a boil. Reduce heat, cover and simmer for 45 minutes or until potatoes are fork tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "429 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1163 mg",
+    "sugarContent": "6 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lUFzpp5GUPsiRuw-eO4rafO0ofM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2211653-a0403435c9c040dbaa66f22c7a14fcf4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13099/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

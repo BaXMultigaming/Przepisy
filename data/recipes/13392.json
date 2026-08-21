@@ -1,0 +1,126 @@
+{
+  "id": "13392",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13392/classic-vichyssoise/",
+  "requested_url": "https://www.allrecipes.com/recipe/13392/classic-vichyssoise/",
+  "title": "Classic Vichyssoise",
+  "description": "This vichyssoise recipe is a thick soup made with boiled leeks, onions, potatoes, and herbs blended until smooth and mixed with cream before serving.",
+  "authors": [
+    "2doulas"
+  ],
+  "date_published": "1999-08-17T22:44:09-04:00",
+  "date_modified": "2025-12-08T07:58:19-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT55M",
+  "total_time": "PT70M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "3 leeks, bulb only, sliced into rings",
+    "1 onion, sliced",
+    "5 medium potatoes, peeled and thinly sliced",
+    "salt and pepper to taste",
+    "0.5 teaspoon dried marjoram",
+    "0.25 teaspoon dried thyme",
+    "1 bay leaf",
+    "5 cups chicken broth",
+    "0.25 cup heavy whipping cream"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/58aqPF--MF0eocV1Vupo8ZBvH_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13392-classic-vichyssoise--ddmfs-Step-1-1431-fed966ba15594b7087d93bfc7e0019c2.jpg"
+      ],
+      "image": "assets/images/13392/step_01.webp"
+    },
+    {
+      "text": "Melt butter in a large stockpot over low heat. Add leeks and onion; cover and cook for 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qu2OL6tgYmTu6h2TfuMgQsKZJV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13392-classic-vichyssoise--ddmfs-Step-2-1432-298cb9b792b04fde97fddb8df4ceebc0.jpg"
+      ],
+      "image": "assets/images/13392/step_02.webp"
+    },
+    {
+      "text": "Stir in potatoes; season with salt and pepper. Add marjoram, thyme, and bay leaf; stir well. Cover and cook for 12 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JQ3Wwm_r3kSBslgSPCtHkcFP8-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13392-classic-vichyssoise--ddmfs-Step-3-1433-735b2614dac840498ac2912ab3fc6688.jpg"
+      ],
+      "image": "assets/images/13392/step_03.webp"
+    },
+    {
+      "text": "Pour in chicken broth. Bring to a boil, reduce heat, and cook, partially covered, for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LlyPG7B92qpqVNBKHxudxARBcGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13392-classic-vichyssoise--ddmfs-Step-4-1447-1f0aef0c1bb949a5b665994eb5d17741.jpg"
+      ],
+      "image": "assets/images/13392/step_04.webp"
+    },
+    {
+      "text": "Purée soup in a blender or food processor. Allow to cool to room temperature, then stir in cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/emE8GgWT3t17XenWVVN1vwQPTb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13392-classic-vichyssoise-ddmfs-3X4-1476-f6d57bfd43dd45cdb503dea6bd53054a.jpg"
+      ],
+      "image": "assets/images/13392/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "334 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "57 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "87"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/emE8GgWT3t17XenWVVN1vwQPTb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13392-classic-vichyssoise-ddmfs-3X4-1476-f6d57bfd43dd45cdb503dea6bd53054a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13392/hero.webp",
+    "steps": [
+      "assets/images/13392/step_01.webp",
+      "assets/images/13392/step_02.webp",
+      "assets/images/13392/step_03.webp",
+      "assets/images/13392/step_04.webp",
+      "assets/images/13392/step_05.webp"
+    ]
+  }
+}

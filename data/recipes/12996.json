@@ -1,0 +1,89 @@
+{
+  "id": "12996",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12996/cauliflower-cheese-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/12996/cauliflower-cheese-soup/",
+  "title": "Cauliflower-Cheese Soup",
+  "description": "Cooked vegetables and cheddar cheese are added to a roux-thickened milk base in this comforting soup.",
+  "authors": [
+    "Jane Snider"
+  ],
+  "date_published": "1999-01-30T12:10:31-05:00",
+  "date_modified": "2026-08-21T11:28:32-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup water",
+    "1 cup cauliflower, chopped",
+    "1 cup cubed potatoes",
+    "0.5 cup finely chopped celery",
+    "0.5 cup diced carrots",
+    "0.25 cup chopped onion",
+    "0.25 cup butter",
+    "0.25 cup all-purpose flour",
+    "3 cups milk",
+    "salt and pepper to taste",
+    "4 ounces shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, combine water, cauliflower, potatoes, celery, carrots, and onion. Boil for 5 to 10 minutes, or until tender. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in separate saucepan over medium heat. Stir in flour, and cook for 2 minutes. Remove from heat, and gradually stir in milk. Return to heat, and cook until thickened. Stir in vegetables with cooking liquid, and season with salt and pepper. Stir in cheese until melted, and remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "385 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "75 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "368 mg",
+    "sugarContent": "11 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "421"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NAjVS6S434bEAJLMwGggcVZB-8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4971449-da908d79028e465bb32d29263489837d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12996/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

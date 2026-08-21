@@ -1,0 +1,87 @@
+{
+  "id": "13182",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13182/stuffed-pepper-soup-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/13182/stuffed-pepper-soup-i/",
+  "title": "Easy Stuffed Pepper Soup",
+  "description": "Browned ground beef is combined in this tomato based soup with chopped green peppers, cooked rice, beef bouillon, brown sugar and soy sauce.",
+  "authors": [
+    "Holly"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-08-18T13:44:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT40M",
+  "total_time": "PT60M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "1 green bell pepper, chopped",
+    "1 (29 ounce) can tomato sauce",
+    "1 (29 ounce) can diced tomatoes",
+    "2 cubes beef bouillon cube",
+    "0.25 cup packed brown sugar",
+    "2 teaspoons salt",
+    "1 teaspoon ground black pepper",
+    "1 tablespoon soy sauce",
+    "2 cups cooked white rice"
+  ],
+  "steps": [
+    {
+      "text": "Brown beef in a Dutch oven over medium high heat until browned; drain off any fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add green pepper and sauté for 3 minutes. Stir in tomato sauce, diced tomatoes with juice, bouillon cubes, brown sugar, salt, black pepper, and soy sauce. Reduce heat to low, cover and simmer for 30 to 45 minutes. Stir in rice and heat through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "384 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "77 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1408 mg",
+    "sugarContent": "11 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "385"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6vRJPVlFca5SLaLZpZL9XGs9Kxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1006801-1d856ba8e174449fa44d3ab76896f45e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13182/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

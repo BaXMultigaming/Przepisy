@@ -1,0 +1,108 @@
+{
+  "id": "12921",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12921/hamburger-soup-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/12921/hamburger-soup-i/",
+  "title": "Hamburger Soup",
+  "description": "This hearty hamburger soup is an easy but flavor-packed meal made with lean ground beef in a savory broth with diced tomatoes and colorful veggies.",
+  "authors": [
+    "akhowell"
+  ],
+  "date_published": "1999-01-21T14:45:14-05:00",
+  "date_modified": "2025-12-09T14:34:17-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT95M",
+  "total_time": "PT110M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "5 cups water",
+    "1 (16 ounce) can diced tomatoes",
+    "1 (10 ounce) package frozen corn kernels",
+    "1 (8 ounce) can tomato sauce",
+    "1 cup chopped carrots",
+    "1 cup chopped celery",
+    "1 cup chopped onion",
+    "6 beef bouillon",
+    "3 tablespoons ketchup",
+    "1 teaspoon dried basil",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Mj-bKTfa1K3W_tS6xTDywbcbWrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12921-Hamburger-Soup-ddmfs-031-step1-f2d9377ff3f5443dadfd74c1cdefadb7.jpg"
+      ],
+      "image": "assets/images/12921/step_01.webp"
+    },
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RzprkYwnv8oxRbZtq4DzDGNTsC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12921-Hamburger-Soup-ddmfs-032-step2-ea96f25bf2cc43c5aa538725c89665bc.jpg"
+      ],
+      "image": "assets/images/12921/step_02.webp"
+    },
+    {
+      "text": "Combine beef, water, tomatoes, corn, tomato sauce, carrots, celery, onion, bouillon, ketchup, basil, and salt in a large stockpot; bring to a boil. Reduce heat and simmer for at least 1 ½ hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7DvO4QanPyj8fjTpS4d9j4aauHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12921-Hamburger-Soup-ddmfs-034-step4-98bfad48659347608c71448c9cc8c6a7.jpg"
+      ],
+      "image": "assets/images/12921/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1338 mg",
+    "sugarContent": "7 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "535"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Hm0vbrEbEynik8bc4btGvoEpLN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12921-Hamburger-Soup-ddmfs-049-4x3-1-2cde4c825f174c1a908703fef1e7cb8d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12921/hero.webp",
+    "steps": [
+      "assets/images/12921/step_01.webp",
+      "assets/images/12921/step_02.webp",
+      "assets/images/12921/step_03.webp"
+    ]
+  }
+}

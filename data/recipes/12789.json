@@ -1,0 +1,81 @@
+{
+  "id": "12789",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12789/tartar-sauce-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/12789/tartar-sauce-ii/",
+  "title": "Tartar Sauce",
+  "description": "This tartar sauce with egg recipe is made with mayonnaise, sweet pickle relish, Worcestershire sauce, capers, and of course, hardboiled eggs.",
+  "authors": [
+    "Diane"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-01-10T14:15:16-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Condiment",
+    "Sauce"
+  ],
+  "cuisines": [
+    "American",
+    "British"
+  ],
+  "regions": [
+    "American",
+    "British"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mayonnaise",
+    "0.33329999446869 cup sweet pickle relish",
+    "1 tablespoon minced capers",
+    "1 hard-cooked egg, chopped",
+    "salt to taste",
+    "salt and white pepper to taste",
+    "1 dash Worcestershire sauce",
+    "1 dash hot pepper sauce"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, mix together mayonnaise, sweet pickle relish, capers, and egg. Season to taste with salt and white pepper. Add a dash of Worcestershire sauce and a dash hot pepper sauce. Stir. Chill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "295 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "363 mg",
+    "sugarContent": "5 g",
+    "fatContent": "30 g",
+    "servingSize": "1 1/4 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "110"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/X97tUGbOXCN_WEnV8CPJ6jYxeGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/343144-779823065ec7486cbb6d5552a0776e18.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12789/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

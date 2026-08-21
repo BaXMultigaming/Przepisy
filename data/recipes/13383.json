@@ -1,0 +1,92 @@
+{
+  "id": "13383",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13383/calico-wild-rice-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13383/calico-wild-rice-soup/",
+  "title": "Calico Wild Rice Soup",
+  "description": "Bell peppers are combined in chicken stock with wild rice in this corn starch thickened soup flavored with tarragon.",
+  "authors": [
+    "CORWYNN DARKHOLME"
+  ],
+  "date_published": "1999-08-06T21:57:38-04:00",
+  "date_modified": "2020-03-10T02:50:11-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups wild rice",
+    "6 cups water",
+    "4 cups chicken broth",
+    "1 cup frozen corn kernels",
+    "0.5 cup chopped green onions",
+    "2 tablespoons red bell pepper, chopped",
+    "2 tablespoons chopped green bell pepper",
+    "1 tablespoon chopped fresh parsley",
+    "1 teaspoon dried tarragon",
+    "2 tablespoons cornstarch",
+    "2 tablespoons water"
+  ],
+  "steps": [
+    {
+      "text": "In a medium sauce pan cook rice in 6 cups water until cooked through and tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan or stock pot combine broth, cooked rice, corn, green onions, red and green bell pepper, parsley and tarragon. Mix well and cook over medium heat until mixture boils. Reduce heat and simmer 5 minutes or until corn is tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, mix cornstarch and water. Add to soup mixture and cook for 5 minutes. Stir occasionally and serve once soup has thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "50 g",
+    "fiberContent": "4 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "516 mg",
+    "sugarContent": "3 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CeOTFlkSL79pTLXeBSrofcreOFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1483069-59003c49732d4e3ebc5abcc360d90c9c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13383/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

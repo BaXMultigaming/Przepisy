@@ -1,0 +1,92 @@
+{
+  "id": "13148",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13148/german-lentil-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13148/german-lentil-soup/",
+  "title": "German Lentil Soup",
+  "description": "A quick lentil soup with ham, spiced with caraway, Worcestershire and nutmeg.",
+  "authors": [
+    "CLAIRELLEN"
+  ],
+  "date_published": "1999-03-26T08:31:11-05:00",
+  "date_modified": "2023-02-23T17:10:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT480M",
+  "total_time": "PT490M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups dried brown lentils, rinsed and drained",
+    "3 cups chicken stock",
+    "1 bay leaf",
+    "1 cup chopped carrots",
+    "1 cup chopped celery",
+    "1 cup chopped onion",
+    "1 cup cooked, cubed ham",
+    "1 teaspoon Worcestershire sauce",
+    "0.5 teaspoon garlic powder",
+    "0.25 teaspoon freshly grated nutmeg",
+    "5 drops hot pepper sauce",
+    "0.25 teaspoon caraway seed",
+    "0.5 teaspoon celery salt",
+    "1 tablespoon chopped fresh parsley",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place lentils in a 5- to 6-quart slow cooker. Add chicken stock, bay leaf, carrots, celery, onion, and ham. Season with Worcestershire sauce, garlic powder, nutmeg, hot pepper sauce, caraway seed, celery salt, parsley, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover, and cook on Low for 8 to 10 hours. Remove bay leaf before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "221 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "16 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "608 mg",
+    "sugarContent": "3 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "127"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VT4pDN5zgpvS3tZOU9_gI076kq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/535085-german-lentil-soup-Kelly-4x3-1-b12f21b2854c449392c3f3f2bd50c215.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13148/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

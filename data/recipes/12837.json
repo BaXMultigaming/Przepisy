@@ -1,0 +1,93 @@
+{
+  "id": "12837",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12837/barbeque-halibut-steaks/",
+  "requested_url": "https://www.allrecipes.com/recipe/12837/barbeque-halibut-steaks/",
+  "title": "Barbeque Halibut Steaks",
+  "description": "A simple recipe for barbecued halibut. Soy sauce and brown sugar add a special zip that is uncommonly delicious.",
+  "authors": [
+    "Duane Glende"
+  ],
+  "date_published": "1999-08-22T10:36:20-04:00",
+  "date_modified": "2026-07-20T13:06:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "2 tablespoons brown sugar",
+    "2 cloves garlic, minced",
+    "1 tablespoon lemon juice",
+    "2 teaspoons soy sauce",
+    "0.5 teaspoon ground black pepper",
+    "1 (1 pound) halibut steak"
+  ],
+  "steps": [
+    {
+      "text": "Preheat grill for medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place butter, brown sugar, garlic, lemon juice, soy sauce, and pepper in a small saucepan. Warm over medium heat, stirring occasionally, until sugar is completely dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly oil grill grate. Brush fish with brown sugar sauce, and place on grill. Cook for 5 minutes per side, or until fish can be easily flaked with a fork, basting with sauce. Discard remaining basting sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "275 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "338 mg",
+    "sugarContent": "9 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "619"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VRorLmFQ70C5rqmLhMTxATMA2gI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2617149-76a8ebb7f4dc42cdbfe6172e1095315f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12837/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

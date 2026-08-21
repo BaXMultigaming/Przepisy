@@ -1,0 +1,85 @@
+{
+  "id": "12880",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12880/simple-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/12880/simple-chili/",
+  "title": "Simple Chili",
+  "description": "This easy chili recipe is ready in under an hour and features a simple ingredient list of ground beef, kidney beans, crushed tomatoes, and chili powder.",
+  "authors": [
+    "Teresa Jeffries"
+  ],
+  "date_published": "1999-01-03T16:37:03-05:00",
+  "date_modified": "2026-01-04T11:44:26-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT50M",
+  "total_time": "PT55M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "1 pound lean ground beef",
+    "1 cup chopped onion",
+    "2 cloves garlic, chopped",
+    "2 (15 ounce) cans kidney beans",
+    "1 (28 ounce) can crushed tomatoes",
+    "2 tablespoons chili powder",
+    "1 tablespoon distilled white vinegar",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a 2-quart saucepan over medium-high heat. Add ground beef; cook and stir until browned and crumbly, 7 to 10 minutes. Add onion and garlic; cook until onion is translucent, about 5 minutes. Drain any excess fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in beans, crushed tomatoes, chili powder, vinegar, salt, and pepper; bring to a boil. Reduce the heat, cover, and simmer for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "316 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "416 mg",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "210"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jwvlcJpI3Prchqa3k-LfrKl02K4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6650515_simple-chili_Paula_4x3-de0b6aec4a264051bcfed9b5c9d8dc73.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12880/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

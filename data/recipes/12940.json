@@ -1,0 +1,125 @@
+{
+  "id": "12940",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12940/seafood-gumbo/",
+  "requested_url": "https://www.allrecipes.com/recipe/12940/seafood-gumbo/",
+  "title": "Seafood Gumbo",
+  "description": "A recipe for seafood gumbo that contains oysters, crab, and shrimp in a spicy thick broth made with spices, aromatic vegetables, and a dark roux.",
+  "authors": [
+    "Bob Cody"
+  ],
+  "date_published": "1999-01-03T22:42:06-05:00",
+  "date_modified": "2022-07-14T16:03:37-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT80M",
+  "total_time": "PT105M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Creole"
+  ],
+  "regions": [
+    "Creole"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 teaspoon ground cayenne pepper",
+    "0.5 teaspoon ground white pepper",
+    "0.5 teaspoon ground black pepper",
+    "1.5 teaspoons paprika",
+    "0.5 teaspoon dried thyme",
+    "0.5 teaspoon dried oregano",
+    "1 bay leaf, crushed",
+    "1 teaspoon salt",
+    "0.75 cup vegetable oil",
+    "2 cups chopped celery",
+    "2 cups chopped onion",
+    "2 cups chopped green bell pepper",
+    "1 teaspoon minced garlic",
+    "3 tablespoons file powder",
+    "2 teaspoons hot pepper sauce",
+    "1.5 cups tomato sauce",
+    "7 cups fish stock",
+    "2 cups shucked oysters",
+    "1 cup crabmeat",
+    "1 pound small shrimp - peeled and deveined, shells reserved for stock"
+  ],
+  "steps": [
+    {
+      "text": "Combine the red, white, and black peppers, paprika, thyme, oregano, bay leaf, and salt; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a heavy pot, 5 quart or larger, heat oil over medium heat, warming the pot first. Add onions, celery, and green pepper. Turn heat to high. Stirring frequently, add garlic, file, hot sauce, and the pepper-herb mixture. Cook for 5 minutes, stirring constantly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add tomato sauce, and stir as it reduces over high heat. Add fish stock and bring to a boil. Reduce heat, and simmer for 1 hour, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When ready to serve, add shrimp, oysters, and crabmeat. Cover, and wait 5 minutes. Turn off heat, and let stand for 10 minutes. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/8ljbAK1k1fbPqbfvc3eHuNOFSYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3126190-7ac108cdb9f04dba86d168f56e72c063.jpg"
+      ],
+      "image": "assets/images/12940/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "357 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "106 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1398 mg",
+    "sugarContent": "5 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "84"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Jc3LalEp-ma1DlVvV.mp4",
+    "description": "AR0819",
+    "duration": "PT4M54S",
+    "name": "Seafood Gumbo",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Jc3LalEp/poster.jpg?width=1280",
+    "uploadDate": "2021-07-11T13:23:38-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8ljbAK1k1fbPqbfvc3eHuNOFSYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3126190-7ac108cdb9f04dba86d168f56e72c063.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12940/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/12940/step_04.webp"
+    ]
+  }
+}

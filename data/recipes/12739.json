@@ -1,0 +1,113 @@
+{
+  "id": "12739",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12739/crispy-fish/",
+  "requested_url": "https://www.allrecipes.com/recipe/12739/crispy-fish/",
+  "title": "Crispy Fish",
+  "description": "A fried fish with a spicy and flavorful coating.",
+  "authors": [
+    "Kristi"
+  ],
+  "date_published": "1999-06-27T23:51:34-04:00",
+  "date_modified": "2026-07-29T14:34:14-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups dry potato flakes",
+    "1 cup all-purpose flour",
+    "1 tablespoon garlic powder",
+    "1 tablespoon seasoning salt",
+    "1 tablespoon ground black pepper",
+    "2 teaspoons cayenne pepper, or to taste",
+    "4 (6 ounce) fillets cod",
+    "2 cups butter flavored shortening, for frying"
+  ],
+  "steps": [
+    {
+      "text": "In medium bowl, combine the potato flakes, flour, garlic powder, seasoning salt, black pepper, and cayenne pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Soak fish filets in bowl of cold water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a deep skillet or deep fryer, melt and heat the shortening to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dredge fish filets in dry mixture and fry in the hot oil for 5 minutes or until fish flakes apart easily. Remove from oil and place on paper towels to absorb excess oil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/A6f4hG97WawOeM0EoMP4TK78Xxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8230770-5c1e3a54cb0f41f18bb0d021af70cca3.jpg"
+      ],
+      "image": "assets/images/12739/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "446 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "835 mg",
+    "sugarContent": "2 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "276"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/d9VOS1G2-K3AjnAEN.mp4",
+    "description": "AR_MAY_0007",
+    "duration": "PT1M39S",
+    "name": "Crispy Fish",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/d9VOS1G2/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T00:54:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A6f4hG97WawOeM0EoMP4TK78Xxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8230770-5c1e3a54cb0f41f18bb0d021af70cca3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12739/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/12739/step_04.webp"
+    ]
+  }
+}

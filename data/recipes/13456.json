@@ -1,0 +1,120 @@
+{
+  "id": "13456",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13456/stuffed-celery/",
+  "requested_url": "https://www.allrecipes.com/recipe/13456/stuffed-celery/",
+  "title": "Stuffed Celery",
+  "description": "Stuffed celery is easy to make and kids love it. My great grandma always made this and my cousins and I used to fight over the last piece.",
+  "authors": [
+    "Linda"
+  ],
+  "date_published": "1998-10-14T14:29:54-04:00",
+  "date_modified": "2026-05-16T15:13:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "2 tablespoons sour cream",
+    "0.25 cup chopped walnuts",
+    "20 green olives with pimento, chopped",
+    "1 bunch celery, cut into bite-size pieces"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XTadaNo835D2QKkTKjhcTuxi-1E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13456-stuffed-celery-VAT-step-01-aa601eadee7940f39918bb1203982210.jpg"
+      ],
+      "image": "assets/images/13456/step_01.webp"
+    },
+    {
+      "text": "In a medium bowl, mix together the cream cheese and sour cream. Stir in the walnuts and chopped olives.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/G15boRzLFgNDPCQTff4tLdiGSKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13456-stuffed-celery-VAT-step-02-309f391f0a074174bd6a7d776eb06f86.jpg"
+      ],
+      "image": "assets/images/13456/step_02.webp"
+    },
+    {
+      "text": "Spread filling onto the celery pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FwFiVGVgVdMHN9f-yNgPiGePAgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13456-stuffed-celery-VAT-step-03-2hand-4dd1e98a1e0040738bae1ef926dbc063.jpg"
+      ],
+      "image": "assets/images/13456/step_03.webp"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7GLGe8MDgY69ssXvCla-De6hv-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13456-stuffed-celery-VAT-4x3-withotherdishes-7302898247674d1c8b2e37172ebfdf82.jpg"
+      ],
+      "image": "assets/images/13456/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "76 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "187 mg",
+    "sugarContent": "1 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "83"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/5OluXDK0-K3AjnAEN.mp4",
+    "description": "This easy olive spread with celery is a tasty picnic snack or appetizer! Cream cheese, olives, and walnuts make a rich and creamy addition to fresh and crunchy celery!",
+    "duration": "PT33S",
+    "name": "How to Make Stuffed Celery",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5OluXDK0/thumbnails/vuFLwKHM.jpg?width=1280",
+    "uploadDate": "2022-06-07T12:58:49-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7GLGe8MDgY69ssXvCla-De6hv-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13456-stuffed-celery-VAT-4x3-withotherdishes-7302898247674d1c8b2e37172ebfdf82.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13456/hero.webp",
+    "steps": [
+      "assets/images/13456/step_01.webp",
+      "assets/images/13456/step_02.webp",
+      "assets/images/13456/step_03.webp",
+      "assets/images/13456/step_04.webp"
+    ]
+  }
+}

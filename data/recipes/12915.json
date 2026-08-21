@@ -1,0 +1,85 @@
+{
+  "id": "12915",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12915/spicy-potato-soup-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/12915/spicy-potato-soup-i/",
+  "title": "Spicy Potato Soup I",
+  "description": "In this simple vegetarian soup, fried potatoes are simmered in a broth with paprika, chopped red bell peppers and Serrano chilies.",
+  "authors": [
+    "Felicia Martinez"
+  ],
+  "date_published": "1999-01-21T06:25:31-05:00",
+  "date_modified": "2025-01-29T18:57:01-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large potatoes, cubed",
+    "2 red bell peppers, seeded and diced",
+    "1.5 serrano chiles, finely chopped",
+    "salt to taste",
+    "ground black pepper to taste",
+    "1 dash paprika",
+    "2 tablespoons vegetable oil",
+    "8 cups water"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, fry potatoes in oil until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in peppers, water, and seasonings. Cover, and simmer until potatoes are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342 kcal",
+    "carbohydrateContent": "68 g",
+    "fiberContent": "9 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "24 mg",
+    "sugarContent": "5 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l40JwM-MukKZSCaArFN1ZBN9f88=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/712487-3f3f3ad9b2ab49c0929ab89860ba5d31.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12915/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

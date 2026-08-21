@@ -1,0 +1,100 @@
+{
+  "id": "12798",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12798/broiled-scallops/",
+  "requested_url": "https://www.allrecipes.com/recipe/12798/broiled-scallops/",
+  "title": "Broiled Scallops",
+  "description": "These broiled scallops are flavored with butter, lemon, and garlic salt, then quickly broiled until golden brown and sweet for a quick, easy dinner.",
+  "authors": [
+    "Gail New"
+  ],
+  "date_published": "1999-07-15T16:08:02-04:00",
+  "date_modified": "2026-02-18T11:30:32-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT6M",
+  "total_time": "PT11M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds bay scallops",
+    "2 tablespoons melted butter, or as needed",
+    "2 tablespoons lemon juice",
+    "1 tablespoon garlic salt"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the broiler to high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Rinse scallops and place in a shallow baking pan. Sprinkle with 2 tablespoons melted butter, lemon juice, and garlic salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Broil in the preheated broiler until scallops begin to turn golden, 6 to 8 minutes. Remove from the oven and serve with extra melted butter on the side for dipping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FWtnyT9Y78ywEUU6qOKG3be9-58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12798-broiled-scallops-VAT-Beauty-4x3-9ea53aca52ea455bb39dae719a1c160c.jpg"
+      ],
+      "image": "assets/images/12798/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "273 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "95 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "38 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "2232 mg",
+    "sugarContent": "0 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "748"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/eB134sfB-ma1DlVvV.mp4",
+    "description": "AR0642",
+    "duration": "PT2M50S",
+    "name": "Broiled Scallops",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/eB134sfB/poster.jpg?width=1280",
+    "uploadDate": "2021-07-08T08:10:42-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FWtnyT9Y78ywEUU6qOKG3be9-58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12798-broiled-scallops-VAT-Beauty-4x3-9ea53aca52ea455bb39dae719a1c160c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12798/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/12798/step_03.webp"
+    ]
+  }
+}

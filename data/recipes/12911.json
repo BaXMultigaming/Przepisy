@@ -1,0 +1,96 @@
+{
+  "id": "12911",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12911/sweet-potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/12911/sweet-potato-soup/",
+  "title": "Sweet Potato Soup",
+  "description": "Sweet potatoes, white potatoes and a turnip are cooked in a mixture chicken broth and heavy cream seasoned with brown sugar and nutmeg in this pureed soup.",
+  "authors": [
+    "K Laruffa"
+  ],
+  "date_published": "1999-01-19T16:58:24-05:00",
+  "date_modified": "2025-03-25T16:44:17-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 sweet potatoes",
+    "2 white potatoes",
+    "1 turnip",
+    "0.5 cup heavy whipping cream",
+    "6 cups chicken broth",
+    "1 tablespoon brown sugar",
+    "1.5 teaspoons ground nutmeg",
+    "2 tablespoons margarine",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Peel and cut vegetables into small, uniform pieces. Place in a pot, and cover with the chicken stock; use only the amount of stock needed to cover. Bring to a boil, and cook until vegetables are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place vegetables and liquid into a food processor. Puree.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return pureed vegetables to the saucepan. Slowly stir in the cream, brown sugar, nutmeg, and butter. Add salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "373 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1282 mg",
+    "sugarContent": "10 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "72"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zZ_GqZ2Ha5FRyiXUrVIYL6s0DB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/551408-cff10a485259446cbfd6d7376ca92fce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12911/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

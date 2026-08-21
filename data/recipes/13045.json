@@ -1,0 +1,122 @@
+{
+  "id": "13045",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13045/broccoli-cheese-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13045/broccoli-cheese-soup/",
+  "title": "Broccoli Cheese Soup",
+  "description": "This broccoli cheese soup recipe makes an easy-to-prepare, creamy soup with lots of cheese, frozen broccoli, and chicken broth; everyone will love it.",
+  "authors": [
+    "The Allrecipes Community"
+  ],
+  "date_published": "1999-02-13T12:03:39-05:00",
+  "date_modified": "2025-12-30T14:04:19-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "1 onion, chopped",
+    "1 (16 ounce) package frozen chopped broccoli",
+    "4 (14.5 ounce) cans chicken broth",
+    "1 (1 pound) loaf processed cheese food, cubed",
+    "2 cups milk",
+    "1 tablespoon garlic powder",
+    "0.66666668653488 cup cornstarch",
+    "1 cup water"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large pot over medium heat. Add onion and cook, stirring occasionally, until soft; stir in broccoli.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/N_dLjls__Tljh1laATe9ZSs8gxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13045-broccoli-cheese-soup-VAT-step-02-bc529e7207a34b8c8b6e2ecb8d0afe02.jpg"
+      ],
+      "image": "assets/images/13045/step_01.webp"
+    },
+    {
+      "text": "Add broth and simmer until broccoli is tender, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XZXLn3FwBL5Z1pfSJe7GjA8ga1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13045-broccoli-cheese-soup-VAT-step-03-203204187672474a8d715fe00942e8b6.jpg"
+      ],
+      "image": "assets/images/13045/step_02.webp"
+    },
+    {
+      "text": "Reduce heat; add cheese, and stir until melted. Stir in milk and garlic powder.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/N3yVyRkO7cNyKyrXSuS7dd2f0Y8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13045-broccoli-cheese-soup-VAT-step-04-2beafa6041354c1e9502fdd568870f09.jpg"
+      ],
+      "image": "assets/images/13045/step_03.webp"
+    },
+    {
+      "text": "Stir cornstarch and water together in a small bowl until smooth. Stir into soup; cook, stirring frequently, until thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2vIAR_5NeitlkC185D3HYkvrt64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13045-broccoli-cheese-soup-VAT-4x3-2-59a31a9018b64a1da317678a2ab75dbe.jpg"
+      ],
+      "image": "assets/images/13045/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "265 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "1136 mg",
+    "sugarContent": "6 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "3184"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/JDxR7UGD-ma1DlVvV.mp4",
+    "description": "AR0164",
+    "duration": "PT2M57S",
+    "name": "Broccoli Cheese Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/JDxR7UGD/thumbnails/ISbYDie6.jpg?width=1280",
+    "uploadDate": "2023-07-09T04:25:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2vIAR_5NeitlkC185D3HYkvrt64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-13045-broccoli-cheese-soup-VAT-4x3-2-59a31a9018b64a1da317678a2ab75dbe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13045/hero.webp",
+    "steps": [
+      "assets/images/13045/step_01.webp",
+      "assets/images/13045/step_02.webp",
+      "assets/images/13045/step_03.webp",
+      "assets/images/13045/step_04.webp"
+    ]
+  }
+}

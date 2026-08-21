@@ -1,0 +1,91 @@
+{
+  "id": "12745",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/12745/mexican-baked-fish/",
+  "requested_url": "https://www.allrecipes.com/recipe/12745/mexican-baked-fish/",
+  "title": "Mexican Baked Fish",
+  "description": "This Mexican baked fish features cod fillets cooked with salsa, Cheddar cheese, and corn chips and topped with avocado. Don&#39;t forget the margaritas!",
+  "authors": [
+    "CHRISTYJ"
+  ],
+  "date_published": "1999-07-01T23:48:24-04:00",
+  "date_modified": "2024-07-23T17:19:12-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Latin American"
+  ],
+  "regions": [
+    "Latin American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds cod",
+    "1 cup salsa",
+    "1 cup shredded sharp Cheddar cheese",
+    "0.5 cup coarsely crushed corn chips",
+    "1 avocado - peeled, pitted and sliced",
+    "0.25 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 400 degrees F (200 degrees C). Lightly grease an 8x12-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Rinse cod fillets under cold water and pat dry with paper towels. Lay fillets side by side in the prepared baking dish. Pour salsa over the top and sprinkle evenly with cheese. Top with crushed corn chips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake, uncovered, in the preheated oven until fish is opaque and flakes easily with a fork, about 15 minutes. Serve topped with sliced avocado and sour cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "311 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "529 mg",
+    "sugarContent": "2 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1035"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ldGs8fNihUT5Qo_6Ey04a-jArXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1014287-9b69e5001c4940b6800cb35485b47602.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/12745/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

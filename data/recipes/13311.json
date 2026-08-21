@@ -1,0 +1,88 @@
+{
+  "id": "13311",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13311/potato-and-cheddar-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13311/potato-and-cheddar-soup/",
+  "title": "Potato and Cheddar Soup",
+  "description": "This is a smooth creamy soup. Great for those cold winter days.",
+  "authors": [
+    "Debbie Rowe"
+  ],
+  "date_published": "1999-03-04T23:15:22-05:00",
+  "date_modified": "2026-06-02T13:54:45-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "2 cups peeled and cubed red potatoes",
+    "3 tablespoons melted butter",
+    "1 small onion, chopped",
+    "3 tablespoons all-purpose flour",
+    "salt and pepper to taste",
+    "3 cups milk",
+    "0.5 teaspoon white sugar",
+    "1 cup shredded Cheddar cheese",
+    "1 cup diced ham"
+  ],
+  "steps": [
+    {
+      "text": "Using a medium sized stock pot bring water to a boil, add potatoes and cook until tender. Drain reserving 1 cup liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in butter, onion and flour. Season with salt and pepper. Gradually stir in potatoes, reserved liquid, milk, sugar, cheese, and ham. Simmer for 30 minutes, stirring frequently.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "277 mg",
+    "sugarContent": "4 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "180"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nTwTo0YBiAZie2YigWez-CzuCSI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13311potato-and-cheddar-soupsouplovingnicolex3-1494d19dae944e16808c6399b04925e8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13311/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

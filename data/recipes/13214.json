@@ -1,0 +1,96 @@
+{
+  "id": "13214",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13214/sausage-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/13214/sausage-soup/",
+  "title": "Sausage Soup",
+  "description": "This Italian sausage soup recipe is made with chicken broth, bow-tie pasta, tomatoes, carrots, and shredded cabbage seasoned with basil and garlic.",
+  "authors": [
+    "Behr"
+  ],
+  "date_published": "1999-02-15T15:49:51-05:00",
+  "date_modified": "2023-03-24T15:26:09-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound Italian sausage",
+    "2 onions, chopped",
+    "1 cup chopped celery",
+    "1 cup chopped carrots",
+    "6 cups chicken broth",
+    "1 (28 ounce) can whole peeled tomatoes with juice",
+    "1.5 cups shredded cabbage",
+    "2 teaspoons dried basil",
+    "2 cups bow tie pasta",
+    "0.5 teaspoon garlic salt"
+  ],
+  "steps": [
+    {
+      "text": "Cook and stir sausage in a soup pot over medium heat until crumbly and no longer pink.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add onions, celery, and carrots. Cook, stirring occasionally, until onions are soft, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add broth, tomatoes, cabbage, and basil; bring to a boil. Stir in pasta; cover and simmer until pasta is tender, about 10 minutes. Season with garlic salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "399 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "58 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1690 mg",
+    "sugarContent": "8 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "258"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/crt5XA7_fcA55NjLL0BvptFdc9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6570284_sausage-soup_MyHotSouthernMess_4x3-3dfc2cb25c134ebb969505190893ebd0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13214/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "13016",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/13016/lobster-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/13016/lobster-stew/",
+  "title": "Lobster Stew",
+  "description": "This is it, the holy trinity of Maine seaport cooking: lobster, butter, cream. Do not adulterate with other ingredients, do not substitute margarine for the butter (lest you be struck down by lightning), and, most importantly, do not feel guilty as you enjoy this heavenly soup.",
+  "authors": [
+    "Marion Mason"
+  ],
+  "date_published": "1999-02-06T12:14:43-05:00",
+  "date_modified": "2026-06-17T11:36:26-04:00",
+  "prep_time": null,
+  "cook_time": "PT25M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "New England"
+  ],
+  "regions": [
+    "New England"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound cooked lobster meat",
+    "1 cup butter",
+    "2 quarts half-and-half cream"
+  ],
+  "steps": [
+    {
+      "text": "Saute the lobster meat gently in butter until butter turns pink. Add half and half slowly. Heat over medium heat until hot. Do not boil. Serve with oyster crackers and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "760 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "254 mg",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "42 g",
+    "sodiumContent": "638 mg",
+    "sugarContent": "1 g",
+    "fatContent": "68 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PvPR2zrpm8lMcizN0YsQPXNJ_KM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5052035-7af84e4b96bd4dd08569bf2632d6e651.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/13016/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
