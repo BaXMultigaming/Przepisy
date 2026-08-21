@@ -1,0 +1,91 @@
+{
+  "id": "23146",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23146/rich-cheese-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/23146/rich-cheese-pie/",
+  "title": "Rich Cheese Pie",
+  "description": "A rich savory custard pie made with cheddar cheese, similar to quiche.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-10-22T22:31:17-04:00",
+  "date_modified": "2022-08-04T10:05:37-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT60M",
+  "total_time": "PT90M",
+  "yield": [
+    "8",
+    "9 - inch pie"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups shredded Cheddar cheese",
+    "4 eggs",
+    "1 cup heavy cream",
+    "1 cup milk",
+    "3 drops hot sauce",
+    "0.25 teaspoon salt",
+    "0.25 teaspoon pepper",
+    "0.25 teaspoon paprika",
+    "1 (9 inch) unbaked pie crust"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 425 degrees F (220 degrees C). Spread shredded cheese in the bottom of pie crust.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine eggs, cream and milk. Season with hot sauce, salt, pepper and paprika. Pour filling over shredded cheese in the pie crust.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 40 to 50 minutes, or until golden brown. Cool 10 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "353 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "158 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "382 mg",
+    "sugarContent": "2 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mL1Ut32LAgJ1v5zTIgpmd9UID08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5234746-c17d2373aeab4d0b9ccfc805ed095493.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23146/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

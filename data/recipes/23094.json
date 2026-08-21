@@ -1,0 +1,69 @@
+{
+  "id": "23094",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23094/peanut-butter-and-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/23094/peanut-butter-and-banana-smoothie/",
+  "title": "Peanut Butter and Banana Smoothie",
+  "description": "Like a peanut butter and banana sandwich in liquid form. Makes a nice thick breakfast smoothie.",
+  "authors": [
+    "Diane"
+  ],
+  "date_published": "2000-05-04T22:05:21-04:00",
+  "date_modified": "2022-10-03T12:51:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "0.125 cup peanut butter",
+    "0.5 cup soy milk",
+    "2 tablespoons honey"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine banana, peanut butter and soy milk. Blend until smooth. Pour into glasses and drizzle with honey for garnish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "488 kcal",
+    "carbohydrateContent": "76 g",
+    "fiberContent": "6 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "213 mg",
+    "sugarContent": "57 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "361"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8wOT7OWsN0SDLx4_YzO7_q408_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/437024-efc42c414be446acbd2ffbe41a85d719.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23094/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

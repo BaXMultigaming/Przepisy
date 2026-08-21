@@ -1,0 +1,81 @@
+{
+  "id": "22840",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22840/bacon-horseradish-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/22840/bacon-horseradish-dip/",
+  "title": "Bacon Horseradish Dip",
+  "description": "This sour cream horseradish dip is flecked with bacon and enhanced with lemon.",
+  "authors": [
+    "Anonymous"
+  ],
+  "date_published": "2000-10-19T10:28:37-04:00",
+  "date_modified": "2022-09-07T12:09:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT80M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 slices bacon",
+    "1 pint sour cream",
+    "0.5 cup mayonnaise",
+    "0.25 cup prepared horseradish",
+    "1 lemon, juiced",
+    "0.5 teaspoon chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Place the bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine sour cream, mayonnaise, horseradish, and lemon juice. Stir well. Stir in bacon; cover and refrigerate for 1 hour. Stir and top with parsley before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "123 mg",
+    "sugarContent": "0 g",
+    "fatContent": "13 g",
+    "servingSize": "2 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JH0ZAQU11nPNyB7-AZ17gUZkE5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1008742-05433537ce664d08b8cefecebcedfd69.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22840/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

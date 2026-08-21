@@ -1,0 +1,117 @@
+{
+  "id": "22448",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22448/easy-fried-eggplant/",
+  "requested_url": "https://www.allrecipes.com/recipe/22448/easy-fried-eggplant/",
+  "title": "Easy Fried Eggplant",
+  "description": "Fried eggplant is quick and easy to make — and tasty too! Slices of breaded eggplant are pan-fried until crispy and delicious for a family favorite side.",
+  "authors": [
+    "WALLEN"
+  ],
+  "date_published": "2000-07-31T12:55:20-04:00",
+  "date_modified": "2026-05-15T04:56:34-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons canola oil",
+    "1 large eggplant, peeled and sliced",
+    "3 eggs, beaten",
+    "2 cups dry bread crumbs"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients. Warm oil in a large skillet over medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Sept-02l5Gm_5ymGNpj4zO971_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222448-easy-fried-eggplant-DDMFS-Step-1-2e6b29fed6c9448da7657d6efb89e67d.jpg"
+      ],
+      "image": "assets/images/22448/step_01.webp"
+    },
+    {
+      "text": "Dip eggplant slices in egg, then coat with bread crumbs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/M6c420W5Wj4vac-E9u9L3A25YZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222448-easy-fried-eggplant-DDMFS-Step-2-2-0c56fbae20a54c97879b824c62500274.jpg"
+      ],
+      "image": "assets/images/22448/step_02.webp"
+    },
+    {
+      "text": "Place breaded eggplant in the hot oil and fry until golden brown, 2 to 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/u_rW4XQ9_nfp7IX5dULXPfnETjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222448-easy-fried-eggplant-DDMFS-Step-3-ea4fbaa0834e4c1d9f1195c6c0e90393.jpg"
+      ],
+      "image": "assets/images/22448/step_03.webp"
+    },
+    {
+      "text": "Drain on paper towels. Serve and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BZyYZwM5pCTM00d4VNGbnQ26j1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222448-easy-fried-eggplant-DDMFS-4x3-e774e3845d6d47a1a64a053f9e8df94f.jpg"
+      ],
+      "image": "assets/images/22448/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "357 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "140 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "451 mg",
+    "sugarContent": "7 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "312"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ljWGAAKa-ma1DlVvV.mp4",
+    "description": "AR0951",
+    "duration": "PT3M8S",
+    "name": "Easy Fried Eggplant",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ljWGAAKa/thumbnails/fpAdWUzi.jpg?width=1280",
+    "uploadDate": "2021-03-06T11:21:55-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BZyYZwM5pCTM00d4VNGbnQ26j1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-222448-easy-fried-eggplant-DDMFS-4x3-e774e3845d6d47a1a64a053f9e8df94f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22448/hero.webp",
+    "steps": [
+      "assets/images/22448/step_01.webp",
+      "assets/images/22448/step_02.webp",
+      "assets/images/22448/step_03.webp",
+      "assets/images/22448/step_04.webp"
+    ]
+  }
+}

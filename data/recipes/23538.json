@@ -1,0 +1,89 @@
+{
+  "id": "23538",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23538/mocha-coffee/",
+  "requested_url": "https://www.allrecipes.com/recipe/23538/mocha-coffee/",
+  "title": "Mocha Coffee",
+  "description": "Mocha coffee, or more simply coffee with chocolate, is easy to make with this delicious mocha recipe. Add cocoa, sugar, and milk to a hot cup of joe.",
+  "authors": [
+    "Johanna Adams"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-10-28T15:00:07-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup hot brewed coffee",
+    "1 tablespoon unsweetened cocoa powder",
+    "1 tablespoon white sugar",
+    "2 tablespoons milk"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qiAysTbsYS7EgFgltpEQ-ygxhBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23538-mocha-coffee-ddmfs-step-01-f762c39770954f0c97fc62ca2227940b.jpg"
+      ],
+      "image": "assets/images/23538/step_01.webp"
+    },
+    {
+      "text": "Pour hot coffee into a mug. Stir in cocoa, sugar, and milk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YH7-KMS-AAqUSYUDoE8j0OFaxqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23538-mocha-coffee-ddmfs-step-02-bc1c50f6e2cc476bb275038cf8e57c39.jpg"
+      ],
+      "image": "assets/images/23538/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "78 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "18 mg",
+    "sugarContent": "14 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "206"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/U-LzBq7WxRoRg-D8w2i33NpHStE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23538-mocha-coffee-ddmfs-4x3-1-e3a40f5fe05f40e0abf0faa01293f211.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23538/hero.webp",
+    "steps": [
+      "assets/images/23538/step_01.webp",
+      "assets/images/23538/step_02.webp"
+    ]
+  }
+}

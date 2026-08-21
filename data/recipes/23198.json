@@ -1,0 +1,77 @@
+{
+  "id": "23198",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23198/cheese-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/23198/cheese-sauce/",
+  "title": "Cheese Sauce",
+  "description": "This is a very easy cheese sauce that gets my family to eat their vegetables. If you&#39;ve always wondered how to make melted cheese pourable, this is the recipe you&#39;ve been looking for. Longhorn cheese is melted and combined with milk, cornstarch, spices and yellow food coloring for a sauce you can serve with most anything.",
+  "authors": [
+    "D. Hamilton"
+  ],
+  "date_published": "2000-10-26T12:16:47-04:00",
+  "date_modified": "2022-09-21T15:26:05-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups milk, divided",
+    "2 tablespoons cornstarch",
+    "2 cups shredded Colby longhorn cheese",
+    "0.5 teaspoon garlic salt",
+    "0.125 teaspoon ground red pepper",
+    "4 drops yellow food coloring"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl combine 1/2 cup milk with cornstarch; mix well and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium saucepan over low heat, combine cheese with 2 cups milk and melt. Stir in garlic salt, red pepper and food coloring. To the melted cheese add the cornstarch mixture and stir well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "252 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "53 mg",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "505 mg",
+    "sugarContent": "6 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.3",
+    "ratingCount": "132"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/c-kCJaGkBG0B9nmM6RY8EHrP_80=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4483829-33051d4db1f44f838711fe13073ac3db.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23198/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

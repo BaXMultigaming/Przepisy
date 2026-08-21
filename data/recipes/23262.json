@@ -1,0 +1,70 @@
+{
+  "id": "23262",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23262/sesame-broccoli/",
+  "requested_url": "https://www.allrecipes.com/recipe/23262/sesame-broccoli/",
+  "title": "Sesame Broccoli",
+  "description": "Need a quick and easy side dish? Broccoli and bell pepper are stir fried with sesame seeds for a tasty side dish that complements any meal.",
+  "authors": [
+    "Krista B"
+  ],
+  "date_published": "2000-10-26T23:20:25-04:00",
+  "date_modified": "2022-07-14T17:09:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon sesame oil",
+    "2 cups chopped broccoli",
+    "1 tablespoon sesame seeds",
+    "1 green bell pepper, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Saute broccoli and sesame seeds for 2 minutes. Stir in bell pepper and cook 2 to 3 minutes, until pepper is tender crisp.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "67 kcal",
+    "carbohydrateContent": "6 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "112"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pbl2SiarFzup0DMJJraq95oD07k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12628-15f08c7010ad4aaa8910cabfc30d0b41.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23262/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

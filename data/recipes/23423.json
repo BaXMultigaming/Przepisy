@@ -1,0 +1,86 @@
+{
+  "id": "23423",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23423/baking-potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/23423/baking-potato-soup/",
+  "title": "Baking Potato Soup",
+  "description": "Potatoes and gravy mix make a quick, thick soup.",
+  "authors": [
+    "AWE"
+  ],
+  "date_published": "2000-10-31T00:11:04-05:00",
+  "date_modified": "2019-04-03T23:27:37-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large potatoes, peeled and diced",
+    "0.25 cup butter",
+    "1 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "4.5 cups water, divided",
+    "3 (1 ounce) packages white gravy mix"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in a pot with water to cover. Bring to a boil, introduce butter, salt and pepper. Reduce heat to medium low and simmer until potatoes are tender, 10 to 20 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, prepare gravy mix. Bring 3 1/2 cups of water to a boil in a large saucepan. Combine the remaining cup of water with the gravy mix and stir to dissolve. Stir into boiling water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain potatoes and add to boiling gravy mix. Continue to boil 5 minutes more, adding water to thin if desired. Serve at once.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "193 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "489 mg",
+    "sugarContent": "4 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TFdyI4V2qzEF06QvNJez6ZP_2Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/741259-90d8e99827c34840a60ba224362e72f5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23423/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

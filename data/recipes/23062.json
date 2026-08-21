@@ -1,0 +1,90 @@
+{
+  "id": "23062",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23062/quick-spaghetti-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/23062/quick-spaghetti-sauce/",
+  "title": "Quick Spaghetti Sauce",
+  "description": "Quick and awesome spaghetti sauce with bell pepper, garlic and onion.",
+  "authors": [
+    "Jon"
+  ],
+  "date_published": "2000-09-23T16:34:31-04:00",
+  "date_modified": "2022-07-14T16:38:08-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 green bell pepper, chopped",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 (28 ounce) can whole tomatoes",
+    "2 tablespoons Italian seasoning",
+    "1 cup chicken broth",
+    "1 (6 ounce) can tomato paste"
+  ],
+  "steps": [
+    {
+      "text": "In a hot skillet, saute bell pepper and onion on medium-high for 5 minutes. Add garlic and saute one more minute. Stir in tomatoes and chicken broth. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place mixture in blender and blend until the desired level of chunkiness is achieved. Return to medium-low heat. Stir in tomato paste one tablespoon at a time until desired level of thickness is reached. Cook for 20 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/VgPMlyS_LAziOhYBL7D_mc7hHZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5169393-4e2737896eb74a23b4dbeaf654cde788.jpg"
+      ],
+      "image": "assets/images/23062/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "68 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "572 mg",
+    "sugarContent": "8 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "109"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/2Y51r1Hn-ma1DlVvV.mp4",
+    "description": "AR0860",
+    "duration": "PT2M38S",
+    "name": "Quick Spaghetti Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/2Y51r1Hn/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T22:10:43-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VgPMlyS_LAziOhYBL7D_mc7hHZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5169393-4e2737896eb74a23b4dbeaf654cde788.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23062/hero.webp",
+    "steps": [
+      null,
+      "assets/images/23062/step_02.webp"
+    ]
+  }
+}

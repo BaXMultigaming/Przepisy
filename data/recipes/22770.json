@@ -1,0 +1,74 @@
+{
+  "id": "22770",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22770/white-bread-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/22770/white-bread-iii/",
+  "title": "White Bread III",
+  "description": "A simple white bread for the bread machine. Dry potato flakes help make the texture soft.",
+  "authors": [
+    "Robin Warner"
+  ],
+  "date_published": "2000-10-17T14:50:29-04:00",
+  "date_modified": "2022-07-14T17:48:00-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "15",
+    "2 pound loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 teaspoons active dry yeast",
+    "3.25 cups bread flour",
+    "2 tablespoons dry milk powder",
+    "2 teaspoons salt",
+    "2 tablespoons white sugar",
+    "2 tablespoons vegetable oil",
+    "0.25 cup instant mashed potato flakes",
+    "1.375 cups water"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select White Bread setting; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "317 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "44"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Zf36qZXeS4eR6W3eweVfg419wxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/158757-8875c0af511840e7b296b0b21fbff57e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22770/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

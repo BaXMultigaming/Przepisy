@@ -1,0 +1,99 @@
+{
+  "id": "22451",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22451/amish-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/22451/amish-bread/",
+  "title": "Amish Bread",
+  "description": "This Amish white bread recipe is simple to make, thanks to a bread machine. It makes a sweet loaf that&#39;s great for sandwiches.",
+  "authors": [
+    "SHOOSEYQ"
+  ],
+  "date_published": "2000-09-27T16:53:01-04:00",
+  "date_modified": "2026-06-02T14:39:25-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT55M",
+  "total_time": "PT300M",
+  "yield": [
+    "12",
+    "1 loaf"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Amish"
+  ],
+  "regions": [
+    "Amish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.75 cups bread flour",
+    "0.25 cup canola oil",
+    "1 teaspoon active dry yeast",
+    "0.25 cup white sugar",
+    "0.5 teaspoon salt",
+    "1.125 cups warm water, or more as needed"
+  ],
+  "steps": [
+    {
+      "text": "Place flour, oil, yeast, sugar, salt, and warm water into a bread machine in the order listed, or follow the order recommended by your manufacturer if different.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Select White Bread cycle.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When dough has gone through one rise cycle and the second kneading cycle is beginning, turn the machine off. Select White Bread Cycle again, this time letting it go through the full cycle.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove loaf from the machine after the cycle is done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "58 kcal",
+    "carbohydrateContent": "4 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "98 mg",
+    "sugarContent": "4 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "644"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5yinTSSjUgcoJQmHIf1c9lMzg0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1635464-amish-bread-robert1340-4x3-1-7fc4af090da041529b228bb15d9553dd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22451/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "23230",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23230/wins-shrimp-and-spaghetti/",
+  "requested_url": "https://www.allrecipes.com/recipe/23230/wins-shrimp-and-spaghetti/",
+  "title": "Win&#39;s Shrimp and Spaghetti",
+  "description": "Fresh shrimp simmered in butter, teriyaki sauce and Creole-style seasoning, served over pasta.",
+  "authors": [
+    "J Morris"
+  ],
+  "date_published": "2000-10-25T10:56:57-04:00",
+  "date_modified": "2022-08-04T11:38:32-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT10M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Cajun"
+  ],
+  "regions": [
+    "Cajun"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 ounces uncooked spaghetti",
+    "1 cup butter",
+    "1 tablespoon Creole-style seasoning",
+    "1 teaspoon freshly ground black pepper",
+    "1 tablespoon teriyaki sauce",
+    "1.5 pounds fresh shrimp, shelled and deveined without tails",
+    "0.25 cup Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet over medium heat, combine butter, Creole seasoning, black pepper, and teriyaki sauce. When butter is hot add the shrimp and simmer for 5 minutes or until shrimp are pink throughout.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon the shrimp on top of the pasta and sprinkle each serving with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "606 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "264 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "878 mg",
+    "sugarContent": "2 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SfJYdhWH9Am5-LwmhDDD_o-dc1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48331-a394b7083e204b73b9411ca7f8c22d53.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23230/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

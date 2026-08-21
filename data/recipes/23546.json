@@ -1,0 +1,68 @@
+{
+  "id": "23546",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23546/tropical-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/23546/tropical-shake/",
+  "title": "Tropical Shake",
+  "description": "A refreshing summer treat. Pineapple-orange-banana juice is blended with vanilla ice cream in this simple creamy concoction.",
+  "authors": [
+    "Dogren"
+  ],
+  "date_published": "2000-09-24T12:58:58-04:00",
+  "date_modified": "2022-07-14T16:13:08-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups pineapple-orange-banana juice",
+    "2 scoops vanilla ice cream"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine pineapple-orange-banana juice and ice cream. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "162 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "37 mg",
+    "sugarContent": "26 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lALKc8TcwreSsjppHzCVYu6VTw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1080692-874eb85da30245bba5b3204f8c9a68ef.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23546/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

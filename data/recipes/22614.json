@@ -1,0 +1,98 @@
+{
+  "id": "22614",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22614/the-best-garlic-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/22614/the-best-garlic-bread/",
+  "title": "The Best Garlic Bread",
+  "description": "This is the best garlic bread ever. It’s spread with mayonnaise, Parmesan cheese, and garlic powder, then broiled until golden brown and bubbly.",
+  "authors": [
+    "DOODLE BUG72"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-08-17T16:16:37-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT2M",
+  "total_time": "PT10M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons mayonnaise",
+    "0.5 cup grated Parmesan cheese",
+    "1 tablespoon garlic powder",
+    "1 (1 pound) loaf Italian bread"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven’s broiler.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix together mayonnaise, Parmesan cheese, and garlic powder in a medium bowl until thick and well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slice loaf in half lengthwise and spread the cut-side of each piece with mayonnaise mixture. Place halves on a medium baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook under the preheated broiler until mayonnaise mixture is bubbling and golden brown, 2 to 5 minutes; check frequently to avoid burning.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "139 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "298 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "102"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eGILIpXOcyeoKGCirmFKk49Y-Xg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/274312-c32eadea386d4c5389f099f30b309709.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22614/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

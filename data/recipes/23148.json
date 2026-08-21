@@ -1,0 +1,73 @@
+{
+  "id": "23148",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23148/cherry-fluff/",
+  "requested_url": "https://www.allrecipes.com/recipe/23148/cherry-fluff/",
+  "title": "Cherry Fluff",
+  "description": "This delightful cherry fluff is made with just 4 ingredients: cherry pie filling, sweetened condensed milk, crushed pineapple, and whipped topping.",
+  "authors": [
+    "SHAY72"
+  ],
+  "date_published": "2000-10-24T18:50:30-04:00",
+  "date_modified": "2025-11-30T11:08:51-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT125M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (20 ounce) can crushed pineapple, drained",
+    "1 (21 ounce) can cherry pie filling",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 (8 ounce) container frozen whipped topping, thawed"
+  ],
+  "steps": [
+    {
+      "text": "Mix crushed pineapple, cherry pie filling, sweetened condensed milk, and whipped topping together in a bowl; chill in the refrigerator at least 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "187 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "42 mg",
+    "sugarContent": "22 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "207"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1UnxgHglpU7zQlx4Jc3P2MxwbF8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6573355_cherry-fluff_lutzflcat_4x3-b5005fe497e846a1ab2f2f5db283da6b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23148/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

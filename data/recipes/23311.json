@@ -1,0 +1,78 @@
+{
+  "id": "23311",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23311/blueberry-topping/",
+  "requested_url": "https://www.allrecipes.com/recipe/23311/blueberry-topping/",
+  "title": "Blueberry Topping",
+  "description": "A versatile and easy to make blueberry sauce.",
+  "authors": [
+    "Ellen Wojdyla"
+  ],
+  "date_published": "2000-10-23T11:31:45-04:00",
+  "date_modified": "2022-07-14T16:10:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "6 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts blueberries, rinsed and drained",
+    "2 cups water",
+    "1 tablespoon grated lemon peel",
+    "3 cups white sugar",
+    "4 cups water",
+    "2 tablespoons lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Place blueberries in a large stockpot and crush with a potato masher. Add water and lemon peel; simmer over low heat for 5 minutes. Strain fruit through cheese cloth, metal strainer or food mill to remove pulp and seeds; reserve juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan, mix sugar and 4 cups water. Bring to a boil, stirring occasionally, until temperature reaches 260 degrees F (125 degrees C). Add blueberry juice and boil for 1 minute. Stir in lemon juice and remove from heat. Let cool and freeze or can as desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "390 kcal",
+    "carbohydrateContent": "101 g",
+    "fiberContent": "4 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "92 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iCR46W2cd0KAqRehlXX2MqHJB4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212978-bd9f85962bdd4ea7ac467242edba62ff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23311/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

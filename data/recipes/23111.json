@@ -1,0 +1,87 @@
+{
+  "id": "23111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23111/banana-split-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/23111/banana-split-pie/",
+  "title": "Banana Split Pie",
+  "description": "Graham cracker crusts are filled with a margarine, egg and confectioners&#39; sugar mixture, then topped with bananas, pineapple, whipped topping, cherries and pecans.",
+  "authors": [
+    "Judy Bowen"
+  ],
+  "date_published": "2000-10-21T14:08:16-04:00",
+  "date_modified": "2024-01-25T15:54:02-05:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT90M",
+  "yield": [
+    "22",
+    "24 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup margarine, softened",
+    "2 eggs",
+    "2 cups confectioners' sugar",
+    "2 (9 inch) prepared graham cracker crusts",
+    "5 bananas, sliced",
+    "1 (15 ounce) can crushed pineapple, drained with juice reserved",
+    "1 (16 ounce) container frozen whipped topping, thawed",
+    "1 (4 ounce) jar maraschino cherries",
+    "0.5 cup pecans"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, cream together the margarine, eggs and confectioners' sugar; beat for 15 minutes. Spread evenly in the graham cracker crusts.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In each crust, place banana slices on top of sugar mixture; spread pineapple on bananas. Spoon a little of the reserved juice over fruit. Spoon whipped topping over fruit; garnish with cherries and pecans. Chill before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "339 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "217 mg",
+    "sugarContent": "29 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SuiJ9_YR2n0Nig9Q-NKRC6_gfJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23111banana-split-pie4x3-b64830d2dbf647e79ebfb68821477143.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23111/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

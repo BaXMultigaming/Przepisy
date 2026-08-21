@@ -1,0 +1,77 @@
+{
+  "id": "22929",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22929/banana-smoothie-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/22929/banana-smoothie-i/",
+  "title": "Rich and Creamy Banana Smoothie",
+  "description": "This easy banana smoothie recipe blends banana, milk, vanilla, egg, and cinnamon into a creamy breakfast or snack ready in just 5 minutes.",
+  "authors": [
+    "ALICIA_F"
+  ],
+  "date_published": "2000-10-18T13:43:00-04:00",
+  "date_modified": "2026-07-15T06:54:26-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1 cup milk",
+    "1 teaspoon vanilla extract",
+    "1 egg",
+    "2 tablespoons white sugar",
+    "1 pinch ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Place banana, milk, vanilla, egg, and sugar in a blender; blend until smooth. Pour into a tall glass and top with a pinch of cinnamon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "410 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "206 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "172 mg",
+    "sugarContent": "52 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "256"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MUYQdPffNk26HxiGSLWFpo2c_y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/583230-banana-smoothie-i-Maggie-Yant-4x3-1-62b0c5fc7a864a01824ccef5f8d87eba.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22929/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

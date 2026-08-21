@@ -1,0 +1,85 @@
+{
+  "id": "23685",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23685/fried-cabbage-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/23685/fried-cabbage-ii/",
+  "title": "Fried Cabbage and Bacon",
+  "description": "Cabbage and onions are fried in bacon grease and served with crispy bacon and a splash of cider vinegar for a tasty and tangy side dish.",
+  "authors": [
+    "Jen"
+  ],
+  "date_published": "2020-06-18T23:05:03-04:00",
+  "date_modified": "2026-06-03T11:35:08-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 slices bacon, chopped",
+    "0.25 cup chopped onion",
+    "6 cups cabbage, cut into thin wedges",
+    "2 tablespoons water",
+    "1 pinch white sugar",
+    "salt and pepper to taste",
+    "1 tablespoon cider vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Remove bacon, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook onion in the hot bacon grease until tender. Add cabbage, and stir in water, sugar, salt, and pepper. Cook until cabbage wilts, about 15 minutes. Stir in bacon. Splash with vinegar before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "47 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "114 mg",
+    "sugarContent": "3 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "921"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7MgzpcMTTAEZhMdHKdqqQS5laFM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23685-Fried-Cabbage-and-Bacon-Beauty-4x3-db8db7737d3b4967a25efc3ecb165125.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23685/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

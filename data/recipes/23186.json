@@ -1,0 +1,78 @@
+{
+  "id": "23186",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23186/ultimate-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/23186/ultimate-french-toast/",
+  "title": "Ultimate French Toast",
+  "description": "This is a good, old-fashioned way of making delicious French toast. To add a little pizzazz to it, sprinkle on some cinnamon after dipping the bread into the batter. Serve hot with butter and maple syrup.",
+  "authors": [
+    "Sevanna"
+  ],
+  "date_published": "2000-09-09T09:14:46-04:00",
+  "date_modified": "2022-07-14T15:48:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "2 tablespoons milk",
+    "0.25 teaspoon ground cinnamon",
+    "8 slices bread"
+  ],
+  "steps": [
+    {
+      "text": "Combine eggs, milk and cinnamon; beat well. Dip bread into egg mixture until completely coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle or frying pan over medium high heat. Cook bread slices until they are golden brown on both sides. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "187 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "414 mg",
+    "sugarContent": "3 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "282"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YO5jfFDzDchH9fk6hp0waZWR4m4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3314610-ea3348f2ee814de3bd85c2b67075a762.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23186/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

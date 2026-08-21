@@ -1,0 +1,84 @@
+{
+  "id": "22932",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22932/real-potato-leek-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/22932/real-potato-leek-soup/",
+  "title": "Real Potato Leek Soup",
+  "description": "This fresh leek and baby potato soup is made with chicken broth and milk, and seasoned with salt and pepper. It&#39;s best with crumbled bacon bits.",
+  "authors": [
+    "Ashley"
+  ],
+  "date_published": "2000-10-10T12:39:02-04:00",
+  "date_modified": "2024-11-27T21:27:13-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT45M",
+  "total_time": "PT75M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "18 small red new potatoes",
+    "6 cups chicken broth",
+    "3 leeks, chopped",
+    "3 tablespoons butter",
+    "2 cups milk",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large saucepan with water to cover. Bring to a boil and cook until tender. Meanwhile, sauté leeks in butter until translucent.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When potatoes are done, skin them while they are still hot and cut them into bite-sized pieces. Place potatoes into a stock pot with chicken broth and leeks. Season with salt and pepper. Cook over medium heat until simmering, then remove from heat and stir in milk. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "400 kcal",
+    "carbohydrateContent": "78 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "796 mg",
+    "sugarContent": "8 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "135"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kdCqHfX4-RD-RVNqOKVrQG1geRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6213806-8bdf96f1374444e0b461a913550fe476.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22932/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

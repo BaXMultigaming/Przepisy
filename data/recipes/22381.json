@@ -1,0 +1,103 @@
+{
+  "id": "22381",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22381/creamy-cornbread-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/22381/creamy-cornbread-casserole/",
+  "title": "Creamy Cornbread Casserole",
+  "description": "A deliciously moist and dense cornbread with a topping of melted cheese.",
+  "authors": [
+    "HOBOLTH4"
+  ],
+  "date_published": "2000-09-25T17:53:08-04:00",
+  "date_modified": "2025-12-11T11:20:59-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "12",
+    "1 - 9x13 inch pan"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can whole kernel corn, drained and 1/2 liquid reserved",
+    "1 (14.75 ounce) can cream-style corn",
+    "2 eggs",
+    "1 (8 ounce) package dry corn bread mix",
+    "1 cup sour cream",
+    "8 ounces Cheddar cheese, shredded"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a 9x13 inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large mixing bowl, combine corn, reserved liquid, eggs, corn bread mix and sour cream; stir until blended. Pour batter into prepared pan; sprinkle with cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 30 minutes, until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rfrCQ_rt_d1GCi2v9JXuwCBU3Uw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/103842-47d45d3d16674eb0b684ad418fc27459.jpg"
+      ],
+      "image": "assets/images/22381/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "60 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "642 mg",
+    "sugarContent": "4 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "258"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/DSA3XiwL-K3AjnAEN.mp4",
+    "description": "Rich creamed corn makes this easy casserole the perfect side for your next celebration!",
+    "duration": "PT52S",
+    "name": "Creamy Cornbread Casserole ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/DSA3XiwL/poster.jpg?width=1280",
+    "uploadDate": "2021-02-18T11:33:53-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rfrCQ_rt_d1GCi2v9JXuwCBU3Uw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/103842-47d45d3d16674eb0b684ad418fc27459.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22381/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/22381/step_03.webp"
+    ]
+  }
+}

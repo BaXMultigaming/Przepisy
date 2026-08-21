@@ -1,0 +1,75 @@
+{
+  "id": "23156",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23156/strawberry-pie-vi/",
+  "requested_url": "https://www.allrecipes.com/recipe/23156/strawberry-pie-vi/",
+  "title": "Becky&#39;s Strawberry Pie",
+  "description": "This strawberry Cool Whip pie is easy and delicious. A fluffy strawberry mousse is piled into a graham cracker crust and topped with sliced strawberries.",
+  "authors": [
+    "Becky"
+  ],
+  "date_published": "2000-10-23T21:35:23-04:00",
+  "date_modified": "2023-03-26T12:34:01-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT150M",
+  "yield": [
+    "8",
+    "1 9-inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (3 ounce) package strawberry flavored Jell-O®",
+    "0.66666668653488 cup boiling water",
+    "3 cubes ice",
+    "1 (8 ounce) container frozen whipped topping, thawed",
+    "1 cup strawberries, hulled and sliced",
+    "1 (9 inch) prepared graham cracker crust"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine gelatin and boiling water. Stir until gelatin dissolves, about 3 minutes. Add ice and stir until gelatin thickens and cools. Fold in whipped topping and strawberries. Chill until mixture will mound, 20 to 30 minutes, then spoon into crust. Refrigerate for at least 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "221 mg",
+    "sugarContent": "28 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vcd8fEL1xhQH23MCwoxPQs8OS6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberry-Pie-IV-Deanna-Keto-2000-bf30a8bcbe5f4b609548fc98b88e64c6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23156/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

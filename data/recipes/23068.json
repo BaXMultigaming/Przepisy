@@ -1,0 +1,74 @@
+{
+  "id": "23068",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23068/nonalco-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/23068/nonalco-punch/",
+  "title": "Nonalco Punch",
+  "description": "Cranberry and pineapple juices are sweetened with sugar, flavored with almond extract, and mixed with ginger ale in this festive punch.",
+  "authors": [
+    "Ruth Perkins"
+  ],
+  "date_published": "2000-02-15T18:05:20-05:00",
+  "date_modified": "2022-09-27T18:52:43-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups cranberry juice",
+    "4 cups pineapple juice",
+    "1.5 cups white sugar",
+    "1 teaspoon almond extract",
+    "1 liter ginger ale soda"
+  ],
+  "steps": [
+    {
+      "text": "In a large punch bowl, combine cranberry juice, pineapple juice and sugar. Stir until sugar is dissolved. Add almond extract and pour in the ginger ale.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "108 kcal",
+    "carbohydrateContent": "27 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "25 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "65"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vEiltBhu3ah_1pNd2sVHmLS0g_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/994950-e5f641a1cbc44260b31abdb61a8ecdd3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23068/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

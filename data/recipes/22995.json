@@ -1,0 +1,83 @@
+{
+  "id": "22995",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22995/marshmallow-log/",
+  "requested_url": "https://www.allrecipes.com/recipe/22995/marshmallow-log/",
+  "title": "Marshmallow Log",
+  "description": "Colored marshmallows, graham cracker crumbs, condensed milk, walnuts and candied cherries are shaped into a log, covered in coconut and chilled.",
+  "authors": [
+    "Laura Moffatt"
+  ],
+  "date_published": "2000-09-30T15:54:02-04:00",
+  "date_modified": "2026-07-30T12:09:20-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups flaked coconut",
+    "2 cups miniature colored marshmallows",
+    "2 cups crushed graham crackers",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 cup chopped walnuts",
+    "10 candied cherries, quartered"
+  ],
+  "steps": [
+    {
+      "text": "Sprinkle coconut evenly on a sheet of waxed paper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, stir together marshmallows, graham cracker crumbs, condensed milk, walnuts, and cherries. Shape into a log; place on waxed paper and roll in coconut. Wrap with waxed paper and refrigerate until firm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "332 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "170 mg",
+    "sugarContent": "35 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bTzUBwZc62Seh8_uQOxhPop-yDc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7536323-11ca93a9a2f84ffa95d5815a4730287f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22995/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

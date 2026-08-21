@@ -1,0 +1,88 @@
+{
+  "id": "23604",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23604/spaghetti-skillet-dinner/",
+  "requested_url": "https://www.allrecipes.com/recipe/23604/spaghetti-skillet-dinner/",
+  "title": "Spaghetti Skillet Dinner",
+  "description": "This quick and easy one-skillet spaghetti and beef dinner with mushrooms, bell peppers, and mozzarella cheese is sure to become a family favorite!",
+  "authors": [
+    "BJ MOORE"
+  ],
+  "date_published": "2019-04-03T23:27:41-04:00",
+  "date_modified": "2026-05-06T09:30:20-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dinner",
+    "Pasta"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 cup chopped onions",
+    "0.5 cup chopped green bell peppers",
+    "1 cup sliced mushrooms",
+    "1 (28 ounce) can whole peeled tomatoes, with liquid",
+    "12 ounces spaghetti, broken into pieces",
+    "1 cup water",
+    "1.5 teaspoons Italian seasoning",
+    "salt and pepper to taste",
+    "1 cup shredded mozzarella cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a skillet over medium heat, brown ground beef with onions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix in green pepper and mushrooms; cook for a few minutes. Add tomatoes with juice, spaghetti, and water; stir well. Add Italian seasoning, salt, and pepper. Cook for about 15 minutes, stirring occasionally, until spaghetti is tender. Add mozzarella cheese and stir until melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "536 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "450 mg",
+    "sugarContent": "8 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "51"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ym76z-TcYqpeBSP4h4NZjiGW52s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6579407_spaghetti-skillet-dinner_lutzflcat_4x3-25e5e6f6701a43348438f4a2b2819a85.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23604/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

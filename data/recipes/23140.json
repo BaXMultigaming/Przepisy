@@ -1,0 +1,74 @@
+{
+  "id": "23140",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23140/yummy-candied-yams/",
+  "requested_url": "https://www.allrecipes.com/recipe/23140/yummy-candied-yams/",
+  "title": "Yummy Candied Yams",
+  "description": "These candied yams are sweet potatoes are cooked on the stove with butter and sugar until thick and syrupy. Top with a dash of cinnamon if you like!",
+  "authors": [
+    "Pamela"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2023-04-01T18:16:57-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT45M",
+  "total_time": "PT50M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 sweet potatoes, peeled and cubed",
+    "0.5 cup water",
+    "1 cup butter",
+    "2 cups white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over medium heat, place potatoes in water. Top with butter and sugar, cover and bring to a boil. Reduce heat to low and simmer, without stirring, until mixture is thick and syrupy, 40 minutes. Mixture will thicken slightly as it cools. Remove from heat and serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "446 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "181 mg",
+    "sugarContent": "54 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "110"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2OFXVE0nyIDDYakK29uzHSNZ9uc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1110431-80d0ea6d4f354f08b4410ec2c07c38fa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23140/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

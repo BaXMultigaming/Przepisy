@@ -1,0 +1,89 @@
+{
+  "id": "23340",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23340/bar-b-q/",
+  "requested_url": "https://www.allrecipes.com/recipe/23340/bar-b-q/",
+  "title": "Bar-B-Q",
+  "description": "Sweet sloppy joes consisting of ground beef, tomato and French onion soups. Make a heartier version by adding some green pepper and chopped onion to the mix. Give it a little extra flavor by adding some chopped garlic. Serve over hamburger buns.",
+  "authors": [
+    "Nancy"
+  ],
+  "date_published": "2000-10-25T21:42:12-04:00",
+  "date_modified": "2022-08-08T10:44:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds lean ground beef",
+    "1 (10.75 ounce) can condensed tomato soup",
+    "1 (10.5 ounce) can condensed French onion soup",
+    "0.5 cup ketchup",
+    "0.5 cup packed brown sugar",
+    "10 hamburger buns"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium heat, brown the ground beef; drain fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in tomato and French onion soups. Fill each can a quarter full with water to rinse the cans out. Pour into meat mixture. Add ketchup and brown sugar. Mix thoroughly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let simmer for 30 minutes. Serve on hamburger buns.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "480 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "84 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "844 mg",
+    "sugarContent": "19 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "89"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/r0Sy20iLQU9IBEcYN5w-BQ4g7Hc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6840-2266c45ace6649f7ad8a9e9ef70dadda.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23340/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

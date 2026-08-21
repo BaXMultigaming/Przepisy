@@ -1,0 +1,94 @@
+{
+  "id": "23026",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23026/restaurant-style-mac-and-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/23026/restaurant-style-mac-and-cheese/",
+  "title": "Restaurant Style Mac and Cheese",
+  "description": "This easy macaroni and cheese is made on the stovetop for a rich, creamy dinnertime favorite.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-08-17T22:18:05-04:00",
+  "date_modified": "2026-06-25T17:45:16-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups macaroni",
+    "6 ounces processed cheese, shredded",
+    "0.5 cup shredded Cheddar cheese",
+    "2 tablespoons heavy cream",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return drained pasta to the pot. Mix in processed cheese, Cheddar cheese, and cream. Stir until cheeses melt. Sprinkle with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/GQjqQe58SmPRw7iCHwTNvsNSntY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/794691-3d85e689dc1a4ec1832246d768190aed.jpg"
+      ],
+      "image": "assets/images/23026/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "376 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "623 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "210"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/QlLsnG7J-ma1DlVvV.mp4",
+    "description": "AR1295",
+    "duration": "PT1M42S",
+    "name": "Restaurant Style Mac and Cheese",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/QlLsnG7J/poster.jpg?width=1280",
+    "uploadDate": "2021-07-10T14:03:39-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GQjqQe58SmPRw7iCHwTNvsNSntY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/794691-3d85e689dc1a4ec1832246d768190aed.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23026/hero.webp",
+    "steps": [
+      null,
+      "assets/images/23026/step_02.webp"
+    ]
+  }
+}

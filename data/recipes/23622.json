@@ -1,0 +1,88 @@
+{
+  "id": "23622",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23622/loaded-potato-soup-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/23622/loaded-potato-soup-ii/",
+  "title": "Loaded Potato Soup II",
+  "description": "Potatoes and veggies are combined with condensed cream of potato soup and milk in this quick, creamy soup.",
+  "authors": [
+    "STKA"
+  ],
+  "date_published": "2018-06-08T09:14:54-04:00",
+  "date_modified": "2022-12-05T18:24:18-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 potatoes, peeled and cubed",
+    "1 teaspoon salt",
+    "2 tablespoons butter",
+    "2 stalks celery, diced",
+    "2 carrots, shredded",
+    "1 large onion, diced",
+    "2 (10.75 ounce) cans condensed cream of potato soup",
+    "1 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes and salt in a large saucepan with water to cover. Bring to a boil, then reduce heat and simmer until just tender, 15 minutes. Drain and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium skillet, melt butter over medium heat. Cook celery, carrots and onion in butter until onion is translucent.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine potatoes, vegetable mixture, cream of potato soup and milk in a large pot over low heat. Simmer 15 minutes, adjusting milk to desired thickness. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "220 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "668 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mWhHxboKbcaI8JPeVK1wNiQyrBs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Loaded-Potato-Soup-2000-5556fc8bf96447a6b5db5f22e9cf142a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23622/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

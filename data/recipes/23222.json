@@ -1,0 +1,82 @@
+{
+  "id": "23222",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23222/plum-pudding-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/23222/plum-pudding-sauce/",
+  "title": "Plum Pudding Sauce",
+  "description": "This sweet sauce with a hint of vanilla is perfect for topping Christmas pudding! This simple recipe combines butter, sugar, egg, milk, and vanilla.",
+  "authors": [
+    "LIZ"
+  ],
+  "date_published": "2000-09-19T11:39:46-04:00",
+  "date_modified": "2023-12-11T06:42:39-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "British"
+  ],
+  "regions": [
+    "British"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons margarine",
+    "0.75 cup white sugar",
+    "1 egg",
+    "2 cups milk",
+    "2 teaspoons all-purpose flour",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine butter, sugar, and egg in a small saucepan over medium heat. Pour in milk; cook and stir until mixture begins to bubble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in flour and vanilla until well combined. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "279 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "56 mg",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "130 mg",
+    "sugarContent": "44 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aHJKNHqmy4c5saHsl6kcP8gf6z4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7938641-plum-pudding-sauce-lutzflcat-4x3-1-88257488872f4899babe94e8cca2133d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23222/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

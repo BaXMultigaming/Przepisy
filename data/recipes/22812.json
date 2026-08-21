@@ -1,0 +1,84 @@
+{
+  "id": "22812",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22812/creamy-veggie-potato-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/22812/creamy-veggie-potato-stew/",
+  "title": "Creamy Veggie Potato Stew",
+  "description": "This creamy potato stew with carrots, celery, and onion is subtly spiced with paprika for a wholesome and hearty meal the whole family will enjoy.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-10-13T22:38:52-04:00",
+  "date_modified": "2023-01-29T00:18:44-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 quarts water",
+    "8 large potatoes, peeled and sliced",
+    "4 large carrots, diced",
+    "2 stalks celery, chopped",
+    "0.33000001311302 cup butter",
+    "2 small onions, chopped",
+    "2 tablespoons all-purpose flour",
+    "1.5 teaspoons salt",
+    "1 teaspoon ground black pepper",
+    "0.25 teaspoon paprika",
+    "2 cups heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "Bring water to a boil in a large saucepan; stir in the potatoes, carrots, and celery. Boil vegetables until tender but firm, about 15 minutes. Remove from heat; drain and set aside, reserving liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large saucepan over medium heat. Add onions; cook and stir until tender, about 5 to 7 minutes. Mix in flour, salt, pepper, and paprika; stir in heavy cream. Add potatoes, carrots, and celery; continue cooking and stirring, adding the reserved cooking liquid, a tablespoon at a time, until stew has reached the desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "470 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "463 mg",
+    "sugarContent": "5 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hqxxorrO9BLVZzquy4cYPXZ6-1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/994110-creamy-veggie-potato-stew-lisa-4x3-1-1f5ae1f1a0f34c7f92118df98d9a7c50.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22812/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

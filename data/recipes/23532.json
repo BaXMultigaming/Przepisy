@@ -1,0 +1,82 @@
+{
+  "id": "23532",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23532/tea-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/23532/tea-punch/",
+  "title": "Tea Punch",
+  "description": "A different twist to a standard punch. Brewed tea is mixed with orange juice, pineapple juice, lemonade and ginger ale.",
+  "authors": [
+    "Wendy"
+  ],
+  "date_published": "2000-09-13T16:11:57-04:00",
+  "date_modified": "2026-07-10T19:16:07-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT270M",
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "1 cup strong brewed black tea",
+    "4 cups orange juice",
+    "4 cups pineapple juice",
+    "4 cups prepared lemonade",
+    "1 (2 liter) bottle ginger ale, chilled"
+  ],
+  "steps": [
+    {
+      "text": "In a pitcher, combine sugar and tea. Stir until sugar is dissolved. Stir in orange juice, pineapple juice and lemonade. Chill in refrigerator for 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Just before serving, pour chilled juice mixture into a punch bowl and stir in ginger ale.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "13 mg",
+    "sugarContent": "27 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jrzSNisFCdHnLtMg-iDDcwZxhlU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4106309-cb7d1889c50b4c9f990a999df45cc017.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23532/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

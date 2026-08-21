@@ -1,0 +1,90 @@
+{
+  "id": "22867",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22867/mock-apple-pie-iv/",
+  "requested_url": "https://www.allrecipes.com/recipe/22867/mock-apple-pie-iv/",
+  "title": "Mock Apple Pie IV",
+  "description": "A pie made with butterry round crackers. No apples are used, but it tastes as if they are!",
+  "authors": [
+    "Jo Vandevelde"
+  ],
+  "date_published": "2000-10-14T21:55:29-04:00",
+  "date_modified": "2022-07-14T17:46:38-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT90M",
+  "total_time": "PT150M",
+  "yield": [
+    "8",
+    "9 - inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1.25 cups white sugar",
+    "2 teaspoons cream of tartar",
+    "28 buttery round crackers",
+    "1 teaspoon ground cinnamon",
+    "0.25 teaspoon ground nutmeg",
+    "1 tablespoon butter",
+    "1 recipe pastry for a 9 inch double crust pie"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Line a 9 inch pie dish with pastry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan, combine water and sugar. Cook over high heat until boiling. Put in cream of tartar and reduce heat to simmer. Drop the crackers in, one at a time, and stir until mixture is translucent. Remove from heat and sir in cinnamon, nutmeg and butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let filling cool, then put into pie crust. Cover with top crust, seal and flute edges. Bake in the preheated oven for 60 to 75 minutes, or until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "428 kcal",
+    "carbohydrateContent": "60 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "358 mg",
+    "sugarContent": "32 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5qUsN_2BcP88IkD8GcoLe2Xkg3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1000384-c099891754674066b8ae42ca08cd0e0c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22867/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

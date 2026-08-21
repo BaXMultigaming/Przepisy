@@ -1,0 +1,81 @@
+{
+  "id": "22670",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22670/regular-chicken-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/22670/regular-chicken-soup/",
+  "title": "Regular Chicken Soup",
+  "description": "A simple, hearty chicken soup with noodles. It&#39;s perfect for a chilly winter afternoon.",
+  "authors": [
+    "Gdolapp"
+  ],
+  "date_published": "2000-10-04T21:53:34-04:00",
+  "date_modified": "2022-07-14T16:21:39-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT150M",
+  "total_time": "PT180M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 skinless, boneless chicken breast halves",
+    "8 cups water",
+    "10 carrots, peeled and sliced",
+    "6 stalks celery, thinly sliced",
+    "1 onion, diced",
+    "8 cubes chicken bouillon",
+    "1 (12 ounce) package uncooked egg noodles"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, boil the chicken until tender and no longer pink. Drain and dice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return diced chicken to the large saucepan. Mix together the water, carrots, celery, onion, chicken bouillon and egg noodles. Boil the mixture approximately 15 minutes, stirring occasionally. Reduce heat and simmer at least 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "348 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "82 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1689 mg",
+    "sugarContent": "7 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "50"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/O1OimqA75gLRyyh_Zw8_75giRpY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/871321-73faa03bfa544dd7a318be02fe76c4a4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22670/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "23118",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23118/chili-with-ziti/",
+  "requested_url": "https://www.allrecipes.com/recipe/23118/chili-with-ziti/",
+  "title": "Chili with Ziti",
+  "description": "Spicy chili with ground beef, onion, garlic, and kidney beans simmered in tomato sauce. Seasoned with oregano and cinnamon. Served over ziti pasta and topped with Cheddar cheese.",
+  "authors": [
+    "Michelle"
+  ],
+  "date_published": "2000-10-22T15:01:34-04:00",
+  "date_modified": "2025-04-10T23:09:19-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds lean ground beef",
+    "1 onion, finely chopped",
+    "1 clove garlic, minced",
+    "1 (8 ounce) can tomato sauce",
+    "2 tablespoons chili powder",
+    "0.5 teaspoon dried oregano, crushed",
+    "0.5 teaspoon ground cinnamon",
+    "1 (15 ounce) can kidney beans, drained",
+    "0.5 cup water",
+    "salt and pepper to taste",
+    "16 ounces dry ziti pasta",
+    "1 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a medium pot over medium heat, brown the ground beef, onion and garlic until the meat is no longer pink; drain fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in tomato sauce, chili powder, oregano and cinnamon; mix thoroughly. Pour in kidney beans and water; stir well. Salt and pepper to taste. Simmer on low for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a medium pot of lightly salted water to a boil. Pour in the ziti pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve the chili over the ziti and top with cheddar cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "705 kcal",
+    "carbohydrateContent": "79 g",
+    "cholesterolContent": "100 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "42 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "713 mg",
+    "sugarContent": "10 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IadnYVg1sZFjpdnRSHZ7h5XT4vo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4533900-fb33e816f47a4274b859d2a2809f1286.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23118/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

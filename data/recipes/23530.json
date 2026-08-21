@@ -1,0 +1,72 @@
+{
+  "id": "23530",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23530/orange-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/23530/orange-smoothie/",
+  "title": "Orange Smoothie",
+  "description": "A great drink for orange lovers, and a fun way to cool off! Orange juice concentrate is blended with milk and ice to produce a tasty slushy drink!",
+  "authors": [
+    "Trudy"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:52:11-04:00",
+  "prep_time": "PT1M",
+  "cook_time": "PT1M",
+  "total_time": "PT2M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "1 cup milk",
+    "1 cup water",
+    "1 teaspoon vanilla extract",
+    "0.33333334326744 cup white sugar",
+    "10 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine orange juice concentrate, milk, water, vanilla, sugar and ice. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "28 mg",
+    "sugarContent": "40 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "172"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yh1CiZ27FSx8vZjMoYFNJah8km0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2610325-18f926a86bfe46ca80361101c55f2e3d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23530/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

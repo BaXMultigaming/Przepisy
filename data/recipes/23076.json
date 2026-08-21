@@ -1,0 +1,70 @@
+{
+  "id": "23076",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23076/delightful-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/23076/delightful-punch/",
+  "title": "Delightful Punch",
+  "description": "A delightful punch made with tea, grapefruit, orange and pineapple juice. It&#39;s sweetened with simple syrup and carbonated with ginger ale. Note: make simple syrup by boiling equal parts water and sugar.",
+  "authors": [
+    "RoseMary"
+  ],
+  "date_published": "2000-02-15T18:08:22-05:00",
+  "date_modified": "2022-09-27T19:26:31-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup strong brewed black tea",
+    "1 cup grapefruit juice",
+    "1 cup orange juice",
+    "0.5 cup pineapple juice",
+    "0.5 cup simple syrup",
+    "1 liter ginger ale soda"
+  ],
+  "steps": [
+    {
+      "text": "In a large punch bowl, combine tea, grapefruit juice, orange juice, pineapple juice and simple syrup. Stir in the ginger ale and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "76 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "10 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DJy8kzlsHuXiU-b_IEydIa5KPyw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6850126-1a7963c8d5954e149fd01c33c640fc5e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23076/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "22722",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22722/brown-sugar-banana-nut-bread-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/22722/brown-sugar-banana-nut-bread-i/",
+  "title": "Brown Sugar Banana Nut Bread",
+  "description": "This brown sugar banana nut bread recipe makes a moist, sweet loaf full of rich vanilla flavor—a homemade classic perfect for sharing.",
+  "authors": [
+    "J R May"
+  ],
+  "date_published": "2000-10-15T11:37:12-04:00",
+  "date_modified": "2026-04-14T08:54:17-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "12",
+    "1 (9x5-inch) loaf"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter, softened",
+    "1 cup brown sugar",
+    "2 eggs",
+    "1 tablespoon vanilla extract",
+    "4 very ripe bananas, mashed",
+    "2 cups all-purpose flour",
+    "3 teaspoons baking powder",
+    "0.5 teaspoon salt",
+    "0.5 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat butter and sugar together in a large bowl until light and fluffy. Stir in the eggs one at a time, beating well with each addition, then stir in vanilla extract and mashed banana. Sift flour, baking powder, and salt together in a separate bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend banana mixture into flour mixture; stir just to combine. Fold in walnuts. Pour batter into prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a toothpick inserted into center of loaf comes out clean, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "273 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "51 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "257 mg",
+    "sugarContent": "17 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "496"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-Dgia6AMCaZUZJQY90wN-9DqY_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/379351-brown-sugar-banana-nut-bread-i-Angela-F.-4x3-1-7b504bfe87b646b684ed3eaa457d27cb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22722/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "23572",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23572/crawfish-chowder/",
+  "requested_url": "https://www.allrecipes.com/recipe/23572/crawfish-chowder/",
+  "title": "Crawfish Chowder",
+  "description": "A creamy chowder consisting of green onions, corn, crawfish, cream of potato and mushroom soups, and a bit of cayenne pepper for a little kick. Serve with cornbread, or some crusty French bread.",
+  "authors": [
+    "STKA"
+  ],
+  "date_published": "2000-10-30T07:34:06-05:00",
+  "date_modified": "2026-08-12T12:01:36-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "0.5 bunch green onions, chopped",
+    "0.5 cup butter",
+    "2 pounds frozen crawfish, cleaned",
+    "2 (10.75 ounce) cans condensed cream of potato soup",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "1 (15.25 ounce) can whole kernel corn, drained",
+    "4 ounces cream cheese, softened",
+    "2 cups half-and-half cream",
+    "0.5 teaspoon cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Melt 1/4 cup of butter in a large skillet over medium heat. Saute green onions in butter until tender. Remove from pan, and set aside. In the same skillet, melt 1/2 cup of butter, and saute the crawfish for 5 minutes; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pot over medium heat, combine potato soup, mushroom soup, corn, and cream cheese. Mix well, and bring to a slow boil. Stir in half-and-half, sauteed green onions, and crawfish. Season with cayenne pepper. Bring to a low boil, and simmer 5 minutes to blend flavors.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kpL0_H4ZX2L7NLswPKTbHjcx4to=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/499357-3f03c990517b4162a81409e0287f3633.jpg"
+      ],
+      "image": "assets/images/23572/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "395 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "167 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "934 mg",
+    "sugarContent": "3 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "301"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/8BxB6aYm-ma1DlVvV.mp4",
+    "description": "AR1247",
+    "duration": "PT2M40S",
+    "name": "Crawfish Chowder",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/8BxB6aYm/poster.jpg?width=1280",
+    "uploadDate": "2021-08-02T20:01:13-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kpL0_H4ZX2L7NLswPKTbHjcx4to=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/499357-3f03c990517b4162a81409e0287f3633.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23572/hero.webp",
+    "steps": [
+      null,
+      "assets/images/23572/step_02.webp"
+    ]
+  }
+}

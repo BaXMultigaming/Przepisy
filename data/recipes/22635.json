@@ -1,0 +1,106 @@
+{
+  "id": "22635",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22635/italian-tiramisu/",
+  "requested_url": "https://www.allrecipes.com/recipe/22635/italian-tiramisu/",
+  "title": "Italian Tiramisu",
+  "description": "Tiramisu is a classic Italian dessert. Ladyfinger cookies are dipped in coffee, then layered with mascarpone and dusted with cocoa powder. It might become your new favorite dessert!",
+  "authors": [
+    "SALLYCOOKS"
+  ],
+  "date_published": "2000-09-29T16:07:59-04:00",
+  "date_modified": "2022-07-14T17:48:09-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT210M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 egg yolks",
+    "1 cup white sugar, divided",
+    "1 pound mascarpone cheese",
+    "6 egg whites, stiffly beaten",
+    "0.25 cup heavy cream",
+    "3 tablespoons kirschwasser",
+    "1.25 cups strong brewed coffee, cold",
+    "25 ladyfingers",
+    "1 tablespoon unsweetened cocoa powder"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl beat together the egg yolks and 1/3 cup of sugar. Using a wooden spoon stir in mascarpone cheese, beaten egg whites, cream and kirschwasser; stir until smooth. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dissolve remaining 2/3 cup sugar in coffee. Quickly, to avoid complete saturation, dip ends of ladyfingers in coffee mixture. Place ladyfingers in a single layer in a 9 x 13 inch glass baking dish. Spread a layer of cheese mixture over the ladyfingers; repeat layers, ending with cheese mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and refrigerate for several hours. Sprinkle with cocoa just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bFR24deiNsPsh5QcqEm143hhlD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-220-02e734ca98364799b78c9cd9e2ab3cad.jpg"
+      ],
+      "image": "assets/images/22635/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "748 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "414 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "24 g",
+    "sodiumContent": "176 mg",
+    "sugarContent": "34 g",
+    "fatContent": "48 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "40"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RNnQgkqI-K3AjnAEN.mp4",
+    "description": "Tiramisu is a classic Italian dessert. Ladyfinger cookies are dipped in coffee, then layered with mascarpone (a rich Italian cream cheese) and dusted with cocoa powder. It might become your new favorite dessert!",
+    "duration": "PT1M36S",
+    "name": "How to Make Tiramisu",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RNnQgkqI/poster.jpg?width=1280",
+    "uploadDate": "2022-07-13T14:41:09-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bFR24deiNsPsh5QcqEm143hhlD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-220-02e734ca98364799b78c9cd9e2ab3cad.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22635/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/22635/step_03.webp"
+    ]
+  }
+}

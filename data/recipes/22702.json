@@ -1,0 +1,80 @@
+{
+  "id": "22702",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22702/penne-with-pink-vodka-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/22702/penne-with-pink-vodka-sauce/",
+  "title": "Penne with Pink Vodka Sauce",
+  "description": "Creamy and cheesy, this pink vodka sauce gets a special flavor from the tomatoes, vodka, and garlic.",
+  "authors": [
+    "Beth"
+  ],
+  "date_published": "2000-05-24T20:39:41-04:00",
+  "date_modified": "2022-08-03T13:07:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package dry penne pasta",
+    "5 tablespoons butter",
+    "2 cloves garlic, crushed",
+    "1 cup vodka",
+    "2 (28 ounce) cans crushed tomatoes",
+    "1 cup mozzarella cheese, shredded",
+    "1 pint heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes, or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet, sauté garlic in butter. Add vodka and cook for 3 minutes. Pour in tomatoes and cheese; stir until cheese melts. Stir in heavy cream and heat thoroughly. Mix the sauce into hot pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "728 kcal",
+    "carbohydrateContent": "66 g",
+    "cholesterolContent": "125 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "23 g",
+    "sodiumContent": "484 mg",
+    "sugarContent": "2 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "95"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DI1XqLf4M7QjvZF3GRkPL0Z4dVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5940274-97cb28c6fbad47faa5c0ae8be2948e43.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22702/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

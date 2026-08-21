@@ -1,0 +1,100 @@
+{
+  "id": "23606",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23606/company-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/23606/company-casserole/",
+  "title": "Company Casserole",
+  "description": "Egg noodles and beef in a tomato and mushroom sauce with cottage and Cheddar cheese.",
+  "authors": [
+    "BJ MOORE"
+  ],
+  "date_published": "2019-04-02T02:42:09-04:00",
+  "date_modified": "2019-04-02T02:42:09-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package egg noodles",
+    "1 pound lean ground beef",
+    "1 onion, chopped",
+    "2 (7 ounce) cans tomato sauce with mushrooms",
+    "1 teaspoon salt",
+    "0.25 teaspoon black pepper",
+    "0.25 teaspoon ground cinnamon",
+    "1 cup cottage cheese",
+    "0.5 cup chopped green onions",
+    "0.5 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a skillet over medium heat, brown the ground beef with the onion until no pink shows; drain. Mix in 1 of the cans of tomato sauce, salt, pepper and cinnamon. Pour into shallow 3 quart casserole baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in noodles in an even layer. Top with cottage cheese; sprinkle with onions and Cheddar cheese. Pour on remaining can of tomato sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in a preheated over for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "467 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "106 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1182 mg",
+    "sugarContent": "6 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Byh8UVX1zholEpX-FQTPvIexyfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/965327-b29ce41c033a42e6b9118e9aadd35570.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23606/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

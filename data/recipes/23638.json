@@ -1,0 +1,85 @@
+{
+  "id": "23638",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23638/brown-rice-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/23638/brown-rice-bread/",
+  "title": "Brown Rice Bread",
+  "description": "Cooked brown rice adds extra taste and texture to this versatile bread.",
+  "authors": [
+    "DANNO719"
+  ],
+  "date_published": "2020-06-18T23:05:00-04:00",
+  "date_modified": "2024-11-30T23:24:02-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT180M",
+  "total_time": "PT200M",
+  "yield": [
+    "12",
+    "1 1/2 - pound loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup brown rice",
+    "0.66666668653488 cup water",
+    "1.5 tablespoons olive oil",
+    "warm water",
+    "3 cups bread flour",
+    "2 tablespoons white sugar",
+    "1 teaspoon salt",
+    "1.5 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan bring water to a boil. Add rice and stir. Reduce heat, cover and simmer for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place 1/2 cup of cooked rice in a two cup measuring cup. Add oil and enough warm water to equal 1 1/2 cups. Add this mixture to pan of bread machine. Add flour, sugar, salt and yeast. Select cycle; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "39 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "195 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/c6qi0jBO5bPsUFZbgseVANQ0-Oo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2365-8ac0ce5562c64be6935d1d12096c165d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23638/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "22733",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22733/kids-snack/",
+  "requested_url": "https://www.allrecipes.com/recipe/22733/kids-snack/",
+  "title": "Kids&#39; Snack",
+  "description": "Corn cereal, graham cookies, marshmallows and chocolate chips are tossed together for a quick snack.",
+  "authors": [
+    "Kim"
+  ],
+  "date_published": "2000-09-06T14:04:38-04:00",
+  "date_modified": "2024-07-08T05:30:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "25",
+    "25 servings"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14.5 ounce) package sweetened honey corn and oat cereal",
+    "1 (10 ounce) package bear-shaped graham cookies",
+    "1 (10.5 ounce) package miniature marshmallows",
+    "1 (12 ounce) package semisweet chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Combine all ingredients in a large bag and shake to mix. Divide and store in individual baggies for a fast treat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "220 kcal",
+    "carbohydrateContent": "41 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "193 mg",
+    "sugarContent": "23 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/V1rEYW4qSwNdqy2PYHIr06wpTMQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22733kids-snackChefMo4x3-62fd16b85b5f49c3afe0e3ceba4cd4a2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22733/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

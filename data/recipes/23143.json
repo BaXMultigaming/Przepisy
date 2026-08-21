@@ -1,0 +1,81 @@
+{
+  "id": "23143",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23143/easy-tiramisu/",
+  "requested_url": "https://www.allrecipes.com/recipe/23143/easy-tiramisu/",
+  "title": "Easy Tiramisu",
+  "description": "For this easy tiramisu, mascarpone is sweetened with sugar and vanilla and made richer with egg yolks, then layered with coffee soaked ladyfingers.",
+  "authors": [
+    "Kallista"
+  ],
+  "date_published": "2000-10-25T05:02:52-04:00",
+  "date_modified": "2022-07-14T16:41:14-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "6",
+    "1 8x8 inch dish"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 egg yolks",
+    "0.25 cup white sugar",
+    "2 teaspoons vanilla extract",
+    "1.125 cups mascarpone cheese",
+    "24 ladyfingers",
+    "1.5 cups brewed coffee",
+    "1 tablespoon unsweetened cocoa powder"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, beat yolks, sugar, and vanilla until smooth and light yellow. Fold mascarpone into yolk mixture. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dip ladyfingers briefly in coffee and arrange 12 of them in the bottom of an 8x8-inch dish. Spread half the mascarpone mixture over ladyfingers. Repeat with remaining ladyfingers and mascarpone. Cover and chill 1 hour. Sprinkle with cocoa just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "406 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "252 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "93 mg",
+    "sugarContent": "9 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "113"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/viWOoxfDHfeteGCo_Xw2f--IFaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/476708-203ac0494dfe4171b95e167206a6057b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23143/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

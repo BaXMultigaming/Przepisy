@@ -1,0 +1,100 @@
+{
+  "id": "22403",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22403/chili-con-carne-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/22403/chili-con-carne-ii/",
+  "title": "Hearty Chili con Carne",
+  "description": "Spicy chili con carne with ground beef, kidney beans, tomatoes, onions and garlic. Delicious served over rice.",
+  "authors": [
+    "Fay Jones"
+  ],
+  "date_published": "2000-10-10T00:21:31-04:00",
+  "date_modified": "2026-06-04T13:34:47-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT45M",
+  "total_time": "PT65M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 tablespoons vegetable oil",
+    "2 large onions, chopped",
+    "1 chile pepper, chopped",
+    "5 cloves garlic, chopped",
+    "2 pounds lean ground beef",
+    "3 (14.5 ounce) cans whole peeled tomatoes with liquid, chopped",
+    "1.5 teaspoons salt",
+    "1 teaspoon freshly ground black pepper",
+    "1.5 tablespoons ground cumin",
+    "0.5 tablespoon chili powder",
+    "2 tablespoons paprika",
+    "2 tablespoons dried oregano",
+    "2 cinnamon sticks",
+    "6 whole cloves",
+    "2 (15.25 ounce) cans red kidney beans, rinsed and drained"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a medium stockpot over medium heat. Cook and stir onion, chile pepper, and garlic until softened, about 5 minutes. Add ground beef; cook and stir until browned and crumbly, 5 to 7 minutes. Drain excess grease if needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in tomatoes with liquid, salt, pepper, cumin, chili powder, paprika, oregano, cinnamon sticks, and cloves. Cover and simmer for 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in kidney beans, and cook another 15 minutes. Remove cinnamon sticks before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "397 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "917 mg",
+    "sugarContent": "11 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "303"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nU5DC5f7Ht8bIy4MVQ609O8OWqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7925792-daeaaa9a10e94cc684d7c3fa88239b56.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22403/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

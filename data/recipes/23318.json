@@ -1,0 +1,75 @@
+{
+  "id": "23318",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23318/cream-dill-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/23318/cream-dill-sauce/",
+  "title": "Cream Dill Sauce",
+  "description": "This tangy dill sauce with mayo and sour cream is lovely drizzled over warm roasted potatoes, but it’s also good as a dip for raw vegetables!",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-10-27T20:55:19-04:00",
+  "date_modified": "2026-07-25T23:03:17-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Dinner",
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup sour cream",
+    "0.75 cup mayonnaise",
+    "2 tablespoons finely chopped green onions",
+    "2 teaspoons dried dill weed",
+    "2 tablespoons lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine sour cream, mayonnaise, green onions, dill, and lemon juice. Mix well and chill for at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "99 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "71 mg",
+    "sugarContent": "1 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yyEIyroYBTr23MRehKwAZMbWlsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4525506-2e9a582299524b5dbe276012d8f28897.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23318/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

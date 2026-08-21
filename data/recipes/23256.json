@@ -1,0 +1,91 @@
+{
+  "id": "23256",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23256/black-halloween-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/23256/black-halloween-punch/",
+  "title": "Black Halloween Punch",
+  "description": "This black Halloween punch recipe combines grape and orange drink mixes with ginger ale. Add a spooky frozen hand for a fun party drink.",
+  "authors": [
+    "Kathleen"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-08-11T12:46:01-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "32",
+    "1 gallon"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 (.13 ounce) envelope unsweetened grape soft drink mix",
+    "1 (.13 ounce) envelope unsweetened orange soft drink mix",
+    "2 cups white sugar",
+    "3 quarts cold water",
+    "1 liter ginger ale"
+  ],
+  "steps": [
+    {
+      "text": "Stir grape soft drink mix, orange soft drink mix, sugar, and water together until sugar is dissolved. Stir in chilled ginger ale just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "For an optional frozen hand, fill a food-safe disposable glove with water, secure with a rubber band, and freeze until solid. Dip the frozen hand briefly in warm water, remove and discard the glove, and float the frozen hand in the punch bowl for a spooky effect.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YkhyzXbNCQ1Bg7HIgy4Mt1bG3ns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2440215-d0faa30a43a34f7aac19235c2bd97915.jpg"
+      ],
+      "image": "assets/images/23256/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "59 kcal",
+    "carbohydrateContent": "15 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "158"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lWrlzg5P-ma1DlVvV.mp4",
+    "description": "AR0788",
+    "duration": "PT2M39S",
+    "name": "Black Halloween Punch",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lWrlzg5P/poster.jpg?width=1280",
+    "uploadDate": "2021-07-11T11:15:43-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YkhyzXbNCQ1Bg7HIgy4Mt1bG3ns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2440215-d0faa30a43a34f7aac19235c2bd97915.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23256/hero.webp",
+    "steps": [
+      null,
+      "assets/images/23256/step_02.webp"
+    ]
+  }
+}

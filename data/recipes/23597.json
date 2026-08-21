@@ -1,0 +1,73 @@
+{
+  "id": "23597",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23597/honey-mustard-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/23597/honey-mustard-sauce/",
+  "title": "Honey Mustard Sauce",
+  "description": "Dip your favorite meats in this sweet, tangy dipping sauce, or spread it on baked potatoes.",
+  "authors": [
+    "Nanci Renn"
+  ],
+  "date_published": "2000-11-02T12:32:29-05:00",
+  "date_modified": "2026-08-12T11:21:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "18",
+    "2 1/4 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups mayonnaise",
+    "0.25 cup prepared Dijon-style mustard",
+    "0.5 cup honey"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, blend the mayonnaise, Dijon-style mustard and honey. Chill in the refrigerator at least 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "164 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "7 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "188 mg",
+    "sugarContent": "8 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "348"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qfx4hQZbLOudNNjWYcspPVy7zbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/189333-d5ebe7afa84f428a9ce8f30f3dc93d2a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23597/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

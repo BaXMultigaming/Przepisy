@@ -1,0 +1,89 @@
+{
+  "id": "23653",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23653/coconut-cream-pie-ix/",
+  "requested_url": "https://www.allrecipes.com/recipe/23653/coconut-cream-pie-ix/",
+  "title": "Coconut Cream Pie IX",
+  "description": "Flaked coconut is folded into a homemade custard in this classic pie.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:05:01-04:00",
+  "date_modified": "2022-07-14T17:50:13-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT30M",
+  "total_time": "PT360M",
+  "yield": [
+    "8",
+    "1 9-inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66666668653488 cup white sugar",
+    "0.33333334326744 cup all-purpose flour",
+    "1.6666667461395 cups milk",
+    "0.33333334326744 cup heavy cream",
+    "4 egg yolks, beaten",
+    "1.5 cups flaked coconut",
+    "1 (9 inch) pie shell, baked"
+  ],
+  "steps": [
+    {
+      "text": "Combine sugar, flour, milk and cream in a heavy saucepan. Cook over medium-high heat, stirring constantly, until thick and bubbly. Continue to boil for one minute. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, beat the egg yolks. Gradually stir in 1/4 of the hot mixture into yolks. Pour yolks back into remaining hot mixture stirring constantly. Cook, stirring constantly, for 2 minutes. Remove from heat and stir in coconut. Pour into baked pie shell.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Chill for several hours or overnight before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "351 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "120 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "190 mg",
+    "sugarContent": "24 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LtaP-69qUFPYImulc862CGKzl9g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2613324-4295db58fc344c8e9a1c7d276d5f63e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23653/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

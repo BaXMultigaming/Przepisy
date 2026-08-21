@@ -1,0 +1,73 @@
+{
+  "id": "22753",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22753/peaches-and-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/22753/peaches-and-cream/",
+  "title": "Peaches and Cream",
+  "description": "This peaches and cream recipe features a fresh peach topped with brown sugar, sour cream, and chopped pecans for an ultra-simple, delicious dessert.",
+  "authors": [
+    "Mandy Hood"
+  ],
+  "date_published": "2000-08-30T14:09:58-04:00",
+  "date_modified": "2025-08-11T14:11:09-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large fresh peach - peeled, pitted and sliced",
+    "1 teaspoon brown sugar",
+    "2 tablespoons sour cream",
+    "1 tablespoon chopped pecans"
+  ],
+  "steps": [
+    {
+      "text": "Place peach slices in a small serving bowl; sprinkle with brown sugar and top with sour cream and pecans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "163 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "13 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-HKj7i4WA_Od5BS-LgIuucgE4os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1238367-ca5c1512b42a4d77a2c301003b4c07b2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22753/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

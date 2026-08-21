@@ -1,0 +1,90 @@
+{
+  "id": "22694",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22694/bacon-and-date-appetizer/",
+  "requested_url": "https://www.allrecipes.com/recipe/22694/bacon-and-date-appetizer/",
+  "title": "Bacon and Date Appetizer",
+  "description": "Dates are stuffed with almonds, wrapped in bacon, and broiled until the bacon&#39;s crispy in this easy appetizer.",
+  "authors": [
+    "CINNTX"
+  ],
+  "date_published": "2000-10-14T10:11:31-04:00",
+  "date_modified": "2026-05-21T22:11:09-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT5M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package pitted dates",
+    "4 ounces almonds",
+    "1 pound sliced bacon"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the broiler.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slit dates. Place one almond inside each date. Wrap dates with bacon, using toothpicks to hold them together.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Broil 10 minutes, or until bacon is evenly brown and crisp.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "560 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "52 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "631 mg",
+    "sugarContent": "25 g",
+    "fatContent": "44 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "308"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6OCad-_FowO9UdeAcA-TZyGLKcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/695887-8c08b2f237314d508b27745bcd458fdb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22694/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "23621",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23621/jalapeno-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/23621/jalapeno-soup/",
+  "title": "Jalapeno Soup",
+  "description": "Chicken broth, celery, onion, Cheddar and jalapenos are featured in this quick, spicy soup.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2018-03-21T12:16:21-04:00",
+  "date_modified": "2022-07-14T17:53:25-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups chicken broth",
+    "2 cups chopped celery",
+    "2 cups chopped onion",
+    "1 teaspoon garlic salt",
+    "2 pounds cubed Cheddar cheese",
+    "1 cup diced jalapeno chile pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place broth, celery, onion and garlic salt in a large saucepan over high heat, and cook until mixture thickens, 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat, stir in cheese, and puree in a food processor or with an immersion blender until smooth. Return to pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in jalapenos and heat through. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "644 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "159 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "32 g",
+    "sodiumContent": "1273 mg",
+    "sugarContent": "5 g",
+    "fatContent": "50 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cK43Y0HxqXWuw-G_7cyseAkjVhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/570084-d30efebc644f4764ba9a7fbb46974086.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23621/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

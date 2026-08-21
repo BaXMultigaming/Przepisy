@@ -1,0 +1,83 @@
+{
+  "id": "23392",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23392/one-minute-chocolate-icing/",
+  "requested_url": "https://www.allrecipes.com/recipe/23392/one-minute-chocolate-icing/",
+  "title": "One Minute Chocolate Icing",
+  "description": "Make chocolate frosting without powdered sugar by beating a mixture of boiled milk, butter, cocoa powder, and sugar to a fudge-like consistency.",
+  "authors": [
+    "Sandy"
+  ],
+  "date_published": "2000-10-20T23:36:51-04:00",
+  "date_modified": "2026-06-01T13:21:58-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "12",
+    "2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "0.5 cup unsweetened cocoa powder",
+    "0.25 cup milk",
+    "0.25 cup butter",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine sugar, cocoa powder, milk, butter, and vanilla in a saucepan. Bring to a rolling boil, stirring constantly; cook for 1 minute. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat icing with an electric mixer until mixture cools and thickens to spreading consistency, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "110 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "30 mg",
+    "sugarContent": "17 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "425"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WNbKZY2gdAP2qBrGHoYKA3q4gCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23392-one-minute-chocolate-icing-VAT-Beauty-4x3-e683036eb1564c28817f58ba2fa2f52f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23392/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

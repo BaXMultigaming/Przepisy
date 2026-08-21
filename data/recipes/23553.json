@@ -1,0 +1,121 @@
+{
+  "id": "23553",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23553/basic-fruit-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/23553/basic-fruit-smoothie/",
+  "title": "Basic Fruit Smoothie",
+  "description": "A tasty fruit smoothie recipe with strawberries, banana, peaches, fruit juice, and ice. Feel free to experiment with your favorite fruits!",
+  "authors": [
+    "STARGIRL577"
+  ],
+  "date_published": "2000-09-13T12:54:28-04:00",
+  "date_modified": "2025-10-21T08:31:31-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast",
+    "Snack",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 quart strawberries, hulled",
+    "2 fresh peaches - peeled, pitted, and sliced",
+    "1 banana, broken into chunks",
+    "2 cups ice",
+    "1 cup orange-peach-mango juice"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1sCBMuEUFue21vgrwaKoLdSxfb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-ddmfs-step1-0702-4x3-5bfcc610bc524d3e8e790aa355c1beec.jpg"
+      ],
+      "image": "assets/images/23553/step_01.webp"
+    },
+    {
+      "text": "Combine strawberries, peaches, and banana in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/EZQHPEQqz-BNt7onHmamVK-9EME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-ddmfs-step2-0703-4x3-4d6e3ec1cc8840a497c321da88209a2e.jpg"
+      ],
+      "image": "assets/images/23553/step_02.webp"
+    },
+    {
+      "text": "Add ice and pour in juice; blend again to desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Vo03XpUygPiqvxb4T-u1oITQDNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-ddmfs-step3-0704-4x3-e11ed6968fe246359c5fa06e6966aca1.jpg"
+      ],
+      "image": "assets/images/23553/step_03.webp"
+    },
+    {
+      "text": "Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qYiY2yd-OUkBcmKOJR-57uXAfrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-DDMFS-4x3-bd82b17e9afd4b6d989aecdd646d3ddb.jpg"
+      ],
+      "image": "assets/images/23553/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "20 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "89"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/aMESlQeM-ma1DlVvV.mp4",
+    "description": "Fresh fruit, fruit juice, and ice—that’s all there is to it!",
+    "duration": "PT1M14S",
+    "name": "Basic Fruit Smoothie",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/aMESlQeM/poster.jpg?width=1280",
+    "uploadDate": "2021-06-22T05:23:21-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qYiY2yd-OUkBcmKOJR-57uXAfrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-DDMFS-4x3-bd82b17e9afd4b6d989aecdd646d3ddb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23553/hero.webp",
+    "steps": [
+      "assets/images/23553/step_01.webp",
+      "assets/images/23553/step_02.webp",
+      "assets/images/23553/step_03.webp",
+      "assets/images/23553/step_04.webp"
+    ]
+  }
+}

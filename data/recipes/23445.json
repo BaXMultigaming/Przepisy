@@ -1,0 +1,81 @@
+{
+  "id": "23445",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/23445/rainbow-pasta-salad-ii/",
+  "title": "Easy Rainbow Pasta Salad",
+  "description": "This easy rainbow pasta salad with tri-colored pasta, tomatoes, cucumber, red onion, and Italian-style dressing is great for picnics and potlucks.",
+  "authors": [
+    "Jennie"
+  ],
+  "date_published": "2000-09-29T19:44:18-04:00",
+  "date_modified": "2025-12-22T11:14:47-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT85M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package tri-colored pasta assortment",
+    "2 large tomatoes, diced",
+    "1 large cucumber, peeled and diced",
+    "1 red onion, finely chopped",
+    "1 (16 ounce) bottle Italian-style salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook until al dente, about 8 to 10 minutes; drain and rinse in cold water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine tomatoes, cucumbers, onion, cooled pasta and Italian dressing in a large bowl; toss to coat. Cover and refrigerate the salad for at least 1 hour to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "387 kcal",
+    "carbohydrateContent": "52 g",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "924 mg",
+    "sugarContent": "8 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "176"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s83DL7QTXVdslUrgLM4yYwIMkK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6471771-c6880fe9785b40288cd5cd26aaac9325.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/23445/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
