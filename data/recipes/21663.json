@@ -1,0 +1,78 @@
+{
+  "id": "21663",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21663/chai-latte/",
+  "requested_url": "https://www.allrecipes.com/recipe/21663/chai-latte/",
+  "title": "Chai Latte",
+  "description": "Learn how to make a chai latte with this easy recipe sweetened with sugar and topped with cardamom. If you have an espresso machine, you can steam the goat milk first.",
+  "authors": [
+    "Lisa"
+  ],
+  "date_published": "2000-09-20T22:39:31-04:00",
+  "date_modified": "2022-12-06T13:20:18-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 chai tea bag",
+    "7 fluid ounces boiling water",
+    "1 fluid ounce goats milk",
+    "1 tablespoon white sugar",
+    "1 pinch ground cardamom"
+  ],
+  "steps": [
+    {
+      "text": "Place tea bag in a large mug and pour in boiling water. Let steep for 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove tea bag. Stir in milk and sugar; garnish with cardamom.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "76 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "14 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Pa9Fumfnlk8qU-weROSvTrR9JXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8102028-3f0aa81a74514adfb1389b2f4e53e1e9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21663/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

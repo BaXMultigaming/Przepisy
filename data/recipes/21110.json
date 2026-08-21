@@ -1,0 +1,103 @@
+{
+  "id": "21110",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21110/greek-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/21110/greek-pasta/",
+  "title": "Greek Pasta",
+  "description": "Linguine topped with a hot tomato mushroom sauce and sprinkled with crumbled feta and black olives.",
+  "authors": [
+    "Mary"
+  ],
+  "date_published": "2000-08-28T15:10:39-04:00",
+  "date_modified": "2022-07-14T18:04:06-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound linguine pasta",
+    "3 tomatoes",
+    "0.33333334326744 cup olive oil",
+    "3 cloves garlic, minced",
+    "1 pound mushrooms, sliced",
+    "1 teaspoon dried oregano",
+    "0.75 cup crumbled feta cheese",
+    "1 (2 ounce) can sliced black olives, drained"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Plunge whole tomatoes in water briefly, until skin starts to peel. Remove with a slotted spoon and place in cold water. Add pasta to boiling water and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While pasta is cooking peel blanched tomatoes and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet over medium heat, heat olive oil. Stir in garlic and mushrooms and saute until mushrooms begin to give up their juices. Stir in tomatoes and oregano and cook until tomatoes are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To serve, plate pasta, top with hot tomato sauce and sprinkle with feta and olives.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "759 kcal",
+    "carbohydrateContent": "102 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "866 mg",
+    "sugarContent": "6 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/weoBgNFJXHge7au7kXKpAIKLLs8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21110greek-pastaSoupLovingNicole4x-992cf817847c4063bb83558bf4f030d2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21110/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

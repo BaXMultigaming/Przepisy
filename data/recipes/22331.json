@@ -1,0 +1,100 @@
+{
+  "id": "22331",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22331/pork-chop-suey/",
+  "requested_url": "https://www.allrecipes.com/recipe/22331/pork-chop-suey/",
+  "title": "Pork Chop Suey",
+  "description": "This is a very easy, tasty recipe. Serve over rice and sprinkle with chopped green onions.",
+  "authors": [
+    "beulahmae"
+  ],
+  "date_published": "2000-10-06T15:38:25-04:00",
+  "date_modified": "2026-03-23T09:40:47-04:00",
+  "prep_time": "PT45M",
+  "cook_time": "PT6M",
+  "total_time": "PT51M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "regions": [
+    "Chinese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound pork tenderloin",
+    "0.25 cup all-purpose flour",
+    "2 tablespoons vegetable oil, divided",
+    "2 cups thinly sliced bok choy",
+    "1 cup chopped celery",
+    "1 cup red bell pepper, cut into 1/4 inch strips",
+    "1 cup sliced mushrooms",
+    "1 (8 ounce) can water chestnuts, sliced",
+    "2 cloves garlic, minced",
+    "0.25 cup chicken broth",
+    "0.25 cup soy sauce",
+    "1 tablespoon cornstarch",
+    "1 tablespoon dry sherry",
+    "0.5 teaspoon ground ginger"
+  ],
+  "steps": [
+    {
+      "text": "Trim fat from pork, cut into 1 inch pieces. Combine flour and pork in a resealable bag, seal and shake well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 1 tablespoon oil in a large skillet over medium high heat. Add pork, cook 3 minutes or until browned. Remove from pan and keep warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat remaining tablespoon oil in pan. Add bok choy, celery, red pepper, mushrooms, water chestnuts and garlic; stir fry for 3 minutes. In a bowl combine chicken broth, soy sauce, cornstarch, sherry and ginger. Stir well with a whisk. Combine pork and broth mixture in skillet, cook 1 minute or until thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "194 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "712 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "99"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Hl9v8AO3biNaBPxvvUL1w19hEwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/767710-5e2740711b724dd0896569d2be4c7a70.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22331/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

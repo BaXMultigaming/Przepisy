@@ -1,0 +1,75 @@
+{
+  "id": "22283",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22283/marinara-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/22283/marinara-sauce/",
+  "title": "Marinara Sauce",
+  "description": "A simple tomato sauce with garlic, red wine and fresh bail. You&#39;ll never want to buy store bought sauces again! Serve over your favorite pasta.",
+  "authors": [
+    "ELEANOR1052"
+  ],
+  "date_published": "2000-08-03T23:07:22-04:00",
+  "date_modified": "2022-01-14T01:16:55-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons extra virgin olive oil",
+    "3 cloves garlic, sliced",
+    "1 (16 ounce) can crushed tomatoes",
+    "0.5 cup red wine",
+    "0.5 cup water",
+    "1 teaspoon salt",
+    "1 teaspoon white sugar",
+    "6 leaves fresh basil leaves, torn"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large non-stick skillet over low heat and saute garlic for about 2 minutes; be careful not to burn. Just as the garlic begins to turn brown, remove pan from heat. Allow pan to cool, and add tomatoes, wine, water, salt and sugar. Cook over medium-high heat and bring to a boil. Reduce heat to low and simmer, covered, about 20 minutes. Remove from heat and stir in basil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "731 mg",
+    "sugarContent": "1 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "206"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/q3zApY4vGjhuzEF8jJcHAERv0Ko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/733505-f45aa0bd77f043d69759f30f6e0193b7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22283/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

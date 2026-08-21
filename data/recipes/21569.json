@@ -1,0 +1,78 @@
+{
+  "id": "21569",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21569/bagel-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/21569/bagel-dip/",
+  "title": "Bagel Dip",
+  "description": "Everyone loves this mild dip. Chopped dried beef adds flavor and texture. Serve with plain bagels cut into bite size pieces.",
+  "authors": [
+    "Pauline Drehmel"
+  ],
+  "date_published": "2000-09-21T23:18:55-04:00",
+  "date_modified": "2026-03-02T13:36:09-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "40",
+    "5 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) container sour cream",
+    "2 cups mayonnaise",
+    "2 tablespoons monosodium glutamate (MSG)",
+    "2 tablespoons dried dill weed",
+    "2 tablespoons dried parsley",
+    "1 onion, chopped",
+    "2 (2 ounce) packages dried beef, chopped"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix the sour cream, mayonnaise, monosodium glutamate (MSG), dill, parsley, onion and dried beef. Refrigerate 1 hour, or until thickened and chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "111 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "227 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "55"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/J-ctpCIw48TvmrXy-E3ONT8DY0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21569-bagel-dip-VAT-Beauty-4x3-1b52c7dc747f4d7495058a3cffa2a7fd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21569/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

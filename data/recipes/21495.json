@@ -1,0 +1,86 @@
+{
+  "id": "21495",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21495/tuna-on-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/21495/tuna-on-toast/",
+  "title": "Tuna on Toast",
+  "description": "Cream of mushroom soup with tuna and egg, over toast.",
+  "authors": [
+    "MYEERAH"
+  ],
+  "date_published": "2000-03-28T21:51:41-05:00",
+  "date_modified": "2022-07-14T16:05:55-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "2 hard-cooked eggs, sliced",
+    "1 (5 ounce) can tuna, drained",
+    "6 slices whole wheat bread"
+  ],
+  "steps": [
+    {
+      "text": "Make cream of mushroom soup according to the directions on the can.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in canned tuna and egg slices. Heat thoroughly. Meanwhile, toast bread slices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon tuna mixture over slices of whole wheat toast. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "154 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "987 mg",
+    "sugarContent": "2 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/smH4vR-aT6vySXCxWKL3OTN28_A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4465877-60acc26b12764373aafbe009b26b3f09.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21495/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

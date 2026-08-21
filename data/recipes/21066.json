@@ -1,0 +1,111 @@
+{
+  "id": "21066",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21066/spaghetti-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/21066/spaghetti-sauce/",
+  "title": "Spaghetti Sauce",
+  "description": "This easy spaghetti sauce is made from scratch with tomatoes, onions, garlic, basil, and oregano. Add your favorite vegetables and use fresh herbs.",
+  "authors": [
+    "Courtney Linda"
+  ],
+  "date_published": "2000-08-29T14:47:56-04:00",
+  "date_modified": "2026-04-28T08:29:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Ingredient"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 teaspoons olive oil",
+    "0.5 small onion, chopped",
+    "2 green onions, chopped",
+    "2 teaspoons crushed garlic",
+    "1 (28 ounce) can peeled and diced tomatoes",
+    "4 teaspoons dried basil",
+    "4 teaspoons dried oregano",
+    "1 teaspoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large saucepan over medium heat. Add onion, green onion, and garlic; cook until onions are translucent, 3 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/lX8UGS7Xk2Veu9eNtnA90e9-NtY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21066-spaghetti-sauce-step-1-0688-1-2b8130f17ef947c691bffe0100169c53.jpg"
+      ],
+      "image": "assets/images/21066/step_01.webp"
+    },
+    {
+      "text": "Stir in tomatoes, basil, oregano, and sugar. Bring to a boil, reduce heat to low, and simmer for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YZKab97Ko-fDnY3N8mVlv5NDYMU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21066-spaghetti-sauce-step-3-0719-1-5e3d6fa28ecc4027b5822a7702cb0479.jpg"
+      ],
+      "image": "assets/images/21066/step_02.webp"
+    },
+    {
+      "text": "Serve over pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/a9emXMp3V7pFc0Mf7kfG_H_K2vU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21066-spaghetti-sauce-DDMFS-4x3-6253b3f1436b4860b3dc33a4fbe8e68b.jpg"
+      ],
+      "image": "assets/images/21066/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "310 mg",
+    "sugarContent": "7 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "300"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/dEjybVvt-ma1DlVvV.mp4",
+    "description": "This video shows you how to make a basic tomato sauce for spaghetti. It’s a simple recipe that simmers canned diced tomatoes, basil, and oregano with sautéed garlic and onions. If you like, use it as a starting point for tasty experimentation, adding your favorite vegetables, mushrooms, and fresh herbs.",
+    "duration": "PT2M8S",
+    "name": "Spaghetti Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dEjybVvt/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T19:55:36-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/a9emXMp3V7pFc0Mf7kfG_H_K2vU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21066-spaghetti-sauce-DDMFS-4x3-6253b3f1436b4860b3dc33a4fbe8e68b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21066/hero.webp",
+    "steps": [
+      "assets/images/21066/step_01.webp",
+      "assets/images/21066/step_02.webp",
+      "assets/images/21066/step_03.webp"
+    ]
+  }
+}

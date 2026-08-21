@@ -1,0 +1,87 @@
+{
+  "id": "20987",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20987/potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/20987/potato-soup/",
+  "title": "Potato Soup",
+  "description": "A great way to use leftover mashed potatoes! Milk and chicken broth complete the soup. Also can be made with fresh potatoes, and leeks instead of onions . Garnish with chives for an extra touch.",
+  "authors": [
+    "HEDDO"
+  ],
+  "date_published": "2000-09-09T15:50:59-04:00",
+  "date_modified": "2026-03-10T11:00:55-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "7",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "1 large onion, chopped",
+    "6 cups mashed cooked potatoes",
+    "2 (14.5 ounce) cans chicken broth",
+    "0.5 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "In a medium soup pot melt butter over low heat, and saute onions until tender. Stir in the mashed potatoes, and then slowly add the chicken broth. Stirring, add milk (use more or less to achieve desired creaminess). Cook until heated through and season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MB2K8ibipZXICv2rnVVrM66ERAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6275942-d087bb458d9b49da8b6459ff7ad5073e.jpg"
+      ],
+      "image": "assets/images/20987/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "190 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1060 mg",
+    "sugarContent": "5 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "185"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/LqzHladE-ma1DlVvV.mp4",
+    "description": "AR0838",
+    "duration": "PT1M57S",
+    "name": "Potato Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LqzHladE/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T10:32:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MB2K8ibipZXICv2rnVVrM66ERAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6275942-d087bb458d9b49da8b6459ff7ad5073e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20987/hero.webp",
+    "steps": [
+      "assets/images/20987/step_01.webp"
+    ]
+  }
+}

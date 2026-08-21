@@ -1,0 +1,95 @@
+{
+  "id": "21250",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21250/pasta-peas/",
+  "requested_url": "https://www.allrecipes.com/recipe/21250/pasta-peas/",
+  "title": "Pasta Peas",
+  "description": "Elbow macaroni with peas, tomato sauce and Parmesan cheese.",
+  "authors": [
+    "JANDEE"
+  ],
+  "date_published": "2000-04-01T18:12:06-05:00",
+  "date_modified": "2025-01-31T23:43:07-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound elbow macaroni",
+    "2 tablespoons olive oil",
+    "2 onions, chopped",
+    "salt and pepper to taste",
+    "1 (15 ounce) can tomato sauce",
+    "2 cups water",
+    "1 (15 ounce) can peas",
+    "0.5 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While pasta water is boiling, heat olive oil in a large skillet over medium heat. Cook onions in oil until tender. Stir in salt, pepper, tomato sauce, water and peas. Reduce heat and simmer until pasta is done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir cooked pasta into tomato mixture. Increase heat and bring to a boil briefly. Remove from heat, stir in cheese, cover and let rest 10 minutes. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "436 kcal",
+    "carbohydrateContent": "73 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "603 mg",
+    "sugarContent": "8 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Tq4Lrbg3dIAee5Q5HB1snaibhtE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8146360-aa093525e1b2476e9862e2e0698f6274.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21250/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

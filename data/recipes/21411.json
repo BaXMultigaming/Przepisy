@@ -1,0 +1,94 @@
+{
+  "id": "21411",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21411/5-ingredient-crab-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/21411/5-ingredient-crab-salad/",
+  "title": "5-Ingredient Crab Salad",
+  "description": "This 5-ingredient crab salad recipe is made with imitation crab, sautéed green pepper, onion, and mayo for a creamy spread for crackers or sandwiches.",
+  "authors": [
+    "PBLAZ"
+  ],
+  "date_published": "2000-09-22T13:39:08-04:00",
+  "date_modified": "2026-05-27T10:40:13-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch",
+    "Salad"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons butter",
+    "1 onion, chopped",
+    "0.5 green bell pepper, chopped",
+    "12 ounces imitation crabmeat",
+    "1 cup mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a medium skillet over medium-high heat. Add onion and green pepper; sauté until tender, about 3 minutes. Stir in crabmeat; saute 3 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer crabmeat mixture to a medium bowl. Fold in mayonnaise until well combined. Serve warm or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Yy806rqbJ2K9tSh6dZ34M2D-bK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/214115-ingredient-crab-saladfabeveryday4x3-102743adcbe145f496d4c452d9ce5303.jpg"
+      ],
+      "image": "assets/images/21411/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "283 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "30 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "541 mg",
+    "sugarContent": "4 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "108"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/DU5FzaKE-ma1DlVvV.mp4",
+    "description": "In this video, you’ll see how to make a creamy crab salad. This award-winning recipe combines real or imitation crab with creamy mayonnaise and sautéed green peppers and onions. So simple! Spoon it into avocado halves or spread on sandwiches or crackers for a quick appetizer.",
+    "duration": "PT1M35S",
+    "name": "Crab Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/DU5FzaKE/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T10:57:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Yy806rqbJ2K9tSh6dZ34M2D-bK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/214115-ingredient-crab-saladfabeveryday4x3-102743adcbe145f496d4c452d9ce5303.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21411/hero.webp",
+    "steps": [
+      null,
+      "assets/images/21411/step_02.webp"
+    ]
+  }
+}

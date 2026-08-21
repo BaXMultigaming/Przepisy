@@ -1,0 +1,67 @@
+{
+  "id": "21749",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21749/chicken-with-bouillon/",
+  "requested_url": "https://www.allrecipes.com/recipe/21749/chicken-with-bouillon/",
+  "title": "Chicken with Bouillon",
+  "description": "Chicken pan-fried in a mixture of margarine and chicken bouillon.",
+  "authors": [
+    "LATISHA JEAN"
+  ],
+  "date_published": "2000-09-06T11:08:26-04:00",
+  "date_modified": "2022-09-09T14:48:06-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons margarine",
+    "2 tablespoons chicken bouillon granules",
+    "4 skinless, boneless chicken breast halves"
+  ],
+  "steps": [
+    {
+      "text": "Melt margarine in a medium skillet over medium heat. Stir in bouillon granules until melted. Add chicken and cook, turning often, until chicken is cooked through and juices run clear, about 20 minutes. Add more margarine and bouillon if needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "225 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "69 mg",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "249 mg",
+    "sugarContent": "0 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "93"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ae3PpOJmx4nqEtJBcT0UGssEmkQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/160136-2308e171386f47048e9d322012b40ee7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21749/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

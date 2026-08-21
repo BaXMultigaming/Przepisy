@@ -1,0 +1,107 @@
+{
+  "id": "21504",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21504/bacon-dumplings/",
+  "requested_url": "https://www.allrecipes.com/recipe/21504/bacon-dumplings/",
+  "title": "Bacon Dumplings",
+  "description": "Dumplings with the flavor of fresh cooked bacon. A tasty change from ordinary dumplings.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-07-19T00:29:54-04:00",
+  "date_modified": "2024-11-30T01:08:44-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices bacon",
+    "2 cups all-purpose flour",
+    "1 pinch salt",
+    "1.5 tablespoons baking powder",
+    "1 teaspoon dried parsley",
+    "ground black pepper to taste",
+    "2 eggs",
+    "0.25 cup milk",
+    "1 quart vegetable broth"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, reserving drippings, crumble and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl sift together flour, salt and baking powder. Gently stir in parsley and pepper. In a 1 cup measuring cup, beat eggs and add enough milk to reach the 1/2 cup level. Stir the egg mixture and the bacon drippings into the flour; stir with a fork until well blended. Add more milk if dough is too dry. Stir in the crumbled bacon; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a 2 quart saucepan heat broth over medium heat. Drop dough by spoonfuls into simmering broth. Cover and cook about 12 minutes, or until done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/c8eqDwTkMKeD0vVur7_SN7EqZ94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-11-89fc6cd60900409db848c3074cecc852.jpg"
+      ],
+      "image": "assets/images/21504/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "52 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "499 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "11"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/apqlUiaw-K3AjnAEN.mp4",
+    "description": "Dumplings with the flavor of freshly cooked bacon. A tasty change from ordinary dumplings.",
+    "duration": "PT1M25S",
+    "name": "How to Make Bacon Dumplings",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/apqlUiaw/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:41:20-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/c8eqDwTkMKeD0vVur7_SN7EqZ94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-11-89fc6cd60900409db848c3074cecc852.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21504/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/21504/step_03.webp"
+    ]
+  }
+}

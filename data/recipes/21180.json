@@ -1,0 +1,87 @@
+{
+  "id": "21180",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21180/butterscotch-raisin-bread-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/21180/butterscotch-raisin-bread-pudding/",
+  "title": "Butterscotch Raisin Bread Pudding",
+  "description": "Bread and raisins soaked in a butterscotch custard and baked. Serve warm or cold.",
+  "authors": [
+    "J Dorrance"
+  ],
+  "date_published": "1999-10-26T21:22:23-04:00",
+  "date_modified": "2022-08-04T11:44:42-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT50M",
+  "yield": [
+    "8",
+    "1 - 8x8 inch dish"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup butterscotch topping",
+    "2 eggs",
+    "1 cup nonfat evaporated milk",
+    "2 cups French bread cubes",
+    "0.33333334326744 cup golden raisins"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease an 8x8 inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, whisk together butterscotch topping, eggs and evaporated milk. Place half of bread cubes in bottom of baking dish. Cover with raisins. Pour half of topping mixture over raisins, and then layer remaining bread cubes and rest of topping over that. Press bread down to soak up butterscotch mixture. Let stand 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven 20 minutes, until heated through and set. Let cool 5 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "186 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "254 mg",
+    "sugarContent": "4 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hbXkZJb8XID1Ses7aPPu7GGo-_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8328946-2a2b634f9dbf40b8a5a54cb7946b09f3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21180/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

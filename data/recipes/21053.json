@@ -1,0 +1,91 @@
+{
+  "id": "21053",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21053/haitian-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/21053/haitian-french-toast/",
+  "title": "Haitian French Toast",
+  "description": "Slices of French bread soaked in orange juice, cream and spices.",
+  "authors": [
+    "Diedrie"
+  ],
+  "date_published": "2000-06-12T20:22:23-04:00",
+  "date_modified": "2022-08-08T10:47:07-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT260M",
+  "yield": [
+    "6",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 French baguette",
+    "1 cup orange juice",
+    "0.5 cup heavy whipping cream",
+    "2 eggs",
+    "1 teaspoon ground cinnamon",
+    "0.25 cup white sugar",
+    "1 dash ground nutmeg",
+    "3 tablespoons butter",
+    "2 tablespoons confectioners' sugar for dusting"
+  ],
+  "steps": [
+    {
+      "text": "Cut loaf ends off and reserve for another use. Cut remaining loaf into 1 1/2 inch slices; let stand 4 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a 9x13 inch baking pan, combine orange juice, cream, eggs ground cinnamon and white sugar. Place bread slices in pan and turn until liquid is absorbed, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet, melt butter over medium heat. Add bread slices and cook until browned on both sides, about 5 minutes. Dust generously with confectioners' sugar and serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "425 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "104 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "564 mg",
+    "sugarContent": "17 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "175"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uilfPxql1tNySYJkHxGUaaF0o9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/77605-9e9c44192e104c358432669f11721b8d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21053/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "21013",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21013/sweet-potato-minestrone/",
+  "requested_url": "https://www.allrecipes.com/recipe/21013/sweet-potato-minestrone/",
+  "title": "Sweet Potato Minestrone",
+  "description": "A hearty and delicious vegetarian minestrone soup with sweet potatoes, carrots, green beans, celery, tomatoes, onions and garlic.",
+  "authors": [
+    "Shelley"
+  ],
+  "date_published": "2000-09-11T18:09:00-04:00",
+  "date_modified": "2025-01-17T12:12:52-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 large onion, chopped",
+    "2 large stalks celery, chopped",
+    "2.5 teaspoons Italian seasoning",
+    "salt and pepper to taste",
+    "1 (28 ounce) can Italian-style diced tomatoes",
+    "5 cups vegetable broth",
+    "2 large sweet potatoes, peeled and diced",
+    "2 large carrots, sliced thin",
+    "6 ounces green beans, cut into 1 inch pieces",
+    "5 cloves garlic, minced"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a soup pot over medium-high heat. Sauté onion, celery, Italian seasoning, salt, and pepper until tender, about 5 minutes. Stir in tomatoes with juice, broth, sweet potatoes, carrots, green beans, and garlic. Bring to a boil; reduce heat to low and simmer, stirring occasionally, until vegetables are tender, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "201 kcal",
+    "carbohydrateContent": "40 g",
+    "fiberContent": "8 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "611 mg",
+    "sugarContent": "16 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "296"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TPlxk_WF8i5wez0R0QFRPZaeraU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/561951-d6d9a31cc5e54332882115abfe2564a5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21013/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

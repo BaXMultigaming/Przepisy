@@ -1,0 +1,85 @@
+{
+  "id": "22183",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22183/waffles-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/22183/waffles-ii/",
+  "title": "Waffles II",
+  "description": "Yummy waffles that are quick and easy to make!",
+  "authors": [
+    "Karen M P"
+  ],
+  "date_published": "2000-07-19T22:13:56-04:00",
+  "date_modified": "2026-08-17T18:02:13-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Bread"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "4 teaspoons baking powder",
+    "0.25 teaspoon salt",
+    "1.5 cups milk",
+    "6 tablespoons vegetable oil",
+    "2 eggs, separated"
+  ],
+  "steps": [
+    {
+      "text": "Preheat waffle iron. In a large mixing bowl, sift together flour, baking powder and salt. Stir in milk, oil and egg yolks until mixture is smooth. In a separate bowl, beat egg whites until soft peaks form. Gently fold egg whites into batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden; serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "492 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "100 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "579 mg",
+    "sugarContent": "5 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "504"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EZUTty_PzTG7eW_dqrjoB7hOCXs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1001712-bd32a81a7e3c47368a8b13b54d13a37c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22183/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "22140",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22140/double-chocolate-mocha-trifle/",
+  "requested_url": "https://www.allrecipes.com/recipe/22140/double-chocolate-mocha-trifle/",
+  "title": "Double Chocolate Mocha Trifle",
+  "description": "A trifle made with brownies, white chocolate pudding flavored with coffee, whipped topping and chocolate covered toffee candy.",
+  "authors": [
+    "ADRSEW"
+  ],
+  "date_published": "2000-05-16T16:57:48-04:00",
+  "date_modified": "2022-07-14T15:43:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT75M",
+  "yield": [
+    "15",
+    "15 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (19.8 ounce) package brownie mix",
+    "1.75 cups cold milk",
+    "2 (3.3 ounce) packages instant white chocolate pudding mix",
+    "4 teaspoons instant coffee granules",
+    "2 tablespoons warm water",
+    "2 cups frozen whipped topping, thawed",
+    "3 (1.4 ounce) bars chocolate covered toffee bars, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Prepare brownies according to package directions. Bake and cool completely. Cut into 1 inch cubes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, whisk together milk and pudding mix until mixture begins to thicken. Dissolve coffee granules in water and stir into pudding mixture. Fold in whipped topping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a glass serving bowl, layer one-third of brownie cubes, one-third of pudding mixture and one-third of candy. Repeat layering until all ingredients are used. Chill 30 minutes in refrigerator before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "249 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "186 mg",
+    "sugarContent": "8 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "268"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CkuoZ52ycEPe3LDlIAEQOtQuwMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/771915-ab1e0fe3ee364bb495791c0dcb4a332b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22140/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

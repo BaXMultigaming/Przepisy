@@ -1,0 +1,97 @@
+{
+  "id": "21006",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21006/fried-cornmeal-mush/",
+  "requested_url": "https://www.allrecipes.com/recipe/21006/fried-cornmeal-mush/",
+  "title": "Fried Cornmeal Mush",
+  "description": "Cooked cornmeal is chilled overnight and then fried until golden brown.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-06-28T00:04:47-04:00",
+  "date_modified": "2026-04-14T13:50:40-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT800M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups water",
+    "1 cup yellow cornmeal",
+    "1 teaspoon salt",
+    "1 tablespoon butter"
+  ],
+  "steps": [
+    {
+      "text": "Lightly grease a 9x5-inch loaf pan; set aside",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat water in a medium saucepan to a boil; reduce heat to medium. Stir in cornmeal and salt; cook, stirring regularly, until thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer cornmeal mixture to prepared loaf pan. Cover and refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slice cornmeal mush into 1-inch-wide slices. Melt butter in a skillet over medium-high heat. Add cornmeal slices; cook until golden brown on both sides.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "153 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "604 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "151"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/T0U7wjH-gO0yT05Q5fAN1MwfN9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/107542-e34bfcf59c124123989b3f83e0f52c1f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21006/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

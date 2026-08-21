@@ -1,0 +1,91 @@
+{
+  "id": "21201",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21201/steamed-tuna-fish/",
+  "requested_url": "https://www.allrecipes.com/recipe/21201/steamed-tuna-fish/",
+  "title": "Steamed Tuna Fish",
+  "description": "Tender steamed tuna with a ginger, sherry, garlic and soy sauce.",
+  "authors": [
+    "Janice Laughton"
+  ],
+  "date_published": "2000-05-22T14:48:27-04:00",
+  "date_modified": "2022-08-08T11:39:55-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds fresh tuna steaks",
+    "0.5 cup soy sauce",
+    "0.5 cup sherry",
+    "0.5 cup vegetable oil",
+    "1 bunch green onions, finely chopped",
+    "0.5 cup minced fresh ginger root",
+    "3 cloves garlic, minced",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place tuna steaks in a steamer over 1 inch of boiling water, and cover. Cook 6 to 8 minutes, or until fish flakes easily with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a medium saucepan, combine soy sauce, sherry, vegetable oil, green onions, ginger, garlic, salt, and black pepper. Bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove tuna steaks from steamer, and place in a serving dish. Pour sauce over tuna steaks, and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "282 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "51 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1330 mg",
+    "sugarContent": "1 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Jna8pjUWm3ILmvhQU-QHSe38rpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2077665-1f108907ce9245ff8ec15dc04cb1760c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21201/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

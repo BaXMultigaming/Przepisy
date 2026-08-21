@@ -1,0 +1,73 @@
+{
+  "id": "21772",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21772/rice-pudding-v/",
+  "requested_url": "https://www.allrecipes.com/recipe/21772/rice-pudding-v/",
+  "title": "Rice Pudding V",
+  "description": "This eggless, stovetop rice pudding has golden raisins and a hint of nutmeg.",
+  "authors": [
+    "Twylla"
+  ],
+  "date_published": "2000-03-26T20:46:02-05:00",
+  "date_modified": "2022-07-14T18:11:07-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT60M",
+  "total_time": "PT65M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup uncooked short-grain white rice",
+    "6 cups hot milk",
+    "0.5 teaspoon salt",
+    "0.5 cup white sugar",
+    "0.5 cup golden raisins",
+    "0.25 teaspoon ground nutmeg",
+    "2 teaspoons vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "In the top of a double boiler, stir together rice, milk, salt, sugar, raisins and nutmeg. Cook, stirring occasionally, over simmering water 1 hour, until thick. Stir in vanilla and serve warm or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "305 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "295 mg",
+    "sugarContent": "28 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gwbpjAl74bg3NeaVeAkOoZ8h_rA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7407346-beeb83dd602649938e7dbd1f6bee24c6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21772/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

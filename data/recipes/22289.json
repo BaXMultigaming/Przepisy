@@ -1,0 +1,86 @@
+{
+  "id": "22289",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22289/tasty-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/22289/tasty-green-beans/",
+  "title": "Tasty Green Beans",
+  "description": "These tasty green beans are cooked with garlic, beef bouillon, and umami-rich soy sauce for a deliciously rich, savory alternative to steamed veggies.",
+  "authors": [
+    "Carol"
+  ],
+  "date_published": "2000-08-16T02:11:25-04:00",
+  "date_modified": "2025-01-02T12:57:37-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds fresh green beans, rinsed and trimmed",
+    "0.5 cup margarine",
+    "0.5 onion, chopped",
+    "1 tablespoon minced garlic",
+    "0.5 cup soy sauce",
+    "0.25 cup water",
+    "2 tablespoons beef bouillon",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of water to a boil. Cook green beans in boiling water for 5 minutes. Drain, then rinse with cold water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt margarine in a large saucepan over high heat. Stir green beans, onions, and garlic into hot margarine. Pour in soy sauce. Stir in water and bouillon. Reduce heat to low and simmer, stirring occasionally, for 20 minutes. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "305 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "2743 mg",
+    "sugarContent": "6 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "206"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bfcRxMbNzMCtkVryu9ZGL9q6fDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/62944-ec72ab4ff6bb490ab9462f5a4c771426.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22289/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

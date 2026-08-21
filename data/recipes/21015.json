@@ -1,0 +1,83 @@
+{
+  "id": "21015",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21015/grandmas-hash-browns/",
+  "requested_url": "https://www.allrecipes.com/recipe/21015/grandmas-hash-browns/",
+  "title": "Grandma&#39;s Hash Browns",
+  "description": "My Grandma made these simple hash browns nearly every morning when I spent time with her. They take a little planning, but they&#39;re better than any others! Serve with your favorite style eggs and breakfast meat!",
+  "authors": [
+    "Denyse"
+  ],
+  "date_published": "2000-08-28T22:49:32-04:00",
+  "date_modified": "2026-05-06T10:44:09-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT60M",
+  "total_time": "PT800M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 large russet potatoes, peeled",
+    "4 tablespoons butter",
+    "1 tablespoon salt",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, cover potatoes with water. Bring water to a boil and cook until tender, about 20 minutes. Let cool in refrigerator overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "The next morning, heat butter in a large skillet or frying pan. Shred potatoes and add to pan. Season with salt and pepper. Cook until golden brown on bottom, flip and brown on other side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "337 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "930 mg",
+    "sugarContent": "3 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "170"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3pMAYPJ9QhP-XL7N_H9WpH9-XsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/517178-db593177bd684ae78b314ec6ab14bdf5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21015/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

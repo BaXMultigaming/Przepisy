@@ -1,0 +1,86 @@
+{
+  "id": "21307",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21307/chocolate-bar-fondue/",
+  "requested_url": "https://www.allrecipes.com/recipe/21307/chocolate-bar-fondue/",
+  "title": "Chocolate Fondue",
+  "description": "This rich chocolate fondue recipe is easy to make with melted chocolate, cream, and vanilla for a decadently smooth chocolate treat, perfect for dipping!",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-08-15T20:48:13-04:00",
+  "date_modified": "2026-02-09T12:57:26-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "48",
+    "6 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "32 ounces milk chocolate, grated",
+    "1.25 cups heavy cream",
+    "0.33333331346512 cup hot water",
+    "1 tablespoon instant coffee powder",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine chocolate and heavy cream in a nonstick saucepan over medium heat. Stir until chocolate is melted and mixture is smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix in hot water, coffee powder, vanilla, and sugar. Continue to heat, stirring frequently, until fondue is smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "122 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "10 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "445"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tFnDfRuGUJRyw4rXWzE7tjy-1cE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21307-chocolate-bar-fondue-VAT-Beauty-4x3-56db9efb157841dc8ffac84c6f0760a9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21307/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

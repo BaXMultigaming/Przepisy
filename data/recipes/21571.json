@@ -1,0 +1,83 @@
+{
+  "id": "21571",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21571/quick-clam-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/21571/quick-clam-sauce/",
+  "title": "Quick Clam Sauce",
+  "description": "Tomato and clam sauce with garlic and parsley.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-07-19T01:41:13-04:00",
+  "date_modified": "2025-03-11T14:08:00-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT45M",
+  "total_time": "PT55M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 tablespoons olive oil",
+    "2 cloves garlic, minced",
+    "4 tablespoons chopped fresh parsley",
+    "2 (6.5 ounce) cans minced clams, with juice",
+    "2 (16 ounce) cans crushed tomatoes",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, lightly brown garlic in olive oil. Stir in parsley, clams with juice, crushed tomatoes, salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Simmer for 45 minutes. Serve over cooked pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "361 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "402 mg",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZcfLYjelrpkSd6zZQ5-QBisHMuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/845448-5466687930804df5862e16af8eaa7be9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21571/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

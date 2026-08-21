@@ -1,0 +1,71 @@
+{
+  "id": "21210",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21210/avocado-blast/",
+  "requested_url": "https://www.allrecipes.com/recipe/21210/avocado-blast/",
+  "title": "Avocado Blast",
+  "description": "A thick and creamy shake made with avocados and sweetened milk.",
+  "authors": [
+    "Sweetle"
+  ],
+  "date_published": "2000-09-19T00:33:06-04:00",
+  "date_modified": "2022-08-08T11:36:45-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 avocados, peeled and pitted",
+    "4 tablespoons sweetened condensed milk",
+    "1 tablespoon dry milk powder",
+    "2 teaspoons white sugar",
+    "0.5 cup ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine avocado, sweetened condensed milk, powdered milk, sugar and ice. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "469 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "17 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "52 mg",
+    "sugarContent": "13 g",
+    "fatContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NG1H81avevx0nIL5G6-9_hdxqWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/459702-35f4983e828b41cf837e479bc9ea9e2e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21210/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

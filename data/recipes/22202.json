@@ -1,0 +1,81 @@
+{
+  "id": "22202",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22202/lemon-ice-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/22202/lemon-ice-i/",
+  "title": "Lemon Ice",
+  "description": "This lemon ice recipe makes an easy citrus sherbet that can be made with or without an ice cream maker. Swap or combine other citrus fruits as desired.",
+  "authors": [
+    "bsteimle"
+  ],
+  "date_published": "2000-09-29T15:26:37-04:00",
+  "date_modified": "2025-06-11T09:57:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups white sugar",
+    "1 lemon, juiced and zested",
+    "1 lemon, juiced",
+    "4 cups milk"
+  ],
+  "steps": [
+    {
+      "text": "Stir sugar, lemon zest, and lemon juice together in a large bowl until smooth; slowly stir in milk. Pour into a 9x9 inch dish; transfer to the freezer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir once when mixture begins to harden. Freeze until firm, at least 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "347 kcal",
+    "carbohydrateContent": "78 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "68 mg",
+    "sugarContent": "74 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "62"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hcFjlKPJyIHvPj4MCgcKSR3xNIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/649154-1cee052cfcf94d7d86508e8d7f53324d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22202/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

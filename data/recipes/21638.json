@@ -1,0 +1,80 @@
+{
+  "id": "21638",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21638/cold-shrimp-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/21638/cold-shrimp-salad/",
+  "title": "Cold Shrimp Salad",
+  "description": "This cold shrimp salad without mayo is perfect for summer and includes fresh avocado, bell peppers, and garlic.",
+  "authors": [
+    "Nilda Cruz"
+  ],
+  "date_published": "2000-08-07T13:46:54-04:00",
+  "date_modified": "2026-05-21T12:10:22-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds cooked medium shrimp, peeled and deveined without tail",
+    "1 green bell pepper, finely chopped",
+    "1 red bell pepper, finely chopped",
+    "5 cloves garlic, minced",
+    "1 sweet onion, diced",
+    "chopped fresh cilantro",
+    "1 avocado - peeled, pitted and diced",
+    "salt and pepper to taste",
+    "0.5 cup olive oil",
+    "chili pepper flakes"
+  ],
+  "steps": [
+    {
+      "text": "Place shrimp in a large mixing bowl with red and green bell peppers, garlic, onion, cilantro, and avocado. Drizzle with olive oil, and season with salt and pepper. Cover, and refrigerate for at least 1 hour to allow flavors to develop. Serve chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "177 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "323 mg",
+    "sugarContent": "1 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2MET9TKF72dyMDQsLM6J3UeVm38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Shrimp-and-Garlic-lutzflcat-2000-d49eb4497ddb4e0bacc4c32310fc23e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21638/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

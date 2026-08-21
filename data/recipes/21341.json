@@ -1,0 +1,86 @@
+{
+  "id": "21341",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21341/wieners-and-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/21341/wieners-and-beans/",
+  "title": "Wieners and Beans",
+  "description": "This is simple and tastes great! It makes a nice accompaniment to a main dish at lunch, dinner or picnic.",
+  "authors": [
+    "Sheila"
+  ],
+  "date_published": "2000-09-04T13:48:58-04:00",
+  "date_modified": "2022-07-14T15:47:34-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 beef frankfurters",
+    "4 tablespoons barbeque sauce",
+    "2 teaspoons dry mustard",
+    "2 (16 ounce) cans baked beans with pork"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan filled with water, boil the frankfurters for about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In another saucepan, combine barbeque sauce, dry mustard and baked beans. Stir and heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the frankfurters are cooked, combine them with the sauce mixture for about 10 to 15 minutes or until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "527 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1778 mg",
+    "sugarContent": "22 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gdV7PpTON1ZfzZO0TjjE7Pss6iE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6845115-f5aae5d28118417e844dc8ab53798c91.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21341/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

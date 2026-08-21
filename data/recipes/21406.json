@@ -1,0 +1,80 @@
+{
+  "id": "21406",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21406/tuna-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/21406/tuna-salad/",
+  "title": "Tuna Salad",
+  "description": "Tuna and lettuce salad with garbanzo beans, chopped egg, and cucumber. Great with French dressing.",
+  "authors": [
+    "Bill Pfeiler"
+  ],
+  "date_published": "2000-09-24T18:28:56-04:00",
+  "date_modified": "2022-07-14T17:38:54-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (5 ounce) can tuna, drained",
+    "1 (15 ounce) can chickpeas (garbanzo beans), drained",
+    "2 hard-boiled eggs, chopped",
+    "1 cucumber, peeled and diced",
+    "1 head iceberg lettuce, torn into bite-sized pieces",
+    "0.5 cup French dressing"
+  ],
+  "steps": [
+    {
+      "text": "In a large mixing bowl, combine tuna, chickpeas (garbanzo beans), chopped hard-boiled eggs, diced cucumber, and iceberg lettuce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss well and add French dressing to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "350 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "115 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "548 mg",
+    "sugarContent": "9 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8ocBgtQkESAhTdjiCwsf8O85K6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9158068-3be7d6a5f7be4421b27abc8e94cbb997.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21406/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "21304",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21304/potato-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/21304/potato-pancakes/",
+  "title": "Dad&#39;s Potato Pancakes",
+  "description": "Potatoes and onion grated, combined with eggs and pancake mix, and cooked just like breakfast pancakes. Excellent when served with warm sour cream.",
+  "authors": [
+    "KRKing911"
+  ],
+  "date_published": "2000-08-13T15:29:15-04:00",
+  "date_modified": "2022-04-25T16:10:36-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "15",
+    "15 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 pounds potatoes, peeled",
+    "1 onion",
+    "3 eggs, beaten",
+    "2.5 cups dry pancake mix",
+    "2 teaspoons salt",
+    "1 teaspoon ground black pepper",
+    "1 tablespoon vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "In a food processor grate potatoes and onion. In a large bowl combine potatoes, onions, eggs, pancake mix, salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium heat. Spoon potatoes into skillet and cook as you would pancakes, for 3 to 4 minutes on each side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "197 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "652 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "101"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vNGsbCLYw2Szywj40b951SawbCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8570758-89d5f5b86bab49e6814967ee27a9d0cd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21304/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "21467",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21467/tri-color-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/21467/tri-color-pasta-salad/",
+  "title": "Tri-Color Pasta Salad",
+  "description": "Tri-color pasta, American cheese and broccoli tossed with Italian-style dressing.",
+  "authors": [
+    "Mishelle Karpf"
+  ],
+  "date_published": "2000-04-09T00:46:18-04:00",
+  "date_modified": "2022-07-14T17:27:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "15",
+    "15 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds uncooked tri-color spiral pasta",
+    "10 ounces diced processed American cheese",
+    "1 large head broccoli, cut into florets",
+    "1 (16 ounce) bottle Italian-style salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss cooled pasta with cheese, broccoli and Italian-style dressing to taste. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "381 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "780 mg",
+    "sugarContent": "5 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6bLtgPgzPURq4iFVKzFImFqpqkg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/231661-fb2d49b184c84cacaf18a6864738ad33.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21467/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

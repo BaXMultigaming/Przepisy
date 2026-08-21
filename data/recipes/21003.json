@@ -1,0 +1,85 @@
+{
+  "id": "21003",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21003/indian-vegetable-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/21003/indian-vegetable-rice/",
+  "title": "Indian Vegetable Rice",
+  "description": "Basmati rice enhanced with the flavors of jeera (cumin), garam masala, mixed vegetables and onions.",
+  "authors": [
+    "Neena"
+  ],
+  "date_published": "2000-09-03T19:40:00-04:00",
+  "date_modified": "2022-07-14T17:33:16-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT40M",
+  "total_time": "PT50M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "1 onion, thinly sliced",
+    "0.5 teaspoon ground cumin",
+    "1 cup Basmati rice",
+    "2 cups water",
+    "0.75 teaspoon salt",
+    "0.5 teaspoon garam masala",
+    "0.75 cup frozen mixed vegetables"
+  ],
+  "steps": [
+    {
+      "text": "In a large pan heat oil over medium heat and saute onions and cumin until onions are tender, but not browned. Rinse the rise several times and drain well. Add the rice to the pan with the onions and pour in the 2 cups of water. Stir in salt, garam masala and vegetables. Cover the pan and increase the heat to high.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring the mixture to a boil and then reduce the heat to low, keeping the rice covered at all times. After cooking for about 10 minutes, gently stir the rice to distribute the spices evenly. Cook 25 to 30 minutes, or until all of the water has evaporated and the rice is tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "515 kcal",
+    "carbohydrateContent": "87 g",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "905 mg",
+    "sugarContent": "4 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "68"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lOccj4Fs-wfYtiv2yx79labe2Wc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3620638-10aca1447eb541979b9e8cc7951184fe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21003/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

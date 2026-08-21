@@ -1,0 +1,84 @@
+{
+  "id": "21008",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21008/wild-rice-cheese-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/21008/wild-rice-cheese-soup/",
+  "title": "Wild Rice Cheese Soup",
+  "description": "The original recipe calls for italian sausage, but this cheesy soup is great with ground beef or venison.",
+  "authors": [
+    "Heather"
+  ],
+  "date_published": "2000-04-03T19:43:22-04:00",
+  "date_modified": "2022-07-14T16:26:43-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT60M",
+  "total_time": "PT90M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground Italian sausage",
+    "1 small onion, diced",
+    "1 cup uncooked wild rice",
+    "1 (10.75 ounce) can condensed cream of potato soup",
+    "1 (10.75 ounce) can condensed cream of chicken soup",
+    "1 cup milk",
+    "1 cup evaporated milk",
+    "1 pound processed cheese, cubed"
+  ],
+  "steps": [
+    {
+      "text": "In a medium skillet, fry the Italian sausage and onions until sausage is no longer pink. Drain and set aside. In a small saucepan, cook wild rice with 2 cups of water until tender; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a stockpot, combine the cooked sausage and onions, rice, potato and chicken soups, milk, and evaporated milk. Cook over low heat until warm. Stir in the processed cheese and heat, stirring occasionally until cheese is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "372 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1115 mg",
+    "sugarContent": "7 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZpLJ42oRPPZeTWGraQV9SXGzDAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2021791-7203e3121413462ebefd9f7a9965ce7f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21008/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "21343",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21343/migas/",
+  "requested_url": "https://www.allrecipes.com/recipe/21343/migas/",
+  "title": "Migas",
+  "description": "A quick and easy egg dish with Southwestern flair. Serve with picante sauce if desired.",
+  "authors": [
+    "Janice"
+  ],
+  "date_published": "2000-06-28T15:18:04-04:00",
+  "date_modified": "2025-04-06T17:18:19-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Southwestern",
+    "American"
+  ],
+  "regions": [
+    "Southwestern",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 eggs",
+    "0.25 cup milk",
+    "3 (6 inch) corn tortillas, coarsely chopped",
+    "1 tablespoon butter",
+    "1 tablespoon chopped green onion",
+    "0.5 cup diced cooked ham",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a bowl, beat eggs and milk together. Soak tortilla pieces in egg mixture for 5 to 10 minutes. Meanwhile, heat butter in a skillet over medium heat. Saute green onion and ham until onion is soft, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour egg mixture into skillet and cook over medium/low heat until eggs are set.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "225 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "297 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "357 mg",
+    "sugarContent": "2 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "36"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xYwZI71yTHUZ-mfmAk6Bll9JyK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6485936-2f39742a9c694fb393fed2e969a35b29.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21343/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

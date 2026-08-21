@@ -1,0 +1,83 @@
+{
+  "id": "21193",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21193/fettuccine-alfredo-with-ham/",
+  "requested_url": "https://www.allrecipes.com/recipe/21193/fettuccine-alfredo-with-ham/",
+  "title": "Fettuccine Alfredo with Ham",
+  "description": "Cream and ham with Parmesan and a touch of butter.",
+  "authors": [
+    "Margie Tefel"
+  ],
+  "date_published": "2000-08-11T14:09:22-04:00",
+  "date_modified": "2026-06-01T22:04:31-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dry fettuccine pasta",
+    "1 tablespoon butter",
+    "6 ounces diced cooked ham",
+    "2 cups heavy cream",
+    "1 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium sauce pan over medium heat, melt butter. Stir in ham and cook 1 minute. Stir in cream and heat through. Stir in Parmesan and cook until thick and smooth. Toss with cooked pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "516 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "106 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "458 mg",
+    "sugarContent": "2 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yzsAbOYqCcelwTlkGXw0S2MtRjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/999070-46a428cf60764a5a89382aab96fd5096.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21193/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

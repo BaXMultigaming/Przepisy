@@ -1,0 +1,87 @@
+{
+  "id": "21179",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21179/hungry-mans-hash-browns/",
+  "requested_url": "https://www.allrecipes.com/recipe/21179/hungry-mans-hash-browns/",
+  "title": "Hungry Man&#39;s Hash Browns",
+  "description": "Home made hash browns cooked with bacon chunks and onions. A breakfast hearty enough to fill anyone&#39;s appetite!",
+  "authors": [
+    "Adaba"
+  ],
+  "date_published": "2000-08-03T18:58:08-04:00",
+  "date_modified": "2022-07-14T17:35:35-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 cups large chunks of peeled potatoes",
+    "8 slices bacon",
+    "3 large onions, sliced",
+    "1.5 teaspoons salt"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in large pot. Fill the pot with cold water until it is half an inch above the top of the potatoes. Add the salt to the water and stir briefly to dissolve. Bring water to a boil and cook until tender, about 15 to 20 minutes. Drain and set aside to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Remove bacon, drain, cool and crumble. Leave bacon fat in skillet and return to stove.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add potato chunks, onion and crumbled bacon to skillet. Cook over medium high heat until potatoes begin to brown and onions are translucent, about 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "474 kcal",
+    "carbohydrateContent": "61 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1892 mg",
+    "sugarContent": "7 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Qu6OY_zRrGlpwxWKJgj8O8WEDgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4560667-6db3bd7e8273479c940f05101d3b64df.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21179/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

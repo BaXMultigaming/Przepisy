@@ -1,0 +1,103 @@
+{
+  "id": "21045",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21045/whipped-sweet-potato-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/21045/whipped-sweet-potato-casserole/",
+  "title": "Whipped Sweet Potato Casserole",
+  "description": "This whipped sweet potato casserole makes sweet potatoes sweeter with orange juice, brown sugar, and nutmeg that is then topped with marshmallows.",
+  "authors": [
+    "Bea Gassman"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-01-14T01:23:35-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds sweet potato, peeled and cubed",
+    "2 tablespoons orange juice",
+    "0.75 cup brown sugar",
+    "0.125 teaspoon ground nutmeg",
+    "2 tablespoons butter, cubed",
+    "1 cup miniature marshmallows"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan cook sweet potatoes in salted water over medium-high heat for 20 minutes, or until done. Drain, and add orange juice, brown sugar, nutmeg, and butter. Whip until smooth. Spread into a medium size casserole dish and top with marshmallows.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for about 10 minutes, or until marshmallows are golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_0i-lCOi59OcHJvXKmsb7vY2DZs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4562858-282d86cda48f40a7be7c0f8be368287b.jpg"
+      ],
+      "image": "assets/images/21045/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "296 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "96 mg",
+    "sugarContent": "38 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "184"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/G0ivwvyX-ma1DlVvV.mp4",
+    "description": "AR0846",
+    "duration": "PT2M39S",
+    "name": "Whipped Sweet Potato Casserole",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/G0ivwvyX/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T07:00:46-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_0i-lCOi59OcHJvXKmsb7vY2DZs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4562858-282d86cda48f40a7be7c0f8be368287b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21045/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/21045/step_03.webp"
+    ]
+  }
+}

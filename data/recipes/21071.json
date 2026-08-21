@@ -1,0 +1,95 @@
+{
+  "id": "21071",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21071/hearty-one-pan-breakfast/",
+  "requested_url": "https://www.allrecipes.com/recipe/21071/hearty-one-pan-breakfast/",
+  "title": "Hearty One Pan Breakfast",
+  "description": "Sauteed vegetables and potatoes topped with cheese and whole eggs.",
+  "authors": [
+    "DD kdf"
+  ],
+  "date_published": "2000-08-28T12:54:33-04:00",
+  "date_modified": "2025-04-10T23:58:56-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT30M",
+  "total_time": "PT90M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 potatoes, peeled",
+    "6 ounces bacon, chopped",
+    "0.5 cup chopped onion",
+    "0.5 cup chopped green bell pepper",
+    "1 teaspoon chopped garlic",
+    "1 cup chopped fresh tomatoes",
+    "salt and pepper to taste",
+    "6 ounces Cheddar cheese, shredded",
+    "8 eggs"
+  ],
+  "steps": [
+    {
+      "text": "Bring a pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain, cool and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Add the onions, peppers, garlic, tomatoes, and potatoes. Season with salt and pepper and cook until vegetables are soft, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle vegetable mixture with cheese. Crack eggs into the pan a couple of inches apart. Cover pan and allow eggs to cook to desired firmness. Remove pan from heat and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "328 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "223 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "485 mg",
+    "sugarContent": "2 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tW6hFoWFeZBqeP3k_MX68b0yCFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7125611-6035e125abac44558ebceec13140cad2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21071/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

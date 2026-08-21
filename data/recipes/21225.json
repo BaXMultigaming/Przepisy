@@ -1,0 +1,82 @@
+{
+  "id": "21225",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21225/annies-turkey-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/21225/annies-turkey-salad/",
+  "title": "Annie&#39;s Turkey Salad",
+  "description": "This turkey salad can be made with leftover turkey or a turkey breast. It is my great-grandmother&#39;s recipe. Serve with assorted crackers or breads.",
+  "authors": [
+    "Ann Sizemore"
+  ],
+  "date_published": "2000-04-05T08:11:30-04:00",
+  "date_modified": "2026-06-16T11:37:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT200M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large eggs",
+    "6 cups cooked turkey meat",
+    "1 (16 ounce) jar sweet pickles, chopped",
+    "1.5 (10 ounce) jars mustard-mayonnaise blend",
+    "0.75 cup mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs in a medium saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, thoroughly mix eggs, turkey, pickles, mustard-mayonnaise blend, and mayonnaise. Chill in the refrigerator for about 3 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "356 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "184 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "496 mg",
+    "sugarContent": "9 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "103"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mwvqNR1S2y95hFFXOgrZw-Czws0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40063-e4684033301d493c9402db5e4545702f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21225/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

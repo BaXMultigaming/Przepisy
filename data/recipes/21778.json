@@ -1,0 +1,81 @@
+{
+  "id": "21778",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21778/kielbasa-kale-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/21778/kielbasa-kale-stew/",
+  "title": "Kielbasa Kale Stew",
+  "description": "A thick stew with a rich potato base, fresh kale, and slices of savory kielbasa. This is a meal all by itself.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-09-26T22:19:56-04:00",
+  "date_modified": "2022-08-04T10:05:17-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT80M",
+  "total_time": "PT100M",
+  "yield": [
+    "8",
+    "8 1-cup servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large potatoes, peeled and cubed",
+    "0.25 cup butter",
+    "10 cups water",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "2.5 pounds kale - rinsed, dried and chopped",
+    "0.66666668653488 pound kielbasa sausage, sliced into 1/2 inch pieces"
+  ],
+  "steps": [
+    {
+      "text": "Place the potatoes into a large stockpot, over medium high heat. Add butter and water, and bring to a boil. Cook potatoes until tender, about 20 minutes. Reserve the cooking liquid and mash potatoes in the pan until smooth. Return the potato water to the pot and stir in salt and pepper. Simmer for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in the fresh kale and sausage and simmer for another 30 minutes. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "453 kcal",
+    "carbohydrateContent": "64 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "760 mg",
+    "sugarContent": "3 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "87"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bNWFETmb2VrXcltzRVXYXSUzzX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1594077-0c5d46e101724a5d8a726d8fd5efc746.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21778/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

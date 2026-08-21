@@ -1,0 +1,123 @@
+{
+  "id": "22262",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22262/greek-honey-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/22262/greek-honey-cake/",
+  "title": "Greek Honey Cake",
+  "description": "This Greek honey cake recipe yields a very moist cake permeated with orange and lemon flavors. It is loaded with walnuts and soaked in a honey syrup.",
+  "authors": [
+    "Jan O'Leary Merzlak"
+  ],
+  "date_published": "2000-10-04T03:18:31-04:00",
+  "date_modified": "2026-02-23T06:11:39-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT55M",
+  "total_time": "PT75M",
+  "yield": [
+    "12",
+    "1 (9-inch square) cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup honey",
+    "0.75 cup white sugar",
+    "0.75 cup water",
+    "1 teaspoon lemon juice",
+    "1 cup all-purpose flour",
+    "1.5 teaspoons baking powder",
+    "1 teaspoon orange zest",
+    "0.5 teaspoon ground cinnamon",
+    "0.25 teaspoon salt",
+    "0.75 cup butter",
+    "3 eggs",
+    "0.25 cup milk",
+    "1 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Combine honey, 1 cup sugar, and water in a saucepan; bring to a simmer and cook 5 minutes. Stir in lemon juice; bring to a boil and cook for 2 minutes. Remove from heat and let cool while you prepare the cake.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch square baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine flour, baking powder, orange zest, cinnamon, and salt in a bowl; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat remaining 3/4 cup sugar and butter together in a large bowl until light and fluffy. Beat in eggs, one at a time. Beat in flour mixture, alternating with milk, beating just until incorporated; stir in walnuts. Pour batter into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a toothpick inserted into center comes out clean, about 40 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove cake from oven and poke holes over the surface with a toothpick. Slowly ladle the cooled honey syrup over cake. For best results, set cake aside for 4 to 6 hours to cool and absorb the syrup before slicing and serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "423 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "77 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "196 mg",
+    "sugarContent": "53 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "147"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3keHJzC8CbrpNPFK6qssHwrOEs0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22262_Greek-Honey-Cake-4x3-5fa1b43afde24b53906180c99cf8b187.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22262/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

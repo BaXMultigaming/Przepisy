@@ -1,0 +1,99 @@
+{
+  "id": "21120",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21120/shrimp-and-feta-cheese-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/21120/shrimp-and-feta-cheese-pasta/",
+  "title": "Shrimp and Feta Cheese Pasta",
+  "description": "Shrimp is cooked in garlic and white wine, then tossed with pasta and feta in a fresh tomato sauce.",
+  "authors": [
+    "Jessie"
+  ],
+  "date_published": "2000-09-11T16:34:33-04:00",
+  "date_modified": "2022-10-30T22:09:28-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons olive oil",
+    "1 pound shrimp, peeled and deveined",
+    "5 cloves garlic, minced",
+    "1 tablespoon white wine",
+    "1 pound linguine pasta",
+    "2 tomatoes, chopped",
+    "1 teaspoon dried oregano",
+    "0.5 teaspoon dried basil",
+    "1 (6 ounce) package crumbled feta cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a medium skillet over medium heat, heat 2 tablespoons olive oil. Cook shrimp, garlic and white wine for 5 minutes, or until shrimp is pink. Remove shrimp with slotted spoon and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While pasta is cooking, cook tomatoes with remaining 1 tablespoon oil, oregano and basil over medium heat in wine mixture until tender, 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss hot pasta with shrimp, tomato sauce and feta. Feta will melt slightly. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "603 kcal",
+    "carbohydrateContent": "75 g",
+    "cholesterolContent": "168 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "763 mg",
+    "sugarContent": "5 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "564"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8IeeiuXAe6FIBW5-YLt79jjxeOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9375564-shrimp-and-feta-cheese-pasta-Laurahallie-4x3-1-9a15f0aa386f4ccba191ebfb3540888e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21120/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

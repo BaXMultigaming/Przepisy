@@ -1,0 +1,95 @@
+{
+  "id": "21181",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21181/marias-broccoli-rabe/",
+  "requested_url": "https://www.allrecipes.com/recipe/21181/marias-broccoli-rabe/",
+  "title": "Maria&#39;s Broccoli Rabe",
+  "description": "This sautéed broccoli rabe recipe with garlic and Parmesan cheese makes a super simple, colorful side dish that&#39;s elegant enough for company.",
+  "authors": [
+    "Maria"
+  ],
+  "date_published": "2000-08-23T07:52:31-04:00",
+  "date_modified": "2026-04-28T15:09:24-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 pound broccoli rabe, trimmed",
+    "5 tablespoons extra virgin olive oil",
+    "1 clove garlic, minced",
+    "1 tablespoon grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Cut an X in the bottom of the stems of the broccoli rabe and place in the boiling water. Cook until just tender but still firm, about 3 to 5 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large heavy skillet over medium heat, heat olive oil and sauté garlic for 1 to 2 minutes. Stir in the broccoli rabe and sauté for 8 to 10 minutes, or until desired doneness. Sprinkle with parmesan cheese, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/8WMyv7kz-HVxcCL36MTN96NutFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2728046-c43dcadf1e28432988d57c4f2cc408f2.jpg"
+      ],
+      "image": "assets/images/21181/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "192 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "53 mg",
+    "sugarContent": "1 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "238"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/stzMCYjy-ma1DlVvV.mp4",
+    "description": "AR0806",
+    "duration": "PT2M10S",
+    "name": "Maria's Broccoli Rabe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/stzMCYjy/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T22:54:39-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8WMyv7kz-HVxcCL36MTN96NutFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2728046-c43dcadf1e28432988d57c4f2cc408f2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21181/hero.webp",
+    "steps": [
+      null,
+      "assets/images/21181/step_02.webp"
+    ]
+  }
+}

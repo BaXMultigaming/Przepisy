@@ -1,0 +1,84 @@
+{
+  "id": "22256",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22256/tequila-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/22256/tequila-shrimp/",
+  "title": "Tequila Shrimp",
+  "description": "Jumbo shrimp sauteed in garlic, cilantro, and tequila Great over pasta, or enjoy with cocktail sauce.",
+  "authors": [
+    "Michael"
+  ],
+  "date_published": "2000-10-04T14:33:46-04:00",
+  "date_modified": "2025-01-21T23:16:22-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons unsalted butter",
+    "4 cloves garlic, chopped",
+    "1.5 pounds large shrimp - peeled and deveined",
+    "0.5 cup tequila",
+    "0.5 cup chopped fresh cilantro",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large skillet over medium heat. Saute garlic until light brown. Place shrimp in the pan, and cook for 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in tequila, and season with cilantro, salt, and pepper. Cook for 2 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "157 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "174 mg",
+    "sugarContent": "0 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "202"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aydBSjjrKT2BfCGVUzZeefULvvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/377618-cf5bf53df7ae44da985afaabe16995bf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22256/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

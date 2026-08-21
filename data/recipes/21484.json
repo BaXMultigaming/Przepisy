@@ -1,0 +1,102 @@
+{
+  "id": "21484",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21484/peanut-butter-and-banana-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/21484/peanut-butter-and-banana-french-toast/",
+  "title": "Peanut Butter and Banana French Toast",
+  "description": "This banana French toast is easy to make with your favorite bread, creamy peanut butter, and banana slices for a family-pleasing breakfast or brunch.",
+  "authors": [
+    "Bon"
+  ],
+  "date_published": "2000-05-03T00:00:47-04:00",
+  "date_modified": "2026-06-07T00:33:16-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg",
+    "1 dash vanilla extract",
+    "2 tablespoons creamy peanut butter",
+    "2 slices bread",
+    "1 small banana, sliced",
+    "2 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Lightly beat egg and vanilla together in a shallow bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread 1 tablespoon of peanut butter on top of each slice of bread. Arrange banana slices on top of peanut butter on one slice of bread; place the other slice of bread, peanut butter-side down, on top of the banana to make a sandwich.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a skillet over medium heat. Dip sandwich into egg mixture until well coated; transfer into the heated skillet. Cook until golden brown on one side, about 2 to 3 minutes; flip and continue cooking until other side is browned, about 2 minutes more. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3kYC0JdpdgRX3NcF8m1EE7eZZRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/129012-ff79e2a63ce74ae6861e6f98176a9ced.jpg"
+      ],
+      "image": "assets/images/21484/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "346 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "124 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "362 mg",
+    "sugarContent": "9 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "381"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/YmoTihBP-K3AjnAEN.mp4",
+    "description": "Perfect for a weekend breakfast or brunch! It’s the ultimate french toast to start your day off on the right foot! Add a touch of powdered sugar and enjoy! ",
+    "duration": "PT53S",
+    "name": "Peanut Butter and Banana French Toast ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/YmoTihBP/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:21:41-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3kYC0JdpdgRX3NcF8m1EE7eZZRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/129012-ff79e2a63ce74ae6861e6f98176a9ced.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21484/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/21484/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "22332",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22332/barbequed-pineapple/",
+  "requested_url": "https://www.allrecipes.com/recipe/22332/barbequed-pineapple/",
+  "title": "Barbequed Pineapple",
+  "description": "Rings of pineapple are marinated in a sweetened spiced rum glaze and grilled to perfection on an outdoor barbecue.",
+  "authors": [
+    "Michael Fischer"
+  ],
+  "date_published": "2000-10-04T19:06:21-04:00",
+  "date_modified": "2024-05-17T15:49:10-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT90M",
+  "yield": [
+    "4",
+    "8 slices"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 fresh pineapple",
+    "0.25 cup rum",
+    "0.25 cup brown sugar",
+    "1 tablespoon ground cinnamon",
+    "0.5 teaspoon ground ginger",
+    "0.5 teaspoon ground nutmeg",
+    "0.5 teaspoon ground cloves"
+  ],
+  "steps": [
+    {
+      "text": "Peel and core whole pineapple, then slice into eight rings. Place pineapple rings in a shallow dish or resealable plastic bag. Mix together rum, brown sugar, cinnamon, ginger, nutmeg, and cloves in a small bowl. Pour marinade over pineapple. Cover and refrigerate 1 hour to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the grill for high heat. Lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove pineapple rings from the dish and reserve remaining marinade for serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill pineapple rings until dry and char-marked, about 7 minutes on each side. Serve with remaining marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/E0-DtJLDZiALzibXi8Krf9-3_TY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5647610-b63bbf8b9aec4c0dbc220b456b0249a0.jpg"
+      ],
+      "image": "assets/images/22332/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "151 kcal",
+    "carbohydrateContent": "31 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "6 mg",
+    "sugarContent": "25 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "86"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/vLYs2Fvw-K3AjnAEN.mp4",
+    "description": "Barbecued pineapple is a delight! Serve in a bowl or a banana boat with the pineapple on either side, and a scoop of ice cream or two with juice glaze on top. You may substitute juice (1/2 cup) for the sugar and rum part of marinade.",
+    "duration": "PT1M46S",
+    "name": "Barbecued Pineapple",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/vLYs2Fvw/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T14:40:59-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/E0-DtJLDZiALzibXi8Krf9-3_TY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5647610-b63bbf8b9aec4c0dbc220b456b0249a0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22332/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/22332/step_04.webp"
+    ]
+  }
+}

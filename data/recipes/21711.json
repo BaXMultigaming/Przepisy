@@ -1,0 +1,76 @@
+{
+  "id": "21711",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21711/vanilla-ice-cream-vi/",
+  "requested_url": "https://www.allrecipes.com/recipe/21711/vanilla-ice-cream-vi/",
+  "title": "Old-Fashioned Vanilla Ice Cream",
+  "description": "Make a gallon of this old-fashioned vanilla ice cream with eggs, milk, evaporated milk, and sugar for a delicious cooling dessert anytime!",
+  "authors": [
+    "Melissa"
+  ],
+  "date_published": "1999-09-29T20:10:08-04:00",
+  "date_modified": "2026-06-25T13:11:47-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT250M",
+  "yield": [
+    "32",
+    "1 gallon"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "2.5 cups white sugar",
+    "0.5 teaspoon salt",
+    "6 cups milk",
+    "3 cups evaporated milk",
+    "2 tablespoons vanilla extract",
+    "1 cup water"
+  ],
+  "steps": [
+    {
+      "text": "Beat eggs until foamy. Whisk in sugar until thickened. Gradually whisk in salt, 6 cups milk, evaporated milk, vanilla, and water. Pour into the freezer canister of an ice cream maker. Fill to the fill line with more milk if necessary. Freeze according to the manufacturers' directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "34 mg",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "89 mg",
+    "sugarContent": "20 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xWoTP80TRUjE1SGxuav-iAOoU_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/31101-c24c37a292b54d8ab19e2ec47877c987.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21711/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

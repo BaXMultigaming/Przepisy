@@ -1,0 +1,76 @@
+{
+  "id": "21603",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21603/delicious-chocolate-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/21603/delicious-chocolate-shake/",
+  "title": "Delicious Chocolate Shake",
+  "description": "This quick, easy choco shake recipe makes a creamy, luscious chocolate shake!",
+  "authors": [
+    "Stef"
+  ],
+  "date_published": "2000-06-11T11:43:03-04:00",
+  "date_modified": "2022-06-22T15:43:44-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 scoops chocolate ice cream",
+    "2 tablespoons powdered chocolate drink mix",
+    "1 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Combine ice cream, drink mix powder, and milk in a blender. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "253 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "153 mg",
+    "sugarContent": "30 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cjdl-vh_JqfjnxhNfayoZjARBT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/650936-4066411704c243348c8ff5637d7a2978.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21603/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

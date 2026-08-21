@@ -1,0 +1,81 @@
+{
+  "id": "22218",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22218/grampas-brandy-alexander/",
+  "requested_url": "https://www.allrecipes.com/recipe/22218/grampas-brandy-alexander/",
+  "title": "Grampa&#39;s Brandy Alexander",
+  "description": "Brandy, creme de cacao, chocolate syrup and ice cream make this a chocolately Alexander the Great!",
+  "authors": [
+    "Leslie"
+  ],
+  "date_published": "2000-10-04T15:06:30-04:00",
+  "date_modified": "2022-07-14T17:17:41-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons brandy",
+    "2 tablespoons creme de cacao",
+    "2 tablespoons chocolate syrup",
+    "1 cup chocolate ice cream, softened"
+  ],
+  "steps": [
+    {
+      "text": "In blender, combine brandy, creme de cacao, and chocolate syrup. Blend at medium speed until well-mixed. Add the softened ice cream in large chunks. Blend at high speed until smooth. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KCmwZXG5xQnBN6-UyEB9xTxN24M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8183111-1564e89468c14b6eb2d872c06fd53150.jpg"
+      ],
+      "image": "assets/images/22218/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "302 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "33 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/40Ha6czU-ma1DlVvV.mp4",
+    "description": "Creme de cacao, chocolate ice cream and chocolate syrup make a super-rich cocktail.",
+    "duration": "PT1M",
+    "name": "Grampa's Brandy Alexander",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/40Ha6czU/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T08:38:09-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KCmwZXG5xQnBN6-UyEB9xTxN24M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8183111-1564e89468c14b6eb2d872c06fd53150.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22218/hero.webp",
+    "steps": [
+      "assets/images/22218/step_01.webp"
+    ]
+  }
+}

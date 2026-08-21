@@ -1,0 +1,86 @@
+{
+  "id": "21202",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21202/ham-and-cheese-breakfast-tortillas/",
+  "requested_url": "https://www.allrecipes.com/recipe/21202/ham-and-cheese-breakfast-tortillas/",
+  "title": "Ham and Cheese Breakfast Tortillas",
+  "description": "Flour tortillas are filled with an egg, ham and green onion scramble to make an irresistible breakfast wrap.",
+  "authors": [
+    "Jennifer"
+  ],
+  "date_published": "2000-04-27T17:55:42-04:00",
+  "date_modified": "2024-12-01T00:06:11-05:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 eggs",
+    "0.33300000429153 cup milk",
+    "3 slices cooked ham, diced",
+    "2 green onions, minced",
+    "salt and pepper to taste",
+    "4 ounces Cheddar cheese, shredded",
+    "4 (10 inch) flour tortillas",
+    "0.5 cup salsa"
+  ],
+  "steps": [
+    {
+      "text": "Beat together eggs and milk. Heat a lightly oiled skillet (or non-stick pan) over medium high heat and cook egg mixture, stirring occasionally, until firm. When almost done, stir in ham, green onions, salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon 1/4 of the egg mixture on top of each tortilla. Sprinkle the eggs with cheese, fold over the tortilla to make a roll and top with salsa if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "627 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "601 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "37 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "1321 mg",
+    "sugarContent": "5 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SdVwkRYBlkqlWvotMZlGUXkNDO4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2549126-c2666ed108a248118b3bc5da83cb0fa2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21202/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

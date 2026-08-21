@@ -1,0 +1,78 @@
+{
+  "id": "22179",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22179/noodles/",
+  "requested_url": "https://www.allrecipes.com/recipe/22179/noodles/",
+  "title": "Noodles",
+  "description": "This easy recipe for noodles with cream of mushroom soup and chicken is delicious. Just takes egg noodles, condensed soup, chicken, and 15 minutes.",
+  "authors": [
+    "Michelle"
+  ],
+  "date_published": "2000-05-04T10:46:53-04:00",
+  "date_modified": "2022-09-07T11:00:39-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package wide egg noodles",
+    "2 (5 ounce) cans chunk chicken, drained",
+    "2 (10.5 ounce) cans condensed cream of mushroom soup",
+    "0.5 teaspoon garlic salt",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return pasta to the pot and add in chicken, condensed soup, garlic salt, and pepper over medium heat. Heat through, 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "423 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "84 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1054 mg",
+    "sugarContent": "2 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "64"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Z6R-MFoLFyw2HhGhhmBw3TFa15g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/398896-ae1fde10abcb4e43aa87c2d62f396bca.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22179/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

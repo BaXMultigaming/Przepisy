@@ -1,0 +1,94 @@
+{
+  "id": "21321",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21321/grilled-scampi/",
+  "requested_url": "https://www.allrecipes.com/recipe/21321/grilled-scampi/",
+  "title": "Grilled Scampi",
+  "description": "Grilled shrimp coated with olive oil, butter, garlic, and oregano.",
+  "authors": [
+    "Vanessa"
+  ],
+  "date_published": "2000-08-28T00:29:57-04:00",
+  "date_modified": "2022-07-14T18:12:56-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 large shrimp, heads off and unpeeled",
+    "1 tablespoon olive oil",
+    "3 cloves garlic, minced",
+    "4 tablespoons butter",
+    "0.5 teaspoon dried oregano"
+  ],
+  "steps": [
+    {
+      "text": "With a sharp knife, cut shrimp in half so that the meat is exposed in the shell.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small saucepan, heat olive oil and lightly fry the garlic until just softened. Add butter and Oregano. Heat until butter has melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lay shrimp out on a tray and brush generously with the butter mixture. Grill shrimp until lightly golden.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "108 mg",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s-6NH5Ya-fN_0eJYYG2OPqB295E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8132935-42912e762b2a44edaec12bfdbf056e5c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21321/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

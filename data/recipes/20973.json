@@ -1,0 +1,83 @@
+{
+  "id": "20973",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/20973/pumpkin-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/20973/pumpkin-ice-cream/",
+  "title": "Pumpkin Ice Cream",
+  "description": "A frozen dessert combining vanilla ice cream with pumpkin, spices, pecans and a cookie layer.",
+  "authors": [
+    "IANKRIS"
+  ],
+  "date_published": "2000-09-08T17:42:50-04:00",
+  "date_modified": "2022-05-13T18:33:38-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "18",
+    "1 - 9x13 inch dish"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can pumpkin",
+    "1 cup white sugar",
+    "1 teaspoon salt",
+    "1 teaspoon ground ginger",
+    "1 teaspoon ground cinnamon",
+    "0.5 teaspoon ground nutmeg",
+    "1 cup chopped pecans",
+    "0.5 gallon vanilla ice cream, softened",
+    "36 vanilla wafers"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, combine pumpkin, sugar, salt, ginger, cinnamon and nutmeg and mix until well blended. Stir in pecans. Fold in ice cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Line a 9x13 inch dish or sealable plastic container with 18 cookies. Spread half the ice cream mixture over the cookies. Repeat layers. Freeze until firm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "214 mg",
+    "sugarContent": "25 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KgGzqWs_Thw14dMKgs7YIJa_mn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/39100-a38872567d19473cad79fa5825e0475f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/20973/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

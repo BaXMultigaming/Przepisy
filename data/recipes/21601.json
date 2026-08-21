@@ -1,0 +1,72 @@
+{
+  "id": "21601",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21601/chocolate-strawberries/",
+  "requested_url": "https://www.allrecipes.com/recipe/21601/chocolate-strawberries/",
+  "title": "Chocolate Strawberries",
+  "description": "Strawberries dipped in melted bittersweet chocolate are simple and elegant.",
+  "authors": [
+    "Colin"
+  ],
+  "date_published": "2000-07-18T11:54:18-04:00",
+  "date_modified": "2022-07-14T16:04:31-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT70M",
+  "yield": [
+    "15",
+    "1 pint"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 ounces bittersweet chocolate, chopped",
+    "1 pint fresh strawberries with leaves"
+  ],
+  "steps": [
+    {
+      "text": "In a microwave-safe bowl, or in the top of a double boiler over simmering water, cook chocolate until melted. Stir occasionally until chocolate is smooth. Holding berries by the stem, dip each one in molten chocolate, about three-quarters of the way to the stem. Place, stem side down, on wire rack and chill in refrigerator until hardened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "60 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "5 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "176"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RzcGv5GZ1vnD5tmSG9bIMEdzvQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3854172-6d597e688e4c4658bfe7ddabef161bbf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21601/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

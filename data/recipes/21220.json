@@ -1,0 +1,118 @@
+{
+  "id": "21220",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21220/mashed-sweet-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/21220/mashed-sweet-potatoes/",
+  "title": "Mashed Sweet Potatoes",
+  "description": "This mashed sweet potatoes recipe makes smooth mashed sweet potatoes enriched with butter, warm milk, and maple syrup; the perfect savory-sweet side.",
+  "authors": [
+    "RAINSPIRIT"
+  ],
+  "date_published": "2000-06-08T16:07:01-04:00",
+  "date_modified": "2026-02-12T10:41:28-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 medium sweet potatoes, peeled and cubed",
+    "0.75 cup warm 2% milk, or as needed",
+    "0.75 cup maple syrup, or to taste",
+    "0.5 cup softened butter, cut into chunks"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add sweet potatoes, reduce the heat to medium-low, and simmer until tender, 20 to 30 minutes. Drain and transfer sweet potatoes to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NfRhkHb7pbEWXDutcK0BCvXKCTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21220-Mashed-Sweet-Potatoes-DDMFS-Step-01-1010-33e5dd01aae544748796546f9a98d75b.jpg"
+      ],
+      "image": "assets/images/21220/step_01.webp"
+    },
+    {
+      "text": "Mash sweet potatoes with a potato masher until mostly smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/5UiokfG5skzOm0Vg7j5UOuan29o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21220-Mashed-Sweet-Potatoes-DDMFS-Step-02-1043-fc4fa4e4b9fc48d2be8f604beaea946f.jpg"
+      ],
+      "image": "assets/images/21220/step_02.webp"
+    },
+    {
+      "text": "Gradually stir in milk until sweet potatoes reach desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mZlj2haZkJ29U5rIjaLhlTgnBOk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21220-Mashed-Sweet-Potatoes-DDMFS-Step-03-1044-eadde1d19df440f897c1071dd944964d.jpg"
+      ],
+      "image": "assets/images/21220/step_03.webp"
+    },
+    {
+      "text": "Stir in syrup and butter until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qTboPfy_b9cj7gIGMi0PAQ86gIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21220-Mashed-Sweet-Potatoes-DDMFS-Step-04-1045-aec77cc3429f4843a51ca6394812f204.jpg"
+      ],
+      "image": "assets/images/21220/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "353 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "160 mg",
+    "sugarContent": "32 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "422"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/DDauaQrf-ma1DlVvV.mp4",
+    "description": "Mashed sweet potatoes are flavored with maple syrup and butter.",
+    "duration": "PT1M22S",
+    "name": "Mashed Sweet Potatoes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/DDauaQrf/thumbnails/gg35Zral.jpg?width=1280",
+    "uploadDate": "2021-06-22T21:24:21-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qTboPfy_b9cj7gIGMi0PAQ86gIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21220-Mashed-Sweet-Potatoes-DDMFS-Step-04-1045-aec77cc3429f4843a51ca6394812f204.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21220/hero.webp",
+    "steps": [
+      "assets/images/21220/step_01.webp",
+      "assets/images/21220/step_02.webp",
+      "assets/images/21220/step_03.webp",
+      "assets/images/21220/step_04.webp"
+    ]
+  }
+}

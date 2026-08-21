@@ -1,0 +1,73 @@
+{
+  "id": "21651",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21651/slow-cooked-pork-barbeque/",
+  "requested_url": "https://www.allrecipes.com/recipe/21651/slow-cooked-pork-barbeque/",
+  "title": "Slow Cooked Pork Barbeque",
+  "description": "A slow cooker form of steaming pork in barbeque sauce.",
+  "authors": [
+    "Larry"
+  ],
+  "date_published": "2000-04-11T13:05:10-04:00",
+  "date_modified": "2025-04-27T18:12:31-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT480M",
+  "total_time": "PT490M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 pork chops",
+    "1 (18 ounce) bottle barbeque sauce",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Put the chops in the slow cooker and pour a bottle of your favorite barbeque sauce over. With your hands, mix the sauce all over the chops making sure the are coated very well. Cover and cook on low for 8 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "304 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1431 mg",
+    "sugarContent": "33 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "83"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/StKE7uXb5SZ4cfUjB0ulOS0RPdo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/123218-25d68f60cbde411db4e3b937e3a64f72.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21651/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

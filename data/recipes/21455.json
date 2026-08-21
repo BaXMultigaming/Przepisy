@@ -1,0 +1,88 @@
+{
+  "id": "21455",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21455/quick-pasta-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/21455/quick-pasta-sauce/",
+  "title": "Quick Pasta Sauce",
+  "description": "This easy pasta sauce made with canned crushed tomatoes, fresh garlic, and dried basil is super quick to prep and cooks in less than 30 minutes!",
+  "authors": [
+    "LIAROSE"
+  ],
+  "date_published": "2000-04-07T15:09:44-04:00",
+  "date_modified": "2025-12-17T07:34:57-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "3 cloves garlic, minced",
+    "1 (28 ounce) can crushed tomatoes",
+    "1 teaspoon dried basil",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over low heat; add garlic and sauté until tender, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in crushed tomatoes, basil, salt, and pepper. Simmer, stirring occasionally, until slightly thickened, 15 to 20 minutes. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "173 mg",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "130"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2sP9NgFbXpMenLjoIBmIcAuOvhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/quick-pasta-sauce-2000-2667ab14e8214e16afabe28527a632d3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21455/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "22146",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22146/smores/",
+  "requested_url": "https://www.allrecipes.com/recipe/22146/smores/",
+  "title": "S&#39;mores",
+  "description": "S&#39;mores are graham crackers with toasted marshmallows and chocolate that are prepared over an open flame for a deliciously simple camping treat!",
+  "authors": [
+    "Karen"
+  ],
+  "date_published": "2000-10-04T12:11:37-04:00",
+  "date_modified": "2026-01-01T00:48:05-05:00",
+  "prep_time": "PT3M",
+  "cook_time": "PT2M",
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 large marshmallow",
+    "1 graham cracker",
+    "1 (1.5 ounce) bar chocolate candy bar"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/F3zM6hfxvYfOY_9tF7xRrg_FOHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22146-smores-VAT-005-step-01-9afeea6d7c59426da0672a435d0ec690.jpg"
+      ],
+      "image": "assets/images/22146/step_01.webp"
+    },
+    {
+      "text": "Heat marshmallow over an open flame until it begins to brown and melt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FHc54ObXrKaXyRGxLDQa2y8XbBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22146-smores-VAT-006-step-02-220729aa49904fc095499da191ba7ad8.jpg"
+      ],
+      "image": "assets/images/22146/step_02.webp"
+    },
+    {
+      "text": "Break graham cracker in half; sandwich chocolate between graham cracker and hot marshmallow. Allow marshmallow to cool a little before eating.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/nfBs8C-U_6X_YKolpcZFpDWuoSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22146-smores-VAT-007-step-03-de3a021c5c6944aa85b4c0a4f4061440.jpg"
+      ],
+      "image": "assets/images/22146/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "277 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "74 mg",
+    "sugarContent": "31 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "65"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OH-rvI7qq5McTSTRBnP1U_1ZaC8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22146-smores-VAT-001-4x3-c1b1e87400cf46e58858723a2e0431ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22146/hero.webp",
+    "steps": [
+      "assets/images/22146/step_01.webp",
+      "assets/images/22146/step_02.webp",
+      "assets/images/22146/step_03.webp"
+    ]
+  }
+}

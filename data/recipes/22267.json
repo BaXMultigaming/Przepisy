@@ -1,0 +1,89 @@
+{
+  "id": "22267",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22267/cheesy-fried-squash/",
+  "requested_url": "https://www.allrecipes.com/recipe/22267/cheesy-fried-squash/",
+  "title": "Cheesy Fried Squash",
+  "description": "Yellow squash slices are dredged in creamy salad dressing and Parmesan cheese. A great way to add zip to fried squash!",
+  "authors": [
+    "Linda Martin"
+  ],
+  "date_published": "2000-10-04T14:56:57-04:00",
+  "date_modified": "2022-07-14T17:15:27-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT65M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 yellow squash, sliced",
+    "0.5 cup creamy salad dressing (e.g. Miracle Whip)",
+    "0.25 cup grated Parmesan cheese",
+    "1 cup all-purpose flour",
+    "0.5 cup vegetable oil",
+    "1 large sweet onion, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Place squash in a large bowl and pour in creamy salad dressing. Cover and refrigerate for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove squash from refrigerator and sprinkle in the parmesan cheese; mix to coat well. Stir in the flour, coating well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Carefully place squash in oil and fry until lightly browned. Turn once, and add onions. Fry until squash is browned on both sides. Using a slotted spoon, transfer squash and onions to paper towels to drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "537 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "330 mg",
+    "sugarContent": "11 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Pl0S7RT5RWX37WyTPvVbIItllUA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/998713-4496401e5f8e422298f3c85a6e0ca4da.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22267/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

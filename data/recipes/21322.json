@@ -1,0 +1,89 @@
+{
+  "id": "21322",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21322/pan-seared-salmon-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/21322/pan-seared-salmon-ii/",
+  "title": "Pan Seared Salmon II",
+  "description": "Pan fried salmon filets with a garlic and lemon sauce, covered with bell peppers.",
+  "authors": [
+    "Eliza"
+  ],
+  "date_published": "2000-08-20T15:06:43-04:00",
+  "date_modified": "2022-07-14T15:56:52-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon butter",
+    "4 (4 ounce) fillets salmon",
+    "2 teaspoons vegetable oil",
+    "0.5 red bell pepper, diced",
+    "0.5 yellow bell pepper, diced",
+    "2 teaspoons garlic, finely chopped",
+    "1 lemon"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet, melt the teaspoon of butter and fry the salmon fillets until they are flaky on the inside and a little golden on the outside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium skillet, place the oil, red pepper and yellow pepper; saute for 3 minutes. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, combine garlic and lemon juice. Drizzle over the finished salmon fillets. Place the cooked peppers on top of the filets. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "225 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "58 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "62 mg",
+    "sugarContent": "1 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yis1pbPuphHHI7FrABUb277MY20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2715008-92144e33c1454702aa87ff2f5982dd07.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21322/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

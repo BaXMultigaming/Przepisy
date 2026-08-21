@@ -1,0 +1,79 @@
+{
+  "id": "21088",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21088/snappy-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/21088/snappy-green-beans/",
+  "title": "Snappy Green Beans",
+  "description": "Green beans sauteed with onions and vinegar, topped with crumbled bacon.",
+  "authors": [
+    "Casey"
+  ],
+  "date_published": "2000-09-07T17:42:42-04:00",
+  "date_modified": "2022-07-14T15:45:57-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 slices bacon",
+    "1 cup chopped onions",
+    "3 tablespoons distilled white vinegar",
+    "1 (15 ounce) can cut green beans, drained"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Saute onions in bacon grease; add vinegar, and saute until onions are tender. Add green beans and cook until heated through. Crumble the bacon on top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "225 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "649 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "80"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fvFhG0t3UnjtFoZJIPxxC9cQJHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/239976-25b78f51c2a04b96a9e4da81ebf97acc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21088/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

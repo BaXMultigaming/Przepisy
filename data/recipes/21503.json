@@ -1,0 +1,100 @@
+{
+  "id": "21503",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21503/salmon-loaf/",
+  "requested_url": "https://www.allrecipes.com/recipe/21503/salmon-loaf/",
+  "title": "Salmon Loaf",
+  "description": "This is a simple and tasty salmon loaf recipe with just a few ingredients including salmon, crackers, milk, egg, and butter, baked together in a loaf.",
+  "authors": [
+    "Gloria"
+  ],
+  "date_published": "2000-04-18T17:16:59-04:00",
+  "date_modified": "2025-12-17T13:44:23-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT45M",
+  "total_time": "PT50M",
+  "yield": [
+    "4",
+    "1 loaf"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14.75 ounce) can salmon, undrained",
+    "0.5 cup crushed saltine crackers",
+    "0.5 cup milk",
+    "1 large egg, beaten",
+    "2 tablespoons melted butter",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine salmon, crushed crackers, milk, egg, melted butter, salt, and pepper in a mixing bowl. Mix thoroughly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Press the salmon mixture into a lightly greased 9x5-inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 45 minutes or until done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "293 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "110 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "536 mg",
+    "sugarContent": "2 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "219"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5Rb31ynjgA9W_5AaDCnPhsISnZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21503salmon-loafChefMo4x3-dde26ad8b1184a23bec896b2b447faf2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21503/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

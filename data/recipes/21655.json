@@ -1,0 +1,129 @@
+{
+  "id": "21655",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21655/simple-baked-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/21655/simple-baked-beans/",
+  "title": "Easy Baked Beans",
+  "description": "These easy baked beans are made with canned beans, molasses, brown sugar, and onion baked in the oven until thick and flavorful for a simple meal.",
+  "authors": [
+    "Brandi"
+  ],
+  "date_published": "2000-04-29T12:51:18-04:00",
+  "date_modified": "2025-12-02T14:54:34-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT180M",
+  "total_time": "PT195M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "cooking spray",
+    "2 (16 ounce) cans baked beans with pork",
+    "0.25 cup molasses",
+    "0.25 cup chopped onions",
+    "4 tablespoons brown sugar",
+    "2 tablespoons ketchup",
+    "1 tablespoon prepared mustard",
+    "2 slices bacon, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a casserole dish with cooking spray.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix together baked beans with pork, molasses, onions, brown sugar, ketchup, and mustard together in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/vTKLga6eSLP-WjQxt_2JdagpRPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21655-Simple-Baked-Beans_Shot1_CD_555951-ba11b1a8a7f64a46beaecda435e84101.jpg"
+      ],
+      "image": "assets/images/21655/step_02.webp"
+    },
+    {
+      "text": "Transfer mixture to the prepared dish and top with chopped bacon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Exe_5jh5e40xRFGORCLMmiSjJ7c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/757_SimpleBakedBeans_Shot2_CD_555981_A-77fe65f845a245eb91cc60249e77d085.jpg"
+      ],
+      "image": "assets/images/21655/step_03.webp"
+    },
+    {
+      "text": "Cover and bake in the preheated oven until thickened, about 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve hot and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/9KrSL853eI7gs8qnxcgc7LyJ0T8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21655-simple-baked-beans-DDMFS-4x3-842c820a94234717af51523f3dae0db9.jpg"
+      ],
+      "image": "assets/images/21655/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "176 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "402 mg",
+    "sugarContent": "18 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "203"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Nbgoipvx-ma1DlVvV.mp4",
+    "description": "AR1037",
+    "duration": "PT1M57S",
+    "name": "Simple Baked Beans",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Nbgoipvx/poster.jpg?width=1280",
+    "uploadDate": "2021-07-06T04:47:23-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9KrSL853eI7gs8qnxcgc7LyJ0T8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/21655-simple-baked-beans-DDMFS-4x3-842c820a94234717af51523f3dae0db9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21655/hero.webp",
+    "steps": [
+      null,
+      "assets/images/21655/step_02.webp",
+      "assets/images/21655/step_03.webp",
+      null,
+      "assets/images/21655/step_05.webp"
+    ]
+  }
+}

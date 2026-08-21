@@ -1,0 +1,87 @@
+{
+  "id": "21227",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21227/butter-fried-parsnips/",
+  "requested_url": "https://www.allrecipes.com/recipe/21227/butter-fried-parsnips/",
+  "title": "Butter Fried Parsnips",
+  "description": "Parsnips lightly seasoned and pan fried in butter.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-08-23T00:39:31-04:00",
+  "date_modified": "2022-10-28T13:50:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 parsnips, peeled and quartered lengthwise",
+    "0.25 cup all-purpose flour for coating",
+    "0.5 teaspoon seasoning salt",
+    "0.5 cup butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan cover parsnips with water, cover and boil over medium-high heat until tender, about 10 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a plastic bag combine flour and seasoning salt. Dip parsnips in butter and place them in the bag. Shake bag to coat parsnips with the seasoned flour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the butter in a large skillet over medium-high heat. When the butter starts to sizzle, add parsnips. Cook, turning occasionally, until all sides are golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "305 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "239 mg",
+    "sugarContent": "8 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qHwV10A8Z8la6SIpaax9RLrZBJ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/698615-butter-fried-parsnips-footballgrl16-4x3-1-2fc03617a9544c3fb192307cc2a63cc0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21227/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

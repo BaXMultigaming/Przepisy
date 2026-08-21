@@ -1,0 +1,82 @@
+{
+  "id": "22255",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22255/oyster-shooters/",
+  "requested_url": "https://www.allrecipes.com/recipe/22255/oyster-shooters/",
+  "title": "Oyster Shooters",
+  "description": "An oyster shooter is a spicy cocktail made with a shucked oyster, tomato juice, horseradish, pepper, and vodka for a refreshing way to enjoy oysters!",
+  "authors": [
+    "Lindsay"
+  ],
+  "date_published": "2000-10-05T16:13:06-04:00",
+  "date_modified": "2025-12-11T18:45:43-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "9 fluid ounces tomato juice",
+    "1 teaspoon prepared horseradish",
+    "2 teaspoons freshly ground black pepper",
+    "12 (1.5 fluid ounce) jiggers vodka",
+    "12 shucked oysters",
+    "1 lemon - cut into wedges, for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Mix tomato juice, horseradish, and pepper in a large bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour 1/2 shot of tomato juice mixture into 12 small glasses. Add a shot of vodka to each glass. Place 1 raw oyster in each glass and garnish with a lemon wedge.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "216 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "130 mg",
+    "sugarContent": "2 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VTzpTrjwKqgKolGlzIFuRhJ8Fto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060516-b630a221891749e7a8d92ba207d4db8f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22255/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "21832",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21832/tuna-noodle-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/21832/tuna-noodle-stew/",
+  "title": "Tuna Noodle Stew",
+  "description": "Easy, creamy pasta and tuna combined with onion, peas, and red bell pepper.",
+  "authors": [
+    "M J"
+  ],
+  "date_published": "2000-09-12T11:32:52-04:00",
+  "date_modified": "2025-04-07T00:21:34-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package egg noodles",
+    "1 (5 ounce) can tuna, drained",
+    "1 (10.75 ounce) can condensed cream of celery soup",
+    "1 cup frozen green peas",
+    "0.5 cup chopped red bell pepper",
+    "1 onion, diced",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain leaving about a 1/2 cup of water in the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To the pot of pasta, add tuna, celery soup, peas, red bell pepper, onion, and salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Simmer until hot. If needed, add more water or milk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "353 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "65 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "650 mg",
+    "sugarContent": "6 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Iq_HF0uPaiJCVLbQQUNVSI7ido8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1299538-e82ff838959545289cd6b234d797c830.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21832/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

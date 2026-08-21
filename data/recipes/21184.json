@@ -1,0 +1,83 @@
+{
+  "id": "21184",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21184/homemade-chorizo/",
+  "requested_url": "https://www.allrecipes.com/recipe/21184/homemade-chorizo/",
+  "title": "Homemade Chorizo",
+  "description": "This pork chorizo recipe blends ground pork with garlic, vinegar, oregano, and red pepper. After marinating for 8 hours, it can be cooked in a skillet.",
+  "authors": [
+    "Shelley"
+  ],
+  "date_published": "2000-07-23T13:23:44-04:00",
+  "date_modified": "2023-07-20T15:51:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT490M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Entree"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 clove garlic",
+    "3 teaspoons dried oregano",
+    "0.5 cup distilled white vinegar",
+    "0.5 cup crushed red pepper flakes",
+    "0.5 cup water",
+    "2.5 pounds ground pork"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine garlic, oregano, vinegar, red pepper flakes, and water; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place ground pork into a bowl and pour blended mixture over top. Mix to combine, then cover and refrigerate for at least 8 hours or all day. Pour off any water that accumulates. Refrigerate or freeze for future use.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "355 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "107 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "86 mg",
+    "sugarContent": "0 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/460FL353wmGA_0hS8lf8Hv1sf60=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/789643-f69827e842234cf5a178cd942935c14b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21184/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "21385",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/21385/oatmeal-pancakes-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/21385/oatmeal-pancakes-i/",
+  "title": "Oatmeal Pancakes I",
+  "description": "Light and fluffy oatmeal pancakes made with real rolled oats and tangy buttermilk.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-07-30T15:04:52-04:00",
+  "date_modified": "2020-06-18T23:03:46-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups rolled oats",
+    "1 cup buttermilk",
+    "2 eggs",
+    "0.25 cup butter, melted",
+    "0.5 cup all-purpose flour",
+    "2 tablespoons white sugar",
+    "1 teaspoon baking powder",
+    "1 teaspoon baking soda"
+  ],
+  "steps": [
+    {
+      "text": "Mix oats and buttermilk in a bowl. Let sit for 15 minutes. Add eggs, butter, flour, sugar, baking powder and baking soda; stir until blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "318 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "471 mg",
+    "sugarContent": "8 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "63"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZvRDecRFHwgm9Cuc3v7A58RJ2qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1034773-c44fba86b712420f8dc779f699f17fa0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/21385/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

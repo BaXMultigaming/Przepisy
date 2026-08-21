@@ -1,0 +1,78 @@
+{
+  "id": "22161",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/22161/basmati-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/22161/basmati-rice/",
+  "title": "Basmati Rice",
+  "description": "Basmati rice with peas and cumin. A simple way to liven up plain rice.",
+  "authors": [
+    "Kristine Weatherly"
+  ],
+  "date_published": "2000-10-03T18:21:25-04:00",
+  "date_modified": "2022-08-08T11:38:05-04:00",
+  "prep_time": null,
+  "cook_time": "PT20M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.75 cups water",
+    "1 cup basmati rice",
+    "0.25 cup frozen green peas",
+    "1 teaspoon cumin seeds"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan bring water to a boil. Add rice and stir. Reduce heat, cover and simmer for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When rice is cooked, stir in peas and cumin. Cover and let stand for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "175 kcal",
+    "carbohydrateContent": "38 g",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "110"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PuUhtWS_M5CeroM_WoI6CesIr3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8572244-7277f3aed4614238a106dfe11d7fb646.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/22161/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
