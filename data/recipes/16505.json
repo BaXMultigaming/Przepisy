@@ -1,0 +1,97 @@
+{
+  "id": "16505",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16505/baked-potato/",
+  "requested_url": "https://www.allrecipes.com/recipe/16505/baked-potato/",
+  "title": "Baked Potato",
+  "description": "Try this simple baked potato recipe for a spud with crunchy skin and soft, tender flesh, guaranteed every time.",
+  "authors": [
+    "Faye"
+  ],
+  "date_published": "2000-03-18T17:00:15-05:00",
+  "date_modified": "2026-08-12T11:23:18-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT90M",
+  "total_time": "PT95M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 medium russet potato",
+    "0.125 teaspoon salt, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Scrub potato and dry well; prick all over with a fork. Season skin with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake directly on the center rack of the preheated oven until easily pierced with a fork, about 1 1/2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/QSr2WS6UazD1dhUtgYsknLJpxF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/537950-6f030055c69f4c828d43a19b01f580a1.jpg"
+      ],
+      "image": "assets/images/16505/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "128 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "2 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "290"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/hEfW4rfI-ma1DlVvV.mp4",
+    "description": "AR0529",
+    "duration": "PT2M4S",
+    "name": "Baked Potato",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/hEfW4rfI/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T04:16:46-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QSr2WS6UazD1dhUtgYsknLJpxF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/537950-6f030055c69f4c828d43a19b01f580a1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16505/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/16505/step_03.webp"
+    ]
+  }
+}

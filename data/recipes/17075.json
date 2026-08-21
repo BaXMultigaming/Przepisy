@@ -1,0 +1,70 @@
+{
+  "id": "17075",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17075/ranch-dipping-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/17075/ranch-dipping-sauce/",
+  "title": "Ranch Dipping Sauce",
+  "description": "A tasty dip for vegetables and/or crackers.",
+  "authors": [
+    "Jackie"
+  ],
+  "date_published": "2000-01-02T13:41:48-05:00",
+  "date_modified": "2022-07-14T16:24:50-04:00",
+  "prep_time": "PT485M",
+  "cook_time": null,
+  "total_time": "PT485M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup plain yogurt",
+    "0.33300000429153 cup mayonnaise",
+    "1 (1 ounce) package ranch dressing mix",
+    "1 tablespoon chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "In a medium-size mixing bowl, blend yogurt, mayonnaise, and ranch dressing mix. Mix well with a wire whisk. Cover and refrigerate overnight. Sprinkle with parsley before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "59 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "3 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "209 mg",
+    "sugarContent": "1 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Dab0p5Ctxh3Yd9ZZ9yj1G1C4i40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/139845-97bd45b9ac614acf9e737bff4e623fd4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17075/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

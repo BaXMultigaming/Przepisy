@@ -1,0 +1,84 @@
+{
+  "id": "17127",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17127/rice-with-black-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/17127/rice-with-black-beans/",
+  "title": "Rice with Black Beans",
+  "description": "Good rice, beans, and tomato dish that takes about 20 minutes to prepare.",
+  "authors": [
+    "Rebecca Tally"
+  ],
+  "date_published": "1999-06-30T00:40:13-04:00",
+  "date_modified": "2022-08-22T14:47:51-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 onion, chopped",
+    "1 tablespoon vegetable oil",
+    "1 (14.5 ounce) can stewed tomatoes",
+    "1 (15 ounce) can black beans, undrained",
+    "0.5 teaspoon dried oregano",
+    "0.5 teaspoon garlic powder",
+    "1 cup instant white rice"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, cook and stir onion in oil until tender and translucent, but not brown. Add tomatoes, beans, oregano and garlic powder. Bring to boil. Stir in rice, return mixture to a boil. Reduce heat to simmer, and cover.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let mixture simmer for 5 minutes. Remove pan from heat and let stand 5 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "80 kcal",
+    "carbohydrateContent": "14 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "114 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "190"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rzAEefaykPE5ETvIevCFV5aQdvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2032310-2a25aa83e3474a30947a1533520c8656.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17127/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "16548",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16548/green-goddess-dressing-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16548/green-goddess-dressing-ii/",
+  "title": "Green Goddess Dressing",
+  "description": "This creamy, bright green goddess dressing recipe features evaporated milk instead of mayonnaise for a lighter, low-fat option with lots of flavor.",
+  "authors": [
+    "Rinnie"
+  ],
+  "date_published": "2000-03-17T12:10:32-05:00",
+  "date_modified": "2025-04-24T05:15:57-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "1 cup"
+  ],
+  "categories": [
+    "Condiment",
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup evaporated milk",
+    "0.25 cup chopped green onion",
+    "0.25 cup chopped fresh parsley",
+    "2 tablespoons lemon juice",
+    "1 teaspoon anchovy paste",
+    "1 teaspoon dried tarragon",
+    "1 clove garlic, crushed",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Add evaporated milk, green onion, parsley, lemon juice, anchovy paste, tarragon, garlic, salt, and oil to a blender. Purée until smooth and refrigerate until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "58 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "484 mg",
+    "sugarContent": "4 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mER8oX7T9CvL3X-CWjE0SNm8vb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/595392-cc902ed7f410471088b312380d98fb10.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16548/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

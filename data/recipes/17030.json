@@ -1,0 +1,82 @@
+{
+  "id": "17030",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17030/sweet-and-sour-veggies/",
+  "requested_url": "https://www.allrecipes.com/recipe/17030/sweet-and-sour-veggies/",
+  "title": "Sweet and Sour Veggies",
+  "description": "Cucumbers, colorful bell peppers, tomatoes, and red onion star in this tangy salad. Let the veggies marinate for four hours or overnight for the best flavor.",
+  "authors": [
+    "annabell"
+  ],
+  "date_published": "2000-02-21T18:02:53-05:00",
+  "date_modified": "2022-07-14T15:47:00-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT2M",
+  "total_time": "PT12M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup water",
+    "1 cup white sugar",
+    "0.5 cup red wine vinegar",
+    "1 tablespoon celery seed",
+    "1 small red onion, thinly sliced",
+    "2 large cucumbers, chopped",
+    "6 roma (plum) tomatoes, sliced",
+    "1 green bell pepper, diced",
+    "1 red bell pepper, diced"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan over medium heat, combine the water, sugar, vinegar and celery seed. Stir until dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium-size mixing bowl, layer the red onion, cucumber, tomatoes, green bell pepper and red bell pepper. Pour sugar mixture over vegetables, cover and refrigerate overnight. Serve chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "178 kcal",
+    "carbohydrateContent": "44 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "37 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Fw9zxWUlrBgcRqEPjIP52KqQ3gA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/598033-6c97bd599ef541f39860fe72f092dc88.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17030/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

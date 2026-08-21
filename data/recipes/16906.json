@@ -1,0 +1,93 @@
+{
+  "id": "16906",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16906/corn-cornbread/",
+  "requested_url": "https://www.allrecipes.com/recipe/16906/corn-cornbread/",
+  "title": "Corn Cornbread",
+  "description": "This is a rich loaf with sour cream and canned corn for extra flavor. Try adding chopped peppers or onions for variations on the theme.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-03-17T16:15:36-05:00",
+  "date_modified": "2022-08-04T10:04:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "15",
+    "1 - 9x5 inch loaf"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can whole kernel corn, drained",
+    "1 cup sour cream",
+    "2 eggs, beaten",
+    "0.25 cup butter, melted",
+    "1 cup self-rising cornmeal",
+    "1 tablespoon white sugar",
+    "2 tablespoons applesauce"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 375 degrees F (190 degrees C). Grease a 9x5 inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix together corn, sour cream, eggs and melted butter. Gradually stir in the cornmeal, sugar and applesauce. Pour into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 375 degrees F (190 degrees C) for 25 minutes, or until a toothpick inserted into the center of the loaf comes out clean.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "123 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "224 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rXQ3EVm_vhWO-asm4DNDAPhJzi4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9432060-662c2582bfda41609850abd53b8457af.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16906/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

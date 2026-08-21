@@ -1,0 +1,85 @@
+{
+  "id": "16526",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16526/insalata-caprese-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16526/insalata-caprese-ii/",
+  "title": "Insalata Caprese",
+  "description": "This insalata caprese salad features layers of ripe tomato slices, fresh mozzarella, and basil drizzled with olive oil and seasoned with salt and pepper.",
+  "authors": [
+    "Jackie"
+  ],
+  "date_published": "2000-03-12T13:49:53-05:00",
+  "date_modified": "2026-07-10T13:43:21-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large ripe tomatoes, sliced 1/4 inch thick",
+    "1 pound fresh mozzarella cheese, sliced 1/4 inch thick",
+    "0.33333334326744 cup fresh basil leaves",
+    "3 tablespoons extra virgin olive oil",
+    "fine sea salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Alternate and overlap tomato slices, mozzarella cheese slices, and basil leaves on a large platter. Drizzle with olive oil. Season with sea salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/cgK0QmoodOj8tm5neMXJAiLNmVY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/874978-2d18104afd044716a33960fa83b6cdf3.jpg"
+      ],
+      "image": "assets/images/16526/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "309 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "60 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "529 mg",
+    "sugarContent": "4 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "364"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/qQZ7xeHf-K3AjnAEN.mp4",
+    "description": "Ripe tomatoes and quality mozzarella make the difference.",
+    "duration": "PT1M17S",
+    "name": "Insalata Caprese",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/qQZ7xeHf/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T03:37:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cgK0QmoodOj8tm5neMXJAiLNmVY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/874978-2d18104afd044716a33960fa83b6cdf3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16526/hero.webp",
+    "steps": [
+      "assets/images/16526/step_01.webp"
+    ]
+  }
+}

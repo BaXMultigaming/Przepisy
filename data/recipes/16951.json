@@ -1,0 +1,78 @@
+{
+  "id": "16951",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16951/clark-gable-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/16951/clark-gable-pancakes/",
+  "title": "Clark Gable Pancakes",
+  "description": "These are your basic griddle cakes, easy to make and easy to eat.",
+  "authors": [
+    "Betty"
+  ],
+  "date_published": "1999-09-08T09:20:56-04:00",
+  "date_modified": "2022-10-06T11:28:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "10",
+    "4 - inch pancakes"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup all-purpose flour",
+    "2 tablespoons baking powder",
+    "0.25 teaspoon salt",
+    "1 egg, beaten",
+    "1 cup milk",
+    "2 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, stir together the egg, milk, and oil. Add flour, baking powder and salt, mix until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour 1/4 cup of batter for each pancake on hot, oiled griddle. Turn when golden brown. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "91 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "368 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "251"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MXXr0KbYB0AHujSImHb6FMwm9r4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Clark-Gable-Pancakes-2000-dbdeddec185346498b6f7484896d88c6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16951/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

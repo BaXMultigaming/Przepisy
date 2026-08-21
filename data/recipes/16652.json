@@ -1,0 +1,87 @@
+{
+  "id": "16652",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16652/spanish-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/16652/spanish-rice/",
+  "title": "Spanish Rice",
+  "description": "Very easy, very good Spanish rice!",
+  "authors": [
+    "Paula"
+  ],
+  "date_published": "2000-01-15T16:30:50-05:00",
+  "date_modified": "2025-01-29T16:33:15-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Spanish"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Spanish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "2 cups uncooked long-grain white rice",
+    "0.25 onion, chopped",
+    "1 green bell pepper, chopped",
+    "salt and pepper to taste",
+    "1 (14.5 ounce) can stewed tomatoes",
+    "4 cups water"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet, combine oil, rice, onion, green pepper and salt and pepper until the rice is a light brown color. Remove skillet from stove.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix tomatoes into the mixture. Pour in water (it should cover the entire mixture; use more if necessary). Return the skillet to the stovetop and bring the mixture to a full boil; salt and pepper to taste. When the mixture begins to boil, cover the skillet, and reduce heat to a simmer. Cook 12 to 15 minutes and never, I mean NEVER, remove the cover. After 12 to 15 minutes, turn stove off and let stand for another 12 to 15 minutes. DO NOT remove cover until the final 15 minutes has elapsed!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "carbohydrateContent": "55 g",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "153 mg",
+    "sugarContent": "3 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "158"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lS8q2yc_brXGY9mW-UrlpEgtEq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5365024-7697266914274c098a1a2b9bb0a38266.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16652/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

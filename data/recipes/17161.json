@@ -1,0 +1,108 @@
+{
+  "id": "17161",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17161/chinese-chicken-fried-rice-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/17161/chinese-chicken-fried-rice-i/",
+  "title": "Chinese Chicken Fried Rice",
+  "description": "This chicken fried rice recipe is made with a colorful array of crisp vegetables and a bounty of rice with a scramble of eggs running throughout.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-02-28T20:08:19-05:00",
+  "date_modified": "2026-03-25T08:41:13-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "regions": [
+    "Chinese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 tablespoon sesame oil",
+    "1 onion, diced",
+    "1.5 pounds cooked, cubed chicken meat",
+    "2 tablespoons soy sauce",
+    "2 large carrots, diced",
+    "2 stalks celery, diced",
+    "1 large red bell pepper, diced",
+    "0.75 cup fresh pea pods, halved",
+    "0.5 large green bell pepper, diced",
+    "6 cups cooked white rice",
+    "2 large eggs, scrambled",
+    "0.33333334326744 cup soy sauce"
+  ],
+  "steps": [
+    {
+      "text": "Heat sesame oil in a large skillet over medium heat. Add onion and sauté until soft. Add cooked chicken and 2 tablespoons soy sauce; stir-fry for 5 to 6 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in carrots, celery, red bell pepper, pea pods, and green bell pepper; stir-fry for 5 minutes. Mix in cooked rice until thoroughly combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in scrambled eggs and 1/3 cup soy sauce; cook until heated through and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jV-DzLEKEMNSNL0BAWekdh9_f-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/522244-180c5e6873104b759a27735b6ab351e2.jpg"
+      ],
+      "image": "assets/images/17161/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "425 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "134 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1060 mg",
+    "sugarContent": "4 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "429"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/9NSq81ra-ma1DlVvV.mp4",
+    "description": "AR0297",
+    "duration": "PT3M17S",
+    "name": "Chinese Chicken Fried Rice I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9NSq81ra/poster.jpg?width=1280",
+    "uploadDate": "2021-07-06T11:09:29-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jV-DzLEKEMNSNL0BAWekdh9_f-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/522244-180c5e6873104b759a27735b6ab351e2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17161/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/17161/step_03.webp"
+    ]
+  }
+}

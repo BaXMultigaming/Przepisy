@@ -1,0 +1,85 @@
+{
+  "id": "16795",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16795/marinara-dipping-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/16795/marinara-dipping-sauce/",
+  "title": "Marinara Dipping Sauce",
+  "description": "Serve this traditional marinara sauce with warm bread. Garlic bread would also be delicious!",
+  "authors": [
+    "Jackie"
+  ],
+  "date_published": "2000-01-02T13:34:20-05:00",
+  "date_modified": "2026-08-20T23:58:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT45M",
+  "total_time": "PT55M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "2 cloves garlic, chopped",
+    "5 tomatoes, peeled and finely chopped",
+    "1 teaspoon white sugar",
+    "0.25 cup water",
+    "2 teaspoons chopped fresh basil",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet, heat oil and saute garlic until light brown and softened. Be careful not to burn the garlic. Stir in tomatoes, sugar, water, basil, and salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring contents of the pan to a boil. Cover and simmer on low heat for approximately 45 minutes, stirring occasionally. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "5 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9_SXBLGfe-wDV9rDjVOU-VdG7Bo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7415902-169a4c4c4e644e22a466aef725825d40.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16795/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

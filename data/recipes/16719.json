@@ -1,0 +1,88 @@
+{
+  "id": "16719",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16719/french-toast-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16719/french-toast-ii/",
+  "title": "French Toast II",
+  "description": "A simple French toast recipe that anyone can make. Use your favorite type of bread and serve with your favorite syrup.",
+  "authors": [
+    "Robert Johnson"
+  ],
+  "date_published": "2000-03-17T16:38:59-05:00",
+  "date_modified": "2022-07-14T15:56:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "12 slices"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "0.75 cup milk",
+    "3 tablespoons brown sugar",
+    "1 teaspoon ground nutmeg",
+    "12 slices white bread",
+    "1 tablespoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "In a large mixing bowl, beat the eggs. Add the milk, brown sugar and nutmeg; stir well to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Soak bread slices in the egg mixture until saturated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle or frying pan over medium high heat. Brown slices on both sides, sprinkle with cinnamon and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "341 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "190 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "603 mg",
+    "sugarContent": "16 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "556"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rstTEDQk2vAL2rLoo19ae07GAOE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/171673-3569ffa594654b4ab97dba08e72523a1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16719/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

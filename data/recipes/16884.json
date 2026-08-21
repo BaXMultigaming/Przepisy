@@ -1,0 +1,112 @@
+{
+  "id": "16884",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16884/tater-tot-bake/",
+  "requested_url": "https://www.allrecipes.com/recipe/16884/tater-tot-bake/",
+  "title": "Tater Tot Bake",
+  "description": "A lickety-split version of that ever-popular standby, shepherd&#39;s pie. Seasoned ground beef and onions are sauteed, layered in a casserole with potatoes, topped with condensed cream of mushroom soup, sprinkled with cheese and baked.",
+  "authors": [
+    "Charlie"
+  ],
+  "date_published": "2000-03-26T14:22:52-05:00",
+  "date_modified": "2026-04-28T21:56:13-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 onion, chopped",
+    "salt and pepper to taste",
+    "0.5 (32 ounce) package tater tots",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "0.5 cup milk",
+    "1.5 cups shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet over medium-high heat, brown the ground beef with the onions. Drain excess fat, and season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread the beef mixture evenly over the bottom of a 2 quart casserole dish. Arrange tater tots evenly over beef layer. In a small bowl, stir the soup into the milk until smooth; pour over tater tot and beef layers. Sprinkle Cheddar cheese evenly over the top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven for 30 to 40 minutes, until cheese is bubbly and slightly brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/-mWbcV-5xOwhrLotpojwVe4oyuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2612247-1393e70421de4e30b81cac3e83572c0a.jpg"
+      ],
+      "image": "assets/images/16884/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "557 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "896 mg",
+    "sugarContent": "3 g",
+    "fatContent": "42 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "1179"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ogVNDXRS-ma1DlVvV.mp4",
+    "description": "AR0747",
+    "duration": "PT3M20S",
+    "name": "Tater Tot Bake",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ogVNDXRS/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T11:53:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-mWbcV-5xOwhrLotpojwVe4oyuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2612247-1393e70421de4e30b81cac3e83572c0a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16884/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/16884/step_04.webp"
+    ]
+  }
+}

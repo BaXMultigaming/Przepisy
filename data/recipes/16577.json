@@ -1,0 +1,75 @@
+{
+  "id": "16577",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16577/creamy-cucumber-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/16577/creamy-cucumber-dressing/",
+  "title": "Creamy Cucumber Dressing",
+  "description": "This creamy cucumber salad dressing is reminiscent of delicious tzatziki, made with yogurt, cucumber, and lemon juice — it&#39;s only missing the herbs!",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2000-03-01T01:59:32-05:00",
+  "date_modified": "2023-10-27T14:04:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup plain yogurt",
+    "0.5 cucumber, peeled and finely chopped",
+    "1 teaspoon fresh lemon juice",
+    "1 clove garlic, minced",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground white pepper"
+  ],
+  "steps": [
+    {
+      "text": "Blend yogurt, cucumber, lemon juice, garlic, salt, and pepper in a blender until smooth. Refrigerate until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "21 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "160 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "59"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fphTU6z9NZf7_QK58AhZixum4gI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/957437-744390b4a26044b1aef9076a23c8a769.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16577/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

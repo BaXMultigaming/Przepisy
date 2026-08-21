@@ -1,0 +1,96 @@
+{
+  "id": "16717",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16717/spring-strawberry-spinach-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/16717/spring-strawberry-spinach-salad/",
+  "title": "Spring Strawberry Spinach Salad",
+  "description": "This spring salad with strawberries features fresh spinach and juicy berries toseed in a sweet homemade poppy seed dressing that blends up in minutes.",
+  "authors": [
+    "Mona"
+  ],
+  "date_published": "2000-03-18T20:48:06-05:00",
+  "date_modified": "2024-04-06T09:06:34-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup vegetable oil",
+    "0.5 cup white sugar",
+    "0.33333334326744 cup white wine vinegar",
+    "1 teaspoon salt",
+    "1 tablespoon poppy seeds",
+    "1 bunch spinach, rinsed",
+    "10 large strawberries, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Blend oil, sugar, vinegar, and salt in a blender until smooth. Stir in poppy seeds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place spinach and strawberries into a large bowl. Pour in dressing and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/zB19aSaymvJJyp0vZX4g18eo_3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/687946-eb4a27df551e44b783a3abb776acf2de.jpg"
+      ],
+      "image": "assets/images/16717/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "624 kcal",
+    "carbohydrateContent": "32 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "652 mg",
+    "sugarContent": "28 g",
+    "fatContent": "56 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "329"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/zSKY6rQ0-K3AjnAEN.mp4",
+    "description": "Delicious mix of savory and sweet! Strawberries and spinach go beautifully together in a salad! Make your own dressing to top off this excellent and healthy salad!\n",
+    "duration": "PT47S",
+    "name": "Spring Strawberry Spinach Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/zSKY6rQ0/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T08:02:44-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zB19aSaymvJJyp0vZX4g18eo_3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/687946-eb4a27df551e44b783a3abb776acf2de.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16717/hero.webp",
+    "steps": [
+      null,
+      "assets/images/16717/step_02.webp"
+    ]
+  }
+}

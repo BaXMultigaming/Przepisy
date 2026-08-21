@@ -1,0 +1,93 @@
+{
+  "id": "17124",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17124/clam-linguine/",
+  "requested_url": "https://www.allrecipes.com/recipe/17124/clam-linguine/",
+  "title": "Clam Linguine",
+  "description": "Enjoy linguine pasta with clams and tomatoes, tossed in a mixture of butter and olive oil with aromatic garlic and fresh parsley any night of the week.",
+  "authors": [
+    "Paris"
+  ],
+  "date_published": "2000-02-17T20:09:15-05:00",
+  "date_modified": "2023-03-30T16:59:24-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "0.25 cup butter",
+    "3 cloves garlic, crushed",
+    "3 large tomatoes, diced",
+    "0.5 cup chopped fresh parsley",
+    "1 (6.5 ounce) can minced clams, with juice",
+    "0.5 pound linguine pasta",
+    "0.5 cup freshly grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a medium skillet over medium heat, heat olive oil and butter. Add tomatoes, parsley, and garlic; simmer and let reduce, about 5 minutes. Add some clam juice if the sauce reduces too much.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Add pasta and cook for 3 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add pasta and clams to the skillet and heat through; top with Parmesan cheese and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "461 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "385 mg",
+    "sugarContent": "4 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "64"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6QwxXGvS76Vs00GSGlG8zB3KdvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7901235-548de4a37770435b91ba2833583666e5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17124/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

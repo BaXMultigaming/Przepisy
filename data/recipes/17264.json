@@ -1,0 +1,76 @@
+{
+  "id": "17264",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17264/tangy-mediterranean-tuna-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/17264/tangy-mediterranean-tuna-salad/",
+  "title": "Tangy Mediterranean Tuna Salad",
+  "description": "This is a great appetizer that goes well with unsalted crackers or toasted bread rounds. Adjust flavor to taste!",
+  "authors": [
+    "Jerry"
+  ],
+  "date_published": "2000-01-11T16:53:18-05:00",
+  "date_modified": "2022-07-14T16:34:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup whole, pitted kalamata olives",
+    "1 tablespoon garlic, minced",
+    "1 tablespoon capers, drained",
+    "3 tablespoons olive oil",
+    "1 (5 ounce) can water-packed tuna, drained",
+    "0.5 one lemon, juiced"
+  ],
+  "steps": [
+    {
+      "text": "Combine the olives, garlic and capers in an electric food processor, and process to form a paste. With the motor still running, slowly add the olive oil through the feed tube and blend thoroughly. Then add the tuna and lemon juice, and continue processing until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "113 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "315 mg",
+    "sugarContent": "0 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/V9grI7ZGefk5f4y3k9h4q4dL6QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/683154-c4fd83ff7c5a43e1adda928e6c9cd624.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17264/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

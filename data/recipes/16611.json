@@ -1,0 +1,104 @@
+{
+  "id": "16611",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16611/chicken-in-a-pot/",
+  "requested_url": "https://www.allrecipes.com/recipe/16611/chicken-in-a-pot/",
+  "title": "Chicken in a Pot",
+  "description": "This delicious one-pot meal consists of a homemade tomato-mushroom sauce over breaded chicken breasts.",
+  "authors": [
+    "Jo Ann"
+  ],
+  "date_published": "1999-07-25T11:03:30-04:00",
+  "date_modified": "2026-06-17T10:37:41-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup chicken broth",
+    "1.5 tablespoons tomato paste",
+    "0.25 teaspoon ground black pepper",
+    "0.5 teaspoon dried oregano",
+    "0.125 teaspoon salt",
+    "1 clove garlic, minced",
+    "4 boneless, skinless chicken breast halves",
+    "3 tablespoons dry bread crumbs",
+    "2 teaspoons olive oil",
+    "2 cups fresh sliced mushrooms"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine the broth, tomato paste, ground black pepper, oregano, salt and garlic. Mix well and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dredge the chicken in the bread crumbs, coating well. Heat the oil in a large skillet over medium high heat. Saute the chicken in the oil for 2 minutes per side, or until lightly browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the reserved broth mixture and the mushrooms to the skillet and bring to a boil. Then cover, reduce heat to low and simmer for 20 minutes. Remove chicken and set aside, covering to keep it warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring broth mixture to a boil and cook for 4 minutes, or until reduced to desired thickness. Spoon sauce over the chicken and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "73 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "402 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "622"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_KT6xYen5tSUUb9msTHJOs40v4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2164986-chicken-in-a-pot-Rock_lobster-4x3-1-b716b0e192de4373ad9a54eae49a3755.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16611/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "16827",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16827/cheesy-veggie-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/16827/cheesy-veggie-soup/",
+  "title": "Cheesy Veggie Soup",
+  "description": "American cheese is added to a basic white sauce and a puree of carrots, celery, bell peppers and tomato.",
+  "authors": [
+    "Doug Matthews"
+  ],
+  "date_published": "2000-02-14T13:57:20-05:00",
+  "date_modified": "2020-03-09T22:50:16-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup butter",
+    "1 onion, chopped",
+    "0.5 cup chopped carrots",
+    "0.5 cup chopped celery",
+    "0.5 cup chopped green pepper",
+    "1 tomato, chopped",
+    "2 cups vegetable broth",
+    "6 tablespoons all-purpose flour",
+    "4 cups half-and-half",
+    "12 ounces American cheese, sliced into strips"
+  ],
+  "steps": [
+    {
+      "text": "In one pan, melt 1/4 cup butter over medium heat. Saute the onion, carrot, celery, pepper, and tomato in the melted butter until soft. Using a blender or food processor, puree vegetables with vegetable broth; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a separate pot, melt the remaining 1/2 cup butter. Slowly whisk in flour, and then stir in half and half. When warm, slowly stir in cheese until melted. Mix in veggie puree, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "513 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "131 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "28 g",
+    "sodiumContent": "934 mg",
+    "sugarContent": "3 g",
+    "fatContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uGpkncYhIMYWqDdC0nrSOhrB2NM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/776285-43638e44635b4252b4c81915a1813628.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16827/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

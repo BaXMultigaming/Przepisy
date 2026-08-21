@@ -1,0 +1,76 @@
+{
+  "id": "16667",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16667/bread-machine-garlic-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/16667/bread-machine-garlic-bread/",
+  "title": "Bread Machine Garlic Bread",
+  "description": "Garlic, along with a little parsley, is baked right into this delicious bread. Slather it with butter or enjoy it plain.",
+  "authors": [
+    "Nicole Ellis"
+  ],
+  "date_published": "2000-03-23T08:10:31-05:00",
+  "date_modified": "2020-06-18T23:00:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT190M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup warm water (110 degrees F)",
+    "1 tablespoon butter",
+    "1 tablespoon dry milk powder",
+    "1 tablespoon white sugar",
+    "1.5 teaspoons salt",
+    "1.5 tablespoons dried parsley",
+    "2 teaspoons garlic powder",
+    "3 cups bread flour",
+    "2 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select Basic Bread cycle; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "303 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "servingSize": "1 - 1 1/2 pound loaf",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "286"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MbQ49i5NdqDIYwyVo-cVUmM2vv0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5058261-d79fba52326a475fb4a942bf3386da80.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16667/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

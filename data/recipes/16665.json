@@ -1,0 +1,95 @@
+{
+  "id": "16665",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16665/egg-salad-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/16665/egg-salad-i/",
+  "title": "Egg Salad",
+  "description": "This is my favorite recipe for egg salad because it uses little mayonnaise and plenty of dill.",
+  "authors": [
+    "Margret"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-01-02T11:39:53-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 large eggs",
+    "0.5 red onion, minced",
+    "2 tablespoons prepared Dijon-style mustard",
+    "1 tablespoon mayonnaise",
+    "1 teaspoon dried dill weed",
+    "1 teaspoon paprika",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water, peel, and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine chopped eggs, onion, mustard, mayonnaise, dill, paprika, salt, and pepper in a large bowl. Mash well using a fork or wooden spoon. Serve on bread as a sandwich or over crisp lettuce as a salad.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/EBCTt1aiWXvGWVT5y4jmDkHHqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/659330-9ac2434263104d269f721c47a1d788ce.jpg"
+      ],
+      "image": "assets/images/16665/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "373 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "348 mg",
+    "sugarContent": "1 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "361"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/HHMgV7Wy-ma1DlVvV.mp4",
+    "description": "AR0186",
+    "duration": "PT2M27S",
+    "name": "Egg Salad I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/HHMgV7Wy/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T11:41:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EBCTt1aiWXvGWVT5y4jmDkHHqSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/659330-9ac2434263104d269f721c47a1d788ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16665/hero.webp",
+    "steps": [
+      null,
+      "assets/images/16665/step_02.webp"
+    ]
+  }
+}

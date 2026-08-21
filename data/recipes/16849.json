@@ -1,0 +1,126 @@
+{
+  "id": "16849",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16849/chicken-spaghetti-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16849/chicken-spaghetti-iii/",
+  "title": "Chicken Spaghetti with Rotel",
+  "description": "Chicken spaghetti with Rotel is an easy, creamy pasta dish with cooked chicken and tomatoes that gets a delicious flavor kick from green chiles.",
+  "authors": [
+    "bdld"
+  ],
+  "date_published": "1999-12-28T01:04:49-05:00",
+  "date_modified": "2025-10-29T11:51:24-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 (16 ounce) package spaghetti",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "0.75 pound processed cheese",
+    "1 (10 ounce) can diced tomatoes with green chile peppers",
+    "1 cup chopped green onion",
+    "4 skinless, boneless chicken breast halves - boiled, cut into bite size pieces"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat soup in a large saucepan over low heat. Add cheese, stirring until cheese has mostly melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1Wv6CeFmS0LEEp8XMBkqxXtYnck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16849-chicken-spaghetti-step-1-1188-90d8cf5940fa4606abe136600d224cc3.jpg"
+      ],
+      "image": "assets/images/16849/step_02.webp"
+    },
+    {
+      "text": "Stir in Rotel tomatoes with green chiles and green onion. Simmer over low heat for 2 to 3 minutes, stirring.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add spaghetti and mix well, then stir in chicken. Heat through and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qiSyHovP1qkxeR3VP-csxbLtOJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16849-chicken-spaghetti-step-2-1193-723fd571ae924414a9fed88b54a8a6d6.jpg"
+      ],
+      "image": "assets/images/16849/step_04.webp"
+    },
+    {
+      "text": "Serve hot and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bJ-qpllTIqpf20jC8q0qGPmfVG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16849-chicken-spaghetti-iii-DDMFS-4x3-5eb4d29531db441088e95aa6b9c6be07.jpg"
+      ],
+      "image": "assets/images/16849/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "503 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "116 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "42 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1372 mg",
+    "sugarContent": "8 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "227"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lIhqwDTk-K3AjnAEN.mp4",
+    "description": "This zesty pasta dish is a cheesy classic! Chicken spaghetti is the perfect easy family dinner!",
+    "duration": "PT52S",
+    "name": "Chicken Spaghetti III Recipe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lIhqwDTk/poster.jpg?width=1280",
+    "uploadDate": "2022-06-07T12:58:49-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bJ-qpllTIqpf20jC8q0qGPmfVG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16849-chicken-spaghetti-iii-DDMFS-4x3-5eb4d29531db441088e95aa6b9c6be07.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16849/hero.webp",
+    "steps": [
+      null,
+      "assets/images/16849/step_02.webp",
+      null,
+      "assets/images/16849/step_04.webp",
+      "assets/images/16849/step_05.webp"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "16567",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16567/ham-salad-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16567/ham-salad-ii/",
+  "title": "Ham Salad Spread",
+  "description": "This sweet ham salad recipe is great spread on crusty bread as a sandwich or crackers as a snack.",
+  "authors": [
+    "James"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-09-21T06:44:46-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups mayonnaise",
+    "1 cup sweet pickle relish",
+    "2 teaspoons salt",
+    "0.5 teaspoon freshly ground black pepper",
+    "2 pounds smoked boneless ham, diced",
+    "2 stalks celery, diced",
+    "1 small onion, diced",
+    "1 small green bell pepper, diced"
+  ],
+  "steps": [
+    {
+      "text": "Stir mayonnaise, relish, salt, and pepper together in a large bowl until well blended. Add diced ham, celery, onion, and bell pepper; toss until coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve immediately, or cover and store in the refrigerator until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "278 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1265 mg",
+    "sugarContent": "5 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "136"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oTJLUTWx9vds3v3ewpkjD1tWZGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/765570-6b3838360e1c405ea26a74d507348fb6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16567/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

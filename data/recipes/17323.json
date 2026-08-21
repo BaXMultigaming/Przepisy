@@ -1,0 +1,99 @@
+{
+  "id": "17323",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17323/mushroom-risotto/",
+  "requested_url": "https://www.allrecipes.com/recipe/17323/mushroom-risotto/",
+  "title": "Mushroom Risotto",
+  "description": "Delicious mushroom risotto made with vegetable broth, cream, and a variety of fresh vegetables. Serve as a side dish or filling main course.",
+  "authors": [
+    "Sarah Franklin"
+  ],
+  "date_published": "2000-02-29T14:48:55-05:00",
+  "date_modified": "2026-08-12T15:10:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "3 small onions, finely chopped",
+    "1 clove garlic, crushed",
+    "1 teaspoon minced fresh parsley",
+    "1 teaspoon minced celery",
+    "salt and pepper to taste",
+    "1.5 cups sliced fresh mushrooms",
+    "1 cup whole milk",
+    "0.25 cup heavy cream",
+    "1 cup rice",
+    "5 cups vegetable stock",
+    "1 teaspoon butter",
+    "1 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Saute the onion and garlic in the olive oil until onion is tender and garlic is lightly browned. Remove garlic, and stir in the parsley, celery, salt, and pepper. Cook until celery is tender, then add the mushrooms. Reduce heat to low, and continue cooking until the mushrooms are soft.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour the milk and cream into the skillet, and stir in the rice. Heat to a simmer. Stir the vegetable stock into the rice one cup at a time, until it is absorbed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When the rice has finished cooking, stir in the butter and Parmesan cheese, and remove from heat. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "439 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "50 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "768 mg",
+    "sugarContent": "7 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "413"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s1OOEIG8zigFnr3xFdvSLlfnCTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1397542-aa179008e07c46aea54962ce35a0e2f6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17323/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

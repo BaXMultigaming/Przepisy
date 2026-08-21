@@ -1,0 +1,95 @@
+{
+  "id": "16468",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16468/tuna-fish-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/16468/tuna-fish-salad/",
+  "title": "Tuna Fish Salad",
+  "description": "Easy tuna fish salad flavored with parsley, garlic, and lemon mixed with canned tuna, celery, onion, and mayonnaise great in sandwiches and on salads.",
+  "authors": [
+    "Jackie"
+  ],
+  "date_published": "2000-03-11T18:24:00-05:00",
+  "date_modified": "2025-12-18T14:07:38-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 (5 ounce) can tuna, drained",
+    "0.5 cup mayonnaise",
+    "0.25 cup chopped celery",
+    "0.25 cup chopped onion",
+    "1 tablespoon chopped fresh parsley",
+    "0.5 teaspoon lemon juice",
+    "0.25 teaspoon garlic powder",
+    "0.125 teaspoon salt",
+    "0.125 teaspoon ground black pepper",
+    "1 pinch paprika, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bc8P-wXG6GsJOGbQAw7vqf_UFxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16468-tuna-fish-salad-DDMFS-step-1-BG-2932-778a7f179c3e440cb81e752d75b316c8.jpg"
+      ],
+      "image": "assets/images/16468/step_01.webp"
+    },
+    {
+      "text": "Combine tuna, mayonnaise, celery, onion, parsley, lemon juice, garlic powder, salt, and pepper in a large bowl; mix well. Season with paprika; refrigerate until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1kgVkzTLZ4NvYDKz4VYxp-5RE6g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16468-tuna-fish-salad-DDMFS-step-3-BG-2944-732dea9660e84625be0e628af3f30969.jpg"
+      ],
+      "image": "assets/images/16468/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "240 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "252 mg",
+    "sugarContent": "1 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "383"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/U9yU-C8PdU7faLNGmigRyLg2a6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16468-tuna-fish-salad-DDMFS-beauty-4x3-BG-2952-2cf0f9bf122c4496b3ae9bb0147fb6d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16468/hero.webp",
+    "steps": [
+      "assets/images/16468/step_01.webp",
+      "assets/images/16468/step_02.webp"
+    ]
+  }
+}

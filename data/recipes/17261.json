@@ -1,0 +1,79 @@
+{
+  "id": "17261",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17261/ukha-russian-fish-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/17261/ukha-russian-fish-soup/",
+  "title": "Ukha (Russian Fish Soup)",
+  "description": "This Russian fish soup is made by simmering potatoes, onions and parsley with cubes of white fish fillets and fresh squeezed lemon juice.",
+  "authors": [
+    "Byakin"
+  ],
+  "date_published": "1999-12-26T19:44:27-05:00",
+  "date_modified": "2024-12-05T20:27:53-05:00",
+  "prep_time": null,
+  "cook_time": "PT30M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Russian",
+    "Asian"
+  ],
+  "regions": [
+    "Russian",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups water",
+    "2 potatoes, cubed",
+    "1 onion, chopped",
+    "1 bunch fresh parsley, chopped",
+    "4 ounces cod fillets, cubed",
+    "1 lemon, juiced",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Put water in a large saucepan and bring to a boil over high heat. Add the potatoes, onion and parsley. Heat for 10 to 15 minutes and add the fish. Heat for 10 more minutes, then squeeze in lemon juice and season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "127 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "32 mg",
+    "sugarContent": "2 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sIMat5RLsm4A_Uw7Pgj15fgsBdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7318199-d17ffc54695f4753906b21ef60c23f81.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17261/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

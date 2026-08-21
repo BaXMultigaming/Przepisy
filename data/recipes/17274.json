@@ -1,0 +1,93 @@
+{
+  "id": "17274",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17274/eggs-and-spaghetti/",
+  "requested_url": "https://www.allrecipes.com/recipe/17274/eggs-and-spaghetti/",
+  "title": "Spaghetti and Eggs",
+  "description": "This simple pasta and eggs dish serves perfectly seasoned sunny-side up fried eggs on top of hot spaghetti for a quick and delicious weeknight meal.",
+  "authors": [
+    "pkelley"
+  ],
+  "date_published": "2000-03-09T18:43:28-05:00",
+  "date_modified": "2026-05-14T09:18:56-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces spaghetti",
+    "2 tablespoons butter",
+    "2 eggs",
+    "2 teaspoons garlic powder",
+    "2 teaspoons ground black pepper",
+    "1 tablespoon minced onion",
+    "1 tablespoon dried rosemary",
+    "grated Parmesan cheese, to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, melt butter in a large skillet over medium heat; cook eggs sunny-side up, or until whites are just about set and yolks still quite runny and not broken. Sprinkle garlic powder, ground black pepper, onion, and rosemary on eggs while cooking.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place hot pasta in a deep plate or pasta bowl; top with fried eggs and stir together to allow eggs to continue cooking and broken yolks to create a sauce. Serve immediately, with grated Parmesan if you like.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "806 kcal",
+    "carbohydrateContent": "94 g",
+    "cholesterolContent": "433 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "316 mg",
+    "sugarContent": "6 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rIYVZ7_uyPQizmn7DaoluCBgT38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2371809-91fdca579fa643bf949e4d94c608b592.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17274/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

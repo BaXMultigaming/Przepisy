@@ -1,0 +1,75 @@
+{
+  "id": "17126",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17126/milk-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/17126/milk-bread/",
+  "title": "Milk Bread",
+  "description": "The bread machine proves its worth with this basic white bread that calls for a glass of sour milk or buttermilk.",
+  "authors": [
+    "Fran Stinson"
+  ],
+  "date_published": "2000-02-14T17:57:19-05:00",
+  "date_modified": "2026-05-20T07:50:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT120M",
+  "yield": [
+    "15",
+    "1 (1½-pound) loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.125 cups milk",
+    "3 cups all-purpose flour",
+    "1 teaspoon salt",
+    "3 tablespoons white sugar",
+    "1.5 teaspoons active dry yeast"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select regular white bread cycle; press Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "111 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "163 mg",
+    "sugarContent": "3 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "100"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/k8i7NjUGvDblMePKgmjOaY6mZbo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1023944-milk-bread-Melissa-Goff-4x3-1-9c532d493d2f4f0cba1680ed9827418e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17126/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

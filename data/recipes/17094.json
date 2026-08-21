@@ -1,0 +1,88 @@
+{
+  "id": "17094",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17094/sloppy-joe-spaghetti/",
+  "requested_url": "https://www.allrecipes.com/recipe/17094/sloppy-joe-spaghetti/",
+  "title": "Sloppy Joe Spaghetti",
+  "description": "This Sloppy Joe pasta dish is just moments away when you combine ready-made Sloppy Joe sauce with ground beef, veggies, bread crumbs, and cheese.",
+  "authors": [
+    "TL"
+  ],
+  "date_published": "2000-03-02T14:33:59-05:00",
+  "date_modified": "2022-09-07T11:14:11-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound spaghetti",
+    "1 pound lean ground beef",
+    "1 (15 ounce) can sloppy joe sauce",
+    "0.5 green bell pepper, diced",
+    "0.5 onion, chopped",
+    "0.5 cup Italian-style dried bread crumbs",
+    "0.25 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Stir in sauce, bell pepper, and onion; cook and stir until onion and bell pepper are tender, about 5 minutes. Remove from the heat; mix in bread crumbs and cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add sauce to pasta; toss to coat and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "878 kcal",
+    "carbohydrateContent": "111 g",
+    "cholesterolContent": "93 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "40 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "972 mg",
+    "sugarContent": "10 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IgD-faWo42lCk23NIInuvFkzXAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3575788-6da0a1fcaa614bf38a2c0826cbb2e327.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17094/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

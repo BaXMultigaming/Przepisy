@@ -1,0 +1,83 @@
+{
+  "id": "16632",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16632/egg-salad-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/16632/egg-salad-iii/",
+  "title": "Egg Salad with Olives",
+  "description": "This egg salad with olives is made with hard-boiled eggs, mayonnaise and chopped pimento-stuffed green olives for a tangy twist.",
+  "authors": [
+    "OLIVIES"
+  ],
+  "date_published": "2000-03-15T14:06:41-05:00",
+  "date_modified": "2026-07-20T11:05:31-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "2 cups"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 eggs",
+    "0.5 cup mayonnaise",
+    "1 teaspoon ground black pepper",
+    "0.25 teaspoon paprika",
+    "2 tablespoons chopped pimento-stuffed green olives"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs in a saucepan and cover with water. Bring to a boil, cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water, cool under cold running water, peel, and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine eggs, mayonnaise, black pepper, and paprika in a bowl; mash with a potato masher or fork until smooth. Gently stir in olives. Refrigerate until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "349 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "383 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "441 mg",
+    "sugarContent": "1 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "131"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IJWKMs6sLBvzWET3PfVX2ODFACk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3275381_Egg-Salad-with-Olives-4x3_16632_egg-salad-iii-12de61cc78ac466faff8d503000bb2fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16632/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

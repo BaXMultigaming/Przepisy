@@ -1,0 +1,76 @@
+{
+  "id": "17008",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17008/black-eyed-peas-spicy-style/",
+  "requested_url": "https://www.allrecipes.com/recipe/17008/black-eyed-peas-spicy-style/",
+  "title": "Black-Eyed Peas Spicy Style",
+  "description": "A spicy twist on black-eyed peas.",
+  "authors": [
+    "Angela"
+  ],
+  "date_published": "2000-02-07T17:39:57-05:00",
+  "date_modified": "2025-02-05T12:50:11-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "3",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American",
+    "Southern"
+  ],
+  "regions": [
+    "American",
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15.5 ounce) can black-eyed peas with liquid",
+    "0.5 onion, chopped",
+    "minced jalapeno pepper to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a medium-size pot, combine black-eyed peas, onion, jalapeno peppers, and black pepper (to taste). Heat all ingredients to simmer, let cook 30 minutes. Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "433 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_n0Yz_0Tro1Pyxd0XYNfWvbNmSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/466537-d30fd2d9cf2b4251b2ad5a70f6291774.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17008/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

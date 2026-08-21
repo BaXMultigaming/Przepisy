@@ -1,0 +1,82 @@
+{
+  "id": "17254",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17254/healthier-chicken-a-la-king/",
+  "requested_url": "https://www.allrecipes.com/recipe/17254/healthier-chicken-a-la-king/",
+  "title": "Healthier Chicken a la King",
+  "description": "Spinach, egg and chicken simmered in a milky onion sauce. Healthy can taste good!",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2000-02-21T20:03:46-05:00",
+  "date_modified": "2022-08-04T10:04:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons chopped onion",
+    "2 tablespoons all-purpose flour",
+    "1 teaspoon salt",
+    "1 cup milk",
+    "0.5 pound cooked, cubed chicken meat",
+    "1 hard-boiled egg, sliced",
+    "1.3332999944687 cups cooked spinach",
+    "3 tablespoons chopped onions"
+  ],
+  "steps": [
+    {
+      "text": "Place onion in a medium saucepan over low heat and sprinkle with flour and salt. Stir together and add milk. Bring to a boil and cook until thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix in chicken, egg and spinach. Heat through and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "355 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "212 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "47 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1413 mg",
+    "sugarContent": "8 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sqeWNcUffKFFSITx87_gnE1-1xs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5838831-b25c3dbd38754f359a185f5c31031f1a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17254/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

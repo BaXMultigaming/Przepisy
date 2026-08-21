@@ -1,0 +1,76 @@
+{
+  "id": "17123",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17123/shrimp-spread-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/17123/shrimp-spread-i/",
+  "title": "Shrimp Spread I",
+  "description": "This easy, layered shrimp spread is my mom&#39;s favorite munchie. Serve it with your favorite crackers.",
+  "authors": [
+    "Christine Sandwith"
+  ],
+  "date_published": "1999-11-27T17:07:38-05:00",
+  "date_modified": "2022-07-14T16:07:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "0.5 cup sour cream",
+    "0.25 cup mayonnaise",
+    "3 (4 ounce) cans shrimp",
+    "1 cup cocktail sauce",
+    "2 cups shredded mozzarella cheese",
+    "1 green bell pepper, chopped",
+    "3 green onions, chopped",
+    "1 medium tomato - peeled, seeded and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Mix cream cheese, sour cream and mayonnaise together. Spread the mixture onto the bottom of a 12-inch round pizza pan. Sprinkle the shrimp on top of the cream cheese mixture, and then evenly pour the seafood cocktail sauce over the shrimp. Sprinkle cheese, chopped pepper, green onions and tomatoes to finish. Refrigerate until you are ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "469 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "179 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "1071 mg",
+    "sugarContent": "8 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8z86gz02z8awMYamPnm31bNmrY4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1059696-1aa666339cc6470dacae88fc564724ca.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17123/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

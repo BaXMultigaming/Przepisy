@@ -1,0 +1,80 @@
+{
+  "id": "17046",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17046/unbaked-meringue/",
+  "requested_url": "https://www.allrecipes.com/recipe/17046/unbaked-meringue/",
+  "title": "Unbaked Meringue",
+  "description": "You cook this one on the stovetop, resulting in a creamy, fluffy meringue that is more stable than the standard method.",
+  "authors": [
+    "Saundra"
+  ],
+  "date_published": "2000-03-16T11:42:35-05:00",
+  "date_modified": "2026-06-15T18:38:46-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "1 pie topping"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup white sugar",
+    "0.25 cup light corn syrup",
+    "3 tablespoons water",
+    "0.125 teaspoon cream of tartar",
+    "1 pinch salt",
+    "2 egg whites"
+  ],
+  "steps": [
+    {
+      "text": "In a small saucepan, combine sugar, corn syrup, water, cream of tartar, and salt. Cook over medium heat, stirring constantly, until mixture comes to a boil and sugar has dissolved. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium mixing bowl, beat egg whites until foamy. With mixer on medium speed, slowly pour the hot syrup mixture over the egg whites. Turn mixer to high speed and beat until stiff peaks form. Spread over top of pie, covering filling completely. May brown meringue in oven if you desire.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "57 kcal",
+    "carbohydrateContent": "14 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "20 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/h9c7LwPAa1LiA7kV-NPCarBIZbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9261737-b866de6b8e7344109f0be407b2a647b1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17046/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

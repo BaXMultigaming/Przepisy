@@ -1,0 +1,88 @@
+{
+  "id": "16714",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16714/quick-tomato-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/16714/quick-tomato-sandwich/",
+  "title": "Quick Tomato Sandwich",
+  "description": "A simple tomato sandwich recipe that is a breeze to prepare.",
+  "authors": [
+    "Elaine Lau"
+  ],
+  "date_published": "1999-08-20T02:07:36-04:00",
+  "date_modified": "2021-07-05T01:05:42-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons ketchup",
+    "1 tablespoon mayonnaise",
+    "0.125 teaspoon salt",
+    "0.125 teaspoon hot pepper sauce",
+    "4 slices whole wheat bread",
+    "2 leaves lettuce",
+    "1 tomato, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Combine ketchup, mayonnaise, salt, and hot pepper sauce in a bowl; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toast bread in the toaster. Spread ketchup mixture on all 4 slices of toast.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange lettuce leaves on a piece of toast, then top with 3 to 4 tomato slices. Cover with another piece of toast. Repeat this step to make second sandwich.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "207 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "628 mg",
+    "sugarContent": "5 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "50"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DfIB1D2KMP6UR6L-OSyoo2YSqjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9280651-850b71e07fbc47eb861dd60ff1891260.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16714/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

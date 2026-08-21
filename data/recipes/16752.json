@@ -1,0 +1,84 @@
+{
+  "id": "16752",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16752/creamy-bacon-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/16752/creamy-bacon-dip/",
+  "title": "Creamy Bacon Dip",
+  "description": "This creamy bacon dip recipe is great served with veggies. It can also be used as a sandwich spread, and salad dressing. Add more bacon, if you wish.",
+  "authors": [
+    "Cheryl C"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-06-25T18:59:50-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT375M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds bacon",
+    "1 (32 ounce) jar mayonnaise",
+    "1 onion, minced",
+    "0.5 cup light corn syrup",
+    "0.25 cup apple cider vinegar",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large, deep skillet over medium-high heat until evenly browned. Drain on paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Crumble bacon into a large bowl; stir in mayonnaise, onion, corn syrup, vinegar, and black pepper until well combined. Cover and refrigerate for 6 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1271 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "26 g",
+    "sodiumContent": "1368 mg",
+    "sugarContent": "7 g",
+    "fatContent": "129 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rYoWCJSZWK2a5LiEFOP_PvGGYjU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4452477-2735e7684b9346b8881fea1995b9ffea.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16752/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

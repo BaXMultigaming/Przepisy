@@ -1,0 +1,71 @@
+{
+  "id": "17196",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17196/seafood-dip-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/17196/seafood-dip-ii/",
+  "title": "Seafood Dip II",
+  "description": "A fast and delicious dip. Serve with ripple chips, crackers or plain tacos.",
+  "authors": [
+    "lab"
+  ],
+  "date_published": "1999-11-24T23:53:35-05:00",
+  "date_modified": "2022-07-14T15:56:20-04:00",
+  "prep_time": "PT65M",
+  "cook_time": null,
+  "total_time": "PT65M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups sour cream",
+    "1 cup mayonnaise",
+    "1 tablespoon dry vegetable soup mix",
+    "1 cup imitation crabmeat, diced"
+  ],
+  "steps": [
+    {
+      "text": "In a medium-size mixing bowl, mix together sour cream, mayonnaise, vegetable soup mix, and crab. Cover and refrigerate at least one hour. Delicious!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "225 mg",
+    "sugarContent": "1 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9l5dLfK0yjJIlf5gsragI6VXNm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5063332-8905bcab043849ccbc6596cb29095ff3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17196/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

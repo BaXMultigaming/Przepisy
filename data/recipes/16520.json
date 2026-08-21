@@ -1,0 +1,84 @@
+{
+  "id": "16520",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16520/irish-potato-candy/",
+  "requested_url": "https://www.allrecipes.com/recipe/16520/irish-potato-candy/",
+  "title": "Irish Potato Candy",
+  "description": "This Irish potato candy recipe doesn&#39;t contain potatoes; these sweet treats are made with cream cheese and coconut and molded to look like potatoes.",
+  "authors": [
+    "Saundra"
+  ],
+  "date_published": "2000-03-10T10:37:22-05:00",
+  "date_modified": "2025-10-14T17:54:24-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "60",
+    "5 dozen candies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces cream cheese, softened",
+    "0.25 cup butter, softened",
+    "4 cups confectioners' sugar",
+    "1 teaspoon vanilla extract",
+    "2.5 cups flaked coconut",
+    "1 tablespoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Beat cream cheese and butter together in a large bowl until smooth. Add confectioners' sugar and vanilla; beat until smooth. Mix in flaked coconut.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Roll mixture into balls or potato shapes; roll balls in cinnamon. Place onto a cookie sheet and chill to set, at least 10 minutes. If desired, roll potatoes in cinnamon again for a darker color.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "59 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "20 mg",
+    "sugarContent": "9 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "286"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rXw3vwFLwWgAdR3G1pirRanzy_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4519478-irish-potato-candy-ReadMyLips26-4x3-1-632402e381a9484bbca56c986163196e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16520/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

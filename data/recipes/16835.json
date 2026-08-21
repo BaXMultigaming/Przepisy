@@ -1,0 +1,92 @@
+{
+  "id": "16835",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16835/mock-chopped-liver/",
+  "requested_url": "https://www.allrecipes.com/recipe/16835/mock-chopped-liver/",
+  "title": "Mock Chopped Liver",
+  "description": "Delicious mock chopped liver made with tender ground lentils, soft onion, and walnuts for a vegetarian appetizer that tastes just like the real thing!",
+  "authors": [
+    "marcia"
+  ],
+  "date_published": "2000-02-29T18:01:24-05:00",
+  "date_modified": "2026-06-02T13:31:08-04:00",
+  "prep_time": "PT35M",
+  "cook_time": null,
+  "total_time": "PT155M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cup lentils",
+    "2 cubes chicken bouillon",
+    "1 teaspoon extra virgin olive oil",
+    "1 large onion, chopped",
+    "1 cup walnuts",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place water, lentils, and bouillon cubes in a pot; cover and simmer over medium heat until tender, about 30 minutes. Drain well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a skillet over medium heat; add onion and sauté until soft and translucent.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend cooked lentils, onions, and walnuts in a food processor until it reaches the desired consistency for pâté. Season to taste with salt and pepper. Chill before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "387 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "581 mg",
+    "sugarContent": "2 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d1qbpxreBUD8q7E-GWtygcmF424=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7806328-c9cb5b642ec04553b590ad32c9cbe59d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16835/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

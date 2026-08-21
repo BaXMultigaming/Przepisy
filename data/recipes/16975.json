@@ -1,0 +1,69 @@
+{
+  "id": "16975",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16975/tropical-fruit-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/16975/tropical-fruit-smoothie/",
+  "title": "Tropical Fruit Smoothie",
+  "description": "This refreshingly delicious smoothie is a tropical blend of fresh mango, papaya, strawberries, orange juice, and ice.",
+  "authors": [
+    "Lisa B"
+  ],
+  "date_published": "2000-01-08T21:04:20-05:00",
+  "date_modified": "2022-09-07T11:55:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 mango, peeled and seeded",
+    "1 papaya, peeled and seeded",
+    "0.5 cup fresh strawberries",
+    "0.33333334326744 cup orange juice",
+    "5 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine mango, papaya, strawberries, orange juice, and ice cubes in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "129 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "25 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lzyvD8qrSldbwx915Vbu28U4jf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/425266-61aba4304918450c89e421e35f0c2bfb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16975/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

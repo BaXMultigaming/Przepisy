@@ -1,0 +1,106 @@
+{
+  "id": "16623",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16623/mediterranean-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/16623/mediterranean-potato-salad/",
+  "title": "Mediterranean Potato Salad",
+  "description": "This salad begins with red potatoes, which is a very good sign, and ends being tossed in a really nice dressing spiked with lemon juice. A pleasant taste change from the same old, same old potato salad.",
+  "authors": [
+    "hockeymom"
+  ],
+  "date_published": "2000-02-14T23:19:22-05:00",
+  "date_modified": "2026-05-08T12:48:19-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "16",
+    "1 salad"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds potatoes",
+    "1 green bell pepper, minced",
+    "1 cucumber, sliced and quartered",
+    "0.5 cup sliced red onion",
+    "8 ounces crumbled feta cheese",
+    "1 lemon, juiced",
+    "0.5 cup Italian-style salad dressing",
+    "salt and pepper to taste",
+    "3 pita breads, cut into wedges"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain, cool, and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, combine potatoes, green peppers, cucumbers, red onion, and cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk together lemon juice, salad dressing, salt, and pepper. Pour over salad and toss to coat. Serve with pita bread wedges, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/dA9IGGvcJQ6UiI0W1nG6-SHCvoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215510-mediterranean-potato-salad-SunnyByrd-1x1-1-ec81a8121d0f40af89c1a510bf5439ee.jpg"
+      ],
+      "image": "assets/images/16623/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "139 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "344 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "92"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/IsJ1WJLP-K3AjnAEN.mp4",
+    "description": "Potato salad with cucumbers, red onion, feta, and a simple dressing makes a great side dish or meal prep! This easy potato salad recipe will become a potluck favorite!",
+    "duration": "PT3M5S",
+    "name": "Mediterranean Potato Salad ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/IsJ1WJLP/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:41:55-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dA9IGGvcJQ6UiI0W1nG6-SHCvoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215510-mediterranean-potato-salad-SunnyByrd-1x1-1-ec81a8121d0f40af89c1a510bf5439ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16623/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/16623/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "17013",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17013/banana-peanut-butter-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/17013/banana-peanut-butter-bread/",
+  "title": "Banana Peanut Butter Bread",
+  "description": "In this clever recipe, a popular variation on the peanut butter sandwich is made into a bread! It also calls for walnuts.",
+  "authors": [
+    "CORWYNN DARKHOLME"
+  ],
+  "date_published": "1999-05-07T21:51:37-04:00",
+  "date_modified": "2022-08-27T13:43:14-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT70M",
+  "total_time": "PT85M",
+  "yield": [
+    "15",
+    "1 - 5x9 inch loaf"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter, softened",
+    "1 cup white sugar",
+    "2 eggs",
+    "0.5 cup peanut butter",
+    "2 bananas, mashed",
+    "2 cups all-purpose flour",
+    "1 teaspoon baking soda",
+    "0.5 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 325 degrees F (165 degrees C). Lightly grease a 5x9 inch loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large mixing bowl, cream together butter and sugar. Add eggs; beat well. Stir in peanut butter, bananas, flour and baking soda until blended. Fold in walnuts. Pour into prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 325 degrees F (165 degrees C) for 70 minutes, or until a toothpick inserted into center of the loaf comes out clean. Remove to a wire rack to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "266 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "179 mg",
+    "sugarContent": "16 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "408"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Q3gn--ygoYSgvUmXexueTQxEtAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228747-banana-peanut-butter-bread-Claire-4x3-1-ac9c484fc305431db1b3809cf812e934.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17013/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

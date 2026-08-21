@@ -1,0 +1,102 @@
+{
+  "id": "16900",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/16900/coffee-roast/",
+  "requested_url": "https://www.allrecipes.com/recipe/16900/coffee-roast/",
+  "title": "Coffee Roast",
+  "description": "Coffee adds unique flavor to this rump roast. It is easy to prepare, cooking entirely on the stove top for five hours.",
+  "authors": [
+    "Arrianna and Tom"
+  ],
+  "date_published": "2000-03-27T23:23:14-05:00",
+  "date_modified": "2025-03-27T12:17:41-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT300M",
+  "total_time": "PT320M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "4 pounds chuck roast",
+    "1 tablespoon butter",
+    "salt to taste",
+    "1 onion, chopped",
+    "6 cups brewed coffee",
+    "2 cups canned mushrooms",
+    "3 tablespoons cornstarch"
+  ],
+  "steps": [
+    {
+      "text": "Melt 2 tablespoons of butter in a large saucepan over medium high heat. Add the roast and sear on all sides until well browned; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In the same saucepan, melt the remaining butter, add the salt and onions and saute for 5 minutes. Return the meat to the saucepan and pour in the coffee and the mushrooms.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring to a boil, reduce heat to low and simmer for 5 hours, turning meat over halfway through cooking time.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To make gravy: Remove a cup of the coffee mixture from the saucepan, combine with the cornstarch, stirring until smooth, and return to the simmering pan. Mix well, remove from heat and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "703 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "212 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "60 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "501 mg",
+    "sugarContent": "2 g",
+    "fatContent": "47 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "78"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Sf-9pHdtDCf7JSTmMilRuDNJTgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/968441-52d0332c2011455880e183dae90aec73.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/16900/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

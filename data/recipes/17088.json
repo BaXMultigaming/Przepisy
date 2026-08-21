@@ -1,0 +1,82 @@
+{
+  "id": "17088",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/17088/chili-cheese-dip-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/17088/chili-cheese-dip-iii/",
+  "title": "Chili Cheese Dip",
+  "description": "This quick, easy chili cheese dip recipe is a little different from most and is sure to be a favorite!",
+  "authors": [
+    "Kathy Rogers"
+  ],
+  "date_published": "2000-01-23T12:45:36-05:00",
+  "date_modified": "2026-05-27T14:47:31-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "15"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (8 ounce) packages cream cheese, softened",
+    "1 (15 ounce) can chili without beans",
+    "16 ounces shredded Cheddar cheese",
+    "1 (13.5 ounce) package nacho-flavor tortilla chips"
+  ],
+  "steps": [
+    {
+      "text": "Spread cream cheese on the bottom of a microwave-safe dish. Spread a layer of chili over cream cheese. Finish with a layer of shredded Cheddar cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Microwave until cheese melts, about 5 minutes. Serve with spicy nacho tortilla chips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "379 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "546 mg",
+    "sugarContent": "2 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "139"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Rc9zttdIz0fey8BVQlIN9089P2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9014878-32f7011c3f27442395ff29627d2c61dc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/17088/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
