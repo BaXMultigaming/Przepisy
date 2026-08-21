@@ -1,0 +1,82 @@
+{
+  "id": "19690",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19690/lemon-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/19690/lemon-butter/",
+  "title": "Lemon Butter",
+  "description": "Serve this thick and creamy, lemon-flavored butter warm over gingerbread or blueberry muffins. You can also top ice cream with it! This recipe will also work with margarine instead of butter.",
+  "authors": [
+    "Lana D"
+  ],
+  "date_published": "2000-04-26T00:17:43-04:00",
+  "date_modified": "2026-06-07T15:15:54-04:00",
+  "prep_time": "PT8M",
+  "cook_time": "PT2M",
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "8 tablespoons"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup white sugar",
+    "1 tablespoon cornstarch",
+    "0.25 teaspoon grated lemon zest",
+    "0.5 cup water",
+    "1 tablespoon lemon juice",
+    "2 teaspoons butter"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan over medium heat, combine sugar, cornstarch, and lemon zest. Stir in water and lemon juice, and continue stirring. After the mixture thickens and bubbles, continue to heat and stir for another two minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the sauce from the heat and stir in the butter. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "75 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "5 mg",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "13 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/T-GPAaUZSddWF17_XPjmfud6IM8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19690lemon-butterlutzflcat4x3-8a8ee27950db40e3b8ce9f649b7cd728.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19690/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

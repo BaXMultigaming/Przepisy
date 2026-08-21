@@ -1,0 +1,88 @@
+{
+  "id": "19351",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19351/tasty-tuna-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/19351/tasty-tuna-pasta/",
+  "title": "Tasty Tuna Pasta",
+  "description": "A quick, creamy tuna Alfredo pasta with canned tuna, peas, and bottled Alfredo sauce.",
+  "authors": [
+    "Ruth Burk"
+  ],
+  "date_published": "2000-03-27T02:15:37-05:00",
+  "date_modified": "2022-07-15T12:16:29-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces dry fettuccine pasta",
+    "1 (5 ounce) can tuna, drained",
+    "1 (15 ounce) can peas, drained",
+    "0.5 (16 ounce) jar Alfredo-style pasta sauce",
+    "1 teaspoon garlic powder",
+    "1 teaspoon dried oregano",
+    "1 teaspoon dried basil"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan over medium heat, combine tuna, peas, Alfredo sauce, garlic powder, oregano, and basil; mix well. Cook until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add cooked pasta to sauce; mix well. Adjust seasoning as needed; serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "460 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "766 mg",
+    "sugarContent": "7 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9UbY7TuA-cqKxpFvsUjO6_lZYIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/381698-6b8e663371bb41f092ec31d514d74adc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19351/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

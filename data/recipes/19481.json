@@ -1,0 +1,96 @@
+{
+  "id": "19481",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19481/frogmore-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/19481/frogmore-stew/",
+  "title": "Frogmore Stew",
+  "description": "Frogmore stew is a traditional South Carolina low country boil made with unpeeled shrimp, corn on the cob, new red potatoes, and hot smoked sausage.",
+  "authors": [
+    "Shirley"
+  ],
+  "date_published": "2000-05-21T11:54:19-04:00",
+  "date_modified": "2025-12-30T21:02:39-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "6 quarts water",
+    "0.75 cup Old Bay Seasoning TM",
+    "2 pounds new red potatoes",
+    "2 pounds hot smoked sausage links, cut into 2 inch pieces",
+    "12 ears corn - husked, cleaned and quartered",
+    "4 pounds large fresh shrimp, unpeeled"
+  ],
+  "steps": [
+    {
+      "text": "Bring water and Old Bay seasoning to a boil in a large stockpot over high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add potatoes; cook for 15 minutes. Add sausage; cook for 5 more minutes. Add corn; cook for 5 more minutes. Stir in shrimp; cook until shrimp are pink, about 5 minutes. Drain immediately and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ARGsHYwmgQFwgVmAT6vaek6zfqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1398708-4cdd043de5304dd885064dadbbbe3ee9.jpg"
+      ],
+      "image": "assets/images/19481/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "499 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "299 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "53 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "2733 mg",
+    "sugarContent": "5 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "589"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/yWbKZ0Ad-ma1DlVvV.mp4",
+    "description": "AR1065",
+    "duration": "PT2M48S",
+    "name": "Frogmore Stew",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/yWbKZ0Ad/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T23:28:51-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ARGsHYwmgQFwgVmAT6vaek6zfqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1398708-4cdd043de5304dd885064dadbbbe3ee9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19481/hero.webp",
+    "steps": [
+      null,
+      "assets/images/19481/step_02.webp"
+    ]
+  }
+}

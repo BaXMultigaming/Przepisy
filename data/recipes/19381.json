@@ -1,0 +1,83 @@
+{
+  "id": "19381",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19381/chinese-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/19381/chinese-pasta-salad/",
+  "title": "Chinese Pasta Salad",
+  "description": "This Chinese pasta salad recipe, made with simple ingredients like cabbage, ramen noodles, and green onion, comes together quickly and is perfect any time.",
+  "authors": [
+    "Nancy C"
+  ],
+  "date_published": "2000-05-23T17:55:43-04:00",
+  "date_modified": "2025-07-10T09:06:18-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "World"
+  ],
+  "regions": [
+    "World"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 medium head cabbage, shredded",
+    "4 green onions, sliced",
+    "0.5 cup slivered almonds",
+    "1 (3 ounce) package ramen noodles with seasoning packet",
+    "0.5 cup chopped fresh cilantro",
+    "0.5 cup rice wine vinegar",
+    "0.25 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine cabbage, green onions, and almonds in a large bowl. Crush ramen noodles; stir into cabbage mixture. Stir in cilantro; toss to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine vinegar, oil, and ramen noodle seasoning packet in a small bowl; toss into cabbage mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "188 kcal",
+    "carbohydrateContent": "16 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "228 mg",
+    "sugarContent": "5 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DZEc-b5HqPMN9wm6h8uPOzkeYn0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/862393-422bf57cea344a09bf9d0d87156b93d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19381/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

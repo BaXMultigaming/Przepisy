@@ -1,0 +1,77 @@
+{
+  "id": "19663",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19663/hot-raspberry-spread/",
+  "requested_url": "https://www.allrecipes.com/recipe/19663/hot-raspberry-spread/",
+  "title": "Hot Raspberry Spread",
+  "description": "A spicy-hot raspberry spread. Serve this with your favorite crackers.",
+  "authors": [
+    "Walker"
+  ],
+  "date_published": "2000-01-02T17:39:39-05:00",
+  "date_modified": "2022-07-14T18:13:15-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) jar raspberry preserves",
+    "1 (16 ounce) jar picante sauce",
+    "1 (8 ounce) package cream cheese, softened"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix together raspberry preserves and picante sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place cream cheese on a medium serving dish. Cover with raspberry preserves and picante sauce mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "44 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "8 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "58 mg",
+    "sugarContent": "4 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LQE7OlCKFoiY1-hbs8UtWT_Mfc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060375-f715c0177ba54d1e9ded70b85adbad5f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19663/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

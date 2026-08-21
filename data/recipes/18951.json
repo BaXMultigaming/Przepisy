@@ -1,0 +1,76 @@
+{
+  "id": "18951",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18951/quick-berry-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/18951/quick-berry-milkshake/",
+  "title": "Quick Berry Milkshake",
+  "description": "Mixed berries, milk, sugar, vanilla and ice cubes. Quick and berry-licious.",
+  "authors": [
+    "Lisa"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-04-17T08:04:36-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT4M",
+  "total_time": "PT9M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4.5 cups ice cubes",
+    "2 cups milk",
+    "0.33300000429153 cup white sugar",
+    "2 cups frozen mixed berries",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Fill the blender 3/4 full of ice cubes. Pour in the milk, sugar, berries and vanilla. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "167 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "36 mg",
+    "sugarContent": "15 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HR4WFiVXc_0AxDWVMCh_8XzWS1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18951-Quick-Berry-Milkshake-mominml-1a37139d52f14326bf068695240f5c09.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18951/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

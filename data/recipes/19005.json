@@ -1,0 +1,107 @@
+{
+  "id": "19005",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19005/chocolate-chip-cookie-ice-cream-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/19005/chocolate-chip-cookie-ice-cream-cake/",
+  "title": "Chocolate Chip Cookie Ice Cream Cake",
+  "description": "A delectable ice cream cookie cake dessert. Use your favorite ice cream flavors and a cookie crust, topped with whipped cream, fudge and cherries.",
+  "authors": [
+    "Arvilla"
+  ],
+  "date_published": "2000-06-17T07:43:59-04:00",
+  "date_modified": "2022-09-06T15:45:57-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT305M",
+  "yield": [
+    "12",
+    "1 9-inch round cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (18 ounce) package small chocolate chip cookies",
+    "0.25 cup margarine, melted",
+    "1 cup hot fudge topping, divided",
+    "2 quarts vanilla ice cream, divided",
+    "1 cup whipped cream",
+    "12 cherries"
+  ],
+  "steps": [
+    {
+      "text": "Crush 1/2 of the cookies (about 20) to make crumbs. Combine crumbs with melted margarine and press into the bottom of a 9-inch springform pan or pie plate. Stand remaining cookies around the edge of the pan. Spread 3/4 cup fudge topping over crust. Freeze for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, soften 1 quart ice cream in the microwave or on the countertop. After crust has chilled, spread softened ice cream over the fudge layer. Freeze 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Scoop remaining quart of ice cream into balls and arrange over the spread ice cream layer. Freeze until firm, 4 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To serve, garnish with remaining fudge topping, whipped cream, and cherries.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CMf-hAZLHinZLl54kT2rOKB4Dlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/450406-402cc39656a14a59b647c8d2863bfcfa.jpg"
+      ],
+      "image": "assets/images/19005/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "533 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "316 mg",
+    "sugarContent": "47 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "373"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/1dtjykMx-ma1DlVvV.mp4",
+    "description": "AR1227",
+    "duration": "PT3M47S",
+    "name": "Chocolate Chip Cookie Ice Cream Cake",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1dtjykMx/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T20:50:37-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CMf-hAZLHinZLl54kT2rOKB4Dlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/450406-402cc39656a14a59b647c8d2863bfcfa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19005/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/19005/step_04.webp"
+    ]
+  }
+}

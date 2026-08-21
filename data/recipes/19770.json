@@ -1,0 +1,106 @@
+{
+  "id": "19770",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19770/gazpacho/",
+  "requested_url": "https://www.allrecipes.com/recipe/19770/gazpacho/",
+  "title": "Easy Gazpacho",
+  "description": "Gazpacho is a refreshing Spanish soup, made with fresh tomatoes blended with cucumber, garlic, and lemon, that&#39;s perfect served cold on hot summer days.",
+  "authors": [
+    "Kara"
+  ],
+  "date_published": "2000-06-29T14:21:20-04:00",
+  "date_modified": "2025-12-10T14:18:46-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT140M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Spanish"
+  ],
+  "regions": [
+    "Spanish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups tomato juice",
+    "2 cups chopped tomatoes",
+    "1 onion, minced",
+    "1 green bell pepper, minced",
+    "1 cucumber, chopped",
+    "2 green onions, chopped",
+    "0.25 cup chopped fresh parsley",
+    "3 tablespoons fresh lemon juice",
+    "2 tablespoons red wine vinegar",
+    "1 clove garlic, minced",
+    "1 teaspoon dried tarragon",
+    "1 teaspoon dried basil",
+    "1 teaspoon white sugar",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/S8P-PzCicR9bqWB6SwfQCSMlYnw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19770-gazpacho-VAT-010-step-01-71e07a03fda1433cafaead8be730de0d.jpg"
+      ],
+      "image": "assets/images/19770/step_01.webp"
+    },
+    {
+      "text": "Combine tomato juice, tomatoes, onion, bell pepper, cucumber, green onions, parsley, lemon juice, red wine vinegar, garlic, tarragon, basil, sugar, salt, and pepper in a blender or food processor. Blend until well combined but still slightly chunky.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JuaiNMDjY6shc8VE89rKu_VM-Ds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19770-gazpacho-VAT-011-step-02-d1a23d18f1db4311a79ed2fec625543f.jpg"
+      ],
+      "image": "assets/images/19770/step_02.webp"
+    },
+    {
+      "text": "Pour into a serving bowl and cover. Place in the refrigerator to chill before serving, at least 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JPDuaeP09J7lc6PBbSIj-w6tcPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19770-gazpacho-VAT-012-step-03-d5354cf57cea4f33807ea18b6b1e0d65.jpg"
+      ],
+      "image": "assets/images/19770/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "39 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "305 mg",
+    "sugarContent": "6 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "254"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dAMtu2xJVyC-8YqMygbZByThoOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19770-gazpacho-VAT-003-4x3-0ab2d3a37c554cf2acda1068d138cafe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19770/hero.webp",
+    "steps": [
+      "assets/images/19770/step_01.webp",
+      "assets/images/19770/step_02.webp",
+      "assets/images/19770/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "18510",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18510/frozen-no-bake-pumpkin-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/18510/frozen-no-bake-pumpkin-pie/",
+  "title": "Frozen No-Bake Pumpkin Pie",
+  "description": "Ice cream style pumpkin pie.",
+  "authors": [
+    "Jackie"
+  ],
+  "date_published": "2000-07-07T23:59:50-04:00",
+  "date_modified": "2022-07-14T16:30:49-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (5 ounce) package instant vanilla pudding mix",
+    "1 (15 ounce) can pumpkin",
+    "1 cup milk",
+    "0.5 teaspoon ground nutmeg",
+    "0.5 teaspoon ground ginger",
+    "0.5 teaspoon ground cinnamon",
+    "1 cup frozen whipped topping, thawed",
+    "1 (9 inch) prepared graham cracker crust"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, combine pudding, pumpkin, milk, nutmeg, ginger, and cinnamon. Mix slowly for about 1 minute. Fold whipped topping into the mixture then spoon entire mixture into pie shell. Freeze until firm (about 4 hours). Let stand at room temperature for about 10 minutes before slicing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "213 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "337 mg",
+    "sugarContent": "14 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8vcQlrFj7VXiwbIsTX0LYS1qQ3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060921-7df247711bdb438abbc17dd58c7a9071.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18510/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

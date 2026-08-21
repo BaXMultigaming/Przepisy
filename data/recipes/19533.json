@@ -1,0 +1,94 @@
+{
+  "id": "19533",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19533/giblet-gravy-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/19533/giblet-gravy-ii/",
+  "title": "Easy Giblet Gravy",
+  "description": "This easy giblet gravy recipe is an old-fashioned, delicious turkey gravy, simple to make and perfect for your Thanksgiving or holiday table.",
+  "authors": [
+    "Bode"
+  ],
+  "date_published": "1999-11-21T05:47:26-05:00",
+  "date_modified": "2026-01-06T16:40:33-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons turkey drippings",
+    "3 tablespoons all-purpose flour",
+    "2.5 cups turkey stock",
+    "0.25 cup cooked turkey giblets, chopped",
+    "0.5 tablespoon chopped fresh sage",
+    "0.5 teaspoon ground black pepper",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat pan drippings in a large skillet over medium heat; gradually add flour and stir until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slowly whisk in turkey stock until blended and smooth. Stir in giblets, and season with sage, pepper, and salt. Bring to a boil, reduce heat, and simmer for 8 to 10 minutes, or until thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0Mw2lw3_iLXRiKUusVQIlZvjBvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1685602-8de7536e13f64deb9423e5cb195e874d.jpg"
+      ],
+      "image": "assets/images/19533/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "79 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "148 mg",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "121"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/TvLCl6au-K3AjnAEN.mp4",
+    "description": "In this video you'll see how to make a flavorful gravy. First you'll cook a roux and whisk in turkey stock (and drippings if you like). Then some cooked turkey giblets are seasoned with fresh herbs and seasonings and boiled until the sauce is smooth and thickened. Now bring on the roasted turkey and creamy mashed potatoes!",
+    "duration": "PT1M57S",
+    "name": "Giblet Gravy II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/TvLCl6au/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T06:53:27-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0Mw2lw3_iLXRiKUusVQIlZvjBvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1685602-8de7536e13f64deb9423e5cb195e874d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19533/hero.webp",
+    "steps": [
+      null,
+      "assets/images/19533/step_02.webp"
+    ]
+  }
+}

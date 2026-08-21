@@ -1,0 +1,91 @@
+{
+  "id": "18914",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18914/red-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/18914/red-beans/",
+  "title": "Red Beans",
+  "description": "Beans with pure Latin flavor. Accented with potatoes, pumpkin, ham, garlic, and cilantro, this side dish could steal the show!",
+  "authors": [
+    "Rossana"
+  ],
+  "date_published": "2000-07-03T17:06:29-04:00",
+  "date_modified": "2022-08-08T10:45:42-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "regions": [
+    "Caribbean"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 small onion, chopped",
+    "1 small green bell pepper, chopped",
+    "2 cloves garlic, chopped",
+    "1 tablespoon fresh cilantro leaves",
+    "1 teaspoon annatto or achiote powder",
+    "1 tablespoon olive oil",
+    "0.5 cup diced ham",
+    "1 (16.5 ounce) can red beans, drained",
+    "1 cup peeled and diced potatoes",
+    "0.5 cup peeled and diced pumpkin",
+    "1 cup water",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor, puree onion, bell pepper, garlic, cilantro, and annatto powder. Set mixture aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large, heavy saucepan over medium heat. Pour in olive oil and saute ham with pureed mixture for 10 minutes, until browned. Mix in beans, potatoes, pumpkin, water, and salt. Reduce heat to low and simmer, stirring occasionally, for approximately 25 minutes, until mixture thickens and potatoes and pumpkin are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "465 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qqF_qSbFUNF0CyjJHr23kE3oDBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/705295-4664725cfee64eee8aa86f08d2cab82b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18914/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

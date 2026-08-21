@@ -1,0 +1,79 @@
+{
+  "id": "19415",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19415/creamy-mushroom-macaroni/",
+  "requested_url": "https://www.allrecipes.com/recipe/19415/creamy-mushroom-macaroni/",
+  "title": "Creamy Mushroom Macaroni",
+  "description": "A quick macaroni dish that makes use of mushroom soup and processed cheese.",
+  "authors": [
+    "Dara"
+  ],
+  "date_published": "2000-06-14T20:27:59-04:00",
+  "date_modified": "2022-07-14T15:45:30-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package elbow macaroni",
+    "1 tablespoon butter",
+    "0.33000001311302 cup milk",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "1 pound processed cheese food, cubed"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In medium saucepan over medium heat, combine butter, milk, mushroom soup and processed cheese. Stir until cheese is melted and mixture is smooth. Stir in cooked pasta. Pour into 2 quart baking dish and bake 20 minutes or until top is golden brown. Let stand 10 minutes and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "735 kcal",
+    "carbohydrateContent": "82 g",
+    "cholesterolContent": "66 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "1296 mg",
+    "sugarContent": "3 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3cfUW-2hbu1Kr48CLMCBVlvwKV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7790251-01431a879e484a47b7cd139c0bf383d4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19415/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

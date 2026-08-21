@@ -1,0 +1,88 @@
+{
+  "id": "19388",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19388/gazpacho-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/19388/gazpacho-pasta-salad/",
+  "title": "Gazpacho Pasta Salad",
+  "description": "This gazpacho pasta salad recipe combines a lime-tomato dressing with spicy jalapeño for an eye-opening kick. Add chicken or shrimp to make it a meal!",
+  "authors": [
+    "JEFFANDREW"
+  ],
+  "date_published": "2000-05-29T08:52:12-04:00",
+  "date_modified": "2025-07-10T08:45:26-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT150M",
+  "yield": [
+    "6",
+    "6 cups"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound rotelle pasta",
+    "2 tomatoes, chopped",
+    "1 cucumber",
+    "1 cup chopped green bell pepper",
+    "6 fluid ounces tomato juice",
+    "4 green onions, chopped",
+    "1 jalapeno pepper, seeded and minced",
+    "0.25 cup olive oil",
+    "0.25 cup fresh lime juice",
+    "1 clove garlic, crushed",
+    "0.25 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil. Stir in rotelle pasta and return to a boil. Cook pasta, uncovered, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine pasta, tomatoes, cucumber, bell pepper, tomato juice, green onions, jalapeño, oil, lime juice, and garlic; season with salt and black pepper. Refrigerate for 2 hours. Toss before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "244 kcal",
+    "carbohydrateContent": "34 g",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "108 mg",
+    "sugarContent": "5 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "63"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uAb1ooYjQWapbWg3MiI5_3aK27U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19388gazpacho-pasta-saladsouplovingnicole-aafdb0174c5342f7ac537db7da868f3d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19388/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

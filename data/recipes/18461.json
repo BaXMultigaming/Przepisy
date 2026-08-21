@@ -1,0 +1,67 @@
+{
+  "id": "18461",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18461/mock-sour-cream-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/18461/mock-sour-cream-i/",
+  "title": "Mock Sour Cream I",
+  "description": "If you find you are out of sour cream for a recipe try this alternative.",
+  "authors": [
+    "Brenda Ward"
+  ],
+  "date_published": "2000-05-10T15:50:43-04:00",
+  "date_modified": "2022-07-14T15:58:08-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "1 cup"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup low-fat cottage cheese",
+    "0.25 cup plain yogurt",
+    "0.5 teaspoon lemon juice",
+    "1 packet artificial sweetener"
+  ],
+  "steps": [
+    {
+      "text": "Using a blender or food processor, blend cottage cheese, yogurt, lemon juice and artificial sweetener until smooth. Can be kept in refrigerator for up to one week.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "97 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "11 mg",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "358 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qgDv2kg8Yq41l3e61wp5swlbh94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/636400-8a00540e9eae49c2861196d140f6a21f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18461/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

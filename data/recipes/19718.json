@@ -1,0 +1,111 @@
+{
+  "id": "19718",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19718/creamed-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/19718/creamed-eggs/",
+  "title": "Creamed Eggs",
+  "description": "Creamed eggs are made with chopped hard-boiled eggs and a creamy béchamel sauce for a tasty breakfast and a great way to use leftover eggs at Easter!",
+  "authors": [
+    "Joyce"
+  ],
+  "date_published": "2000-05-04T22:36:29-04:00",
+  "date_modified": "2026-05-13T12:00:15-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 eggs",
+    "2 tablespoons butter",
+    "2 tablespoons all-purpose flour",
+    "2 cups milk",
+    "0.125 teaspoon ground white pepper, if desired",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Hjyf8b36zi-GSxT-F-Y1cpWxgq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19718-creamed-eggs-DDMFS-step01-8d1f624f3ca8453ea7f4d9a97fa2566a.jpg"
+      ],
+      "image": "assets/images/19718/step_01.webp"
+    },
+    {
+      "text": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/dqZvmRnQKrx5EgV8WJhs06jkSBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19718-creamed-eggs-DDMFS-step02-27648a5cfb284d22b6b8ee7025fa4e1f.jpg"
+      ],
+      "image": "assets/images/19718/step_02.webp"
+    },
+    {
+      "text": "Melt butter in a saucepan over medium heat; stir in flour until smooth. Gradually mix in milk so that no lumps form and stir constantly until mixture comes to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FKJSQn3j5Hdi7-ICvPscAhkEeX4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19718-creamed-eggs-DDMFS-step03-5b0d8c7f16404482b1722f74c1555323.jpg"
+      ],
+      "image": "assets/images/19718/step_03.webp"
+    },
+    {
+      "text": "Stir white pepper, salt, black pepper, and chopped eggs into the sauce; stir until eggs are heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/i13bUYWPUlG8YmlKQbAtiF5kNRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19718-creamed-eggs-DDMFS-step04-900f5114a1e44449879424a172ff7f9f.jpg"
+      ],
+      "image": "assets/images/19718/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "312 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "405 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "261 mg",
+    "sugarContent": "8 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "144"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ert9JWSta7ZP_euaqzIbUP8_h7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19718-creamed-eggs-DDMFS-beauty-4x3-cb8c529436074a8799c7408393c21ad7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19718/hero.webp",
+    "steps": [
+      "assets/images/19718/step_01.webp",
+      "assets/images/19718/step_02.webp",
+      "assets/images/19718/step_03.webp",
+      "assets/images/19718/step_04.webp"
+    ]
+  }
+}

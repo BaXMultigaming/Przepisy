@@ -1,0 +1,71 @@
+{
+  "id": "18961",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18961/pineapple-delight-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/18961/pineapple-delight-smoothie/",
+  "title": "Pineapple Delight Smoothie",
+  "description": "A refreshing healthy smoothie with bananas, pineapple, milk and honey.",
+  "authors": [
+    "Cindy"
+  ],
+  "date_published": "2000-07-01T12:45:56-04:00",
+  "date_modified": "2022-07-14T18:09:07-04:00",
+  "prep_time": "PT2M",
+  "cook_time": null,
+  "total_time": "PT2M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "2 bananas, frozen and chunked",
+    "6 pineapple rings",
+    "1 tablespoon honey"
+  ],
+  "steps": [
+    {
+      "text": "In a blender combine milk, frozen bananas, pineapple and honey. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "197 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "58 mg",
+    "sugarContent": "33 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Gvl0SrOycNVKYbFlybsF5-Q3HfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4564970-d9a38ef7c7174a87afadb109998d0821.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18961/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

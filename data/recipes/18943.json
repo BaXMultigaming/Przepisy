@@ -1,0 +1,73 @@
+{
+  "id": "18943",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18943/italian-cream-soda/",
+  "requested_url": "https://www.allrecipes.com/recipe/18943/italian-cream-soda/",
+  "title": "Italian Cream Soda",
+  "description": "A watermelon and passion fruit flavored Italian cream soda.",
+  "authors": [
+    "Darien Q"
+  ],
+  "date_published": "2000-07-01T04:48:39-04:00",
+  "date_modified": "2022-07-14T16:08:16-04:00",
+  "prep_time": "PT1M",
+  "cook_time": null,
+  "total_time": "PT1M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 fluid ounces carbonated water",
+    "0.75 fluid ounce passion fruit flavored syrup",
+    "0.75 fluid ounce watermelon flavored syrup",
+    "1 fluid ounce half-and-half cream"
+  ],
+  "steps": [
+    {
+      "text": "Fill a tall glass half full with ice. Fill to 2/3 with carbonated water. Pour in watermelon and passion fruit flavored syrups, then float the half-and-half cream on top. Stir when ready to drink.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "190 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "11 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "38 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SBMWTBvC6otdCOO3PnTVvn1hpTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14155-b6efaf9ef39944d98142036857f4860b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18943/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

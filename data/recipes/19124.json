@@ -1,0 +1,130 @@
+{
+  "id": "19124",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19124/alice-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/19124/alice-chicken/",
+  "title": "Alice Chicken",
+  "description": "Make Alice Springs chicken with this copycat recipe for juicy chicken topped with bacon, cheese, sautéed mushrooms, and honey mustard dressing.",
+  "authors": [
+    "LABORDAY"
+  ],
+  "date_published": "2000-06-19T11:51:18-04:00",
+  "date_modified": "2023-02-16T19:20:29-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT95M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves",
+    "5 fluid ounces Worcestershire sauce",
+    "8 slices bacon",
+    "2 tablespoons butter",
+    "8 ounces fresh mushrooms, sliced",
+    "1 (8 ounce) package Monterey Jack cheese, shredded",
+    "0.5 cup honey mustard salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Place chicken into a glass dish or bowl. Poke chicken several times with a fork; pour in Worcestershire sauce and turn chicken until coated. Cover and refrigerate for about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook bacon in a deep skillet over medium-high heat until evenly browned, 6 to 8 minutes. Drain on a paper towel-lined plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the bacon is cooking, melt butter in a small skillet over medium heat. Add mushrooms and sauté until soft, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Set an oven rack about 6 inches from the heat source and preheat the oven's broiler.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove chicken from marinade and shake off excess. Discard remaining marinade. Place chicken into a baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Broil chicken in the preheated oven until no longer pink in the center and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). During the last few minutes of cooking, top each breast with 2 slices bacon and 2 ounces Monterey Jack cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Top chicken breasts with sautéed mushrooms and drizzle salad dressing over top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/J6J59lTiJsj9K3izVRwl3h2vzQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/596628-alice-chicken-Sherri-1x1-1-4e4518b5eed1411bbaf4d4aff11884a2.jpg"
+      ],
+      "image": "assets/images/19124/step_07.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "670 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "103 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "24 g",
+    "sodiumContent": "1412 mg",
+    "fatContent": "58 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "920"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/hsMR7LxX-ma1DlVvV.mp4",
+    "description": "AR0509",
+    "duration": "PT3M46S",
+    "name": "Alice Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/hsMR7LxX/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T08:44:14-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/J6J59lTiJsj9K3izVRwl3h2vzQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/596628-alice-chicken-Sherri-1x1-1-4e4518b5eed1411bbaf4d4aff11884a2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19124/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "assets/images/19124/step_07.webp"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "19383",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19383/debs-mac-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/19383/debs-mac-salad/",
+  "title": "Deb&#39;s Mac Salad",
+  "description": "A macaroni salad with carrot, bell pepper, onion and ranch-style dressing.",
+  "authors": [
+    "Debbie Sims"
+  ],
+  "date_published": "2000-07-04T18:17:50-04:00",
+  "date_modified": "2022-07-14T16:09:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups macaroni",
+    "1 small onion, chopped",
+    "1 green bell pepper, chopped",
+    "1 carrot, grated",
+    "0.25 cup mayonnaise",
+    "0.25 cup Ranch-style salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Rinse with cold water and place in large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add onion, pepper and carrot to bowl with pasta. Toss with mayonnaise and ranch-style dressing. Adjust mayonnaise and dressing to taste. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "399 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "235 mg",
+    "sugarContent": "4 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GFFeWivTqdqU2syIvHumzwXrgqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/648799-3e5b04c654274c2ab6a542f0a346b793.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19383/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "19670",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19670/sweet-and-sour-sauce-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/19670/sweet-and-sour-sauce-i/",
+  "title": "Sweet and Sour Sauce",
+  "description": "Sweet and sour sauce made with sugar, vinegar, soy sauce, and ketchup. Delicious with meatballs and rice or a dipping sauce for spring rolls.",
+  "authors": [
+    "NAG_CA"
+  ],
+  "date_published": "2000-04-07T10:50:48-04:00",
+  "date_modified": "2026-03-23T10:50:42-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Asian Inspired",
+    "Asian"
+  ],
+  "regions": [
+    "Asian Inspired",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup white sugar",
+    "0.66666668653488 cup water",
+    "0.33333334326744 cup white vinegar",
+    "0.25 cup soy sauce",
+    "2 tablespoons cornstarch",
+    "1 tablespoon ketchup"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/erGQBEwzwVoaEhzHBvbAkhBUom8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19670-sweet-and-sour-sauce-step1-3x4-013506441217-62246d79f97b466886f5544331f8f393.jpg"
+      ],
+      "image": "assets/images/19670/step_01.webp"
+    },
+    {
+      "text": "Place sugar, water, vinegar, soy sauce, cornstarch, and ketchup in a medium saucepan and bring to a boil. Stir continuously until mixture has thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/HoHJc80MveiiRQFT3LD7I0kufeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19670-sweet-and-sour-sauce-step3-3x4-013506441223-e794bd59216e4949bfc2c32814a7bba1.jpg"
+      ],
+      "image": "assets/images/19670/step_02.webp"
+    },
+    {
+      "text": "Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/5Ly7FD5tB3FlP1bkm7DpefQ1Gws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19670-sweet-and-sour-sauce-beauty-3x4-013506441223-dee122489d664f7a891e97e5c0d357ef.jpg"
+      ],
+      "image": "assets/images/19670/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "11 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "236 mg",
+    "sugarContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1092"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/UOAHweYu-K3AjnAEN.mp4",
+    "description": "Learn how to make the perfect sweet and sour sauce with this easy-to-follow video. This versatile sauce is a delicious blend of tangy and sweet flavors, perfect for pairing with chicken, pork, shrimp, or as a dipping sauce.",
+    "duration": "PT16S",
+    "name": "How to Make Sweet and Sour Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/UOAHweYu/thumbnails/9hqYp8RZ.jpg?width=1280",
+    "uploadDate": "2024-07-30T11:24:01-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5Ly7FD5tB3FlP1bkm7DpefQ1Gws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19670-sweet-and-sour-sauce-beauty-3x4-013506441223-dee122489d664f7a891e97e5c0d357ef.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19670/hero.webp",
+    "steps": [
+      "assets/images/19670/step_01.webp",
+      "assets/images/19670/step_02.webp",
+      "assets/images/19670/step_03.webp"
+    ]
+  }
+}

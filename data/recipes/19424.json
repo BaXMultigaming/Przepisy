@@ -1,0 +1,87 @@
+{
+  "id": "19424",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19424/macaroni-and-cheese-bake/",
+  "requested_url": "https://www.allrecipes.com/recipe/19424/macaroni-and-cheese-bake/",
+  "title": "Macaroni and Cheese Bake",
+  "description": "Elbow macaroni is baked in a casserole with canned chicken soup, sliced tomatoes and processed cheese slices.",
+  "authors": [
+    "Bonneroo"
+  ],
+  "date_published": "2000-04-05T10:21:26-04:00",
+  "date_modified": "2022-01-14T01:19:04-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "10",
+    "1 9x13 dish"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (10.75 ounce) cans condensed cream of chicken soup",
+    "0.75 cup milk",
+    "1 pound elbow macaroni",
+    "4 tomatoes, sliced",
+    "12 slices processed sharp Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). In a medium saucepan, heat soup and milk over medium heat until simmering. Remove from heat and stir in macaroni. Pour macaroni mixture into 9x13 baking dish. Place a layer of tomatoes, then a layer of cheese slices over macaroni. Repeat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 25 minutes or until cheese is golden and bubbly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "316 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "763 mg",
+    "sugarContent": "5 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "63"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jiS_TQ0nqqK3GwyHr44jcMyW-nc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1125665-5e61b02e45c443e190075c84d2dff5c0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19424/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

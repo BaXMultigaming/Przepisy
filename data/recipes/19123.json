@@ -1,0 +1,86 @@
+{
+  "id": "19123",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19123/acapulco-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/19123/acapulco-chicken/",
+  "title": "Acapulco Chicken",
+  "description": "A spicy sauté of chicken breast, tomato, onion, bell pepper, jalapeños and hot pepper sauce in this easy Acapulco chicken dish.",
+  "authors": [
+    "CapeCodLorrie"
+  ],
+  "date_published": "2000-05-24T22:22:51-04:00",
+  "date_modified": "2026-01-24T17:27:37-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large skinless, boneless chicken breast halves - cut into bite-size pieces",
+    "1 tablespoon chili powder, divided",
+    "salt and pepper to taste",
+    "1 tablespoon olive oil",
+    "1 cup chopped green bell pepper",
+    "0.5 cup chopped onion",
+    "2 jalapeno peppers, seeded and minced",
+    "1 large tomato, cut into chunks",
+    "10 drops hot pepper sauce"
+  ],
+  "steps": [
+    {
+      "text": "Season chicken with 1/2 tablespoon chili powder, salt, and pepper. Heat oil in a large skillet over medium-high heat and sauté seasoned chicken for 3 to 4 minutes, or until no longer pink. Remove from skillet with a slotted spoon and keep warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In the same skillet, stir-fry bell pepper and onion until soft. Add jalapeño peppers, tomatoes, remaining 1/2 tablespoon chili powder, and hot pepper sauce. Cook, stirring, for an additional 3 to 5 minutes; add chicken and stir-fry for 2 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "333 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "72 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "636 mg",
+    "sugarContent": "6 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "391"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LoASLa1xLPOL4amC8w1oqARPAvA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19123acapulco-chickenlutzflcat4x3-98ce19b7a2c747e0861f1232869843e8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19123/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

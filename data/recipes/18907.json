@@ -1,0 +1,76 @@
+{
+  "id": "18907",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18907/mexican-corn/",
+  "requested_url": "https://www.allrecipes.com/recipe/18907/mexican-corn/",
+  "title": "Mexican Corn",
+  "description": "Corn simmered with cream cheese, butter, jalapeno peppers and garlic.",
+  "authors": [
+    "snoopincorp"
+  ],
+  "date_published": "2000-06-24T11:55:10-04:00",
+  "date_modified": "2026-03-02T13:24:14-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (15.25 ounce) cans whole kernel corn, drained",
+    "1 (8 ounce) package cream cheese",
+    "0.25 cup butter",
+    "10 jalapeno peppers, chopped",
+    "1 teaspoon garlic salt"
+  ],
+  "steps": [
+    {
+      "text": "In a medium saucepan combine corn, cream cheese, butter, jalapeno peppers and garlic salt. Cook over medium heat for about 10 minutes or until heated through, stirring constantly after cream cheese begins to melt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "359 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "491 mg",
+    "sugarContent": "7 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "395"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/m14-3QVOE7DHOlH5NpKWwKEzz6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18907-mexican-corn-VAT-Beauty-4x3-e8f613eee2c04641a9d2a776ccdabcd5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18907/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

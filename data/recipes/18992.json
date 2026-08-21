@@ -1,0 +1,83 @@
+{
+  "id": "18992",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18992/uncooked-banana-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/18992/uncooked-banana-pudding/",
+  "title": "Uncooked Banana Pudding",
+  "description": "Quick and easy banana pudding with sour cream, milk, pudding mix, bananas, and whipped topping. No standing over a hot stove, just stir, layer, and serve.",
+  "authors": [
+    "LeAnne"
+  ],
+  "date_published": "2000-05-27T22:37:53-04:00",
+  "date_modified": "2026-04-28T22:22:23-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups whole milk",
+    "8 ounces sour cream",
+    "1 (8 ounce) container frozen whipped topping, thawed",
+    "1 (5 ounce) package instant vanilla pudding mix",
+    "1 (16 ounce) package vanilla wafer cookies",
+    "4 medium bananas, peeled and sliced"
+  ],
+  "steps": [
+    {
+      "text": "Stir milk, sour cream, whipped topping, and pudding mix together in a bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place a layer of cookies in the bottom of a trifle bowl; cover with a layer of pudding mixture, then a layer of bananas. Repeat until all ingredients are used.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "446 kcal",
+    "carbohydrateContent": "64 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "371 mg",
+    "sugarContent": "21 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "654"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_MZOBkIKZzSkZU1MXsWLHqn9YYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/806045-042c623485084d2abf4deafaf7e37b5d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18992/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

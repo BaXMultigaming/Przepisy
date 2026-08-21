@@ -1,0 +1,88 @@
+{
+  "id": "19396",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19396/not-red-spaghetti-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/19396/not-red-spaghetti-sauce/",
+  "title": "Not Red Spaghetti Sauce",
+  "description": "Italian sausage, mushrooms, zucchini and green onions are sauteed with sherry for an alternative pasta sauce.",
+  "authors": [
+    "Sheila"
+  ],
+  "date_published": "2000-05-31T18:48:16-04:00",
+  "date_modified": "2022-07-14T17:56:36-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds Italian sausage",
+    "4 ounces fresh mushrooms, sliced",
+    "0.5 cup butter",
+    "2 cubes chicken bouillon",
+    "0.5 cup sherry",
+    "1.5 pounds zucchini, sliced",
+    "0.5 cup chopped green onion",
+    "1 (16 ounce) package spaghetti"
+  ],
+  "steps": [
+    {
+      "text": "In large skillet, over medium heat, cook sausage and mushrooms in butter, until sausage is brown. Add bouillon cubes and sherry and stir until bouillon is dissolved. Add zucchini and onion and cook, uncovered, until zucchini is crisp-tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the sauce is cooking, bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until cooked through but firm to the bite, about 12 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve pasta sauce over hot spaghetti.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "726 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "1566 mg",
+    "sugarContent": "5 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "98"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mitSVX-ZTDCn9gOLOnTSYEyFMjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/622256-a2d142eae3da4e9a8624a8ee8cb7d2eb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19396/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

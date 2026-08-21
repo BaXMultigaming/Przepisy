@@ -1,0 +1,79 @@
+{
+  "id": "19016",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19016/peanut-butter-candy-bars/",
+  "requested_url": "https://www.allrecipes.com/recipe/19016/peanut-butter-candy-bars/",
+  "title": "Peanut Butter Candy Bars",
+  "description": "No-bake bars with a peanut butter graham cracker base and a chocolate top.",
+  "authors": [
+    "KARILK"
+  ],
+  "date_published": "2000-06-01T17:43:42-04:00",
+  "date_modified": "2019-04-02T02:40:30-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "35",
+    "1 -10x15 pan"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups margarine, melted",
+    "2 cups peanut butter",
+    "4.5 cups confectioners' sugar",
+    "2 cups graham cracker crumbs",
+    "0.5 cup margarine",
+    "2 cups semisweet chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Grease a 10x15 inch pan. In a large bowl, combine 1 1/2 cups melted margarine, peanut butter, confectioners' sugar and graham cracker crumbs. Spread in prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine 1/2 cup margarine and chocolate chips in a medium saucepan over medium-low heat. Stir occasionally until melted and smooth. Spread over peanut butter mixture. Let cool completely before cutting into bars.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "305 kcal",
+    "carbohydrateContent": "28 g",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "218 mg",
+    "sugarContent": "23 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "149"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RkC9jh2-3GxouZ4PDd4jIHkzMoA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23197-e8ab8bfddb4b409f96ffcbbc3cb7db5c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19016/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

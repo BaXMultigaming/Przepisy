@@ -1,0 +1,74 @@
+{
+  "id": "18930",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18930/chocolate-strawberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/18930/chocolate-strawberry-smoothie/",
+  "title": "Chocolate Strawberry Smoothie",
+  "description": "Start your day with a tasty yogurt-based chocolate and strawberry smoothie made with frozen fruit, plain yogurt, and a touch of chocolate syrup.",
+  "authors": [
+    "Cindy"
+  ],
+  "date_published": "2020-06-18T23:02:24-04:00",
+  "date_modified": "2023-07-13T15:48:11-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 bananas, frozen and chunked",
+    "0.5 cup frozen strawberries",
+    "2 tablespoons chocolate syrup",
+    "1 cup plain yogurt"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine bananas, strawberries, chocolate syrup, and yogurt. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "248 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "101 mg",
+    "sugarContent": "34 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DkxgaYC9W5EiXaHIVcbZ-Xh2X7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9205764-6b72a921e34a46b1aca6b2066d517e59.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18930/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

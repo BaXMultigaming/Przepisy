@@ -1,0 +1,80 @@
+{
+  "id": "19752",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19752/caribbean-holiday-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/19752/caribbean-holiday-shrimp/",
+  "title": "Caribbean Holiday Shrimp",
+  "description": "Cooked shrimp marinated in ginger, lime juice, garlic, soy sauce and cilantro.",
+  "authors": [
+    "Sue"
+  ],
+  "date_published": "1999-10-23T16:24:35-04:00",
+  "date_modified": "2022-07-14T18:02:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "regions": [
+    "Caribbean"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "2 tablespoons minced fresh ginger root",
+    "2 limes, juiced",
+    "2 cloves garlic, minced",
+    "1 tablespoon soy sauce",
+    "0.5 teaspoon white sugar",
+    "0.5 teaspoon crushed red pepper flakes",
+    "2 pounds large cooked shrimp, peeled, tails on",
+    "0.5 cup chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl combine oil, ginger, lime juice, garlic, soy sauce, sugar and red pepper; mix well. Stir in shrimp and cilantro. Cover and refrigerate 1 to 4 hours before serving. Stir occasionally while chilling.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "221 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "369 mg",
+    "sugarContent": "1 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "149"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DXohYxcsx6JROJa2k0S98kejfxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4008961-13852ee166cd4641a61ffaac362896a9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19752/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "18486",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18486/cookie-salad-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/18486/cookie-salad-i/",
+  "title": "Cookie Salad",
+  "description": "This delicious cookie salad made with vanilla pudding, buttermilk, mandarin oranges, pineapple, and whipped topping is loaded with fudge stripe cookies.",
+  "authors": [
+    "JT jan"
+  ],
+  "date_published": "2000-04-22T11:43:28-04:00",
+  "date_modified": "2025-12-31T17:18:35-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (3.4 ounce) packages instant vanilla pudding mix",
+    "2 cups buttermilk",
+    "12 ounces frozen whipped topping, thawed",
+    "1 (20 ounce) can pineapple chunks, drained",
+    "2 (11 ounce) cans mandarin oranges, drained",
+    "0.5 (11.5 ounce) package fudge stripe cookies"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ys3ib1GWoyj0ZKy0C6g-s07PHpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18486-cookie-salad-i-DDMFS-step01-119-4-d9164dc8a83c44b1ace510de4202fbe6.jpg"
+      ],
+      "image": "assets/images/18486/step_01.webp"
+    },
+    {
+      "text": "Mix pudding mix and buttermilk together in a large bowl; fold in whipped topping. Mix in pineapple chunks and mandarin oranges; cover and chill until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NoKoS7rvJAIbeuPKgixh6CDeWxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18486-cookie-salad-i-DDMFS-step02-121-4-75f80bd3173a458f908f3242f63cdabe.jpg"
+      ],
+      "image": "assets/images/18486/step_02.webp"
+    },
+    {
+      "text": "Crush cookies and mix in just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/itcwPvFYGTgLHWdGQvnPM_XuONw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18486-cookie-salad-i-DDMFS-step03-124-4-d477b2aae0684b76a5e77301fc25feec.jpg"
+      ],
+      "image": "assets/images/18486/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500 kcal",
+    "carbohydrateContent": "73 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "291 mg",
+    "sugarContent": "61 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "142"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Z0t4oEdRsPhwlgGuWwdRDlMwGvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18486-cookie-salad-i-VAT-002-4x3-A-d9c5ddfc261649b8a3062618b12c8cb3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18486/hero.webp",
+    "steps": [
+      "assets/images/18486/step_01.webp",
+      "assets/images/18486/step_02.webp",
+      "assets/images/18486/step_03.webp"
+    ]
+  }
+}

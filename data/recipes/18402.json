@@ -1,0 +1,82 @@
+{
+  "id": "18402",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18402/amby-raes-cucumber-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/18402/amby-raes-cucumber-salad/",
+  "title": "Amby Rae&#39;s Cucumber Salad",
+  "description": "This is my simplest and easiest recipe yet for cucumber salad, my specialty! If you&#39;re not a sour cream fan, substituting plain yogurt works great.",
+  "authors": [
+    "Amber Smith"
+  ],
+  "date_published": "2000-06-15T16:59:15-04:00",
+  "date_modified": "2022-07-14T15:52:35-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large cucumbers, peeled and cubed",
+    "2 cups sour cream",
+    "4 sprigs fresh mint, chopped",
+    "3 cloves garlic, peeled and minced",
+    "0.25 cup lemon juice",
+    "0.25 cup olive oil",
+    "0.25 teaspoon salt",
+    "0.125 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place cucumbers in a large salad bowl, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, whisk together the sour cream, mint, garlic, lemon juice, olive oil, salt, and pepper until well blended. Pour over the cucumbers, and mix until well coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "260 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "140 mg",
+    "sugarContent": "0 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0Dw_dYcnIf633-Mn1bfrseC2s0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/442499-75342854b74a48d880d24e0fe818f47e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18402/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

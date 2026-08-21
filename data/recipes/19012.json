@@ -1,0 +1,76 @@
+{
+  "id": "19012",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19012/chocolate-mousse-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/19012/chocolate-mousse-ii/",
+  "title": "Chocolate Mousse",
+  "description": "Traditional chocolate mousse recipe made with semisweet chocolate, hot water, and eggs.",
+  "authors": [
+    "Sharon"
+  ],
+  "date_published": "2000-04-08T14:13:28-04:00",
+  "date_modified": "2022-12-05T11:12:48-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup semisweet chocolate chips",
+    "5 tablespoons boiling water",
+    "4 large eggs, separated, divided"
+  ],
+  "steps": [
+    {
+      "text": "Place chocolate chips in a blender; pulse until ground. Add boiling water and blend until chocolate is melted. Add egg yolks, one at a time, blending well after each addition; transfer to a mixing bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat egg whites in a glass, metal, or ceramic bowl until stiff peaks form. Gently fold egg whites into chocolate mixture. Pour mousse into wine glasses or other serving glasses and chill in the refrigerator until set, 2 to 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "156 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "106 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "88 mg",
+    "sugarContent": "13 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "127"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/faD5ANF-jPewDmanxmtfu2IZ31M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/802464-14789d85bc834bb294ee6cdb775e715b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19012/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

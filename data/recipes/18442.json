@@ -1,0 +1,110 @@
+{
+  "id": "18442",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18442/bobs-awesome-lasagna/",
+  "requested_url": "https://www.allrecipes.com/recipe/18442/bobs-awesome-lasagna/",
+  "title": "Bob&#39;s Awesome Lasagna",
+  "description": "This is a traditional baked lasagna that is a favorite in our family. Ground beef, cottage cheese, and mozzarella make it rich and filling.",
+  "authors": [
+    "Bob"
+  ],
+  "date_published": "2000-04-27T13:09:13-04:00",
+  "date_modified": "2022-07-14T15:55:30-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT60M",
+  "total_time": "PT90M",
+  "yield": [
+    "12",
+    "1 - 9x13 inch pan"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces lasagna noodles",
+    "1 pound ground beef",
+    "0.25 cup minced onions",
+    "1 teaspoon salt",
+    "0.5 teaspoon garlic salt",
+    "1 (32 ounce) jar spaghetti sauce",
+    "1 (16 ounce) package large curd cottage cheese",
+    "1 pound mozzarella cheese, shredded"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook noodles in boiling water for 8 to 10 minutes, or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet over medium heat, saute ground beef, onions, salt and garlic salt until meat is brown. Drain excess fat, add spaghetti sauce to beef mixture, and bring to a boil. Reduce heat, and simmer for 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x13 inch glass baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Line bottom of pan with three lasagna noodles. Spread 1/3 of sauce mixture over noodles. Layer 1/3 of the cottage cheese over the sauce. Sprinkle 1/3 of the mozzarella over the cottage cheese. Repeat this layering process until all ingredients are used up.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for one hour. Let stand for 10 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "335 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "984 mg",
+    "sugarContent": "8 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "920"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JjDRvTjruY3ONN8Q347veNE8qd8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/649914-72c3faa0decb4f1ea073f0c2e78a972c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18442/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

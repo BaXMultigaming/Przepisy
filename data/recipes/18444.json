@@ -1,0 +1,107 @@
+{
+  "id": "18444",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18444/chicken-alfredo/",
+  "requested_url": "https://www.allrecipes.com/recipe/18444/chicken-alfredo/",
+  "title": "Chicken Alfredo",
+  "description": "A quick and easy chicken Alfredo dinner with broccoli, zucchini, and red bell pepper. The sauce is enriched by cream cheese.",
+  "authors": [
+    "LISABERG"
+  ],
+  "date_published": "2000-06-11T18:22:34-04:00",
+  "date_modified": "2026-08-16T16:33:24-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 ounces dry fettuccine pasta",
+    "1 (8 ounce) package cream cheese",
+    "6 tablespoons butter",
+    "0.5 cup milk",
+    "0.5 teaspoon garlic powder",
+    "salt and pepper to taste",
+    "2 skinless, boneless chicken breast halves - cooked and cubed",
+    "2 cups chopped fresh broccoli",
+    "2 small zucchini, julienned",
+    "0.5 cup chopped red bell pepper",
+    "grated Parmesan cheese, for topping"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While pasta is cooking, melt cream cheese and butter in a skillet over low heat. Stir until smooth. Stir in milk, and season with garlic powder, salt, and pepper. Simmer for 3 minutes, or until thickened, stirring constantly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix in chicken, broccoli, zucchini, and red pepper. Cook 3 minutes over medium heat, then reduce heat, and simmer 5 minutes, or until vegetables are tender. Serve hot over fettuccine and top with grated Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/D0dWAJp8XfPxc5PAsodAZ_VnbzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18444chicken-alfredoMyHotSouthernMessvideo4x3-28b9b61cdf07429ba5548f7cba52b920.jpg"
+      ],
+      "image": "assets/images/18444/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "645 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "151 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "25 g",
+    "sodiumContent": "355 mg",
+    "sugarContent": "5 g",
+    "fatContent": "43 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "421"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/PjTEBwTy-ma1DlVvV.mp4",
+    "description": "AR0763",
+    "duration": "PT4M39S",
+    "name": "Chicken Alfredo",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/PjTEBwTy/thumbnails/jVAMIhrH.jpg?width=1280",
+    "uploadDate": "2021-07-12T11:32:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/D0dWAJp8XfPxc5PAsodAZ_VnbzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18444chicken-alfredoMyHotSouthernMessvideo4x3-28b9b61cdf07429ba5548f7cba52b920.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18444/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/18444/step_03.webp"
+    ]
+  }
+}

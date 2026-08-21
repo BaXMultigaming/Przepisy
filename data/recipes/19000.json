@@ -1,0 +1,88 @@
+{
+  "id": "19000",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19000/sweet-candied-orange-and-lemon-peel/",
+  "requested_url": "https://www.allrecipes.com/recipe/19000/sweet-candied-orange-and-lemon-peel/",
+  "title": "Sweet Candied Orange and Lemon Peel",
+  "description": "This easy candied orange and lemon peel recipe transforms citrus rinds into bright, chewy sugared treats. Perfect for festive gifts or garnishes.",
+  "authors": [
+    "Brenda Ward"
+  ],
+  "date_published": "2000-05-10T08:15:17-04:00",
+  "date_modified": "2026-04-29T10:02:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT280M",
+  "yield": [
+    "12",
+    "3 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 lemon peels, cut into 1/4 inch strips",
+    "4 orange peels, cut into 1/4 inch strips",
+    "2 cups white sugar",
+    "1 cup water",
+    "0.33333334326744 cup white sugar for decoration"
+  ],
+  "steps": [
+    {
+      "text": "Place lemon and orange peel in large saucepan and cover with water. Bring to a boil over high heat. Boil for 20 minutes, drain and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine 2 cups sugar and 1 cup water in a medium saucepan. Bring to a boil, and cook until the mixture reaches the thread stage, 230 degrees F (108 degrees C), on a candy thermometer, or until a small amount dropped in cold water forms a soft thread. Stir in the peels; reduce heat, and simmer until syrup thickens slightly, about 5 minutes, stirring frequently. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Roll peel pieces, a few at a time, in remaining sugar. Let dry on wire rack for several hours, or until no longer sticky.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "40 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "99"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vF1epz8-ZMg87M7vcMUvqKe26gU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1553279-88986e70d41f4de7934c513fe66c93b1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19000/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

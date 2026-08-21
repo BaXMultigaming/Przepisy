@@ -1,0 +1,91 @@
+{
+  "id": "18882",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18882/american-chop-suey-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/18882/american-chop-suey-ii/",
+  "title": "American Chop Suey II",
+  "description": "This is an old family recipe. My family loves it. It&#39;s quick and easy. Elbow macaroni and ground beef are combined in a tomatoey sauce. The kids will eat this one!",
+  "authors": [
+    "April"
+  ],
+  "date_published": "2000-07-06T16:07:06-04:00",
+  "date_modified": "2024-11-28T11:41:33-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package uncooked elbow macaroni",
+    "1 pound lean ground beef",
+    "1 onion, chopped",
+    "2 (10.75 ounce) cans condensed tomato soup",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook macaroni according to package directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, in a separate large skillet over medium high heat, saute the ground beef and the onion for 5 to 10 minutes, or until meat is browned and crumbly. Drain thoroughly and leave the meat and onion in the skillet. Pour the two cans of tomato soup into the skillet and stir well to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When noodles are done, drain thoroughly and return noodles to the pot. Add the hamburger mixture from the skillet to the pot. Mix well and season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "664 kcal",
+    "carbohydrateContent": "85 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "745 mg",
+    "sugarContent": "12 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "395"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IImDUBUTYw8gTH96iUi25w3aodU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1564780-american-chop-suey-ii-Diana-Mc-4x3-1-97b080443c8d49f19a264ecda26e381f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18882/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

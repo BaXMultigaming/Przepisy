@@ -1,0 +1,109 @@
+{
+  "id": "19611",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19611/bar-b-que-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/19611/bar-b-que-sauce/",
+  "title": "Bar-B-Que Sauce",
+  "description": "This BBQ sauce recipe is easy to make with simple ingredients, made from scratch on the stove in just 10 minutes, and has a sweet and tangy flavor.",
+  "authors": [
+    "Debi K"
+  ],
+  "date_published": "2000-05-22T16:13:21-04:00",
+  "date_modified": "2025-12-31T13:03:50-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup ketchup",
+    "2 tablespoons brown sugar",
+    "2 tablespoons Worcestershire sauce",
+    "1 tablespoon cider vinegar",
+    "1 teaspoon garlic powder",
+    "0.25 teaspoon mustard powder",
+    "0.25 teaspoon salt",
+    "1 dash hot pepper sauce"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/xdoCd2Ti_k7gpDKhb-C-yrCUxE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-19611-bar-b-que-sauce-DDMFS-4x3-step-1-b16341f48c104a7f9a23d3641c2cb8f3.jpg"
+      ],
+      "image": "assets/images/19611/step_01.webp"
+    },
+    {
+      "text": "Stir together ketchup, brown sugar, Worcestershire sauce, vinegar, garlic powder, mustard powder, salt, and hot pepper sauce in a small saucepan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/53jxCLeDRuGsP__-dFZEPXRV8dE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-19611-bar-b-que-sauce-DDMFS-4x3-step-2-7830ae26f0e742fbabcfea4219261667.jpg"
+      ],
+      "image": "assets/images/19611/step_02.webp"
+    },
+    {
+      "text": "Bring to a simmer over medium heat. Remove from heat and allow to cool slightly before brushing on your favorite meat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/M5vp-XbyFErwS37baKFZYmpylk0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-19611-bar-b-que-sauce-DDMFS-4x3-step-3-cb1c8c86bc3e4ec78c9308699bd03d5c.jpg"
+      ],
+      "image": "assets/images/19611/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "33 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "283 mg",
+    "sugarContent": "7 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "547"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/kC2XvmHP-K3AjnAEN.mp4",
+    "description": "In this video, we'll show you how to whip up a batch of homemade barbecue sauce. The best part is, you likely have all the ingredients on hand! Just a quick simmer on the stove and you're ready to slather this sauce over your favorite grilled meats.",
+    "duration": "PT1M4S",
+    "name": "Bar-B-Que Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kC2XvmHP/thumbnails/4UOhvQ2O.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:18:10-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/M5vp-XbyFErwS37baKFZYmpylk0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-19611-bar-b-que-sauce-DDMFS-4x3-step-3-cb1c8c86bc3e4ec78c9308699bd03d5c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19611/hero.webp",
+    "steps": [
+      "assets/images/19611/step_01.webp",
+      "assets/images/19611/step_02.webp",
+      "assets/images/19611/step_03.webp"
+    ]
+  }
+}

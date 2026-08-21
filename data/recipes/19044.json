@@ -1,0 +1,100 @@
+{
+  "id": "19044",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19044/easy-peach-cobbler/",
+  "requested_url": "https://www.allrecipes.com/recipe/19044/easy-peach-cobbler/",
+  "title": "Easy Peach Cobbler",
+  "description": "This simple peach cobbler is ready in 35 minutes. Made with five pantry staples (including canned peaches), it&#39;s easy to whip up for last-minute company.",
+  "authors": [
+    "PNLewis"
+  ],
+  "date_published": "2000-07-03T13:38:45-04:00",
+  "date_modified": "2023-04-18T15:55:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "0.5 cup butter, room temperature",
+    "1 cup self-rising flour",
+    "1 cup milk",
+    "1 (15 ounce) can sliced peaches, with juice"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat sugar and butter together in a 1-quart baking dish. Mix in flour and milk until smooth. Pour peaches and juice over top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until golden brown, 25 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0HjbMxmBzlAQLojFQWy0DGAXu_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/438953-fd91fe795986496ea8581de57d136ef6.jpg"
+      ],
+      "image": "assets/images/19044/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "292 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "295 mg",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "409"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/FQxN9JNJ-K3AjnAEN.mp4",
+    "description": "If summer is behind you, yet you are craving the sweet flavor of peaches, this Easy Peach Cobbler is for you! Simple to make with just a few ingredients, it uses canned peaches, and is ready in under an hour.",
+    "duration": "PT1M31S",
+    "name": "Easy Peach Cobbler",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/FQxN9JNJ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T22:37:35-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0HjbMxmBzlAQLojFQWy0DGAXu_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/438953-fd91fe795986496ea8581de57d136ef6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19044/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/19044/step_03.webp"
+    ]
+  }
+}

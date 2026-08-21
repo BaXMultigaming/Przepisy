@@ -1,0 +1,75 @@
+{
+  "id": "19498",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/19498/salmon-marinade/",
+  "requested_url": "https://www.allrecipes.com/recipe/19498/salmon-marinade/",
+  "title": "Salmon Marinade",
+  "description": "This easy marinade can be used to flavor up to two pounds of salmon fillets.",
+  "authors": [
+    "Dustin Hafer"
+  ],
+  "date_published": "2000-03-25T21:29:25-05:00",
+  "date_modified": "2022-10-06T14:17:20-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4",
+    "1/2 cup marinade"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup lime juice",
+    "0.25 cup Worcestershire sauce",
+    "1 pinch dried thyme",
+    "1 tablespoon vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, stir together the lime juice, Worcestershire sauce, thyme and vegetable oil. Mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover all surfaces of fish fillet with marinade. Refrigerate and let stand as little as 30 minutes or as long as overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "49 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "167 mg",
+    "sugarContent": "2 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HuDFT_Xg54NTLiz9euFj3PA_PvA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/40426-0731458bba354d66acc401aac3b065f8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/19498/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

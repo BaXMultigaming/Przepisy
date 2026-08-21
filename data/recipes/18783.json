@@ -1,0 +1,93 @@
+{
+  "id": "18783",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18783/turkey-goulash/",
+  "requested_url": "https://www.allrecipes.com/recipe/18783/turkey-goulash/",
+  "title": "Turkey Goulash",
+  "description": "Lean turkey is simmered with tomatoes and pasta.",
+  "authors": [
+    "Denise Lutinski"
+  ],
+  "date_published": "2000-04-14T18:54:28-04:00",
+  "date_modified": "2023-09-14T17:40:24-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "World"
+  ],
+  "regions": [
+    "World"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground turkey",
+    "1 (14 ounce) can stewed, diced tomatoes",
+    "3 cloves garlic, minced",
+    "1 cup tomato sauce",
+    "2 teaspoons white sugar",
+    "0.5 teaspoon dried basil",
+    "1 (16 ounce) package bow tie pasta"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium heat, cook the turkey until browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in the stewed tomatoes, garlic, tomato sauce, sugar and basil, and then simmer for about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente, and then drain. Combine the pasta and turkey mixture; toss and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "311 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "325 mg",
+    "sugarContent": "6 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "298"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jrbD1vhg9vXfiB2tfsU1hE79V8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5168274-turkey-goulash-4everhungry-4x3-1-e3999ac97bf74e56b00f6a452301118b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18783/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

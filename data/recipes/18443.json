@@ -1,0 +1,131 @@
+{
+  "id": "18443",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18443/bolognese-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/18443/bolognese-sauce/",
+  "title": "Bolognese Sauce",
+  "description": "Simple Bolognese recipe for meaty, chunky pasta sauce with beef, pork, bacon, onion, and chopped vegetables simmered in herby wine and tomato sauce.",
+  "authors": [
+    "Kimber"
+  ],
+  "date_published": "2000-03-28T22:24:43-05:00",
+  "date_modified": "2026-03-02T13:21:45-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT80M",
+  "total_time": "PT90M",
+  "yield": [
+    "9"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 large onion, minced",
+    "4 slices bacon, cut into 1/2 inch pieces",
+    "1 clove garlic, minced",
+    "1 pound lean ground beef",
+    "0.5 pound ground pork",
+    "1 (28 ounce) can Italian plum tomatoes",
+    "0.5 pound fresh mushrooms, sliced",
+    "6 ounces tomato sauce",
+    "2 carrots, shredded",
+    "1 stalk celery, chopped",
+    "0.5 cup dry white wine",
+    "0.5 cup chicken stock",
+    "0.5 teaspoon dried basil",
+    "0.5 teaspoon dried oregano",
+    "salt and pepper to taste",
+    "1 pound pasta"
+  ],
+  "steps": [
+    {
+      "text": "Warm oil in a large skillet over medium heat. Sauté onion, bacon, and garlic in hot oil until bacon is browned and crisp, about 10 minutes. Use a slotted spoon to transfer bacon mixture to a paper towel-lined plate to drain; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the same large skillet over medium-high heat. Cook and stir ground beef and pork in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir bacon mixture, tomatoes, mushrooms, tomato sauce, carrots, celery, wine, stock, basil, oregano, salt, and pepper into meat mixture. Bring to a boil. Cover, reduce heat, and simmer sauce for 1 hour, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Add pasta and cook in boiling water until al dente, 8 to 10 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve sauce over hot pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NwxnWUZO9nnu_ldJfv2hb5Qe7WE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18443-bolognese-sauce-VAT-Beauty-4x3-32426338041f460b99bbfa54cbdafb35.jpg"
+      ],
+      "image": "assets/images/18443/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "472 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "463 mg",
+    "sugarContent": "7 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "340"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/WvBzHbZM-ma1DlVvV.mp4",
+    "description": "A thick, chunky pasta sauce with beef, pork, veggies, and tons of flavor.",
+    "duration": "PT3M20S",
+    "name": "Bolognese Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/WvBzHbZM/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T16:00:43-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NwxnWUZO9nnu_ldJfv2hb5Qe7WE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18443-bolognese-sauce-VAT-Beauty-4x3-32426338041f460b99bbfa54cbdafb35.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18443/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/18443/step_05.webp"
+    ]
+  }
+}

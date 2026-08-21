@@ -1,0 +1,74 @@
+{
+  "id": "18542",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/18542/thousand-island-dressing-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/18542/thousand-island-dressing-ii/",
+  "title": "Thousand Island Dressing",
+  "description": "Thousand Island dressing is a simple recipe with mayonnaise, ketchup, and sweet pickle relish. It is easy to make and customize to your liking.",
+  "authors": [
+    "Sue"
+  ],
+  "date_published": "2000-05-20T09:00:55-04:00",
+  "date_modified": "2025-12-17T08:28:24-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mayonnaise",
+    "1 cup sweet pickle relish",
+    "0.5 cup ketchup",
+    "1 pinch salt",
+    "1 pinch ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Mix together mayonnaise, relish, ketchup, salt, and pepper in a small bowl until thoroughly combined, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "336 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "762 mg",
+    "sugarContent": "17 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "310"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/O6rDKSZq2yGbu3G3ci2aqVzwDMo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-simple-thousand-island-dressing-e19b4eef46054796ab1cda8249b46d93.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/18542/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
