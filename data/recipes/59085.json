@@ -1,0 +1,83 @@
+{
+  "id": "59085",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/59085/graham-cracker-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/59085/graham-cracker-ice-cream/",
+  "title": "Graham Cracker Ice Cream",
+  "description": "This graham cracker ice cream recipe uses crushed graham crackers, which add great taste and a bit of texture to this easy, unique homemade ice cream.",
+  "authors": [
+    "MPS6294"
+  ],
+  "date_published": "2020-06-18T23:09:51-04:00",
+  "date_modified": "2025-09-15T18:37:17-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "1 quart ice cream"
+  ],
+  "categories": [
+    "Snack",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups fat free half-and-half",
+    "0.5 cup sugar",
+    "0.5 vanilla bean",
+    "3 fat-free graham crackers, crushed"
+  ],
+  "steps": [
+    {
+      "text": "Combine half-and-half and sugar in a large bowl. Split vanilla bean lengthwise, scrape seeds into the bowl, and whisk to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour mixture into an ice cream maker and freeze according to manufacturer's directions until semi-frozen; sprinkle in graham crackers. Continue freezing until reaches desired consistency. Transfer to an airtight container and freeze until firm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "94 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "92 mg",
+    "sugarContent": "17 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Dbc8Znwl8OMDEmXRl7Ffjz0dJlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/689424-dbf8daf6d6954501892af8054d1e7d13.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/59085/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "54753",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/54753/rum-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/54753/rum-sauce/",
+  "title": "Rum Sauce",
+  "description": "Make this rum sauce the next time you serve bread pudding, then save the leftovers to add a buttery, caramel-like taste to your favorite ice cream.",
+  "authors": [
+    "KDA949"
+  ],
+  "date_published": "2020-06-18T23:09:28-04:00",
+  "date_modified": "2025-11-24T18:24:22-05:00",
+  "prep_time": null,
+  "cook_time": "PT10M",
+  "total_time": "PT10M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup sugar",
+    "1 tablespoon cornstarch",
+    "2 tablespoons butter",
+    "1 cup milk",
+    "3 tablespoons white or dark rum"
+  ],
+  "steps": [
+    {
+      "text": "Mix sugar and cornstarch together in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a small saucepan over medium heat. Stir in sugar mixture. Pour in milk and cook, stirring frequently, until mixture begins to boil. Continue cooking, stirring constantly, until thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat and stir in rum. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "8 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "27 mg",
+    "sugarContent": "11 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "183"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uOABBarwSkCmggiiWWZgik-wolA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8117689-03519c80c67341d0968463bf86d4e40d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/54753/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

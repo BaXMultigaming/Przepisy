@@ -1,0 +1,95 @@
+{
+  "id": "56565",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/56565/corn-fritters-with-maple-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/56565/corn-fritters-with-maple-syrup/",
+  "title": "Corn Fritters with Maple Syrup",
+  "description": "Served warm with maple syrup or honey, these corn fritters with creamed corn are great for breakfast or as a snack, and the recipe is easy to make.",
+  "authors": [
+    "Niki"
+  ],
+  "date_published": "2020-06-18T23:09:39-04:00",
+  "date_modified": "2025-08-11T05:33:40-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "New England",
+    "American"
+  ],
+  "regions": [
+    "New England",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups vegetable oil for deep-frying",
+    "1 cup cream-style corn",
+    "1 egg",
+    "1 cup all-purpose flour",
+    "1 teaspoon sugar",
+    "0.75 teaspoon baking powder",
+    "0.5 teaspoon salt",
+    "1 cup maple flavored pancake syrup"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a deep fryer to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine cream-style corn and egg in a small bowl. Combine flour, sugar, baking powder, and salt in a medium bowl; stir in corn mixture until just blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop batter by ⅛ cupfuls into hot oil. Fry until golden brown, turning once if fritters don't turn over by themselves. Drain on paper towels; serve with syrup.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "849 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "221 mg",
+    "sugarContent": "13 g",
+    "fatContent": "81 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "46"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TtqCrJHhLtJ6Gt9YDO_-vpzelZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3579371-78e6d566dda944049d4712291d1c8a16.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/56565/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "60015",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/60015/grandmas-easy-turkey-taco-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/60015/grandmas-easy-turkey-taco-salad/",
+  "title": "Grandma&#39;s Easy Turkey Taco Salad",
+  "description": "Seasoned ground turkey is tossed with black beans, lettuce, tomato, tortilla chips, and dressing.",
+  "authors": [
+    "Jennifer Wood Anastasia"
+  ],
+  "date_published": "2020-02-26T00:50:29-05:00",
+  "date_modified": "2022-01-07T13:59:04-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground turkey",
+    "1 (1.25 ounce) package taco seasoning mix",
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "1 head iceberg lettuce, shredded",
+    "2 tomatoes, diced",
+    "1 (10 ounce) bag tortilla chips, coarsely crumbled",
+    "1 (8 fluid ounce) bottle thousand island dressing"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium-high heat, and stir in the ground turkey. Cook and stir until the turkey is crumbly, evenly browned, and no longer pink. Mix in taco seasoning mix as directed on package. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the turkey, black beans, lettuce, tomatoes, and tortilla chips in a large bowl. Toss with salad dressing. Serve immediately, or refrigerate for an hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "553 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1130 mg",
+    "sugarContent": "12 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UGcv1_EwBLbLZBSvlKvRqg5GvNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/870956-cda8d727b9844d56b7f56828c5682f51.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/60015/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

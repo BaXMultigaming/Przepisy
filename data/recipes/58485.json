@@ -1,0 +1,93 @@
+{
+  "id": "58485",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/58485/yam-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/58485/yam-soup/",
+  "title": "Yam Soup",
+  "description": "Make this yam soup with rice for a simple meal made from pantry staples that is comforting and packs a lot of flavor from curry, onion, and garlic.",
+  "authors": [
+    "LIL_PYRO"
+  ],
+  "date_published": "2018-06-08T09:21:56-04:00",
+  "date_modified": "2023-04-05T22:30:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT45M",
+  "total_time": "PT55M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups chicken broth",
+    "2 pounds yams, diced",
+    "1 medium onion, chopped",
+    "1 tablespoon curry powder",
+    "0.25 teaspoon black pepper",
+    "0.5 teaspoon salt",
+    "0.5 cup uncooked wild rice",
+    "0.5 teaspoon onion powder",
+    "0.5 teaspoon garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "Pour chicken broth into a saucepan with curry powder, salt, pepper, onion powder, and garlic powder. Bring to a boil over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add yams and onion and simmer for about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add rice and cook until rice is tender, another 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "286 kcal",
+    "carbohydrateContent": "66 g",
+    "fiberContent": "9 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "252 mg",
+    "sugarContent": "3 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8Ccp3Qr1WX_YxY6eVv8KCRcMCUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3832960-9e475c346b9a46e58c43ae51647ef92f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/58485/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

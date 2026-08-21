@@ -1,0 +1,85 @@
+{
+  "id": "55832",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/55832/carrot-ginger-creme/",
+  "requested_url": "https://www.allrecipes.com/recipe/55832/carrot-ginger-creme/",
+  "title": "Carrot Ginger Creme",
+  "description": "A delicious carrot-ginger soup with vegetable broth and cream.",
+  "authors": [
+    "Doug Matthews"
+  ],
+  "date_published": "2020-03-09T22:50:38-04:00",
+  "date_modified": "2025-04-04T11:43:58-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons canola oil",
+    "1 medium onion, chopped",
+    "2 pounds carrots, cut into medium dice",
+    "2 teaspoons ground ginger",
+    "4 cups vegetable broth",
+    "2 cups half-and-half",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot over medium heat. Cook and stir onion until translucent and tender, about 5 minutes. Stir in carrots, ginger, and vegetable broth, and simmer for 20 minutes, or until carrots are tender. Remove from heat and allow to cool slightly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer to a blender or food processor and blend until smooth. Return to soup pot, add half and half, and heat until warmed through. Season with salt and pepper, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "30 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "816 mg",
+    "sugarContent": "8 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "82"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3lnIwTW9aExvzEEINzwdeZZfXVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24498-6957d33467ba435382f08b4c8135eea9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/55832/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

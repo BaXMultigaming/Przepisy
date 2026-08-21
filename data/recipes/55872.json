@@ -1,0 +1,101 @@
+{
+  "id": "55872",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/55872/amazing-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/55872/amazing-chicken/",
+  "title": "Amazing Chicken",
+  "description": "An easy recipe for chicken that’s crispy on the outside, moist and juicy inside. Chicken breasts are coated in mayonnaise and seasoned bread crumbs and baked.",
+  "authors": [
+    "KARRIECARLYLE"
+  ],
+  "date_published": "2019-04-02T02:45:28-04:00",
+  "date_modified": "2026-07-20T12:16:19-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves",
+    "salt and pepper to taste",
+    "0.5 cup mayonnaise",
+    "2 cups Italian seasoned bread crumbs"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 425 degrees F (220 degrees C). Grease a shallow baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season chicken breasts. Coat chicken on all sides with mayonnaise, and roll in bread crumbs until coated. Place coated breasts into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake uncovered for 30 minutes in the preheated oven, or until chicken is no longer pink in the middle and the juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kvZXnf-fEYkYUySSKc2zvNf0LBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/707855-48165669119a4e6186e98792020132e6.jpg"
+      ],
+      "image": "assets/images/55872/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "548 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "78 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1113 mg",
+    "sugarContent": "2 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "1423"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/wcqcwW2J-K3AjnAEN.mp4",
+    "description": "Did you know that mayonnaise is one of the best ingredients to use whenever you’re roasting meats and vegetables? In this video, Nicole puts a jar of mayo to the test and roasts a whole chicken in the oven with a layer of the pantry staple spread over the top. After roasting in the oven, the chicken is golden brown on the outside and juicy on the inside.",
+    "duration": "PT57S",
+    "name": "How to Roast Chicken with Mayonnaise",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wcqcwW2J/thumbnails/6wu3BRed.jpg?width=1280",
+    "uploadDate": "2026-06-02T15:52:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kvZXnf-fEYkYUySSKc2zvNf0LBU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/707855-48165669119a4e6186e98792020132e6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/55872/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/55872/step_03.webp"
+    ]
+  }
+}

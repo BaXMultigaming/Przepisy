@@ -1,0 +1,121 @@
+{
+  "id": "52734",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52734/awesome-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/52734/awesome-pasta-salad/",
+  "title": "Awesome Pasta Salad",
+  "description": "This pasta salad with pepperoni, salami, provolone, bell pepper, olives, and Italian dressing is easy to make ahead for summer picnics or potlucks.",
+  "authors": [
+    "Irlandes"
+  ],
+  "date_published": "2002-07-31T13:26:19-04:00",
+  "date_modified": "2025-11-06T08:16:30-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT15M",
+  "total_time": "PT45M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 (16 ounce) package fusilli (spiral) pasta",
+    "3 cups cherry tomatoes, halved",
+    "0.5 pound provolone cheese, cubed",
+    "0.5 pound salami, cubed",
+    "0.25 pound sliced pepperoni, cut in half",
+    "1 large green bell pepper, cut into 1 inch pieces",
+    "1 (10 ounce) can black olives, drained",
+    "1 (4 ounce) jar pimentos, drained",
+    "1 (8 ounce) bottle Italian salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/oh0qJWbBohy6SIDW2oGDhVZvwBI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52734-awesome-pasta-salad-ddmfs-step-01-da0cc4db2f5f45059f5288375323a695.jpg"
+      ],
+      "image": "assets/images/52734/step_01.webp"
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook fusilli pasta in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine pasta with tomatoes, cheese, salami, pepperoni, green pepper, olives, and pimentos in a large bowl. Pour in salad dressing; toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_NA0lR063nh1hhkcIFVjiXt_iAo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52734-awesome-pasta-salad-ddmfs-step-03-464f53cdc1cb46c891b015912c4f8639.jpg"
+      ],
+      "image": "assets/images/52734/step_03.webp"
+    },
+    {
+      "text": "Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/i6LgLFLFk5Xix2EAEjc_lcKjzMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52734-awesome-pasta-salad-DDMFS-4x3-c8a1726b60334919bacec53bd10c3f1a.jpg"
+      ],
+      "image": "assets/images/52734/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "247 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "759 mg",
+    "sugarContent": "3 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "750"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/xbTwDAes-ma1DlVvV.mp4",
+    "description": "Watch how to make a pasta salad filled with lots of good stuff.",
+    "duration": "PT2M2S",
+    "name": "Awesome Pasta Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/xbTwDAes/poster.jpg?width=1280",
+    "uploadDate": "2021-07-04T23:19:27-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/i6LgLFLFk5Xix2EAEjc_lcKjzMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52734-awesome-pasta-salad-DDMFS-4x3-c8a1726b60334919bacec53bd10c3f1a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52734/hero.webp",
+    "steps": [
+      "assets/images/52734/step_01.webp",
+      null,
+      "assets/images/52734/step_03.webp",
+      "assets/images/52734/step_04.webp"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "56109",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/56109/mexican-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/56109/mexican-beans/",
+  "title": "Mexican Beans",
+  "description": "This is a wonderful Mexican beans recipe to serve as a side dish with your meal.",
+  "authors": [
+    "sheilamichael"
+  ],
+  "date_published": "2019-04-03T23:31:21-04:00",
+  "date_modified": "2025-02-11T13:26:27-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT240M",
+  "total_time": "PT260M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 quarts water",
+    "2 pounds dried pinto beans",
+    "1 pound bacon, coarsely chopped",
+    "1 medium onion, chopped",
+    "1 medium ripe tomato, chopped",
+    "1 fresh jalapeno pepper, chopped",
+    "1 bunch fresh cilantro, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Combine water and beans in a large pot; bring to a boil. Reduce heat; simmer for 3 hours, adding more water if necessary while beans cook.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook bacon in a large skillet over medium heat until beginning to brown. Stir in onion; continue cooking until onion is tender. Stir in tomato and jalapeño; cook for 2 to 3 minutes. Off heat, stir in cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir bacon-onion mixture into beans; continue cooking until beans are soft, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "221 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "167 mg",
+    "sugarContent": "1 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "90"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1rA26f0v-ZqsMNdU-kf9OcOVBTk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/134261-c2619574f8a749baa2ec1646044ff7ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/56109/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "60012",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/60012/blueberry-gingerbread/",
+  "requested_url": "https://www.allrecipes.com/recipe/60012/blueberry-gingerbread/",
+  "title": "Blueberry Gingerbread",
+  "description": "A new twist on the classic gingerbread - blueberries!",
+  "authors": [
+    "Jo in Arlington"
+  ],
+  "date_published": "2020-06-18T23:09:55-04:00",
+  "date_modified": "2022-08-08T10:42:31-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT40M",
+  "total_time": "PT50M",
+  "yield": [
+    "12",
+    "1 - 11x7 inch dish"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup vegetable oil",
+    "1 cup white sugar",
+    "3 tablespoons molasses",
+    "1 egg",
+    "2 cups all-purpose flour",
+    "1 teaspoon ground cinnamon",
+    "0.5 teaspoon ground nutmeg",
+    "0.5 teaspoon ground ginger",
+    "1 teaspoon baking soda",
+    "0.5 teaspoon salt",
+    "1 cup fresh or frozen blueberries",
+    "1 cup buttermilk",
+    "2 tablespoons sugar"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 11x7 inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix together the oil, 1 cup sugar and molasses until well blended. Beat in the egg. In a separate bowl, stir together the flour, cinnamon, nutmeg, ginger, baking soda and salt. Remove 2 tablespoons of the flour mixture, and toss with blueberries to coat. Stir the remaining dry mixture into the wet ingredients alternately with the buttermilk, mixing after each addition. Carefully stir in blueberries. Pour the batter into the prepared pan, and sprinkle remaining white sugar over the top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 35 to 40 minutes in the preheated oven, until a toothpick inserted into the center comes out clean.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "266 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "232 mg",
+    "sugarContent": "24 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "90"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9n44AuU6LO4xMHdDiFpgi0E8fF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9420994-d3d469ff7abc4b239c2a2c8038836e8d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/60012/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

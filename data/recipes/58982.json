@@ -1,0 +1,77 @@
+{
+  "id": "58982",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/58982/masala-chai/",
+  "requested_url": "https://www.allrecipes.com/recipe/58982/masala-chai/",
+  "title": "Masala Chai",
+  "description": "This chai is hot and flavorful thanks to its use of cardamom, clove, and peppercorn—gotta love it!",
+  "authors": [
+    "JP001"
+  ],
+  "date_published": "2020-06-18T23:09:51-04:00",
+  "date_modified": "2022-12-27T10:56:36-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "1.5 teaspoons sugar",
+    "1 whole cardamom pod",
+    "1 whole clove",
+    "2 black peppercorns",
+    "3 teaspoons black tea leaves",
+    "0.5 cup warm milk"
+  ],
+  "steps": [
+    {
+      "text": "Combine the water and sugar in a small saucepan, and bring to a boil. Add the cardamom pod, clove, peppercorns and tea leaves. Remove from heat, and let the mixture steep for 2 to 3 minutes. Strain into a cup, and fill cup the rest of the way with milk. Sit back, relax, and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "100 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "55 mg",
+    "sugarContent": "12 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6KeK2f8s0DO_YxEL2jQ3w5oNmHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3894110-9be1c7b8d74545c8ba86b7044e231e64.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/58982/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

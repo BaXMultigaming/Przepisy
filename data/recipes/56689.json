@@ -1,0 +1,84 @@
+{
+  "id": "56689",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/56689/banana-bread-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/56689/banana-bread-french-toast/",
+  "title": "Banana Bread French Toast",
+  "description": "This banana bread French toast recipe relies on sweetened condensed milk, eggs, vanilla extract, and banana bread. It&#39;s a decadent way to start the day.",
+  "authors": [
+    "LBR8"
+  ],
+  "date_published": "2018-03-21T12:31:49-04:00",
+  "date_modified": "2026-03-04T15:46:11-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 eggs",
+    "3 tablespoons sweetened condensed milk",
+    "1 teaspoon vanilla extract",
+    "1 loaf banana bread",
+    "2 tablespoons butter",
+    "1 tablespoon confectioners' sugar for dusting"
+  ],
+  "steps": [
+    {
+      "text": "Whisk eggs, sweetened condensed milk, and vanilla together in a bowl with a fork; set aside. Slice banana bread into 4 thick slices. Dip each bread slice in egg mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, melt butter in a large skillet over medium heat. Add bread slices to skillet. Cook until both sides golden brown. Dust with confectioners' sugar just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "544 kcal",
+    "carbohydrateContent": "73 g",
+    "cholesterolContent": "208 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "336 mg",
+    "sugarContent": "50 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "61"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MZdlWhzsEEgr3B_2ujZR_bx0xC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/597395-2d3fa2ebf52344efbc7f020cbd2a1ed1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/56689/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

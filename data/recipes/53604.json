@@ -1,0 +1,93 @@
+{
+  "id": "53604",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/53604/anaheim-fish-tacos/",
+  "requested_url": "https://www.allrecipes.com/recipe/53604/anaheim-fish-tacos/",
+  "title": "Anaheim Fish Tacos",
+  "description": "Delicious halibut is cooked with an array of spicy flavors to make the perfect filling for tacos!",
+  "authors": [
+    "Lecia"
+  ],
+  "date_published": "2020-06-23T17:50:28-04:00",
+  "date_modified": "2025-03-25T16:40:21-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American",
+    "Tex-Mex"
+  ],
+  "regions": [
+    "U.S.",
+    "American",
+    "Tex-Mex"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon vegetable oil",
+    "1 Anaheim chile pepper, chopped",
+    "1 leek, chopped",
+    "2 cloves garlic, crushed",
+    "salt and pepper to taste",
+    "1 cup chicken broth",
+    "2 large tomatoes, diced",
+    "0.5 teaspoon ground cumin",
+    "1.5 pounds halibut fillets",
+    "1 lime",
+    "12 corn tortillas"
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a large skillet over medium heat, and saute the chile, leek, and garlic until tender and lightly browned. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix the chicken broth and tomatoes into the skillet, and season with cumin. Bring to a boil. Reduce heat to low. Place the halibut into the mixture. Sprinkle with lime juice. Cook 15 to 20 minutes until the halibut is easily flaked with a fork. Wrap in warmed corn tortillas to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "273 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "286 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "158"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A2AMAaWaEO_RvaN6SjE10t_PWDQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8109184-9f931580afe54b25a02a362f99aed1ba.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/53604/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

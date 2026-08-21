@@ -1,0 +1,70 @@
+{
+  "id": "56479",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/56479/yum-yum-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/56479/yum-yum-green-beans/",
+  "title": "Yum Yum Green Beans",
+  "description": "Green beans with bacon, tomatoes, and onion, (optional) are great for family gatherings. Easy and quick to make with just a few ingredients.",
+  "authors": [
+    "MYCHELLIE"
+  ],
+  "date_published": "2018-03-21T12:31:47-04:00",
+  "date_modified": "2022-08-08T10:44:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 slices bacon, chopped",
+    "0.25 cup chopped onion",
+    "1 (15 ounce) can stewed tomatoes",
+    "4 (15 ounce) cans green beans"
+  ],
+  "steps": [
+    {
+      "text": "Fry the bacon in a large skillet over medium heat until browned and crisp. Drain off all but a thin coating of the grease. Add onions to the skillet; cook and stir until browned, about 5 minutes. Mix in tomatoes, stirring to remove any stuck on bits of bacon from the bottom of the skillet. Drain two cans of the beans, leave the liquid in the other two; pour into the skillet. Cook and stir until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "71 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "566 mg",
+    "sugarContent": "3 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ODFd1Gw8t5SxoaKeGkBTHocVJE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/211737-2889ab6df4da4e908bf84a480c25a9ac.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/56479/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

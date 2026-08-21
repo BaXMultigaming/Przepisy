@@ -1,0 +1,82 @@
+{
+  "id": "55151",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/55151/ravioli-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/55151/ravioli-soup/",
+  "title": "Ravioli Soup",
+  "description": "Raviolis swim in a savory chicken broth with spinach, mushrooms, and peas and carrots, seasoned with a splash of soy sauce.",
+  "authors": [
+    "RAFTERMANIA"
+  ],
+  "date_published": "2019-04-03T23:31:17-04:00",
+  "date_modified": "2024-12-27T19:57:23-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "European",
+    "American"
+  ],
+  "regions": [
+    "European",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cube chicken bouillon",
+    "1 pound prepared fresh cheese ravioli",
+    "0.66666668653488 cup baby spinach leaves",
+    "2 fresh mushrooms, sliced",
+    "0.25 cup sliced carrot",
+    "0.5 cup frozen mixed peas and carrots",
+    "1 tablespoon olive oil",
+    "1 dash soy sauce",
+    "salt and black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, bring water and bouillon cube to a boil. Place ravioli in the pot, and cook 5 minutes, stirring occasionally. Mix in spinach, mushrooms, carrot, frozen peas and carrots, olive oil, and soy sauce; cook for 5 minutes, until vegetables are tender. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "319 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "517 mg",
+    "sugarContent": "3 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s-XtgJbBBj1JCejKYeevES4LaQ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ravioli-Soup-France-C-1-2000-cb6e0025e7da4ca8b112a4c676690667.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/55151/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

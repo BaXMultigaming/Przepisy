@@ -1,0 +1,81 @@
+{
+  "id": "54496",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/54496/quick-tuna-casserole/",
+  "requested_url": "https://www.allrecipes.com/recipe/54496/quick-tuna-casserole/",
+  "title": "Quick Tuna Casserole",
+  "description": "This is the quickest tuna casserole ever! You can also &#39;fancy it up&#39; by transferring it to a baking dish, topping it with fried onions, and broiling it for a few minutes.",
+  "authors": [
+    "Tresa Raymer"
+  ],
+  "date_published": "2018-03-21T12:30:48-04:00",
+  "date_modified": "2022-08-08T11:41:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (7.25 ounce) package macaroni and cheese mix",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "1 (9 ounce) can tuna, drained",
+    "1 (10 ounce) can peas, drained"
+  ],
+  "steps": [
+    {
+      "text": "Prepare macaroni and cheese mix according to package directions. Stir in the cream of mushroom soup, tuna and peas. Mix well, and heat until bubbly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/l6RXSprmsdcdp4tNlrhZglTC5Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2043192-0cd81016b87d491fb6f183858a58720b.jpg"
+      ],
+      "image": "assets/images/54496/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "363 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1062 mg",
+    "sugarContent": "8 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "289"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/JvJHdPoK-ma1DlVvV.mp4",
+    "description": "AR0842",
+    "duration": "PT1M10S",
+    "name": "Quick Tuna Casserole",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/JvJHdPoK/poster.jpg?width=1280",
+    "uploadDate": "2021-07-11T12:13:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l6RXSprmsdcdp4tNlrhZglTC5Bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2043192-0cd81016b87d491fb6f183858a58720b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/54496/hero.webp",
+    "steps": [
+      "assets/images/54496/step_01.webp"
+    ]
+  }
+}

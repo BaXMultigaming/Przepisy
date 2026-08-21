@@ -1,0 +1,82 @@
+{
+  "id": "55259",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/55259/pumpkin-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/55259/pumpkin-oatmeal/",
+  "title": "Pumpkin Oatmeal",
+  "description": "A great way to get a serving of whole grains and a yellow vegetable in the morning! (Even my three year old liked it!)",
+  "authors": [
+    "JULOYES"
+  ],
+  "date_published": "2002-10-23T19:23:49-04:00",
+  "date_modified": "2022-12-11T15:27:56-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT3M",
+  "total_time": "PT8M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup quick-cooking rolled oats",
+    "0.75 cup milk, or as needed",
+    "0.5 cup canned pumpkin puree",
+    "0.25 teaspoon pumpkin pie spice",
+    "1 teaspoon cinnamon sugar"
+  ],
+  "steps": [
+    {
+      "text": "Mix together oats and milk in a microwave-safe bowl. Cook on high for 1 to 2 minutes, stirring once. Add more milk or oats to achieve the desired consistency, and cook for another 30 seconds. Stir in pumpkin puree, pumpkin pie spice, and cinnamon sugar. Heat through, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0F_c3-pigawhdIPfRYTvH0kMWLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/363808-pumpkin-oatmeal-Alberta-Rose-1x1-1-b0666229b7d24974a889e1418b182244.jpg"
+      ],
+      "image": "assets/images/55259/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "43 mg",
+    "sugarContent": "7 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "170"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/npuSTkqs-K3AjnAEN.mp4",
+    "description": "In this video, we'll show you how to quickly add some deliciousness to your morning oats. Milk and quick-cooking oats are quickly cooked up in the microwave. Then we stir in pumpkin puree, pumpkin pie spice, and a little cinnamon sugar! Try this garnished with chopped nuts and a drizzle of cream.",
+    "duration": "PT57S",
+    "name": "Pumpkin Oatmeal",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/npuSTkqs/poster.jpg?width=1280",
+    "uploadDate": "2021-07-28T12:49:27-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0F_c3-pigawhdIPfRYTvH0kMWLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/363808-pumpkin-oatmeal-Alberta-Rose-1x1-1-b0666229b7d24974a889e1418b182244.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/55259/hero.webp",
+    "steps": [
+      "assets/images/55259/step_01.webp"
+    ]
+  }
+}

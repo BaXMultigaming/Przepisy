@@ -1,0 +1,103 @@
+{
+  "id": "54030",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/54030/barbeque-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/54030/barbeque-chicken/",
+  "title": "Barbeque Chicken",
+  "description": "Chicken baked in a home made barbecue sauce. Very easy. Very good.",
+  "authors": [
+    "RENA R"
+  ],
+  "date_published": "2020-03-04T23:58:06-05:00",
+  "date_modified": "2022-10-19T23:15:14-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT90M",
+  "total_time": "PT110M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons water",
+    "3 tablespoons ketchup",
+    "3 tablespoons brown sugar",
+    "2 tablespoons vinegar",
+    "1 tablespoon lemon juice",
+    "2 tablespoons Worcestershire sauce",
+    "1 teaspoon salt",
+    "1 teaspoon dry mustard",
+    "1 teaspoon chili powder",
+    "12 chicken thighs, skin removed"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 500 degrees F (260 degrees C). In a small saucepan over medium heat, stir together the water, ketchup, brown sugar, vinegar, lemon juice, and Worcestershire sauce. Season with salt, mustard powder, and chili powder. Simmer the sauce for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the chicken thighs into an oblong baking dish, and pour the sauce over them. Cover tightly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 15 minutes in the preheated oven, then reduce the temperature to 300 degrees F (150 degrees C), and bake for one hour. Remove cover, stir and bake uncovered for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UY97LJ3lCaiC-LYOhFLPtRiqgD4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1019160-barbeque-chicken-ReneePaj-1x1-1-791bc0cdb669455e8ef044364285851e.jpg"
+      ],
+      "image": "assets/images/54030/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "135 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "306 mg",
+    "sugarContent": "5 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "519"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/kaTqNTFb-ma1DlVvV.mp4",
+    "description": "Brown sugar, ketchup, cayenne pepper make up the main parts of a wonderful homemade barbecue sauce. Bake the chicken in this delicious sauce and add a side of potatoes and green beans for a well-rounded and comfort meal inspired dinner! ",
+    "duration": "PT1M8S",
+    "name": "Barbeque Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kaTqNTFb/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T02:24:03-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UY97LJ3lCaiC-LYOhFLPtRiqgD4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1019160-barbeque-chicken-ReneePaj-1x1-1-791bc0cdb669455e8ef044364285851e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/54030/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/54030/step_03.webp"
+    ]
+  }
+}

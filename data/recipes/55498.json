@@ -1,0 +1,92 @@
+{
+  "id": "55498",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/55498/personal-portobello-pizza/",
+  "requested_url": "https://www.allrecipes.com/recipe/55498/personal-portobello-pizza/",
+  "title": "Personal Portobello Pizza",
+  "description": "A delicious recipe that substitutes a portobello mushroom for a pizza crust. Try using pesto sauce instead of spaghetti sauce, and experiment with your favorite pizza toppings.",
+  "authors": [
+    "KJONES27"
+  ],
+  "date_published": "2018-03-21T12:31:16-04:00",
+  "date_modified": "2026-05-18T13:32:56-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large portobello mushroom, stem removed",
+    "1 tablespoon spaghetti sauce",
+    "0.5 cup mozzarella cheese",
+    "0.5 tablespoon sliced black olives",
+    "4 slices pepperoni sausage",
+    "1 clove garlic, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the mushroom on a baking sheet, and bake for 5 minutes in the preheated oven. Remove from the oven, and spread spaghetti sauce in the cup of the cap. Top with cheese, olives, pepperoni and garlic.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for an additional 20 minutes, or until cheese is melted and golden.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "590 mg",
+    "sugarContent": "4 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "181"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Jb5I4WlowCJj63X0UQdJyh76qAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/149180-personal-portobello-pizza-SunnyByrd-4x3-1-2ac92d2f947a477d983902f9cad123a0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/55498/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

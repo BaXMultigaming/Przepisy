@@ -1,0 +1,94 @@
+{
+  "id": "59111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/59111/amys-delicious-turkey-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/59111/amys-delicious-turkey-burgers/",
+  "title": "Amy’s Delicious Turkey Burgers",
+  "description": "These spicy turkey burgers are easy to prepare with minimal ingredients. They grill up quickly, making them perfect for picnics and other gatherings.",
+  "authors": [
+    "Amy"
+  ],
+  "date_published": "2003-02-20T09:55:33-05:00",
+  "date_modified": "2026-07-16T21:35:52-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 burgers"
+  ],
+  "categories": [
+    "Entree"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 pound ground turkey",
+    "0.5 cup crushed cheese flavored crackers",
+    "1 egg",
+    "1 tablespoon red pepper flakes",
+    "1 tablespoon garlic powder",
+    "1 teaspoon dried minced onion"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an outdoor grill for high heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mix together ground turkey, crushed crackers, egg, red pepper flakes, garlic powder, and onion until well combined. Form into four fat patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook patties on the preheated grill until no longer pink in the center, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "239 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "131 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "160 mg",
+    "sugarContent": "1 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "264"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/98GBX3Sh6pLGlZCA1Yn7Mg40ZLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/59111amys-delicious-turkey-burgersFranceC4x3-0c3bc57eff2e4993880d074afd1cbabd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/59111/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

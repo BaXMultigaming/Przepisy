@@ -1,0 +1,81 @@
+{
+  "id": "53872",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/53872/no-bake-macadamia-nut-cookies/",
+  "requested_url": "https://www.allrecipes.com/recipe/53872/no-bake-macadamia-nut-cookies/",
+  "title": "No Bake Macadamia Nut Cookies",
+  "description": "A twist from the usual no bake cookie recipe using macadamia nut butter!",
+  "authors": [
+    "Christine"
+  ],
+  "date_published": "2020-06-18T23:09:24-04:00",
+  "date_modified": "2022-07-14T16:02:08-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT20M",
+  "yield": [
+    "36",
+    "36 cookies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "1 cup brown sugar",
+    "0.5 cup butter",
+    "0.5 cup soy milk",
+    "2 tablespoons carob powder",
+    "0.25 cup macadamia nut butter",
+    "3 cups oats"
+  ],
+  "steps": [
+    {
+      "text": "Place white sugar, brown sugar, butter, milk, and carob powder in a large pan over medium-high heat; bring to a boil. Boil for 2 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the pan from the heat, and stir in macadamia nut butter until dissolved. Stir in oatmeal until well incorporated. Drop onto a waxed paper lined cookie sheet, and place in the refrigerator to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "102 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "12 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TWUDbIsGYC5rRlqnao9w9NLekXs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2208941-34ea6c01b09848e7acc5a677cc0ba004.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/53872/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

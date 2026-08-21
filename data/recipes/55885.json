@@ -1,0 +1,81 @@
+{
+  "id": "55885",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/55885/quinoa-pilaf/",
+  "requested_url": "https://www.allrecipes.com/recipe/55885/quinoa-pilaf/",
+  "title": "Quinoa Pilaf",
+  "description": "A delicious and easy quinoa pilaf with sauteed onions, carrots, and walnuts. Served with a salad and crusty bread, this pilaf makes for a complete meal.",
+  "authors": [
+    "JBUCK123"
+  ],
+  "date_published": "2020-03-09T22:50:38-04:00",
+  "date_modified": "2022-07-14T16:38:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "0.5 cup chopped onion",
+    "2 carrots, chopped",
+    "1 cup quinoa, rinsed",
+    "2 cups vegetable broth",
+    "0.75 cup chopped walnuts",
+    "0.25 cup chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a saucepan over medium-high heat. Cook onion in oil for 5 minutes, or until translucent. Add carrot, and cook 3 minutes more. Stir in quinoa and vegetable broth, and bring to a boil. Reduce to a simmer, cover, and cook 15 to 20 minutes, or until quinoa is tender and fluffy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, toss quinoa together with walnuts and parsley. Serve hot or at room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "365 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "7 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "260 mg",
+    "sugarContent": "5 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "80"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TFz9kR1IxUHEolhKSsuNA2IYQG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/953202-12826cb687d54381ad1c0395c6cf123a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/55885/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

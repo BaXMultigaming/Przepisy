@@ -1,0 +1,72 @@
+{
+  "id": "55071",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/55071/basic-guacamole-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/55071/basic-guacamole-dip/",
+  "title": "Basic Guacamole Dip",
+  "description": "Serve this four-ingredient guacamole dip with tortilla chips.",
+  "authors": [
+    "MARY A PUTMAN"
+  ],
+  "date_published": "2019-07-10T02:53:45-04:00",
+  "date_modified": "2026-05-28T15:49:27-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 medium ripe avocados - peeled, pitted, and mashed",
+    "2 medium tomatoes, diced",
+    "2 tablespoons minced onion",
+    "1 tablespoon lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Mix avocados, tomatoes, onion, and lemon juice together in a bowl until thoroughly combined. Serve immediately. Store any unused dip in the refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "7 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "9 mg",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-KXLcUecOnU0ob_D0pnEcRVwya8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5431677-2121a48f07424f8eb97a03e6bb5bb8ef.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/55071/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

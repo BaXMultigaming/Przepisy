@@ -1,0 +1,85 @@
+{
+  "id": "58443",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/58443/mexican-white-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/58443/mexican-white-sauce/",
+  "title": "Mexican White Sauce",
+  "description": "This spicy Mexican white sauce is seasoned with red pepper flakes, garlic powder, cumin, and oregano. Perfect for serving with tortilla chips.",
+  "authors": [
+    "Jen Jonesy"
+  ],
+  "date_published": "2018-06-08T09:21:56-04:00",
+  "date_modified": "2026-03-04T14:46:29-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "24",
+    "3 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups creamy salad dressing, e.g. Miracle Whip ™",
+    "0.75 cup milk",
+    "0.5 tablespoon crushed red pepper flakes",
+    "1.5 teaspoons ground cumin",
+    "1.5 teaspoons garlic powder",
+    "1.5 teaspoons dried oregano",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Place salad dressing into a medium bowl; gradually stir in milk until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season with red pepper flakes, cumin, garlic powder, oregano, and salt; mix well. Cover and refrigerate for at least 2 hours to allow flavors to blend.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "66 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "219 mg",
+    "sugarContent": "3 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "88"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9Z23_HgFzXcZ7tl9DbTqkr_WdSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6765159-mexican-white-sauce-Rachel-Faubion-4x3-1-1f85b7ae6a504991afdc9b85a10e8e7d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/58443/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

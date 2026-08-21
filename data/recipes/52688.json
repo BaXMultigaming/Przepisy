@@ -1,0 +1,117 @@
+{
+  "id": "52688",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52688/cinnamon-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/52688/cinnamon-toast/",
+  "title": "Cinnamon Toast",
+  "description": "Easy cinnamon toast recipe for crispy, buttery bread topped with a sweet blend of cinnamon and sugar for a quick to-go breakfast or sugary snack.",
+  "authors": [
+    "Melodi"
+  ],
+  "date_published": "2020-06-18T23:09:16-04:00",
+  "date_modified": "2025-10-15T13:58:36-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT2M",
+  "total_time": "PT7M",
+  "yield": [
+    "2",
+    "2 slices"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 slices white bread",
+    "2 teaspoons butter or margarine",
+    "2 tablespoons white sugar",
+    "1 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Toast bread slices in a toaster to desired darkness.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/TC6EVCJhZUEDcNPaBpIFWfy4cNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52688-CinnamonToast-mfs-Step1-3519-6233f04a59654bd3983b5cef0e1f6c2f.jpg"
+      ],
+      "image": "assets/images/52688/step_01.webp"
+    },
+    {
+      "text": "Spread butter or margarine onto one side of each slice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir together sugar and cinnamon in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4qqtIGlm2OD0dJ3pEA6I-TuRkE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52688-CinnamonToast-mfs-Step2-3521-e09feb8c8ae0436cbdd908655d06b6e6.jpg"
+      ],
+      "image": "assets/images/52688/step_03.webp"
+    },
+    {
+      "text": "Sprinkle cinnamon-sugar mixture generously over hot, buttered toast.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_WeMTJqYriXKEpyuTnQGQidnYPY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52688-CinnamonToast-mfs-4X3-3562-63d21a88a17849838f730a2700c95edc.jpg"
+      ],
+      "image": "assets/images/52688/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "199 mg",
+    "sugarContent": "14 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "174"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ZuLYQfdg-K3AjnAEN.mp4",
+    "description": "Yummy cinnamon toast makes a great breakfast or snack! Use the recipe in this video any time you need to grab a quick breakfast on the go. You can even use an empty spice bottle to store the mixed cinnamon and sugar and save time.",
+    "duration": "PT34S",
+    "name": "How to Make Cinnamon Toast",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ZuLYQfdg/poster.jpg?width=1280",
+    "uploadDate": "2022-10-08T09:31:57-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_WeMTJqYriXKEpyuTnQGQidnYPY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52688-CinnamonToast-mfs-4X3-3562-63d21a88a17849838f730a2700c95edc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52688/hero.webp",
+    "steps": [
+      "assets/images/52688/step_01.webp",
+      null,
+      "assets/images/52688/step_03.webp",
+      "assets/images/52688/step_04.webp"
+    ]
+  }
+}

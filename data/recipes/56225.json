@@ -1,0 +1,77 @@
+{
+  "id": "56225",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/56225/fried-sweet-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/56225/fried-sweet-potatoes/",
+  "title": "Fried Sweet Potatoes",
+  "description": "Fried sweet potatoes are easy to make and always a crowd-pleaser. Simply blanch sweet potatoes then slice and fry in melted butter and brown sugar.",
+  "authors": [
+    "LISAB4X"
+  ],
+  "date_published": "2020-03-04T23:58:13-05:00",
+  "date_modified": "2022-09-12T10:46:35-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 sweet potatoes, peeled",
+    "0.5 cup butter, or more as needed",
+    "2 cups packed light brown sugar"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of water to a boil. Add sweet potatoes, and boil for about 4 minutes. Remove from water, and cut into 1/2-inch slices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large frying pan over medium heat. Stir in brown sugar until dissolved, adding more butter if necessary. Add sweet potatoes, and fry until golden brown and fork tender, turning occasionally. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "399 kcal",
+    "carbohydrateContent": "74 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "132 mg",
+    "sugarContent": "60 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "105"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/z0GZWc33nSh5r1wTw_TaK-XNEKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/617111-fried-sweet-potatoes-hungryallweighs-4x3-1-c918fedbd34448ef8b45fbccb03a3dcf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/56225/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
