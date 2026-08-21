@@ -1,0 +1,78 @@
+{
+  "id": "15212",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15212/easy-corn-chowder-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/15212/easy-corn-chowder-i/",
+  "title": "Easy Corn Chowder",
+  "description": "This creamy chowder is a simple soup with simple ingredients that will win you over. Serve with corn bread and a crisp salad for an elegant dinner or a substantial lunch!",
+  "authors": [
+    "carol"
+  ],
+  "date_published": "1999-01-18T22:25:34-05:00",
+  "date_modified": "2026-08-20T11:59:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT40M",
+  "total_time": "PT50M",
+  "yield": [
+    "3",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 slices bacon, diced",
+    "1 onion, chopped",
+    "1 (14.75 ounce) can cream-style corn",
+    "1.5 cups cubed potatoes",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "3 cups milk",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Sauté bacon and onions together in a large saucepan over medium heat until onions are tender, about 7 minutes. Add corn, potatoes, soup, milk, salt, and pepper. Increase heat to high and bring to a boil. Reduce heat to low, cover, and simmer until potatoes are tender, about 25 to 35 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "553 kcal",
+    "carbohydrateContent": "60 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1465 mg",
+    "sugarContent": "20 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eU0pYavq8ow68iDsCxkt9d0ofFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7980689-e439846839f849ccacb41bccaee012e0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15212/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

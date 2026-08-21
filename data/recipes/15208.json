@@ -1,0 +1,80 @@
+{
+  "id": "15208",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15208/fresh-rosemary-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/15208/fresh-rosemary-bread/",
+  "title": "Fresh Rosemary Bread",
+  "description": "This a wonderful herbed, cheese bread to serve with soup.",
+  "authors": [
+    "MARBALET"
+  ],
+  "date_published": "1999-12-25T22:00:56-05:00",
+  "date_modified": "2022-08-04T10:02:59-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT180M",
+  "total_time": "PT185M",
+  "yield": [
+    "12",
+    "1 1/2 - pound loaf"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (.25 ounce) package active dry yeast",
+    "0.75 cup whole wheat flour",
+    "1.25 cups bread flour",
+    "0.75 cup oat bran",
+    "1 teaspoon salt",
+    "2 tablespoons extra virgin olive oil",
+    "2 tablespoons honey",
+    "2 tablespoons chopped fresh rosemary",
+    "0.5 cup shredded mozzarella cheese",
+    "0.5 cup grated Parmesan cheese",
+    "1 teaspoon ground black pepper",
+    "1 teaspoon garlic salt",
+    "0.25 cup vital wheat gluten",
+    "1.1875 cups warm water (110 degrees F/45 degrees C)"
+  ],
+  "steps": [
+    {
+      "text": "Place ingredients into the pan of the bread machine in the order suggested by the manufacturer. Select Oat/French or White Bread cycle and the Light setting for the crust. Start.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "111 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "426 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3xOsm1308NCormwaMHHHAo9-kaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/874244-0aa3ebc10b8f40268afaa62f1a7850de.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15208/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

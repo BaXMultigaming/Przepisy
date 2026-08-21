@@ -1,0 +1,78 @@
+{
+  "id": "14849",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14849/tapenade/",
+  "requested_url": "https://www.allrecipes.com/recipe/14849/tapenade/",
+  "title": "Tapenade",
+  "description": "This tapenade uses Mediterranean ingredients including olive oil, anchovies, Kalamata olives, and capers to make a tasty condiment, spread, or dip.",
+  "authors": [
+    "Jim Clark"
+  ],
+  "date_published": "1999-11-07T15:53:46-05:00",
+  "date_modified": "2025-06-02T20:01:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.75 cups whole, pitted kalamata olives",
+    "1 (2 ounce) can anchovy fillets, rinsed",
+    "3 tablespoons lemon juice",
+    "2 tablespoons capers",
+    "1 clove garlic, chopped",
+    "1 teaspoon chopped fresh thyme",
+    "1 teaspoon chopped fresh rosemary",
+    "4 tablespoons olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Place olives, anchovies, lemon juice, capers, garlic, thyme, and rosemary into a blender. Turn the blender on; drizzle in olive oil until a thick, chunky paste is formed, about 5 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1002 mg",
+    "sugarContent": "0 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "72"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tR0EJjClESWvUTCZmCUiBxShByU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14849tapenadelutzflcat-6d4afedc2d8c47fba606340cbba69655.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/14849/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

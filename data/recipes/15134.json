@@ -1,0 +1,110 @@
+{
+  "id": "15134",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15134/mushroom-chicken-piccata/",
+  "requested_url": "https://www.allrecipes.com/recipe/15134/mushroom-chicken-piccata/",
+  "title": "Mushroom Chicken Piccata",
+  "description": "The classic chicken piccata recipe, featuring chicken cooked with white wine, lemon juice, and butter, gets a lovely boost with the addition of mushrooms.",
+  "authors": [
+    "Karen"
+  ],
+  "date_published": "1999-05-09T17:58:14-04:00",
+  "date_modified": "2026-05-05T09:45:18-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT35M",
+  "total_time": "PT55M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg",
+    "2 tablespoons milk",
+    "0.5 cup all-purpose flour",
+    "1 teaspoon salt",
+    "0.5 teaspoon paprika",
+    "6 skinless, boneless chicken breast halves",
+    "4 tablespoons butter",
+    "0.5 pound fresh mushrooms, sliced",
+    "0.25 cup chopped onion",
+    "1 cup chicken broth",
+    "0.5 cup white wine",
+    "2 tablespoons lemon juice",
+    "1 tablespoon cornstarch",
+    "1 tablespoon chopped fresh parsley, for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Mix egg and milk together in a shallow bowl. Mix flour, salt, and paprika together in a second shallow bowl. Dip chicken into egg mixture, then lift up so excess egg drips back into the bowl. Press into flour mixture to coat both sides.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium-high heat. Add chicken and sauté until golden brown, 2 to 3 minutes per side. Add mushrooms and onion; sauté for 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix broth, wine, lemon juice, and cornstarch together in a medium bowl; pour over chicken and mushrooms. Reduce the heat to medium-low and simmer until chicken is cooked through and the juices run clear, about 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Sprinkle with parsley and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Bbmz72DajCKtC2K5BGtU0ZVSkPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1169917-824347e33bbf4153870b9c10f0f901f4.jpg"
+      ],
+      "image": "assets/images/15134/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "288 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "121 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "697 mg",
+    "sugarContent": "2 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "783"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RHcCzksM-ma1DlVvV.mp4",
+    "description": "Mushrooms take classic chicken piccata to new heights of flavor.",
+    "duration": "PT3M3S",
+    "name": "Mushroom Chicken Piccata",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RHcCzksM/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T21:33:33-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Bbmz72DajCKtC2K5BGtU0ZVSkPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1169917-824347e33bbf4153870b9c10f0f901f4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15134/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/15134/step_03.webp"
+    ]
+  }
+}

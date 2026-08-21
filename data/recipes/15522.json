@@ -1,0 +1,75 @@
+{
+  "id": "15522",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15522/hamburger-rice-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/15522/hamburger-rice-soup/",
+  "title": "Hamburger Rice Soup",
+  "description": "Very satisfying on a cold winter night. This soup has all the essentials, and it&#39;s quite delicious.",
+  "authors": [
+    "Chris Steele"
+  ],
+  "date_published": "1999-11-02T14:43:57-05:00",
+  "date_modified": "2022-10-13T13:33:16-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "2 (14.5 ounce) cans diced tomatoes",
+    "2 cups cubed potatoes",
+    "2 carrots, chopped",
+    "1 onion, chopped",
+    "4 teaspoons salt",
+    "0.25 cup uncooked white rice",
+    "0.125 teaspoon ground black pepper",
+    "6 cups water"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan over medium heat, saute the ground beef for 5 minutes, or until browned. Drain the excess fat and add the tomatoes with liquid, potatoes, carrots, onion, salt, rice, black pepper and water. Bring to a boil and reduce heat to low. Simmer for 1 hour and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "346 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1928 mg",
+    "sugarContent": "6 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "91"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SXwLHFQ5wVLNeWT1jckNxES09jA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6803906-f6740e7e7037404e8bbb2b3761014749.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15522/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

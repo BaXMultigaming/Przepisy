@@ -1,0 +1,81 @@
+{
+  "id": "15388",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15388/potato-soup-viii/",
+  "requested_url": "https://www.allrecipes.com/recipe/15388/potato-soup-viii/",
+  "title": "Potato Soup VIII",
+  "description": "This is a very low fat soup. No one will ever know. Try adding diced ham or bacon.",
+  "authors": [
+    "Terri"
+  ],
+  "date_published": "1999-01-18T20:40:34-05:00",
+  "date_modified": "2022-07-14T15:43:56-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 potatoes, peeled and cubed",
+    "1 cup water",
+    "1 cup chopped onion",
+    "0.5 cup chopped celery",
+    "0.5 cup chopped carrots",
+    "1 cube chicken bouillon",
+    "0.25 cup nonfat dry milk powder",
+    "2 tablespoons all-purpose flour",
+    "2 cups skim milk"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan over high heat, add the potatoes, water, onions, celery, carrots and bouillon. Bring to a boil and reduce heat to low. Cover and simmer for 20 minutes, or until potatoes are tender. Mash slightly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, mix together the milk powder and the flour. Gradually add the milk, stirring until smooth. Add the milk/flour mixture to the potato mixture, stirring constantly. Cook and stir until soup is thick and bubbly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "187 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "331 mg",
+    "sugarContent": "11 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/31jyYQQ23z0HO-nCJZOoweh8H5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/469892-a26b9162257542fba3ec7e10450554dc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15388/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

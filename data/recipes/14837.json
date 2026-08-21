@@ -1,0 +1,94 @@
+{
+  "id": "14837",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14837/best-guacamole/",
+  "requested_url": "https://www.allrecipes.com/recipe/14837/best-guacamole/",
+  "title": "Best Guacamole",
+  "description": "The best guacamole recipe. For chips or a taco topping, guacamole enhanced with lemon and onion is a forever favorite. And it’s easy to make.",
+  "authors": [
+    "PHLOX"
+  ],
+  "date_published": "1999-11-05T18:14:38-05:00",
+  "date_modified": "2026-08-13T17:26:22-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT65M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 avocados",
+    "0.5 lemon, juiced",
+    "2 tablespoons chopped onion",
+    "2 tablespoons olive oil",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Cut avocados into halves. Remove seeds and scoop out the pulp into a small bowl. Use a fork to mash the avocado.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in lemon juice, onion, olive oil, and salt. Cover the bowl and refrigerate for 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/l83-HCD7Zl6HH1-qmlAK-8fVcXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/363326-57496b11955e464bb258af225f9e549c.jpg"
+      ],
+      "image": "assets/images/14837/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "56 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "75 mg",
+    "sugarContent": "0 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "694"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jnxhGbTQ-ma1DlVvV.mp4",
+    "description": "AR0559",
+    "duration": "PT2M8S",
+    "name": "Best Guacamole",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jnxhGbTQ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T05:44:40-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l83-HCD7Zl6HH1-qmlAK-8fVcXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/363326-57496b11955e464bb258af225f9e549c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14837/hero.webp",
+    "steps": [
+      null,
+      "assets/images/14837/step_02.webp"
+    ]
+  }
+}

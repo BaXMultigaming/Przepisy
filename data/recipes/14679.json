@@ -1,0 +1,103 @@
+{
+  "id": "14679",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14679/sesame-beef/",
+  "requested_url": "https://www.allrecipes.com/recipe/14679/sesame-beef/",
+  "title": "Sesame Beef",
+  "description": "This sesame beef recipe features strips of round steak marinated with scallions, soy sauce, sugar, and garlic, then stir-fried with sesame seeds.",
+  "authors": [
+    "LMEC623"
+  ],
+  "date_published": "1999-10-19T23:30:23-04:00",
+  "date_modified": "2026-02-14T16:09:49-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "World"
+  ],
+  "regions": [
+    "World"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup white sugar",
+    "0.25 cup vegetable oil",
+    "0.25 cup soy sauce",
+    "2 green onions, chopped",
+    "2 cloves garlic, minced",
+    "1 pound round steak",
+    "2 tablespoons sesame seeds"
+  ],
+  "steps": [
+    {
+      "text": "Mix together sugar, oil, soy sauce, green onions, and garlic in a large bowl; set marinade aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut steak into strips and add to marinade; stir to coat. Cover the bowl and place in the refrigerator, 30 minutes to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook steak with marinade in a wok or frying pan over medium-high heat, stirring occasionally, until browned, about 5 minutes. Add sesame seeds; cook for 2 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/aiW4LtFrFBw88KvZWgK_fRv931I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/858484-59275b0136c042cfa516c0e9cb277ea0.jpg"
+      ],
+      "image": "assets/images/14679/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "354 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "944 mg",
+    "sugarContent": "13 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1045"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Q77antjD-K3AjnAEN.mp4",
+    "description": "Watch how to turn a pound of round steak into a tender and flavorful stir-fry dish. The beef is marinated in soy sauce, sugar, and garlic. Then, it's quickly cooked in a hot wok or a large saute pan. Garnish with green onions and sesame seeds and serve with rice.",
+    "duration": "PT59S",
+    "name": "Sesame Beef",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Q77antjD/poster.jpg?width=1280",
+    "uploadDate": "2021-07-23T08:42:16-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aiW4LtFrFBw88KvZWgK_fRv931I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/858484-59275b0136c042cfa516c0e9cb277ea0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14679/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14679/step_03.webp"
+    ]
+  }
+}

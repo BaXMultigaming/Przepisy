@@ -1,0 +1,103 @@
+{
+  "id": "14689",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14689/french-dip-sandwiches/",
+  "requested_url": "https://www.allrecipes.com/recipe/14689/french-dip-sandwiches/",
+  "title": "French Dip Sandwiches",
+  "description": "This sandwich is enjoying a renaissance, in slow-cooked versions. Here, soy sauce, rosemary, and thyme add depth of flavor to the broth that develops over 10 to 12 hours of cooking.",
+  "authors": [
+    "Giselle"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:37:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT720M",
+  "total_time": "PT730M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (4 pound) boneless beef roast",
+    "0.5 cup soy sauce",
+    "1 beef bouillon cube",
+    "1 bay leaf",
+    "3 whole black peppercorns",
+    "1 teaspoon dried rosemary, crushed",
+    "1 teaspoon dried thyme",
+    "1 teaspoon garlic powder",
+    "20 slices French bread"
+  ],
+  "steps": [
+    {
+      "text": "Remove and discard all visible fat from the roast. Place trimmed roast in a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, combine soy sauce, bouillon, bay leaf, peppercorns, rosemary, thyme, and garlic powder. Pour mixture over roast, and add enough water to almost cover roast. Cover, and cook on Low heat for 10 to 12 hours, or until meat is very tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove meat from broth, reserving broth. Shred meat with a fork, and distribute on bread for sandwiches. Used reserved broth for dipping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/uUWa3z-Z2fJTcw9VImTXcq9JrYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1116881-ffeb1e2467e746f2adec2f22b1a7cc18.jpg"
+      ],
+      "image": "assets/images/14689/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "373 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "76 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1173 mg",
+    "sugarContent": "2 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "909"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/SB3ilIf8-ma1DlVvV.mp4",
+    "description": "AR0880",
+    "duration": "PT3M48S",
+    "name": "French Dip Sandwiches",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/SB3ilIf8/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T12:06:46-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uUWa3z-Z2fJTcw9VImTXcq9JrYI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1116881-ffeb1e2467e746f2adec2f22b1a7cc18.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14689/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/14689/step_03.webp"
+    ]
+  }
+}

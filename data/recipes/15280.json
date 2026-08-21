@@ -1,0 +1,78 @@
+{
+  "id": "15280",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15280/potato-soup-a-la-inge/",
+  "requested_url": "https://www.allrecipes.com/recipe/15280/potato-soup-a-la-inge/",
+  "title": "Potato Soup a la Inge",
+  "description": "Just great soul food. Garnish with bacon bits.",
+  "authors": [
+    "Inge"
+  ],
+  "date_published": "1999-09-11T15:13:50-04:00",
+  "date_modified": "2025-04-27T15:18:33-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "5 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 potatoes, peeled and cubed",
+    "5 cubes chicken bouillon",
+    "2.5 quarts water",
+    "salt and pepper to taste",
+    "1 dash garlic powder",
+    "1 pinch ground nutmeg",
+    "1 pint heavy whipping cream",
+    "3 green onions, chopped"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over high heat, combine the potatoes, bouillon, water, salt and pepper, garlic powder and nutmeg. Cook for about 15 minutes or until potatoes are tender. Add the heavy cream and the green onions. Stir well and allow soup to bubble up, about 5 minutes. Remove from heat and pour into individual bowls. Garnish with bacon bits and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "633 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "164 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "28 g",
+    "sodiumContent": "1521 mg",
+    "sugarContent": "3 g",
+    "fatContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IcwesthZN8xTMSKqLSQ3TUpgra0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/965174-6abca8488f2547f1aee00724ec65954c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15280/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

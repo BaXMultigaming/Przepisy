@@ -1,0 +1,75 @@
+{
+  "id": "15020",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15020/chip-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/15020/chip-dip/",
+  "title": "Chip Dip",
+  "description": "A simple, delicious cream cheese dip for potato chips that gains flavor from freshly minced onion — no dry-soup packages required. Easy to make.",
+  "authors": [
+    "Susan Simpson"
+  ],
+  "date_published": "1999-12-09T22:43:58-05:00",
+  "date_modified": "2026-05-14T11:10:42-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "1.5 tablespoons mayonnaise",
+    "1 tablespoon milk",
+    "1 tablespoon Worcestershire sauce",
+    "3 tablespoons chopped onions"
+  ],
+  "steps": [
+    {
+      "text": "Combine cream cheese, mayonnaise, milk, and Worcestershire sauce in a small mixing bowl. Stir in onions to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "239 mg",
+    "sugarContent": "1 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xG34hr54FMyka3W0HSTEVdPv7m0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4553986-b536e944fb744b639419fe6721d498c7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15020/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

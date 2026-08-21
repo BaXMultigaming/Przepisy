@@ -1,0 +1,96 @@
+{
+  "id": "14811",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14811/creamy-dill-cucumber-toasties/",
+  "requested_url": "https://www.allrecipes.com/recipe/14811/creamy-dill-cucumber-toasties/",
+  "title": "Creamy Dill Cucumber Toasties",
+  "description": "This simple but tasty appetizer takes its cue from English tea sandwiches -this time, atop crusty baguette slices with a creamy spread.",
+  "authors": [
+    "Dianne McKenzie"
+  ],
+  "date_published": "1999-10-26T18:45:59-04:00",
+  "date_modified": "2026-08-21T13:40:42-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "1 (.7 ounce) package dry Italian-style salad dressing mix",
+    "0.5 cup mayonnaise",
+    "1 French baguette, cut into 1/2 inch thick circles",
+    "1 cucumber, sliced",
+    "2 teaspoons dried dill weed"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix together cream cheese, dressing mix and mayonnaise.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread a thin layer of the cream cheese mixture on a slice of bread, and top with a slice of cucumber. Sprinkle with dill. Repeat with remaining ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/IoPcN_OgyA6GLHwq0WIXFIH-q3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamy-dill-cucumber-toasties-293fb187fa3746c3b8c41fa0e8d74ad8.jpeg"
+      ],
+      "image": "assets/images/14811/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "247 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "24 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "619 mg",
+    "sugarContent": "2 g",
+    "fatContent": "15 g",
+    "servingSize": "1 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "979"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fWiiVGlJ-ma1DlVvV.mp4",
+    "description": "AR1201",
+    "duration": "PT2M51S",
+    "name": "Creamy Dill Cucumber Toasties",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fWiiVGlJ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T15:28:56-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IoPcN_OgyA6GLHwq0WIXFIH-q3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamy-dill-cucumber-toasties-293fb187fa3746c3b8c41fa0e8d74ad8.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/14811/hero.webp",
+    "steps": [
+      null,
+      "assets/images/14811/step_02.webp"
+    ]
+  }
+}

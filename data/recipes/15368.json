@@ -1,0 +1,93 @@
+{
+  "id": "15368",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15368/deviled-eggs-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/15368/deviled-eggs-i/",
+  "title": "Easy Deviled Eggs",
+  "description": "This easy deviled eggs recipe fills hard-boiled eggs with a tasty, creamy filling made with cooked egg yolks, paprika, mayonnaise, and mustard.",
+  "authors": [
+    "Martin"
+  ],
+  "date_published": "1999-12-17T19:35:04-05:00",
+  "date_modified": "2025-07-28T09:13:43-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 eggs",
+    "0.5 teaspoon paprika",
+    "2 tablespoons mayonnaise",
+    "0.5 teaspoon mustard powder"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs in a pot of salted water. Bring the water to a boil, and let eggs cook in boiling water until they are hard boiled, approximately 10 to 15 minutes. Drain eggs, and let cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut eggs in half, lengthwise. Remove the egg yolks and mash them together in a small mixing bowl. Mix in the paprika, mayonnaise, and dry mustard. Spoon mixture into the egg whites; cool and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FKwEJ1CyPgiFDniy_bdR3hLWbaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6562963-deviled-eggs-i-AllrecipesPhoto-1x1-1-81d111e8b5914ca99b82d7323e2a141e.jpg"
+      ],
+      "image": "assets/images/15368/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "107 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "188 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "96 mg",
+    "sugarContent": "1 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "449"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/UB7ICvF1-K3AjnAEN.mp4",
+    "description": "Deviled eggs are one of the most beloved easy appetizers. With only 4 ingredients this is a great basic recipe. Feel free to spruce it up with different spices to your liking.",
+    "duration": "PT39S",
+    "name": "Deviled Eggs I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/UB7ICvF1/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:30:03-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FKwEJ1CyPgiFDniy_bdR3hLWbaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6562963-deviled-eggs-i-AllrecipesPhoto-1x1-1-81d111e8b5914ca99b82d7323e2a141e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15368/hero.webp",
+    "steps": [
+      null,
+      "assets/images/15368/step_02.webp"
+    ]
+  }
+}

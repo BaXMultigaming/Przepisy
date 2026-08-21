@@ -1,0 +1,86 @@
+{
+  "id": "15183",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15183/carrot-patties/",
+  "requested_url": "https://www.allrecipes.com/recipe/15183/carrot-patties/",
+  "title": "Carrot Patties",
+  "description": "Of all the shredded carrot recipes out there, you&#39;re sure to love this one for breaded carrot patties flavored with garlic and pan-fried until golden!",
+  "authors": [
+    "Haggith Nadav"
+  ],
+  "date_published": "1999-10-20T16:00:55-04:00",
+  "date_modified": "2023-11-06T13:16:08-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound carrots, grated",
+    "4 eggs",
+    "0.25 cup all-purpose flour",
+    "0.25 cup bread crumbs or matzo meal",
+    "1 clove garlic, minced",
+    "0.5 teaspoon salt",
+    "1 pinch ground black pepper",
+    "2 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Mix grated carrots, eggs, flour, bread crumbs, garlic, salt, and pepper together in a medium mixing bowl until well combined. Form into patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a frying pan over medium-high heat. Add patties and fry until golden brown on each side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "236 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "186 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "489 mg",
+    "sugarContent": "6 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mCAXmAmZr3c-tEpIubvleweXjaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/376834-f4649865c542462587760615231f645a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15183/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

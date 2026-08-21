@@ -1,0 +1,88 @@
+{
+  "id": "14817",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14817/beer-dip-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/14817/beer-dip-i/",
+  "title": "Beer Dip",
+  "description": "This creamy beer dip can be made with a pale ale or a stout to give the herby, cream cheese–based dip its signature zip.",
+  "authors": [
+    "Michaeleen"
+  ],
+  "date_published": "1999-10-27T18:15:20-04:00",
+  "date_modified": "2026-02-14T15:08:43-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT180M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (8 ounce) packages cream cheese, softened",
+    "1 (1 ounce) package ranch dressing mix",
+    "2 cups shredded Cheddar cheese",
+    "0.33331999182701 cup beer"
+  ],
+  "steps": [
+    {
+      "text": "Combine cream cheese and dressing mix in a medium bowl. Stir in Cheddar cheese, and then beer. The mixture will appear mushy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XAt6RYorT9nTpYoIb_Ek8uFq8Ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14817-beer-dip-i-VAT-step-01-41a7ba0835e74a06815fd07583889c62.jpg"
+      ],
+      "image": "assets/images/14817/step_01.webp"
+    },
+    {
+      "text": "Cover bowl, and refrigerate for at least 3 hours, overnight if possible.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/w-cWBX73ITS08qiQke6DJEtvqko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14817-beer-dip-i-VAT-step-02-bf00d57a7ad145c2b5f6abb1e59e5252.jpg"
+      ],
+      "image": "assets/images/14817/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "81 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "23 mg",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "147 mg",
+    "sugarContent": "0 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "306"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DxSG2Toh-Wd-PWNRO0GklUvEkTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14817-beer-dip-i-VAT-Beauty-4x3-17cb0d6009b34f0c8503314aa81e6cad.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14817/hero.webp",
+    "steps": [
+      "assets/images/14817/step_01.webp",
+      "assets/images/14817/step_02.webp"
+    ]
+  }
+}

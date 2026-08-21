@@ -1,0 +1,102 @@
+{
+  "id": "15302",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15302/southwest-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/15302/southwest-chicken/",
+  "title": "Southwest Chicken",
+  "description": "Healthy and hearty, chicken simmers with tomatoes, black beans and corn.",
+  "authors": [
+    "Tamcattt"
+  ],
+  "date_published": "1999-05-03T21:48:17-04:00",
+  "date_modified": "2026-03-20T15:49:09-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southwestern"
+  ],
+  "regions": [
+    "Southwestern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "4 skinless, boneless chicken breast halves",
+    "1 (10 ounce) can diced tomatoes with green chile peppers",
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "1 (8.75 ounce) can whole kernel corn, drained",
+    "1 pinch ground cumin"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Add chicken breasts and sear for 2 to 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add tomatoes with green chiles, black beans, and corn. Reduce heat and let simmer until chicken is cooked through and the juices run clear, 25 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle with cumin before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/5GTJBsklXonWL0fqHOzezi1taDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15302-southwest-chicken-VAT-Beauty-4x3-02bd40357cef4467b38bec5ead06d077.jpg"
+      ],
+      "image": "assets/images/15302/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "310 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "863 mg",
+    "sugarContent": "2 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "773"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/urHnyTeQ-ma1DlVvV.mp4",
+    "description": "See how to make a hearty Southwest-style chicken with black beans, corn, tomatoes, and diced green chile peppers. It’s the best of all possible worlds: healthy, quick, and delicious—a great weeknight alternative.",
+    "duration": "PT1M56S",
+    "name": "Southwest Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/urHnyTeQ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T23:02:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5GTJBsklXonWL0fqHOzezi1taDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15302-southwest-chicken-VAT-Beauty-4x3-02bd40357cef4467b38bec5ead06d077.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15302/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/15302/step_03.webp"
+    ]
+  }
+}

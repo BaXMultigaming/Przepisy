@@ -1,0 +1,95 @@
+{
+  "id": "15323",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15323/german-rocks/",
+  "requested_url": "https://www.allrecipes.com/recipe/15323/german-rocks/",
+  "title": "German Rocks",
+  "description": "A heavy cookie with dates and nuts. Derived from Bavarian Inn, Frankenmuth, Michigan.",
+  "authors": [
+    "Mel"
+  ],
+  "date_published": "1999-12-28T15:01:20-05:00",
+  "date_modified": "2022-07-14T17:29:01-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "36",
+    "3 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups white sugar",
+    "0.5 cup butter",
+    "3 eggs",
+    "2.5 cups sifted all-purpose flour",
+    "1 teaspoon ground cinnamon",
+    "1 teaspoon baking soda",
+    "1 teaspoon hot water",
+    "2 cups dates, pitted and chopped",
+    "3 cups chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, cream the butter and sugar. Add eggs, one at a time, beating after each. Dissolve the baking soda in the hot water, add it to the egg mixture. Stir in the flour and cinnamon until well blended. Finally, stir in the dates and walnuts so they are evenly distributed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop by heaping spoonfuls onto an ungreased cookie sheet. Bake for 10 to 15 minutes in the preheated oven, until golden.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "179 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "60 mg",
+    "sugarContent": "14 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-xqQHCgkUJR9X3TDnyACnD7DK4A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1778716-247306632ad14521b4a7d891cfe45e92.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15323/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

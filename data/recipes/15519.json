@@ -1,0 +1,84 @@
+{
+  "id": "15519",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15519/chunky-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/15519/chunky-stew/",
+  "title": "Chunky Stew",
+  "description": "Ground beef, potatoes and a bag of frozen mixed vegetables are simmered in a can of tomato-vegetable juice cocktail in this recipe serving six.",
+  "authors": [
+    "Mike Ziegler"
+  ],
+  "date_published": "1999-11-24T14:40:22-05:00",
+  "date_modified": "2025-04-27T18:37:41-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "32 ounces tomato-vegetable juice cocktail",
+    "3 potatoes, peeled and cubed",
+    "1 (16 ounce) package frozen mixed vegetables",
+    "1 onion, chopped",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over medium high heat, saute the ground beef for about 5 minutes, or until tender. Drain excess fat. Add the tomato-vegetable juice and bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the potatoes, vegetables and onion and bring back to a boil. Reduce heat to low and simmer for about 30 minutes, or until potatoes are tender. Salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "592 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "129 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "493 mg",
+    "sugarContent": "6 g",
+    "fatContent": "40 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mtCAvjelZhS0vhpU1PVVYOx9CLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4464585-bb5acc986c714ea6ad71d9f362f4dc54.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15519/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

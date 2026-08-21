@@ -1,0 +1,83 @@
+{
+  "id": "14976",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14976/hard-chocolate-glaze/",
+  "requested_url": "https://www.allrecipes.com/recipe/14976/hard-chocolate-glaze/",
+  "title": "Hard Chocolate Glaze",
+  "description": "A chocolate glaze that sets up hard. Use it on cakes or brownies.",
+  "authors": [
+    "CCACHEF"
+  ],
+  "date_published": "1999-12-22T08:40:05-05:00",
+  "date_modified": "2026-05-20T23:37:42-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12",
+    "1 glaze cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 (1 ounce) squares semisweet chocolate",
+    "0.5 cup unsalted butter"
+  ],
+  "steps": [
+    {
+      "text": "Chop chocolate into small pieces; add to top of a double boiler over simmering water. Add butter; stir frequently until melted and smooth. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/w5QtqJDAqmVnWOzE3yYBX-ZWuaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/599205-7c85303cbdb34296b5e600eda1d5e549.jpg"
+      ],
+      "image": "assets/images/14976/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "12 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "163"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/YKnTXdyA-ma1DlVvV.mp4",
+    "description": "AR1302",
+    "duration": "PT1M57S",
+    "name": "Hard Chocolate Glaze",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/YKnTXdyA/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T08:40:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/w5QtqJDAqmVnWOzE3yYBX-ZWuaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/599205-7c85303cbdb34296b5e600eda1d5e549.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14976/hero.webp",
+    "steps": [
+      "assets/images/14976/step_01.webp"
+    ]
+  }
+}

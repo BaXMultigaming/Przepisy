@@ -1,0 +1,82 @@
+{
+  "id": "15238",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15238/delicious-baked-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/15238/delicious-baked-chicken/",
+  "title": "Delicious Baked Chicken",
+  "description": "Basic baked chicken turns lively when soaked with a little Worcestershire.",
+  "authors": [
+    "Janet Schaufele"
+  ],
+  "date_published": "1999-05-06T15:14:22-04:00",
+  "date_modified": "2024-11-26T01:59:33-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 bone-in chicken breast halves, with skin",
+    "1 tablespoon olive oil",
+    "1 pinch garlic powder",
+    "salt and pepper to taste",
+    "0.75 cup Worcestershire sauce"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Rub each chicken breast with olive oil, then place in a lightly greased 9x13 inch baking dish. Season with garlic powder, salt and pepper to taste. Pour Worcestershire sauce over each breast. Cover dish with aluminum foil and bake in the preheated oven for 45 minutes. Check chicken and remove cover if desired. Bake for another 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "457 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "144 mg",
+    "proteinContent": "47 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "642 mg",
+    "sugarContent": "5 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "169"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mVgUXfTLZ9XJoojc8I9JIZBIGKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3470162-delicious-baked-chicken-Rock_lobster-4x3-1-ea40fdf86d5a4759b15a0742e51e0bbc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15238/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

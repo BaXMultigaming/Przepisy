@@ -1,0 +1,95 @@
+{
+  "id": "14944",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14944/blt-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/14944/blt-dip/",
+  "title": "BLT Dip",
+  "description": "This BLT dip recipe features a creamy mayo and sour cream base studded with crisp bacon bits and diced tomatoes, perfect served cold with crackers.",
+  "authors": [
+    "Kathy Bezemes Walstrom"
+  ],
+  "date_published": "1999-11-30T16:28:27-05:00",
+  "date_modified": "2026-01-05T05:47:03-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "3 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack",
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound bacon",
+    "1 cup mayonnaise",
+    "1 cup sour cream",
+    "1 tomato - peeled, seeded and diced"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine mayonnaise and sour cream in a medium bowl. Crumble bacon into mayonnaise mixture; mix until combined. Stir in tomatoes right before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BmitD5qdN-Nd2rvfk_58fE2DLHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/665563-33b48cd48f894675b6fec9e980f92d50.jpg"
+      ],
+      "image": "assets/images/14944/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "181 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "301 mg",
+    "sugarContent": "0 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1111"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/wMzkZVEg-JxZ4e411.mp4",
+    "description": "Take the flavorful taste of a BLT sandwich and turn it into an unforgettable dip. In this video, Nicole shows you how to make an easy BLT dip for your next party. This recipe combines freshly diced tomatoes and chopped bacon with sour cream and mayo for a creamy dip. The BLT dip is cold, crunchy, delicious, and can be made in under twenty minutes. Whatever the occasion is, everyone will be coming back for more.",
+    "duration": "PT30S",
+    "name": "How to Make BLT Dip",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wMzkZVEg/poster.jpg?width=1280",
+    "uploadDate": "2023-06-09T14:03:28-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BmitD5qdN-Nd2rvfk_58fE2DLHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/665563-33b48cd48f894675b6fec9e980f92d50.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14944/hero.webp",
+    "steps": [
+      null,
+      "assets/images/14944/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "14874",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14874/over-the-top-nachos/",
+  "requested_url": "https://www.allrecipes.com/recipe/14874/over-the-top-nachos/",
+  "title": "Over the Top Nachos",
+  "description": "Ground beef is the key to these hearty classic nachos--it’s generously spread over the chips before cheese and toppings.",
+  "authors": [
+    "Charlie"
+  ],
+  "date_published": "1999-10-28T11:31:10-04:00",
+  "date_modified": "2026-08-17T15:57:51-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 onion, finely diced",
+    "salt and pepper to taste",
+    "2 cups shredded Cheddar cheese",
+    "1 (16 ounce) can refried beans",
+    "1 (14.5 ounce) package tortilla chips",
+    "1 fresh jalapeno pepper, sliced"
+  ],
+  "steps": [
+    {
+      "text": "In a large frying pan, brown ground beef with onion, salt and pepper over medium heat. Break the meat into very small pieces while it is cooking. After the meat is thoroughly cooked, drain off the grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange chips on a microwavable platter. Spread beans over the chips. Layer with 1/2 of the cheese, the ground beef mixture, and remaining cheese. Arrange jalapeno peppers on top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Microwave on medium-high until cheese has melted. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "829 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "119 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "846 mg",
+    "sugarContent": "2 g",
+    "fatContent": "52 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "199"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Agvulq4zmSqCxcfIAzfJdtC8bns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1119771-2ac554bdfdaf45b695713aa36e8cd347.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14874/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

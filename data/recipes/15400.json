@@ -1,0 +1,81 @@
+{
+  "id": "15400",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15400/caramel-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/15400/caramel-pie/",
+  "title": "Caramel Pie",
+  "description": "This caramel pie is made with just three ingredients. It&#39;s the perfect choice when you&#39;re searching for a delicious dessert for a special occasion.",
+  "authors": [
+    "Patti Hood"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2025-12-29T08:18:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT245M",
+  "total_time": "PT435M",
+  "yield": [
+    "10",
+    "1 9-inch pie"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 (9 inch) prepared graham cracker crust",
+    "1 (12 ounce) container frozen whipped topping, thawed"
+  ],
+  "steps": [
+    {
+      "text": "Remove the label from the condensed milk can. Place the can into a large pot and add enough water to cover by 2 to 3 inches. Bring to a boil over high heat. Reduce the heat to medium-high and boil for 4 hours, adding water as necessary to keep the can fully covered.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Use tongs to remove the can from the pot and let cool for about 1 hour. Carefully open the can and pour caramel into graham cracker crust. Refrigerate until caramel is firm, 2 to 4 hours. Top with whipped topping before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "336 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "178 mg",
+    "sugarContent": "37 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "79"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CY1gRzQB4nNIUlhKwrlccF_C_DE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1731471-0f1d34f11508492fbbadf85177904ec5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15400/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

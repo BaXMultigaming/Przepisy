@@ -1,0 +1,73 @@
+{
+  "id": "15202",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15202/vegetable-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/15202/vegetable-dip/",
+  "title": "Vegetable Dip",
+  "description": "Serve this tasty dip with fresh vegetables of your choice.",
+  "authors": [
+    "Cindy Trahin"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:33:28-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT245M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66670000553131 cup mayonnaise",
+    "0.66670000553131 cup sour cream",
+    "2 teaspoons Beau Monde ™ seasoning",
+    "1 tablespoon dried dill weed",
+    "1 tablespoon dried parsley",
+    "1 tablespoon minced onion"
+  ],
+  "steps": [
+    {
+      "text": "Mix together mayonnaise, sour cream, Beau Monde seasoning, dill, parsley, and minced onion. Blend well. Refrigerate for 4 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "116 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "158 mg",
+    "sugarContent": "0 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Pt8103xE1Wap07uo8Zktrl7pj-I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6473276-347a21de8a194dddabb240a65c3d690f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15202/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

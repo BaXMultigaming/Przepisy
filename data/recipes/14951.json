@@ -1,0 +1,110 @@
+{
+  "id": "14951",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14951/grecian-pork-tenderloin/",
+  "requested_url": "https://www.allrecipes.com/recipe/14951/grecian-pork-tenderloin/",
+  "title": "Greek Pork Tenderloin",
+  "description": "This Greek-style pork tenderloin features a zesty marinade of olive oil, garlic, fresh lime juice, and oregano which makes it super tender!",
+  "authors": [
+    "Dave Nash"
+  ],
+  "date_published": "1999-09-01T23:44:03-04:00",
+  "date_modified": "2026-06-01T23:13:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT155M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups fresh lime juice",
+    "0.75 cup olive oil",
+    "6 cloves garlic, sliced",
+    "2 teaspoons salt",
+    "6 tablespoons dried oregano",
+    "2 (1 pound) pork tenderloins"
+  ],
+  "steps": [
+    {
+      "text": "Combine lime juice, olive oil, garlic, salt, and oregano in a large resealable plastic bag. Seal the bag and shake until well combined. Taste marinade for tartness: if too tart, add a little more oil; if not enough zing, add more lime juice. The garlic and salt flavors should also be noticeable, but not overpowering. Place tenderloins into the bag, seal, and turn to coat. Marinate in the refrigerator for 2 to 5 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove tenderloins from marinade and shake off excess. Discard remaining marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill tenderloins on the preheated grill for 20 to 30 minutes, turning once, or to desired doneness. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/p4VzAkpk-vCqxq0hHiJorJ5ZihE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/204049-787cfc41fad549d18759a09dcb8dc73d.jpg"
+      ],
+      "image": "assets/images/14951/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "370 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "600 mg",
+    "sugarContent": "1 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "458"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/CSEac4q2-ma1DlVvV.mp4",
+    "description": "AR1409",
+    "duration": "PT2M19S",
+    "name": "Grecian Pork Tenderloin",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/CSEac4q2/poster.jpg?width=1280",
+    "uploadDate": "2021-08-04T12:05:47-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p4VzAkpk-vCqxq0hHiJorJ5ZihE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/204049-787cfc41fad549d18759a09dcb8dc73d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14951/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/14951/step_04.webp"
+    ]
+  }
+}

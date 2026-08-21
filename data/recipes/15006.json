@@ -1,0 +1,97 @@
+{
+  "id": "15006",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15006/spiced-sweet-roasted-red-pepper-hummus/",
+  "requested_url": "https://www.allrecipes.com/recipe/15006/spiced-sweet-roasted-red-pepper-hummus/",
+  "title": "Spiced Sweet Roasted Red Pepper Hummus",
+  "description": "This red pepper hummus is both spicy and sweet, and it&#39;s so easy to make — just pop everything into the food processor, pulse, and chill!",
+  "authors": [
+    "MARBALET"
+  ],
+  "date_published": "2000-01-07T12:29:40-05:00",
+  "date_modified": "2023-07-09T17:09:56-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT95M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can garbanzo beans, drained",
+    "1 (4 ounce) jar roasted red peppers",
+    "3 tablespoons lemon juice",
+    "1.5 tablespoons tahini",
+    "1 clove garlic, minced",
+    "0.5 teaspoon ground cumin",
+    "0.5 teaspoon cayenne pepper",
+    "0.25 teaspoon salt",
+    "1 tablespoon chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "In an electric blender or food processor, purée garbanzo beans, red peppers, lemon juice, tahini, garlic, cumin, cayenne, and salt. Use long pulses to process until mixture is fairly smooth and slightly fluffy, scraping down the sides in between pulses. Transfer to a serving bowl and refrigerate for at least 1 hour or up to 3 days.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return to room temperature and sprinkle with chopped parsley before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/j1cgZ-P_BbEtQsUnMOHmIj4Bzuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/782898-4b35db6ea5b946c7bce833a14068b366.jpg"
+      ],
+      "image": "assets/images/15006/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "370 mg",
+    "sugarContent": "0 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "733"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/9cB4bazw-ma1DlVvV.mp4",
+    "description": "See how to make a roasted red pepper hummus that's both spicy and just a little sweet. This tasty appetizer is so quick and easy to make.",
+    "duration": "PT2M32S",
+    "name": "Spiced Sweet Roasted Red Pepper Hummus",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9cB4bazw/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T21:45:11-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/j1cgZ-P_BbEtQsUnMOHmIj4Bzuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/782898-4b35db6ea5b946c7bce833a14068b366.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15006/hero.webp",
+    "steps": [
+      null,
+      "assets/images/15006/step_02.webp"
+    ]
+  }
+}

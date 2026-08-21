@@ -1,0 +1,85 @@
+{
+  "id": "14700",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14700/pork-chops-and-sauerkraut/",
+  "requested_url": "https://www.allrecipes.com/recipe/14700/pork-chops-and-sauerkraut/",
+  "title": "Pork Chops and Sauerkraut",
+  "description": "Pork chops, sauerkraut, and onions are sautéed on the stovetop with sweet apple juice and pungent caraway seeds for a simple, hearty one-pan meal.",
+  "authors": [
+    "PETEIYC"
+  ],
+  "date_published": "1999-09-26T09:20:19-04:00",
+  "date_modified": "2026-05-27T21:54:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "4 (3/4 inch) thick pork chops",
+    "16 ounces sauerkraut",
+    "1 onion, thinly sliced",
+    "2 tablespoons apple juice",
+    "2 cloves garlic, minced",
+    "1 teaspoon caraway seed",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium heat. Add pork chops and brown on all sides. Remove from the pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add sauerkraut, onion, apple juice, garlic, and caraway seeds to the hot skillet; season with salt and pepper and sauté for 3 to 4 minutes. Place browned pork chops on top of sauerkraut mixture. Cover, reduce the heat to low, and cook until pork is no longer pink in the center, about 20 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "806 mg",
+    "sugarContent": "4 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "141"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l1-rUcdiW1KIncuk4K3HP5GrUSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/122044-d4e5c70dac9646d38d75ec55913e3a05.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14700/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

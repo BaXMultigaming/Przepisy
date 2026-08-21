@@ -1,0 +1,78 @@
+{
+  "id": "14983",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14983/curried-chicken-with-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/14983/curried-chicken-with-rice/",
+  "title": "Curried Chicken with Rice",
+  "description": "Chutney provides a delicious shortcut in this lime-accented chicken and red bell pepper curry.",
+  "authors": [
+    "Velva Knapp"
+  ],
+  "date_published": "1999-04-26T21:19:55-04:00",
+  "date_modified": "2023-03-09T13:01:50-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "World"
+  ],
+  "regions": [
+    "World"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 pounds cut up chicken pieces",
+    "3 tablespoons olive oil",
+    "3 tablespoons curry powder",
+    "1 (12 ounce) jar chutney",
+    "1 red bell pepper, thinly sliced",
+    "1 lime, cut into wedges",
+    "0.125 cup chopped green onion for topping",
+    "0.25 cup chopped peanuts"
+  ],
+  "steps": [
+    {
+      "text": "Rinse chicken and pat dry. In a large skillet heat oil until almost hot. Add chicken, skin side down. Brown chicken until lightly browned on both sides. Add curry powder, chutney and red bell pepper. Simmer 30 minutes over medium low heat. Top chicken with lime wedges, chopped scallions and peanuts. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "913 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "213 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "57 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "220 mg",
+    "sugarContent": "31 g",
+    "fatContent": "59 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/it0QEL4xa0JhVeqiIgaUjBOeokI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14983curried-chicken-with-riceTammyLynn4x3-89dc2eafc6d3496ab847b344bbd158d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14983/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

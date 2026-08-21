@@ -1,0 +1,75 @@
+{
+  "id": "14805",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14805/strawberry-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/14805/strawberry-salsa/",
+  "title": "Strawberry Salsa",
+  "description": "This easy strawberry salsa is made with fresh strawberries, tomatoes, jalapeño, and lime juice for a sweet and fiery appetizer or summer side dish.",
+  "authors": [
+    "Melinda"
+  ],
+  "date_published": "1999-11-03T17:35:54-05:00",
+  "date_modified": "2025-07-18T05:39:33-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT0M",
+  "total_time": "PT10M",
+  "yield": [
+    "32",
+    "4 cups salsa"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint fresh strawberries, sliced",
+    "4 roma (plum) tomatoes, seeded and chopped",
+    "1 jalapeno peppers, seeded and minced",
+    "2 cloves garlic, minced",
+    "1 lime, juiced",
+    "1 tablespoon olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine strawberries, tomatoes, jalapeño, garlic, lime juice, and oil in a large bowl; toss to mix and coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "10 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZR5Lsg2EGxFOF9LDJ8mqQg0WKCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/strawberry-salsa-4x3-1-2000-b4699c3f5bb0438db3354c8d30b3b5d1.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/14805/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

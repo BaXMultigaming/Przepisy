@@ -1,0 +1,91 @@
+{
+  "id": "15146",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15146/mushroom-and-leek-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/15146/mushroom-and-leek-soup/",
+  "title": "Mushroom and Leek Soup",
+  "description": "Combine mushrooms, leeks, dry sherry, and pasta for this simple and sumptuous soup. A lovely beginning or finish for any meal, and ready to serve in less than 20 minutes.",
+  "authors": [
+    "Ruth"
+  ],
+  "date_published": "1999-09-09T22:50:52-04:00",
+  "date_modified": "2026-05-05T10:42:34-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Side Dish",
+    "Dinner",
+    "Soup"
+  ],
+  "cuisines": [
+    "Southwestern",
+    "American"
+  ],
+  "regions": [
+    "Southwestern",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces fresh mushrooms, sliced",
+    "1 cup sliced leeks",
+    "2 tablespoons margarine",
+    "2 tablespoons olive oil",
+    "0.5 cup dry sherry",
+    "3 (10.5 ounce) cans condensed beef broth",
+    "3.75 cups water",
+    "0.5 teaspoon ground black pepper",
+    "0.5 cup uncooked orzo pasta"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot over medium high heat, saute the mushrooms and leeks in the butter or margarine and olive oil until tender. Add the sherry and reduce liquid by half.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Then add the beef broth, water and ground black pepper. Bring to a boil and add the pasta. Boil gently for 10 minutes, or until the pasta is tender. Garnish with sliced mushrooms if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1233 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "149"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oGrRq3ShXYCNqw1QU6IV76mFfy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6578591_mushroom-and-leek-soup_lutzflcat_4x3-da0a21d3ac154f56b8a7d2e59c25086d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15146/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

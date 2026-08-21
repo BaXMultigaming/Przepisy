@@ -1,0 +1,99 @@
+{
+  "id": "14830",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14830/hummus-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/14830/hummus-iii/",
+  "title": "Hummus III",
+  "description": "As a spread, dip or garlicky pita filling, classic hummus is both delicious and satisfying. Best of all, it&#39;s whipped up in seconds in a blender or food processor.",
+  "authors": [
+    "RC2STEP"
+  ],
+  "date_published": "1999-11-01T23:57:53-05:00",
+  "date_modified": "2022-07-14T17:43:23-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 cups canned garbanzo beans, drained",
+    "0.33333334326744 cup tahini",
+    "0.25 cup lemon juice",
+    "1 teaspoon salt",
+    "2 cloves garlic, halved",
+    "1 tablespoon olive oil",
+    "1 pinch paprika",
+    "1 teaspoon minced fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Place the garbanzo beans, tahini, lemon juice, salt and garlic in a blender or food processor. Blend until smooth. Transfer mixture to a serving bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drizzle olive oil over the garbanzo bean mixture. Sprinkle with paprika and parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bEM46vIcx-3kxOn2X_fUgevFFgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4477057-26452eab22ae4b84a6cc284f43647a5e.jpg"
+      ],
+      "image": "assets/images/14830/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "77 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "236 mg",
+    "sugarContent": "0 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "2292"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jIRQXZyX-ma1DlVvV.mp4",
+    "description": "AR0256",
+    "duration": "PT1M38S",
+    "name": "Hummus III",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jIRQXZyX/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T23:29:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bEM46vIcx-3kxOn2X_fUgevFFgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4477057-26452eab22ae4b84a6cc284f43647a5e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14830/hero.webp",
+    "steps": [
+      null,
+      "assets/images/14830/step_02.webp"
+    ]
+  }
+}

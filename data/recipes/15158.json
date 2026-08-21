@@ -1,0 +1,100 @@
+{
+  "id": "15158",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15158/creamy-chicken-and-rice-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/15158/creamy-chicken-and-rice-soup/",
+  "title": "Creamy Chicken and Rice Soup",
+  "description": "This creamy chicken and rice soup is packed with cooked chicken, brown rice, garlic, and vegetables for a warming, rich and comforting meal.",
+  "authors": [
+    "Heidi Lancaster"
+  ],
+  "date_published": "1999-12-08T16:51:06-05:00",
+  "date_modified": "2026-05-16T13:10:50-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT105M",
+  "total_time": "PT120M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (14 ounce) cans chicken broth",
+    "2 cups uncooked brown rice",
+    "1.5 cups chopped celery",
+    "1.5 cups chopped onion",
+    "1.5 cups water",
+    "1 teaspoon chicken bouillon powder",
+    "1 cup butter or margarine",
+    "0.75 cup all-purpose flour",
+    "6 cups milk, divided",
+    "3 cups chopped, cooked chicken meat",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine broth, rice, celery, onions, water, and bouillon in a large pot over high heat; bring to a boil. Reduce heat to low, cover, and simmer until the rice has absorbed most of the liquid, about 30 minutes. Remove from heat and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a medium saucepan over medium heat; gradually add flour, stirring continuously to make a thick paste. Whisk in 4 cups of milk, 1/2 cup at a time, whisking constantly, until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir sauce and chopped chicken into rice mixture; add some or all of the remaining 2 cups of milk to reach desired consistency. Season with salt and pepper; simmer over low heat, stirring every 15 minutes, for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/vY0QW_hGuyusAVYYoHbPWFCtNaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15158CreamyChickenandRiceSoupsouplovingnicole4x3-cb3cc84d6d694498855579abc05fe72b.jpg"
+      ],
+      "image": "assets/images/15158/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "611 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "953 mg",
+    "sugarContent": "11 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "221"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/w8pBo8pyZDg4sCev7-Sy28FcyiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15158creamy-chicken-and-rice-soupKimsCookingNow4x3-5a0e93b34e1c4d038a8432e37f0ea961.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15158/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/15158/step_03.webp"
+    ]
+  }
+}

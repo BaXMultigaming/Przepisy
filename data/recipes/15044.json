@@ -1,0 +1,84 @@
+{
+  "id": "15044",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15044/spruced-up-mashed-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/15044/spruced-up-mashed-potatoes/",
+  "title": "Spruced Up Mashed Potatoes",
+  "description": "This recipe includes cauliflower, garlic and a carrot mashed with the potatoes.",
+  "authors": [
+    "Anne-Marie Whelan"
+  ],
+  "date_published": "1999-07-15T22:18:44-04:00",
+  "date_modified": "2022-07-14T15:46:00-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 pounds potatoes, peeled and quartered",
+    "3 cups cauliflower florets",
+    "4 cloves garlic",
+    "1 large carrots, chopped",
+    "0.5 cup skim milk",
+    "3 tablespoons butter",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "1 tablespoon chopped fresh parsley, for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add potatoes, cauliflower, garlic and carrots. Cook until potatoes are tender but still firm, about 15 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the milk, butter, salt and pepper. Beat until smooth. Sprinkle with parsley and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "222 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "174 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "71"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/s4eHihzlyYu_bjziLcaKkjfmjCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/306105-d6f4293d886c467cbc91841ead5daa35.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15044/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

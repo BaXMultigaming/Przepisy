@@ -1,0 +1,85 @@
+{
+  "id": "15386",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15386/chili-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/15386/chili-iii/",
+  "title": "Chili",
+  "description": "Cubes of potato are cooked into this ground beef chili with kidney beans and tomatoes.",
+  "authors": [
+    "Nena Charles"
+  ],
+  "date_published": "1999-01-18T09:38:04-05:00",
+  "date_modified": "2024-04-23T12:19:51-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 onion, chopped",
+    "4 potatoes, cubed",
+    "2 cups water, or as needed",
+    "2 cups tomato puree",
+    "1 (15 ounce) can kidney beans",
+    "2.5 tablespoons chili powder",
+    "2 teaspoons salt"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large saucepan over medium-high heat. Sauté beef and onion in the hot pan until onion is almost tender, about 5 minutes. Drain excess grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in potatoes, water, tomato purée, beans, chili powder, and salt; bring to a boil. Reduce heat to low and simmer until potatoes are tender, about 30 minutes. Add more water if a thinner chili is desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "388 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "55 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1159 mg",
+    "sugarContent": "5 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "44"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0FM3Ilv-cCZXiLfSf4a28IdE1Pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/15386chili-iiisouplovingnicole4x3-d95ab38a392b48b2848e8ffe0308f5f4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15386/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

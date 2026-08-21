@@ -1,0 +1,104 @@
+{
+  "id": "15063",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/15063/savory-chicken-breasts/",
+  "requested_url": "https://www.allrecipes.com/recipe/15063/savory-chicken-breasts/",
+  "title": "Savory Chicken Breasts",
+  "description": "Oh so creamy under that crumb topping! Chicken blessed with Swiss cheese and a subtle cream sauce.",
+  "authors": [
+    "LEAGLE"
+  ],
+  "date_published": "1999-04-23T18:47:58-04:00",
+  "date_modified": "2024-11-26T01:41:13-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves",
+    "ground black pepper to taste",
+    "4 slices Swiss cheese",
+    "1 (10.75 ounce) can condensed cream of chicken soup",
+    "0.25 cup milk",
+    "1 cup dry bread crumbs",
+    "3 tablespoons butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place chicken breasts in a 9x13 inch baking dish. Season with ground black pepper to taste. Top each breast with a slice of cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix together the soup and milk and pour mixture over chicken. Sprinkle bread crumbs on top and drizzle with melted butter/margarine. Bake covered in the preheated oven for 30 minutes. Uncover and bake for another 20 minutes or until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/HmQCpisZvHAxLnJ8a2G5vwyZbUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1080892-b7c7ea00db73476895362d15825b107c.jpg"
+      ],
+      "image": "assets/images/15063/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "497 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "125 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "41 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "896 mg",
+    "sugarContent": "3 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "1217"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/LASzPIgi-ma1DlVvV.mp4",
+    "description": "Baked chicken with a crumb coating and a creamy surprise.",
+    "duration": "PT2M12S",
+    "name": "Savory Chicken Breasts",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LASzPIgi/poster.jpg?width=1280",
+    "uploadDate": "2021-07-09T14:05:43-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HmQCpisZvHAxLnJ8a2G5vwyZbUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1080892-b7c7ea00db73476895362d15825b107c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/15063/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/15063/step_03.webp"
+    ]
+  }
+}

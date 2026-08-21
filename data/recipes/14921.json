@@ -1,0 +1,93 @@
+{
+  "id": "14921",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/14921/jens-nachos/",
+  "requested_url": "https://www.allrecipes.com/recipe/14921/jens-nachos/",
+  "title": "Jen&#39;s Nachos",
+  "description": "Barbecue sauce is the surprise ingredient here--it&#39;s sauteed with ground beef and more traditional nacho toppings for a tangy twist on this everyday dish.",
+  "authors": [
+    "Jenzy Nester"
+  ],
+  "date_published": "1999-11-30T12:44:31-05:00",
+  "date_modified": "2022-07-14T17:41:24-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "8 ounces shredded Cheddar cheese",
+    "0.75 (18 ounce) bottle barbecue sauce",
+    "1 (14.5 ounce) can stewed tomatoes, drained",
+    "1 (15 ounce) can whole kernel corn, drained",
+    "1 (14.5 ounce) package nacho-flavor tortilla chips"
+  ],
+  "steps": [
+    {
+      "text": "Brown beef in a large skillet over a medium-high heat. Drain the fat from the pan once the meat is browned.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix Cheddar cheese, tomatoes, corn and barbecue sauce into the meat. Heat this mixture, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the mixture is heating, make beds of chips onto 4 plates. Pour the hot mixture over the chips. Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1355 kcal",
+    "carbohydrateContent": "124 g",
+    "cholesterolContent": "159 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "45 g",
+    "saturatedFatContent": "28 g",
+    "sodiumContent": "2648 mg",
+    "sugarContent": "36 g",
+    "fatContent": "77 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/i1PNXZry6Pv1bHQF7gVpImli4kw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/82513-cff33db8af5a471292d6d9c2966eb6f1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/14921/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
