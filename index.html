@@ -316,6 +316,38 @@ function updateBtns(){
   document.querySelectorAll('[data-u]').forEach(b=>b.classList.toggle('on',b.dataset.u===unit))
 }
 
+
+function getHeroImage(r){
+  return r?.images?.hero || r?.image || null;
+}
+
+function normalizeIngredient(x){
+  if(typeof x === 'string') return x;
+
+  if(x && typeof x === 'object'){
+    const measure = String(x.measure || '').trim();
+    const ingredient = String(x.ingredient || x.name || '').trim();
+    return [measure, ingredient].filter(Boolean).join(' ').trim();
+  }
+
+  return String(x ?? '').trim();
+}
+
+function normalizeStep(x){
+  if(typeof x === 'string'){
+    return {text:x, image:null};
+  }
+
+  if(x && typeof x === 'object'){
+    return {
+      text:String(x.text || x.description || x.name || '').trim(),
+      image:x.image || null
+    };
+  }
+
+  return {text:String(x ?? '').trim(), image:null};
+}
+
 function buildFilterOptions(){
   const categoryCounts=new Map(),regionCounts=new Map();
   for(const r of all){
@@ -335,7 +367,7 @@ function filteredRecipes(){
     if(category&&!cats.some(x=>eqCI(x,category)))return false;
     if(region&&!regs.some(x=>eqCI(x,region)))return false;
     if(q){
-      const hay=[r.title,...cats,...regs,...asArray(r.ingredients_search)].filter(Boolean).join(' ').toLocaleLowerCase('pl');
+      const hay=[r.title,...cats,...regs,...asArray(r.ingredients_search).map(normalizeIngredient)].filter(Boolean).join(' ').toLocaleLowerCase('pl');
       if(!hay.includes(q))return false
     }
     return true
@@ -394,7 +426,7 @@ function renderRecipe(){
       <button class="tool wake-action ${wakeLock&&!wakeLock.released?'awake-on':''}" type="button"><span class="wake-dot"></span>${wakeLock&&!wakeLock.released?'Ekran aktywny':'Nie wygaszaj'}</button>
     </div>
     <div class="hero">
-      ${r.images?.hero?`<img src="${esc(r.images.hero)}" alt="${esc(r.title)}">`:''}
+      ${getHeroImage(r)?`<img src="${esc(getHeroImage(r))}" alt="${esc(r.title)}">`:''}
       <div class="title"><div>${esc(labels.join(' • '))}</div><h1>${esc(r.title)}</h1></div>
     </div>
     <div class="body">
@@ -407,18 +439,18 @@ function renderRecipe(){
 
       <h2 id="ingredientsTitle">🧺 Składniki</h2>
       <div class="ingredients">
-        ${(r.ingredients||[]).map((x,i)=>`<label class="ing ${checked.has(i)?'checked':''}">
+        ${(r.ingredients||[]).map((x,i)=>{const value=normalizeIngredient(x);return `<label class="ing ${checked.has(i)?'checked':''}">
           <input class="ingredient-check" data-i="${i}" type="checkbox" ${checked.has(i)?'checked':''}>
-          <span>${esc(unit==='EU'?euMeasure(x):x)}</span>
-        </label>`).join('')}
+          <span>${esc(unit==='EU'?euMeasure(value):value)}</span>
+        </label>`}).join('')}
       </div>
 
       <h2 id="stepsTitle">👩‍🍳 Przygotowanie</h2>
       <div class="steps">
-        ${(r.steps||[]).map((x,i)=>`<div class="step ${i===currentStep?'current':''}" data-step="${i}">
+        ${(r.steps||[]).map((x,i)=>{const step=normalizeStep(x);return `<div class="step ${i===currentStep?'current':''}" data-step="${i}">
           <div class="n">${i+1}</div>
-          <div>${esc(unit==='EU'?euText(x.text):x.text)}${x.image?`<img loading="lazy" src="${esc(x.image)}" alt="">`:''}</div>
-        </div>`).join('')}
+          <div>${esc(unit==='EU'?euText(step.text):step.text)}${step.image?`<img loading="lazy" src="${esc(step.image)}" alt="">`:''}</div>
+        </div>`}).join('')}
       </div>
       ${r.yield?.length?`<div class="source">Porcje: ${esc(r.yield.join(', '))}</div>`:''}
     </div>`;
