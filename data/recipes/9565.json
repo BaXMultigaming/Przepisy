@@ -1,0 +1,86 @@
+{
+  "id": "9565",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9565/easy-coleslaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/9565/easy-coleslaw/",
+  "title": "Easy Coleslaw",
+  "description": "This sweet and crunchy salad with easy coleslaw dressing is delicious any time of the year. Double the recipe for large parties.",
+  "authors": [
+    "Jackie Smith"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2023-02-10T19:08:07-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT370M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large head cabbage, shredded",
+    "1 green bell pepper, diced",
+    "1 onion, finely diced",
+    "1.5 large carrots, shredded",
+    "1 cup white wine vinegar",
+    "1 cup vegetable oil",
+    "1 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine cabbage, bell pepper, onion, and carrots in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk together vinegar, oil, and sugar in a medium bowl. Pour enough dressing over cabbage mixture to coat; mix well. Cover and refrigerate for 6 to 8 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain any excess liquid, toss, and serve cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "308 kcal",
+    "carbohydrateContent": "28 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "33 mg",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NQmIN298HY0tZr2_UHV8NR2tj0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1183825-easy-coleslaw-Jamie-Justice-Yost-4x3-1-587729d2f8644198b71405576e4d6ec6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9565/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "10147",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10147/tangy-lemon-cream-cheese-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/10147/tangy-lemon-cream-cheese-frosting/",
+  "title": "Tangy Lemon Cream Cheese Frosting",
+  "description": "This lemon and cream cheese frosting recipe is made with cream cheese, butter, sugar, and lemon juice. The tangy flavor works great with lemon drops.",
+  "authors": [
+    "Amanda Howell"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2023-07-22T06:42:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [
+    "Condiment",
+    "Cake"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces cream cheese",
+    "0.25 cup butter, softened",
+    "1 cup confectioners' sugar",
+    "2 tablespoons lemon juice",
+    "2.25 cups confectioners' sugar",
+    "4 drops yellow food coloring"
+  ],
+  "steps": [
+    {
+      "text": "Beat cream cheese and butter in a bowl until combined. Beat in powdered sugar and lemon juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat in 2-1/4 to 2-1/2 cups more of powdered sugar until frosting is of spreading consistency. Stir in a few drops of yellow food coloring.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "73 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "8 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "21 mg",
+    "sugarContent": "12 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "115"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5KE_edhdCPJNiC1seD2SXlcRIOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/602555-a26ae992a5084a018435a933f28c3a8e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10147/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "10001",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10001/chocolate-pizzelles/",
+  "requested_url": "https://www.allrecipes.com/recipe/10001/chocolate-pizzelles/",
+  "title": "Chocolate Pizzelles",
+  "description": "These are thin waferlike cookies and you must have a pizzelle iron to make them. The Italians call them &#34;Pizzelle Alle Nocciole&#34;.",
+  "authors": [
+    "Pat K"
+  ],
+  "date_published": "1997-09-17T11:48:29-04:00",
+  "date_modified": "2022-07-20T11:07:35-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "0.25 cup cocoa powder",
+    "1 cup white sugar",
+    "0.5 teaspoon ground cinnamon",
+    "0.25 teaspoon salt",
+    "1 tablespoon baking powder",
+    "1 cup unsalted butter",
+    "0.75 cup ground hazelnuts",
+    "2 cups all-purpose flour"
+  ],
+  "steps": [
+    {
+      "text": "Whisk the eggs with the sugar and salt until light. Melt the butter and stir in.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sift together all the remaining ingredients except the hazelnuts and fold in.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in the hazelnuts last.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat Pizzelle iron and place 1 teaspoon of batter on each imprint. Close iron and bake 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cool on racks. Sprinkle with powdered sugar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "358 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "103 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "197 mg",
+    "sugarContent": "17 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XdzSONgAJ3KRh5zcgJw9lxXams0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/533212-a82b17d958f043a0b4ff5e2dc914cc35.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10001/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "9847",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9847/meringue-cookies/",
+  "requested_url": "https://www.allrecipes.com/recipe/9847/meringue-cookies/",
+  "title": "Meringue Cookies",
+  "description": "These meringue cookies are easy to make with just 5 ingredients for a perfectly crisp and chewy sweet treat. They look beautiful on holiday cookie plates.",
+  "authors": [
+    "Pat Kersteter"
+  ],
+  "date_published": "1997-08-04T15:40:03-04:00",
+  "date_modified": "2025-11-03T15:19:07-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "12",
+    "2 dozen cookies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 egg whites",
+    "0.125 teaspoon salt",
+    "0.125 teaspoon cream of tartar",
+    "1 teaspoon vanilla extract",
+    "0.75 cup white sugar",
+    "1 cup semisweet chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients. Preheat the oven to 300 degrees F (150 degrees C). Line cookie sheets with parchment paper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3GXbTWxbErsU3OY6pssL111xs2o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9847-meringue-cookies-VAT-step-01-3d88580eb168416eb8f0fb25e79d2ed0.jpg"
+      ],
+      "image": "assets/images/9847/step_01.webp"
+    },
+    {
+      "text": "Beat egg whites, salt, cream of tartar, and vanilla in a clean bowl until soft peaks form. Gradually add sugar while continuing to whip until stiff peaks form, about 5 minutes. Fold in chocolate chips if using.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/frXPd-UP63h1ZBeK-7fbFuezjpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9847-meringue-cookies-VAT-step-02-68bed0e60094429086db88f903a380d7.jpg"
+      ],
+      "image": "assets/images/9847/step_02.webp"
+    },
+    {
+      "text": "Drop by heaping teaspoonfuls, one inch apart onto the prepared cookie sheets. Bake in the preheated oven until just lightly browned, about 25 minutes. Cool on baking sheets.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/O3topDOF2oa1J3XYCfNpvFz2zaE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9847-meringue-cookies-VAT-step-03-5b2d8881885846e5aff6f44121bbfa62.jpg"
+      ],
+      "image": "assets/images/9847/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "52 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "30 mg",
+    "sugarContent": "13 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "160"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JmX9BEoOSuueghqN6isa1o-tFvw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9847-meringue-cookies-VAT-Beauty-4x3-9690fc45a75a43f5bf10294c24a60b2e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9847/hero.webp",
+    "steps": [
+      "assets/images/9847/step_01.webp",
+      "assets/images/9847/step_02.webp",
+      "assets/images/9847/step_03.webp"
+    ]
+  }
+}

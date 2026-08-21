@@ -1,0 +1,115 @@
+{
+  "id": "10049",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10049/butter-tarts/",
+  "requested_url": "https://www.allrecipes.com/recipe/10049/butter-tarts/",
+  "title": "Butter Tarts",
+  "description": "These butter tarts have a rich, sweet, and nutty filling made with brown sugar, butter, eggs, cream, raisins, and walnuts for a delicious treat!",
+  "authors": [
+    "Barbara"
+  ],
+  "date_published": "1997-11-02T21:32:43-05:00",
+  "date_modified": "2026-01-22T09:56:57-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "12",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "30 (2 inch) unbaked tart shells",
+    "1.5 cups packed brown sugar",
+    "0.5 cup butter",
+    "2 eggs",
+    "2 cups raisins",
+    "1 cup chopped walnuts",
+    "2 tablespoons heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 325 degrees F (170 degrees C). Arrange tart shells on a baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Udp9waNuBbPBz_2Kn-ihe-IUEgU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10049-Butter-Tarts-ddmfs-Step1-1453-9106b1b49017468cb5f3e53fc19ec892.jpg"
+      ],
+      "image": "assets/images/10049/step_01.webp"
+    },
+    {
+      "text": "Beat sugar, butter, and eggs together in a large bowl with an electric mixer until creamy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/AUWzNEbcXch_RSADkC7asR76LFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10049-Butter-Tarts-ddmfs-Step2-1454-caf65b25f64246038da543f04baeca60.jpg"
+      ],
+      "image": "assets/images/10049/step_02.webp"
+    },
+    {
+      "text": "Stir in raisins, walnuts, and cream until thoroughly combined. Spoon batter into tart shells, no more than half full.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/SDYBG48TAnzhesgaubOdWQi0h6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10049-Butter-Tarts-ddmfs-Step2-1458-64b3c5189e6643398e07d56ed9ad7971.jpg"
+      ],
+      "image": "assets/images/10049/step_03.webp"
+    },
+    {
+      "text": "Bake tarts in the preheated oven until pastry is golden and filling is set, 20 to 25 minutes. Allow tarts to cool on a wire rack.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LSD9Ed9-EcEZTHbXcKWyr_X9tXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10049-butter-tarts-ddmfs-4X3-1569-f735a188b2a746da8785f6ca9e6c3f23.jpg"
+      ],
+      "image": "assets/images/10049/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "641 kcal",
+    "carbohydrateContent": "86 g",
+    "cholesterolContent": "55 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "256 mg",
+    "sugarContent": "50 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "297"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mNWgwzlmV9YYayjpgoqAW6BCg4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10049-butter-tarts-ddmfs-4X3-1569-8166004c857f480f86f66579cc9761a8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10049/hero.webp",
+    "steps": [
+      "assets/images/10049/step_01.webp",
+      "assets/images/10049/step_02.webp",
+      "assets/images/10049/step_03.webp",
+      "assets/images/10049/step_04.webp"
+    ]
+  }
+}

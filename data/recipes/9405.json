@@ -1,0 +1,125 @@
+{
+  "id": "9405",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9405/baked-rice-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/9405/baked-rice-pudding/",
+  "title": "Baked Rice Pudding",
+  "description": "A creamy baked rice pudding recipe, flavored with vanilla, nutmeg, and raisins. It&#39;s lovely served warm with extra cream for a comforting dessert.",
+  "authors": [
+    "Emtmom"
+  ],
+  "date_published": "1999-10-15T23:07:25-04:00",
+  "date_modified": "2026-02-14T22:08:18-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT65M",
+  "total_time": "PT75M",
+  "yield": [
+    "10",
+    "1 (10x6x2-inch) pudding"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup uncooked white rice",
+    "2 cups water",
+    "3 eggs, beaten",
+    "2 cups milk",
+    "0.5 cup white sugar",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon salt",
+    "0.33333334326744 cup raisins",
+    "1 pinch ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "Combine rice and 2 cups water in a 3-quart saucepan. Bring to a boil; reduce heat, cover, and simmer until tender and water is absorbed, about 25 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/coYxj9L6Nd4qFdk4Tz-0Fwt8zJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-9405-baked-rice-pudding-DDMFS-step-3-5170e559ac1d425c9eda798aae61a3cf.jpg"
+      ],
+      "image": "assets/images/9405/step_01.webp"
+    },
+    {
+      "text": "Preheat the oven to 325 degrees F (165 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix egg yolks, half-and-half, sugar, vanilla extract, and salt together in a large bowl until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UJQV746AkMu9sTt_iya1unQt1mA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-9405-baked-rice-pudding-DDMFS-step-5-6408b198bc684ee7906fd7e8d72a1e9d.jpg"
+      ],
+      "image": "assets/images/9405/step_03.webp"
+    },
+    {
+      "text": "Stir in cooked rice and raisins. Transfer into a 10x6x2-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LdKWxvFltMiyDteCK-is_ZOU9zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-9405-baked-rice-pudding-DDMFS-step-7-ddf755223f4443dda2d852155b4759b8.jpg"
+      ],
+      "image": "assets/images/9405/step_04.webp"
+    },
+    {
+      "text": "Bake uncovered in the preheated oven for 40 minutes; stirring halfway through, until the pudding is set but still creamy and a knife inserted near the center comes out mostly clean. Sprinkle with nutmeg and let cool slightly before serving warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/k4KoOtiLyWMqG873wxo2_g0FhrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-9405-baked-rice-pudding-DDMFS-step-8-9ec7bdbd88bf4501bb9402675a69b296.jpg"
+      ],
+      "image": "assets/images/9405/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "134 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "56 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "124 mg",
+    "sugarContent": "23 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "293"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VY2jIS_C-HltmIcMo4ma8lgyXnU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-9405-baked-rice-pudding-DDMFS-4x3-eeeb036d73ec4048925c8289928a8632.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9405/hero.webp",
+    "steps": [
+      "assets/images/9405/step_01.webp",
+      null,
+      "assets/images/9405/step_03.webp",
+      "assets/images/9405/step_04.webp",
+      "assets/images/9405/step_05.webp"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "9838",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9838/vanilla-glaze/",
+  "requested_url": "https://www.allrecipes.com/recipe/9838/vanilla-glaze/",
+  "title": "Vanilla Glaze",
+  "description": "Whisk up a simple vanilla glaze in minutes with just 5 ingredients, then use it on cookies, bars, or quick breads for that sweet something extra!",
+  "authors": [
+    "Jamie Langston"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-03-09T12:59:06-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups confectioners' sugar",
+    "2.5 teaspoons milk",
+    "1 teaspoon butter",
+    "0.25 teaspoon vanilla extract",
+    "0.125 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Whisk confectioners' sugar, milk, melted butter, vanilla, and salt together until creamy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "86 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "20 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "557"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Fv2Eka1dwG2SuLF6ghF1QqBBosU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9838_Vanilla-Glaze_Dianne_753814_original-4x3-1-6aef4c4b51534de4b945d11b4793fbd3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9838/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

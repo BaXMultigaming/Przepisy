@@ -1,0 +1,75 @@
+{
+  "id": "9531",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9531/easy-chocolate-mousse/",
+  "requested_url": "https://www.allrecipes.com/recipe/9531/easy-chocolate-mousse/",
+  "title": "Easy Chocolate Mousse",
+  "description": "This easy chocolate mousse made with instant pudding and cool whip comes together in less than 5 minutes for a decadent chocolate dessert.",
+  "authors": [
+    "Luna"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-02-10T21:40:36-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups cold milk",
+    "1 (3.9 ounce) package instant chocolate pudding mix",
+    "1 (16 ounce) container frozen whipped topping, thawed"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together milk and pudding mix in a large bowl for 2 minutes. Fold in whipped topping until blended. Chill in the refrigerator before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rZJY_mwAaxVS0QpKp-2viRztfkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9531-easy-chocolate-mousse-VAT-step-01-184a9f9c7ece4a51a15c6de1ff175eed.jpg"
+      ],
+      "image": "assets/images/9531/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "505 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "26 g",
+    "sodiumContent": "456 mg",
+    "sugarContent": "49 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "103"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/q9baOtdTcYduSBd-8RY0SB17qNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9531-easy-chocolate-mousse-VAT-Beauty-4x3-4c9df517d2944ca8a010bb8b7b3789d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9531/hero.webp",
+    "steps": [
+      "assets/images/9531/step_01.webp"
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "10106",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10106/hello-dolly-cookies/",
+  "requested_url": "https://www.allrecipes.com/recipe/10106/hello-dolly-cookies/",
+  "title": "Hello Dolly Cookies",
+  "description": "This is an easy bar cookie recipe that promises sweet and delicious results with walnuts, graham crackers, and coconut.",
+  "authors": [
+    "MB Guba"
+  ],
+  "date_published": "1997-11-13T20:56:27-05:00",
+  "date_modified": "2022-09-09T16:35:26-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "12",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup graham cracker crumbs",
+    "1 cup semisweet chocolate chips",
+    "1 cup chopped walnuts",
+    "1 cup shredded coconut",
+    "0.25 cup butter, melted",
+    "1 (14 ounce) can sweetened condensed milk"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (180 degrees C). Lightly grease a 9x9-inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine graham cracker crumbs, chocolate chips, walnuts, and coconut in a medium bowl. Pour melted butter over graham mixture and stir. Press into the prepared baking pan. Drizzle condensed milk over the top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until lightly colored on top, 25 to 30 minutes. Let cool before cutting into 24 bars.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "327 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "130 mg",
+    "sugarContent": "30 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7JSHwe4gvoo932VBDkTi10sXKn8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/103832-2f435ec0244846ed89e84c23f78ea05c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10106/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

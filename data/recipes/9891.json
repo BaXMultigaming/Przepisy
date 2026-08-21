@@ -1,0 +1,105 @@
+{
+  "id": "9891",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9891/haystacks-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/9891/haystacks-i/",
+  "title": "Haystack Cookies",
+  "description": "These tasty haystack cookies with oats, flaked coconut, peanuts, and cocoa are simple to make for a fun no-bake treat that&#39;s easy to customize.",
+  "authors": [
+    "Dee"
+  ],
+  "date_published": "1997-11-24T13:39:13-05:00",
+  "date_modified": "2025-10-14T15:43:53-04:00",
+  "prep_time": "PT25M",
+  "cook_time": null,
+  "total_time": "PT25M",
+  "yield": [
+    "48",
+    "4 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 cups white sugar",
+    "0.33333334326744 cup unsweetened cocoa powder",
+    "0.5 cup milk",
+    "0.5 cup butter",
+    "3.5 cups quick cooking oats",
+    "1 cup flaked coconut",
+    "0.5 cup chopped peanuts",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Jp5tnAdvRVcWZQsM-Tb1Ggn73s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9891-haystacks-i-ingredients-4x3-1659f13c3b454ee3bfdf8a81dffa0714.jpg"
+      ],
+      "image": "assets/images/9891/step_01.webp"
+    },
+    {
+      "text": "Bring sugar, cocoa, milk, and butter to a boil in a saucepan. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Z7SlTZNorxIYQgV-6NJky6BpJt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9891-haystacks-i-step-01-2-4x3-e1cdff4a942e4fb49405fe49d42afbc3.jpg"
+      ],
+      "image": "assets/images/9891/step_02.webp"
+    },
+    {
+      "text": "Stir in oats, coconut, nuts and salt. Drop quickly from teaspoon on wax paper. Let cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/iYpjotDa4_XLCLsRbKAdZc_mnrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9891-haystacks-i-step-04-4x3-221f6d4202034d208618e1b9cc4fd132.jpg"
+      ],
+      "image": "assets/images/9891/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "180 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "18 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "86"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IDlt1iHS0l7IdB-gKhcn_NdJx5M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9891-haystacks-i-vat-2119-4x3-1-52a2d546813743958c542b97e20881d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9891/hero.webp",
+    "steps": [
+      "assets/images/9891/step_01.webp",
+      "assets/images/9891/step_02.webp",
+      "assets/images/9891/step_03.webp"
+    ]
+  }
+}

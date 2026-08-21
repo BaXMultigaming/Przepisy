@@ -1,0 +1,97 @@
+{
+  "id": "9615",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9615/healthy-banana-cookies/",
+  "requested_url": "https://www.allrecipes.com/recipe/9615/healthy-banana-cookies/",
+  "title": "Healthy Banana Cookies",
+  "description": "These cookies are nutritious, as well as delicious.",
+  "authors": [
+    "K Gailbrath"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:40:20-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT50M",
+  "yield": [
+    "36",
+    "3 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 ripe bananas",
+    "2 cups rolled oats",
+    "1 cup dates, pitted and chopped",
+    "0.33333334326744 cup vegetable oil",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, mash the bananas. Stir in oats, dates, oil, and vanilla. Mix well, and allow to sit for 15 minutes. Drop by teaspoonfuls onto an ungreased cookie sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 20 minutes in the preheated oven, or until lightly brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/VjPirLaoz9ydOzFltdQaOJg_cTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3636087-6ca159378b8244c99b381b1739e13d20.jpg"
+      ],
+      "image": "assets/images/9615/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "56 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "4 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1318"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ofdNA68q-ma1DlVvV.mp4",
+    "description": "Learn how to whip up cookies your kids will love—sweetened with bananas and other fruit and no extra sugar at all! You can use whatever dried fruit you like, and add spices or nuts to your taste.",
+    "duration": "PT2M34S",
+    "name": "Healthy Banana Cookies",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ofdNA68q/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T11:06:44-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VjPirLaoz9ydOzFltdQaOJg_cTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3636087-6ca159378b8244c99b381b1739e13d20.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9615/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/9615/step_03.webp"
+    ]
+  }
+}

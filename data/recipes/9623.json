@@ -1,0 +1,94 @@
+{
+  "id": "9623",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9623/apple-bars/",
+  "requested_url": "https://www.allrecipes.com/recipe/9623/apple-bars/",
+  "title": "Apple Bars",
+  "description": "This recipe for apple bars is easy to make with simple baking ingredients, diced apples, and walnuts for a fruity treat that tastes like apple pie.",
+  "authors": [
+    "S Powell"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-06-08T15:46:52-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "9",
+    "9 apple bars"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "0.5 cup unsalted butter, melted",
+    "1 large egg",
+    "1 cup all-purpose flour",
+    "1 teaspoon ground cinnamon",
+    "0.5 teaspoon baking soda",
+    "1 cup peeled, cored, and diced tart apples (such as Granny Smith)",
+    "1 cup chopped walnuts"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir sugar, melted butter, and egg together in a large bowl. Mix in flour, cinnamon, and baking soda, then stir in apple and walnuts. Spread batter into the prepared pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a small knife inserted in the center comes out clean, about 40 minutes. Cool completely before cutting into nine bars.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "328 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "151 mg",
+    "sugarContent": "24 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "250"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AHtf9s3hB63FERDf0fUVEwoEl74=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3980541-10a259531e774cdc9e7ec41d87d2e422.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9623/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

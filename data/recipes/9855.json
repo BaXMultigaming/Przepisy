@@ -1,0 +1,91 @@
+{
+  "id": "9855",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9855/special-k-cookies/",
+  "requested_url": "https://www.allrecipes.com/recipe/9855/special-k-cookies/",
+  "title": "Special K Cookies",
+  "description": "This is an easy recipe for no-bake peanut butter and cereal cookies",
+  "authors": [
+    "Mardie Ussery"
+  ],
+  "date_published": "1997-08-05T16:26:42-04:00",
+  "date_modified": "2026-05-11T17:39:31-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "50",
+    "100 cookies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "1.3333333730698 cups peanut butter",
+    "1 cup white corn syrup",
+    "4 cups high protein crisp rice and wheat cereal",
+    "1 teaspoon vanilla extract",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Blend syrup, sugar, vanilla and salt in a 2 quart microwave-safe dish. Cook on high 4 minutes, or until mixture boils and sugar dissolves.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in peanut butter, then add the cereal.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop by teaspoonfuls onto waxed paper. Let cool before storing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "57 mg",
+    "sugarContent": "7 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "70"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DDOM5_FB2axM2AIXY6J4B02xw8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7166544-27184fd7c7f749a9aa7ffd09599a3fd1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9855/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

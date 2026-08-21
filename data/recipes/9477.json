@@ -1,0 +1,85 @@
+{
+  "id": "9477",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9477/cappuccino-mix/",
+  "requested_url": "https://www.allrecipes.com/recipe/9477/cappuccino-mix/",
+  "title": "Cappuccino Mix",
+  "description": "Here is a homemade dry cappuccino mix in a jar. Make it for yourself, or give it as a gift.",
+  "authors": [
+    "Git"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-04-16T15:17:38-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup powdered non-dairy creamer",
+    "1 cup instant chocolate drink mix",
+    "0.75 cup instant coffee granules",
+    "0.5 cup white sugar",
+    "0.5 teaspoon ground cinnamon",
+    "0.25 teaspoon ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "In a medium sized glass jar, combine the non-dairy creamer, chocolate drink mix, instant coffee, sugar, cinnamon and nutmeg; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To prepare, place 2 tablespoons mix in a mug, pour in 3/4 cup boiling water, and stir until dissolved. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "56 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "32 mg",
+    "sugarContent": "9 g",
+    "fatContent": "2 g",
+    "servingSize": "3 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "68"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jy8MKiaKJjB_iB41VbUpIEvfiYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8050744-ba9c9b745f6c47ea82afb1d667f3e899.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9477/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

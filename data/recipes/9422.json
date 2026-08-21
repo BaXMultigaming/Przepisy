@@ -1,0 +1,89 @@
+{
+  "id": "9422",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9422/southern-boiled-custard/",
+  "requested_url": "https://www.allrecipes.com/recipe/9422/southern-boiled-custard/",
+  "title": "Southern Boiled Custard",
+  "description": "This Southern custard is easy to make with milk, eggs, sugar, and vanilla cooked on the stove until thick for a rich and creamy drink served chilled.",
+  "authors": [
+    "Cathy"
+  ],
+  "date_published": "1999-10-27T23:48:16-04:00",
+  "date_modified": "2025-12-22T10:28:30-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 quart whole milk",
+    "5 eggs",
+    "1 cup white sugar",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Place milk in the top of a double boiler over simmering water. Stir occasionally until milk is heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat eggs in a large bowl until light. Add sugar and mix well. Pour a small portion of hot milk into egg mixture, whisking constantly, until warmed and thinned. Pour mixture slowly back into hot milk, whisking constantly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook and stir until custard is thick enough to coat the back of a spoon. An instant read thermometer inserted into custard should read 180 degrees F (82 degrees C). Remove from heat and stir in vanilla. Transfer custard to a container and chill completely in the refrigerator before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "217 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "128 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "97 mg",
+    "sugarContent": "31 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "69"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LmR21pBud35212jx7O7cUL25yss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/36492-49464916d0814b49b84fb6f8c2f59639.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9422/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

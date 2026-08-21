@@ -1,0 +1,91 @@
+{
+  "id": "10008",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10008/praline-cookies/",
+  "requested_url": "https://www.allrecipes.com/recipe/10008/praline-cookies/",
+  "title": "Praline Cookies",
+  "description": "This recipe makes a good cookie with maple flavoring, but they are a rather rich treat.",
+  "authors": [
+    "Ingrid"
+  ],
+  "date_published": "1997-09-26T10:30:23-04:00",
+  "date_modified": "2022-07-14T16:29:51-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT1470M",
+  "yield": [
+    "12",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "0.66666668653488 cup packed brown sugar",
+    "1 egg",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon maple flavored extract",
+    "0.5 teaspoon baking soda",
+    "0.25 teaspoon salt",
+    "2 cups all-purpose flour",
+    "1 cup pecan halves"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, cream together butter and brown sugar. Beat in egg, vanilla and maple flavoring. Beat in salt and flour until a smooth dough is formed. Shape dough into a log 12 inches long, wrap in wax paper, and refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven to 350 degrees F (180 degrees C). Line cookie sheet with parchment paper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slice dough into 1/4 inch slices. Place slices on cookie sheet. Top each cookie with a pecan half. Bake for 10 minutes in preheated oven, or until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "260 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "165 mg",
+    "sugarContent": "12 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MeoT33ZhpxqkPmUTIVSmd2TBe3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/316717-2a5b7928e4f543709708bfa5683c4f02.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10008/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

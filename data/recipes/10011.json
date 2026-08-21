@@ -1,0 +1,111 @@
+{
+  "id": "10011",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10011/butter-cookies-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/10011/butter-cookies-ii/",
+  "title": "Butter Cookies",
+  "description": "This simple butter cookie recipe can be made as a drop cookie, used in a cookie press, or shaped into a roll and sliced. Perfect for baking with kids!",
+  "authors": [
+    "Ceil Wallace"
+  ],
+  "date_published": "1997-09-25T20:00:24-04:00",
+  "date_modified": "2026-08-11T13:11:18-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT100M",
+  "yield": [
+    "36",
+    "3 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup butter",
+    "1 cup white sugar",
+    "1 egg",
+    "2 teaspoons vanilla extract",
+    "2.6666667461395 cups all-purpose flour",
+    "0.25 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Beat butter and sugar together in a large bowl with an electric mixer until light and fluffy. Beat in egg, then stir in the vanilla. Combine flour and salt in a separate bowl; add to butter mixture and mix to form a dough. Cover dough with plastic wrap and chill for at least one hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the oven to 400 degrees F (200 degrees C). Chill two cookie sheets.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer chilled dough to a cookie press; press out onto chilled cookie sheets.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until lightly golden at the edges, about 8 to 10 minutes. Transfer cookies to wire racks to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WvYG6PlrQzgyEMLaXSVc_Q6QNR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10011-butter-cookies-ii-PICS-Beauty-4x3-ef299c26056047599340d23f31dbd4c9.jpg"
+      ],
+      "image": "assets/images/10011/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "103 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "55 mg",
+    "sugarContent": "6 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "324"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Cji33DFO-ma1DlVvV.mp4",
+    "description": "In this video, you’ll see how to make a simple but versatile butter cookie. It’s a great recipe for making pressed cookies, drop cookies, or rolled-and-sliced round cookies. And no matter how you make them, they're terrific decorated Christmas cookies.",
+    "duration": "PT2M8S",
+    "name": "Butter Cookies II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Cji33DFO/poster.jpg?width=1280",
+    "uploadDate": "2021-06-26T19:17:11-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WvYG6PlrQzgyEMLaXSVc_Q6QNR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/10011-butter-cookies-ii-PICS-Beauty-4x3-ef299c26056047599340d23f31dbd4c9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10011/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/10011/step_04.webp"
+    ]
+  }
+}

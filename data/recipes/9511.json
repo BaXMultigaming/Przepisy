@@ -1,0 +1,86 @@
+{
+  "id": "9511",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9511/white-chocolate-party-mix/",
+  "requested_url": "https://www.allrecipes.com/recipe/9511/white-chocolate-party-mix/",
+  "title": "White Chocolate Party Mix",
+  "description": "This is that old party standby that people just love to munch on.",
+  "authors": [
+    "Sharon"
+  ],
+  "date_published": "1999-11-27T08:35:47-05:00",
+  "date_modified": "2026-06-26T19:54:05-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT85M",
+  "yield": [
+    "28",
+    "14 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound white chocolate",
+    "3 cups crispy rice cereal squares",
+    "3 cups crispy corn cereal squares",
+    "3 cups toasted oat cereal",
+    "2 cups thin pretzel sticks",
+    "2 cups peanuts",
+    "1 (12 ounce) package mini candy-coated chocolate pieces"
+  ],
+  "steps": [
+    {
+      "text": "In the top of a double boiler over simmering water, slowly melt the white chocolate. In a large bowl, combine cereals, pretzels, peanuts and candy coated chocolates. Slowly pour the chocolate over the cereal mixture and stir to evenly coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread the mixture onto wax paper and cool. Break into small pieces, store in an air-tight container and refrigerate to keep fresh.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "261 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "193 mg",
+    "sugarContent": "17 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "108"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Zo4GtnMfqoDlbjS9OWiM5AD0SeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/55106-0225a13e76ee476e8c152f1bfa974591.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9511/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

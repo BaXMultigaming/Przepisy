@@ -1,0 +1,82 @@
+{
+  "id": "9492",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9492/wine-jelly/",
+  "requested_url": "https://www.allrecipes.com/recipe/9492/wine-jelly/",
+  "title": "Wine Jelly",
+  "description": "This jelly is a lovely accompaniment to crackers and cream cheese. You can use any kind of wine, red or white.",
+  "authors": [
+    "Juanita"
+  ],
+  "date_published": "1999-10-12T22:22:35-04:00",
+  "date_modified": "2022-07-14T16:39:18-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "40",
+    "5 half-pint jars"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3.5 cups wine",
+    "0.5 cup fresh lemon juice",
+    "1 (2 ounce) package dry pectin",
+    "4.5 cups white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine wine, lemon juice, and pectin in a large saucepot. Bring to a boil, stirring frequently. Add sugar, stirring until dissolved. Return to a rolling boil. Boil hard 1 minute, stirring constantly. Remove from heat. Skim foam off top, if necessary.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Ladle hot jelly into hot, sterilized jars, leaving 1/2 inch headspace. Tighten 2 piece lids. Process for 5 minutes in boiling water bath.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MrY5iG3zoIXMEZGk7DCj_vSAFjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/464065-cd82ac24c148428e9afd744a7918eaae.jpg"
+      ],
+      "image": "assets/images/9492/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "23 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "176"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/yiLsCen0-K3AjnAEN.mp4",
+    "description": "See how to turn wine into delicous jelly.",
+    "duration": "PT1M33S",
+    "name": "How to Make Wine Jelly",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/yiLsCen0/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T22:59:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MrY5iG3zoIXMEZGk7DCj_vSAFjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/464065-cd82ac24c148428e9afd744a7918eaae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9492/hero.webp",
+    "steps": [
+      null,
+      "assets/images/9492/step_02.webp"
+    ]
+  }
+}

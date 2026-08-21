@@ -1,0 +1,82 @@
+{
+  "id": "9411",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9411/salmon-patties-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/9411/salmon-patties-ii/",
+  "title": "Simple Salmon Patties",
+  "description": "These simple salmon patties are made with canned salmon, egg, and self-rising flour, then pan-fried until crisp and golden brown.",
+  "authors": [
+    "Del Lockamy"
+  ],
+  "date_published": "1999-10-17T16:16:09-04:00",
+  "date_modified": "2026-08-10T08:08:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "5 patties"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14.75 ounce) can canned salmon",
+    "1 egg",
+    "0.5 cup self-rising flour",
+    "1 quart vegetable oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Combine salmon, egg, and flour in a medium bowl; mix well. Form mixture into patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat about 1/4 inch oil in a skillet over medium-high heat. Fry patties in batches until browned, turning once. Drain on paper towels and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "351 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "74 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "470 mg",
+    "sugarContent": "0 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "178"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RfhsAzRfG2U2oIdNpuZbW_TCXM0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9411salmon-patties-iisouplovingnicole4x3-39d1b931fe3b474a8dff4bb6852a58eb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9411/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

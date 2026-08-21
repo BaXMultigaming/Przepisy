@@ -1,0 +1,77 @@
+{
+  "id": "10120",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/10120/chocolate-covered-pretzels/",
+  "requested_url": "https://www.allrecipes.com/recipe/10120/chocolate-covered-pretzels/",
+  "title": "Chocolate Covered Pretzels",
+  "description": "This is the easiest recipe I know for these! Enjoy!",
+  "authors": [
+    "KSTME"
+  ],
+  "date_published": "1997-11-17T11:29:50-05:00",
+  "date_modified": "2019-04-02T02:35:20-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (10 ounce) packages pretzels",
+    "1 tablespoon heavy whipping cream",
+    "2 cups semisweet chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Melt chocolate and cream in double boiler over low heat, stirring constantly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dip pretzels one at a time quickly to coat while mixture is still very warm. Place pretzels on wax paper to set and cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "316 kcal",
+    "carbohydrateContent": "55 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "804 mg",
+    "sugarContent": "15 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.3",
+    "ratingCount": "82"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YJXgyNO6ed2xqwyvQXdGz3a9-Xs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/316630-64e347b18ef04e809a946831f1751614.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/10120/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
