@@ -2,85 +2,908 @@
 <html lang="pl">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#ffffff">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#fffaf4">
   <title>Moje przepisy</title>
   <style>
+    :root{
+      --bg:#f7f2eb;
+      --surface:#fffdf9;
+      --surface-2:#fff8ef;
+      --text:#25221f;
+      --muted:#746c64;
+      --line:#eadfd3;
+      --accent:#d85f35;
+      --accent-2:#f0a44b;
+      --accent-soft:#fff0e7;
+      --success:#507b53;
+      --shadow:0 14px 38px rgba(65,45,28,.09);
+      --shadow-soft:0 8px 22px rgba(65,45,28,.07);
+      --radius:22px;
+    }
+
     *{box-sizing:border-box}
-    body{margin:0;font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#f4f5f7;color:#202124}
-    header{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid #ddd;padding:13px 16px}
-    .head{max-width:1400px;margin:auto}
-    h1{font-size:23px;margin:0 0 10px}
-    #q{width:100%;font:inherit;padding:13px 14px;border:1px solid #bbb;border-radius:12px;outline:none}
-    #q:focus{border-color:#555}
-    #count{font-size:13px;color:#666;margin-top:7px}
-    main{max-width:1400px;margin:auto;padding:18px;display:grid;grid-template-columns:minmax(270px,380px) minmax(0,1fr);gap:18px}
-    #list{background:#fff;border-radius:15px;overflow:auto;max-height:calc(100vh - 130px);align-self:start;border:1px solid #e5e5e5}
-    .item{display:flex;gap:11px;padding:10px;border-bottom:1px solid #eee;cursor:pointer}
-    .item:hover,.item.active{background:#f4f4f4}
-    .item img{width:78px;height:78px;object-fit:cover;border-radius:10px;background:#eee;flex:0 0 78px}
-    .item strong{display:block;line-height:1.25}
-    .meta{font-size:13px;color:#6b6b6b;margin-top:5px}
-    article{background:#fff;border:1px solid #e5e5e5;border-radius:15px;padding:24px;min-height:420px;overflow:hidden}
-    .hero{width:100%;max-height:560px;object-fit:cover;border-radius:14px;background:#eee}
-    h2{font-size:clamp(27px,4vw,40px);line-height:1.12;margin:19px 0 8px}
-    h3{font-size:21px;margin:29px 0 10px}
-    li{margin:8px 0}
-    .ingredients{columns:2;column-gap:35px}
-    .ingredients li{break-inside:avoid}
-    .step{margin:0 0 14px;padding:13px 14px;background:#f7f7f8;border-radius:11px}
-    .step b{display:block;margin-bottom:4px}
-    .source{margin-top:30px;padding-top:16px;border-top:1px solid #eee;color:#666;font-size:13px}
-    .source a{color:inherit}
-    .empty{padding:18px;color:#666}
-    @media(max-width:800px){
-      main{grid-template-columns:1fr;padding:10px}
-      #list{max-height:42vh}
-      article{padding:15px}
-      .ingredients{columns:1}
-      .item img{width:67px;height:67px;flex-basis:67px}
+    html{scroll-behavior:smooth}
+    body{
+      margin:0;
+      min-height:100vh;
+      font:16px/1.55 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+      color:var(--text);
+      background:
+        radial-gradient(circle at 10% -10%,rgba(240,164,75,.18),transparent 30rem),
+        radial-gradient(circle at 100% 0,rgba(216,95,53,.10),transparent 30rem),
+        var(--bg);
+    }
+
+    button,input,select{font:inherit}
+    button{color:inherit}
+    a{color:inherit}
+
+    .topbar{
+      position:sticky;
+      top:0;
+      z-index:20;
+      padding:max(12px,env(safe-area-inset-top)) 14px 12px;
+      backdrop-filter:blur(14px);
+      background:rgba(247,242,235,.86);
+      border-bottom:1px solid rgba(234,223,211,.8);
+    }
+
+    .top-inner{
+      max-width:1500px;
+      margin:auto;
+      display:grid;
+      grid-template-columns:auto minmax(250px,1fr) auto;
+      align-items:center;
+      gap:15px;
+    }
+
+    .brand{
+      display:flex;
+      align-items:center;
+      gap:11px;
+      min-width:max-content;
+    }
+
+    .brand-icon{
+      width:46px;
+      height:46px;
+      border-radius:15px;
+      display:grid;
+      place-items:center;
+      font-size:24px;
+      background:linear-gradient(145deg,var(--accent),var(--accent-2));
+      box-shadow:0 8px 18px rgba(216,95,53,.22);
+    }
+
+    .brand h1{
+      margin:0;
+      font-size:20px;
+      line-height:1.05;
+      letter-spacing:-.02em;
+    }
+
+    .brand small{
+      display:block;
+      margin-top:4px;
+      color:var(--muted);
+      font-size:12px;
+    }
+
+    .search-wrap{position:relative}
+    .search-icon{
+      position:absolute;
+      left:14px;
+      top:50%;
+      transform:translateY(-50%);
+      pointer-events:none;
+      color:var(--muted);
+    }
+
+    #q{
+      width:100%;
+      height:48px;
+      padding:0 16px 0 43px;
+      border:1px solid var(--line);
+      border-radius:16px;
+      outline:none;
+      background:rgba(255,253,249,.92);
+      color:var(--text);
+      box-shadow:0 3px 12px rgba(65,45,28,.03);
+      transition:.2s ease;
+    }
+
+    #q:focus{
+      border-color:rgba(216,95,53,.55);
+      box-shadow:0 0 0 4px rgba(216,95,53,.10);
+    }
+
+    .unit-wrap{
+      display:flex;
+      align-items:center;
+      gap:9px;
+      padding:5px;
+      border:1px solid var(--line);
+      border-radius:15px;
+      background:var(--surface);
+      box-shadow:var(--shadow-soft);
+    }
+
+    .unit-label{
+      padding-left:7px;
+      color:var(--muted);
+      font-size:12px;
+      font-weight:700;
+      text-transform:uppercase;
+      letter-spacing:.06em;
+    }
+
+    .unit-switch{
+      display:flex;
+      padding:3px;
+      border-radius:11px;
+      background:#f0e8df;
+    }
+
+    .unit-btn{
+      min-width:52px;
+      border:0;
+      border-radius:9px;
+      padding:7px 11px;
+      background:transparent;
+      cursor:pointer;
+      font-weight:800;
+      transition:.18s ease;
+    }
+
+    .unit-btn.active{
+      background:var(--surface);
+      color:var(--accent);
+      box-shadow:0 3px 10px rgba(65,45,28,.10);
+    }
+
+    .page{
+      max-width:1500px;
+      margin:auto;
+      padding:18px 16px 40px;
+    }
+
+    .filters{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      flex-wrap:wrap;
+      margin-bottom:16px;
+    }
+
+    .filter{
+      min-height:41px;
+      border:1px solid var(--line);
+      border-radius:13px;
+      padding:0 36px 0 12px;
+      background:var(--surface);
+      color:var(--text);
+      outline:none;
+      cursor:pointer;
+    }
+
+    #count{
+      margin-left:auto;
+      color:var(--muted);
+      font-size:13px;
+      font-weight:650;
+    }
+
+    .layout{
+      display:grid;
+      grid-template-columns:minmax(295px,380px) minmax(0,1fr);
+      gap:18px;
+      align-items:start;
+    }
+
+    #list{
+      position:sticky;
+      top:91px;
+      max-height:calc(100vh - 112px);
+      overflow:auto;
+      scrollbar-width:thin;
+      border:1px solid var(--line);
+      border-radius:var(--radius);
+      background:rgba(255,253,249,.82);
+      box-shadow:var(--shadow);
+    }
+
+    .list-head{
+      position:sticky;
+      top:0;
+      z-index:3;
+      padding:13px 14px 10px;
+      background:rgba(255,253,249,.95);
+      backdrop-filter:blur(10px);
+      border-bottom:1px solid var(--line);
+      font-size:13px;
+      color:var(--muted);
+      font-weight:700;
+    }
+
+    .item{
+      display:grid;
+      grid-template-columns:86px minmax(0,1fr);
+      gap:12px;
+      padding:11px;
+      border-bottom:1px solid var(--line);
+      cursor:pointer;
+      transition:.18s ease;
+    }
+
+    .item:last-child{border-bottom:0}
+    .item:hover{background:var(--surface-2)}
+    .item.active{
+      background:var(--accent-soft);
+      box-shadow:inset 4px 0 0 var(--accent);
+    }
+
+    .item img{
+      width:86px;
+      height:86px;
+      object-fit:cover;
+      border-radius:15px;
+      background:#eee7df;
+      box-shadow:0 5px 15px rgba(65,45,28,.08);
+    }
+
+    .item-title{
+      display:-webkit-box;
+      -webkit-line-clamp:2;
+      -webkit-box-orient:vertical;
+      overflow:hidden;
+      margin:4px 0 7px;
+      line-height:1.25;
+      font-weight:800;
+    }
+
+    .item-meta{
+      display:flex;
+      flex-wrap:wrap;
+      gap:5px;
+    }
+
+    .mini-chip{
+      display:inline-flex;
+      align-items:center;
+      min-height:24px;
+      padding:3px 8px;
+      border-radius:999px;
+      background:#f0e8df;
+      color:#695f56;
+      font-size:11px;
+      font-weight:700;
+    }
+
+    #recipe{
+      min-width:0;
+      border:1px solid var(--line);
+      border-radius:var(--radius);
+      overflow:hidden;
+      background:var(--surface);
+      box-shadow:var(--shadow);
+    }
+
+    .welcome{
+      min-height:560px;
+      display:grid;
+      place-items:center;
+      padding:35px;
+      text-align:center;
+      background:
+        radial-gradient(circle at 50% 30%,rgba(240,164,75,.15),transparent 16rem),
+        var(--surface);
+    }
+
+    .welcome-icon{font-size:64px;margin-bottom:10px}
+    .welcome h2{margin:0 0 8px;font-size:30px}
+    .welcome p{max-width:520px;color:var(--muted);margin:0}
+
+    .hero-wrap{
+      position:relative;
+      background:#eee7df;
+    }
+
+    .hero{
+      display:block;
+      width:100%;
+      max-height:590px;
+      aspect-ratio:16/9;
+      object-fit:cover;
+    }
+
+    .hero-shade{
+      position:absolute;
+      inset:auto 0 0;
+      height:42%;
+      pointer-events:none;
+      background:linear-gradient(transparent,rgba(27,19,14,.66));
+    }
+
+    .hero-title{
+      position:absolute;
+      left:clamp(17px,4vw,38px);
+      right:clamp(17px,4vw,38px);
+      bottom:clamp(18px,4vw,34px);
+      color:white;
+      text-shadow:0 2px 14px rgba(0,0,0,.32);
+    }
+
+    .hero-title h2{
+      max-width:980px;
+      margin:8px 0 0;
+      font-size:clamp(31px,5vw,54px);
+      line-height:1.03;
+      letter-spacing:-.035em;
+    }
+
+    .chips{
+      display:flex;
+      flex-wrap:wrap;
+      gap:7px;
+    }
+
+    .chip{
+      display:inline-flex;
+      align-items:center;
+      gap:5px;
+      min-height:30px;
+      padding:5px 10px;
+      border-radius:999px;
+      background:rgba(255,255,255,.90);
+      color:#3c332d;
+      font-size:12px;
+      font-weight:800;
+      text-shadow:none;
+      backdrop-filter:blur(8px);
+    }
+
+    .recipe-body{
+      padding:clamp(18px,4vw,38px);
+    }
+
+    .unit-note{
+      display:flex;
+      gap:11px;
+      align-items:flex-start;
+      margin-bottom:26px;
+      padding:13px 14px;
+      border:1px solid #f0d8c7;
+      border-radius:15px;
+      background:var(--accent-soft);
+      color:#6f4837;
+      font-size:13px;
+    }
+
+    .unit-note strong{color:#54372b}
+
+    .section-title{
+      display:flex;
+      align-items:center;
+      gap:9px;
+      margin:28px 0 13px;
+      font-size:22px;
+      letter-spacing:-.02em;
+    }
+
+    .ingredients-grid{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      gap:9px;
+    }
+
+    .ingredient{
+      display:grid;
+      grid-template-columns:auto minmax(72px,auto) minmax(0,1fr);
+      align-items:center;
+      gap:10px;
+      min-height:52px;
+      padding:10px 12px;
+      border:1px solid var(--line);
+      border-radius:14px;
+      background:#fffefa;
+      transition:.15s ease;
+    }
+
+    .ingredient:hover{background:var(--surface-2)}
+
+    .ingredient input{
+      width:19px;
+      height:19px;
+      accent-color:var(--accent);
+      cursor:pointer;
+    }
+
+    .ingredient.checked{
+      opacity:.48;
+      text-decoration:line-through;
+    }
+
+    .measure{
+      color:var(--accent);
+      font-weight:850;
+      white-space:nowrap;
+    }
+
+    .ingredient-name{font-weight:650}
+
+    .steps{
+      display:grid;
+      gap:13px;
+    }
+
+    .step{
+      display:grid;
+      grid-template-columns:42px minmax(0,1fr);
+      gap:13px;
+      align-items:start;
+      padding:15px;
+      border:1px solid var(--line);
+      border-radius:16px;
+      background:#fffefa;
+    }
+
+    .step-no{
+      width:42px;
+      height:42px;
+      border-radius:13px;
+      display:grid;
+      place-items:center;
+      background:linear-gradient(145deg,var(--accent),var(--accent-2));
+      color:white;
+      font-weight:900;
+      box-shadow:0 7px 16px rgba(216,95,53,.18);
+    }
+
+    .step-text{
+      padding-top:8px;
+      line-height:1.62;
+    }
+
+    .source{
+      display:flex;
+      flex-wrap:wrap;
+      gap:9px;
+      align-items:center;
+      margin-top:32px;
+      padding-top:19px;
+      border-top:1px solid var(--line);
+      color:var(--muted);
+      font-size:13px;
+    }
+
+    .source a{
+      display:inline-flex;
+      align-items:center;
+      min-height:34px;
+      padding:5px 10px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      background:var(--surface-2);
+      text-decoration:none;
+      font-weight:750;
+    }
+
+    .source a:hover{border-color:#d6c5b5}
+
+    .empty{
+      padding:24px 18px;
+      color:var(--muted);
+      text-align:center;
+    }
+
+    @media(max-width:980px){
+      .top-inner{
+        grid-template-columns:minmax(0,1fr) auto;
+      }
+      .search-wrap{
+        grid-column:1/-1;
+        grid-row:2;
+      }
+      #list{top:151px;max-height:calc(100vh - 173px)}
+    }
+
+    @media(max-width:790px){
+      .topbar{position:relative}
+      .top-inner{grid-template-columns:1fr auto}
+      .brand small{display:none}
+      .unit-label{display:none}
+      .unit-btn{min-width:47px}
+      .page{padding:12px 10px 28px}
+      .layout{grid-template-columns:1fr}
+      #list{
+        position:relative;
+        top:auto;
+        max-height:390px;
+      }
+      .filters{gap:7px}
+      .filter{flex:1;min-width:130px}
+      #count{width:100%;margin-left:0;text-align:right}
+      .ingredients-grid{grid-template-columns:1fr}
+      .hero{aspect-ratio:4/3}
+      .hero-title h2{font-size:clamp(29px,9vw,44px)}
+      .recipe-body{padding:17px}
+      .step{grid-template-columns:36px minmax(0,1fr);gap:10px;padding:13px}
+      .step-no{width:36px;height:36px;border-radius:11px}
+      .step-text{padding-top:5px}
+    }
+
+    @media(max-width:480px){
+      .brand h1{font-size:17px}
+      .brand-icon{width:40px;height:40px;border-radius:13px;font-size:21px}
+      .unit-wrap{gap:0}
+      .unit-switch{padding:2px}
+      .unit-btn{padding:6px 8px;min-width:42px}
+      .item{grid-template-columns:74px minmax(0,1fr)}
+      .item img{width:74px;height:74px;border-radius:13px}
     }
   </style>
 </head>
 <body>
-<header>
-  <div class="head">
-    <h1>🍳 Moje przepisy</h1>
-    <input id="q" type="search" placeholder="Szukaj nazwy, składnika, kategorii lub kraju…">
-    <div id="count"></div>
+<header class="topbar">
+  <div class="top-inner">
+    <div class="brand">
+      <div class="brand-icon">🍳</div>
+      <div>
+        <h1>Moje przepisy</h1>
+        <small>Znajdź coś dobrego do ugotowania</small>
+      </div>
+    </div>
+
+    <div class="search-wrap">
+      <span class="search-icon">⌕</span>
+      <input id="q" type="search" autocomplete="off"
+             placeholder="Szukaj przepisu, składnika, kategorii lub kraju…">
+    </div>
+
+    <div class="unit-wrap" title="Wybierz system miar">
+      <span class="unit-label">Miary</span>
+      <div class="unit-switch" role="group" aria-label="System miar">
+        <button class="unit-btn" type="button" data-unit="US">USA</button>
+        <button class="unit-btn" type="button" data-unit="EU">EU</button>
+      </div>
+    </div>
   </div>
 </header>
 
-<main>
-  <section id="list"><div class="empty">Ładowanie przepisów…</div></section>
-  <article id="recipe"><p>Wybierz przepis z listy.</p></article>
-</main>
+<div class="page">
+  <div class="filters">
+    <select id="category" class="filter" aria-label="Kategoria">
+      <option value="">Wszystkie kategorie</option>
+    </select>
+    <select id="area" class="filter" aria-label="Kuchnia lub region">
+      <option value="">Wszystkie regiony</option>
+    </select>
+    <div id="count"></div>
+  </div>
+
+  <main class="layout">
+    <section id="list">
+      <div class="empty">Ładowanie przepisów…</div>
+    </section>
+
+    <article id="recipe">
+      <div class="welcome">
+        <div>
+          <div class="welcome-icon">🥘</div>
+          <h2>Wybierz przepis</h2>
+          <p>Przeszukuj bazę, filtruj przepisy i przełączaj miary USA/EU jednym dotknięciem.</p>
+        </div>
+      </div>
+    </article>
+  </main>
+</div>
 
 <script>
 let recipes=[];
 let currentId=null;
+let currentRecipe=null;
+
+// USA is deliberately the default because it represents the source measures.
+// The user's explicit choice is remembered on the device.
+let unitSystem=localStorage.getItem('recipe-unit-system') || 'US';
+if(!['US','EU'].includes(unitSystem)) unitSystem='US';
 
 const list=document.querySelector('#list');
 const article=document.querySelector('#recipe');
 const input=document.querySelector('#q');
 const count=document.querySelector('#count');
+const categorySelect=document.querySelector('#category');
+const areaSelect=document.querySelector('#area');
+const unitButtons=[...document.querySelectorAll('.unit-btn')];
+
+const FRACTIONS={
+  '¼':.25,'½':.5,'¾':.75,'⅐':1/7,'⅑':1/9,'⅒':.1,
+  '⅓':1/3,'⅔':2/3,'⅕':.2,'⅖':.4,'⅗':.6,'⅘':.8,
+  '⅙':1/6,'⅚':5/6,'⅛':.125,'⅜':.375,'⅝':.625,'⅞':.875
+};
 
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({
   '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'
 }[c]));
 
+function niceNumber(value, maxDecimals=1){
+  if(!Number.isFinite(value)) return '';
+  const rounded=Math.round(value*10**maxDecimals)/10**maxDecimals;
+  return new Intl.NumberFormat('pl-PL',{
+    maximumFractionDigits:maxDecimals
+  }).format(rounded);
+}
+
+function parseSingleNumber(raw){
+  if(raw==null) return null;
+  let s=String(raw).trim();
+  if(!s) return null;
+
+  if(FRACTIONS[s]!=null) return FRACTIONS[s];
+
+  let unicodeTotal=0;
+  for(const [char,val] of Object.entries(FRACTIONS)){
+    if(s.includes(char)){
+      s=s.replace(char,'').trim();
+      unicodeTotal+=val;
+    }
+  }
+
+  if(/^\d+\s+\d+\/\d+$/.test(s)){
+    const [whole,frac]=s.split(/\s+/);
+    const [a,b]=frac.split('/').map(Number);
+    return Number(whole)+(b?a/b:0)+unicodeTotal;
+  }
+
+  if(/^\d+\/\d+$/.test(s)){
+    const [a,b]=s.split('/').map(Number);
+    return (b?a/b:0)+unicodeTotal;
+  }
+
+  const num=Number(s.replace(',','.'));
+  if(Number.isFinite(num)) return num+unicodeTotal;
+
+  if(unicodeTotal && !s) return unicodeTotal;
+  return null;
+}
+
+function parseQuantityToken(token){
+  token=String(token||'').trim();
+  if(!token) return null;
+
+  // 1-2, 1–2, 1 to 2
+  const range=token.match(/^(.+?)\s*(?:-|–|—|\bto\b)\s*(.+)$/i);
+  if(range){
+    const a=parseSingleNumber(range[1]);
+    const b=parseSingleNumber(range[2]);
+    if(a!=null && b!=null) return {kind:'range',a,b};
+  }
+
+  const value=parseSingleNumber(token);
+  return value==null ? null : {kind:'single',value};
+}
+
+function scaleQuantity(q,factor){
+  if(q.kind==='range'){
+    return {kind:'range',a:q.a*factor,b:q.b*factor};
+  }
+  return {kind:'single',value:q.value*factor};
+}
+
+function formatQuantity(q,decimals=1){
+  if(q.kind==='range'){
+    return `${niceNumber(q.a,decimals)}–${niceNumber(q.b,decimals)}`;
+  }
+  return niceNumber(q.value,decimals);
+}
+
+function smartMetric(value, smallUnit, bigUnit, threshold=1000, divisor=1000){
+  if(value.kind==='range'){
+    const max=Math.max(value.a,value.b);
+    if(max>=threshold){
+      const q={kind:'range',a:value.a/divisor,b:value.b/divisor};
+      return `${formatQuantity(q,2)} ${bigUnit}`;
+    }
+    return `${formatQuantity(value,0)} ${smallUnit}`;
+  }
+
+  if(value.value>=threshold){
+    return `${niceNumber(value.value/divisor,2)} ${bigUnit}`;
+  }
+  return `${niceNumber(value.value, value.value<10 ? 1 : 0)} ${smallUnit}`;
+}
+
+function detectMeasure(measure){
+  if(!measure) return null;
+
+  const raw=String(measure).trim();
+  const normalized=raw
+    .toLowerCase()
+    .replace(/[.,]$/,'')
+    .replace(/\s+/g,' ');
+
+  // Quantity supports integers, decimals, ASCII fractions, Unicode fractions and ranges.
+  const qPattern='(?:\\d+\\s+\\d+\\/\\d+|\\d+\\/\\d+|\\d+(?:[.,]\\d+)?|[¼½¾⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞])(?:\\s*(?:-|–|—|to)\\s*(?:\\d+\\s+\\d+\\/\\d+|\\d+\\/\\d+|\\d+(?:[.,]\\d+)?|[¼½¾⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞]))?';
+
+  const units=[
+    ['fl_oz', /^(Q)\s*(?:fl\.?\s*oz\.?|fluid\s+ounces?)\b/i],
+    ['tbsp', /^(Q)\s*(?:tbsp|tbs|tablespoons?)\b/i],
+    ['tsp', /^(Q)\s*(?:tsp|teaspoons?)\b/i],
+    ['cup', /^(Q)\s*(?:cups?)\b/i],
+    ['pint', /^(Q)\s*(?:pints?|pt)\b/i],
+    ['quart', /^(Q)\s*(?:quarts?|qt)\b/i],
+    ['gallon', /^(Q)\s*(?:gallons?|gal)\b/i],
+    ['lb', /^(Q)\s*(?:lbs?|pounds?)\b/i],
+    ['oz', /^(Q)\s*(?:oz|ounces?)\b/i],
+    ['inch', /^(Q)\s*(?:inches|inch|in)\b/i]
+  ];
+
+  for(const [unit,template] of units){
+    const source=template.source.replace('Q',qPattern);
+    const re=new RegExp(source,template.flags);
+    const match=normalized.match(re);
+    if(!match) continue;
+
+    const q=parseQuantityToken(match[1]);
+    if(!q) continue;
+
+    return {
+      unit,
+      quantity:q,
+      rest:raw.slice(match[0].length).trim(),
+      raw
+    };
+  }
+
+  return null;
+}
+
+function convertMeasureToEU(measure){
+  const parsed=detectMeasure(measure);
+  if(!parsed) return measure || '';
+
+  const q=parsed.quantity;
+  let result='';
+
+  switch(parsed.unit){
+    case 'cup':
+      result=smartMetric(scaleQuantity(q,236.588),'ml','l');
+      break;
+    case 'tbsp':
+      result=smartMetric(scaleQuantity(q,14.7868),'ml','l');
+      break;
+    case 'tsp':
+      result=smartMetric(scaleQuantity(q,4.92892),'ml','l');
+      break;
+    case 'fl_oz':
+      result=smartMetric(scaleQuantity(q,29.5735),'ml','l');
+      break;
+    case 'pint':
+      result=smartMetric(scaleQuantity(q,473.176),'ml','l');
+      break;
+    case 'quart':
+      result=smartMetric(scaleQuantity(q,946.353),'ml','l');
+      break;
+    case 'gallon':
+      result=smartMetric(scaleQuantity(q,3.78541),'l','l',999999,1);
+      break;
+    case 'oz':
+      result=smartMetric(scaleQuantity(q,28.3495),'g','kg');
+      break;
+    case 'lb':
+      result=smartMetric(scaleQuantity(q,453.592),'g','kg');
+      break;
+    case 'inch':
+      result=`${formatQuantity(scaleQuantity(q,2.54),1)} cm`;
+      break;
+    default:
+      return measure || '';
+  }
+
+  if(parsed.rest) result+=` ${parsed.rest}`;
+  return result;
+}
+
+function convertTemperaturesToEU(text){
+  if(!text) return '';
+
+  let out=String(text);
+
+  // Fahrenheit such as 350°F, 350 F, 350 degrees F, 350 degrees Fahrenheit.
+  out=out.replace(
+    /(\d{2,3})\s*(?:°\s*)?(?:degrees?\s*)?(?:f|fahrenheit)\b/gi,
+    (_,raw)=>{
+      const f=Number(raw);
+      const c=(f-32)*5/9;
+      const rounded=Math.round(c/5)*5;
+      return `${rounded}°C`;
+    }
+  );
+
+  // Gas mark is common in British recipes.
+  const gasMap={
+    '0.25':110,'0.5':130,'1':140,'2':150,'3':170,
+    '4':180,'5':190,'6':200,'7':220,'8':230,'9':240
+  };
+
+  out=out.replace(
+    /\bgas\s*mark\s*(¼|½|\d(?:[.,]\d+)?)\b/gi,
+    (whole,mark)=>{
+      let key=mark;
+      if(mark==='¼') key='0.25';
+      if(mark==='½') key='0.5';
+      key=String(key).replace(',','.');
+      return gasMap[key] ? `${gasMap[key]}°C` : whole;
+    }
+  );
+
+  // Pan/tin sizes such as "9 inch pan".
+  out=out.replace(
+    /\b(\d+(?:[.,]\d+)?|\d+\s+\d+\/\d+|\d+\/\d+)\s*(?:-| )?(?:inch|inches|in\.)\b/gi,
+    (whole,qRaw)=>{
+      const q=parseSingleNumber(qRaw);
+      return q==null ? whole : `${niceNumber(q*2.54,1)} cm`;
+    }
+  );
+
+  return out;
+}
+
+function displayMeasure(measure){
+  return unitSystem==='EU' ? convertMeasureToEU(measure) : (measure || '');
+}
+
+function displayInstruction(text){
+  return unitSystem==='EU' ? convertTemperaturesToEU(text) : (text || '');
+}
+
+function setUnitSystem(system){
+  unitSystem=system;
+  localStorage.setItem('recipe-unit-system',system);
+  updateUnitButtons();
+  if(currentRecipe) renderRecipe(currentRecipe);
+}
+
+function updateUnitButtons(){
+  unitButtons.forEach(btn=>{
+    const active=btn.dataset.unit===unitSystem;
+    btn.classList.toggle('active',active);
+    btn.setAttribute('aria-pressed',String(active));
+  });
+}
+
 async function init(){
+  updateUnitButtons();
+
   const response=await fetch('data/recipes_manifest.json',{cache:'no-store'});
   if(!response.ok) throw new Error(`HTTP ${response.status}`);
   const manifest=await response.json();
+
   recipes=manifest.recipes||[];
-  renderList(recipes);
+  setupFilters();
+  renderList(filterRecipes());
 
   const id=new URLSearchParams(location.search).get('id');
   if(id){
     const hit=recipes.find(x=>x.id===id);
-    if(hit) await openRecipe(hit);
+    if(hit) await openRecipe(hit,false);
   }
+}
+
+function setupFilters(){
+  const categories=[...new Set(recipes.map(r=>r.category).filter(Boolean))]
+    .sort((a,b)=>a.localeCompare(b,'pl'));
+  const areas=[...new Set(recipes.map(r=>r.area).filter(Boolean))]
+    .sort((a,b)=>a.localeCompare(b,'pl'));
+
+  categorySelect.innerHTML=
+    '<option value="">Wszystkie kategorie</option>'+
+    categories.map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join('');
+
+  areaSelect.innerHTML=
+    '<option value="">Wszystkie regiony</option>'+
+    areas.map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join('');
 }
 
 function searchable(r){
@@ -93,87 +916,158 @@ function searchable(r){
   ].filter(Boolean).join(' ').toLocaleLowerCase('pl');
 }
 
+function filterRecipes(){
+  const s=input.value.trim().toLocaleLowerCase('pl');
+  const category=categorySelect.value;
+  const area=areaSelect.value;
+
+  return recipes.filter(r=>{
+    if(s && !searchable(r).includes(s)) return false;
+    if(category && r.category!==category) return false;
+    if(area && r.area!==area) return false;
+    return true;
+  });
+}
+
 function renderList(items){
   count.textContent=`${items.length} z ${recipes.length} przepisów`;
 
   if(!items.length){
-    list.innerHTML='<div class="empty">Brak pasujących przepisów.</div>';
+    list.innerHTML='<div class="empty">Nie znaleziono pasujących przepisów.</div>';
     return;
   }
 
-  list.innerHTML=items.map(r=>`
-    <div class="item ${r.id===currentId?'active':''}" data-id="${esc(r.id)}">
-      ${r.image?`<img loading="lazy" src="${esc(r.image)}" alt="">`:''}
-      <div>
-        <strong>${esc(r.title)}</strong>
-        <div class="meta">${esc([r.category,r.area].filter(Boolean).join(' • '))}</div>
+  list.innerHTML=`
+    <div class="list-head">Wybierz przepis</div>
+    ${items.map(r=>`
+      <div class="item ${r.id===currentId?'active':''}" data-id="${esc(r.id)}">
+        ${r.image?`<img loading="lazy" src="${esc(r.image)}" alt="">`:''}
+        <div>
+          <div class="item-title">${esc(r.title)}</div>
+          <div class="item-meta">
+            ${r.category?`<span class="mini-chip">${esc(r.category)}</span>`:''}
+            ${r.area?`<span class="mini-chip">${esc(r.area)}</span>`:''}
+          </div>
+        </div>
       </div>
-    </div>
-  `).join('');
+    `).join('')}
+  `;
 
   list.querySelectorAll('.item').forEach(el=>{
     el.addEventListener('click',()=>{
       const hit=recipes.find(r=>r.id===el.dataset.id);
-      if(hit) openRecipe(hit);
+      if(hit) openRecipe(hit,true);
     });
   });
 }
 
-async function openRecipe(row){
+async function openRecipe(row,scroll=true){
   const response=await fetch(row.file,{cache:'no-store'});
   if(!response.ok) throw new Error(`HTTP ${response.status}`);
-  const r=await response.json();
 
-  currentId=r.id;
-  history.replaceState(null,'',`?id=${encodeURIComponent(r.id)}`);
+  currentRecipe=await response.json();
+  currentId=currentRecipe.id;
+
+  history.replaceState(null,'',`?id=${encodeURIComponent(currentId)}`);
+  renderRecipe(currentRecipe);
+  renderList(filterRecipes());
+
+  if(scroll){
+    article.scrollIntoView({behavior:'smooth',block:'start'});
+  }
+}
+
+function renderRecipe(r){
+  const unitNote=unitSystem==='EU'
+    ? `<div class="unit-note">
+         <span>↔️</span>
+         <div><strong>Miary europejskie są włączone.</strong>
+         Objętości są przeliczane na ml/l, masy na g/kg, °F na °C, a cale na cm.
+         Przeliczenia są automatyczne, dlatego przy bardzo nietypowych opisach miar warto sprawdzić oryginał.</div>
+       </div>`
+    : `<div class="unit-note">
+         <span>🇺🇸</span>
+         <div><strong>Wyświetlasz oryginalne miary USA.</strong>
+         Przełącz na EU u góry strony, aby automatycznie przeliczyć rozpoznane jednostki.</div>
+       </div>`;
 
   article.innerHTML=`
-    ${r.image?`<img class="hero" src="${esc(r.image)}" alt="${esc(r.title)}">`:''}
-    <h2>${esc(r.title)}</h2>
-    <div class="meta">${esc([
-      r.category,
-      r.area,
-      (r.tags||[]).join(', ')
-    ].filter(Boolean).join(' • '))}</div>
-
-    <h3>Składniki</h3>
-    <ul class="ingredients">
-      ${(r.ingredients||[]).map(x=>
-        `<li><strong>${esc(x.measure)}</strong> ${esc(x.ingredient)}</li>`
-      ).join('')}
-    </ul>
-
-    <h3>Przygotowanie krok po kroku</h3>
-    <div>
-      ${(r.steps||[]).map((x,i)=>
-        `<div class="step"><b>Krok ${i+1}</b>${esc(x)}</div>`
-      ).join('')}
+    <div class="hero-wrap">
+      ${r.image?`<img class="hero" src="${esc(r.image)}" alt="${esc(r.title)}">`:''}
+      <div class="hero-shade"></div>
+      <div class="hero-title">
+        <div class="chips">
+          ${r.category?`<span class="chip">🍽️ ${esc(r.category)}</span>`:''}
+          ${r.area?`<span class="chip">🌍 ${esc(r.area)}</span>`:''}
+          <span class="chip">${unitSystem==='EU'?'🇪🇺 Miary EU':'🇺🇸 Miary USA'}</span>
+        </div>
+        <h2>${esc(r.title)}</h2>
+      </div>
     </div>
 
-    <div class="source">
-      Dane przepisu: TheMealDB API.
-      ${r.source_url?` <a href="${esc(r.source_url)}" target="_blank" rel="noopener">Otwórz źródło</a>`:''}
-      ${r.youtube?` • <a href="${esc(r.youtube)}" target="_blank" rel="noopener">Film</a>`:''}
+    <div class="recipe-body">
+      ${unitNote}
+
+      <h3 class="section-title">🧺 Składniki</h3>
+      <div class="ingredients-grid">
+        ${(r.ingredients||[]).map((x,i)=>{
+          const converted=displayMeasure(x.measure);
+          const title=unitSystem==='EU' && converted!==x.measure
+            ? `Oryginalnie: ${x.measure}`
+            : '';
+          return `
+            <label class="ingredient" title="${esc(title)}">
+              <input type="checkbox" data-ingredient="${i}">
+              <span class="measure">${esc(converted)}</span>
+              <span class="ingredient-name">${esc(x.ingredient)}</span>
+            </label>
+          `;
+        }).join('')}
+      </div>
+
+      <h3 class="section-title">👩‍🍳 Przygotowanie krok po kroku</h3>
+      <div class="steps">
+        ${(r.steps||[]).map((x,i)=>`
+          <div class="step">
+            <div class="step-no">${i+1}</div>
+            <div class="step-text">${esc(displayInstruction(x))}</div>
+          </div>
+        `).join('')}
+      </div>
+
+      <div class="source">
+        <span>Dane przepisu: TheMealDB API.</span>
+        ${r.source_url?`<a href="${esc(r.source_url)}" target="_blank" rel="noopener">🔗 Otwórz źródło</a>`:''}
+        ${r.youtube?`<a href="${esc(r.youtube)}" target="_blank" rel="noopener">▶️ Film</a>`:''}
+      </div>
     </div>
   `;
 
+  article.querySelectorAll('.ingredient input').forEach(box=>{
+    box.addEventListener('change',()=>{
+      box.closest('.ingredient')?.classList.toggle('checked',box.checked);
+    });
+  });
+}
+
+function refreshResults(){
   renderList(filterRecipes());
-  window.scrollTo({top:0,behavior:'smooth'});
 }
 
-function filterRecipes(){
-  const s=input.value.trim().toLocaleLowerCase('pl');
-  if(!s) return recipes;
-  return recipes.filter(r=>searchable(r).includes(s));
-}
-
-input.addEventListener('input',()=>renderList(filterRecipes()));
+input.addEventListener('input',refreshResults);
+categorySelect.addEventListener('change',refreshResults);
+areaSelect.addEventListener('change',refreshResults);
+unitButtons.forEach(btn=>btn.addEventListener('click',()=>setUnitSystem(btn.dataset.unit)));
 
 init().catch(err=>{
   article.innerHTML=`
-    <h2>Nie udało się wczytać bazy</h2>
-    <p>${esc(err.message)}</p>
-    <p>Uruchom workflow „Recipes - setup and sync”, aby utworzyć dane.</p>
+    <div class="welcome">
+      <div>
+        <div class="welcome-icon">⚠️</div>
+        <h2>Nie udało się wczytać bazy</h2>
+        <p>${esc(err.message)}. Uruchom workflow „Recipes - setup and sync”, aby utworzyć lub odświeżyć dane.</p>
+      </div>
+    </div>
   `;
 });
 </script>
