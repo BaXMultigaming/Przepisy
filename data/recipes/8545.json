@@ -1,0 +1,120 @@
+{
+  "id": "8545",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8545/quick-and-easy-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/8545/quick-and-easy-chicken/",
+  "title": "Quick and Easy Chicken",
+  "description": "This quick and easy chicken recipe is made with seared chicken breasts simmered in a sweet and zingy mixture of soy sauce, ketchup, and lemon juice.",
+  "authors": [
+    "Anny"
+  ],
+  "date_published": "1999-04-23T11:56:33-04:00",
+  "date_modified": "2025-10-27T13:17:52-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 onion, chopped",
+    "4 skinless, boneless chicken breast halves",
+    "3 tablespoons ketchup",
+    "3 tablespoons white sugar",
+    "2 tablespoons soy sauce",
+    "2 tablespoons lemon juice",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium heat. Add onion; sauté until translucent, 3 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add chicken to skillet; cook until lightly browned, 1 to 2 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine ketchup, sugar, soy sauce, lemon juice, and pepper in a bowl; pour over chicken. Bring to a boil, then reduce heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and simmer until chicken is no longer pink in the center and the juices run clear, 25 to 35 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ehRkDFkoec52LcfC5efk3U9dh2g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/578526-5dfa4c3657014d87ba1b91beddfdd392.jpg"
+      ],
+      "image": "assets/images/8545/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "655 mg",
+    "sugarContent": "13 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "798"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/MoKTWfOP-ma1DlVvV.mp4",
+    "description": "This tangy chicken dish is ready in about 30 minutes.",
+    "duration": "PT1M39S",
+    "name": "Quick and Easy Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/MoKTWfOP/poster.jpg?width=1280",
+    "uploadDate": "2021-07-02T00:57:19-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ehRkDFkoec52LcfC5efk3U9dh2g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/578526-5dfa4c3657014d87ba1b91beddfdd392.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8545/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/8545/step_05.webp"
+    ]
+  }
+}

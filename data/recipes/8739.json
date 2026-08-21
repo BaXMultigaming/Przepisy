@@ -1,0 +1,89 @@
+{
+  "id": "8739",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8739/salsafied-chicken-and-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/8739/salsafied-chicken-and-rice/",
+  "title": "Salsafied Chicken and Rice",
+  "description": "A delicious combination of chicken, salsa, and rice. Instant rice makes cooking this one-skillet meal quick and easy. Top it with melted Cheddar.",
+  "authors": [
+    "Jamey Corrin"
+  ],
+  "date_published": "1999-05-04T09:47:22-04:00",
+  "date_modified": "2023-01-11T12:57:32-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 pound skinless, boneless chicken breast halves - cubed",
+    "0.25 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "1 (14.5 ounce) can chicken broth",
+    "1 (8 ounce) jar salsa",
+    "2 cups instant rice",
+    "8 ounces shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Season chicken with salt and pepper. Cook and stir chicken in hot oil until cooked through and juices run clear, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add broth and salsa and bring to a boil; turn off the heat and stir in instant rice. Sprinkle Cheddar cheese over the mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the skillet and let it sit until rice is tender, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "586 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "128 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "45 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "1347 mg",
+    "sugarContent": "3 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "602"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CzXXyIL5-6JF3X7FyUafL4Us2ts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7934670-5cbc37d4105f4e14b97b4de98ab1ef62.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8739/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

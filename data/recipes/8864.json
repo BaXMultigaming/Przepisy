@@ -1,0 +1,84 @@
+{
+  "id": "8864",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8864/greek-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8864/greek-chicken-salad/",
+  "title": "Greek-Inspired Chicken Salad",
+  "description": "Diced cooked chicken is tossed with feta cheese, black olives, sliced cucumber, and carrot in this savory salad.",
+  "authors": [
+    "Lois"
+  ],
+  "date_published": "1999-05-21T15:22:55-04:00",
+  "date_modified": "2023-06-13T04:35:10-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups cubed, cooked chicken meat",
+    "0.5 cup sliced carrots",
+    "0.5 cup sliced cucumber",
+    "0.25 cup sliced black olives",
+    "0.25 cup crumbled feta cheese",
+    "0.25 cup Italian-style salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl combine the chicken, carrots, cucumber, olives and cheese. Gently mix together. Add the salad dressing and mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and refrigerate. Let flavors marinate for at least 1 hour. Serve on a bed of lettuce if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "193 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "472 mg",
+    "sugarContent": "2 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0tK49ouRdfLTlrlk-Q9W8WmSQRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4538483-6ba4e01b48f147c9ad96a176f9bc0c25.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8864/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

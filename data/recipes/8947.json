@@ -1,0 +1,95 @@
+{
+  "id": "8947",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8947/buffalo-chicken-wings-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/8947/buffalo-chicken-wings-i/",
+  "title": "Buffalo Chicken Wings I",
+  "description": "Deep-fried chicken wings are simmered in butter and hot sauce to pack quite a kick.",
+  "authors": [
+    "Ginger"
+  ],
+  "date_published": "1999-08-04T19:02:38-04:00",
+  "date_modified": "2026-05-08T15:50:52-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "24 wings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 quart vegetable oil for deep frying",
+    "24 chicken wings, tips removed and wings cut in half at joint",
+    "4 tablespoons butter",
+    "1 tablespoon distilled white vinegar",
+    "5 tablespoons hot pepper sauce",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a large skillet or deep fryer to 375 degrees F (190 degrees C). Deep fry chicken wings in oil until done, about 10 minutes. Remove chicken from skillet or deep fryer and drain on paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in a large skillet. Stir in the, vinegar and hot pepper sauce. Season with salt and pepper to taste. Add cooked chicken to sauce and stir over low heat to coat. The longer the wings simmer in the sauce, the hotter they will be. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1Sf-5Vm3SrklpQGYT6cxzLG6I08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1680821-ef77a10ebd65420ca59062e04ed1d408.jpg"
+      ],
+      "image": "assets/images/8947/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "46 mg",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "302 mg",
+    "sugarContent": "0 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "418"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RVOfTrXl-K3AjnAEN.mp4",
+    "description": "In this video you'll see how to make perfectly spicy and ever popular Buffalo Chicken Wings. Two dozen chicken wings are deep fried to golden while a quick and spicy sauce simmers away on the stove. There are many Buffalo chicken recipes out there, but this one is as close to authentic as it gets.",
+    "duration": "PT1M37S",
+    "name": "Buffalo Chicken Wings I",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RVOfTrXl/poster.jpg?width=1280",
+    "uploadDate": "2021-07-10T09:19:42-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1Sf-5Vm3SrklpQGYT6cxzLG6I08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1680821-ef77a10ebd65420ca59062e04ed1d408.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8947/hero.webp",
+    "steps": [
+      null,
+      "assets/images/8947/step_02.webp"
+    ]
+  }
+}

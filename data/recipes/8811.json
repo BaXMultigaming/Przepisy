@@ -1,0 +1,61 @@
+{
+  "id": "8811",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8811/chicken-gravy/",
+  "requested_url": "https://www.allrecipes.com/recipe/8811/chicken-gravy/",
+  "title": "Chicken Gravy",
+  "description": "A good gravy can rescue so many mundane meals. This one is easy and fail-safe.",
+  "authors": [
+    "Barbara"
+  ],
+  "date_published": "1999-07-07T16:39:45-04:00",
+  "date_modified": "2022-09-16T12:46:21-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups chicken stock",
+    "3 tablespoons cornstarch",
+    "1 teaspoon poultry seasoning"
+  ],
+  "steps": [
+    {
+      "text": "Bring chicken stock to a boil. Dissolve cornstarch in a small amount of cold water and add to chicken stock. Season to taste with poultry seasoning and cook until thickened. Serve!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "6 kcal",
+    "carbohydrateContent": "1 g",
+    "sodiumContent": "0 mg",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "192"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UXwe3ix2e6H9MfUky5d1beNfyLk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8079432-f52e624dd9b1429a840a9955b4325fdf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8811/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

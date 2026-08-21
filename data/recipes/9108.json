@@ -1,0 +1,81 @@
+{
+  "id": "9108",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9108/fluffy-cranberry-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/9108/fluffy-cranberry-salad/",
+  "title": "Fluffy Cranberry Salad",
+  "description": "A creamy cranberry salad. Even people who normally don&#39;t like cranberries will eat this salad.",
+  "authors": [
+    "Nancy"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:45:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT730M",
+  "yield": [
+    "10",
+    "12 servings"
+  ],
+  "categories": [
+    "Side Dish",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound fresh or frozen cranberries",
+    "8 ounces miniature marshmallows",
+    "2 cups white sugar",
+    "1 (20 ounce) can crushed pineapple with juice",
+    "1 banana, peeled and sliced",
+    "1 cup whipped cream"
+  ],
+  "steps": [
+    {
+      "text": "If using frozen cranberries let thaw before using. In a food processor or blender grind the cranberries. Add the sugar, crushed pineapple and marshmallows. Let mixture stand overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Just before serving stir in the sliced banana and whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "306 kcal",
+    "carbohydrateContent": "76 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "27 mg",
+    "sugarContent": "65 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Zxp2ciTX56rkxQhzs1HhjGTqd4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/982-1a23a458ecf242a69b0282519dd1ca5e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9108/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

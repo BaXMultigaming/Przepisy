@@ -1,0 +1,88 @@
+{
+  "id": "8757",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8757/basil-cream-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/8757/basil-cream-chicken/",
+  "title": "Basil Cream Chicken",
+  "description": "Breaded chicken is served in a pool of Parmesan cream, accented with pimentos and fresh basil.",
+  "authors": [
+    "Janet Shannon"
+  ],
+  "date_published": "1999-05-06T16:33:30-04:00",
+  "date_modified": "2024-09-26T13:24:35-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup milk",
+    "0.25 cup bread crumbs",
+    "1 pound skinless, boneless chicken breast halves",
+    "3 tablespoons butter",
+    "0.5 cup chicken broth",
+    "1 cup heavy whipping cream",
+    "1 (4 ounce) jar sliced pimento peppers, drained",
+    "0.5 cup grated Parmesan cheese",
+    "0.25 cup chopped fresh basil",
+    "0.125 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place milk and breadcrumbs in separate shallow bowls. Dip chicken in the milk, then coat with breadcrumbs. In a skillet over medium heat, fry chicken in butter or margarine, on both sides, until the juices run clear. Remove from skillet and keep warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the broth to the skillet; bring to a boil over medium heat. Stir to loosen browned bits from pan. Stir in the cream and pimentos; boil and stir for one minute. Reduce heat; add the Parmesan cheese, basil and black pepper. Simmer and stir until heated through. To serve, pour the sauce over the chicken.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "494 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "181 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "22 g",
+    "sodiumContent": "516 mg",
+    "sugarContent": "2 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "248"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cbS-fF7eV9YNAPFbr8NEdgvPJhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8757basil-cream-chickenYoly4x3-6d44ff74f6124df18037a08ae18d2ce3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8757/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

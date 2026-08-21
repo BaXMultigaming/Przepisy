@@ -1,0 +1,104 @@
+{
+  "id": "9006",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9006/creme-fraiche-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/9006/creme-fraiche-chicken/",
+  "title": "Crème Fraîche Chicken",
+  "description": "This easy recipe combines crème fraîche, mushrooms, garlic, and sour cream to create a slightly tangy, rich, and creamy sauce for chicken and pasta.",
+  "authors": [
+    "Kristel A Ivy"
+  ],
+  "date_published": "1999-05-03T18:43:58-04:00",
+  "date_modified": "2026-04-29T11:26:29-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "6 skinless, boneless chicken breast halves",
+    "0.25 cup white wine",
+    "salt and pepper to taste",
+    "1 (8 ounce) package penne or other pasta of your choice",
+    "1 large white onion, chopped",
+    "1 tablespoon chopped garlic",
+    "2 (8 ounce) packages sliced fresh mushrooms",
+    "2 cups creme fraiche",
+    "3 tablespoons sour cream",
+    "0.5 cup grated Parmesan cheese for topping"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Add chicken and sauté until browned. Add white wine and season with salt and pepper. Reduce heat to low and simmer until chicken is cooked through and juices run clear, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Add pasta and cook, stirring occasionally, until tender yet firm to the bite, about 10 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut cooked chicken into cubes; set aside. Add onion and garlic to the remaining juices in the skillet. Cook and stir until onions are tender, about 5 minutes. Add mushrooms and sauté until soft.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add cooked chicken, crème fraîche, and sour cream; stir until heated through. Serve chicken and sauce on top of cooked pasta. Sprinkle with grated Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "708 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "256 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "48 g",
+    "saturatedFatContent": "26 g",
+    "sodiumContent": "270 mg",
+    "sugarContent": "6 g",
+    "fatContent": "43 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "78"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/b4S56rLUXKTCHoYU6oSJexsterA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4508228-874712daa7ac474b9e4d6ea592e5ae67.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9006/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

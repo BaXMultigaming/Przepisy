@@ -1,0 +1,81 @@
+{
+  "id": "8688",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8688/fancy-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8688/fancy-chicken-salad/",
+  "title": "Fancy Chicken Salad",
+  "description": "I came up with this as I was trying to use things I had on hand. I have fresh dill growing on my deck, which was the chief inspiration for this upscale version of chicken salad. (I had some for dinner--delicious!)",
+  "authors": [
+    "Chris Gaskill"
+  ],
+  "date_published": "1999-06-10T20:37:32-04:00",
+  "date_modified": "2022-07-14T16:00:45-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup light mayonnaise",
+    "2 tablespoons cider vinegar",
+    "2 cloves crushed garlic",
+    "3 tablespoons chopped fresh dill",
+    "1 pound skinless, boneless chicken breast halves - cooked",
+    "0.25 cup crumbled feta cheese",
+    "0.5 cup red bell pepper, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Blend mayonnaise, vinegar, garlic and dill. Refrigerate for several hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir together chicken, peppers and cheese and blend with the chilled dressing. Serve!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "77 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "143 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "111"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eqBkaHARNoM5i2U2Yz6I76pYteY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/413878-07487313a3b2463cbc6be6fb7ff37c6a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8688/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

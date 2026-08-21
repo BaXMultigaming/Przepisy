@@ -1,0 +1,105 @@
+{
+  "id": "8771",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8771/chicken-delicious/",
+  "requested_url": "https://www.allrecipes.com/recipe/8771/chicken-delicious/",
+  "title": "Chicken Delicious",
+  "description": "This incredibly delicious chicken is baked in the slow cooker in a super simple sauce of condensed soups, mushrooms, Parmesan, and sherry.",
+  "authors": [
+    "CORWYNN DARKHOLME"
+  ],
+  "date_published": "1999-06-23T21:12:57-04:00",
+  "date_modified": "2024-11-25T22:52:52-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT240M",
+  "total_time": "PT250M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (10.5 ounce) can condensed cream of mushroom soup",
+    "1 (10.5 ounce) can condensed cream of celery soup",
+    "0.33333334326744 cup dry sherry",
+    "10 skinless, boneless chicken breast halves",
+    "1 teaspoon fresh lemon juice",
+    "1 teaspoon paprika",
+    "0.125 teaspoon celery salt",
+    "salt and pepper to taste",
+    "0.25 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Mix condensed soups and sherry together in a medium bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season chicken with lemon juice, paprika, celery salt, salt, and pepper; place into a slow cooker. Pour soup mixture over chicken, then sprinkle Parmesan cheese over top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook until chicken is no longer pink in the center and the juices run clear, on Low for 8 to 10 hours or High for 4 to 5 hours. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/SaZwGxwY-wvDQ38Df-H4fBgvl50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48639-4e9afa3261b6439d9b7d9a1732ac963a.jpg"
+      ],
+      "image": "assets/images/8771/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "55 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "479 mg",
+    "sugarContent": "1 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "424"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fySOzIqZ-K3AjnAEN.mp4",
+    "description": "Watch how in a matter of minutes you can put together a slow cooker meal using a few staple kitchen ingredients. Seasoned chicken breast halves are slowly cooked in a creamy sauce made from cream of mushroom and cream of celery soup. We'll add a bit of dry sherry to the sauce to elevate this dish and give it a deeper, richer flavor.",
+    "duration": "PT1M47S",
+    "name": "Chicken Delicious",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fySOzIqZ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T12:01:56-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SaZwGxwY-wvDQ38Df-H4fBgvl50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48639-4e9afa3261b6439d9b7d9a1732ac963a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8771/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/8771/step_03.webp"
+    ]
+  }
+}

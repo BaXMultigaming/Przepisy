@@ -1,0 +1,101 @@
+{
+  "id": "8870",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8870/bbq-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8870/bbq-chicken-salad/",
+  "title": "BBQ Chicken Salad",
+  "description": "This lively salad of grilled chicken, corn, bell pepper, and onion is dressed with a tangy mixture of barbeque sauce and mayonnaise.",
+  "authors": [
+    "Deborah Noe"
+  ],
+  "date_published": "1999-06-09T22:33:20-04:00",
+  "date_modified": "2024-06-22T05:53:25-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT50M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 skinless, boneless chicken breast halves",
+    "4 stalks celery, chopped",
+    "1 large red bell pepper, diced",
+    "0.5 red onion, diced",
+    "1 (8.75 ounce) can sweet corn, drained",
+    "0.25 cup barbeque sauce",
+    "2 tablespoons fat-free mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Preheat grill for high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly oil grate. Grill chicken 10 minutes on each side, or until juices run clear. Remove from heat, cool, and cube.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, toss together the chicken, celery, red bell pepper, onion, and corn.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, mix together the barbeque sauce and mayonnaise. Pour over the chicken and veggies. Stir, and chill until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "473 mg",
+    "sugarContent": "10 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "156"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rDyIituzlnSr3v_RZLOnEfPiQxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8870bbq-chicken-saladChefMo4x3-102a5ba6d6aa473ea5dc67c1be7e4657.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8870/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

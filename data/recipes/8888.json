@@ -1,0 +1,96 @@
+{
+  "id": "8888",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8888/chicken-valdostano/",
+  "requested_url": "https://www.allrecipes.com/recipe/8888/chicken-valdostano/",
+  "title": "Chicken Valdostano",
+  "description": "Delicious Italian skillet dish with prosciutto ham, fontina cheese (one of Italy&#39;s best cheeses) AND a white wine/mushroom sauce. Who could ask for more? Here&#39;s the recipe YOU asked for!",
+  "authors": [
+    "Jen"
+  ],
+  "date_published": "1999-07-17T12:09:38-04:00",
+  "date_modified": "2026-06-26T14:06:58-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons all-purpose flour",
+    "6 skinless, boneless chicken breast halves - pounded thin",
+    "0.25 cup unsalted butter",
+    "10 fresh mushrooms, sliced",
+    "0.75 cup dry white wine",
+    "0.75 cup chicken stock",
+    "3 tablespoons chopped fresh parsley",
+    "1 teaspoon freshly ground white pepper",
+    "6 slices thinly sliced prosciutto",
+    "6 slices fontina cheese"
+  ],
+  "steps": [
+    {
+      "text": "Lightly flour chicken breasts, shaking off excess flour. In a large skillet over low heat, melt butter/margarine. Add chicken and saute until lightly browned, about 2 minutes each side. Remove with slotted spatula and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Increase heat to medium low. Add mushrooms and saute until juices are rendered, about 4 minutes. Add wine and simmer until reduced by 1/4, about 3 to 4 minutes. Increase heat to medium high. Add stock, parsley and pepper and simmer until sauce reduced to 1 cup, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to low. Top each chicken breast with a slice of prosciutto and a slice of fontina cheese. Return chicken to skillet and cook just until cheese melts. Transfer chicken to individual plates and top each with some of the mushroom sauce before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "396 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "128 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "706 mg",
+    "sugarContent": "1 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "164"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1uowoOB0vgQ09XPmnVqOjOs8wJ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2059240-chicken-valdostano-DIZ-4x3-1-bd577360fb6243939302eaf73358cfdc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8888/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

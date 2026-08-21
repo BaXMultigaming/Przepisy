@@ -1,0 +1,77 @@
+{
+  "id": "8779",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8779/chicken-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8779/chicken-potato-salad/",
+  "title": "Chicken Potato Salad",
+  "description": "The addition of chicken to this picnic essential lets it do double duty as main dish or side salad.",
+  "authors": [
+    "Ladan Miller"
+  ],
+  "date_published": "1999-06-05T23:52:33-04:00",
+  "date_modified": "2026-04-05T08:08:51-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "7",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 boneless chicken breast halves, cooked",
+    "2 hard-cooked eggs",
+    "3 potatoes, cooked",
+    "1.25 cups pickled cucumbers",
+    "0.25 teaspoon salt",
+    "2 tablespoons olive oil",
+    "0.66666668653488 cup mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Chop the chicken, eggs, potatoes and pickled cucumbers into very small pieces. Mix all together. Add the salt and mayonnaise, then the olive oil. Toss to coat. Refrigerate for 2 to 3 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "340 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "92 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "600 mg",
+    "sugarContent": "1 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vQGgSJEa2cWP2iLiv3pKYB77lpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/613277-chicken-potato-salad-cookinmama-4x3-1-a0a40b44e84540a0b51229280b1283df.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8779/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

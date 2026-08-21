@@ -1,0 +1,101 @@
+{
+  "id": "8990",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8990/gourmet-chicken-pizza/",
+  "requested_url": "https://www.allrecipes.com/recipe/8990/gourmet-chicken-pizza/",
+  "title": "Gourmet Chicken Pizza",
+  "description": "Pizza gets a little style with chopped tomatoes replacing sauce, and the addition of ranch dressing and shredded chicken",
+  "authors": [
+    "Lessalee"
+  ],
+  "date_published": "1999-08-27T00:32:50-04:00",
+  "date_modified": "2026-04-29T11:28:28-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "1 pizza"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 skinless, boneless chicken breast halves",
+    "1 (10 ounce) can refrigerated pizza crust",
+    "0.5 cup Ranch-style salad dressing",
+    "1 cup shredded mozzarella cheese",
+    "1 cup shredded Cheddar cheese",
+    "1 cup chopped tomatoes",
+    "0.25 cup chopped green onions"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 425 degrees F (220 degrees C). Lightly grease a pizza pan or medium baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place chicken in a large skillet over medium-high heat. Cook until no longer pink, and juices run clear. Cool, then either shred or chop into small pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Unroll dough, and press into the prepared pizza pan or baking sheet. Bake crust for 7 minutes in the preheated oven, or until it begins to turn golden brown. Remove from oven.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread ranch dressing over partially baked crust. Sprinkle on mozzarella cheese. Place tomatoes, green onion, and chicken on top of mozzarella cheese, then top with Cheddar cheese. Return to the oven for 20 to 25 minutes, until cheese is melted and bubbly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "303 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "573 mg",
+    "sugarContent": "3 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "825"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-zw0qQM_6AqdkkVuqQ-_EkR13UI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1647961-gourmet-chicken-pizza-kassbee-4x3-1-fafd0fb7fa4942dbad77a2ce3e224ebb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8990/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

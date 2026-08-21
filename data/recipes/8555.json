@@ -1,0 +1,70 @@
+{
+  "id": "8555",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8555/gourmet-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8555/gourmet-chicken-salad/",
+  "title": "Gourmet Chicken Salad",
+  "description": "Grapes and mandarin oranges lend fruity sweetness to chicken salad dressed with a smooth cucumber salad dressing.",
+  "authors": [
+    "Jan Kinnard"
+  ],
+  "date_published": "1999-04-25T18:56:30-04:00",
+  "date_modified": "2022-07-14T16:31:32-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (10 ounce) cans chicken chunks, drained",
+    "1 cup seedless green grapes, halved",
+    "0.5 cup sliced almonds",
+    "0.5 cup chopped celery",
+    "1 (8 ounce) can mandarin oranges, drained",
+    "0.75 cup creamy cucumber salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Mix together chicken, grapes, nuts, celery, oranges, and dressing. Chill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "58 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "991 mg",
+    "sugarContent": "13 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "140"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4Ihl-hvkBWuQ-_lnPtpZMZ-bNbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/33346-efaabe501cb0488da88f9fcf80d242d0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8555/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

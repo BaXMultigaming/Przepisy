@@ -1,0 +1,88 @@
+{
+  "id": "8790",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8790/chicken-salad-spread/",
+  "requested_url": "https://www.allrecipes.com/recipe/8790/chicken-salad-spread/",
+  "title": "Chicken Salad Spread",
+  "description": "This quick and easy chicken salad spread comes together in minutes with canned chicken and basic pantry ingredients. Delicious on salads and sandwiches.",
+  "authors": [
+    "MYSST"
+  ],
+  "date_published": "1999-07-02T08:45:02-04:00",
+  "date_modified": "2026-04-15T03:13:10-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (10 ounce) can chicken chunks, drained",
+    "0.5 cup sweet pickles, chopped",
+    "0.33333298563957 cup low-fat mayonnaise",
+    "0.25 cup chopped celery",
+    "0.5 teaspoon onion powder"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LoE-67yofVwvVr1kVtKtuEIAqCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8790-Chicken-Salad-Spread-gw-ddmfs-4x3-step-01-a20ce085ca464210b15d1d64ca00d67c.jpg"
+      ],
+      "image": "assets/images/8790/step_01.webp"
+    },
+    {
+      "text": "Stir chicken, pickles, mayonnaise, celery, and onion powder together in a bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7kMfSepaqgQiRvdf23J6HnI-BVA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8790-Chicken-Salad-Spread-gw-ddmfs-4x3-step-02-b939cbba6af443c89eb8f985aca7515c.jpg"
+      ],
+      "image": "assets/images/8790/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "476 mg",
+    "sugarContent": "7 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "136"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LOvJX5Ciwdl8RR50Wh0AkOchHqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8790-Chicken-Salad-Spread-gw-ddmfs-beauty-4x3-a3a69c843ec34d84a7754834fe20ba32.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8790/hero.webp",
+    "steps": [
+      "assets/images/8790/step_01.webp",
+      "assets/images/8790/step_02.webp"
+    ]
+  }
+}

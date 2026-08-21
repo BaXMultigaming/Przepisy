@@ -1,0 +1,80 @@
+{
+  "id": "8909",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8909/chicken-and-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/8909/chicken-and-rice/",
+  "title": "Easy Canned Chicken &amp; Rice",
+  "description": "This creamy canned chicken and rice recipe uses instant rice and condensed soup for a 3-ingredient, speedy meal that even your teenage kids can make.",
+  "authors": [
+    "R E Vincent"
+  ],
+  "date_published": "1999-04-29T22:34:44-04:00",
+  "date_modified": "2026-02-15T19:39:39-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups instant rice",
+    "1 (5 ounce) can chicken chunks, drained",
+    "1 (10.5 ounce) can condensed cream of chicken soup"
+  ],
+  "steps": [
+    {
+      "text": "Boil water. Add rice, stir, cover, and remove from heat. Let it sit until water is absorbed, about 5 minutes, then fluff with a fork. Or prepare rice according to package directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When rice is ready, add chicken to the pot and continue to stir over low heat. Mix in condensed soup. Continue cooking until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "456 mg",
+    "sugarContent": "0 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "104"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gp7f1PtqzXDiQh6bsQ13zvDQ_5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8909chicken-and-riceTammyLynnx3-4cffb6f58b35433e945cd2f316f646e2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8909/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

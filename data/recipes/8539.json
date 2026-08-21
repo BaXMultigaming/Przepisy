@@ -1,0 +1,81 @@
+{
+  "id": "8539",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8539/chicken-a-la-orange/",
+  "requested_url": "https://www.allrecipes.com/recipe/8539/chicken-a-la-orange/",
+  "title": "Chicken A La Orange",
+  "description": "A subtly spiced sweet orange sauce elevates this healthy saute above the ordinary.",
+  "authors": [
+    "SKEHLER"
+  ],
+  "date_published": "1999-04-24T18:45:48-04:00",
+  "date_modified": "2022-08-04T10:04:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breasts",
+    "1 tablespoon vegetable oil",
+    "2.5 cups orange juice",
+    "3 tablespoons cornstarch",
+    "0.5 cup hot water",
+    "3 tablespoons honey",
+    "0.25 teaspoon ground ginger"
+  ],
+  "steps": [
+    {
+      "text": "In a skillet, brown chicken breasts in 1 tablespoon oil over medium heat. Cook till juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add orange juice to the pan. When juice just begins to bubble around the edges of the pan, add corn starch dissolved in hot water. Mix ginger and honey together in a cup, and add to orange juice. Cook until sauce is thick and slightly browned. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "301 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "80 mg",
+    "sugarContent": "26 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.2",
+    "ratingCount": "59"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NCHH_T0OrDSMFI545nTTja96l_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/397100-c47d27b7a9c14c52bfdd18678aae8b79.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8539/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

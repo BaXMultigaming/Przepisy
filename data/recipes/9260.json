@@ -1,0 +1,86 @@
+{
+  "id": "9260",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9260/sparkling-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/9260/sparkling-punch/",
+  "title": "Sparkling Punch",
+  "description": "This sparkling punch is made with apple cider, fresh orange juice, and lemonade concentrate for a light and refreshing non-alcoholic punch.",
+  "authors": [
+    "Lorna"
+  ],
+  "date_published": "1998-12-08T17:24:38-05:00",
+  "date_modified": "2026-04-17T14:28:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 lemons",
+    "3 large oranges",
+    "1 (6 ounce) can frozen lemonade concentrate",
+    "1 liter club soda",
+    "2 (750 milliliter) bottles sparkling apple cider",
+    "1 tablespoon white sugar",
+    "2 trays ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Thinly slice the lemons and the oranges and place in a large punch bowl. Pour in the thawed lemonade. Gently stir in the club soda and the sparkling apple cider. Add sugar to taste. Add ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/L_B1LqC3a1V0kzfMdlvixKchg9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/618277-bad338c93e08475182d5c1b0a44eaee2.jpg"
+      ],
+      "image": "assets/images/9260/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "73 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "16 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "329"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ywKJt7pu-ma1DlVvV.mp4",
+    "description": "AR0495",
+    "duration": "PT2M25S",
+    "name": "Sparkling Punch",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ywKJt7pu/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T03:19:49-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/L_B1LqC3a1V0kzfMdlvixKchg9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/618277-bad338c93e08475182d5c1b0a44eaee2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9260/hero.webp",
+    "steps": [
+      "assets/images/9260/step_01.webp"
+    ]
+  }
+}

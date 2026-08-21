@@ -1,0 +1,97 @@
+{
+  "id": "8565",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8565/beckys-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8565/beckys-chicken-salad/",
+  "title": "Becky&#39;s Chicken Salad",
+  "description": "Whipped cream gives this chicken salad a lift. Green grapes and crunchy almonds add sweetness and texture to this creamy chicken salad.",
+  "authors": [
+    "Becky Riley"
+  ],
+  "date_published": "1999-04-27T16:20:38-04:00",
+  "date_modified": "2026-07-01T19:36:16-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups diced and chilled, cooked chicken meat",
+    "1 cup chopped celery",
+    "1 cup sliced, seedless grapes",
+    "0.5 cup sliced almonds",
+    "2 tablespoons chopped fresh parsley",
+    "1 teaspoon salt",
+    "1 cup mayonnaise",
+    "0.25 cup heavy whipping cream"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, whip cream to soft peaks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine meat, celery, grapes, almonds, parsley, salt, and mayonnaise with whipped cream. Chill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XT2HN0iframr7eaN_llCmT0KJKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2384251-17b286bf0d484d6ea1c958d6fa5e05c5.jpg"
+      ],
+      "image": "assets/images/8565/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "388 mg",
+    "sugarContent": "3 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "918"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/9rlqSGRA-ma1DlVvV.mp4",
+    "description": "AR0769",
+    "duration": "PT3M37S",
+    "name": "Becky’s Chicken Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9rlqSGRA/poster.jpg?width=1280",
+    "uploadDate": "2021-06-23T15:14:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XT2HN0iframr7eaN_llCmT0KJKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2384251-17b286bf0d484d6ea1c958d6fa5e05c5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8565/hero.webp",
+    "steps": [
+      null,
+      "assets/images/8565/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "8585",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8585/marinated-chicken-barbecue/",
+  "requested_url": "https://www.allrecipes.com/recipe/8585/marinated-chicken-barbecue/",
+  "title": "Marinated Baked Chicken",
+  "description": "This sweet and tangy horseradish and ketchup marinade gives a different kind of kick to baked chicken.",
+  "authors": [
+    "Jill Martz"
+  ],
+  "date_published": "1999-05-04T11:45:05-04:00",
+  "date_modified": "2025-07-18T11:49:29-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT540M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 skinless, boneless chicken breasts",
+    "1 cup ketchup",
+    "2 tablespoons prepared horseradish",
+    "0.25 cup lemon juice",
+    "0.5 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Mix together ketchup, horseradish, lemon juice, and oil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place chicken breasts in a dish, and pour marinade over. Refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 350 degrees F (175 degrees C) for 45 minutes, basting every 15 minutes and turning once.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "284 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "423 mg",
+    "sugarContent": "7 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/k3i5PoLq6MOs3BEjLVZL7C97sGE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7248712-6335aae7f4eb4052bd561fce9c8c6b03.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8585/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

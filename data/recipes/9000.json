@@ -1,0 +1,102 @@
+{
+  "id": "9000",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9000/honey-fried-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/9000/honey-fried-chicken/",
+  "title": "Honey Fried Chicken",
+  "description": "Honey-drenched chicken dipped in seasoned flour fries up crisp, golden, and delicious.",
+  "authors": [
+    "SmKat"
+  ],
+  "date_published": "1999-08-22T17:35:19-04:00",
+  "date_modified": "2024-11-30T02:48:32-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT40M",
+  "total_time": "PT70M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "New England",
+    "American"
+  ],
+  "regions": [
+    "New England",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (4 pound) whole chicken, cut into pieces",
+    "salt and pepper to taste",
+    "0.5 cup honey",
+    "1 tablespoon garlic powder",
+    "1 packet chicken bouillon granules",
+    "2 cups all-purpose flour",
+    "1 quart vegetable oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Season chicken pieces with salt and pepper, then coat each seasoned chicken piece with honey.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a shallow dish or bowl, mix together the garlic powder, chicken bouillon granules, and flour. Dredge honey-coated chicken pieces in flour mixture, coating completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill a large, heavy skillet with oil to a depth of 1 inch. Heat over medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fry until chicken is no longer pink at the bone and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "566 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "97 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "234 mg",
+    "sugarContent": "18 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "157"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/j_uQqye66xg9_YUY6Xq9tagW-Lg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/838741-35217f6f9e914ceb97e0b5778a3b020a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9000/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

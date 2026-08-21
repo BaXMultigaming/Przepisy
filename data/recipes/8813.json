@@ -1,0 +1,81 @@
+{
+  "id": "8813",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8813/chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8813/chicken-salad/",
+  "title": "Chicken Salad",
+  "description": "This easy chicken salad is made with leftover chicken, celery, mayonnaise, and a salt-free spice blend. It&#39;s a great make-ahead option for lunches.",
+  "authors": [
+    "Redwun"
+  ],
+  "date_published": "1999-07-02T19:14:15-04:00",
+  "date_modified": "2024-02-14T18:10:50-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cooked chicken breast halves",
+    "1 cup mayonnaise, or to taste",
+    "1 cup chopped celery",
+    "1 teaspoon salt-free herb and spice blend"
+  ],
+  "steps": [
+    {
+      "text": "Dice chicken and place into a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add mayonnaise, celery, and spice blend; mix until well combined. Use more or less mayonnaise, depending on your preference.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "352 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "72 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "219 mg",
+    "sugarContent": "1 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "84"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ONNiRrUksMAI_LgbBvaZfwTJwbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8813chicken-saladsouplovingnicole2x3-278d02d5e13b4644a8c1f7c131061a76.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8813/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

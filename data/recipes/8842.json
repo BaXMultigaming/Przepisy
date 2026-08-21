@@ -1,0 +1,103 @@
+{
+  "id": "8842",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8842/basil-chicken-over-angel-hair/",
+  "requested_url": "https://www.allrecipes.com/recipe/8842/basil-chicken-over-angel-hair/",
+  "title": "Basil Chicken over Angel Hair",
+  "description": "Cubed chicken breast is simmered in a peppery tomato-basil sauce and tossed with fine strands of angel hair pasta.",
+  "authors": [
+    "Wendy Mercadante"
+  ],
+  "date_published": "1999-04-23T22:45:43-04:00",
+  "date_modified": "2022-07-14T17:35:16-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package angel hair pasta",
+    "2 teaspoons olive oil",
+    "0.5 cup finely chopped onion",
+    "1 clove garlic, chopped",
+    "2.5 cups chopped tomatoes",
+    "2 cups boneless chicken breast halves, cooked and cubed",
+    "0.25 cup chopped fresh basil",
+    "0.5 teaspoon salt",
+    "0.125 teaspoon hot pepper sauce",
+    "0.25 cup Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot of salted boiling water, cook angel hair pasta until it is al dente, about 8 to 10 minutes. Drain, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large skillet, heat oil over medium-high heat. Saute the onions and garlic. Stir in the tomatoes, chicken, basil, salt and hot pepper sauce. Reduce heat to medium, and cover skillet. Simmer for about 5 minutes, stirring frequently, until mixture is hot and tomatoes are soft.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss sauce with hot cooked angel hair pasta to coat. Serve with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RStasFWhM41KDYVzb8_wask71T4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2241102-cef32c8c1ae541e793a434f16f22bd20.jpg"
+      ],
+      "image": "assets/images/8842/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "362 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "536 mg",
+    "sugarContent": "5 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "1341"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/BvjMJ5iI-ma1DlVvV.mp4",
+    "description": "Learn how to make a quick-and-easy pasta dish with chicken that is simmerd in a spicy tomato and basil sauce.",
+    "duration": "PT3M27S",
+    "name": "Basil Chicken Over Angel Hair",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/BvjMJ5iI/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T19:11:53-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RStasFWhM41KDYVzb8_wask71T4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2241102-cef32c8c1ae541e793a434f16f22bd20.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8842/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/8842/step_03.webp"
+    ]
+  }
+}

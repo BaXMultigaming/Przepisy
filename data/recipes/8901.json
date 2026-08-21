@@ -1,0 +1,96 @@
+{
+  "id": "8901",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8901/chicken-piccata-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/8901/chicken-piccata-iii/",
+  "title": "Chicken Piccata III",
+  "description": "This spin on the original features the addition of mushrooms and artichokes in the lemony sauce.",
+  "authors": [
+    "Sharon"
+  ],
+  "date_published": "1999-07-01T12:22:57-04:00",
+  "date_modified": "2022-07-14T17:55:50-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup all-purpose flour",
+    "0.5 teaspoon paprika",
+    "1 pinch salt and pepper to taste",
+    "1 pound skinless, boneless chicken breast halves - cut into thin strips",
+    "0.25 cup vegetable oil",
+    "4 ounces fresh mushrooms, sliced",
+    "0.25 cup lemon juice",
+    "0.75 cup chicken stock",
+    "0.5 teaspoon garlic powder",
+    "1 (14 ounce) can artichoke hearts, drained and quartered"
+  ],
+  "steps": [
+    {
+      "text": "In a shallow bowl, mix together flour, paprika, and salt and pepper. Dredge chicken pieces in the seasoned flour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium heat, and saute chicken until light golden brown (about 45 seconds each side). Remove chicken from skillet, and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To skillet, add mushrooms, lemon juice, and chicken stock. Simmer until a smooth, light sauce develops. Season with garlic powder. Return chicken to the skillet, and simmer until chicken is no longer pink and juices run clear. Stir in artichoke hearts, and remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "444 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "786 mg",
+    "sugarContent": "1 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "112"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ai3xFIjtU8Ix5L2R3joHnq2ibqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/28962-5219370d8a91427da4ac0b5d292e334d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8901/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

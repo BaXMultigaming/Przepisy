@@ -1,0 +1,86 @@
+{
+  "id": "8912",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8912/chicken-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/8912/chicken-soup/",
+  "title": "Chicken Soup",
+  "description": "With this quick mix of chicken, a few vegetables and garlic, there is no need to resort to canned soup anymore.",
+  "authors": [
+    "Anika"
+  ],
+  "date_published": "1999-06-20T17:30:24-04:00",
+  "date_modified": "2022-07-14T15:46:56-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 boneless chicken breast half, cooked and diced",
+    "2 cups water",
+    "2 carrots, chopped",
+    "1 zucchini, diced",
+    "1 clove garlic, minced",
+    "0.5 teaspoon chicken broth base"
+  ],
+  "steps": [
+    {
+      "text": "Put cooked chicken meat and water in a large pot and bring to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the carrots, zucchini and garlic and simmer all together for 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add the chicken broth and simmer for an additional 5 minutes. Serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "150 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "289 mg",
+    "sugarContent": "5 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "111"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-LBp6tMK6Jb4IPMI1jtcKozmjFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/279747-25fb0c6470c8442d949e80fa8d9ff9c2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8912/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

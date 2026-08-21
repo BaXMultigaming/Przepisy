@@ -1,0 +1,97 @@
+{
+  "id": "9325",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9325/spiced-ham-loaf/",
+  "requested_url": "https://www.allrecipes.com/recipe/9325/spiced-ham-loaf/",
+  "title": "Spiced Ham Loaf",
+  "description": "This was my grandfather&#39;s contribution to the Christmas table. A nice twist on the meatloaf recipe.",
+  "authors": [
+    "Lynette Campton"
+  ],
+  "date_published": "1998-12-09T20:41:43-05:00",
+  "date_modified": "2025-02-04T13:07:23-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground ham",
+    "1.5 pounds lean ground beef",
+    "1 egg",
+    "1 cup milk",
+    "1 cup bread crumbs",
+    "0.5 teaspoon salt",
+    "ground black pepper to taste",
+    "0.5 cup packed brown sugar",
+    "0.5 cup water",
+    "1 teaspoon ground mustard",
+    "0.25 cup distilled white vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Combine ham, beef, egg, milk, bread crumbs, salt, and pepper. Form into loaf. Place in a casserole dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine brown sugar, water, mustard, and vinegar in a small saucepan over medium high heat. Bring to boil, and boil for 10 minutes. Pour over loaf.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 350 degrees F (175 degrees C) until done, about 1 hour, basting occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "341 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "95 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "241 mg",
+    "sugarContent": "10 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tBBOMORyyJxm9LlimYGeeX5rs3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/766894-4865bd23469e48c6acde0612d6f98bba.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9325/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "8498",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8498/tangy-chicken-breasts/",
+  "requested_url": "https://www.allrecipes.com/recipe/8498/tangy-chicken-breasts/",
+  "title": "Tangy Chicken Breasts",
+  "description": "A robust marinade of Worcestershire sauce, lemon and garlic permeates grilled chicken.",
+  "authors": [
+    "J DuChareau"
+  ],
+  "date_published": "1999-04-21T15:27:19-04:00",
+  "date_modified": "2023-09-12T20:57:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT510M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves",
+    "1 cup Worcestershire sauce",
+    "1 cup vegetable oil",
+    "1 cup lemon juice",
+    "1 teaspoon garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "Place chicken in a single layer in a bowl or pan. Mix together Worcestershire sauce, oil, lemon juice, and garlic; pour over chicken. Cover. Refrigerate for at least 6 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Take chicken out of marinade, and place on broiler pan or grill. Broil until done, approximately 7 minutes on each side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "676 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "717 mg",
+    "sugarContent": "9 g",
+    "fatContent": "57 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Fr2qSQb7TBJwoHVVObX-76CwqbI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8498tangy-chicken-breastsSoupLovingNicole4x3-e00a0d189f824023bb56991801c5b148.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8498/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "8510",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8510/hot-chicken-salad-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/8510/hot-chicken-salad-i/",
+  "title": "Easy Hot Chicken Salad",
+  "description": "This tangy hot chicken salad is loaded with tender chicken, celery, and almonds, baked in a cheesy cream sauce topped with a cornflake crust.",
+  "authors": [
+    "Amy Brolsma"
+  ],
+  "date_published": "1999-04-23T06:50:03-04:00",
+  "date_modified": "2026-05-13T14:00:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups diced, cooked chicken meat",
+    "2 cups chopped celery",
+    "1 cup almonds",
+    "1 cup mayonnaise",
+    "1 cup sour cream",
+    "1 cup shredded American cheese",
+    "4 tablespoons lemon juice",
+    "2 tablespoons chopped onion",
+    "2 cups crushed cornflakes cereal"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients. Preheat the oven to 325 degrees F (165 degrees C). Lightly grease a 9x13-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/v2Eme5Twx4hcAYOEqnLKeyZPFOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-hot-chicken-salad-step-01-014-fe90df5782284431b7d656cb253e0ef5.jpg"
+      ],
+      "image": "assets/images/8510/step_01.webp"
+    },
+    {
+      "text": "Combine chicken, celery, almonds, mayonnaise, sour cream, American cheese, lemon juice, and onion in a bowl; transfer to the prepared baking dish. Top with crushed corn flakes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7YMRLEOoUrxvzAxR3hVxd_zsJnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-hot-chicken-salad-step-02-017-77d52bebcf36465ba3b54a9402034cee.jpg"
+      ],
+      "image": "assets/images/8510/step_02.webp"
+    },
+    {
+      "text": "Bake in the preheated oven until heated through, 45 to 60 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Cpfw855fg4rjFLgJJ4P707yHWlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-hot-chicken-salad-step-03-129-3d69c2715c504d3cafb0cee35d52d35e.jpg"
+      ],
+      "image": "assets/images/8510/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "636 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "104 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "574 mg",
+    "sugarContent": "3 g",
+    "fatContent": "51 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JJPa39zYLyYJggqM1CC2k-UV6aE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-hot-chicken-salad-3x4--161-525258bb756146b8a4c29653e3e25f6f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8510/hero.webp",
+    "steps": [
+      "assets/images/8510/step_01.webp",
+      "assets/images/8510/step_02.webp",
+      "assets/images/8510/step_03.webp"
+    ]
+  }
+}

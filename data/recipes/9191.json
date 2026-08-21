@@ -1,0 +1,133 @@
+{
+  "id": "9191",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9191/pumpkin-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/9191/pumpkin-soup/",
+  "title": "Pumpkin Soup",
+  "description": "This pumpkin soup recipe gets its rich, hearty flavor from sautéed onions, garlic, and thyme, blended with pumpkin puree, maple syrup, and warm spices.",
+  "authors": [
+    "Lea Ogawa"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-02-06T10:10:43-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT55M",
+  "total_time": "PT70M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 cup chopped onion",
+    "5 whole black peppercorns",
+    "1 clove garlic, minced",
+    "0.5 teaspoon chopped fresh thyme",
+    "4 cups pumpkin puree",
+    "6 cups chicken stock",
+    "3 tablespoons pure maple syrup",
+    "1.5 teaspoons salt",
+    "1/4 teaspoon ground nutmeg",
+    "1/4 teaspoon ground cinnamon",
+    "0.5 cup heavy whipping cream",
+    "1 teaspoon chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot over medium-high; add onion and cook, stirring occasionally, until brown and soft, about 10 minutes. Add peppercorns, garlic, and thyme. Cook, stirring often, until fragrant and slightly brown, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in pumpkin puree; cook, stirring occasionally, until puree turns a few shades darker, about 5 minutes. Stir in stock, maple syrup, salt, nutmeg, and cinnamon. Simmer, uncovered, on medium-low heat, stirring occasionally, until slightly reduced, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LthoQ_Usf1b20ef-9fYcjd7OgIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9191-PumpkinSoup-ddmfs-Step1-0132-6501b9094c044fbeaf6c8fb46cd7d80a.jpg"
+      ],
+      "image": "assets/images/9191/step_02.webp"
+    },
+    {
+      "text": "Transfer soup to a blender in batches; secure lid (hold down with a kitchen towel), and blend until smooth, about 30 seconds per batch.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return soup to the pot; stir in heavy cream. Cook over medium heat until heated through, about 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/DS0bWtPd_x9wzTnNkbwOe5bzcVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9191-PumpkinSoup-ddmfs-Step4-0142-b37681658b7841cc91c3c79aa0a294d9.jpg"
+      ],
+      "image": "assets/images/9191/step_04.webp"
+    },
+    {
+      "text": "Ladle soup into bowls and garnish with fresh parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/My6kC-Dg-2mhIYNwQKP__-vN9iI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9191-PumpkinSoup-ddmfs-4X3-0150-0628bffddba64c2285d554ea97608f66.jpg"
+      ],
+      "image": "assets/images/9191/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "236 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "405 mg",
+    "sugarContent": "11 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "656"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/YCSYthtz-ma1DlVvV.mp4",
+    "description": "AR0493",
+    "duration": "PT3M35S",
+    "name": "Pumpkin Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/YCSYthtz/poster.jpg?width=1280",
+    "uploadDate": "2021-06-22T21:27:37-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/My6kC-Dg-2mhIYNwQKP__-vN9iI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9191-PumpkinSoup-ddmfs-4X3-0150-0628bffddba64c2285d554ea97608f66.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9191/hero.webp",
+    "steps": [
+      null,
+      "assets/images/9191/step_02.webp",
+      null,
+      "assets/images/9191/step_04.webp",
+      "assets/images/9191/step_05.webp"
+    ]
+  }
+}

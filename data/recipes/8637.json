@@ -1,0 +1,82 @@
+{
+  "id": "8637",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8637/grilled-chicken-with-ginger-and-black-bean-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/8637/grilled-chicken-with-ginger-and-black-bean-sauce/",
+  "title": "Grilled Chicken with Ginger and Black Bean Sauce",
+  "description": "A terrific Asian-inspired marinade for grilled chicken.",
+  "authors": [
+    "Denis Terrien"
+  ],
+  "date_published": "1999-05-15T00:05:12-04:00",
+  "date_modified": "2025-01-31T16:47:59-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 skinless chicken thighs",
+    "1 tablespoon minced fresh ginger root",
+    "1 tablespoon black bean sauce with garlic",
+    "1 teaspoon sesame oil",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place thighs in a bowl, and add ginger, black bean sauce, sesame oil, and ground black pepper. Stir well until completely coated. Marinate in the refrigerator for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill over medium heat until no longer pink but still juicy, about 20 minutes, turning only once.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "278 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "172 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "41 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "233 mg",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9keUa-6eIDxGqlhLxnizwd_FCW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/253052-def582c3e772424cb2a538a474d907aa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8637/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

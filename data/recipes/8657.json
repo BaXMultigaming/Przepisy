@@ -1,0 +1,79 @@
+{
+  "id": "8657",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8657/julies-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8657/julies-chicken-salad/",
+  "title": "Julie&#39;s Chicken Salad",
+  "description": "Silken avocado, tart apple and sweet grapes and raisins make this a splendid chicken salad.",
+  "authors": [
+    "Julie Dwenger"
+  ],
+  "date_published": "1999-04-23T14:02:08-04:00",
+  "date_modified": "2024-07-30T18:26:08-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "9",
+    "10 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound skinless, boneless chicken breast halves - boiled",
+    "0.5 cup raisins",
+    "1 cup thinly sliced celery",
+    "0.75 cup seedless grapes, quartered",
+    "0.5 cup walnuts, toasted and chopped",
+    "1 avocado - peeled, pitted and diced",
+    "1 tart apple - peeled, cored and chopped",
+    "1 cup mayonnaise",
+    "1 teaspoon fresh lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl toss together the chicken, raisins, celery and grapes. Fold in the avocado and the apple. Mix in the mayonnaise and lemon juice. Chill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "375 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "184 mg",
+    "sugarContent": "9 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "44"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7GfNDJWNMKkh74mhlQRIh4vZKyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8657julies-chicken-saladChefMo4x3-91f68ecbd0cb4290bf8de57d00edc1d6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8657/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

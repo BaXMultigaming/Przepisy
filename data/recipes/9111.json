@@ -1,0 +1,105 @@
+{
+  "id": "9111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9111/cranberry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/9111/cranberry-sauce/",
+  "title": "Cranberry Sauce",
+  "description": "This cranberry sauce recipe combines fresh cranberries, sugar, and orange juice to make a bright and tangy Thanksgiving classic in just 20 minutes.",
+  "authors": [
+    "Toni"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-02-09T07:29:14-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup white sugar",
+    "1 cup orange juice",
+    "12 ounces cranberries"
+  ],
+  "steps": [
+    {
+      "text": "Heat sugar and juice in a medium saucepan over medium heat until sugar dissolves.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/p_-iX-9OQqo-nEAhQ8scgqQsKfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9111-Cranberry-Sauce-mfs-STEP-2-4x3-4df45068601e4d66b7f69d076e665c14.jpg"
+      ],
+      "image": "assets/images/9111/step_01.webp"
+    },
+    {
+      "text": "Add cranberries; cook until they start to pop and sauce starts to thicken, 8 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/wv4OGcCSnUlNYl381vBUtfKtpA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9111-Cranberry-Sauce-mfs-STEP-3-4x3-92251e3b83004f6b8539f8b870724c6e.jpg"
+      ],
+      "image": "assets/images/9111/step_02.webp"
+    },
+    {
+      "text": "Remove from heat and transfer sauce to a bowl; it will thicken as it cools.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/o1tzYmHlwg69ima6bTF1K-Edt3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9111-Cranberry-Sauce-mfs-STEP-4-4x3-d20d56adb95b44a894d9657103e114a1.jpg"
+      ],
+      "image": "assets/images/9111/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "95 kcal",
+    "carbohydrateContent": "24 g",
+    "fiberContent": "2 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "21 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "3163"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/X7kvgZw3-ma1DlVvV.mp4",
+    "description": "AR0201",
+    "duration": "PT1M40S",
+    "name": "Cranberry Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/X7kvgZw3/thumbnails/A7dRUJbP.jpg?width=1280",
+    "uploadDate": "2021-03-10T02:06:12-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/o1tzYmHlwg69ima6bTF1K-Edt3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9111-Cranberry-Sauce-mfs-STEP-4-4x3-d20d56adb95b44a894d9657103e114a1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9111/hero.webp",
+    "steps": [
+      "assets/images/9111/step_01.webp",
+      "assets/images/9111/step_02.webp",
+      "assets/images/9111/step_03.webp"
+    ]
+  }
+}

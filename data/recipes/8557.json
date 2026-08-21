@@ -1,0 +1,92 @@
+{
+  "id": "8557",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8557/chicken-delight/",
+  "requested_url": "https://www.allrecipes.com/recipe/8557/chicken-delight/",
+  "title": "Chicken Delight",
+  "description": "This chicken delight is a tasty recipe that is easy to prepare. The seasoned sour cream gives it tang, and a topping of buttery crackers gives it crunch.",
+  "authors": [
+    "Kathy"
+  ],
+  "date_published": "1999-04-23T14:08:14-04:00",
+  "date_modified": "2023-03-29T10:50:46-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT60M",
+  "total_time": "PT70M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breasts",
+    "1 cup sour cream",
+    "2 tablespoons Worcestershire sauce",
+    "1 teaspoon paprika",
+    "1 teaspoon garlic powder",
+    "0.5 teaspoon ground white pepper",
+    "1 cup crushed buttery round crackers"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Rinse chicken breasts and pat dry. Place them in a lightly greased 9x13-inch baking dish. In a bowl, mix together sour cream, Worcestershire sauce, paprika, garlic powder, and white pepper. Spread mixture over chicken, then sprinkle all with cracker crumbs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven uncovered for 1 hour. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "94 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "328 mg",
+    "sugarContent": "2 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.2",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TWVqMkecnndHqDY4dza5qSx81_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/966561-c4fa698247cd40778ec7a8b42c1e89c8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8557/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "9210",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9210/spicy-persimmon-chutney/",
+  "requested_url": "https://www.allrecipes.com/recipe/9210/spicy-persimmon-chutney/",
+  "title": "Spicy Persimmon Chutney",
+  "description": "This persimmon chutney is a tangy, sweet relish that&#39;s a nice twist on traditional cranberry sauce. Everyone will enjoy this festive condiment.",
+  "authors": [
+    "Ibby"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2023-02-04T00:21:32-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups cider vinegar",
+    "1 cup chopped onion",
+    "1 large Granny Smith apple - peeled, cored and chopped",
+    "1 cup golden raisins",
+    "0.75 cup white sugar",
+    "0.25 cup lemon juice",
+    "1 green chile pepper, seeded and minced",
+    "1 tablespoon minced fresh ginger root",
+    "1 tablespoon lemon zest",
+    "1 teaspoon ground coriander seed",
+    "0.125 teaspoon ground cloves",
+    "4 Fuyu persimmons, peeled and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Combine cider vinegar, onion, apple, raisins, sugar, lemon juice, green chile, ginger, lemon zest, coriander, and cloves in a large saucepan. Bring to a boil over medium heat, stirring occasionally. Reduce heat to medium-low and simmer until mixture thickens, stirring frequently, about 25 minutes. Add persimmons and simmer until the persimmons are tender, about 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from the heat and let cool completely. Cover and refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "45 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "8 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qs-Kw5dtWaNzM2VlK3HbSshYN0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1095384-spicy-persimmon-chutney-Jennifer-Baker-4x3-1-d21093e370ab4e13aff06f984b79e104.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9210/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

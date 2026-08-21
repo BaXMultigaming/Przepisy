@@ -1,0 +1,93 @@
+{
+  "id": "8592",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8592/parmesan-and-basil-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/8592/parmesan-and-basil-chicken-salad/",
+  "title": "Parmesan and Basil Chicken Salad",
+  "description": "The heady aroma and taste of sweet basil defines this cold chicken salad tossed with Parmesan cheese and dressed with a puree of mayonnaise, basil, garlic and celery.",
+  "authors": [
+    "Janet Schaufele"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2024-11-27T01:15:27-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT110M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 whole skinless, boneless chicken breasts",
+    "salt and pepper to taste",
+    "1 cup mayonnaise",
+    "1 cup chopped fresh basil",
+    "2 cloves crushed garlic",
+    "3 stalks celery, chopped",
+    "0.66666668653488 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Season chicken with salt and pepper. Roast at 375 degrees F (190 degrees C) for 35 minutes, or until juices run clear. Let cool, and chop into chunks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a food processor, puree the mayonnaise, basil, garlic, and celery.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the chunked chicken, pureed mixture, and Parmesan cheese; toss. Refrigerate, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "592 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "618 mg",
+    "sugarContent": "1 g",
+    "fatContent": "49 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "303"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2Hu5tLg-2uHs-Ow0UiugQRGN90k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/382480-6515546d3d6345f3b01c7f81f58c2561.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8592/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "8611",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8611/quick-chicken-and-wine/",
+  "requested_url": "https://www.allrecipes.com/recipe/8611/quick-chicken-and-wine/",
+  "title": "Quick Chicken And Wine",
+  "description": "Parmesan-crusted chicken simmers in a buttery wine sauce for a moist, cheesy entree with a subtle nutty edge.",
+  "authors": [
+    "Mayra Martinez"
+  ],
+  "date_published": "1999-05-03T20:09:39-04:00",
+  "date_modified": "2022-07-14T16:18:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves - cut into strips",
+    "2 eggs, beaten",
+    "0.5 cup Parmesan cheese",
+    "1 pinch salt",
+    "1 pinch ground black pepper",
+    "0.5 cup white wine",
+    "4 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Season chicken with salt and pepper to taste. In a shallow plate, spread Parmesan cheese. Divide chicken into three parts and dip seasoned chicken in eggs, then coat well with Parmesan cheese. Repeat until all of the chicken pieces are well coated (if you run short on egg and Parmesan, add one more egg and more Parmesan as needed).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a skillet, melt butter or margarine over medium high heat. Cook chicken, stirring frequently, until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat and add wine. Cover and simmer over low heat for 20 minutes",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "225 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "134 mg",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "232 mg",
+    "sugarContent": "0 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "279"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vFx0BAzHzExUGE4Kq9Dpe3U_bYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16509-5344127af8594e7898a86ce94301dfe3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8611/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

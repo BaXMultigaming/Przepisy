@@ -1,0 +1,83 @@
+{
+  "id": "8913",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8913/easy-flake-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/8913/easy-flake-chicken/",
+  "title": "Easy Flake Chicken",
+  "description": "Chicken baked in a silky sauce of olive oil and milk, then topped with crunchy corn flake crumbs.",
+  "authors": [
+    "Ayca Akin"
+  ],
+  "date_published": "1999-04-26T04:32:11-04:00",
+  "date_modified": "2025-02-19T12:07:25-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "salt and pepper to taste",
+    "0.5 cup olive oil",
+    "1 cup milk",
+    "3 skinless, boneless chicken breast halves - cut into cubes",
+    "1 cup crushed corn flake cereal crumbs"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 400 degrees F (200 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small cup combine the salt, pepper, olive oil and milk. Mix well and pour the mixture into a 9x13 inch baking dish. Add the cubed chicken and cover with cornflake crumbs. Bake in the preheated oven for 25 minutes, until the crumbs are crisp.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "392 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "56 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "134 mg",
+    "sugarContent": "4 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ANa47vTi4If0L9NtoOnLZ48BJXQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1002692-f1f70834b55c41d3833bc44c3d1ed02e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8913/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

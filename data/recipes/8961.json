@@ -1,0 +1,79 @@
+{
+  "id": "8961",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8961/easy-pasta-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/8961/easy-pasta-chicken/",
+  "title": "Easy Pasta Chicken",
+  "description": "Boil up some soup and add uncooked pasta along with your favorite frozen vegetable medley, and you have a nutritious and easy foundation for sauteed chicken.",
+  "authors": [
+    "Joni Sorsen"
+  ],
+  "date_published": "1999-04-23T23:01:06-04:00",
+  "date_modified": "2022-08-08T11:40:32-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breasts",
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "2.25 cups water",
+    "1 (16 ounce) package frozen mixed vegetables, thawed",
+    "2 cups rotini pasta"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet, brown the chicken in oil over medium low heat until cooked through and juices run clear. Remove chicken from skillet and set aside. Add the soup, water and vegetables. Heat to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add uncooked pasta to soup mixture in skillet (the pasta cooks right in the soup!). Stir all together and cook over medium heat for 10 minutes, stirring often. Add cooked chicken and cook another 5 minutes or until pasta is done, stirring often.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "368 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "623 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/M_G6e3u34Kqg5jvgFHQZVsMMQOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/204168-866df757883244a185746b93460a8cbc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8961/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

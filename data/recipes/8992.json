@@ -1,0 +1,98 @@
+{
+  "id": "8992",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8992/hawaii-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/8992/hawaii-chicken/",
+  "title": "Hawaii Chicken",
+  "description": "Pineapple and bell pepper in a thick, sweet soy sauce make a dandy glaze for baked chicken.",
+  "authors": [
+    "NIBLETS"
+  ],
+  "date_published": "1999-05-01T11:26:42-04:00",
+  "date_modified": "2022-07-18T20:32:06-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "5",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "regions": [
+    "Hawaiian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (2 to 3 pound) whole chicken, cut into pieces",
+    "1 tablespoon all-purpose flour",
+    "2 teaspoons salt",
+    "1 pinch ground white pepper",
+    "4 tablespoons vegetable oil",
+    "0.5 onion, thinly sliced",
+    "1 green bell pepper, thinly sliced",
+    "1 (8 ounce) can crushed pineapple with juice",
+    "2 teaspoons soy sauce",
+    "2 teaspoons brown sugar",
+    "2 teaspoons cornstarch",
+    "2 teaspoons chicken stock"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix flour, salt and pepper in a resealable plastic bag. One at a time, put chicken pieces in bag, seal and shake to coat. In a large skillet, heat oil over medium heat and saute chicken pieces until brown on all sides. Place chicken in a lightly greased 9x13 inch baking dish and bake covered in the preheated oven for 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To Make Sauce (while chicken bakes): In the same large skillet, saute onion and green bell pepper for about 5 minutes, until translucent. Add the pineapple, soy sauce and brown sugar. Mix together cornstarch and chicken stock and add to skillet. Stir all together and let simmer for 3 minutes until thick and clear. Pour sauce over chicken and bake 10 more minutes until tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "640 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "170 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "43 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "1216 mg",
+    "sugarContent": "9 g",
+    "fatContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "91"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uS_h6gGUHaLk84e5NcMnUVEcb94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/HawaiiChicken083-2000-b658b5f946434c54b0220f31220d40fa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8992/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

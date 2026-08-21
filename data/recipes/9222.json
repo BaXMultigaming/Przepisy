@@ -1,0 +1,93 @@
+{
+  "id": "9222",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9222/sweet-potato-casserole-iv/",
+  "requested_url": "https://www.allrecipes.com/recipe/9222/sweet-potato-casserole-iv/",
+  "title": "Sweet Potato Casserole IV",
+  "description": "A delicious alternative to candied sweet potatoes.",
+  "authors": [
+    "Daphne Esparza"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:34:12-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "7",
+    "8 - servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups cooked and mashed sweet potatoes",
+    "1 cup white sugar",
+    "0.5 cup butter",
+    "0.33329999446869 cup evaporated milk",
+    "2 eggs, beaten",
+    "1 teaspoon vanilla extract",
+    "0.33329999446869 cup butter, melted",
+    "1 cup chopped pecans",
+    "1 cup packed light brown sugar",
+    "0.5 cup all-purpose flour"
+  ],
+  "steps": [
+    {
+      "text": "Mix together sweet potatoes, white sugar, 1/2 cup butter or margarine, milk, eggs, and vanilla. Spread into a greased 9 x 13 inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix together 1/3 cup melted butter or margarine, pecans, brown sugar, and flour. Spoon on top of sweet potato mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake at 350 degrees F (175 degrees C) for 25 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "679 kcal",
+    "carbohydrateContent": "88 g",
+    "cholesterolContent": "115 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "228 mg",
+    "sugarContent": "67 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "236"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/t7qtqbWtPs7NNGeOMWVAin7XTzA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/55647-2b71e9a6e3c54116910eaf587c764122.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9222/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

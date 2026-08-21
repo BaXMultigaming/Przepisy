@@ -1,0 +1,96 @@
+{
+  "id": "8976",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8976/chicken-spaghetti-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/8976/chicken-spaghetti-ii/",
+  "title": "Chicken Spaghetti II",
+  "description": "A substantial pasta sauce of tomatoes with chile peppers, shredded chicken and processed cheese.",
+  "authors": [
+    "Teresa Simmons"
+  ],
+  "date_published": "1999-04-27T16:48:14-04:00",
+  "date_modified": "2026-02-15T00:37:46-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "9",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 skinless, boneless chicken breasts",
+    "1 (8 ounce) package spaghetti",
+    "1 (10.75 ounce) can condensed cream of chicken soup",
+    "1 (10 ounce) can diced tomatoes with green chile peppers",
+    "1 pound processed cheese food (eg. Velveeta)",
+    "salt and pepper to taste",
+    "1 pinch garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "Boil chicken in a large pot of salted water. When chicken is done, remove from pot, keeping water/broth at a boil. Shred chicken and set aside. Put spaghetti in boiling chicken broth and cook for 8 to 10 minutes, until al dente. When done, drain broth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return pot with cooked spaghetti to stove, put over low heat. Add shredded chicken, soup, diced tomatoes with chile peppers and cheese. Season with salt, pepper and garlic powder to taste. When cheese is melted, dinner is ready!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WjRTXB6PCcb5TwOt7lVfqlZF760=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Spaghetti-II-SoupLovingNicole-2x2-1-2000-2e87efebe9c84f158f0cfbc993b6e5b3.jpg"
+      ],
+      "image": "assets/images/8976/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "283 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1174 mg",
+    "sugarContent": "5 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "393"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/G1sjf9Oi-ma1DlVvV.mp4",
+    "description": "Shake up spaghetti night with this cheesy chicken pasta sauce! The key to this top-rated recipe is a simple but substantial pasta sauce that combines canned tomatoes and green chile peppers with shredded chicken, cream of chicken soup, and processed cheese. If you like, add sautéed vegetables to the sauce. It’s so quick and easy, and a great way to use up leftover chicken breasts.",
+    "duration": "PT2M9S",
+    "name": "Chicken Spaghetti II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/G1sjf9Oi/poster.jpg?width=1280",
+    "uploadDate": "2021-07-08T13:29:36-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WjRTXB6PCcb5TwOt7lVfqlZF760=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Spaghetti-II-SoupLovingNicole-2x2-1-2000-2e87efebe9c84f158f0cfbc993b6e5b3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8976/hero.webp",
+    "steps": [
+      null,
+      "assets/images/8976/step_02.webp"
+    ]
+  }
+}

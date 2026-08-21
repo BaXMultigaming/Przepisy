@@ -1,0 +1,100 @@
+{
+  "id": "8676",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8676/chicken-oreganato/",
+  "requested_url": "https://www.allrecipes.com/recipe/8676/chicken-oreganato/",
+  "title": "Chicken Oreganata",
+  "description": "Chicken oreganata combines the bold flavors of lemon and oregano in a simple baked chicken thigh dish that takes all of five minutes to prepare.",
+  "authors": [
+    "Teresa C. Rouzer"
+  ],
+  "date_published": "1999-05-03T10:23:46-04:00",
+  "date_modified": "2024-12-12T12:58:55-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "0.5 lemon, juiced",
+    "2 teaspoons dried oregano",
+    "salt and pepper to taste",
+    "7 chicken thighs"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 450 degrees F (230 degrees C). Grease a 9x13-inch baking dish. Whisk oil and lemon juice together.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix oregano with salt and pepper to taste. Rub well over all chicken pieces. Place into the prepared baking dish and drizzle with 1/2 of the oil-lemon mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 15 minutes. Turn chicken pieces and drizzle with remaining oil-lemon mixture. Bake until chicken is no longer pink at the bone and the juices run clear, 15 to 20 more minutes. An instant-read thermometer inserted near the bone should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/SQavxh2qCQY49HB_Pr3TIOk_qqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1124740-edba19c0f4f14f00a646895a5c52d9d1.jpg"
+      ],
+      "image": "assets/images/8676/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "79 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "72 mg",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "240"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/G2EBvzcP-K3AjnAEN.mp4",
+    "description": "See how to make a simple budget-friendly chicken dish.",
+    "duration": "PT1M31S",
+    "name": "Chicken Oreganato",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/G2EBvzcP/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:40:58-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SQavxh2qCQY49HB_Pr3TIOk_qqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1124740-edba19c0f4f14f00a646895a5c52d9d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8676/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/8676/step_03.webp"
+    ]
+  }
+}

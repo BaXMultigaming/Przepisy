@@ -1,0 +1,74 @@
+{
+  "id": "8836",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8836/fried-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/8836/fried-chicken/",
+  "title": "Fried Chicken",
+  "description": "The basic, tried and true formula for fried chicken: flour, salt and pepper in vegetable oil.",
+  "authors": [
+    "Shirley"
+  ],
+  "date_published": "1999-07-13T01:06:32-04:00",
+  "date_modified": "2025-01-24T16:36:26-05:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (4 pound) chicken, cut into pieces",
+    "salt and pepper to taste",
+    "1.5 cups all-purpose flour for coating",
+    "2 quarts vegetable oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet, heat oil over medium heat. Salt and pepper chicken pieces to taste, then roll in flour to coat. Place chicken pieces in skillet and fry on medium heat until one side is golden brown, then turn and brown other side until chicken is no longer pink inside and its juices run clear. Drain on paper towel and serve!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "623 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "115 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "108 mg",
+    "sugarContent": "0 g",
+    "fatContent": "41 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "81"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yRcV6LbQ15DieNDQf0C7vCATA0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8108112-fried-chicken-Laura-Ashdown-4x3-1-26ebbbe8ba83426c914711863c1cf6e2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8836/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

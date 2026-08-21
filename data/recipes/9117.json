@@ -1,0 +1,73 @@
+{
+  "id": "9117",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9117/cream-cheese-corn/",
+  "requested_url": "https://www.allrecipes.com/recipe/9117/cream-cheese-corn/",
+  "title": "Cream Cheese Corn",
+  "description": "This delicious and simple cream cheese corn recipe combines a few ingredients to create a wonderful side dish for your Thanksgiving day turkey.",
+  "authors": [
+    "Earla Taylor"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2022-08-22T14:35:12-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "7"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds whole corn kernels, cooked",
+    "0.5 cup butter",
+    "1 (8 ounce) package cream cheese"
+  ],
+  "steps": [
+    {
+      "text": "Combine corn, butter, and cream cheese in a medium sized saucepan. Cook over medium heat for about 20 minutes. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "395 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "217 mg",
+    "sugarContent": "6 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "160"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VD7TnQkZC2FwhXmiK97w-gZuzgE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4574681-553f0010d9794f709fd10103964ba2dc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9117/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

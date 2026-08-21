@@ -1,0 +1,110 @@
+{
+  "id": "9258",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9258/candy-cane-cocoa/",
+  "requested_url": "https://www.allrecipes.com/recipe/9258/candy-cane-cocoa/",
+  "title": "Candy Cane Cocoa",
+  "description": "Milk is heated with semisweet chocolate and crushed candy canes. Then each mug is garnished with whipped cream and a small candy cane.",
+  "authors": [
+    "Lorna"
+  ],
+  "date_published": "1998-12-08T16:38:32-05:00",
+  "date_modified": "2026-08-17T13:18:05-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups milk",
+    "3 (1 ounce) squares semisweet chocolate, chopped",
+    "4 peppermint candy canes, crushed",
+    "1 cup whipped cream",
+    "4 small peppermint candy canes"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, heat milk until hot, but not boiling.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/wi-oln7xWti1TL6F-191ZJ130Qk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9258-candy-cane-cocoa-PICS-step-01-5bac52c2315d48608e28ae8940d9d023.jpg"
+      ],
+      "image": "assets/images/9258/step_01.webp"
+    },
+    {
+      "text": "Whisk in the chocolate and crushed peppermint candies until melted and smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/n-HX_QjM78fWv1t1ncklIB3cgIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9258-candy-cane-cocoa-PICS-step-02-a8b98b24a1534d7781f8cf5f4046e354.jpg"
+      ],
+      "image": "assets/images/9258/step_02.webp"
+    },
+    {
+      "text": "Pour hot cocoa into four mugs, and garnish with whipped cream. Serve each with a candy-cane stirring stick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CoZM0LEn8GGEGoKbm06Eu_WCW2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9258-candy-cane-cocoa-PICS-beauty-4x3-711ad8aa34194b7da0888d0244241aa9.jpg"
+      ],
+      "image": "assets/images/9258/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "486 kcal",
+    "carbohydrateContent": "80 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "141 mg",
+    "sugarContent": "58 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "142"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/DOQyjwfe-ma1DlVvV.mp4",
+    "description": "AR1315",
+    "duration": "PT2M6S",
+    "name": "Candy Cane Cocoa",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/DOQyjwfe/thumbnails/bYUX4VTy.jpg?width=1280",
+    "uploadDate": "2020-12-03T08:25:42-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CoZM0LEn8GGEGoKbm06Eu_WCW2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9258-candy-cane-cocoa-PICS-beauty-4x3-711ad8aa34194b7da0888d0244241aa9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9258/hero.webp",
+    "steps": [
+      "assets/images/9258/step_01.webp",
+      "assets/images/9258/step_02.webp",
+      "assets/images/9258/step_03.webp"
+    ]
+  }
+}

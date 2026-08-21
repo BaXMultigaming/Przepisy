@@ -1,0 +1,97 @@
+{
+  "id": "8804",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8804/simple-chicken-gravy/",
+  "requested_url": "https://www.allrecipes.com/recipe/8804/simple-chicken-gravy/",
+  "title": "Simple Chicken Gravy",
+  "description": "Make chicken gravy from drippings with this simple recipe using flour and water combined with pan drippings from roasted chicken for a basic gravy.",
+  "authors": [
+    "John"
+  ],
+  "date_published": "1999-06-18T20:40:52-04:00",
+  "date_modified": "2025-10-20T14:39:20-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup all-purpose flour",
+    "1 cup water",
+    "0.5 cup drippings from a roast chicken",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PrIwKcHN--he6dQR8Xpf6tj-a9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8804-simple-chicken-gravy-ddmfs-4412-4x3-step-01-835b8d5068534aac965e40d73b28ed14.jpg"
+      ],
+      "image": "assets/images/8804/step_01.webp"
+    },
+    {
+      "text": "Place flour in a medium bowl. Pour 2 to 3 tablespoons of water into the flour and whisk until combined and thick, but not pasty.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BXMyZmfnKIqWTwR7RMbXS7QYE1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8804-simple-chicken-gravy-ddmfs-4417-4x3-step-03-db8134f1ae0d47f6886d3e3c50dfd23b.jpg"
+      ],
+      "image": "assets/images/8804/step_02.webp"
+    },
+    {
+      "text": "Stir flour mixture and remaining water (or stock) into a roasting pan with drippings from roast chicken; whisk to combine and turn heat to medium. Cook, stirring constantly, until gravy is thickened and bubbly, adding more water (or stock) if needed. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ZOTBu80bQ-fwJfBqff9GkrCRh00=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8804-simple-chicken-gravy-ddmfs-4425-4x3-step-05-a3745b592b7d4f50a304e7fc658f8efb.jpg"
+      ],
+      "image": "assets/images/8804/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "65 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "111 mg",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "136"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KnH1J49RJXh1i206onEtgbiUvlY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8804-simple-chicken-gravy-ddmfs-4484-4x3-beauty-e166a14a955c49ffb4501b1eff2dcfc9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8804/hero.webp",
+    "steps": [
+      "assets/images/8804/step_01.webp",
+      "assets/images/8804/step_02.webp",
+      "assets/images/8804/step_03.webp"
+    ]
+  }
+}

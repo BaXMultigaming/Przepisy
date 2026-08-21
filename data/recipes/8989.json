@@ -1,0 +1,72 @@
+{
+  "id": "8989",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8989/picante-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/8989/picante-chicken/",
+  "title": "Picante Chicken",
+  "description": "Just simmer chicken breasts in your favorite salsa for an easy, zesty entree.",
+  "authors": [
+    "Joyce"
+  ],
+  "date_published": "2008-06-30T19:10:59-04:00",
+  "date_modified": "2026-04-13T14:13:24-04:00",
+  "prep_time": null,
+  "cook_time": null,
+  "total_time": "PT0M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 skinless, boneless chicken breasts",
+    "1 cup picante sauce"
+  ],
+  "steps": [
+    {
+      "text": "Open jar of picante sauce and put into a large saucepan. Add chicken breasts to picante sauce and bring to a steady boil. Boil gently for 20 to 25 minutes or until the chicken is no longer pink inside and the juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "175 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1082 mg",
+    "sugarContent": "5 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/B7Z_VAJN4RRHmSPIzUMReOxhSk0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8989picante-chickenSoupLovingNicole4x3-8230e24a31454b0180d451a1cf5d0f47.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8989/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

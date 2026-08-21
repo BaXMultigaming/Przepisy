@@ -1,0 +1,73 @@
+{
+  "id": "9042",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/9042/curry-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/9042/curry-chicken-salad/",
+  "title": "Curry Chicken Salad",
+  "description": "This curry chicken salad with creamy mayo, celery, and curry powder transforms cooked chicken into a standout salad or sandwich filling.",
+  "authors": [
+    "Samantha"
+  ],
+  "date_published": "1999-10-02T18:33:48-04:00",
+  "date_modified": "2026-08-07T22:02:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cooked skinless, boneless chicken breast halves, chopped",
+    "3 stalks celery, chopped",
+    "0.5 cup low-fat mayonnaise",
+    "2 teaspoons curry powder"
+  ],
+  "steps": [
+    {
+      "text": "Stir chicken, celery, mayonnaise, and curry powder together in a medium bowl until thoroughly mixed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "77 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "0 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "173"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oHN29wc07h1Zbj9xH6Fm7SPO-Js=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3893978-6b593f98d5af467e87f6bc2f9602893c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/9042/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
