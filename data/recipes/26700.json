@@ -1,0 +1,109 @@
+{
+  "id": "26700",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26700/avocado-corn-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/26700/avocado-corn-salsa/",
+  "title": "Avocado Corn Salsa",
+  "description": "Cool, refreshing avocado slices are mixed with a marinated corn, olives, red pepper and onion salsa. Serve this south of the border flavor explosion with tortilla chips.",
+  "authors": [
+    "BARBARA VINSON"
+  ],
+  "date_published": "2020-03-10T02:50:27-04:00",
+  "date_modified": "2026-06-02T18:30:37-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT510M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package frozen corn kernels, thawed",
+    "2 (2.25 ounce) cans sliced ripe olives, drained",
+    "1 red bell pepper, chopped",
+    "1 small onion, chopped",
+    "5 cloves garlic, minced",
+    "0.33333334326744 cup olive oil",
+    "0.25 cup lemon juice",
+    "3 tablespoons cider vinegar",
+    "1 teaspoon dried oregano",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "4 avocados - peeled, pitted and diced"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, mix corn, olives, red bell pepper and onion.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, mix garlic, olive oil, lemon juice, cider vinegar, oregano, salt and pepper. Pour into the corn mixture and toss to coat. Cover and chill in the refrigerator 8 hours, or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir avocados into the mixture before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/h9fiH5Ix5Xk35WpoZ_iWHY6N2sQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6587268-375afe9fbde94a2bb131c0b5ec6ec6cf.jpg"
+      ],
+      "image": "assets/images/26700/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "81 kcal",
+    "carbohydrateContent": "6 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "73 mg",
+    "sugarContent": "1 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "345"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/M6gjmmbC-ma1DlVvV.mp4",
+    "description": "AR1199",
+    "duration": "PT2M42S",
+    "name": "Avocado Salsa",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/M6gjmmbC/poster.jpg?width=1280",
+    "uploadDate": "2021-07-29T08:28:28-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/h9fiH5Ix5Xk35WpoZ_iWHY6N2sQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6587268-375afe9fbde94a2bb131c0b5ec6ec6cf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26700/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/26700/step_03.webp"
+    ]
+  }
+}

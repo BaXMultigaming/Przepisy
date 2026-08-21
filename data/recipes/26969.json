@@ -1,0 +1,77 @@
+{
+  "id": "26969",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26969/spicy-pineapple-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/26969/spicy-pineapple-sauce/",
+  "title": "Spicy Pineapple Sauce",
+  "description": "Serve this sweet and spicy sauce over meatballs!",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2018-03-21T12:21:55-04:00",
+  "date_modified": "2022-01-14T01:22:56-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "24",
+    "3 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (20 ounce) can crushed pineapple in heavy syrup, drained with syrup reserved",
+    "1 tablespoon cornstarch",
+    "1 teaspoon ground ginger",
+    "0.75 cup orange juice",
+    "2 tablespoons maple syrup"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix the crushed pineapple, cornstarch and ground ginger. Gradually stir in enough of the reserved pineapple juice to make the mixture smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium saucepan over medium heat, blend orange juice and maple syrup. Cook and stir 5 minutes, until clear and thickened. Mix in the pineapple mixture. Continue to cook and stir until well blended and thick, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "28 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eL-ZQ9VbcXbA3T_bHL65bkS2B_A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/28484-e96d86a48f2f4407bbb2eb24c6936024.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26969/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

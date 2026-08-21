@@ -1,0 +1,75 @@
+{
+  "id": "26393",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26393/chilled-strawberry-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/26393/chilled-strawberry-soup/",
+  "title": "Chilled Strawberry Soup",
+  "description": "Frozen strawberries pureed with milk, cream, and sour cream are sweetened with sugar and chilled overnight to make this sensational summer soup.",
+  "authors": [
+    "Michelle"
+  ],
+  "date_published": "2020-06-18T23:06:58-04:00",
+  "date_modified": "2026-05-01T12:51:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT480M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups frozen strawberries",
+    "2 cups milk",
+    "1 cup heavy cream",
+    "0.5 cup sour cream",
+    "2 tablespoons white sugar, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Puree strawberries, milk, cream, and sour cream in a blender or food processor until smooth. Stir in sugar to taste. Chill 8 hours or overnight in refrigerator before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "252 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "60 mg",
+    "sugarContent": "10 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "118"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/V8q1rmhyTWBWzjpDdYxIVYbt35U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chilled-Strawberry-Soup-Yoly-2000-7b31b8df9c654f1a9435668668de1c27.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26393/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

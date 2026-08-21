@@ -1,0 +1,101 @@
+{
+  "id": "27161",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/27161/strawberry-crepes/",
+  "requested_url": "https://www.allrecipes.com/recipe/27161/strawberry-crepes/",
+  "title": "Strawberry Crepes",
+  "description": "Homemade crepes spread with semisweet chocolate, filled with strawberries and finished with whipped topping in this easy dessert.",
+  "authors": [
+    "ChrisNf"
+  ],
+  "date_published": "2020-06-18T23:07:06-04:00",
+  "date_modified": "2022-07-14T16:02:07-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Snack",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg, beaten",
+    "0.25 cup skim milk",
+    "0.33333331346512 cup water",
+    "1 tablespoon vegetable oil",
+    "0.66666668653488 cup all-purpose flour",
+    "0.25 teaspoon white sugar",
+    "1 pinch salt",
+    "0.5 cup semisweet chocolate chips",
+    "1 cup sliced fresh strawberries",
+    "0.75 cup frozen whipped topping, thawed"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, beat together egg, milk, water and oil. Beat in flour, sugar and salt until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a medium, nonstick skillet over medium-high heat. Place a ladleful of crepe batter into center of pan, tilting to coat the bottom. Cook until golden brown on one side, turning once, 2 to 5 minutes. Continue with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small saucepan over low heat, melt chocolate chips, stirring constantly. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To assemble, spread some melted chocolate on the lighter side of one crepe. Place a line of overlapping strawberries down the center of the crepe and roll it up. Top with whipped topping and drizzle with a bit more chocolate. Repeat with remaining crepes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "279 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "27 mg",
+    "sugarContent": "16 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XPNXhJPkcVNiLUiDKMvX4BMBcQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6763456-51f24326959e45a2919415ce82f88043.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/27161/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

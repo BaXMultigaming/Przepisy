@@ -1,0 +1,100 @@
+{
+  "id": "29915",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/29915/quinoa-side-dish/",
+  "requested_url": "https://www.allrecipes.com/recipe/29915/quinoa-side-dish/",
+  "title": "Quinoa Side Dish",
+  "description": "Try this easy quinoa side dish instead of rice! It&#39;s tossed with onion, garlic, and fresh herbs, and a splash of lemon juice for fresh flavor.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-03-09T22:50:32-04:00",
+  "date_modified": "2026-02-14T16:26:53-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 tablespoon butter",
+    "1 cup uncooked quinoa",
+    "2 cups vegetable broth",
+    "2 teaspoons chopped garlic",
+    "2 tablespoons chopped fresh parsley",
+    "0.5 tablespoon chopped fresh thyme",
+    "0.25 teaspoon salt",
+    "1 small onion, finely chopped",
+    "1 dash fresh lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a saucepan over medium heat. Add quinoa and toast, stirring occasionally, until lightly browned, about 5 minutes. Stir in broth and bring to a boil. Reduce the heat, cover, and simmer until tender, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from the heat and transfer to a bowl. Stir in garlic, parsley, thyme, salt, and onion until combined. Sprinkle lemon juice over top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XavYCmuLQMj_Y1RCnZJIFme4tqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/363608-f8f5d586620640e6b5c42119eecf83af.jpg"
+      ],
+      "image": "assets/images/29915/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "207 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "400 mg",
+    "sugarContent": "3 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "720"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jOMqoQj1-ma1DlVvV.mp4",
+    "description": "A quick, simple, sensational side dish that’s out of the ordinary.",
+    "duration": "PT2M21S",
+    "name": "Quinoa Side Dish",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jOMqoQj1/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T11:14:09-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XavYCmuLQMj_Y1RCnZJIFme4tqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/363608-f8f5d586620640e6b5c42119eecf83af.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/29915/hero.webp",
+    "steps": [
+      null,
+      "assets/images/29915/step_02.webp"
+    ]
+  }
+}

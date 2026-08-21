@@ -1,0 +1,90 @@
+{
+  "id": "26400",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26400/corn-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/26400/corn-chili/",
+  "title": "Corn Chili",
+  "description": "Stewed tomatoes, two types of beans, and corn are combined in this chili with a bit of cayenne and tomato sauce, resulting in a quick, tasty meal.",
+  "authors": [
+    "BECCAM"
+  ],
+  "date_published": "2019-04-03T23:28:50-04:00",
+  "date_modified": "2026-06-20T17:54:31-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "1 medium onion, diced",
+    "2 teaspoons dried oregano",
+    "1 teaspoon ground cayenne pepper",
+    "1 (16 ounce) package frozen corn kernels",
+    "2 (14.5 ounce) cans Mexican-style stewed tomatoes",
+    "1 (15 ounce) can pinto beans, drained",
+    "1 (15 ounce) can kidney beans, drained",
+    "1.5 cups tomato sauce",
+    "1 cup water",
+    "2 tablespoons tomato paste",
+    "2 teaspoons chicken bouillon granules",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot over medium heat. Add onion; cook and stir until softened, about 5 minutes. Stir in oregano and cayenne pepper; cook until fragrant, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add corn, stewed tomatoes, pinto beans, kidney beans, tomato sauce, water, tomato paste, bouillon, salt, and pepper; stir to combine. Cook until heated through and slightly thickened, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "391 kcal",
+    "carbohydrateContent": "71 g",
+    "fiberContent": "20 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1310 mg",
+    "sugarContent": "12 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eYdYdiE1X4oXuPb57SAoDc--tB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2613276-corn-chili-laceyworks-4x3-1-f10336fcd0c14c33bda72c14473ba167.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26400/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

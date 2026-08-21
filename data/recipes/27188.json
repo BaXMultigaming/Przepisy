@@ -1,0 +1,94 @@
+{
+  "id": "27188",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/27188/crepes/",
+  "requested_url": "https://www.allrecipes.com/recipe/27188/crepes/",
+  "title": "Crêpes",
+  "description": "This recipe for crêpes is made with eggs, milk, flour, salt and oil. The delicately thin pancakes are carefully cooked in an oiled pan until golden brown.",
+  "authors": [
+    "Erin Nesbit"
+  ],
+  "date_published": "2018-06-08T09:17:22-04:00",
+  "date_modified": "2026-04-20T22:01:48-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT75M",
+  "yield": [
+    "8",
+    "8 crêpes"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "0.66666668653488 cup all-purpose flour",
+    "2 large eggs",
+    "2.5 teaspoons vegetable oil, divided",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, flour, eggs, 1 1/2 teaspoons oil, and salt in a blender; process until smooth. Cover and refrigerate for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a skillet over medium-high heat and brush with remaining oil. Pour 1/8 of the crêpe batter (about 1/4 cup) into the pan; tilt the pan until batter coats the entire surface. Cook until golden brown, 1 to 2 minutes per side, then remove to a plate. Repeat to cook remaining crêpes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kAF9wdEbiwTl0yQEATI1OTgm3pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1259466-a3f8d8db991645d8a1b58037df62590d.jpg"
+      ],
+      "image": "assets/images/27188/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "79 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "30 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "1212"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Ho49pjK8-ma1DlVvV.mp4",
+    "description": "AR0327",
+    "duration": "PT2M",
+    "name": "Crepes 2",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Ho49pjK8/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T01:40:42-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kAF9wdEbiwTl0yQEATI1OTgm3pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1259466-a3f8d8db991645d8a1b58037df62590d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/27188/hero.webp",
+    "steps": [
+      null,
+      "assets/images/27188/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "27987",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/27987/pollo-a-la-crema/",
+  "requested_url": "https://www.allrecipes.com/recipe/27987/pollo-a-la-crema/",
+  "title": "Pollo a la Crema",
+  "description": "Cubed chicken breast is cooked with a cream sauce and served in a tortilla. Corn or flour tortillas can be used.",
+  "authors": [
+    "Teresa Dillon"
+  ],
+  "date_published": "2019-04-02T02:43:53-04:00",
+  "date_modified": "2022-08-08T10:43:14-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves - cut into cubes",
+    "2 tablespoons butter",
+    "2 tablespoons all-purpose flour",
+    "1 cup chicken broth",
+    "1 cup heavy cream",
+    "2 tablespoons ketchup",
+    "6 (6 inch) flour tortillas"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium heat, melt butter. Add chicken and cook, stirring frequently until juices run clear. Stir in the flour and ketchup, then whisk in the broth. When sauce begins to thicken, reduce heat and stir in the cream. Simmer covered for about 15 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon the mixture into flour or corn tortillas and serve with rice and beans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "372 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "110 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "353 mg",
+    "sugarContent": "2 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DYN1zvguN65GeLMlGu2yBxxGDIM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26548-f1862392f3924e518b415d0e445e9105.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/27987/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

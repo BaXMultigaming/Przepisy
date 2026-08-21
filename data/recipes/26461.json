@@ -1,0 +1,77 @@
+{
+  "id": "26461",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26461/quick-chili-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/26461/quick-chili-ii/",
+  "title": "Quick Chili II",
+  "description": "This quick ground beef and bean chili features green chiles and Cajun seasoning.",
+  "authors": [
+    "Kathy Labit"
+  ],
+  "date_published": "2020-02-01T02:50:20-05:00",
+  "date_modified": "2022-08-08T11:36:55-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 white onion, chopped",
+    "1 (15 ounce) can tomato sauce",
+    "2 cups water",
+    "1 (15 ounce) can ranch-style beans",
+    "1 (15 ounce) can kidney beans",
+    "1 (4 ounce) can chopped green chile peppers",
+    "2 tablespoons chili powder",
+    "1 tablespoon garlic powder",
+    "0.25 teaspoon ground cumin",
+    "0.25 teaspoon Cajun seasoning"
+  ],
+  "steps": [
+    {
+      "text": "In a large pot, cook beef over medium heat until brown. Stir in onion and cook until onion is translucent. Stir in tomato sauce, water, ranch-style beans, kidney beans, chiles, chili powder, garlic powder, cumin and Cajun seasoning. Bring to a boil, then reduce heat and simmer 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "360 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "11 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1176 mg",
+    "sugarContent": "5 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "63"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nZSTzFCSm8eg5uks7hParS3l6Ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/735866-b409a4f991084d499d91289a03271557.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26461/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

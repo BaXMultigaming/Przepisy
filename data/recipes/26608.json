@@ -1,0 +1,84 @@
+{
+  "id": "26608",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26608/ground-beef-for-tacos/",
+  "requested_url": "https://www.allrecipes.com/recipe/26608/ground-beef-for-tacos/",
+  "title": "Ground Beef for Tacos",
+  "description": "Using only browned ground beef, onions, and taco seasoning, discover how long to cook ground beef to create quick and easy tacos, or serve it over rice.",
+  "authors": [
+    "JMK"
+  ],
+  "date_published": "2020-02-26T00:50:25-05:00",
+  "date_modified": "2023-04-11T10:55:45-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "World",
+    "Mexican"
+  ],
+  "regions": [
+    "World",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 onion, diced",
+    "0.5 cup ketchup",
+    "1 (1.25 ounce) package taco seasoning mix",
+    "0.66666668653488 cup cold water"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium heat, brown ground beef with onion; drain fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in ketchup, taco seasoning, and cold water. Reduce heat and simmer for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "371 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1060 mg",
+    "sugarContent": "10 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "88"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ESzV28DccrpYifmCEaluJC6GqGs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9250923-19e4fff3f2944494acf422f6c7186747.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26608/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

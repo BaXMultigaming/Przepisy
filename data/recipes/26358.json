@@ -1,0 +1,124 @@
+{
+  "id": "26358",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26358/awesome-chicken-noodle-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/26358/awesome-chicken-noodle-soup/",
+  "title": "Awesome Chicken Noodle Soup",
+  "description": "Homemade stock from boiled chicken gives this soup robust flavor, along with aromatics and a bit of lemongrass too. It&#39;s good for what ails you!",
+  "authors": [
+    "ALANK"
+  ],
+  "date_published": "2019-04-03T23:28:49-04:00",
+  "date_modified": "2026-04-02T11:14:01-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT135M",
+  "total_time": "PT155M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (4 pound) whole chicken, cut into pieces",
+    "1 gallon water",
+    "1 pound whole carrots",
+    "0.66666668653488 bunch celery, trimmed",
+    "1 large onion, peeled and halved",
+    "3 tablespoons chopped lemongrass",
+    "3 large bay leaves",
+    "10 whole black peppercorns",
+    "1 pound carrots, peeled and sliced",
+    "0.33333334326744 bunch celery with leaves, sliced, divided",
+    "0.25 cup chicken soup base",
+    "1 (8 ounce) package dry egg noodles"
+  ],
+  "steps": [
+    {
+      "text": "Place chicken into a large stockpot and pour in water. Bring to a boil over high heat. Reduce the heat, cover, and simmer, skimming fat as needed, for 30 minutes. Add whole carrots, whole celery, onion half, lemongrass, bay leaves, and peppercorns. Cover and simmer for 1 hour; chicken should no longer be pink at the bone and the juices should run clear. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer chicken to a platter and let sit until cool enough to handle. Strain stock, discarding solids.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return strained stock to the pot and set over high heat. Stir in sliced carrots, sliced celery (not the leaves), and chicken base. Bring to a boil, then reduce the heat, cover, and simmer until carrots are tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, remove and discard skin from cooled chicken. Chop meat into bite-sized pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add noodles and celery leaves to the pot; simmer until noodles are tender yet firm to the bite, about 10 minutes. Stir in chicken and cook until heated through, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ua4xwtEn5fvAQmXcgBhtZ4_1Di8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4465997-761f4d7d3a7a4615b6f21665504dc0f5.jpg"
+      ],
+      "image": "assets/images/26358/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "303 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "864 mg",
+    "sugarContent": "5 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "427"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/uGflHV2J-ma1DlVvV.mp4",
+    "description": "AR0678",
+    "duration": "PT5M20S",
+    "name": "Awesome Chicken Noodle Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/uGflHV2J/poster.jpg?width=1280",
+    "uploadDate": "2021-07-12T12:22:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ua4xwtEn5fvAQmXcgBhtZ4_1Di8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4465997-761f4d7d3a7a4615b6f21665504dc0f5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26358/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/26358/step_05.webp"
+    ]
+  }
+}

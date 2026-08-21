@@ -1,0 +1,89 @@
+{
+  "id": "29450",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/29450/quick-poached-salmon-with-dill-mustard-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/29450/quick-poached-salmon-with-dill-mustard-sauce/",
+  "title": "Quick Poached Salmon with Dill Mustard Sauce",
+  "description": "Salmon poached in a white wine and shallot broth is topped with a cool, creamy yogurt sauce made with fresh dill, Dijon mustard, and lemon juice.",
+  "authors": [
+    "Karena"
+  ],
+  "date_published": "2019-07-10T02:52:57-04:00",
+  "date_modified": "2022-10-14T07:01:09-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup plain yogurt",
+    "0.25 cup Dijon mustard",
+    "0.25 cup fresh lemon juice",
+    "3 tablespoons chopped fresh dill",
+    "1 tablespoon honey",
+    "1 pound salmon",
+    "1 cup white wine",
+    "0.25 cup chopped shallots"
+  ],
+  "steps": [
+    {
+      "text": "Make the sauce: Blend yogurt, mustard, lemon juice, dill, and honey in a small bowl. Cover and refrigerate until salmon is ready.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Make the salmon: Place salmon into a medium saucepan. Pour in wine, add just enough water to cover salmon, and sprinkle shallots over top. Cover and cook over medium heat until fish flakes easily with a fork, 10 to 12 minutes. Drain liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve salmon and shallots with sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "322 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "470 mg",
+    "sugarContent": "8 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "124"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fttWH1QxYOSUhIPCorvEhysOibU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5378811-3193a832248d4cb7a88e70a53709cfae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/29450/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

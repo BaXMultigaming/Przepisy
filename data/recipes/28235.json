@@ -1,0 +1,103 @@
+{
+  "id": "28235",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/28235/chicken-bolognaise/",
+  "requested_url": "https://www.allrecipes.com/recipe/28235/chicken-bolognaise/",
+  "title": "Chicken Bolognaise",
+  "description": "A refreshing Italian-style chicken tomato sauce is served over rotini pasta and topped off with grated Parmesan cheese.",
+  "authors": [
+    "Mike"
+  ],
+  "date_published": "2020-06-18T23:07:11-04:00",
+  "date_modified": "2023-02-05T00:06:11-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "3 skinless, boneless chicken breast halves - cut into 1 inch cubes",
+    "1 white onion, chopped",
+    "2 cloves garlic, finely chopped",
+    "1 (28 ounce) can peeled and crushed tomatoes",
+    "4 button mushrooms, chopped",
+    "0.5 teaspoon Italian seasoning",
+    "0.5 teaspoon white sugar",
+    "4 cups uncooked rotini pasta",
+    "0.25 cup grated Parmesan cheese for topping"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium heat. Sauté chicken, onion, and garlic in hot oil until chicken is mostly cooked through, about 10 minutes. Stir in crushed tomatoes, mushrooms, and Italian seasoning. Cook, stirring frequently, for about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat, stir in sugar, and simmer for at least 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, bring a large pot of lightly salted water to a boil; cook rotini at a boil until tender yet firm to the bite, about 8 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve rotini topped with chicken mixture and grated Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "288 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "195 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lo9s-GrNc5oqC5ycP62TubTJ-jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4527359-chicken-bolognaise-samantha-4x3-1-7abfb733eb264257ae0bc046cc52e684.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/28235/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

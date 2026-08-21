@@ -1,0 +1,103 @@
+{
+  "id": "27005",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/27005/turkey-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/27005/turkey-salad/",
+  "title": "Turkey Salad",
+  "description": "This turkey salad is a creamy blend of leftover turkey, celery, and red bell pepper to make a tasty spread for crackers or filling for sandwiches.",
+  "authors": [
+    "Gloria Burris"
+  ],
+  "date_published": "2020-06-18T23:07:02-04:00",
+  "date_modified": "2026-01-22T09:50:49-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT500M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 pound cooked turkey meat",
+    "2 stalks celery",
+    "2 green onions",
+    "0.5 red bell pepper",
+    "3 tablespoons mayonnaise",
+    "2 tablespoons prepared Dijon-style mustard",
+    "1 tablespoon cider vinegar",
+    "1 teaspoon white sugar",
+    "0.25 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Xm9mvXoKnfQa11Pj4ZgR1SZz6Wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27005-turkey-salad-VAT-007-step-01-d717edc5ceb040a7a51cd15c79191d8f.jpg"
+      ],
+      "image": "assets/images/27005/step_01.webp"
+    },
+    {
+      "text": "Place cooked turkey, celery, green onions, and red bell pepper in a blender or food processor. Pulse until finely chopped.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/xMmNKGgPGweLxbELNRM34SQY9Sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27005-turkey-salad-VAT-007-step-02-75e60c975a0c490184cc4b58c0e8f029.jpg"
+      ],
+      "image": "assets/images/27005/step_02.webp"
+    },
+    {
+      "text": "Transfer turkey mixture to a medium bowl. Mix in mayonnaise, prepared Dijon-style mustard, cider vinegar, white sugar, and salt until well combined. Cover and refrigerate, 8 hours to overnight, before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WD0F99PWqLMX76LSRhd6dXojO3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27005-turkey-salad-VAT-007-step-03-dfd55333f4fc44909fd6a1f21f0852b7.jpg"
+      ],
+      "image": "assets/images/27005/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "40 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "78 mg",
+    "sugarContent": "0 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "182"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EJzexluEJsnbcNWh9LUtdlFYsA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27005-turkey-salad-VAT-006-4x3-291901844f604047834e5c0777f298bb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/27005/hero.webp",
+    "steps": [
+      "assets/images/27005/step_01.webp",
+      "assets/images/27005/step_02.webp",
+      "assets/images/27005/step_03.webp"
+    ]
+  }
+}

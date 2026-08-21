@@ -1,0 +1,108 @@
+{
+  "id": "26462",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26462/russian-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/26462/russian-chili/",
+  "title": "Russian Chili",
+  "description": "Celery, sour cream and beer are the unusual ingredients in this beef and bean chili seasoned with cumin and chili powder.",
+  "authors": [
+    "Captain Cook"
+  ],
+  "date_published": "2019-04-03T23:28:52-04:00",
+  "date_modified": "2025-02-26T15:47:01-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Eastern European"
+  ],
+  "regions": [
+    "Eastern European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "1 tablespoon olive oil",
+    "2 onions, chopped",
+    "1 green bell pepper, chopped",
+    "2 stalks celery, chopped",
+    "1 (12 fluid ounce) can or bottle flat beer",
+    "1 cup water",
+    "2 tablespoons chili powder",
+    "salt and pepper to taste",
+    "0.5 teaspoon dried parsley",
+    "1 teaspoon ground cumin",
+    "1 (6 ounce) can tomato paste",
+    "1 (15 ounce) can kidney beans",
+    "1 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium heat, cook beef until brown. Drain and let cool. Rinse with water. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pot over medium heat, cook onion, bell pepper and celery in oil until just tender. Stir in ground beef, beer, water, chili powder, salt, pepper, parsley and cumin. Reduce heat, cover and simmer 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in tomato paste and cook 10 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in kidney beans and heat through. Remove from heat and stir in sour cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "422 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "82 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "393 mg",
+    "sugarContent": "5 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6EHAOl82sphTtAUe2mZaN_V9PWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1739543-4505b9447d9d4e5884ed9ad8cea3366c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26462/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

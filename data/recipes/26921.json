@@ -1,0 +1,112 @@
+{
+  "id": "26921",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26921/real-hummus/",
+  "requested_url": "https://www.allrecipes.com/recipe/26921/real-hummus/",
+  "title": "Real Hummus",
+  "description": "This classic hummus recipe is easy to make by blending chickpeas, garlic, tahini, and lemon for a wonderful homemade snack or appetizer.",
+  "authors": [
+    "ROYHOBBS"
+  ],
+  "date_published": "2020-01-28T01:19:07-05:00",
+  "date_modified": "2026-05-29T07:09:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "20",
+    "2 1/2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 cloves garlic",
+    "1 (19 ounce) can garbanzo beans, half the liquid reserved",
+    "4 tablespoons lemon juice",
+    "2 tablespoons tahini",
+    "1 teaspoon salt",
+    "2 tablespoons olive oil",
+    "black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Chop garlic in a blender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FY4gXuDHG5H5v3rERQPhg10T5b8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26921-real-hummus-ddmfs-step-1-44-1742cef13130429182603f48ec3f1eaf.jpg"
+      ],
+      "image": "assets/images/26921/step_01.webp"
+    },
+    {
+      "text": "Pour chickpeas into the blender, reserving about 1 tablespoon for garnish. Add reserved liquid, lemon juice, tahini, and salt to taste; blend until creamy and well mixed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/eGsWUrqIYjoo9rV3O-wCMjPyEIE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26921-real-hummus-ddmfs-step-2-46-168059a6754646ec958c18496b6ba84a.jpg"
+      ],
+      "image": "assets/images/26921/step_02.webp"
+    },
+    {
+      "text": "Transfer mixture to a medium serving bowl. Drizzle olive oil and sprinkle pepper over the top. Garnish with reserved chickpeas.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2YAWPbPTu5hrTr-ZMgaOc5GBplc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26921-real-hummus-DDMFS-4x3-6747fff2558e42619a7231eb397eab75.jpg"
+      ],
+      "image": "assets/images/26921/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "54 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "199 mg",
+    "sugarContent": "0 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1214"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ksB6jpi5-K3AjnAEN.mp4",
+    "description": "In this video, Nicole shows you how to make a homemade hummus in thirty minutes or less. This recipe processes de-skinned chickpeas together with minced garlic, salt, tahini, lemon juice, and aquafaba for a creamy and smooth hummus. Garnish the dish with olive oil, lemon zest, pepper, and paprika to give it a smoky and spicy flavor that will pair perfectly with chips or pita bread at your next party!",
+    "duration": "PT2M22S",
+    "name": "How to Make Hummus",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ksB6jpi5/poster.jpg?width=1280",
+    "uploadDate": "2023-06-02T14:05:22-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2YAWPbPTu5hrTr-ZMgaOc5GBplc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26921-real-hummus-DDMFS-4x3-6747fff2558e42619a7231eb397eab75.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26921/hero.webp",
+    "steps": [
+      "assets/images/26921/step_01.webp",
+      "assets/images/26921/step_02.webp",
+      "assets/images/26921/step_03.webp"
+    ]
+  }
+}

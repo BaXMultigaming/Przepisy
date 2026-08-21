@@ -1,0 +1,87 @@
+{
+  "id": "27027",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/27027/gingerbread-coffee/",
+  "requested_url": "https://www.allrecipes.com/recipe/27027/gingerbread-coffee/",
+  "title": "Gingerbread Coffee",
+  "description": "Molasses and spices are stirred into hot coffee and topped off with a generous dollop of whipped cream and sprinkled with cloves.",
+  "authors": [
+    "Jennifer"
+  ],
+  "date_published": "2020-03-04T23:56:56-05:00",
+  "date_modified": "2026-08-06T13:43:11-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup molasses",
+    "0.25 cup brown sugar",
+    "0.5 teaspoon baking soda",
+    "1 teaspoon ground ginger",
+    "0.75 teaspoon ground cinnamon",
+    "6 cups hot brewed coffee",
+    "1 cup half-and-half cream",
+    "1 teaspoon ground cloves",
+    "1.5 cups sweetened whipped cream"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, mix together the molasses, brown sugar, baking soda, ginger and cinnamon until well blended. Cover and refrigerate for at least 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add about a 1/4 cup of coffee to each cup, then stir in about a tablespoon of the spice mixture until dissolved. Fill cup to within an inch of the top with coffee. Stir in half and half to taste, then garnish with whipped cream and a light dusting of cloves.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "199 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "158 mg",
+    "sugarContent": "22 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TvR4yeAowzR65nf3iWeAgJGHW8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3610076-bed5fa17e1ed48798986ee58380887cf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/27027/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

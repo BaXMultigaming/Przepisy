@@ -1,0 +1,94 @@
+{
+  "id": "30840",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/30840/chicken-fried-steak-cuban-style/",
+  "requested_url": "https://www.allrecipes.com/recipe/30840/chicken-fried-steak-cuban-style/",
+  "title": "Chicken Fried Steak Cuban Style",
+  "description": "Delicious and tasty chicken fried steaks with a zesty Latin touch.",
+  "authors": [
+    "Roxie"
+  ],
+  "date_published": "2020-06-18T23:07:14-04:00",
+  "date_modified": "2025-04-06T22:34:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 steaks"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Cuban"
+  ],
+  "regions": [
+    "Cuban"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 (4 ounce) cube steaks",
+    "2 eggs",
+    "3 cups dry bread crumbs",
+    "1 tablespoon dried oregano",
+    "1 teaspoon ground cumin",
+    "salt and pepper to taste",
+    "1 lemon, sliced",
+    "2 cups vegetable oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "In a shallow dish, combine the breadcrumbs with the oregano, cumin, and salt and pepper. Beat eggs in another shallow dish. Dip each steak in beaten eggs, and then in the breadcrumb mixture. Make sure to cover each steak well with the breadcrumb mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large, deep skillet, heat 1inch oil over medium high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the steaks in the oil when it's hot (so that the breading will not stick to the pan). Cook steaks, turning once, until brown for well done and golden brown for medium. Serve with lemon slices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "577 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "121 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "661 mg",
+    "sugarContent": "5 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "58"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ciNdUoXaj0SofDWgk1IhatoCWYA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4582001-caa1d110fcf147cd96185624ab2acfae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/30840/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

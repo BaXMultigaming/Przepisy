@@ -1,0 +1,84 @@
+{
+  "id": "28347",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/28347/broccoli-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/28347/broccoli-chicken/",
+  "title": "Broccoli Chicken",
+  "description": "Chicken breasts are pan fried then smothered in a rich broccoli cream sauce with Cheddar cheese.",
+  "authors": [
+    "Karen Grant"
+  ],
+  "date_published": "2018-06-08T09:17:27-04:00",
+  "date_modified": "2025-04-09T23:41:43-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "4 skinless, boneless chicken breast halves",
+    "0.5 cup milk",
+    "1 (10.75 ounce) can condensed cream of broccoli soup",
+    "1 cup shredded Cheddar cheese",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium heat. Fry chicken breasts until cooked through, about 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the milk and cream of broccoli soup; pour over the chicken. Reduce heat to simmer and cook for a few more minutes. Stir in Cheddar cheese until well blended, and remove from heat. Serve immediately over rice or noodles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "369 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "110 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "38 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "759 mg",
+    "sugarContent": "3 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "50"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NyTLQGM0YnVe3drOtofNszm3BS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2057714-99bba2152dbe449384b14131d27f4c95.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/28347/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

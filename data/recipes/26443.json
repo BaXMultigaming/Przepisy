@@ -1,0 +1,78 @@
+{
+  "id": "26443",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26443/moms-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/26443/moms-chili/",
+  "title": "Mom&#39;s Chili",
+  "description": "Ground beef is slowly simmered with onion, ranch-style beans, diced tomatoes and green chiles and spices.",
+  "authors": [
+    "Bailey"
+  ],
+  "date_published": "2019-04-03T23:28:51-04:00",
+  "date_modified": "2025-01-02T11:30:52-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT120M",
+  "total_time": "PT130M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 large onion, chopped",
+    "1 (15 ounce) can ranch-style beans",
+    "1 (10 ounce) can diced tomatoes with green chile peppers",
+    "1 (1.25 ounce) package chili seasoning mix",
+    "salt and pepper to taste",
+    "2 teaspoons chili powder, or to taste",
+    "1 cup water, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan over medium-high heat, cook beef and onion until meat is brown. Stir in beans, diced tomatoes, chili seasoning, salt, pepper, chili powder and water. Reduce heat and simmer 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "382 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1701 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "95"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Z_kVic4qSAT54nmC171cJfh2cus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042902-moms-chili-Cynthia-LaFourcade-4x3-1-65a81214b4b5473fb38df7e268c25c1c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26443/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

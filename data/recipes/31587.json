@@ -1,0 +1,81 @@
+{
+  "id": "31587",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/31587/stewed-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/31587/stewed-potatoes/",
+  "title": "Stewed Potatoes",
+  "description": "Diced potatoes stewed with onions, garlic, tomatoes, and rutabaga in broth. Chicken, beef, or vegetable broth may be used.",
+  "authors": [
+    "Marta Olynyk"
+  ],
+  "date_published": "2020-01-24T03:50:03-05:00",
+  "date_modified": "2024-12-01T01:01:56-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "3 cloves garlic, minced",
+    "0.5 large onion, chopped",
+    "1 plum tomato, chopped",
+    "6 potatoes, diced",
+    "0.5 rutabaga, diced",
+    "dried oregano, to taste",
+    "salt and freshly ground black pepper to taste",
+    "2 cups chicken broth"
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a skillet over medium heat, and saute the garlic and onion until tender. Stir in the tomato, and cook until heated through. Mix in potatoes and rutabaga. Season with oregano, salt, and pepper. Pour in the broth, and bring to a boil. Reduce heat to low, and continue cooking 15 minutes, or until potatoes and rutabaga are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "42 g",
+    "fiberContent": "6 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "21 mg",
+    "sugarContent": "4 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_GGtCDdVhaqIzzU_Jf-XC4H_hjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7649317-671478e5316b4b72809eb355ca9ceb51.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/31587/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "27899",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/27899/chicken-curry-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/27899/chicken-curry-salad/",
+  "title": "Chicken Curry Salad",
+  "description": "An easy solution for a curry craving. Simple chicken salad seasoned with a spicy curry sauce.",
+  "authors": [
+    "Talia"
+  ],
+  "date_published": "2020-01-02T19:50:16-05:00",
+  "date_modified": "2024-11-30T22:48:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup mayonnaise",
+    "1 teaspoon curry powder",
+    "salt and pepper to taste",
+    "0.25 teaspoon chili oil",
+    "1 (10 ounce) can chunk chicken, drained"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, stir together the mayonnaise, curry powder, salt, pepper, and chili oil. Mix in the chunk chicken until well blended. Refrigerate until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "509 mg",
+    "sugarContent": "0 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KnUY8Q_re2wszVM2Qe9rfpy3UHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/27899-chicken-curry-salad-GOLDMAN-4x3-3297-8c50ea6db87145ed8385bc7c61b5255d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/27899/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "26438",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26438/melanies-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/26438/melanies-chili/",
+  "title": "Melanie&#39;s Chili",
+  "description": "Ground meat is cooked with onion, tomatoes, tomato sauce and beans, and spiced with chili powder, cumin, cayenne and garlic in this quick chili.",
+  "authors": [
+    "Melanie"
+  ],
+  "date_published": "2018-03-21T12:21:28-04:00",
+  "date_modified": "2024-10-17T12:26:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 onion, chopped",
+    "1 (14.5 ounce) can diced tomatoes",
+    "1 (15 ounce) can tomato sauce",
+    "1 (16 ounce) can pinto beans",
+    "1 teaspoon chili powder",
+    "1 teaspoon ground cumin",
+    "0.5 teaspoon ground cayenne pepper",
+    "1 teaspoon minced garlic"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan over medium-high heat, cook beef and onion until meat is no longer pink. Stir in tomatoes, tomato sauce, beans, chili powder, cumin, cayenne and garlic. Cover, reduce heat and simmer 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "452 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "18 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "524 mg",
+    "sugarContent": "6 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "108"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-VhljOLCckh8FShJfakFmUenqwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/26438melanies-chiliFranceC4x3-26f8c2a5755941009197c4cedace53c5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26438/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

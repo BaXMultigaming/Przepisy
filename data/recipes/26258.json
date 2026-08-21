@@ -1,0 +1,100 @@
+{
+  "id": "26258",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26258/chicken-alfredo-with-fettuccini-noodles/",
+  "requested_url": "https://www.allrecipes.com/recipe/26258/chicken-alfredo-with-fettuccini-noodles/",
+  "title": "Chicken Alfredo with Fettuccini Noodles",
+  "description": "This is a rich and creamy Alfredo sauce of butter, ricotta cheese, cream and Parmesan cheese. It&#39;s served with fettuccini and sauteed chicken.",
+  "authors": [
+    "Gregory Huey"
+  ],
+  "date_published": "2018-06-08T09:17:03-04:00",
+  "date_modified": "2022-07-14T16:28:44-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound fettuccini pasta",
+    "1.5 cups butter, divided",
+    "1 pound skinless, boneless chicken breast halves - cut into cubes",
+    "2 (16 ounce) containers whole milk ricotta cheese",
+    "1 pint heavy cream",
+    "1 teaspoon salt",
+    "1 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add fettuccini and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt 2 tablespoons butter in a large skillet over medium heat. Saute chicken until no longer pink and juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan combine ricotta cheese, cream, salt, Parmesan cheese and remaining butter. Cook over medium heat until well combined, about 10 minutes. Stir in cooked fettuccini and chicken; cook until heated through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jrLtPmyZY9IdEI9QBuBVn6hOyN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1013589-a7896c6b56e14c248ef45de4b0887828.jpg"
+      ],
+      "image": "assets/images/26258/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1014 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "272 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "47 g",
+    "sodiumContent": "845 mg",
+    "sugarContent": "2 g",
+    "fatContent": "76 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "300"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/KuymtiAb-ma1DlVvV.mp4",
+    "description": "AR0350",
+    "duration": "PT2M35S",
+    "name": "Chicken Alfredo with Fettuccini Noodles",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/KuymtiAb/poster.jpg?width=1280",
+    "uploadDate": "2021-07-03T05:36:22-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jrLtPmyZY9IdEI9QBuBVn6hOyN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1013589-a7896c6b56e14c248ef45de4b0887828.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26258/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/26258/step_03.webp"
+    ]
+  }
+}

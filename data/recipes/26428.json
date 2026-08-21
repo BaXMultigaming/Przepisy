@@ -1,0 +1,76 @@
+{
+  "id": "26428",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26428/honeydew-blueberry-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/26428/honeydew-blueberry-soup/",
+  "title": "Honeydew Blueberry Soup",
+  "description": "Honeydew melon is pureed, combined with whole blueberries and chilled before being served with an oatmeal cookie crumb topping.",
+  "authors": [
+    "J. Carlson"
+  ],
+  "date_published": "2018-03-21T12:21:27-04:00",
+  "date_modified": "2022-08-08T11:43:26-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 honeydew melon",
+    "1 pint blueberries",
+    "6 oatmeal cookies"
+  ],
+  "steps": [
+    {
+      "text": "Cut the melon from the rind and into chunks. Puree until smooth in a food processor or blender. Pour into a large bowl and stir blueberries into pureed melon. Chill until quite cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To serve, ladle soup into individual bowls and crumble an oatmeal cookie over each serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "176 kcal",
+    "carbohydrateContent": "38 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "96 mg",
+    "sugarContent": "27 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CcJOeLWTI4ur2ebQz11XW0QxCMQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1003958-78aa0c9c66e041788d20d2a2171947e4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26428/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

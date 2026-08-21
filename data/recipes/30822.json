@@ -1,0 +1,83 @@
+{
+  "id": "30822",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/30822/beef-burgundy-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/30822/beef-burgundy-iii/",
+  "title": "Easy Beef Burgundy",
+  "description": "This beef Burgundy with noodles features sirloin chunks seared until browned, then simmered in a super easy mushroom-red wine sauce until tender.",
+  "authors": [
+    "CapeCodLorrie"
+  ],
+  "date_published": "2019-04-02T02:43:59-04:00",
+  "date_modified": "2026-05-09T12:48:30-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT135M",
+  "total_time": "PT150M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds sirloin tips, cubed",
+    "1 medium onion, chopped",
+    "12 ounces mushrooms, chopped",
+    "2 tablespoons butter",
+    "1 (10.75 ounce) can condensed golden mushroom soup",
+    "0.5 cup Burgundy wine"
+  ],
+  "steps": [
+    {
+      "text": "Heat a Dutch oven over medium-high heat. Sear beef in the hot pot until browned on all sides. Stir onion into beef and sauté until onion is golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add mushrooms, butter, condensed soup, and wine; stir until well combined. Reduce heat, cover, and simmer for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "476 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "151 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "44 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "313 mg",
+    "sugarContent": "4 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "168"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wLmdJhDrAll8Yi4Sa_4uswiyegY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2495407-10fc6fd02eab46aeb47dd79ff273cf7b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/30822/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

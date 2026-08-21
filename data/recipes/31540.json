@@ -1,0 +1,79 @@
+{
+  "id": "31540",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/31540/lemon-thyme-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/31540/lemon-thyme-rice/",
+  "title": "Lemon Thyme Rice",
+  "description": "Rice is cooked with lemon juice and thyme. Why serve plain old rice when you can wow them with this simple, delicious thyme rice?",
+  "authors": [
+    "LASUG"
+  ],
+  "date_published": "2019-07-10T02:53:00-04:00",
+  "date_modified": "2019-07-10T02:53:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "1 cup uncooked white rice",
+    "1 (14.5 ounce) can chicken broth",
+    "1 tablespoon fresh lemon juice",
+    "1 tablespoon fresh thyme leaves"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a medium saucepan over medium-high heat; stir in rice. Cook rice, stirring frequently, until browned, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix chicken broth, lemon juice, and thyme into rice. Cover and reduce heat to low. Cook until liquid has been absorbed, about 20 minutes. Fluff with a fork before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "212 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "346 mg",
+    "sugarContent": "0 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "207"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vEfMCv_nAlkvvjLy86NFena7PXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/597930-4f36bff258d44001875ce2b82f2514a4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/31540/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

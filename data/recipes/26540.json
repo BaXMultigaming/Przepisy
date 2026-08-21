@@ -1,0 +1,91 @@
+{
+  "id": "26540",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26540/sesame-broccoli-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/26540/sesame-broccoli-salad/",
+  "title": "Sesame Broccoli Salad",
+  "description": "This bright green salad features blanched broccoli tossed in a light sesame dressing with toasted sesame seeds. Quick and delicious!",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2020-06-18T23:06:59-04:00",
+  "date_modified": "2022-08-04T10:07:13-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Asian"
+  ],
+  "regions": [
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons sesame seeds",
+    "1.5 pounds fresh broccoli, cut into bite size pieces",
+    "2 tablespoons rice vinegar",
+    "2 tablespoons soy sauce",
+    "2 tablespoons sesame oil",
+    "2 teaspoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 375 degrees F (190 degrees C). Toast sesame seeds for 3 to 5 minutes, or until the seeds begin to turn golden brown. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of water to a boil. Cook broccoli in boiling water for 3 to 5 minutes, or until desired tenderness. Drain, and transfer to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small bowl, whisk together the vinegar, soy sauce, sesame oil, sugar, and sesame seeds. Pour over broccoli, and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "78 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "254 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "106"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qKxUaMm2C3RCH4WTG_7-1Vaf5Nk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2729-ed1412d2a23040c58b0c6013df569ad4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26540/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

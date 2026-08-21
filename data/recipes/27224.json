@@ -1,0 +1,94 @@
+{
+  "id": "27224",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/27224/green-beans-with-herb-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/27224/green-beans-with-herb-dressing/",
+  "title": "Green Beans with Herb Dressing",
+  "description": "Fresh green beans are covered in an olive oil, green onion and herb dressing.",
+  "authors": [
+    "Andrew and Amy Welch"
+  ],
+  "date_published": "2020-06-18T23:07:08-04:00",
+  "date_modified": "2022-08-08T10:35:58-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT5M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "6 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 green onions, chopped",
+    "1 clove garlic, minced",
+    "0.33000001311302 cup olive oil",
+    "3 tablespoons lemon juice",
+    "1 teaspoon salt",
+    "1 teaspoon white sugar",
+    "1 teaspoon dry mustard",
+    "0.25 teaspoon dried basil",
+    "0.25 teaspoon dried oregano",
+    "0.25 teaspoon dried marjoram",
+    "0.25 teaspoon ground black pepper",
+    "2 pounds fresh green beans, trimmed and snapped"
+  ],
+  "steps": [
+    {
+      "text": "In a medium bowl, mix green onions, garlic, olive oil, lemon juice, salt, white sugar, mustard, basil, oregano, marjoram and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place green beans in a steaming basket. Steam in a medium saucepan over boiling water 5 minutes, or to desired tenderness.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place green beans in a medium serving dish. Pour dressing mixture over the beans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "200 mg",
+    "sugarContent": "2 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p-sstODQuDkZ20KK1Z-W4WphpRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9428424-de1b8106ee9942ba988b9744771437d9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/27224/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

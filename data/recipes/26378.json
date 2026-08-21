@@ -1,0 +1,77 @@
+{
+  "id": "26378",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26378/chicken-corn-chowder/",
+  "requested_url": "https://www.allrecipes.com/recipe/26378/chicken-corn-chowder/",
+  "title": "Chicken Corn Chowder",
+  "description": "Homemade chicken broth is combined with onion, shallots, potatoes, corn and cream in this simple, hearty chowder.",
+  "authors": [
+    "MJ West"
+  ],
+  "date_published": "2020-03-10T02:50:26-04:00",
+  "date_modified": "2025-02-01T15:55:46-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT75M",
+  "total_time": "PT90M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 chicken carcass",
+    "1 bay leaf",
+    "2 tablespoons butter",
+    "1 onion, diced",
+    "3 shallots, diced",
+    "2 cubes chicken bouillon, crumbled",
+    "2 tablespoons dried parsley",
+    "salt and pepper to taste",
+    "2 potatoes, peeled and diced",
+    "1.5 cups frozen corn kernels",
+    "2 tablespoons heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "Place chicken carcass (and any leftover skin and meat and other bones) in a large pot and cover with cold water. Add bay leaf, and bring to a boil. Reduce heat, and simmer 60 to 90 minutes. Remove from heat, cool slightly, and strain. Remove chicken meat from carcass, and chop into bite-size pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large saucepan over medium heat, melt butter. Cook onion and shallots in butter until translucent. Pour in strained broth and chicken meat and stir in bouillon, parsley, salt, pepper, potatoes and corn. Simmer 15 minutes, until potatoes are cooked and corn is tender. Remove from heat and stir in cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": null,
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "70"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SnevGwEgVqiQ4N5mcF9l12Xq0F8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Corn-Chowder-Tammy-Lynn-4x3-1-2000-eb58072047b940f4b9e57048f21210a9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26378/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

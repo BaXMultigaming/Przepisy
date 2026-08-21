@@ -1,0 +1,79 @@
+{
+  "id": "26595",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/26595/chateaubriand/",
+  "requested_url": "https://www.allrecipes.com/recipe/26595/chateaubriand/",
+  "title": "Chateaubriand",
+  "description": "Savory tenderloin filets are quickly seared, then fried in butter. Tastes great with freshly ground black pepper and a Bernaise sauce.",
+  "authors": [
+    "Rayna Jordan"
+  ],
+  "date_published": "2018-03-21T12:21:36-04:00",
+  "date_modified": "2026-06-24T09:54:42-04:00",
+  "prep_time": "PT60M",
+  "cook_time": "PT10M",
+  "total_time": "PT70M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (8 ounce) fillets beef tenderloin filet, 1 1/2 inch thick",
+    "2 tablespoons vegetable oil",
+    "freshly ground black pepper to taste",
+    "2 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Rub the beef with the vegetable oil and season with freshly ground black pepper. Let the beef rest at room temperature for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large, heavy skillet over medium-high heat. Quickly sear the meat about 5 seconds on each side, then remove from skillet. Melt and brown the butter in the skillet. Return the meat to the skillet, and fry 4 to 5 minutes on each side. The outside of the meat should be browned and crisp. Remove from the skillet and let stand for about 5 minutes for the juices to settle.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "711 kcal",
+    "cholesterolContent": "219 mg",
+    "proteinContent": "62 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "207 mg",
+    "fatContent": "50 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "61"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DCDk9BcLvn8VZ4hjpIxTyzAJkjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2616654-87b8f23acbb84b1caa2964c00aa8e7c9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/26595/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
