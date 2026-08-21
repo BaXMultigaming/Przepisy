@@ -1,0 +1,73 @@
+{
+  "id": "160026",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/160026/chocolate-banana-latte-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/160026/chocolate-banana-latte-shake/",
+  "title": "Chocolate Banana Latte Shake",
+  "description": "A little love of chocolate, bananas, and leftover coffee make this a very nice treat.",
+  "authors": [
+    "molldoll"
+  ],
+  "date_published": "2020-06-18T23:34:20-04:00",
+  "date_modified": "2020-06-18T23:34:20-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup milk",
+    "0.5 cup cold coffee",
+    "1 banana",
+    "3 tablespoons vanilla ice cream",
+    "3 tablespoons chocolate syrup",
+    "2 cups crushed ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine the milk, coffee, banana, ice cream, chocolate syrup, and ice in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "186 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "56 mg",
+    "sugarContent": "27 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Oqqi2zlcEQthHlzG4FuST5j080I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3553910-fbc3e5570b1f4272ae0e7034344b8123.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/160026/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

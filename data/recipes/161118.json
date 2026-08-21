@@ -1,0 +1,89 @@
+{
+  "id": "161118",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/161118/basil-lime-sorbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/161118/basil-lime-sorbet/",
+  "title": "Lime Sorbet",
+  "description": "This lime sorbet is easy to make with simple syrup, lime juice, and fresh basil for a refreshing light dessert full of zesty flavor.",
+  "authors": [
+    "Mark Logan"
+  ],
+  "date_published": "2020-06-18T23:34:36-04:00",
+  "date_modified": "2026-08-21T16:53:16-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT155M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup sugar",
+    "1 cup water",
+    "0.75 cup fresh lime juice",
+    "20 fresh basil leaves, minced"
+  ],
+  "steps": [
+    {
+      "text": "Make a simple syrup by bringing sugar and water to a boil in a small saucepan. Allow to boil for 1 minute, then remove from the heat. Let cool for about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Purée cooled simple syrup, lime juice, and basil in a blender. Pour into a container, cover, and place into the freezer until completely frozen, about 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Break the frozen mixture into pieces and place back into the blender. Blend until smooth. Return to the container, cover, and store in the freezer until ready to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "51 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "58"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/D6OkTfbDTOM9l7wpw3J9HW7gSaI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Basil-Lime-Sorbet-2000-f10cf951e25e44c98012714423d4cc52.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/161118/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "155616",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/155616/fresh-guacamole/",
+  "requested_url": "https://www.allrecipes.com/recipe/155616/fresh-guacamole/",
+  "title": "Fresh Guacamole",
+  "description": "This guacamole recipe is fresh and zesty from avocado, Roma tomato, red onion, serrano chile, Worcestershire sauce, hot sauce, cilantro, and lime juice.",
+  "authors": [
+    "jamjar caterers"
+  ],
+  "date_published": "2019-04-02T02:49:50-04:00",
+  "date_modified": "2025-01-07T15:43:45-05:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 avocado - peeled, pitted, and diced",
+    "1 roma (plum) tomato, diced",
+    "0.5 red onion, diced",
+    "1 serrano chile pepper, seeded and minced",
+    "6 cilantro leaves, minced",
+    "1 teaspoon Worcestershire sauce",
+    "0.5 teaspoon kosher salt",
+    "0.5 teaspoon ground black pepper",
+    "0.5 teaspoon garlic powder",
+    "3 drops hot sauce",
+    "1 tablespoon fresh lime juice"
+  ],
+  "steps": [
+    {
+      "text": "Combine avocado, tomato, onion, serrano, cilantro, Worcestershire sauce, salt, black pepper, garlic powder, and hot sauce in a bowl; pour lime juice over top. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "187 kcal",
+    "carbohydrateContent": "15 g",
+    "fiberContent": "8 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "555 mg",
+    "sugarContent": "3 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "70"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eUcqguN4zzy7eHseadklNl29Eeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1010243-895409177e084528bcc7a136d28cf23c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/155616/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

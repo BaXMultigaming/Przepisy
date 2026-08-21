@@ -1,0 +1,89 @@
+{
+  "id": "155841",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/155841/open-faced-hot-roast-beef-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/155841/open-faced-hot-roast-beef-sandwich/",
+  "title": "Open-Faced Hot Roast Beef Sandwich",
+  "description": "Sauerkraut and barbeque sauce top roast beef on this quick and easy open face sandwich.",
+  "authors": [
+    "ebrunworth"
+  ],
+  "date_published": "2019-07-30T02:19:35-04:00",
+  "date_modified": "2019-07-30T02:19:35-04:00",
+  "prep_time": "PT4M",
+  "cook_time": "PT6M",
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 sandwiches"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups sauerkraut",
+    "1 tablespoon Dijon mustard",
+    "0.75 cup barbeque sauce",
+    "1 dash hot pepper sauce",
+    "4 slices whole wheat bread",
+    "2 cups sliced roast beef",
+    "4 slices shredded pepperjack cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven's broiler and set the oven rack about 6 inches from the heat source.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir the sauerkraut, mustard, barbeque sauce, and hot pepper sauce in a microwave safe bowl. Cook in the microwave on high until slightly bubbly and thickened, about 3 minutes. Meanwhile, place the bread onto a baking sheet, and top with the roast beef and sauerkraut sauce. Place a slice of cheese over each sandwich.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Broil in the preheated oven until the edges of the bread are slightly blackened, and the cheese is bubbly, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1769 mg",
+    "sugarContent": "15 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/39yhWGoFcRvH9eBs-tiwAW2ZVVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/206072-e7fd91c34184465087c45c0a041efdf6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/155841/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

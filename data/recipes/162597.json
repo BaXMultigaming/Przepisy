@@ -1,0 +1,93 @@
+{
+  "id": "162597",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/162597/deep-fried-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/162597/deep-fried-french-toast/",
+  "title": "Deep Fried French Toast",
+  "description": "When deep fried, French toast is crispy and golden brown on the outside, chewy on the inside.",
+  "authors": [
+    "xley5"
+  ],
+  "date_published": "2020-06-18T23:35:07-04:00",
+  "date_modified": "2026-06-16T14:47:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "8 pieces"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 eggs",
+    "5.5 teaspoons white sugar",
+    "0.25 teaspoon salt",
+    "2 cups milk",
+    "1 cup all-purpose flour",
+    "2 quarts vegetable oil for frying",
+    "8 thick slices (1-inch thick) French bread"
+  ],
+  "steps": [
+    {
+      "text": "Beat the eggs, sugar, and salt together in a mixing bowl. Whisk in the milk, followed by the flour; whisk until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Soak the bread slices in the egg mixture until the egg has penetrated through to the center of the bread. Wipe off the excess egg. Cook in the deep-fryer several pieces at a time to avoid overcrowding. Cook until golden brown on both sides and no longer soggy in the center, about 4 minutes. Drain the French toast on a paper towel-lined plate before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "895 kcal",
+    "carbohydrateContent": "75 g",
+    "cholesterolContent": "289 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "756 mg",
+    "sugarContent": "14 g",
+    "fatContent": "55 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uUR6TSb0M0ApmXDklW4hlvPwBsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5498753-deep-fried-french-toast-leenybass-4x3-1-0ae51c0b69c042b48f89cd963bfcdb28.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/162597/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

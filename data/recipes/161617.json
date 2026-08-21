@@ -1,0 +1,88 @@
+{
+  "id": "161617",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/161617/spiced-quinoa/",
+  "requested_url": "https://www.allrecipes.com/recipe/161617/spiced-quinoa/",
+  "title": "Spiced Quinoa",
+  "description": "This quinoa is flavored with aromatic Mediterranean and Indian spices for a quick and delicious side dish.",
+  "authors": [
+    "Cinderella"
+  ],
+  "date_published": "2018-06-08T09:50:37-04:00",
+  "date_modified": "2022-12-01T10:38:39-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "2 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 small onion, chopped",
+    "1 clove garlic, minced",
+    "1.5 cups chicken stock",
+    "0.75 cup quinoa",
+    "1.5 teaspoons curry powder",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon black pepper",
+    "0.5 teaspoon cumin",
+    "0.25 teaspoon cinnamon",
+    "1 (14 ounce) can garbanzo beans, drained and rinsed",
+    "0.5 cup toasted pine nuts",
+    "0.5 cup raisins, soaked in hot water and drained"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a saucepan over medium heat. Cook and stir onion and garlic in hot oil until onion is softened and translucent, about 5 minutes. Stir in stock, quinoa, curry powder, salt, pepper, cumin, and cinnamon; bring to a boil. Reduce heat to medium-low, cover, and simmer until quinoa is tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir beans, pine nuts, and raisins into cooked quinoa. Serve warm or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "440 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "851 mg",
+    "sugarContent": "14 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "418"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GWQkW2N0QtaoFUn1EtnJwjnAK4g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/197288-ab84e1248cb142d28ec7fa18818a2900.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/161617/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

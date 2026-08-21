@@ -1,0 +1,85 @@
+{
+  "id": "162040",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/162040/candied-cashew-and-pear-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/162040/candied-cashew-and-pear-salad/",
+  "title": "Candied Cashew and Pear Salad",
+  "description": "This easy and tasty salad is great for a meal or a side with a snappy and sweet taste.",
+  "authors": [
+    "Gloria Dempsey"
+  ],
+  "date_published": "2020-06-18T23:34:49-04:00",
+  "date_modified": "2022-02-25T18:25:58-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT90M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "2 tablespoons ground cinnamon",
+    "2.5 cups cashews",
+    "2 cups frozen raspberries, thawed",
+    "0.5 cup red wine vinegar",
+    "0.5 cup extra virgin olive oil",
+    "3 chopped hearts of romaine",
+    "1 (10 ounce) bag fresh baby spinach",
+    "3 pears, cored and diced",
+    "0.5 cup dried cherries",
+    "1 cup feta cheese"
+  ],
+  "steps": [
+    {
+      "text": "Line a baking sheet with aluminum foil. Place the sugar and cinnamon into a saucepan. Melt the sugar over medium heat without stirring. Add the cashews, and stir until well coated, then spread out onto the prepared baking sheet to cool to room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Puree the raspberries, vinegar, and olive oil until smooth; set aside. Toss together the romaine, spinach, pears, cherries, and feta cheese in a large bowl. Toss with half of the raspberry dressing, and sprinkle with candied cashews. Serve with remaining dressing on the side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "949 kcal",
+    "carbohydrateContent": "105 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "13 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "883 mg",
+    "sugarContent": "71 g",
+    "fatContent": "55 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zI2uiUx9bmcjRzgftxXqKHc0y6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/968367-a0e76c44f80347708d775b9bae8bf510.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/162040/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

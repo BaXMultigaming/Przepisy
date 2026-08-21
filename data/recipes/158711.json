@@ -1,0 +1,88 @@
+{
+  "id": "158711",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/158711/tarragon-turkey-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/158711/tarragon-turkey-soup/",
+  "title": "Tarragon-Turkey Soup",
+  "description": "This is a quick, yummy soup perfect for a cool evening.",
+  "authors": [
+    "smarti"
+  ],
+  "date_published": "2018-06-08T09:50:11-04:00",
+  "date_modified": "2025-02-26T15:59:29-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT45M",
+  "total_time": "PT70M",
+  "yield": [
+    "8",
+    "2 quarts"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 pound ground turkey",
+    "0.5 cup diced onion",
+    "0.25 cup diced green bell pepper",
+    "1 (48 fluid ounce) can chicken broth",
+    "2 tablespoons dried tarragon",
+    "3 carrots, peeled and thinly sliced",
+    "5 small red potatoes, diced with peel",
+    "salt and pepper to taste",
+    "0.75 cup quick-cooking barley"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large pot over medium-high heat. Add ground turkey; cook and stir until the turkey has crumbled and begun to brown, 3 to 4 minutes. Stir in the onion and green pepper, and continue cooking until the onion softens and turns translucent, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in the chicken broth, and add the tarragon, carrots, and red potatoes. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the potatoes soften, about 20 minutes, stirring occasionally. Season to taste with salt and pepper, then stir in barley. Continue simmering until the barley is tender, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "271 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "912 mg",
+    "sugarContent": "4 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UuLQB5eBXKV77dujdJzWyl79nPE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2428352-10764f0e393e4b2da6151fca81493d8f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/158711/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

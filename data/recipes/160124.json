@@ -1,0 +1,88 @@
+{
+  "id": "160124",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/160124/no-sugar-added-blueberry-and-banana-wheat-muffins/",
+  "requested_url": "https://www.allrecipes.com/recipe/160124/no-sugar-added-blueberry-and-banana-wheat-muffins/",
+  "title": "No-Sugar-Added Blueberry and Banana Wheat Muffins",
+  "description": "Bananas and blueberries provide the only sugar in this muffin recipe.",
+  "authors": [
+    "Speck"
+  ],
+  "date_published": "2019-04-03T23:45:45-04:00",
+  "date_modified": "2019-04-03T23:45:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT60M",
+  "yield": [
+    "18",
+    "18 muffins"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mashed bananas",
+    "1 egg",
+    "0.5 cup water",
+    "0.5 cup vegetable oil",
+    "2 cups wheat flour",
+    "1 teaspoon baking soda",
+    "2.25 teaspoons baking powder",
+    "1 cup fresh or frozen blueberries"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an oven to 350 degrees F (175 degrees C). Grease 18 muffin cups, or line with paper muffin liners.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix together mashed bananas, egg, water, and oil in a large bowl. Mix in flour, baking soda, and baking powder until mostly smooth (you will still see lumps from the banana, but that's okay!). Gently fold the blueberries into the batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until golden and the tops spring back when lightly pressed, about 15 minutes. Remove muffins from tins, and cool on a wire rack.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "125 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "119 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "106"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BBxEfJlZ3pLOSJvJuugtkVXKHSg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/419026-26619dbaf8b44ad0b5a4d26bbc9febfe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/160124/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

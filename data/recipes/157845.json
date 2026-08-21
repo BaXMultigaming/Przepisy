@@ -1,0 +1,76 @@
+{
+  "id": "157845",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/157845/poor-irish-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/157845/poor-irish-soup/",
+  "title": "Poor Irish Soup",
+  "description": "This basic and flexible soup is mostly chicken stock, a ham hock, cabbage, and potatoes.",
+  "authors": [
+    "SStephan"
+  ],
+  "date_published": "2018-06-08T09:50:00-04:00",
+  "date_modified": "2025-02-04T11:10:08-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "6 cups"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups chicken stock",
+    "1 ham hock",
+    "3 cups shredded cabbage",
+    "2 cups thinly sliced potatoes",
+    "1 teaspoon cream or milk",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine the stock, ham hock, and cabbage in a large stockpot; bring to a boil. Reduce heat to low; cover and cook until the potatoes are soft, about 30 minutes. Carefully separate the meat from the bone of the ham hock and dispose of the bone, adding the meat back to the soup. Stir in the cream; season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "728 mg",
+    "sugarContent": "3 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qhfXrpBewK97wD--qTykjRpkElY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5219202-79a616b75292468db663cbea916e77b0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/157845/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

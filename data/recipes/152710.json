@@ -1,0 +1,77 @@
+{
+  "id": "152710",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/152710/hodies-sloppy-joes/",
+  "requested_url": "https://www.allrecipes.com/recipe/152710/hodies-sloppy-joes/",
+  "title": "Hodie’s Sloppy Joes",
+  "description": "Ground beef and onions are simmered with tomato sauce, ketchup, brown sugar, and apple cider vinegar to make this vintage Sloppy Joes recipe.",
+  "authors": [
+    "MLUCAS3017"
+  ],
+  "date_published": "2020-03-05T00:05:25-05:00",
+  "date_modified": "2026-07-25T23:11:45-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "0.5 cup chopped onion",
+    "1 (8 ounce) can tomato sauce",
+    "0.33333334326744 cup ketchup",
+    "2 tablespoons brown sugar",
+    "1 tablespoon apple cider vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Place the ground beef and chopped onion in a skillet over medium heat; cook and stir until the beef is completely browned and the onions are translucent. Drain the fat from the skillet and return it to medium heat. Stir in the tomato sauce, ketchup, brown sugar, and vinegar. Reduce heat to medium low and simmer 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "398 mg",
+    "sugarContent": "10 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "131"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2ZJYwh9nN8XwiPCGz5ENj4jL4h0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/54091-febab2bcc20b4f6b81ebeb0a66aa57f7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/152710/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

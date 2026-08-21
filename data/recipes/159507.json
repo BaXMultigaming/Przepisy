@@ -1,0 +1,72 @@
+{
+  "id": "159507",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/159507/whole-egg-mayonnaise/",
+  "requested_url": "https://www.allrecipes.com/recipe/159507/whole-egg-mayonnaise/",
+  "title": "Whole Egg Mayonnaise",
+  "description": "This whole egg mayonnaise recipe uses whole eggs instead of just the yolks. The yolks act as an emulsifier, and the whites makes the mayo nice and fluffy.",
+  "authors": [
+    "Megan Karlowsky"
+  ],
+  "date_published": "2018-06-08T09:50:20-04:00",
+  "date_modified": "2026-01-22T20:08:24-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large eggs",
+    "2 tablespoons white vinegar",
+    "0.5 teaspoon dry mustard powder",
+    "0.25 teaspoon salt",
+    "2 cups vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine eggs, vinegar, mustard powder, and salt in the bowl of a food processor; pulse until blended. Pour oil in very slowly, with the processor running, until mayonnaise is smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "23 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "45 mg",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "426"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/spApAdZTkaD4fgOd6TSflm8iV8k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9136839-whole-egg-mayonnaise-renrichter-4x3-1-9b9900ff18b14a1baef13a2a9fc5edde.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/159507/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

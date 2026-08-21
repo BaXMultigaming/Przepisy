@@ -1,0 +1,88 @@
+{
+  "id": "154361",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/154361/chihuahua-style-salsa-verde/",
+  "requested_url": "https://www.allrecipes.com/recipe/154361/chihuahua-style-salsa-verde/",
+  "title": "Chihuahua-Style Salsa Verde",
+  "description": "The recipe for this versatile green sauce comes from Chihuahua, Mexico and can be used to add flavor to burgers, tamales, or really anything you like.",
+  "authors": [
+    "Becca798"
+  ],
+  "date_published": "2020-02-01T02:50:56-05:00",
+  "date_modified": "2025-02-21T12:02:15-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "40",
+    "5 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 tomatillos, husked and chopped",
+    "1 (7 ounce) can chopped jalapenos, drained",
+    "0.5 head lettuce, chopped",
+    "2 cloves garlic, chopped",
+    "0.33333334326744 cup dried cilantro",
+    "3 tablespoons ground cumin",
+    "salt and pepper to taste",
+    "2 tablespoons butter",
+    "0.25 onion, chopped",
+    "0.25 cup chicken broth"
+  ],
+  "steps": [
+    {
+      "text": "Combine the tomatillos, jalapenos, lettuce, garlic, cilantro, cumin, salt, and pepper in a blender or food processor; process until chopped to desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in a saucepan over medium heat; cook the onions in the melted butter until clarified, about 5 minutes. Pour the tomatillo mixture and the chicken broth into the sauce pan; cook, stirring occasionally, until the salsa begins to thicken, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "14 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "88 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2LYFMN76vz569I3ZXBJw0SSnmB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/686016-65c498ded5374feb8a875a2f4a0c837b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/154361/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

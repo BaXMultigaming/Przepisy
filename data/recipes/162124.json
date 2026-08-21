@@ -1,0 +1,72 @@
+{
+  "id": "162124",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/162124/messy-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/162124/messy-burgers/",
+  "title": "Messy Burgers",
+  "description": "I got this recipe from an employee at a Bingo Hall. They are quick, easy, inexpensive, and delish!",
+  "authors": [
+    "Dakotaz"
+  ],
+  "date_published": "2011-12-15T15:38:28-05:00",
+  "date_modified": "2022-01-14T11:58:55-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 burgers"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds ground chuck",
+    "0.5 teaspoon garlic pepper, or to taste",
+    "0.25 cup diced onion",
+    "2 tablespoons butter",
+    "4 slices American cheese",
+    "4 hamburger buns, split"
+  ],
+  "steps": [
+    {
+      "text": "Place the ground chuck into a skillet over medium-high heat. Cook, stirring to crumble, until no longer pink. Drain the grease from the skillet and reduce the heat to medium-low. Add the onion and butter and season with garlic pepper. Cook, stirring frequently, until the onion is tender. Lay the slices of cheese on top of the meat. As the cheese starts to melt, fold the meat from the edges onto the cheese, keeping some of the meat under the cheese. Keep folding the meat until the cheese has completely melted and everything is well blended. Spoon onto hamburger buns to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "541 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "119 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "810 mg",
+    "sugarContent": "1 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/c_-QkDTfH0R_1iSQJF-DRTgNmwI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/973740-8e9f96f7a3a64ee5abeafe0f9f0e3124.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/162124/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

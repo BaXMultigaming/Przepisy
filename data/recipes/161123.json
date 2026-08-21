@@ -1,0 +1,86 @@
+{
+  "id": "161123",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/161123/fresh-panko/",
+  "requested_url": "https://www.allrecipes.com/recipe/161123/fresh-panko/",
+  "title": "Fresh Panko",
+  "description": "Why buy panko when you can make it at home?",
+  "authors": [
+    "Jess"
+  ],
+  "date_published": "2011-12-15T15:38:12-05:00",
+  "date_modified": "2026-06-02T12:34:55-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "20",
+    "20 servings"
+  ],
+  "categories": [
+    "Ingredient"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 loaf white bread, torn"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an oven to 300 degrees F (150 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Push torn pieces of bread through the shredding disk of a food processor to make coarse crumbs. Spread the crumbs on a baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until crumbs are dry but not toasted, 6 to 8 minutes. Shake the sheet twice during baking in order to evenly dry crumbs. Remove from the oven and cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "60 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "155 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oxnjMWxRFAnuQVEkGB7Xz1Fhvdw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/161123-fresh-panko-VAT-Beauty-4x3-17947f4a7c9947e18bdcfbe1c7084c65.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/161123/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

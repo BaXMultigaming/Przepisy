@@ -1,0 +1,104 @@
+{
+  "id": "157193",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/157193/roasted-yams/",
+  "requested_url": "https://www.allrecipes.com/recipe/157193/roasted-yams/",
+  "title": "Roasted Yams",
+  "description": "Sliced yams are baked in a hot oven until deliciously tender and crispy for a tasty vegetable side dish that takes minutes to prepare.",
+  "authors": [
+    "Sara"
+  ],
+  "date_published": "2019-11-12T00:39:12-05:00",
+  "date_modified": "2026-01-04T12:33:50-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 large yam, peeled and cut into 1/4 inch thick slices",
+    "kosher salt and ground black pepper to taste",
+    "2 tablespoons olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet or shallow baking dish with aluminum foil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange yam slices in the prepared pan so they are overlapping slightly. Season with salt and pepper and then drizzle olive oil over them as evenly as possible.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mrmhW9ncpgwxPFXzLbBGZhgvaBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/157193-roasted-yams-ddmfs-Step-1-de0922b5db2a492d9bf5e252e7d7d2e5.jpg"
+      ],
+      "image": "assets/images/157193/step_02.webp"
+    },
+    {
+      "text": "Bake in the preheated oven until tender and yam slices have begun to wrinkle around the edges, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7sBJ48lScvmDK1dnJVFIqGe866E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/157193-roasted-yams-ddmfs-Beauty-3x4-79823143a1494eed952ed4e835b2868d.jpg"
+      ],
+      "image": "assets/images/157193/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "388 kcal",
+    "carbohydrateContent": "63 g",
+    "fiberContent": "10 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "981 mg",
+    "sugarContent": "1 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "119"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jkpvQz3k-K3AjnAEN.mp4",
+    "description": "Here's an easy Thanksgiving side dish that works for holidays and more! ",
+    "duration": "PT7M36S",
+    "name": "Roasted Yams ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jkpvQz3k/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T22:39:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7sBJ48lScvmDK1dnJVFIqGe866E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/157193-roasted-yams-ddmfs-Beauty-3x4-79823143a1494eed952ed4e835b2868d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/157193/hero.webp",
+    "steps": [
+      null,
+      "assets/images/157193/step_02.webp",
+      "assets/images/157193/step_03.webp"
+    ]
+  }
+}

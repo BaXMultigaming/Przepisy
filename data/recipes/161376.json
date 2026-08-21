@@ -1,0 +1,70 @@
+{
+  "id": "161376",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/161376/strawberry-milkshake-supreme/",
+  "requested_url": "https://www.allrecipes.com/recipe/161376/strawberry-milkshake-supreme/",
+  "title": "Strawberry Milkshake Supreme",
+  "description": "Make this old-fashioned milkshake with vanilla ice cream, fresh strawberries, and milk for a refreshingly delicious way to cool down!",
+  "authors": [
+    "newlindsey"
+  ],
+  "date_published": "2020-06-18T23:34:39-04:00",
+  "date_modified": "2022-06-24T12:47:01-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup milk",
+    "7 strawberries, hulled and sliced",
+    "0.25 cup vanilla ice cream",
+    "0.25 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In the container of a blender, combine milk, strawberries, ice cream, and sugar. Blend until smooth, about 10 seconds. Pour into a glass and drink with a wide straw.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "52 mg",
+    "sugarContent": "64 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2F7lmvwDdL6JHr_KPG1HuqR0go0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8259140-9c7bb42700ee459b875485900cc44642.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/161376/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

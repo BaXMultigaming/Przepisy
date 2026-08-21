@@ -1,0 +1,71 @@
+{
+  "id": "161345",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/161345/strawberry-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/161345/strawberry-banana-smoothie/",
+  "title": "Strawberry Banana Smoothie",
+  "description": "In addition to the fruit, this smoothie also has vanilla yogurt, wheat germ, and honey for the best strawberry banana smoothie recipe.",
+  "authors": [
+    "Tommy H"
+  ],
+  "date_published": "2020-06-18T23:34:37-04:00",
+  "date_modified": "2022-06-23T21:50:03-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "3 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups vanilla yogurt",
+    "2 bananas, cut up",
+    "0.5 cup frozen strawberries",
+    "2 tablespoons wheat germ",
+    "1 tablespoon honey"
+  ],
+  "steps": [
+    {
+      "text": "Combine yogurt, bananas, strawberries, wheat germ, and honey in a blender; blend until smooth, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "332 kcal",
+    "carbohydrateContent": "68 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "125 mg",
+    "sugarContent": "50 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "66"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mcrLHhF5enNuR8zbqvIQKmJCDyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/833430-86c7cccc36814c61aa758825ec28cc1a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/161345/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

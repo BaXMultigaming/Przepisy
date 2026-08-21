@@ -1,0 +1,72 @@
+{
+  "id": "161744",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/161744/secret-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/161744/secret-salad-dressing/",
+  "title": "&#39;Secret&#39; Salad Dressing",
+  "description": "My mom has made this dressing forever. It&#39;s been a family favorite right next to homemade ranch dressing.",
+  "authors": [
+    "ChefJoe"
+  ],
+  "date_published": "2020-06-18T23:34:44-04:00",
+  "date_modified": "2022-01-14T02:17:00-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup ketchup",
+    "1 cup vegetable oil",
+    "0.25 cup mayonnaise",
+    "0.25 cup white vinegar",
+    "0.25 cup white sugar",
+    "0.25 cup diced onion",
+    "1 teaspoon salt",
+    "0.25 teaspoon pepper"
+  ],
+  "steps": [
+    {
+      "text": "Combine the ketchup, vegetable oil, mayonnaise, vinegar, sugar, onion, salt, and pepper in a blender; blend until smooth. Store in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "167 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "249 mg",
+    "sugarContent": "5 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4dmHyRanc3vwIejEGm4naJw110A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/752861-e793c6dae3994db4b32cf26b272bac33.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/161744/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

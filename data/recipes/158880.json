@@ -1,0 +1,82 @@
+{
+  "id": "158880",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/158880/jalapeno-chicken-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/158880/jalapeno-chicken-dip/",
+  "title": "Jalapeño Chicken Dip",
+  "description": "This jalapeño chicken dip is so easy. Everyone will be asking you for the recipe. You can make it as spicy or mild as you want.",
+  "authors": [
+    "Alona"
+  ],
+  "date_published": "2020-01-02T19:50:23-05:00",
+  "date_modified": "2026-08-14T17:52:54-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "15"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (10 ounce) can chunk white chicken in water, thoroughly drained",
+    "1 pinch seasoned salt",
+    "2 (8 ounce) packages cream cheese, softened",
+    "1 (10.5 ounce) can condensed cream of chicken soup",
+    "3 tablespoons chopped jalapeno"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken and seasoned salt in a large skillet over medium-low heat; heat through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine cream cheese and condensed soup in a microwave-safe bowl; cover and heat for 1 minute in the microwave. Add chicken mixture and continue to heat at 1-minute intervals until the liquid bubbles. Stir in jalapeños and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "46 mg",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "331 mg",
+    "sugarContent": "0 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4ojK65A6H0ixNXmejpLESRGdD_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7625767-f81f074c77c949c386c2d23753a965da.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/158880/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

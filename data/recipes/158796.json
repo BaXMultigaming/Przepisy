@@ -1,0 +1,101 @@
+{
+  "id": "158796",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/158796/elvis-cookies/",
+  "requested_url": "https://www.allrecipes.com/recipe/158796/elvis-cookies/",
+  "title": "Elvis Cookies",
+  "description": "These peanut butter and banana cookies are fit for the king.",
+  "authors": [
+    "Spontaneous Chefs"
+  ],
+  "date_published": "2020-06-18T23:33:53-04:00",
+  "date_modified": "2021-06-03T13:18:15-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "24",
+    "24 cookies"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup butter, softened",
+    "2 cups brown sugar",
+    "1 cup white sugar",
+    "1.5 cups peanut butter",
+    "2 teaspoons vanilla extract",
+    "3 ripe bananas",
+    "2.5 cups all-purpose flour",
+    "0.5 teaspoon baking powder"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir together the butter, brown sugar, white sugar, peanut butter, and vanilla in a bowl. Mash the bananas into the mixture until there are few lumps. Sift together the flour and baking powder in a separate bowl; add to the banana mixture and stir until thoroughly incorporated. Drop rounded tablespoons of mixture onto the prepared baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until lightly brown and firm, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NGsf4mrrcw1eIHYMqPxt3AOH7L8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-606-e23c70161a4145c6bb914c46c252d154.jpg"
+      ],
+      "image": "assets/images/158796/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "326 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "144 mg",
+    "sugarContent": "30 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "69"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/pukoh2I2-K3AjnAEN.mp4",
+    "description": "This Elvis Cookie recipe is a dessert that's fit for a king! Creamy peanut butter and banana mix perfectly to create a melt in your mouth dessert that you'll want to make time and time again.",
+    "duration": "PT46S",
+    "name": "How to Make Elvis Cookies",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/pukoh2I2/poster.jpg?width=1280",
+    "uploadDate": "2022-07-13T14:41:17-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NGsf4mrrcw1eIHYMqPxt3AOH7L8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-606-e23c70161a4145c6bb914c46c252d154.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/158796/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/158796/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "161440",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/161440/greek-orzo-with-feta/",
+  "requested_url": "https://www.allrecipes.com/recipe/161440/greek-orzo-with-feta/",
+  "title": "Greek Orzo with Feta",
+  "description": "This tasty Greek-style pasta dish is flavored with feta, tomatoes, bell pepper, and kalamata olives.",
+  "authors": [
+    "lauryn"
+  ],
+  "date_published": "2019-07-10T03:00:49-04:00",
+  "date_modified": "2019-07-10T03:00:49-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT10M",
+  "total_time": "PT100M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Greek Inspired"
+  ],
+  "regions": [
+    "Greek Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "0.5 cup fresh lemon juice",
+    "0.5 cup pitted kalamata olives, chopped",
+    "2 ripe tomatoes, seeded and diced",
+    "1 red bell pepper, chopped",
+    "1 red onion, chopped",
+    "2 cloves garlic, minced",
+    "1 teaspoon finely chopped fresh oregano",
+    "1 (8 ounce) package crumbled feta cheese",
+    "0.5 pound dried orzo pasta",
+    "1 cup chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Stir together olive oil, lemon juice, olives, tomatoes, red pepper, red onion, garlic, oregano, and feta cheese in a large bowl. Let stand at room temperature for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add the orzo and cook for 8 to 10 minutes or until al dente; drain and toss the tomato mixture. Sprinkle with chopped parsley to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "381 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "618 mg",
+    "sugarContent": "7 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "63"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fZaW61d4qpkjf_eBq-QXtnrS1CM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/147660-3da9acd215424bcd9b57955b9ee1716c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/161440/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

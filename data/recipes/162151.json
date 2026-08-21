@@ -1,0 +1,79 @@
+{
+  "id": "162151",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/162151/fresh-papaya-jam/",
+  "requested_url": "https://www.allrecipes.com/recipe/162151/fresh-papaya-jam/",
+  "title": "Fresh Papaya Jam",
+  "description": "I have a tree in my backyard and needed to get the large papayas used up. So here is a delicious jam recipe.",
+  "authors": [
+    "Angel"
+  ],
+  "date_published": "2020-06-18T23:34:52-04:00",
+  "date_modified": "2026-05-31T15:48:22-04:00",
+  "prep_time": "PT45M",
+  "cook_time": "PT20M",
+  "total_time": "PT305M",
+  "yield": [
+    "64",
+    "4 pint jars"
+  ],
+  "categories": [
+    "Jam / Jelly"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups mashed ripe papaya",
+    "0.25 cup orange juice",
+    "1.3333333730698 (1.75 ounce) packages dry pectin",
+    "5 cups white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Stir together papaya, orange juice, and pectin in a very large pot over medium-high heat until it begins to boil. Stir constantly as the mixture heats. Once boiling, stir in the sugar, and return to a boil, stirring constantly. Once the jam has returned to a boil, start a timer, and boil for exactly 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Ladle the hot jam into the hot, sterilized canning jars and seal with lids and rings. Allow to cool to room temperature, and refrigerate any jars that do not seal.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "65 kcal",
+    "carbohydrateContent": "17 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "0 mg",
+    "sugarContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mtRp2YCcofHqFdZIF_sMckxDJH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fresh-Papaya-Jam-2000-bd740181c46a4071a627079c8bf5c7fa.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/162151/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
