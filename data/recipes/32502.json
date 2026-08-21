@@ -1,0 +1,69 @@
+{
+  "id": "32502",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32502/lemonade-plus/",
+  "requested_url": "https://www.allrecipes.com/recipe/32502/lemonade-plus/",
+  "title": "Lemonade Plus",
+  "description": "This uses lemonade concentrate plus real fruit - lemons, limes, oranges, and grapefruit. It is soooo good.",
+  "authors": [
+    "Kary Munson"
+  ],
+  "date_published": "2018-03-21T12:22:58-04:00",
+  "date_modified": "2022-07-14T17:31:35-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "15"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (12 fluid ounce) cans frozen lemonade concentrate",
+    "1 lemon, sliced",
+    "1 lime, sliced",
+    "1 grapefruit, sliced",
+    "1 orange, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Into a gallon pitcher, empty both cans of lemonade concentrate. Place the sliced lemon, lime, grapefruit and orange in the pitcher. Stir in water until pitcher is full. Chill in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "122 kcal",
+    "carbohydrateContent": "32 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "29 g",
+    "fatContent": "0 g",
+    "servingSize": "15 (8 ounce) servings",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KpSqwGo-zYBoOp9fMO52n_E-1DU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242800-355760ac2d994a57a8e2060bd7078e9b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32502/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

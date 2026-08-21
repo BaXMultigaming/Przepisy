@@ -1,0 +1,84 @@
+{
+  "id": "35798",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/35798/southern-bbq-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/35798/southern-bbq-sauce/",
+  "title": "Southern BBQ Sauce",
+  "description": "This southern barbecue sauce recipe is made with apple cider vinegar, ketchup, and spices. It can be brushed on during cooking or used as a marinade.",
+  "authors": [
+    "Diane"
+  ],
+  "date_published": "2018-03-21T12:23:38-04:00",
+  "date_modified": "2024-04-15T13:50:44-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "175",
+    "6 quarts"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.25 gallons apple cider vinegar",
+    "1 (28 ounce) bottle ketchup",
+    "5.5 ounces chili pepper flakes",
+    "4 ounces cayenne pepper",
+    "3 ounces ground paprika",
+    "2 ounces ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Mix together apple cider vinegar and ketchup in a large, clean tub until well combined. Add chili flakes, cayenne pepper, paprika, and black pepper; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Store in airtight containers. This does not need to be cooked.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "17 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "52 mg",
+    "sugarContent": "1 g",
+    "fatContent": "0 g",
+    "servingSize": "1 1/2 gallons",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/z6jsGq6BJPZcWnyw1clgWmyBGuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3895855-263c83ba2c8b47a78fb9e754c53c4acf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/35798/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

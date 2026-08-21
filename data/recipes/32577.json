@@ -1,0 +1,73 @@
+{
+  "id": "32577",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32577/golden-wedding-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/32577/golden-wedding-punch/",
+  "title": "Golden Wedding Punch",
+  "description": "A citrus and pineapple juice punch. This is decidedly different from your usual punch.",
+  "authors": [
+    "SMATTERCHU"
+  ],
+  "date_published": "2020-06-18T23:07:20-04:00",
+  "date_modified": "2026-06-02T12:21:01-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "40",
+    "40 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 fluid ounce) can frozen orange juice concentrate",
+    "1 (46 fluid ounce) can sweetened pineapple juice",
+    "1.75 cups lemon juice",
+    "2 cups white sugar",
+    "1 gallon water"
+  ],
+  "steps": [
+    {
+      "text": "In a 2 gallon punch bowl, combine orange juice concentrate, pineapple juice, lemon juice and sugar. Stir in water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "76 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qv4qZehCgg7LDWbrzR2hLaM8pcE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/38968-18b8d5995c2f45e7a16076e63897ceed.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32577/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

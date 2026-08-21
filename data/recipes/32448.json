@@ -1,0 +1,103 @@
+{
+  "id": "32448",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32448/orange-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/32448/orange-banana-smoothie/",
+  "title": "Orange Banana Smoothie",
+  "description": "This orange and banana smoothie with fat-free vanilla yogurt is a delightful way to start the day. It&#39;s filling enough to have for breakfast!",
+  "authors": [
+    "Allrecipes Member"
+  ],
+  "date_published": "2020-06-18T23:07:19-04:00",
+  "date_modified": "2024-01-31T13:47:48-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup cold milk",
+    "0.5 cup vanilla fat-free yogurt",
+    "0.25 cup sugar",
+    "1 pinch salt",
+    "2 medium oranges, peeled and segmented",
+    "1 medium banana",
+    "4 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mGRGfRFOeXKfR9ybR4gLbOAvg2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-32448-orange-banana-smoothie-step1-ddmfs-3x4-13622-85b5f1c93c674cf18540008d88b1b287.jpg"
+      ],
+      "image": "assets/images/32448/step_01.webp"
+    },
+    {
+      "text": "Combine milk, yogurt, sugar, and salt in a blender. Add oranges and banana and blend for about 1 minute. Add ice and blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/25MZsP3inMDP_No2HxFKO-LSgsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-32448-orange-banana-smoothie-step4-ddmfs-3x4-13629-a763e8d9b22b45a3a4a71bcf06a222c6.jpg"
+      ],
+      "image": "assets/images/32448/step_02.webp"
+    },
+    {
+      "text": "Serve and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jb8cZOBiddq0wWd2FkTTakqyEwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-32448-orange-banana-smoothie-ddmfs-3x4-13659-02f05c86300e471dac660e330fb7def8.jpg"
+      ],
+      "image": "assets/images/32448/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "340 kcal",
+    "carbohydrateContent": "74 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "90 mg",
+    "sugarContent": "63 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "76"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jb8cZOBiddq0wWd2FkTTakqyEwA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-32448-orange-banana-smoothie-ddmfs-3x4-13659-02f05c86300e471dac660e330fb7def8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32448/hero.webp",
+    "steps": [
+      "assets/images/32448/step_01.webp",
+      "assets/images/32448/step_02.webp",
+      "assets/images/32448/step_03.webp"
+    ]
+  }
+}

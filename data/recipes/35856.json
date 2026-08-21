@@ -1,0 +1,92 @@
+{
+  "id": "35856",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/35856/stovies/",
+  "requested_url": "https://www.allrecipes.com/recipe/35856/stovies/",
+  "title": "Stovies",
+  "description": "A Scottish dish of potatoes cooked with onions and corned beef. It&#39;s a whole meal in itself; simple and easy to make!",
+  "authors": [
+    "Kookie"
+  ],
+  "date_published": "2018-06-08T09:18:03-04:00",
+  "date_modified": "2024-11-27T15:14:58-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Scottish"
+  ],
+  "regions": [
+    "Scottish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large baking potatoes, peeled and cubed",
+    "1 cup milk",
+    "1 tablespoon butter",
+    "1 large onion, roughly chopped",
+    "1 (12 ounce) can corned beef, cut into chunks",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, combine potatoes and milk. Bring to a boil, reduce heat, and simmer until potatoes are tender, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While potatoes are simmering, melt butter in a skillet over medium high heat. Saute onions until soft and translucent.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When potatoes are soft, mix in sauteed onions and corned beef. Cook an additional 10 minutes, or until heated through. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "707 kcal",
+    "carbohydrateContent": "103 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "13 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "925 mg",
+    "sugarContent": "9 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jHiAg8TaIEa9CnW4kGD9kQJlF94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4580465-stovies-Jody-4x3-1-d59d9f87b3ad45d380bace81988bd318.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/35856/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "33129",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/33129/corned-beef-hash/",
+  "requested_url": "https://www.allrecipes.com/recipe/33129/corned-beef-hash/",
+  "title": "Corned Beef Hash",
+  "description": "This corned beef hash with potatoes is prepared in one skillet with leftover or canned corned beef for a quick and filling breakfast with eggs.",
+  "authors": [
+    "Jodi McRobb"
+  ],
+  "date_published": "2019-04-02T02:44:06-04:00",
+  "date_modified": "2025-11-05T12:20:58-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "English",
+    "British"
+  ],
+  "regions": [
+    "English",
+    "British"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large potatoes, peeled and diced",
+    "1 (12 ounce) can corned beef, cut into chunks",
+    "1 medium onion, chopped",
+    "1 cup beef broth"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/yFeXNUgqqdcERDwNQdFkhv8KzEs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-33129-corned-beef-hash-VAT-step-01-dc5020b34a7e456787eda3971a0f9f05.jpg"
+      ],
+      "image": "assets/images/33129/step_01.webp"
+    },
+    {
+      "text": "Combine potatoes, corned beef, onion, and broth in a large, deep skillet over medium heat. Cover and simmer until potatoes are soft enough to mash and liquid is almost gone.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BfH5Sdt0U7TKK8iAIFdKPmIh8V4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-33129-corned-beef-hash-VAT-step-02-1lidcovering-ad81a32d820242ffa35ad2f8ed8e3a8b.jpg"
+      ],
+      "image": "assets/images/33129/step_02.webp"
+    },
+    {
+      "text": "Mix well and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ep9bIvKCRR1NYN4E9H4qznCF6qE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-33129-corned-beef-hash-VAT-step-03-2noegg-e394299aaecf47b48ac6fce1afabf4dc.jpg"
+      ],
+      "image": "assets/images/33129/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "434 kcal",
+    "carbohydrateContent": "66 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "718 mg",
+    "sugarContent": "4 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "242"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/C7BeYE0D-ma1DlVvV.mp4",
+    "description": "AR0801",
+    "duration": "PT3M1S",
+    "name": "Corned Beef Hash",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/C7BeYE0D/thumbnails/6IDzv6Eh.jpg?width=1280",
+    "uploadDate": "2021-07-14T16:43:58-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ep9bIvKCRR1NYN4E9H4qznCF6qE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-33129-corned-beef-hash-VAT-step-03-2noegg-e394299aaecf47b48ac6fce1afabf4dc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/33129/hero.webp",
+    "steps": [
+      "assets/images/33129/step_01.webp",
+      "assets/images/33129/step_02.webp",
+      "assets/images/33129/step_03.webp"
+    ]
+  }
+}

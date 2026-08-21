@@ -1,0 +1,88 @@
+{
+  "id": "34911",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/34911/fried-rice-with-cilantro/",
+  "requested_url": "https://www.allrecipes.com/recipe/34911/fried-rice-with-cilantro/",
+  "title": "Fried Rice with Cilantro",
+  "description": "This cilantro fried rice recipe combines either chicken, pork, bacon, or seafood, like calamari and prawns, and adds in green onion and cilantro.",
+  "authors": [
+    "Mitch"
+  ],
+  "date_published": "2020-06-18T23:07:30-04:00",
+  "date_modified": "2022-07-14T17:54:35-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian"
+  ],
+  "regions": [
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons vegetable oil",
+    "5 cloves garlic, finely chopped",
+    "2 green chilies, diced",
+    "2 cups cubed skinless, boneless chicken breast meat",
+    "2 cups cooked jasmine rice, chilled",
+    "1 tablespoon white sugar",
+    "1 tablespoon fish sauce",
+    "1 tablespoon soy sauce",
+    "2 teaspoons chopped green onion",
+    "2 tablespoons chopped fresh basil leaves",
+    "5 tablespoons chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a wok or large skillet, over medium-high heat. Fry garlic until golden then add chile pepper and chicken meat, and stir-fry until cooked through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "When chicken is cooked, add rice, sugar, fish sauce, and soy sauce. Cook over medium heat, stirring gently. When mixture is well blended, stir in green onions, basil, and cilantro. Cook for 1 more minute, then serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "634 kcal",
+    "carbohydrateContent": "84 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "562 mg",
+    "sugarContent": "5 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "326"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IfRfzuxV7L81Zzrfb2yNJaW9Viw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3826137-ae5302f783b24c8fbdd43464314148fe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/34911/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

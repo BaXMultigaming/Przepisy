@@ -1,0 +1,71 @@
+{
+  "id": "32351",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32351/orange-slush/",
+  "requested_url": "https://www.allrecipes.com/recipe/32351/orange-slush/",
+  "title": "Orange Slush",
+  "description": "A yummy drink concocted of orange juice, milk and ice. Lightly sweetened and flavored with vanilla, it&#39;s like being at the mall without the crowds!",
+  "authors": [
+    "Christine Kewinsky"
+  ],
+  "date_published": "2020-06-18T23:07:18-04:00",
+  "date_modified": "2022-08-22T14:33:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "1.5 cups milk",
+    "0.5 cup sugar",
+    "1 teaspoon vanilla extract",
+    "10 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine orange juice concentrate, milk, sugar, vanilla and ice cubes. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "461 kcal",
+    "carbohydrateContent": "100 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "82 mg",
+    "sugarContent": "99 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3sTRXI2ikczqKEhduJZriEDyVc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9117221-8fa6c103d5254b398190445ca9d216fe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32351/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "35300",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/35300/belgian-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/35300/belgian-salad/",
+  "title": "Belgian Salad",
+  "description": "A refreshingly sweet side dish of baby peas, white corn, green beans, and pimentos, all tossed together with a simple sweet and sour vinaigrette. Using all canned vegetables, this is a snap to prepare and has wonderful flavor after marinating overnight.",
+  "authors": [
+    "Lisa Hazlett Johnson"
+  ],
+  "date_published": "2020-06-18T23:07:32-04:00",
+  "date_modified": "2024-12-04T01:13:16-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT500M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup vegetable oil",
+    "0.5 cup white vinegar",
+    "1 cup white sugar",
+    "1 (15 ounce) can green beans, drained",
+    "1 (15 ounce) can baby peas",
+    "1 (15 ounce) can white corn, drained",
+    "1 (2 ounce) jar pimentos, drained",
+    "1 cup chopped celery",
+    "1 cup chopped onion",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan over medium-high heat, bring oil, vinegar, and sugar to a boil. Reduce to a simmer, and stir until sugar is completely dissolved. Refrigerate 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, mix together the green beans, peas, corn, pimentos, celery, and onion. Pour in dressing, and toss to coat. Cover and refrigerate 8 hours, or overnight. Season with salt and pepper, and serve chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "240 kcal",
+    "carbohydrateContent": "34 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "299 mg",
+    "sugarContent": "23 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1qCi3GJ426yAmL60IS2KpfKBHU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/966453-6dbc8af43feb4600970d7a60104480f2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/35300/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

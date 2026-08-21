@@ -1,0 +1,72 @@
+{
+  "id": "32447",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32447/orange-snowman/",
+  "requested_url": "https://www.allrecipes.com/recipe/32447/orange-snowman/",
+  "title": "Orange Snowman",
+  "description": "This is one drink my kids love! It&#39;s orange and slushy and wonderful!",
+  "authors": [
+    "Judy"
+  ],
+  "date_published": "2020-06-18T23:07:19-04:00",
+  "date_modified": "2022-08-22T14:39:51-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "0.5 cup milk",
+    "0.5 cup water",
+    "0.5 cup sugar",
+    "0.5 teaspoon vanilla extract",
+    "14 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine orange juice concentrate, milk, water, sugar, vanilla and ice. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "198 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "46 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kFTljSKoXSmeE8VKZWbg-enPRKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/98526-31f73ff1ce724e24a2bd71794128e3db.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32447/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

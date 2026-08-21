@@ -1,0 +1,64 @@
+{
+  "id": "32469",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32469/lem-tea-whammy/",
+  "requested_url": "https://www.allrecipes.com/recipe/32469/lem-tea-whammy/",
+  "title": "Lem-Tea Whammy",
+  "description": "A bracing mixture of lemonade and iced tea.",
+  "authors": [
+    "Sarah Jefferson"
+  ],
+  "date_published": "2020-06-18T23:07:19-04:00",
+  "date_modified": "2022-07-14T15:55:53-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups lemonade",
+    "4 cups cold tea",
+    "2 tablespoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In large pitcher, stir together lemonade and tea. Stir in sugar until dissolved. Chill in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "76 kcal",
+    "carbohydrateContent": "19 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nlRx5L99U6BM59qjHb4eqIxpmHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8119436-8ceb2eea3b7c41668a706cd5e2eff8bc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32469/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

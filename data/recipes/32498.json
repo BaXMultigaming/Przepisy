@@ -1,0 +1,71 @@
+{
+  "id": "32498",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32498/honey-limeade/",
+  "requested_url": "https://www.allrecipes.com/recipe/32498/honey-limeade/",
+  "title": "Honey Limeade",
+  "description": "A refreshing drink on a hot day. Lime juice and water, sweetened with sugar and honey.",
+  "authors": [
+    "Nicole and Stephie"
+  ],
+  "date_published": "2020-06-18T23:07:20-04:00",
+  "date_modified": "2026-06-29T00:53:41-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup lime juice",
+    "5 cups water",
+    "0.66666698455811 cup white sugar",
+    "2 tablespoons honey"
+  ],
+  "steps": [
+    {
+      "text": "In a pitcher, combine lime juice, water, sugar and honey. Stir until sugar is dissolved. Chill in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "31 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "130"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Dta4YIr1SljG9txSZdjCBejmqxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/955959-6801b85bda78442683fa3203751e1545.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32498/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "35995",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/35995/classic-hollandaise-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/35995/classic-hollandaise-sauce/",
+  "title": "Classic Hollandaise Sauce",
+  "description": "The classic Hollandaise Sauce, good for most green veggies, fish, steak, roast beef, Eggs Benedict, and more!!!",
+  "authors": [
+    "Stoddard Whitridge"
+  ],
+  "date_published": "2020-06-18T23:07:35-04:00",
+  "date_modified": "2023-08-31T18:00:06-04:00",
+  "prep_time": "PT2M",
+  "cook_time": "PT8M",
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 egg yolks",
+    "0.5 lemon, juiced",
+    "1 teaspoon cold water",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "0.5 cup butter"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, whisk together egg yolks, lemon juice, cold water, salt and pepper. Melt butter in a saucepan over low heat. Gradually whisk yolk mixture into butter. Continue whisking over low heat for 8 minutes, or until sauce is thickened. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "165 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "143 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "501 mg",
+    "sugarContent": "0 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.2",
+    "ratingCount": "178"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QyxpY922q0Gqjv8BjmtfpZsRKjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/30551-564fcb013b17469692e13ade2ae17ae2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/35995/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

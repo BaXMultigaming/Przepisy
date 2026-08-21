@@ -1,0 +1,67 @@
+{
+  "id": "32416",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32416/orange-cooler/",
+  "requested_url": "https://www.allrecipes.com/recipe/32416/orange-cooler/",
+  "title": "Orange Cooler",
+  "description": "A simple recipe that is cool and refreshing! A zesty combination of orange juice and lemon juice.",
+  "authors": [
+    "Trish"
+  ],
+  "date_published": "2020-06-18T23:07:18-04:00",
+  "date_modified": "2022-08-08T10:45:12-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "1 cup fresh lemon juice",
+    "1 cup sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a half-gallon pitcher, combine orange juice concentrate, lemon juice and sugar. Stir in enough water to make 1/2 gallon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "50 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "48 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/C0xAFjYJkAjNuVi0l0WkWZNdcP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/870657-0f65c4cfc23b4c5dbc83a0317d967fac.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32416/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

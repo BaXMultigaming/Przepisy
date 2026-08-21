@@ -1,0 +1,83 @@
+{
+  "id": "33190",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/33190/breakfast-rounds/",
+  "requested_url": "https://www.allrecipes.com/recipe/33190/breakfast-rounds/",
+  "title": "Breakfast Rounds",
+  "description": "Toasted English muffins are spread with a layer of peanut butter, then topped with sliced apple and drizzled with a sweet cinnamon glaze.",
+  "authors": [
+    "ROCKY99"
+  ],
+  "date_published": "2020-03-04T23:57:06-05:00",
+  "date_modified": "2022-07-14T17:15:07-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT3M",
+  "total_time": "PT13M",
+  "yield": [
+    "8",
+    "8 breakfast rounds"
+  ],
+  "categories": [
+    "Breakfast",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup peanut butter",
+    "4 English muffins, split and toasted",
+    "1 red apple, cored and sliced",
+    "0.25 cup packed brown sugar",
+    "2 tablespoons margarine",
+    "0.25 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Spread 1 tablespoon of peanut butter onto each English muffin half. Top each one with a few apple slices. In the microwave, melt together the brown sugar, margarine and cinnamon, stirring frequently until smooth. Drizzle the cinnamon mixture over apple slices. Mmmmmm...",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2kNg5IeLxs0VOgCHrrzY-teqoRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5696637-14ecb4205fb644ccbbbb16418defb539.jpg"
+      ],
+      "image": "assets/images/33190/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "204 mg",
+    "sugarContent": "10 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "177"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/66Q0euV1-K3AjnAEN.mp4",
+    "description": "Simple toasted English muffins with apples, peanut butter, and cinnamon glaze.",
+    "duration": "PT1M24S",
+    "name": "Breakfast Rounds",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/66Q0euV1/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:28:37-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2kNg5IeLxs0VOgCHrrzY-teqoRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5696637-14ecb4205fb644ccbbbb16418defb539.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/33190/hero.webp",
+    "steps": [
+      "assets/images/33190/step_01.webp"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "32630",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32630/banana-flip/",
+  "requested_url": "https://www.allrecipes.com/recipe/32630/banana-flip/",
+  "title": "Banana Flip",
+  "description": "A marvelous mouth-watering chocolate-banana milkshake!",
+  "authors": [
+    "May and Siv"
+  ],
+  "date_published": "2020-06-18T23:07:21-04:00",
+  "date_modified": "2022-08-22T14:44:25-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1.75 cups milk",
+    "3 tablespoons powdered chocolate drink mix",
+    "2 tablespoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine banana, milk, chocolate drink mix and sugar. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "238 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "104 mg",
+    "sugarContent": "36 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TOrYt-BV4sK5Jxun9fE-enE8mgY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9041052-0504086bb173436e8885992f191efeae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32630/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

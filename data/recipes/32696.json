@@ -1,0 +1,73 @@
+{
+  "id": "32696",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32696/party-punch-v/",
+  "requested_url": "https://www.allrecipes.com/recipe/32696/party-punch-v/",
+  "title": "Party Punch V",
+  "description": "Pineapple juice, orange juice and ginger ale. This is fast and easy and good!",
+  "authors": [
+    "Cheryl Hrynciw"
+  ],
+  "date_published": "2019-04-03T23:29:15-04:00",
+  "date_modified": "2026-05-15T11:21:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "24"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 fluid ounce) can frozen orange juice concentrate",
+    "3 cups water",
+    "1 (46 fluid ounce) can pineapple juice",
+    "1 liter ginger ale"
+  ],
+  "steps": [
+    {
+      "text": "In a punch bowl, combine orange juice, water and pineapple juice; chill. Stir in ginger ale just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "67 kcal",
+    "carbohydrateContent": "16 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "14 g",
+    "fatContent": "0 g",
+    "servingSize": "24 (4 ounce) servings",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kqPgKhvC9GNCM8XQ0Dj3oKLmSF8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/29560-82824c9494d84d1fb593ba62d815f48c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32696/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

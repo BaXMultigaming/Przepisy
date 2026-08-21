@@ -1,0 +1,87 @@
+{
+  "id": "38030",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/38030/sweet-and-sour-red-cabbage/",
+  "requested_url": "https://www.allrecipes.com/recipe/38030/sweet-and-sour-red-cabbage/",
+  "title": "Sweet and Sour Red Cabbage",
+  "description": "Sweet and sour red cabbage flavored with brown sugar, butter, vinegar, and caraway seeds makes a colorful side dish with roast pork.",
+  "authors": [
+    "LAURA NASON"
+  ],
+  "date_published": "2020-03-04T23:57:18-05:00",
+  "date_modified": "2026-08-20T23:25:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Swedish",
+    "German"
+  ],
+  "regions": [
+    "Swedish",
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 medium head red cabbage, shredded",
+    "1 quart water",
+    "salt to taste",
+    "0.5 cup brown sugar",
+    "1 tablespoon caraway seeds",
+    "0.5 cup vinegar",
+    "0.25 cup butter"
+  ],
+  "steps": [
+    {
+      "text": "Place cabbage in a medium saucepan. Add water and salt and bring to a boil. Stir in brown sugar and caraway seeds; cook until cabbage is tender, about 12 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss cabbage with vinegar and butter in a medium bowl until thoroughly coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "264 mg",
+    "sugarContent": "23 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6DxePp1UYKXkuYu_l1yolbZ690Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8568542-a7f07b0ea28b40089c7d2bee86f608a5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/38030/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

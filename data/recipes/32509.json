@@ -1,0 +1,71 @@
+{
+  "id": "32509",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32509/easy-strawberry-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/32509/easy-strawberry-lemonade/",
+  "title": "Easy Strawberry Lemonade",
+  "description": "This easy, three-ingredient strawberry lemonade recipe is made with lemonade concentrate, water, and frozen strawberries for a quick, refreshing drink.",
+  "authors": [
+    "Sony"
+  ],
+  "date_published": "2020-06-18T23:07:20-04:00",
+  "date_modified": "2026-06-16T10:00:18-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4.5 cups water",
+    "1 (12 fluid ounce) can frozen lemonade concentrate, thawed",
+    "1 (10 ounce) package frozen strawberries, partially thawed"
+  ],
+  "steps": [
+    {
+      "text": "Combine water and lemonade concentrate in a large pitcher; stir in strawberries.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "89 kcal",
+    "carbohydrateContent": "23 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "21 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "133"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/u-NuFzY1oAS6g0Jcpw_aGzTdE0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3725812-e43d20549ced421393fb30d47b0d2f58.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32509/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

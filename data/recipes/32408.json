@@ -1,0 +1,68 @@
+{
+  "id": "32408",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32408/citrus-blueberry-slush/",
+  "requested_url": "https://www.allrecipes.com/recipe/32408/citrus-blueberry-slush/",
+  "title": "Citrus Blueberry Slush",
+  "description": "This recipe is super easy to make. Frozen orange juice and fresh blueberries are blended with ice to create a refreshing slush.",
+  "authors": [
+    "Wendy"
+  ],
+  "date_published": "2019-04-03T23:29:13-04:00",
+  "date_modified": "2022-07-14T18:14:03-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "6 fluid ounces water",
+    "1 cup fresh blueberries",
+    "4 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine orange juice concentrate, water, blueberries and ice cubes. Blend until slushy. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "105 kcal",
+    "carbohydrateContent": "26 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "24 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IalYW4RE4a_ogpDSJZy1rSMZL6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/450526-8faff4d4bf854465a8a8b42c2f0b565e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32408/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

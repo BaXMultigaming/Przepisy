@@ -1,0 +1,80 @@
+{
+  "id": "32333",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32333/mock-champagne/",
+  "requested_url": "https://www.allrecipes.com/recipe/32333/mock-champagne/",
+  "title": "Mock Champagne",
+  "description": "A good baby-shower punch made with ginger ale, pineapple juice and white grape juice. It looks especially good when served with an ice ring.",
+  "authors": [
+    "Heather"
+  ],
+  "date_published": "2018-03-21T12:22:54-04:00",
+  "date_modified": "2026-05-08T09:31:14-04:00",
+  "prep_time": "PT1455M",
+  "cook_time": null,
+  "total_time": "PT1455M",
+  "yield": [
+    "40"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (2 liter) bottles ginger ale, chilled",
+    "1 (46 fluid ounce) can pineapple juice, chilled",
+    "1 (64 fluid ounce) bottle white grape juice, chilled"
+  ],
+  "steps": [
+    {
+      "text": "To make Ice ring: Fill a ring-shaped cake pan to 1/2 with ginger ale. Freeze until partially frozen. At this stage you can place edible flowers, or pieces of fruit around the ring. Fill pan with ginger ale and freeze until solid. Place in punch bowl just before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large punch bowl, combine 1 bottle ginger ale, pineapple juice and white grape juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "19 g",
+    "fatContent": "0 g",
+    "servingSize": "40 (4 ounce) servings",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "228"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yL4XDdP9jVDu2RGtBnC1zq7MoOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14248-3c85e7962c734271829240d38f6005c7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32333/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

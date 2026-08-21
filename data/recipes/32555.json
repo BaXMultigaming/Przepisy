@@ -1,0 +1,82 @@
+{
+  "id": "32555",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32555/hot-spiced-cranberry-cider/",
+  "requested_url": "https://www.allrecipes.com/recipe/32555/hot-spiced-cranberry-cider/",
+  "title": "Hot Spiced Cranberry Cider",
+  "description": "Make some memories with the aromas of cinnamon, clove, and lemon mingled with hot apple-cranberry cider. If desired, float a fresh lemon slice in each cup.",
+  "authors": [
+    "Michele O'Sullivan"
+  ],
+  "date_published": "2020-03-04T23:57:04-05:00",
+  "date_modified": "2026-06-04T13:22:01-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "25",
+    "25 4-ounce servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts apple cider",
+    "6 cups cranberry juice",
+    "1 lemon, thinly sliced",
+    "0.25 cup packed brown sugar",
+    "4 cinnamon sticks",
+    "1.5 teaspoons whole cloves"
+  ],
+  "steps": [
+    {
+      "text": "Combine apple cider, cranberry juice, lemon slices, brown sugar, cinnamon sticks, and cloves in a large pot; bring to a boil. Reduce heat and simmer for 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Use a slotted spoon to remove lemon slices, cinnamon, and cloves. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "79 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "18 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "206"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7nf6WOVX44pp46vW5gUFqfLr4RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/515253-dea3bdcff9724e7b8f73664685b0a419.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32555/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

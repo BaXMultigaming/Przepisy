@@ -1,0 +1,74 @@
+{
+  "id": "32450",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32450/melon-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/32450/melon-smoothie/",
+  "title": "Melon Smoothie",
+  "description": "Cantaloupe and honeydew melon is blended with lime juice and sugar. This one is great when melons are in season.",
+  "authors": [
+    "Penny"
+  ],
+  "date_published": "2020-06-18T23:07:19-04:00",
+  "date_modified": "2026-06-23T12:09:52-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cantaloupe - peeled, seeded and cubed",
+    "0.25 honeydew melon - peeled, seeded and cubed",
+    "1 lime, juiced",
+    "2 tablespoons sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine cantaloupe, honeydew, lime juice and sugar. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "70 kcal",
+    "carbohydrateContent": "18 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "20 mg",
+    "sugarContent": "16 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fYxUu453NnTl5dAZlweMmvFPLrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14238-3677ab96cf16492b8e21311e73edd729.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32450/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "32620",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32620/mango-lassi-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/32620/mango-lassi-ii/",
+  "title": "Mango Lassi",
+  "description": "This creamy, smooth mango lassi is made with yogurt and mango and is absolutely heavenly.",
+  "authors": [
+    "YONNA"
+  ],
+  "date_published": "2020-06-18T23:07:21-04:00",
+  "date_modified": "2026-05-13T10:23:03-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Indian Inspired"
+  ],
+  "regions": [
+    "Indian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 mangos - peeled, seeded and diced",
+    "2 cups plain yogurt",
+    "0.5 cup white sugar",
+    "1 cup ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine mangos, yogurt, sugar, and ice in a blender; blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/a36ZXPxlxacHn30D93IXac8T8FQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/199894-b47ce4439d664e229ed6db8e099b242f.jpg"
+      ],
+      "image": "assets/images/32620/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "482 kcal",
+    "carbohydrateContent": "102 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "176 mg",
+    "sugarContent": "98 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "283"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/kFgLi2fn-K3AjnAEN.mp4",
+    "description": "Mango lassi - the famous Indian yogurt drink that is smooth, creamy, and absolutely heavenly!",
+    "duration": "PT46S",
+    "name": "Mango Lassi II",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kFgLi2fn/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:25:06-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/a36ZXPxlxacHn30D93IXac8T8FQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/199894-b47ce4439d664e229ed6db8e099b242f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32620/hero.webp",
+    "steps": [
+      "assets/images/32620/step_01.webp"
+    ]
+  }
+}

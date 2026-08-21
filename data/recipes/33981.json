@@ -1,0 +1,79 @@
+{
+  "id": "33981",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/33981/lemon-almond-tea/",
+  "requested_url": "https://www.allrecipes.com/recipe/33981/lemon-almond-tea/",
+  "title": "Lemon Almond Tea",
+  "description": "A refreshing iced tea to serve on hot summer days. Tea is flavored with lemon, almond and vanilla, then mixed with lemon-lime soda.",
+  "authors": [
+    "Shelley"
+  ],
+  "date_published": "2020-06-18T23:07:25-04:00",
+  "date_modified": "2022-07-14T16:25:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 family size black tea bags",
+    "4 cups boiling water",
+    "2 lemons, thinly sliced",
+    "1 cup sugar",
+    "1 tablespoon almond extract",
+    "2 teaspoons vanilla extract",
+    "1 (2 liter) bottle lemon-lime flavored carbonated beverage, chilled"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, brew tea bags in hot water for 15 minutes. While waiting for tea to brew, squeeze the lemon slices as you put them into a large pitcher. Pour in sugar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour brewed tea into the pitcher with the sugar and lemons. You can let this sit in refrigerator for up to 1 day, or use it right away. When ready to serve, stir in almond extract, vanilla extract and lemon lime soda.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "143 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "20 mg",
+    "sugarContent": "17 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-M_pW2VJUoleOrEnIkHJAL5Ngw8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/876507-068e7d23b9674bd88ab74d72caf20c49.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/33981/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "32479",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32479/georgia-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/32479/georgia-shake/",
+  "title": "Georgia Shake",
+  "description": "A chocolate peanut butter cup is blended with chocolate ice cream and milk.",
+  "authors": [
+    "Janice"
+  ],
+  "date_published": "2018-03-21T12:22:57-04:00",
+  "date_modified": "2022-08-04T10:07:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup milk",
+    "1 chocolate covered peanut butter cup, crumbled",
+    "0.75 cup chocolate ice cream"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine milk, peanut butter cup and ice cream. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "362 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "44 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "179 mg",
+    "sugarContent": "39 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EeChgB3J6xyLXhhKTeRGz8kBxSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/682862-1b7ddc90613a4274aa73a58d6bf72b98.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32479/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

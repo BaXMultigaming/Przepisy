@@ -1,0 +1,81 @@
+{
+  "id": "32680",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32680/chai-tea/",
+  "requested_url": "https://www.allrecipes.com/recipe/32680/chai-tea/",
+  "title": "Chai Tea",
+  "description": "This delightfully spiced tea uses cardamom, cinnamon and pepper for flavor.",
+  "authors": [
+    "MSucec"
+  ],
+  "date_published": "2020-06-18T23:07:22-04:00",
+  "date_modified": "2020-06-18T23:07:22-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Indian Inspired"
+  ],
+  "regions": [
+    "Indian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 quarts water",
+    "4 black tea bags",
+    "10 whole cardamom seeds",
+    "2 cinnamon stick, broken in half",
+    "1 teaspoon black peppercorns",
+    "3 tablespoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, bring water to a boil. Add the tea bags, cardamom seeds, cinnamon, and black pepper, then return to a boil. Immediately stir in sugar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove pot from heat and let stand for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "28 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "6 g",
+    "servingSize": "6 (8 ounce) servings",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Du3vgbDt9RO-9FjBeG1xTch1E34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/373137-f27b119809c44890ab57dd845aca182f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32680/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

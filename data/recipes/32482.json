@@ -1,0 +1,72 @@
+{
+  "id": "32482",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32482/chocolate-surprise-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/32482/chocolate-surprise-milkshake/",
+  "title": "Chocolate Surprise Milkshake",
+  "description": "This milkshake is fantabulous! Chocolate ice cream, chocolate syrup, chocolate drink mix, and chocolate chips are all whirled together with milk to produce a concoction so delicious that it is sure to make you tingle.",
+  "authors": [
+    "Melanie"
+  ],
+  "date_published": "2018-03-21T12:22:58-04:00",
+  "date_modified": "2022-07-14T17:24:49-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons milk",
+    "3 scoops chocolate ice cream",
+    "2 tablespoons chocolate syrup",
+    "5 tablespoons powdered chocolate drink mix",
+    "5 cubes ice",
+    "0.25 cup chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine milk, ice cream, chocolate syrup, chocolate drink mix, ice cubes, and chocolate chips. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "69 mg",
+    "sugarContent": "39 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3ryKJ-KmRnUv2EwvMbDl1NWOoN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/710487-602f5915666a435c96f686c8a5449c38.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32482/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

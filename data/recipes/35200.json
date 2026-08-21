@@ -1,0 +1,106 @@
+{
+  "id": "35200",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/35200/grilled-brown-sugar-pork-chops/",
+  "requested_url": "https://www.allrecipes.com/recipe/35200/grilled-brown-sugar-pork-chops/",
+  "title": "Grilled Brown Sugar Pork Chops",
+  "description": "Grilled pork chops are basted with a sauce made with apple juice, brown sugar, and ginger.",
+  "authors": [
+    "GINASTUBBS"
+  ],
+  "date_published": "2020-03-04T23:57:08-05:00",
+  "date_modified": "2026-08-17T12:45:04-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup brown sugar, firmly packed",
+    "0.5 cup apple juice",
+    "4 tablespoons vegetable oil",
+    "1 tablespoon soy sauce",
+    "0.5 teaspoon ground ginger",
+    "salt and pepper to taste",
+    "2 teaspoons cornstarch",
+    "0.5 cup water",
+    "6 boneless pork chops"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an outdoor grill for high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a small saucepan, combine brown sugar, apple juice, oil, soy sauce, ginger, salt , and pepper. Bring to boil. Combine water and cornstarch in small bowl, and whisk into brown sugar mixture. Stir until thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Brush grate lightly with oil before placing pork chops on the grill. Cook over hot coals for 10 to 12 minutes, turning once. Brush with sauce just before removing chops from grill. Serve with remaining sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kx4YvSmivBcs4FFAp275k40jdgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1036486-grilled-brown-sugar-pork-chops-aaronmclaron-1x1-1-0a7dcddc3fc34af19ab0aa45b9f2b800.jpg"
+      ],
+      "image": "assets/images/35200/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "179 mg",
+    "sugarContent": "20 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "977"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fzcaNbty-ma1DlVvV.mp4",
+    "description": "Learn how to grill boneless pork chops to juicy perfection. In addition to pork chops, we show you how to make a highly seasoned basting sauce from brown sugar, apple juice and ginger that adds sweetness and spice to our chops.",
+    "duration": "PT2M17S",
+    "name": "Grilled Brown Sugar Pork Chops",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fzcaNbty/poster.jpg?width=1280",
+    "uploadDate": "2021-07-06T02:06:53-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kx4YvSmivBcs4FFAp275k40jdgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1036486-grilled-brown-sugar-pork-chops-aaronmclaron-1x1-1-0a7dcddc3fc34af19ab0aa45b9f2b800.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/35200/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/35200/step_03.webp"
+    ]
+  }
+}

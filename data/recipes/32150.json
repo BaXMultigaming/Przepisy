@@ -1,0 +1,85 @@
+{
+  "id": "32150",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32150/lorraines-club-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/32150/lorraines-club-sandwich/",
+  "title": "Lorraine&#39;s Club Sandwich",
+  "description": "A triple-decked sandwich with bacon, turkey ham, lettuce and tomato.",
+  "authors": [
+    "LORRAINEWINKEL"
+  ],
+  "date_published": "2018-03-21T12:22:50-04:00",
+  "date_modified": "2026-04-16T12:49:57-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices bacon",
+    "3 slices bread, toasted",
+    "3 tablespoons mayonnaise",
+    "2 leaves lettuce",
+    "2 (1 ounce) slices cooked deli turkey breast",
+    "2 slices tomato"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a heavy skillet. Cook over medium high heat until evenly brown. Drain on paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread each slice of bread with mayonnaise. On one slice of toast, place the turkey and lettuce. Cover with a slice of toast, then the bacon and tomato. Top with last slice of toast.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "818 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "76 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "1874 mg",
+    "sugarContent": "6 g",
+    "fatContent": "62 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "114"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/C2EJrwjpoaRsNR6XulYh7AOI1pM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1004601-9e25b63e7b624db196f85891a8561f83.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32150/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

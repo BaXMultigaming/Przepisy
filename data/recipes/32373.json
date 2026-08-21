@@ -1,0 +1,68 @@
+{
+  "id": "32373",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32373/berry-surprise/",
+  "requested_url": "https://www.allrecipes.com/recipe/32373/berry-surprise/",
+  "title": "Berry Surprise",
+  "description": "A smoothie with limeade, pineapple, strawberries and raspberry.",
+  "authors": [
+    "Meagan"
+  ],
+  "date_published": "2018-03-21T12:22:55-04:00",
+  "date_modified": "2022-07-14T17:24:26-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup strawberries",
+    "1 cup pineapple chunks",
+    "0.5 cup raspberries",
+    "2 tablespoons frozen limeade concentrate, thawed"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine strawberries, pineapple chunks, raspberries and limeade. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "166 kcal",
+    "carbohydrateContent": "42 g",
+    "fiberContent": "5 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "36 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OLKDyOV-VJ6IIOcHzKb1eGETTPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/955928-065e42ccb3e646e887a608194358e277.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32373/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

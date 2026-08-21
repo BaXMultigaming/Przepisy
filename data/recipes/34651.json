@@ -1,0 +1,89 @@
+{
+  "id": "34651",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/34651/monkfish-provincial/",
+  "requested_url": "https://www.allrecipes.com/recipe/34651/monkfish-provincial/",
+  "title": "Monkfish Provincial",
+  "description": "Monkfish is lightly seasoned and cooked with mushrooms, tomatoes, and garlic. Serve over rice or pasta!",
+  "authors": [
+    "Paul Kandel"
+  ],
+  "date_published": "2018-06-08T09:17:54-04:00",
+  "date_modified": "2026-08-12T11:17:56-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "salt and pepper to taste",
+    "Cajun seasoning to taste",
+    "0.5 cup all-purpose flour",
+    "1.5 pounds monkfish fillets, roughly chopped",
+    "2 tablespoons olive oil",
+    "0.25 cup butter",
+    "3 cloves garlic, minced",
+    "1 large tomato, diced",
+    "1 (8 ounce) package sliced fresh mushrooms",
+    "0.25 cup dry white wine",
+    "1 tablespoon chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "In a resealable plastic bag, mix the salt, pepper, Cajun seasoning, and flour. Place the monkfish in the bag, seal, and shake to lightly coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the oil and melt the butter in a skillet over medium heat. Place the monkfish in the skillet, and cook for about 3 minutes. Mix in the garlic, tomato, and mushrooms, and continue cooking 3 minutes. Mix in the wine and parsley. Continue to cook and stir 2 minutes, or until the monkfish flakes easily with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "385 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "73 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "295 mg",
+    "sugarContent": "2 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "65"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/X07Nbe_RNEk3GbQNzJlG3pfssDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9200576-b87ca4564b53496b8c3e5e716192fd00.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/34651/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

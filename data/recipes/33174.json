@@ -1,0 +1,105 @@
+{
+  "id": "33174",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/33174/moms-breakfast-strata/",
+  "requested_url": "https://www.allrecipes.com/recipe/33174/moms-breakfast-strata/",
+  "title": "Mom&#39;s Breakfast Strata",
+  "description": "This savory bread pudding combines grated Cheddar cheese, cubed ham, mushrooms, green peppers, and onions for a great make-ahead breakfast treat.",
+  "authors": [
+    "Amy Schmelzer"
+  ],
+  "date_published": "2019-04-02T02:44:06-04:00",
+  "date_modified": "2023-09-28T17:06:06-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT50M",
+  "total_time": "PT790M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "9 slices bread, torn into bite size pieces",
+    "0.5 cup diced fresh mushrooms",
+    "0.5 cup chopped green bell pepper",
+    "16 ounces Cheddar cheese, shredded",
+    "0.5 cup chopped onion",
+    "2 cups cubed cooked ham",
+    "8 eggs",
+    "2 cups milk"
+  ],
+  "steps": [
+    {
+      "text": "Grease a 9x13 inch baking dish. Layer half of the torn bread in the bottom of the dish. Sprinkle the mushrooms and green bell pepper evenly over the bread layer. Sprinkle with half of the cheese. Top with remaining bread pieces, then layer with the onion and ham. Sprinkle with remaining cheese. Whisk together eggs and milk; pour over the entire pan. Cover with aluminum foil, and refrigerate for 12 to 24 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake covered for 35 minutes, then remove foil and bake for an additional 15 minutes, or until top is evenly brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/dsdFw8L-uFJj1fBPe67Vj7jdsMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6739530_moms-breakfast-strata_lutzflcat_4x3-cd5e8ca559334dce8245556936a69acf.jpg"
+      ],
+      "image": "assets/images/33174/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "496 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "269 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "1073 mg",
+    "sugarContent": "6 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "95"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/93WZ1d8O-ma1DlVvV.mp4",
+    "description": "A savory strata with ham, mushrooms, peppers, and melted Cheddar.",
+    "duration": "PT2M45S",
+    "name": "Mom's Breakfast Strata",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/93WZ1d8O/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T14:44:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dsdFw8L-uFJj1fBPe67Vj7jdsMA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6739530_moms-breakfast-strata_lutzflcat_4x3-cd5e8ca559334dce8245556936a69acf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/33174/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/33174/step_03.webp"
+    ]
+  }
+}

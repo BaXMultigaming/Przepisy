@@ -1,0 +1,79 @@
+{
+  "id": "32003",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32003/breaded-turkey-breasts/",
+  "requested_url": "https://www.allrecipes.com/recipe/32003/breaded-turkey-breasts/",
+  "title": "Breaded Turkey Breasts",
+  "description": "These pan-fried, breaded turkey cutlets are a quick dinner - ready in less than an hour. Strips of turkey breast are breaded in a mixture of bread crumbs, Parmesan cheese and Italian seasoning, then pan-fried in olive oil.",
+  "authors": [
+    "LINDYSUE"
+  ],
+  "date_published": "2018-03-21T12:22:47-04:00",
+  "date_modified": "2022-07-17T23:24:57-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup dry bread crumbs",
+    "0.25 cup grated Parmesan cheese",
+    "2 teaspoons Italian-style seasoning",
+    "1 cup milk",
+    "1 pound skinless, boneless turkey breast meat - cut into strips",
+    "0.25 cup olive oil"
+  ],
+  "steps": [
+    {
+      "text": "In shallow bowl, combine bread crumbs, Parmesan cheese and Italian-style seasoning. Pour milk into another shallow bowl. Dip turkey in milk, then in crumb mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium heat. Cook turkey for 8 to 10 minutes, flipping halfway through, or until golden brown and juices run clear.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "428 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "89 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "362 mg",
+    "sugarContent": "5 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "89"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EDufLW7Pq0JpJaH-3ln2H4fplck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8795593-8ad022b115d3408e8557967b5c6e72fd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32003/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

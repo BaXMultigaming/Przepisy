@@ -1,0 +1,85 @@
+{
+  "id": "38528",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/38528/tomatatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/38528/tomatatoes/",
+  "title": "Tomatatoes",
+  "description": "Delicious mashed potatoes with tomatillos for extra zing!",
+  "authors": [
+    "Steve"
+  ],
+  "date_published": "2020-02-01T02:50:25-05:00",
+  "date_modified": "2025-05-08T19:50:40-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 small red potatoes, scrubbed",
+    "1 clove garlic, peeled",
+    "4 tomatillos",
+    "0.25 cup butter",
+    "0.25 cup milk",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil. Add the potatoes and garlic. Boil the potatoes with the skin on until tender, about 15 minutes. Peel the paper skin off the tomatillos, and rinse them. Place them in with the potatoes during the last 5 minutes of boiling. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer potatoes and tomatillos to a large bowl. Add butter and milk, and mash with a potato masher. Adjust amount of milk and butter to achieve desired consistency. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "306 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "105 mg",
+    "sugarContent": "5 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/stDtlKem65ALNd6mwVqDfGBUqro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/590795-1e45f51466574b17b396fd1cd5baedd0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/38528/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

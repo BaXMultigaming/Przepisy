@@ -1,0 +1,104 @@
+{
+  "id": "36002",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/36002/bbq-steak/",
+  "requested_url": "https://www.allrecipes.com/recipe/36002/bbq-steak/",
+  "title": "BBQ Steak",
+  "description": "This BBQ steak is marinated with onion, garlic, olive oil, vinegar, soy sauce, mustard, and fresh rosemary. Great on many cuts, like tri-tip and flank.",
+  "authors": [
+    "SILAU"
+  ],
+  "date_published": "2018-06-08T09:18:04-04:00",
+  "date_modified": "2026-05-07T14:25:23-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT210M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 small onion, chopped",
+    "7 cloves garlic",
+    "0.5 cup olive oil",
+    "0.5 cup vinegar",
+    "0.5 cup soy sauce",
+    "2 tablespoons chopped fresh rosemary",
+    "2 tablespoons Dijon-style prepared mustard",
+    "2 teaspoons salt",
+    "1 teaspoon black pepper",
+    "1 (2 pound) tri-tip steak",
+    "oil for greasing"
+  ],
+  "steps": [
+    {
+      "text": "Place onion, garlic, olive oil, vinegar, soy sauce, rosemary, mustard, salt, and pepper into the bowl of a food processor. Process until marinade is smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place steak in a large resealable plastic bag. Pour marinade over steak; seal the bag and refrigerate for about 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the grill for high heat. Brush the grate with oil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove steak from marinade and place on the prepared grill grate; discard marinade. Cook on the preheated grill to desired doneness or about 7 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "442 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "74 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "2159 mg",
+    "sugarContent": "1 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "197"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vchcULffx5GODg8qNfkkQgBR8LY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/94934-b7ccffe3983c487981549328881d0132.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/36002/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "32274",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32274/cold-cocoa-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/32274/cold-cocoa-smoothie/",
+  "title": "Cold Cocoa Smoothie",
+  "description": "Hot cocoa that freezes your taste buds! A terrific snack for hot days, with a wintry twist. Ice cream is blended with instant cocoa mix, milk and crushed chocolate cookies.",
+  "authors": [
+    "Rach Force"
+  ],
+  "date_published": "2019-07-31T23:10:17-04:00",
+  "date_modified": "2022-07-14T17:42:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 scoops vanilla ice cream",
+    "1.5 cups milk",
+    "0.25 cup whipped cream",
+    "2 tablespoons instant hot chocolate mix",
+    "5 chocolate sandwich cookies, crushed"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine ice cream, milk, whipped cream, hot chocolate mix and crushed cookies. Blend until smooth. Pour into a large chilled glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "582 kcal",
+    "carbohydrateContent": "76 g",
+    "cholesterolContent": "55 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "517 mg",
+    "sugarContent": "56 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jXHLnOWXxzUPDlpEhOIylsI16Ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/432507-845a64920c1c46dba85beffcd4d5ca53.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32274/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

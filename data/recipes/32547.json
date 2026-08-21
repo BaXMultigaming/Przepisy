@@ -1,0 +1,70 @@
+{
+  "id": "32547",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32547/boston-iced-tea/",
+  "requested_url": "https://www.allrecipes.com/recipe/32547/boston-iced-tea/",
+  "title": "Boston Iced Tea",
+  "description": "A big pot of tea flavored with cranberry juice. Delicious and refreshing!",
+  "authors": [
+    "Dale Shanoskie"
+  ],
+  "date_published": "2020-06-18T23:07:20-04:00",
+  "date_modified": "2022-08-22T14:34:07-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "14",
+    "14 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "New England"
+  ],
+  "regions": [
+    "New England"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 gallon water",
+    "1 cup white sugar",
+    "15 tea bags",
+    "1 (12 fluid ounce) can frozen cranberry juice concentrate"
+  ],
+  "steps": [
+    {
+      "text": "Put water in large pot, and heat on high until boiling. Add sugar and stir until dissolved. Add teabags and let steep until desired strength is acquired. Stir in cranberry juice concentrate, and allow to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "0 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "158"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sY0gxltCKh4VNX53zVt--g7t1Ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/845934-598690e32de543df9f8e93becaf47622.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32547/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "32571",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32571/chocolate-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/32571/chocolate-banana-smoothie/",
+  "title": "Chocolate Banana Smoothie",
+  "description": "A quick, cool, tasty treat, perfect for a hot summer day!",
+  "authors": [
+    "Angie"
+  ],
+  "date_published": "2018-03-21T12:23:00-04:00",
+  "date_modified": "2022-08-29T19:10:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1 tablespoon chocolate syrup",
+    "1 cup milk",
+    "1 cup crushed ice"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine banana, chocolate syrup, milk and crushed ice. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "122 mg",
+    "sugarContent": "35 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "164"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vBpEnZ2Rb14nw4AOoXfjE5ihjbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chocolate-banana-smoothie-Tammy-Lynn-4x3-1-2000-ea19aa7018984afc9459a37fa61c4efb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32571/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

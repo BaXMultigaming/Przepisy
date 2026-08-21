@@ -1,0 +1,92 @@
+{
+  "id": "33472",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/33472/cajun-deviled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/33472/cajun-deviled-eggs/",
+  "title": "Cajun Deviled Eggs",
+  "description": "A little cayenne pepper transforms creamy Cajun deviled eggs into a spicy Cajun-style delight!",
+  "authors": [
+    "Denyse"
+  ],
+  "date_published": "2020-07-02T03:27:34-04:00",
+  "date_modified": "2025-02-06T13:32:01-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT40M",
+  "yield": [
+    "12",
+    "12 deviled eggs"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Cajun"
+  ],
+  "regions": [
+    "Cajun"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 eggs",
+    "2 tablespoons mayonnaise",
+    "1 teaspoon prepared Dijon-style mustard",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "0.25 teaspoon ground cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs in a medium saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, and peel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slice eggs in half lengthwise. Remove yolks and place in a medium bowl; set aside egg whites. Use a fork to mash egg yolks with mayonnaise, Dijon-style mustard, salt, and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill hollowed egg white halves with yolk mixture. Sprinkle with cayenne pepper. Cover and chill in the refrigerator until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "53 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "94 mg",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "155 mg",
+    "sugarContent": "0 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "153"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aVrpZgM-0zfe-hvytX4FZ9Q6Lk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/33472cajun-deviled-eggsFranceC4x3-b7230cf00492408d8ae278066f51c734.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/33472/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

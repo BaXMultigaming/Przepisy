@@ -1,0 +1,72 @@
+{
+  "id": "37100",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/37100/a-potato-salad-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/37100/a-potato-salad-sandwich/",
+  "title": "A Potato Salad Sandwich",
+  "description": "A delicious portable lunch that you may not have thought of - potato salad on a bun! Garnish with tomato slices and lettuce, and presto, lunch!",
+  "authors": [
+    "Jenny"
+  ],
+  "date_published": "2018-03-21T12:24:13-04:00",
+  "date_modified": "2022-07-14T18:15:53-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 hamburger bun",
+    "1.5 tablespoons mayonnaise",
+    "2 leaves of lettuce",
+    "2 slices tomato",
+    "0.33333334326744 cup prepared potato salad"
+  ],
+  "steps": [
+    {
+      "text": "Open bun and spread each side with mayonnaise. Place lettuce leaves and tomato slices on bottom half of bun. Scoop potato salad onto tomato, and gently spread toward edges of bun. Cover with top of bun.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "379 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "637 mg",
+    "sugarContent": "8 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/M1mDXDWdweI28Ecl9vIWFlBM7y8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5246312-a79f46eb1ecd49f785e3b82e4f83e95c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/37100/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "32628",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32628/frozen-mudslide/",
+  "requested_url": "https://www.allrecipes.com/recipe/32628/frozen-mudslide/",
+  "title": "Frozen Mudslide",
+  "description": "This frozen mudslide recipe is a boozy frozen drink made with vodka, coffee liqueur, and Irish cream blended with ice and chocolate syrup.",
+  "authors": [
+    "Margaret"
+  ],
+  "date_published": "2019-07-31T23:10:18-04:00",
+  "date_modified": "2025-12-22T08:58:13-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups crushed ice",
+    "2 (1.5 fluid ounce) jiggers vodka",
+    "2 (1.5 fluid ounce) jiggers coffee flavored liqueur",
+    "2 (1.5 fluid ounce) jiggers Irish cream liqueur",
+    "2 tablespoons chocolate syrup",
+    "0.5 cup whipped cream"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UL41tzLVUe_PNJYPM0vJf86G_xY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32628-frozen-mudslide-Step-01-2853d72c8710464fb917f0d34d55ce75.jpg"
+      ],
+      "image": "assets/images/32628/step_01.webp"
+    },
+    {
+      "text": "Combine crushed ice, vodka, coffee liqueur, and Irish cream liqueur in a blender. Drizzle in chocolate syrup. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/a2zyViYICafSobj1CuivhQyEkiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32628-frozen-mudslide-Step-03-837918a66ac54d6f9f6c99dbaf39760d.jpg"
+      ],
+      "image": "assets/images/32628/step_02.webp"
+    },
+    {
+      "text": "Pour into glasses and garnish with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/xH_l0hOz5Gr8wI_pT-_lP7PiisI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32628-frozen-mudslide-Beauty-3x4-1-2e74792ec7b94fab85ae8f38916fbd2d.jpg"
+      ],
+      "image": "assets/images/32628/step_03.webp"
+    }
+  ],
+  "nutrition": null,
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "94"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/KfUdPbm4-K3AjnAEN.mp4",
+    "description": "Turn coffee liqueur, Irish cream, and vodka into an icy treat.",
+    "duration": "PT1M1S",
+    "name": "Frozen Mudslide",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/KfUdPbm4/thumbnails/FY32qs7b.jpg?width=1280",
+    "uploadDate": "2021-07-13T21:50:46-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xH_l0hOz5Gr8wI_pT-_lP7PiisI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32628-frozen-mudslide-Beauty-3x4-1-2e74792ec7b94fab85ae8f38916fbd2d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32628/hero.webp",
+    "steps": [
+      "assets/images/32628/step_01.webp",
+      "assets/images/32628/step_02.webp",
+      "assets/images/32628/step_03.webp"
+    ]
+  }
+}

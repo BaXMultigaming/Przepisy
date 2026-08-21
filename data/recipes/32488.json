@@ -1,0 +1,72 @@
+{
+  "id": "32488",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32488/fruit-smoothie-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/32488/fruit-smoothie-ii/",
+  "title": "Fruit Smoothie II",
+  "description": "A delicious fruit smoothie made with blueberries, apples, raspberries and grapes.",
+  "authors": [
+    "Mia"
+  ],
+  "date_published": "2020-06-18T23:07:20-04:00",
+  "date_modified": "2022-07-14T17:57:27-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup blueberries",
+    "2 apples - peeled, cored and chopped",
+    "1.5 cups raspberries",
+    "0.75 cup seedless grapes",
+    "3 tablespoons white sugar",
+    "1 tray ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine blueberries, apples, raspberries, grapes, sugar and ice. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "35 g",
+    "fiberContent": "6 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "27 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vxzbTAnQW5qrCivzSpu851POIjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/809279-c5bea434d5054a5eb0ab2d5810be1d5b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32488/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

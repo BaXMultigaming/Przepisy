@@ -1,0 +1,102 @@
+{
+  "id": "38004",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/38004/pizza-burgers-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/38004/pizza-burgers-i/",
+  "title": "Pizza Burgers",
+  "description": "This pizza burger recipe is so easy. Ground beef and pizza sauce are spooned onto buns, topped with mozzarella, and heated quickly in the microwave.",
+  "authors": [
+    "DAWNCIL"
+  ],
+  "date_published": "2019-04-02T02:44:21-04:00",
+  "date_modified": "2022-09-21T06:54:38-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 burgers"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 (14 ounce) can pizza sauce",
+    "4 hamburger buns, split, divided",
+    "4 slices mozzarella cheese"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large, deep skillet over medium-high heat. Cook and stir ground beef in the hot skillet until evenly browned and crumbly, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in pizza sauce and cook until heated through, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bun bottoms onto a microwave-safe plate. Spoon beef mixture onto each bun and place a mozzarella cheese slice over top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Microwave on high until cheese is melted, 15 to 20 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bun tops over melted cheese and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "593 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "114 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "1020 mg",
+    "sugarContent": "3 g",
+    "fatContent": "37 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9gs52rcRMru4-hLybLcDiEvc1dI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/467503-a45cce308e514e6484f4479e8f9708c9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/38004/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

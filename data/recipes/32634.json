@@ -1,0 +1,72 @@
+{
+  "id": "32634",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32634/banana-ice-cream-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/32634/banana-ice-cream-shake/",
+  "title": "Banana Ice Cream Shake",
+  "description": "A delightful blend of bananas and your favorite flavor of ice cream.",
+  "authors": [
+    "Michelle"
+  ],
+  "date_published": "2018-03-21T12:23:02-04:00",
+  "date_modified": "2022-07-14T17:24:33-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana, peeled and chopped",
+    "2 scoops vanilla ice cream",
+    "1 cup milk",
+    "2 egg white",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine banana, ice cream, milk, egg white and vanilla extract. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "89 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "62 mg",
+    "sugarContent": "9 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "49"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ilDBS3UBrxCn-eIYVllk41T_s2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3610087-958eb0b593434975926069ebf7717c36.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32634/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

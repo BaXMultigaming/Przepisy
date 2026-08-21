@@ -1,0 +1,89 @@
+{
+  "id": "32007",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32007/callys-omelet/",
+  "requested_url": "https://www.allrecipes.com/recipe/32007/callys-omelet/",
+  "title": "Cally&#39;s Omelet",
+  "description": "Steak and veggies are sauteed together in this delicious morning favorite made with egg substitute.",
+  "authors": [
+    "devin"
+  ],
+  "date_published": "2020-01-16T03:50:12-05:00",
+  "date_modified": "2022-07-14T18:00:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "0.5 green bell pepper, chopped",
+    "0.5 red bell pepper, chopped",
+    "0.5 Bermuda onion, sliced",
+    "7 baby portobello mushrooms, sliced",
+    "0.5 pound beef tip",
+    "0.5 cup egg substitute"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a medium saucepan over medium heat. Stir in green bell pepper, red bell pepper, onion and portobello mushrooms. Cook until tender, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir beef into the vegetable mixture, and cook until evenly brown, 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir egg beaters into the mixture, and cook 10 minutes, or until firm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "511 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "105 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "40 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "284 mg",
+    "sugarContent": "11 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tlW3sQAzLWWGmca5nk0ztpSmuzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/788183-7a9ea22006ed4102aad17449fbe67551.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32007/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "32483",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32483/chocolate-mint-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/32483/chocolate-mint-milkshake/",
+  "title": "Chocolate Mint Milkshake",
+  "description": "All you need is for this refreshing chocolate mint milkshake recipe is milk, vanilla ice cream, chocolate syrup, and a few drops of peppermint extract.",
+  "authors": [
+    "Amy"
+  ],
+  "date_published": "2018-03-21T12:22:58-04:00",
+  "date_modified": "2025-04-10T18:19:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert",
+    "Snack",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 scoops vanilla ice cream",
+    "0.25 cup milk",
+    "0.25 cup chocolate syrup",
+    "1 drop peppermint extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine ice cream, milk, chocolate syrup, and peppermint extract in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into 2 glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "74 mg",
+    "sugarContent": "29 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "110"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AT0PQoXK9VIY0ycCbBmzSGcuEgw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/401251-04770c3912624478bc1a8dc68cb070b6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32483/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

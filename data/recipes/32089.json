@@ -1,0 +1,100 @@
+{
+  "id": "32089",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32089/awesome-grilled-cheese-sandwiches/",
+  "requested_url": "https://www.allrecipes.com/recipe/32089/awesome-grilled-cheese-sandwiches/",
+  "title": "Awesome Grilled Cheese Sandwiches",
+  "description": "Making grilled cheese in the oven makes it easy to get a lot done at once. Set up several of these favorite sandwiches on a cookie sheet, and bake.",
+  "authors": [
+    "Michelle"
+  ],
+  "date_published": "2019-04-02T02:44:04-04:00",
+  "date_modified": "2026-04-15T11:44:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "9"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "18 slices bread",
+    "4 tablespoons butter, or as needed",
+    "9 slices Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 450 degrees F (230 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Butter one side of 9 slices of bread, and place butter-side down on a baking sheet. Arrange cheese on each slice of bread. Spread butter on 9 remaining slices of bread, and place them buttered-side up on top of the cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 6 to 8 minutes. Flip the sandwiches, and bake an additional 6 to 8 minutes, or until golden brown.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/-kmCJyexBLMQeA1SOnI-3-0Gpwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/973757-awesome-grilled-cheese-sandwiches-Jazzy-1x1-1-7d76300c0b894ee3ae4700bd1c4d2bdf.jpg"
+      ],
+      "image": "assets/images/32089/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "293 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "553 mg",
+    "sugarContent": "2 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "525"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/DELs4BAZ-ma1DlVvV.mp4",
+    "description": "AR0882",
+    "duration": "PT2M28S",
+    "name": "Awesome Grilled Cheese Sandwiches",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/DELs4BAZ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T11:06:42-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-kmCJyexBLMQeA1SOnI-3-0Gpwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/973757-awesome-grilled-cheese-sandwiches-Jazzy-1x1-1-7d76300c0b894ee3ae4700bd1c4d2bdf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32089/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/32089/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "34701",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/34701/tough-buck-barbecue/",
+  "requested_url": "https://www.allrecipes.com/recipe/34701/tough-buck-barbecue/",
+  "title": "Tough Buck Barbecue",
+  "description": "An oven barbecue solution for turning your tough wild meat tender and tasty. Great for ribs or roasts.",
+  "authors": [
+    "Jeff"
+  ],
+  "date_published": "2020-03-04T23:57:07-05:00",
+  "date_modified": "2025-04-06T16:54:25-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT240M",
+  "total_time": "PT255M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 pounds venison ribs",
+    "2 bay leaves",
+    "2 tablespoons butter",
+    "1 onion, chopped",
+    "1 stalk celery, chopped",
+    "2 cups water",
+    "2 cups ketchup",
+    "1 lemon, juiced",
+    "0.5 cup white vinegar",
+    "0.25 cup Worcestershire sauce",
+    "2 tablespoons brown sugar",
+    "2 tablespoons dark molasses",
+    "1 teaspoon chili powder",
+    "1 teaspoon black pepper",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add ribs and bay leaves, reduce heat, and simmer for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To prepare the barbecue sauce: While meat is simmering, heat butter in a large heavy skillet over medium high heat. Saute onion and celery until tender. Stir in water, ketchup, lemon juice, vinegar, Worcestershire sauce, brown sugar and molasses. Season with chili powder and black pepper. Reduce heat, and simmer for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven to 250 degrees F (120 degrees C). Drain meat, and arrange in a roasting pan. Sprinkle with salt, and cover with barbecue sauce. Roast in preheated oven for 2 hours, basting every 1/2 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "516 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "282 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "76 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "923 mg",
+    "sugarContent": "21 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gMKuWkIjU4Sru5XxdXnc8xLao4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/617808-6ff208487f584696b3c815cc89850246.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/34701/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

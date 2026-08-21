@@ -1,0 +1,78 @@
+{
+  "id": "32521",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/32521/iced-mochas/",
+  "requested_url": "https://www.allrecipes.com/recipe/32521/iced-mochas/",
+  "title": "Iced Mochas",
+  "description": "First, make some coffee ice cubes, then blend them together with milk and chocolate syrup for a frosty treat!",
+  "authors": [
+    "Wendy Cain"
+  ],
+  "date_published": "2020-06-18T23:07:20-04:00",
+  "date_modified": "2022-08-22T14:53:00-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT1445M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups cold coffee",
+    "2 cups milk",
+    "0.25 cup chocolate syrup",
+    "0.25 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Pour coffee into ice cube tray. Freeze until solid, or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a blender, combine coffee ice cubes, milk, chocolate syrup and sugar. Blend until smooth. Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "163 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "28 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "258"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Vr4dNPjIfHJxnwM0gTbyWD_4Gbc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/671919-a2a96d5518084306b3296af1a064eac3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/32521/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
