@@ -1,0 +1,92 @@
+{
+  "id": "47501",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/47501/grammys-calamari-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/47501/grammys-calamari-salad/",
+  "title": "Grammy&#39;s Calamari Salad",
+  "description": "This calamari salad recipe features sliced boiled squid tossed with lemon juice, garlic, parsley, and celery for a quick and easy dish.",
+  "authors": [
+    "Claire"
+  ],
+  "date_published": "2018-06-08T09:20:19-04:00",
+  "date_modified": "2024-12-19T15:22:57-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 lemons, juiced",
+    "6 cloves garlic, peeled and minced",
+    "1 sprig fresh parsley, chopped",
+    "salt and pepper to taste",
+    "3 pounds squid, cleaned and sliced into rounds",
+    "4 stalks celery, chopped",
+    "1 (2.25 ounce) can pitted black olives"
+  ],
+  "steps": [
+    {
+      "text": "Mix together lemon juice, garlic, and parsley in a medium bowl. Season with salt and pepper; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a medium pot of water to a boil. Stir in squid and cook until tender, about 3 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add boiled squid, celery, and olives to lemon juice mixture; stir to evenly combine. Cover and chill in the refrigerator until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "265 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "109 mg",
+    "sugarContent": "0 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0E_tpz0WjrKgu5kX1P_Ht_TMgV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/68546-be5ab8edae2544a5b02a538ac2a73121.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/47501/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

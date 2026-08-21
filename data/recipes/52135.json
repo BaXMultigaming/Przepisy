@@ -1,0 +1,70 @@
+{
+  "id": "52135",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52135/cucumber-favorites/",
+  "requested_url": "https://www.allrecipes.com/recipe/52135/cucumber-favorites/",
+  "title": "Cucumber Favorites",
+  "description": "These cucumber favorites are so easy, and a big favorite at our family get-togethers.",
+  "authors": [
+    "Jeannine Peck May"
+  ],
+  "date_published": "2018-03-21T12:30:02-04:00",
+  "date_modified": "2022-08-08T11:35:19-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "45",
+    "45 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (1 pound) loaf cocktail rye bread",
+    "0.5 cup mayonnaise",
+    "2 cucumbers, thinly sliced",
+    "1 teaspoon lemon pepper"
+  ],
+  "steps": [
+    {
+      "text": "Spread each slice of cocktail bread with mayonnaise. Place 2 or 3 slices of cucumber on each. Sprinkle with lemon pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "19 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "1 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "25 mg",
+    "sugarContent": "0 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2dhTwH28jPu067dQHnUOKcFO12w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/763608-90371dc127b64ef799d59602fa144621.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52135/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

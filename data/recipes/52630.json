@@ -1,0 +1,69 @@
+{
+  "id": "52630",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52630/bachelor-grilled-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/52630/bachelor-grilled-cheese/",
+  "title": "Bachelor Grilled Cheese",
+  "description": "Quick and easy grilled cheese for the man who doesn&#39;t need to impress anyone with his cooking abilities! A cunning approach for making grilled cheese without using the stove.",
+  "authors": [
+    "PMSprincess"
+  ],
+  "date_published": "2019-04-02T02:45:16-04:00",
+  "date_modified": "2022-01-14T11:59:25-05:00",
+  "prep_time": "PT2M",
+  "cook_time": null,
+  "total_time": "PT2M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices white bread",
+    "2 slices American cheese"
+  ],
+  "steps": [
+    {
+      "text": "Toast bread in a toaster until golden. Place slices of cheese between the two pieces of toast. Wrap sandwich in a paper towel, and heat in the microwave for 15 to 20 seconds, or until cheese is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "346 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "53 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1185 mg",
+    "sugarContent": "2 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "117"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WcGpIkwVt_C3KV79wZvuf4jgZ4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7207328-cea517d605e746efaeaacce60bdc8f93.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52630/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

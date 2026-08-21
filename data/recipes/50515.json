@@ -1,0 +1,70 @@
+{
+  "id": "50515",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50515/vanilla-milkshake-iii/",
+  "requested_url": "https://www.allrecipes.com/recipe/50515/vanilla-milkshake-iii/",
+  "title": "Vanilla Milkshake III",
+  "description": "A pure vanilla milkshake made by an eleven year old. Add a teaspoon of vanilla for more flavor.",
+  "authors": [
+    "Shannon"
+  ],
+  "date_published": "2018-03-21T12:29:21-04:00",
+  "date_modified": "2022-07-14T16:41:11-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "4 scoops vanilla ice cream",
+    "1 cube ice",
+    "0.25 cup whipped cream"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine milk, ice cream and ice. Blend until smooth. Pour into glasses and top with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "309 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "79 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "145 mg",
+    "sugarContent": "20 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/o_fHZygg9YWkKo60W0pnVmE26Nw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/65067-fcd6a9258dec47b8b2452a6d18ce90d2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50515/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

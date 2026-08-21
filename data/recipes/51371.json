@@ -1,0 +1,88 @@
+{
+  "id": "51371",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/51371/a-and-z-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/51371/a-and-z-dip/",
+  "title": "A and Z Dip",
+  "description": "A cold artichoke and zucchini dip that can be served with crackers, corn chips, or raw vegetables. Add more hot sauce or pico de gallo seasoning to spice it up!",
+  "authors": [
+    "Tina Brewster"
+  ],
+  "date_published": "2018-06-08T09:20:51-04:00",
+  "date_modified": "2025-02-26T16:18:25-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 zucchini, peeled and finely chopped",
+    "1 teaspoon salt",
+    "1 (8 ounce) package cream cheese, softened",
+    "0.25 cup sour cream",
+    "1 (14 ounce) can artichoke hearts, drained and chopped",
+    "2 tablespoons chopped black olives",
+    "1 teaspoon hot sauce",
+    "salt and pepper to taste",
+    "0.5 teaspoon pico de gallo seasoning"
+  ],
+  "steps": [
+    {
+      "text": "Place the zucchini in a colander, and sprinkle with salt. Place the colander over a bowl, and refrigerate for one hour to release the liquid from the zucchini.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, mix together the cream cheese and sour cream. Stir in the artichoke hearts, drained zucchini, and black olives. Season with hot sauce, salt, pepper, and pico de gallo seasoning. Serve with crackers, raw vegetables, or corn chips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "584 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "136 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "29 g",
+    "sodiumContent": "2879 mg",
+    "sugarContent": "2 g",
+    "fatContent": "46 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8tel00fHmDQbZaH1Tz8hO9bifh4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/19751-f5e01374b0f543379efcb6693fe6cc7a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/51371/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

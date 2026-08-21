@@ -1,0 +1,87 @@
+{
+  "id": "46733",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/46733/spicy-chicken-spaghetti-ii/",
+  "requested_url": "https://www.allrecipes.com/recipe/46733/spicy-chicken-spaghetti-ii/",
+  "title": "Spicy Chicken Spaghetti II",
+  "description": "My favorite winter dish. Freezes wonderfully for quick dinners. Almost a barbeque type sauce that makes chicken and noodles taste great.",
+  "authors": [
+    "Miss Molly"
+  ],
+  "date_published": "2020-03-04T23:57:47-05:00",
+  "date_modified": "2022-01-14T12:00:05-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package uncooked spaghetti",
+    "1 cup Worcestershire sauce",
+    "1 cup ketchup",
+    "1 cup tomato sauce",
+    "1 cup chopped green bell pepper",
+    "1 cup chopped onion",
+    "0.5 cup brown sugar",
+    "1 teaspoon chili powder",
+    "1 whole cooked chicken, deboned and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Place spaghetti in the pot, cook 8 to 10 minutes, until al dente, and drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a separate pot, mix the Worcestershire sauce, ketchup, tomato sauce, green bell pepper, onion, brown sugar, and chili powder. Bring to a boil. Mix in the chicken, reduce heat to low, and simmer 10 minutes, or until chicken is heated through. Mix in the cooked spaghetti, and serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "504 kcal",
+    "carbohydrateContent": "72 g",
+    "cholesterolContent": "66 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "899 mg",
+    "sugarContent": "26 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/y5riAJW3p_U3lj-6mfFDlwYRXjU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5345841-db5e26448d5e46e3ac7caa8871df349a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/46733/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

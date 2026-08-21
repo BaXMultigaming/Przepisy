@@ -1,0 +1,97 @@
+{
+  "id": "52003",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52003/marinated-chicken-pita-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/52003/marinated-chicken-pita-sandwich/",
+  "title": "Marinated Chicken Pita Sandwich",
+  "description": "This is a very tasty and extremely simple chicken pita sandwich stuffed with onion, tomato, and dressed with yogurt.",
+  "authors": [
+    "DAVID SANDFORD"
+  ],
+  "date_published": "2019-07-10T02:53:40-04:00",
+  "date_modified": "2026-05-11T15:05:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT200M",
+  "yield": [
+    "2",
+    "2 sandwiches"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "0.25 cup lemon juice",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon dried oregano",
+    "0.25 teaspoon garlic powder",
+    "0.125 teaspoon pepper",
+    "1 boneless, skinless chicken breast, cubed",
+    "1 pocket bread round, cut in half",
+    "1 small onion, sliced",
+    "1 tomato, sliced",
+    "0.5 cup plain yogurt"
+  ],
+  "steps": [
+    {
+      "text": "Combine olive oil, lemon juice, salt, oregano, garlic powder, and pepper in a large resealable bag. Add chicken cubes, mix well, and allow to marinate in the refrigerator 3 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour chicken and marinade into a frying pan over medium-high heat. Cook until chicken is no longer pink in the center and the juices run clear, 10 to 15 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stuff each half of pita pocket bread with chicken, onion, tomato, and yogurt; serve while still hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "460 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "819 mg",
+    "sugarContent": "7 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "64"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rzsF8kV4cst9TSudBzgw54eRl28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52003marinated-chicken-pita-sandwichChefMo4x3-5b42c03b1d474a60b141e3dcccda6df8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52003/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

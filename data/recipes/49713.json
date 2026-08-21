@@ -1,0 +1,73 @@
+{
+  "id": "49713",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/49713/dandelion-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/49713/dandelion-salad/",
+  "title": "Dandelion Salad",
+  "description": "This is a delicious dandelion salad made with young and tender dandelion greens, red onion, tomatoes, and basil for a refreshing springtime dish.",
+  "authors": [
+    "ERLENSEE_GERMANY"
+  ],
+  "date_published": "2020-06-18T23:08:57-04:00",
+  "date_modified": "2026-01-04T11:34:54-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound torn dandelion greens",
+    "0.5 red onion, chopped",
+    "2 tomatoes, chopped",
+    "0.5 teaspoon dried basil",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss dandelion greens, red onion, and tomatoes together in a medium bowl. Season with basil, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "192 mg",
+    "sugarContent": "3 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/G0kTU2f-_EaAXDm-tzelolLacQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8025961-b1b6642b65f84ffcb8844ced7ce5c11d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/49713/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

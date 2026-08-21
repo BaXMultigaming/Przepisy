@@ -1,0 +1,95 @@
+{
+  "id": "47903",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/47903/sweet-irish-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/47903/sweet-irish-bread/",
+  "title": "Sweet Irish Bread",
+  "description": "A sweet breakfast bread with raisins that tastes most excellent toasted.",
+  "authors": [
+    "D Bagley"
+  ],
+  "date_published": "2020-06-18T23:08:50-04:00",
+  "date_modified": "2022-07-14T17:54:50-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "10",
+    "1 - 9x5 inch loaf"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "1 cup white sugar",
+    "2 eggs, beaten",
+    "2 cups all-purpose flour",
+    "0.5 teaspoon baking soda",
+    "1 teaspoon cream of tartar",
+    "1 pinch salt",
+    "1 cup sour cream",
+    "1 cup raisins"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5 inch loaf pan. I use a glass one.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, cream together the butter and sugar until smooth. Beat in the eggs one at a time, then stir in the sour cream. Sift together the flour, baking soda, cream of tartar and salt; stir into the sour cream mixture until just blended. Fold in raisins. Transfer the batter to the prepared loaf pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake for 50 to 60 minutes in the preheated oven, or until a small knife inserted into the crown, comes out clean.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "323 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "60 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "124 mg",
+    "sugarContent": "30 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IYiPUZOrhfaahvBVmcbAIi57bpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13870-011fef50f8174f1d929e786bf569579f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/47903/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

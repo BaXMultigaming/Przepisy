@@ -1,0 +1,89 @@
+{
+  "id": "52232",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52232/aloo-matar/",
+  "requested_url": "https://www.allrecipes.com/recipe/52232/aloo-matar/",
+  "title": "Aloo Matar",
+  "description": "Potatoes and peas are cooked in a tomato sauce with Indian seasonings.",
+  "authors": [
+    "VAIJAYANTI"
+  ],
+  "date_published": "2020-06-18T23:09:14-04:00",
+  "date_modified": "2026-03-23T16:09:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup vegetable oil",
+    "2 medium onions, finely chopped",
+    "1 tablespoon ginger garlic paste",
+    "1 bay leaf",
+    "4 large potatoes, peeled and chopped",
+    "1 cup frozen peas",
+    "0.5 cup tomato puree",
+    "1.5 teaspoons garam masala",
+    "1.5 teaspoons paprika",
+    "1 teaspoon white sugar",
+    "1 teaspoon salt",
+    "2 tablespoons chopped cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Heat the oil in a wok over medium heat. Stir in the onions, ginger garlic paste, and bay leaf. Cook until the onions are tender. Mix in the potatoes and peas. Cover and cook until the potatoes are tender, about 15 minutes. Remove the bay leaf.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir the tomato puree, garam masala, paprika, sugar, and salt into the vegetable mixture. Continue cooking about 10 minutes. Mix in the cilantro and continue cooking about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "487 kcal",
+    "carbohydrateContent": "82 g",
+    "fiberContent": "10 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "898 mg",
+    "sugarContent": "10 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "153"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RHXN9E2nOZg8nv_oD09hK9fyM5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52232aloo-matarDanielleStadelmanRDN4x3-240f1fd170da4ce89e01f0302eb4247c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52232/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

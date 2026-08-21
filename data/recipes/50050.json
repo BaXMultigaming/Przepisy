@@ -1,0 +1,99 @@
+{
+  "id": "50050",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50050/five-minute-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/50050/five-minute-ice-cream/",
+  "title": "Five Minute Fruit Ice Cream",
+  "description": "This quick fruit ice cream made with frozen berries, sugar, and heavy cream comes together in a food processor or blender in just 5 minutes.",
+  "authors": [
+    "Pamela Euless-Barker"
+  ],
+  "date_published": "2002-05-11T00:59:04-04:00",
+  "date_modified": "2026-02-23T06:29:02-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 (10 ounce) package frozen sliced strawberries",
+    "0.5 cup sugar",
+    "0.66666668653488 cup heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/lEpahCMvW3rjXzyD2AFUj9wkcQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50050-five-minute-ice-cream-DDMFS-step-1-053-db98aeb3a9fc4d50900b1f039e90a9f4.jpg"
+      ],
+      "image": "assets/images/50050/step_01.webp"
+    },
+    {
+      "text": "Combine frozen strawberries and sugar in a food processor or blender. Process until strawberries are roughly chopped.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LrW99iTn_4eL-Lk46PkOrocbRpY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50050-five-minute-ice-cream-DDMFS-step-3-055-e1593e64151d44c398caa47d6e38a04d.jpg"
+      ],
+      "image": "assets/images/50050/step_02.webp"
+    },
+    {
+      "text": "With the processor on, slowly pour in heavy cream until incorporated. Store in the freezer for up to 1 week.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WSrpE1vjM_EzSHuPkGZJLm1IQ7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50050-five-minute-ice-cream-DDMFS-step-4-069-a229cc3fb13f47f3b6a7275710011f3c.jpg"
+      ],
+      "image": "assets/images/50050/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "258 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "28 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "612"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SI6dn__pfJb9G5eBpYAqkyGCLxQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50050-five-minute-ice-cream-DDMFS-4x3-076-fbf49ca6248e4dceb3f43a4f02823dd9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50050/hero.webp",
+    "steps": [
+      "assets/images/50050/step_01.webp",
+      "assets/images/50050/step_02.webp",
+      "assets/images/50050/step_03.webp"
+    ]
+  }
+}

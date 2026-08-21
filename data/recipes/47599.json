@@ -1,0 +1,86 @@
+{
+  "id": "47599",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/47599/wiener-schnitzel/",
+  "requested_url": "https://www.allrecipes.com/recipe/47599/wiener-schnitzel/",
+  "title": "German Wiener Schnitzel",
+  "description": "An authentic German wiener schnitzel recipe made with veal and simple breading.",
+  "authors": [
+    "Carolin"
+  ],
+  "date_published": "2018-06-08T09:20:20-04:00",
+  "date_modified": "2026-07-13T18:05:31-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Drink"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds veal",
+    "1 cup all-purpose flour",
+    "4 eggs",
+    "1 tablespoon vegetable oil",
+    "salt and pepper to taste",
+    "4 cups bread crumbs",
+    "0.125 cup oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Cut the veal into steaks, about as thick as your finger. Dredge in flour. In a shallow dish, beat the eggs with 1 tablespoon oil, salt and pepper. Coat the veal with egg mixture, then with bread crumbs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 1/4 cup oil in a heavy skillet over medium heat. Fry veal until golden brown, about 5 minutes on each side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "435 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "169 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "479 mg",
+    "sugarContent": "4 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "249"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mYOHjjZq6cxZ_IVlFO98mKIUwco=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/398472-e5d5150832c542bf90383a71fed33a32.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/47599/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "50235",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50235/best-beef-dip-ever/",
+  "requested_url": "https://www.allrecipes.com/recipe/50235/best-beef-dip-ever/",
+  "title": "Best Beef Dip Ever",
+  "description": "This beef dip recipe makes the best au jus in the slow cooker with a chuck roast, garlic, rosemary, bay leaf, and soy sauce; great for French dips.",
+  "authors": [
+    "Lori Anderson"
+  ],
+  "date_published": "2019-04-03T23:30:51-04:00",
+  "date_modified": "2025-12-01T08:21:10-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT360M",
+  "total_time": "PT370M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 pounds beef chuck roast",
+    "1 tablespoon minced garlic",
+    "1 tablespoon dried rosemary",
+    "3 bay leaves",
+    "6 cups water",
+    "1 cup soy sauce"
+  ],
+  "steps": [
+    {
+      "text": "Place beef in a slow cooker; season with garlic and rosemary.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add bay leaves; pour in water and soy sauce. Cook on Low for 6 to 10 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "290 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1498 mg",
+    "sugarContent": "0 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "671"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8k0dIxW9to578RlrLZTBHdCdA5c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/383793-ffa181789869447abaa5442cdcaf2dcd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50235/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "48940",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/48940/vanilla-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/48940/vanilla-punch/",
+  "title": "Vanilla Punch",
+  "description": "Clear punch that is easy to make ahead of time, easy to serve, and wonderful tasting. Also very inexpensive to make for a large group.",
+  "authors": [
+    "Teri G."
+  ],
+  "date_published": "2020-06-18T23:08:53-04:00",
+  "date_modified": "2022-09-27T18:47:37-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "36",
+    "4 cups syrup"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups white sugar",
+    "2 cups water",
+    "2 tablespoons clear imitation vanilla extract",
+    "2 tablespoons almond extract"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan over medium heat, combine sugar and water. Cook, stirring frequently, until sugar is dissolved. Stir in vanilla and almond extract. Cool, and refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "To serve: In a punch bowl with ice, mix 1 cup syrup with 2 liters ginger ale or lemon-lime soda.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "110 kcal",
+    "carbohydrateContent": "28 g",
+    "sodiumContent": "0 mg",
+    "sugarContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_l3xddihpYKBoSFnFcbCVVBd7T4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1286089-12de51256a474ef48de15c4096f6fd8b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/48940/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

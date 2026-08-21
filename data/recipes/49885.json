@@ -1,0 +1,80 @@
+{
+  "id": "49885",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/49885/spinach-saute/",
+  "requested_url": "https://www.allrecipes.com/recipe/49885/spinach-saute/",
+  "title": "Spinach Saute",
+  "description": "This recipe, as are most I have, was given to me by my mother, and is really simple and very tasty as a creamy citrus addition to fish or chicken.",
+  "authors": [
+    "Larry Jamison"
+  ],
+  "date_published": "2019-07-10T02:53:36-04:00",
+  "date_modified": "2022-07-14T17:11:33-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT8M",
+  "total_time": "PT18M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.125 cup water",
+    "1 bunch fresh spinach, rinsed and stemmed",
+    "0.33333334326744 cup cream cheese, softened",
+    "1 pinch salt",
+    "4 teaspoons lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Bring the water to a boil in a skillet over medium heat. Add spinach all at once, and reduce heat slightly. Cover, and let cook for about 3 minutes, or until spinach is not quite tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in the cream cheese and lemon juice, and season with salt. Cook, stirring, until the cream cheese is melted and well blended. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "88 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "317 mg",
+    "sugarContent": "1 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "66"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/76Np221zM4ngmtcvjvqA6qSX_-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4463343-6b30251eafc7443fa21372c786e64430.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/49885/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

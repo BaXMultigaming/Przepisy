@@ -1,0 +1,72 @@
+{
+  "id": "47102",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/47102/watermelon-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/47102/watermelon-salsa/",
+  "title": "Watermelon Salsa",
+  "description": "This colorful watermelon salsa with chile peppers is perfectly balanced with sweet balsamic for a super refreshing summertime dip for chips.",
+  "authors": [
+    "Larry Brodahl"
+  ],
+  "date_published": "2020-07-01T21:14:55-04:00",
+  "date_modified": "2024-05-03T09:24:08-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT0M",
+  "total_time": "PT20M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups seeded and coarsely chopped watermelon",
+    "2 tablespoons chopped onion",
+    "3 tablespoons seeded, chopped Anaheim chile",
+    "2 tablespoons balsamic vinegar",
+    "0.25 teaspoon garlic salt"
+  ],
+  "steps": [
+    {
+      "text": "Combine watermelon, onion, and chile pepper in a serving bowl; stir in balsamic vinegar and garlic salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "8 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "29 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yAxSncYtUE4YavBvVyW0OAXZ9Wg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8281725-a14be2792b7a47ef95105f83c7f17de8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/47102/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

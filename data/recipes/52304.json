@@ -1,0 +1,74 @@
+{
+  "id": "52304",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52304/tasty-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/52304/tasty-lemonade/",
+  "title": "Tasty Lemonade",
+  "description": "This lemonade made with brown sugar is good on hot days, and very successful at lemonade stands served with a twist of lemon.",
+  "authors": [
+    "EAMON G"
+  ],
+  "date_published": "2020-06-18T23:09:14-04:00",
+  "date_modified": "2023-05-09T16:42:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 lemons, juiced",
+    "1.5 cups water",
+    "0.5 cup brown sugar",
+    "0.5 cup ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "In a large pitcher, combine fresh lemon juice and water. Stir in brown sugar until it dissolves. Stir in ice cubes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "44 g",
+    "fiberContent": "8 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "13 mg",
+    "sugarContent": "27 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cYG83dsmWCrujwwp1UZUpCaECFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52304tasty-lemonadelutzflcat3x2-6cb46e5b134649c99d6ee4a1fe7ca41a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52304/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

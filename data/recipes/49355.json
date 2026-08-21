@@ -1,0 +1,71 @@
+{
+  "id": "49355",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/49355/gin-and-tonic/",
+  "requested_url": "https://www.allrecipes.com/recipe/49355/gin-and-tonic/",
+  "title": "Gin and Tonic",
+  "description": "A refreshing gin and tonic with plenty of ice; lime juice adds a bright and zesty flavor. Nothing says summer quite like a good ol&#39; gin and tonic!",
+  "authors": [
+    "Cubby"
+  ],
+  "date_published": "2019-12-20T02:41:49-05:00",
+  "date_modified": "2026-06-09T12:37:11-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cubes ice",
+    "2 fluid ounces gin",
+    "4 fluid ounces tonic water",
+    "1 tablespoon fresh lime juice",
+    "1 lime wedge"
+  ],
+  "steps": [
+    {
+      "text": "Place ice cubes in a tall, narrow glass. Pour gin over ice; add tonic water and lime juice. Stir well with a long-necked spoon. Garnish with lime wedge.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "193 kcal",
+    "carbohydrateContent": "13 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "19 mg",
+    "sugarContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "61"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/W6da2fGnX0r1pMuLqzFfiexLW5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/49355-gin-and-tonic-VAT-beauty-4x3-7c61da9fe6a046429a6aca35ac781939.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/49355/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

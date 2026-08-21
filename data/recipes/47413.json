@@ -1,0 +1,91 @@
+{
+  "id": "47413",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/47413/bean-pasta-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/47413/bean-pasta-soup/",
+  "title": "Bean &amp; Pasta Soup",
+  "description": "Hearty beef, pasta, and kidney bean soup with diced tomatoes and garlic. Serve with Italian bread for an easy, delicious weeknight meal.",
+  "authors": [
+    "Judy"
+  ],
+  "date_published": "2019-04-03T23:30:37-04:00",
+  "date_modified": "2022-07-14T16:34:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT70M",
+  "total_time": "PT80M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "0.5 pound ground beef",
+    "1 large onion, chopped",
+    "1 clove garlic, minced",
+    "1 envelope dry vegetable soup mix",
+    "1 cup water",
+    "1 (28 ounce) can diced tomatoes",
+    "1 (14.5 ounce) can red kidney beans, drained",
+    "0.25 cup uncooked star-shaped pasta"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large stockpot over medium-high heat. Crumble ground beef into pot and cook, stirring frequently, until well browned. Remove meat, leaving excess oil in pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook onion and garlic in oil over medium-high heat until translucent. Stir in tomatoes, kidney beans, vegetable soup mix, and water. Reduce heat, and simmer 40 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add pasta stars, cover, and simmer 20 minutes more, or until pasta is tender. You may add more water at any time to adjust consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "213 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "24 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "459 mg",
+    "sugarContent": "5 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/o6Z25-Sv7VY1H_dRaTvRmgEpjAs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4439413-13fc3038f0604e1fa3630ab67dc2fae3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/47413/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

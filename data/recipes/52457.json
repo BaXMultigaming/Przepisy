@@ -1,0 +1,74 @@
+{
+  "id": "52457",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52457/fruit-sherbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/52457/fruit-sherbet/",
+  "title": "Fruit Sherbet",
+  "description": "A classic sherbet recipe made with orange, lemon, and pineapple juices for a light, fruity, and refreshing dessert on a warm summer day.",
+  "authors": [
+    "Mary Ann Benzon"
+  ],
+  "date_published": "2020-06-18T23:09:15-04:00",
+  "date_modified": "2026-04-15T03:57:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT245M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup lemon juice",
+    "1.5 cups sugar",
+    "1 cup orange juice",
+    "1 cup milk",
+    "0.5 cup pineapple juice"
+  ],
+  "steps": [
+    {
+      "text": "In a large pitcher, mix together the lemon juice and sugar. Stir in the orange juice, milk, and pineapple juice. Pour into a plastic container, and freeze until stiff.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "381 kcal",
+    "carbohydrateContent": "94 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "27 mg",
+    "sugarContent": "88 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZghjwLlN7AGEcTiWtT4XBtC536M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/664120-823bb8569cd34619902b50910900ca47.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52457/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "52047",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52047/adriennes-cucumber-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/52047/adriennes-cucumber-salad/",
+  "title": "Cucumber Salad",
+  "description": "This cucumber salad is easy to make by marinating thin slices of cucumber in a sweet-sour dressing with dill for a tasty and refreshing summer salad.",
+  "authors": [
+    "JSCHMAND"
+  ],
+  "date_published": "2020-06-18T23:09:13-04:00",
+  "date_modified": "2026-03-10T09:46:02-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT75M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cucumbers, thinly sliced",
+    "1 small white onion, thinly sliced",
+    "1 cup white vinegar",
+    "0.75 cup white sugar",
+    "0.5 cup water",
+    "1 tablespoon dried dill, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/sN9Rshrp9tQKS1C3keHOl4I8jQ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52047-adriennes-cucumber-salad-DDMFS-step-01-3f179a81825b46d188a0c159c63976b1.jpg"
+      ],
+      "image": "assets/images/52047/step_01.webp"
+    },
+    {
+      "text": "Toss sliced cucumbers and onion together in a large bowl. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XG_5MpZdByrym4Hqynjdsr32IGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52047-adriennes-cucumber-salad-DDMFS-step-02-18c0b0a66a7c4082a96815b3598da49d.jpg"
+      ],
+      "image": "assets/images/52047/step_02.webp"
+    },
+    {
+      "text": "Combine vinegar, sugar, and water in a saucepan over medium-high heat; bring to a boil; pour over cucumbers and onions in the bowl. Stir in dill. Cover and let marinate in the refrigerator for at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/pamBLYtvy3Lp0xO_XR3if5sEyV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52047-adriennes-cucumber-salad-DDMFS-4x3-29f2118038174c6b94652e942757e4ca.jpg"
+      ],
+      "image": "assets/images/52047/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "99 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "22 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "1364"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/L5i8gFKK-ma1DlVvV.mp4",
+    "description": "AR0372",
+    "duration": "PT2M27S",
+    "name": "Adrienne's Cucumber Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/L5i8gFKK/thumbnails/xn3hY9v9.jpg?width=1280",
+    "uploadDate": "2021-07-09T11:29:52-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pamBLYtvy3Lp0xO_XR3if5sEyV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52047-adriennes-cucumber-salad-DDMFS-4x3-29f2118038174c6b94652e942757e4ca.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52047/hero.webp",
+    "steps": [
+      "assets/images/52047/step_01.webp",
+      "assets/images/52047/step_02.webp",
+      "assets/images/52047/step_03.webp"
+    ]
+  }
+}

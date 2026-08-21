@@ -1,0 +1,78 @@
+{
+  "id": "48935",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/48935/pineapple-lemonade-spritzers/",
+  "requested_url": "https://www.allrecipes.com/recipe/48935/pineapple-lemonade-spritzers/",
+  "title": "Pineapple Lemonade Spritzers",
+  "description": "A refreshing and light alternative to lemonade. A syrup made with pineapple juice and lemon juice is mixed with carbonated water over ice.",
+  "authors": [
+    "Albert Duga"
+  ],
+  "date_published": "2020-06-18T23:08:53-04:00",
+  "date_modified": "2022-08-22T14:27:00-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT1450M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups pineapple juice",
+    "3 lemons, juiced",
+    "1 cup white sugar",
+    "0.5 cup honey",
+    "6 slices lemon",
+    "1 (2 liter) bottle carbonated water"
+  ],
+  "steps": [
+    {
+      "text": "To make the pineapple lemon syrup: In a large saucepan over medium heat, combine pineapple juice, lemon juice, sugar and honey. Bring to a boil, and cook for 1 minute. Allow to cool, then refrigerate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill 6 glasses with ice. Place a slice of lemon in each glass. Pour in 2 fluid ounces pineapple lemon syrup. Fill glasses to the top with carbonated water; stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "295 kcal",
+    "carbohydrateContent": "80 g",
+    "fiberContent": "4 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "69 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/N-MiwwEkN7qb_mEruIo3diTEekE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/38551-87806d863b3443c2aa125d1dccacbdd9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/48935/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

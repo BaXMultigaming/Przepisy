@@ -1,0 +1,105 @@
+{
+  "id": "48974",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/48974/vanilla-milkshake-i/",
+  "requested_url": "https://www.allrecipes.com/recipe/48974/vanilla-milkshake-i/",
+  "title": "Vanilla Milkshake",
+  "description": "This vanilla milkshake recipe is so easy to make, you&#39;ll want to treat yourself all the time. Add chocolate, berries, or candy bits for a fun twist!",
+  "authors": [
+    "DPULLIAM"
+  ],
+  "date_published": "2018-03-21T12:28:52-04:00",
+  "date_modified": "2025-10-17T09:59:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups vanilla ice cream",
+    "1 cup whole milk",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/IP3A1VIaGHDPbIksborfDoCD4EM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-48974-vanilla-milkshake-step-01-4x3-060f83a79d824841baabbe0c8e6c9427.jpg"
+      ],
+      "image": "assets/images/48974/step_01.webp"
+    },
+    {
+      "text": "Blend ice cream, milk, and vanilla extract together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PvRSiLx4dFwwfY3DazyHA9u__30=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-48974-vanilla-milkshake-step-03-4x3-972fbe7e59fe452f8ff8e4064dd4806f.jpg"
+      ],
+      "image": "assets/images/48974/step_02.webp"
+    },
+    {
+      "text": "Pour into glasses and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/uzxCGTc-5WCUZnZ7BUcYcmWKxjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-48974-vanilla-milkshake-hero-4x3-c815295c714f41f6b17b104e7403a53b.jpg"
+      ],
+      "image": "assets/images/48974/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "345 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "155 mg",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "215"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/l9BiYIEk-K3AjnAEN.mp4",
+    "description": "In this video, we'll take you back to the good old days with a timeless dessert favorite. Watch as we blend velvety vanilla ice cream with cold milk, adding a splash of pure vanilla extract for that authentic taste. With its smooth texture and rich flavor, this Vanilla Milkshake is the perfect sweet treat for any occasion. Get ready to indulge in nostalgia and satisfy your summertime cravings. ",
+    "duration": "PT27S",
+    "name": "Vanilla Milkshake Recipe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/l9BiYIEk/thumbnails/YfSXh3sv.jpg?width=1280",
+    "uploadDate": "2023-08-01T22:42:26-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uzxCGTc-5WCUZnZ7BUcYcmWKxjo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-48974-vanilla-milkshake-hero-4x3-c815295c714f41f6b17b104e7403a53b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/48974/hero.webp",
+    "steps": [
+      "assets/images/48974/step_01.webp",
+      "assets/images/48974/step_02.webp",
+      "assets/images/48974/step_03.webp"
+    ]
+  }
+}

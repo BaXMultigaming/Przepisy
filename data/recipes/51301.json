@@ -1,0 +1,106 @@
+{
+  "id": "51301",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/51301/sarahs-applesauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/51301/sarahs-applesauce/",
+  "title": "Sarah&#39;s Homemade Applesauce",
+  "description": "This applesauce recipe is easy to make from scratch with apples, sugar, and cinnamon for a delicious topping on pancakes, ice cream, or pork chops.",
+  "authors": [
+    "PHATCAT"
+  ],
+  "date_published": "2002-06-19T15:02:02-04:00",
+  "date_modified": "2026-07-20T17:10:23-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "4 apples - peeled, cored and chopped",
+    "0.75 cup water",
+    "0.25 cup white sugar",
+    "0.5 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WTju-JNKnT1hzZ62gXk6ysbAVdk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-51301-sarahs-applesauce-DDMFS-4x3-step-01-1-1f0d611fdcd54a95b28128fb1e0c7f58.jpg"
+      ],
+      "image": "assets/images/51301/step_01.webp"
+    },
+    {
+      "text": "Combine apples, water, sugar, and cinnamon in a saucepan; cover and cook over medium heat until apples are soft, stirring occasionally, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PXF_DavT6-X62yHzeZEqibTV_Hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-51301-sarahs-applesauce-DDMFS-4x3-step-02-1-bb52fc5301454d088a85beaacd73f13c.jpg"
+      ],
+      "image": "assets/images/51301/step_02.webp"
+    },
+    {
+      "text": "Allow apple mixture to cool, then mash with a fork or potato masher until reaches desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CfIyArb7jUR8P9oEyxMKHXnge-U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-51301-sarahs-applesauce-DDMFS-4x3-cb85825253d6410fabe8cf5e5b0aa88b.jpg"
+      ],
+      "image": "assets/images/51301/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "121 kcal",
+    "carbohydrateContent": "32 g",
+    "fiberContent": "4 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "27 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "3439"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/647yo1IR-K3AjnAEN.mp4",
+    "description": "Skip the store and make this afterschool snack at home. In this video, the Allrecipes team shows you how to make homemade applesauce using only three ingredients. Using cored, peeled, and chopped apples, combine the apple chunks into a pot with cinnamon, sugar, and water. After cooking the apples over the stove until soft, mash them finely to create the from scratch applesauce!",
+    "duration": "PT37S",
+    "name": "How to Make Homemade Applesauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/647yo1IR/thumbnails/Z1b0R11Y.jpg?width=1280",
+    "uploadDate": "2024-07-17T14:54:01-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CfIyArb7jUR8P9oEyxMKHXnge-U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-51301-sarahs-applesauce-DDMFS-4x3-cb85825253d6410fabe8cf5e5b0aa88b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/51301/hero.webp",
+    "steps": [
+      "assets/images/51301/step_01.webp",
+      "assets/images/51301/step_02.webp",
+      "assets/images/51301/step_03.webp"
+    ]
+  }
+}

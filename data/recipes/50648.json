@@ -1,0 +1,87 @@
+{
+  "id": "50648",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50648/feta-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/50648/feta-eggs/",
+  "title": "Feta Eggs",
+  "description": "A very TASTY way to add zip to scrambled eggs.",
+  "authors": [
+    "Kerry"
+  ],
+  "date_published": "2018-06-08T09:20:44-04:00",
+  "date_modified": "2025-11-21T13:02:20-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "0.25 cup chopped onion",
+    "4 eggs, beaten",
+    "0.25 cup chopped tomatoes",
+    "2 tablespoons crumbled feta cheese",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a skillet over medium heat. Saute onions until translucent. Pour in eggs. Cook, stirring occasionally to scramble. When eggs appear almost done, stir in chopped tomatoes and feta cheese, and season with salt and pepper. Cook until cheese is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/u3yIykm9YkQr-mi9ESl06PFZKO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6106185-feta-eggs-Suada-Fteja-1x1-1-f57533f20b744adfbddd9aec3016101b.jpg"
+      ],
+      "image": "assets/images/50648/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "116 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "198 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "435 mg",
+    "sugarContent": "1 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "232"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/n0THWKXu-K3AjnAEN.mp4",
+    "description": "A very TASTY way to add zip to boring scrambled eggs.",
+    "duration": "PT59S",
+    "name": "How to Make Feta Eggs",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/n0THWKXu/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:17:06-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/u3yIykm9YkQr-mi9ESl06PFZKO0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6106185-feta-eggs-Suada-Fteja-1x1-1-f57533f20b744adfbddd9aec3016101b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50648/hero.webp",
+    "steps": [
+      "assets/images/50648/step_01.webp"
+    ]
+  }
+}

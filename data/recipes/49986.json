@@ -1,0 +1,69 @@
+{
+  "id": "49986",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/49986/vanilla-milkshake-iv/",
+  "requested_url": "https://www.allrecipes.com/recipe/49986/vanilla-milkshake-iv/",
+  "title": "Vanilla Milkshake IV",
+  "description": "This is a cool refreshing drink. It is sweet but not too sweet. Kids love it.",
+  "authors": [
+    "Kate"
+  ],
+  "date_published": "2018-03-21T12:29:09-04:00",
+  "date_modified": "2022-07-14T17:04:03-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 scoops vanilla ice cream",
+    "1 cup milk",
+    "0.5 cup pure maple syrup"
+  ],
+  "steps": [
+    {
+      "text": "In a blender, combine ice cream, milk and maple syrup. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "618 kcal",
+    "carbohydrateContent": "127 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "148 mg",
+    "sugarContent": "114 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pjJfcOYdh7R1KHkiISKOaVBWeNU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/76733-3e47cc528dd445519e13969bab7ca9be.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/49986/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "47575",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/47575/bulgogi-korean-bbq/",
+  "requested_url": "https://www.allrecipes.com/recipe/47575/bulgogi-korean-bbq/",
+  "title": "Bulgogi (Korean BBQ)",
+  "description": "This bulgogi recipe is a delicious version of a Korean classic. Thinly sliced beef and onions are marinated, then cooked until tender in a hot grill pan.",
+  "authors": [
+    "Wuchong Keller"
+  ],
+  "date_published": "2020-06-18T23:08:48-04:00",
+  "date_modified": "2022-07-14T18:15:43-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT10M",
+  "total_time": "PT95M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "South And Central Asian"
+  ],
+  "regions": [
+    "South And Central Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup soy sauce",
+    "0.5 cup pear juice or white wine",
+    "3 tablespoons white sugar",
+    "2 tablespoons chopped garlic",
+    "1 teaspoon sesame oil",
+    "1 teaspoon sesame seeds",
+    "1 tablespoon ground black pepper",
+    "1 teaspoon monosodium glutamate",
+    "1 (2 pound) beef rump roast, sliced into thin strips",
+    "1 onion, cut into thin strips"
+  ],
+  "steps": [
+    {
+      "text": "In a large bowl, mix together soy sauce, pear juice, sugar, garlic, sesame oil, sesame seeds, black pepper, and monosodium glutamate; add beef and onions. Stir to coat, cover, and refrigerate for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat a grill pan over high heat and brush with oil; add beef and onions. Cook, turning to brown evenly, for 3 to 6 minutes, or until done.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "439 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "44 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "3820 mg",
+    "sugarContent": "16 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "101"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/orTqZ7RV12ZFyqwfYdVepHgOTxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9096510-7cdfc9df66694dacbac192f87394cb40.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/47575/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

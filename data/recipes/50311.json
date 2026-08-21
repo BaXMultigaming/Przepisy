@@ -1,0 +1,83 @@
+{
+  "id": "50311",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50311/bacon/",
+  "requested_url": "https://www.allrecipes.com/recipe/50311/bacon/",
+  "title": "Bacon",
+  "description": "This recipe is used for smoked pork and bacon, and will work for Canadian bacon as well This bacon needs lots of smoke.",
+  "authors": [
+    "Dave"
+  ],
+  "date_published": "2020-03-04T23:57:56-05:00",
+  "date_modified": "2025-02-14T16:16:27-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT360M",
+  "total_time": "PT9010M",
+  "yield": [
+    "16",
+    "4 pounds bacon"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 pounds raw pork belly",
+    "0.5 cup packed brown sugar",
+    "0.25 cup sugar-based curing mixture (such as Morton® Tender Quick®)",
+    "1 gallon cold water, or as needed",
+    "1 (10 pound) bag charcoal briquettes",
+    "hickory or apple wood chips"
+  ],
+  "steps": [
+    {
+      "text": "In a 2 gallon container, mix together the brown sugar, curing mixture, and water. Submerge the pork belly in the mixture so that it is covered completely. If the meat floats, you can weigh it down with a dinner plate or similar object. Refrigerate covered for six days.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Light charcoal in an outdoor smoker. Soak wood chips in a bowl of water. When the temperature of the smoker is between 140 and 150 degrees coals are ready. Smoke the pork belly for 6 hours, throwing a handful of wood chips on the coals about once an hour. Store in the refrigerator. Slice and fry as you would with store-bought bacon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "614 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "82 mg",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "22 g",
+    "sodiumContent": "1814 mg",
+    "sugarContent": "7 g",
+    "fatContent": "60 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/v0MPA2dPd1YnQE0FTOgFqMNVEK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25052-4993a55a74e54820a9f769150a9ed8d8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50311/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

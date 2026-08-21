@@ -1,0 +1,88 @@
+{
+  "id": "49014",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/49014/ten-minute-szechuan-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/49014/ten-minute-szechuan-chicken/",
+  "title": "Ten Minute Szechuan Chicken",
+  "description": "A simple, quick recipe for Szechuan-style chicken with basic ingredients. This is usually served over white rice.",
+  "authors": [
+    "PUSATERI"
+  ],
+  "date_published": "2020-06-18T23:08:54-04:00",
+  "date_modified": "2026-06-23T18:05:32-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Sichuan"
+  ],
+  "regions": [
+    "Sichuan"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 boneless skinless chicken breasts, cut into cubes",
+    "3 tablespoons cornstarch",
+    "1 tablespoon vegetable oil",
+    "4 cloves garlic, minced",
+    "5 tablespoons low-sodium soy sauce",
+    "1.5 tablespoons white wine vinegar",
+    "0.25 cup water",
+    "1 teaspoon white sugar",
+    "3 green onions, sliced diagonally into 1/2 inch pieces",
+    "0.125 teaspoon cayenne pepper, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place the chicken and cornstarch into a bag or bowl, and toss to coat. Heat oil in a wok or large skillet over medium-high heat. Fry the chicken pieces and garlic, stirring constantly until lightly browned. Stir in the soy sauce, vinegar, sugar and water. Cover, and cook until the chicken pieces are no longer pink inside, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in the green onion, and cayenne pepper, cook uncovered for about 2 more minutes. Serve over white rice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "745 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "408"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/H4MzZ030UZkfmTqeD2MuMHcH-Qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/663871-88235c5fe2834b50a2cdd6e87806c8b6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/49014/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

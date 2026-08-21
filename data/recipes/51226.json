@@ -1,0 +1,113 @@
+{
+  "id": "51226",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/51226/a-very-popular-bbq-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/51226/a-very-popular-bbq-sauce/",
+  "title": "Homemade BBQ Sauce",
+  "description": "This quick and easy homemade barbecue sauce has just the right mixture of sweetness and spice. Adjust seasoning to your personal taste.",
+  "authors": [
+    "JRNEUMILLER"
+  ],
+  "date_published": "2020-03-04T23:57:59-05:00",
+  "date_modified": "2026-01-22T14:54:27-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "32",
+    "4 cups BBQ sauce"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1.5 cups brown sugar",
+    "1.5 cups ketchup",
+    "0.5 cup red wine vinegar",
+    "0.5 cup water",
+    "1 tablespoon Worcestershire sauce",
+    "2.5 tablespoons dry mustard",
+    "2 teaspoons paprika",
+    "2 teaspoons salt",
+    "1.5 teaspoons black pepper",
+    "2 dashes hot pepper sauce"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JtDNAT72YXtfbuW33x1jJPHz2pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51226-a-very-popular-bbq-sauce-DDMFS-Step1-804bec1e2c0c4fda8c75dddb00cc8dd5.jpg"
+      ],
+      "image": "assets/images/51226/step_01.webp"
+    },
+    {
+      "text": "Combine brown sugar, ketchup, vinegar, water, and Worcestershire sauce in a blender. Season with mustard, paprika, salt, pepper, and hot pepper sauce. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/aglJqFSpqJqmvSIiS7ObVGqFs6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51226-A-Very-Popular-BBQ-Sauce-mfs-Step3_004-9c7b9c3184514a209cbd3a7bc8bc98f5.jpg"
+      ],
+      "image": "assets/images/51226/step_02.webp"
+    },
+    {
+      "text": "Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/N3b7R0ApzKN6q0RRLQdmb6KPegQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51226-a-very-popular-bbq-sauce-DDMFS-4x3-c6e3230c5df240b4937385141cce0b67.jpg"
+      ],
+      "image": "assets/images/51226/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "278 mg",
+    "sugarContent": "9 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "977"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/rsp5oOJD-K3AjnAEN.mp4",
+    "description": "With a wonderful balance of sweet and spicy, this homemade condiment is an essential part of every summer cookout. In this video, the Allrecipes team shows you how to make a classic homemade BBQ sauce using only five main ingredients.",
+    "duration": "PT42S",
+    "name": "How to Make Homemade BBQ Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/rsp5oOJD/thumbnails/qtDu7Iao.jpg?width=1280",
+    "uploadDate": "2024-06-20T13:56:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/N3b7R0ApzKN6q0RRLQdmb6KPegQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/51226-a-very-popular-bbq-sauce-DDMFS-4x3-c6e3230c5df240b4937385141cce0b67.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/51226/hero.webp",
+    "steps": [
+      "assets/images/51226/step_01.webp",
+      "assets/images/51226/step_02.webp",
+      "assets/images/51226/step_03.webp"
+    ]
+  }
+}

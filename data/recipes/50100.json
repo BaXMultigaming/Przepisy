@@ -1,0 +1,99 @@
+{
+  "id": "50100",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50100/polish-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/50100/polish-chili/",
+  "title": "Polish Chili",
+  "description": "This Polish-style chili uses ground beef, Polish sausage, fresh chiles, tomatoes, tomatillos, and canned beans for a unique, delicious chili recipe.",
+  "authors": [
+    "GETCOOKINAGAIN"
+  ],
+  "date_published": "2020-02-01T02:50:27-05:00",
+  "date_modified": "2025-04-02T10:27:01-04:00",
+  "prep_time": "PT45M",
+  "cook_time": "PT60M",
+  "total_time": "PT105M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Polish"
+  ],
+  "regions": [
+    "Polish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "1 pound fully cooked Polish sausage or kielbasa, chopped",
+    "1 large onion, chopped",
+    "4 medium tomatoes, chopped",
+    "4 tomatillos, husked and chopped",
+    "4 Anaheim chilies, stemmed, seeded, and chopped",
+    "3 yellow wax peppers, seeded and chopped",
+    "3 jalapeno peppers, seeded and chopped",
+    "3 cloves garlic, minced",
+    "1 (15 ounce) can pinto beans, rinsed and drained",
+    "1 (15 ounce) can kidney beans, rinsed and drained",
+    "0.5 cup distilled white vinegar",
+    "1 (4 ounce) jar chopped pimentos, drained",
+    "0.25 cup tomato sauce"
+  ],
+  "steps": [
+    {
+      "text": "Brown ground beef in a large pot over medium-high heat until no longer pink, breaking up beef while cooking. Drain off excess grease, leaving just enough to coat bottom of the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add Polish sausage, onion, tomatoes, tomatillos, Anaheim chiles, yellow wax peppers, jalapeño chile peppers, and garlic; stir to combine. Simmer over medium heat until mixture softens, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in pinto beans, kidney beans, vinegar, pimentos, and tomato sauce; cover and simmer over medium heat until flavors meld, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "435 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "89 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "575 mg",
+    "sugarContent": "5 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cERlIo6qv-1jKnlbBQHgK0IgV-I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6260400-bf0b889b21f243fb81d3c74cc6398bed.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50100/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

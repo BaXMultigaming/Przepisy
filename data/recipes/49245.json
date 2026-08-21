@@ -1,0 +1,94 @@
+{
+  "id": "49245",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/49245/cabbage-and-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/49245/cabbage-and-pasta/",
+  "title": "Cabbage and Pasta",
+  "description": "Sauteed cabbage tossed with pasta makes an ideal side dish for your favorite meat!",
+  "authors": [
+    "Susan Leckrone"
+  ],
+  "date_published": "2018-06-08T09:20:33-04:00",
+  "date_modified": "2026-05-12T08:00:53-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 ounce) package farfalle (bow tie) pasta",
+    "1 cup butter",
+    "1 medium head cabbage, chopped",
+    "1 medium onion, chopped",
+    "3 cloves garlic, minced",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon pepper"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add farfalle pasta, and cook for 8 to 10 minutes or until al dente; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in a skillet over medium heat. Stir in the cabbage, onion, and garlic, and season with salt and pepper. Cook 15 minutes, or until the cabbage and onion are tender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large bowl, toss together the cooked farfalle and the cabbage mixture. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "520 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "81 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "443 mg",
+    "sugarContent": "8 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "96"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XYhp3Stj8zV-xbp68LzPK0FrWEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4130361-cabbage-and-pasta-Brynn-Emily-Fuhr-4x3-1-a92f058522ec422db6245e80a7e84315.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/49245/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "49165",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/49165/vodka-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/49165/vodka-sauce/",
+  "title": "Vodka Sauce",
+  "description": "This vodka sauce recipe features crushed pepper-infused vodka for a super spicy taste, but it&#39;s still tasty even if you leave out the peppers!",
+  "authors": [
+    "RACQUELLE"
+  ],
+  "date_published": "2018-06-08T09:20:32-04:00",
+  "date_modified": "2023-07-01T08:09:23-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT110M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup vodka",
+    "1 teaspoon crushed red pepper flakes",
+    "2 tablespoons olive oil",
+    "0.75 pound prosciutto, chopped",
+    "1 large clove garlic, minced",
+    "2 tablespoons chopped fresh parsley",
+    "2 tablespoons chopped fresh basil",
+    "salt and pepper to taste",
+    "1 (28 ounce) can roma tomatoes, with juice",
+    "2 (8 ounce) cans tomato sauce",
+    "1 cup water",
+    "1 cup heavy cream"
+  ],
+  "steps": [
+    {
+      "text": "In a small bowl, combine vodka and red pepper flakes. Set aside for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium heat. Add prosciutto, garlic, parsley, basil, salt, and pepper; sauté until prosciutto is evenly browned. Pour in vodka mixture and simmer for 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Crush Roma tomatoes and add to sauce with canned tomato sauce and water. Simmer for 15 minutes. Stir in heavy cream and cook for 2 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/m_WA4q7a9Hg1aKa-2tC2lpylyvw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3948947-81a15edfd44b46e7be917143fc3d9021.jpg"
+      ],
+      "image": "assets/images/49165/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "208 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1066 mg",
+    "sugarContent": "4 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "135"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/KsETjy2g-ma1DlVvV.mp4",
+    "description": "AR0809",
+    "duration": "PT4M27S",
+    "name": "Vodka Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/KsETjy2g/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T09:43:06-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/m_WA4q7a9Hg1aKa-2tC2lpylyvw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3948947-81a15edfd44b46e7be917143fc3d9021.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/49165/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/49165/step_03.webp"
+    ]
+  }
+}

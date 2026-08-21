@@ -1,0 +1,79 @@
+{
+  "id": "50193",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50193/ricos-passionate-pink-honey-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/50193/ricos-passionate-pink-honey-lemonade/",
+  "title": "Rico&#39;s Passionate Pink Honey Lemonade",
+  "description": "This recipe came to me one summer evening during a Hurricane...Please feel free to share the passion...and some feedback!",
+  "authors": [
+    "Rico Laguna"
+  ],
+  "date_published": "2020-06-18T23:09:02-04:00",
+  "date_modified": "2022-08-22T14:47:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT140M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "3 fresh strawberries, sliced",
+    "1 cup white sugar",
+    "0.5 cup brown sugar",
+    "1 teaspoon honey",
+    "7 cups water",
+    "1.75 cups fresh lemon juice",
+    "2 slices orange"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan, combine 1 cup water, strawberries, white sugar, brown sugar, and honey. Bring to a boil, and simmer 10 minutes, stirring occasionally. Cool to room temperature, cover, and chill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large pitcher, mix together water, lemon juice, and orange slices. Stir in cooled syrup; chill. Serve in a tall glass over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "67 kcal",
+    "carbohydrateContent": "18 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "16 g",
+    "servingSize": "20 (4 ounce) servings",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "44"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/akaMKS7h8nXF7Iq0zd9fAAST3UM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14189-eeb6b8d50f984d119e81d8f89bae89e2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50193/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

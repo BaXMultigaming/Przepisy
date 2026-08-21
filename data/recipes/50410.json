@@ -1,0 +1,72 @@
+{
+  "id": "50410",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50410/old-style-bbq-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/50410/old-style-bbq-sauce/",
+  "title": "Old Style BBQ Sauce",
+  "description": "A thick, sticky sauce to slather onto anything edible. It cooks all night in the slow cooker.",
+  "authors": [
+    "FRNJRD"
+  ],
+  "date_published": "2020-03-04T23:57:57-05:00",
+  "date_modified": "2022-07-14T16:20:40-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT720M",
+  "total_time": "PT725M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (28 ounce) bottle ketchup",
+    "1 (12 fluid ounce) can beer",
+    "1 small onion, diced",
+    "1.5 cups dark brown sugar",
+    "0.5 cup prepared mustard",
+    "3 tablespoons barbeque seasoning",
+    "2 tablespoons distilled white vinegar",
+    "1 teaspoon black pepper",
+    "1 teaspoon garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "In a slow cooker, combine ketchup, beer, onion, brown sugar, mustard, barbecue seasoning, vinegar, pepper, and garlic powder. Simmer on low setting for 12 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "195 kcal",
+    "carbohydrateContent": "47 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1544 mg",
+    "sugarContent": "42 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/F6udGo3yIf24PXUsbY-rLj1d9zQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/463720-3bcd1ae37886462a92927ad49e2c5413.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50410/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

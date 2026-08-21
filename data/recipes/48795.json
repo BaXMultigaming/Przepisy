@@ -1,0 +1,85 @@
+{
+  "id": "48795",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/48795/tomato-rice-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/48795/tomato-rice-stew/",
+  "title": "Tomato Rice Stew",
+  "description": "This thick, rich blend of rice, spinach, potatoes, and tomatoes makes a filling, delicious meal.",
+  "authors": [
+    "Sydney Melton"
+  ],
+  "date_published": "2020-06-18T23:08:52-04:00",
+  "date_modified": "2022-07-14T18:04:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups water",
+    "2 cups uncooked white rice",
+    "2 unpeeled potatoes, diced",
+    "1 (12 ounce) can tomato paste",
+    "1 (15 ounce) can tomato sauce",
+    "1 teaspoon dried basil",
+    "1 tablespoon white sugar",
+    "1 tablespoon salt",
+    "2 bay leaves",
+    "1 (13.5 ounce) can whole leaf spinach, drained",
+    "1 (14.5 ounce) can stewed tomatoes, drained and sliced",
+    "0.5 tablespoon fresh lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "In a large saucepan, mix the water, rice, potatoes, tomato paste, and tomato sauce. Stirring constantly, bring to a boil. Reduce heat to medium, and stir in basil, sugar, salt, and bay leaves. Cook about 15 minutes, stirring often, until potatoes and rice are tender but firm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix spinach, stewed tomatoes, and lemon juice into the saucepan. Reduce heat, and simmer 15 minutes, or until rice has finished cooking and the mixture has thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 kcal",
+    "carbohydrateContent": "44 g",
+    "fiberContent": "4 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1075 mg",
+    "sugarContent": "8 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BPtQGkq8O-5ylJHWtG4ESxGESTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/476793-a64f372a58ac44d7a7dac9759ad623fc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/48795/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

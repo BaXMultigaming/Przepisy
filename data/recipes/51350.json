@@ -1,0 +1,95 @@
+{
+  "id": "51350",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/51350/greek-saganaki/",
+  "requested_url": "https://www.allrecipes.com/recipe/51350/greek-saganaki/",
+  "title": "Greek Saganaki",
+  "description": "Serve this traditional Greek appetizer of pan fried feta cheese with slices of ripe, red tomatoes fresh from the garden.",
+  "authors": [
+    "Elizabeth Chorley"
+  ],
+  "date_published": "2018-03-21T12:29:42-04:00",
+  "date_modified": "2024-12-06T02:26:05-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces feta cheese",
+    "1 egg",
+    "1 teaspoon finely chopped fresh oregano",
+    "0.5 cup all-purpose flour",
+    "2 tablespoons olive oil",
+    "freshly ground black pepper",
+    "2 large ripe tomatoes, sliced",
+    "1 lemon, cut into wedges"
+  ],
+  "steps": [
+    {
+      "text": "Slice feta into 2x3/8 inch squares, about 8 slices. In a small bowl, beat the egg with the oregano. Dip each slice of feta in egg, shake off excess, and coat in flour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a frying pan over medium heat. Quickly cook cheese in olive oil until golden, turning once. Pat dry with paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange feta on a plate with thick tomato slices, season with black pepper, and garnish with lemon wedges.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "302 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "97 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "656 mg",
+    "sugarContent": "5 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "83"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JVu32dvSPiXn4l8a99yDqWCqA5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/380315-c4cf6790c9de4c7490d8ad40c702d232.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/51350/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

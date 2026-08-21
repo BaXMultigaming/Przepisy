@@ -1,0 +1,90 @@
+{
+  "id": "52277",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52277/chocolate-chai/",
+  "requested_url": "https://www.allrecipes.com/recipe/52277/chocolate-chai/",
+  "title": "Chocolate Chai",
+  "description": "Treat yourself to a hot mug of chocolate chai with spicy notes of cinnamon and nutmeg. It&#39;s just as good as what you&#39;d buy at your coffee shop!",
+  "authors": [
+    "HoneeBee"
+  ],
+  "date_published": "2020-06-18T23:09:14-04:00",
+  "date_modified": "2025-01-02T11:42:03-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "Indian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Indian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup water",
+    "1 black tea bag",
+    "3 tablespoons white sugar",
+    "2 tablespoons unsweetened cocoa powder, preferably Dutch-process",
+    "2 cups milk",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon ground cinnamon",
+    "0.5 teaspoon ground nutmeg",
+    "sweetened whipped cream",
+    "2 (3 inch) cinnamon sticks"
+  ],
+  "steps": [
+    {
+      "text": "Bring water to a boil in a small saucepan. Add tea bag, cover, and remove from the heat. Let stand for 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove tea bag and stir in sugar and cocoa. Return to the stove over medium heat and bring just to a boil. Mix in milk, vanilla, cinnamon, and nutmeg. Heat through but do not boil. Pour into mugs, then top with whipped cream and garnish with cinnamon sticks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "232 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "104 mg",
+    "sugarContent": "31 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uPDHeUJWBLvL8Q9WE_gMhfrExqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060154-ceac3eebf3db413dbfba71d6ef901499.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52277/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

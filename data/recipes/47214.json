@@ -1,0 +1,69 @@
+{
+  "id": "47214",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/47214/egg-flipped-over/",
+  "requested_url": "https://www.allrecipes.com/recipe/47214/egg-flipped-over/",
+  "title": "Egg Flipped Over",
+  "description": "This recipe is easy, fun and good for kids. It&#39;s like a mini omelet; an egg flipped over with cheese!",
+  "authors": [
+    "Cristiana Bianco"
+  ],
+  "date_published": "2018-03-21T12:28:13-04:00",
+  "date_modified": "2022-07-14T16:05:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT3M",
+  "total_time": "PT8M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon butter",
+    "1 egg",
+    "2 tablespoons milk",
+    "1 slice Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a small skillet over medium heat. In a small bowl, whisk together egg and milk; pour into skillet. Cook until bubbles appear, then flip over. Cover with cheese. Cook 10 seconds, or until cheese is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "237 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "229 mg",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "287 mg",
+    "sugarContent": "2 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kq9G-ti-trFAjEChVWfj4mZ9eQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9188110-d27f297c339c49a98a2dd5134c0d9d2c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/47214/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

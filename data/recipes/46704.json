@@ -1,0 +1,82 @@
+{
+  "id": "46704",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/46704/texas-jambalaya/",
+  "requested_url": "https://www.allrecipes.com/recipe/46704/texas-jambalaya/",
+  "title": "Texas Jambalaya",
+  "description": "This jambalaya is a hearty, filling meal. A variation of the classic, this dish uses spicy tomatoes with green chiles and ranch-style beans.",
+  "authors": [
+    "PETRA DIXON"
+  ],
+  "date_published": "2002-02-03T14:04:59-05:00",
+  "date_modified": "2023-04-17T10:37:26-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southwestern"
+  ],
+  "regions": [
+    "Southwestern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 cup diced onion",
+    "0.5 cup diced green bell pepper",
+    "0.5 cup diced celery",
+    "1.5 teaspoons chopped garlic",
+    "1 cup converted long-grain white rice",
+    "4 ounces smoked sausage, cut into slices",
+    "4 ounces cooked ham, cut into bite-size pieces",
+    "2 (10 ounce) cans diced tomatoes with green chile peppers",
+    "1 cup chicken broth",
+    "0.25 teaspoon dried thyme",
+    "1 bay leaf",
+    "2 (15 ounce) cans ranch-style beans, undrained"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large saucepan over medium heat. Sauté onion, green pepper, and celery until onions are soft and translucent. Stir in garlic, and cook another minute. Add rice, sausage, and ham. Cook 2 to 3 minutes, to coat rice with oil, frequently stirring. Pour in tomatoes with green chiles and chicken broth. Season with thyme and bay leaf. Bring to a boil, then reduce heat. Cover and simmer, 20 to 25 minutes or until liquid is absorbed. Stir in beans, mix well, and heat through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "400 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1541 mg",
+    "sugarContent": "3 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "110"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ewZpFSNMt37eX9cMi59A3E96nhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/197303-5f1a5def36b24c5fa49c057677d2e9bd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/46704/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

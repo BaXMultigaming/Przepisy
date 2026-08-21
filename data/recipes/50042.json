@@ -1,0 +1,115 @@
+{
+  "id": "50042",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50042/bbq-chicken-sandwiches/",
+  "requested_url": "https://www.allrecipes.com/recipe/50042/bbq-chicken-sandwiches/",
+  "title": "BBQ Chicken Sandwiches",
+  "description": "Pulled chicken coated in a homemade BBQ sauce is served with crisp coleslaw on soft hamburger buns in this party-ready sandwich recipe.",
+  "authors": [
+    "Sarina"
+  ],
+  "date_published": "2020-03-04T23:57:55-05:00",
+  "date_modified": "2026-05-20T16:47:46-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT240M",
+  "total_time": "PT255M",
+  "yield": [
+    "12",
+    "12 sandiwches"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (4 pound) whole chickens, cut up",
+    "1.5 cups ketchup",
+    "0.75 cup prepared mustard",
+    "5 tablespoons brown sugar",
+    "5 tablespoons minced garlic",
+    "5 tablespoons honey",
+    "0.25 cup steak sauce",
+    "4 tablespoons lemon juice",
+    "3 tablespoons liquid smoke flavoring",
+    "salt and pepper to taste",
+    "12 hamburger buns",
+    "3 cups prepared coleslaw"
+  ],
+  "steps": [
+    {
+      "text": "Place chicken into a large pot with enough water to cover; bring to a boil. Cook until chicken comes off the bone easily, about 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the chicken is cooking, combine ketchup, mustard, brown sugar, garlic, honey, steak sauce, lemon juice, and liquid smoke in a saucepan. Stir to combine, then season with salt and pepper. Bring mixture to a boil, then reduce the heat and simmer for about 10 minutes. Remove from the heat and set aside for flavors to mingle until chicken is ready.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer cooked chicken to a cutting board. Remove meat and discard skin and bones. Chop or shred meat into small pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add chicken to sauce and stir to combine. Heat over medium-low until BBQ flavor soaks into chicken, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon chicken onto buns and top with coleslaw.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "662 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "137 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "48 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "956 mg",
+    "sugarContent": "20 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "173"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/B80e0rOz0nvaFad-AvK-ffJv7aw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1027150-96eb508278044f52b91c544b2ea57415.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50042/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

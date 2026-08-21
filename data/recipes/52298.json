@@ -1,0 +1,84 @@
+{
+  "id": "52298",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/52298/texmex-scrambler/",
+  "requested_url": "https://www.allrecipes.com/recipe/52298/texmex-scrambler/",
+  "title": "TexMex Scrambler",
+  "description": "A quick, easy meal for breakfast, lunch, or dinner! Egg substitute scrambled and served with salsa, red onion, and fresh cilantro. You could use real eggs, if you prefer.",
+  "authors": [
+    "HoneeBee"
+  ],
+  "date_published": "2020-06-23T17:50:28-04:00",
+  "date_modified": "2020-06-23T17:50:28-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups salsa",
+    "4 (6 inch) corn tortillas, cut into 1-inch strips",
+    "0.5 cup chopped fresh cilantro, divided",
+    "1 tablespoon olive oil",
+    "0.75 cup finely chopped red onion, divided",
+    "0.5 teaspoon minced garlic",
+    "0.5 teaspoon dried oregano",
+    "0.5 teaspoon Mexican-style seasoning blend",
+    "2 cups egg substitute"
+  ],
+  "steps": [
+    {
+      "text": "In a saucepan over medium heat, warm the salsa for 1 minute before adding tortilla strips and 1/4 cup cilantro. Simmer for 5 minutes, stirring frequently. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large non-stick skillet over medium-low heat. Stir in 1/2 the onions, garlic, and oregano; cook until onions are softened, about 5 minutes. Sprinkle with Southwest seasoning. Pour in egg substitute and mix until scrambled. Remove from heat, and mix in warmed salsa and tortilla strips. Serve with remaining onions and cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "242 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1040 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Iw4CoIWvMm4RDkkqBpes0C_W18U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/290581-cd7bd1692fa04f34879f5a48b2b965cb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/52298/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

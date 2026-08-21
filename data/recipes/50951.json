@@ -1,0 +1,92 @@
+{
+  "id": "50951",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50951/irish-bananas/",
+  "requested_url": "https://www.allrecipes.com/recipe/50951/irish-bananas/",
+  "title": "Irish Bananas",
+  "description": "Bananas are simmered in brown sugar, butter and Irish whiskey for a delicious warm treat to serve with vanilla ice cream.",
+  "authors": [
+    "dakota kelly"
+  ],
+  "date_published": "2020-03-04T23:57:58-05:00",
+  "date_modified": "2026-02-23T11:46:08-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "0.5 cup packed light brown sugar",
+    "0.5 cup Irish whiskey",
+    "4 large bananas, peeled and halved lengthwise"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a skillet over medium heat. Stir in brown sugar and whiskey. Bring to a boil and cook until sugar has dissolved. Add bananas to the skillet and simmer gently until bananas are tender and glazed with the syrup.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve immediately with vanilla ice cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/75fTGdQuynHmYLbIgQ7Y5fvqEpY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7759410-7f0ea702bca44d6d9016db7c90149032.jpg"
+      ],
+      "image": "assets/images/50951/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "173 mg",
+    "sugarContent": "43 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "80"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/4lcBu8sn-K3AjnAEN.mp4",
+    "description": "Dessert goes bananas, Irish-style! This video shows you how to make Irish bananas. Simmer halved bananas in butter with brown sugar and Irish whiskey until the fruit is tender and glazed with the luscious syrup.",
+    "duration": "PT1M31S",
+    "name": "Irish Bananas",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/4lcBu8sn/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T08:47:50-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/75fTGdQuynHmYLbIgQ7Y5fvqEpY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7759410-7f0ea702bca44d6d9016db7c90149032.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50951/hero.webp",
+    "steps": [
+      null,
+      "assets/images/50951/step_02.webp"
+    ]
+  }
+}

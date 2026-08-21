@@ -1,0 +1,95 @@
+{
+  "id": "47569",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/47569/grilled-salmon-with-avocado-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/47569/grilled-salmon-with-avocado-dip/",
+  "title": "Grilled Salmon with Avocado Dip",
+  "description": "Grilled salmon is served with a creamy avocado dip made with yogurt.",
+  "authors": [
+    "Carolin"
+  ],
+  "date_published": "2019-07-10T02:53:32-04:00",
+  "date_modified": "2025-01-17T10:42:05-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 avocados - peeled, pitted and diced",
+    "2 cloves garlic, peeled and minced",
+    "3 tablespoons Greek-style yogurt",
+    "1 tablespoon fresh lemon juice",
+    "salt and pepper to taste",
+    "2 pounds salmon steaks",
+    "2 teaspoons dried dill weed",
+    "2 teaspoons lemon pepper",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an outdoor grill for high heat, and lightly oil grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a medium bowl, mash together avocados, garlic, yogurt, and lemon juice. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Rub salmon with dill, lemon pepper, and salt. Place on the prepared grill, and cook 15 minutes, turning once, until easily flaked with a fork. Serve with the avocado mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "396 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "91 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "640 mg",
+    "sugarContent": "1 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "238"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BubRqPGRsVCOBdthedBtezMCReA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/441103-a04beb8f6fc849b68ed4d3faddb8f826.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/47569/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

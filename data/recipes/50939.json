@@ -1,0 +1,93 @@
+{
+  "id": "50939",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50939/yakitori-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/50939/yakitori-chicken/",
+  "title": "Yakitori Chicken",
+  "description": "Chicken is marinated in a soy sauce, sake and ginger sauce, then threaded onto skewers and broiled with leeks for an easy, tasty and fun meal.",
+  "authors": [
+    "dakota kelly"
+  ],
+  "date_published": "2020-06-18T23:09:06-04:00",
+  "date_modified": "2025-04-09T13:55:20-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT20M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 skewers"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "regions": [
+    "Japanese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup sake",
+    "0.5 cup soy sauce",
+    "1 tablespoon sugar",
+    "1 clove garlic, crushed",
+    "1 (2 inch) piece fresh ginger root, grated",
+    "1 pound skinless, boneless chicken breast meat - cubed",
+    "3 leeks, white part only, cut into 1/2 inch pieces"
+  ],
+  "steps": [
+    {
+      "text": "In a medium dish, mix together the sake, soy sauce, sugar, garlic and ginger. Add chicken, and allow to marinate for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat your oven's broiler. Grease six metal skewers, and thread alternately with 3 pieces of chicken and 2 pieces of leek. Place on a baking sheet or broiling pan, and brush with the marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Broil for about 5 minutes, baste again, then broil for another 5 minutes, or until chicken is cooked through. Discard remaining marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "44 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1261 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/F_jmvYPA7Z8gTjNMspo0WA0nOwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50939yakitori-chickenlutzflcat4x3-f5dd8b64d6a24259b8173f046632663b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50939/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "50074",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/50074/grandmas-sloppy-joes/",
+  "requested_url": "https://www.allrecipes.com/recipe/50074/grandmas-sloppy-joes/",
+  "title": "Grandma&#39;s Sloppy Joes",
+  "description": "My grandma gave me this recipe last year. My co-workers are always asking me to make it for them. The ground cloves add that special flavor",
+  "authors": [
+    "Jennifer Carlen"
+  ],
+  "date_published": "2020-03-04T23:57:55-05:00",
+  "date_modified": "2022-08-08T10:41:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT45M",
+  "total_time": "PT55M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 cup chopped onion",
+    "1 cup chopped green bell pepper",
+    "1 tablespoon brown sugar",
+    "1 tablespoon vinegar",
+    "1 cup ketchup",
+    "2 tablespoons prepared mustard",
+    "0.5 teaspoon ground cloves",
+    "1 teaspoon salt",
+    "4 hamburger buns, split"
+  ],
+  "steps": [
+    {
+      "text": "In a large skillet over medium heat, combine the ground beef, onion, and green pepper. Cook until beef is browned, and drain off excess grease. Stir in the brown sugar, vinegar, ketchup and mustard, and season with cloves and salt. Simmer for 30 minutes on low. Serve on hamburger buns.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "429 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1648 mg",
+    "sugarContent": "20 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "314"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/k7n87Fx6Eto5ujxAc0PwG2IOX5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5898980-02b149e5d19342c883a3373680ed3a94.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/50074/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
