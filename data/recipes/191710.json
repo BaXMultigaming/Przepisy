@@ -1,0 +1,86 @@
+{
+  "id": "191710",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/191710/cornbread-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/191710/cornbread-pancakes/",
+  "title": "Cornbread Pancakes",
+  "description": "These cornbread pancakes are requested regularly by my family for breakfast. The recipe is easy to throw together and the taste is yummy!",
+  "authors": [
+    "CocoBean"
+  ],
+  "date_published": "2020-06-18T23:39:12-04:00",
+  "date_modified": "2026-04-16T10:44:25-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup all-purpose flour",
+    "0.75 cup cornmeal",
+    "2 tablespoons white sugar",
+    "0.5 teaspoon baking powder",
+    "0.5 teaspoon baking soda",
+    "0.5 teaspoon salt",
+    "1.25 cups buttermilk",
+    "2 large eggs",
+    "3 tablespoons butter, melted and cooled"
+  ],
+  "steps": [
+    {
+      "text": "Whisk flour, cornmeal, sugar, baking powder, baking soda, and salt in a large bowl. Whisk buttermilk, eggs, and butter in a separate large bowl. Stir the liquid mixture into the dry mixture until blended and smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle or skillet over medium-high heat. For each pancake, pour 1/4 cup batter on griddle and cook until browned, about 1 1/2 minutes. Flip and cook until browned on the other side, about 1 minute. Continue with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "278 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "95 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "550 mg",
+    "sugarContent": "9 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "214"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IhW4NLUfYWNQdSiXGiipNGabikU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6587538-cornbread-pancakes-Stacy-Shawver-4x3-1-8e393f0353ce4aaa9cc220cce52c6658.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/191710/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

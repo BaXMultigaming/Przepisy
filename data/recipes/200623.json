@@ -1,0 +1,87 @@
+{
+  "id": "200623",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/200623/saras-iced-coffee/",
+  "requested_url": "https://www.allrecipes.com/recipe/200623/saras-iced-coffee/",
+  "title": "Sara&#39;s Iced Coffee",
+  "description": "A lightly sweetened, creamy iced coffee with just a hint of vanilla. Very refreshing and delicious on a hot summer day. Yum!",
+  "authors": [
+    "sarah"
+  ],
+  "date_published": "2020-06-18T23:39:36-04:00",
+  "date_modified": "2022-06-20T08:46:40-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 teaspoon vanilla extract",
+    "0.25 cup white sugar",
+    "0.25 cup boiling water",
+    "3 cups crushed ice",
+    "4 cups brewed coffee, chilled",
+    "0.5 cup cream"
+  ],
+  "steps": [
+    {
+      "text": "Stir vanilla extract and sugar into boiling water until sugar has dissolved. Refrigerate until cool, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Chill four glasses, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide ice and chilled coffee evenly between four glasses. Stir in sugar mixture and cream to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "155 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "41 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "13 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "125"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sqweUwtFXv5G02EayA0Olo3CIwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3588326-20a70aeeb2f54a269967a10153e59dda.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/200623/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

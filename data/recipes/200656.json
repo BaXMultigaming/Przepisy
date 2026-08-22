@@ -1,0 +1,79 @@
+{
+  "id": "200656",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/200656/easy-creamed-cauliflower/",
+  "requested_url": "https://www.allrecipes.com/recipe/200656/easy-creamed-cauliflower/",
+  "title": "Easy Creamed Cauliflower",
+  "description": "Steamed cauliflower is jazzed up with a tangy sauce made with cream of chicken and mayo.",
+  "authors": [
+    "Allrecipes Member"
+  ],
+  "date_published": "2019-07-10T03:01:47-04:00",
+  "date_modified": "2019-07-10T03:01:47-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 head cauliflower, cut into florets",
+    "1 (10.75 ounce) can condensed cream of chicken soup",
+    "1 cup mayonnaise",
+    "1 tablespoon lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Place a steamer insert into a saucepan, and fill with water to just below the bottom of the steamer. Cover, and bring the water to a boil over high heat. Add the cauliflower, recover, and steam until just tender, 2 to 6 minutes depending on thickness.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook and stir cream of chicken soup, mayonnaise, and lemon juice in a skillet over medium-high heat until heated through, about 10 minutes. Place cauliflower on a large plate and pour sauce over before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "855 mg",
+    "sugarContent": "5 g",
+    "fatContent": "48 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TJdC6fyHK9Le5kS5XA4lpO3QvsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7873208-1cf760f4abd84f31812ec6cbc122f068.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/200656/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

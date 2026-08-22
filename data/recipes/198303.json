@@ -1,0 +1,91 @@
+{
+  "id": "198303",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/198303/strawberry-fields/",
+  "requested_url": "https://www.allrecipes.com/recipe/198303/strawberry-fields/",
+  "title": "Strawberry Fields",
+  "description": "A delicious strawberry fields salad with baby greens, strawberries, cranberries, and onion drizzled with a red wine vinaigrette.",
+  "authors": [
+    "newcook89"
+  ],
+  "date_published": "2020-06-18T23:39:30-04:00",
+  "date_modified": "2026-08-21T14:50:19-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup olive oil",
+    "0.25 cup red wine vinegar",
+    "0.25 cup honey",
+    "0.25 cup white sugar",
+    "1 tablespoon Dijon mustard",
+    "salt and pepper to taste",
+    "1 pint strawberries, sliced",
+    "1 (8 ounce) bag mixed baby greens",
+    "1 cup sweetened dried cranberries",
+    "1 small red onion, sliced thin",
+    "0.25 cup crumbled feta cheese"
+  ],
+  "steps": [
+    {
+      "text": "Whisk olive oil, vinegar, honey, sugar, mustard, salt, and pepper together in a medium bowl to make dressing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss strawberries, baby greens, cranberries, and onion together in a large bowl; top with feta cheese. Drizzle dressing over salad to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Wnq98_37GtylBgff5XuwMw6CKYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/StrawberryFieldsMissShortcake-1ec4e2345fe142ac893b690afe312254.jpg"
+      ],
+      "image": "assets/images/198303/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "425 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "145 mg",
+    "sugarContent": "37 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "54"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ADRpN2I1mXmjBXQVtpeupnnAFgg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/198303strawberry-fieldsChefMo4x3-42cc85a9e6db4818b05e14039c32a206.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/198303/hero.webp",
+    "steps": [
+      null,
+      "assets/images/198303/step_02.webp"
+    ]
+  }
+}

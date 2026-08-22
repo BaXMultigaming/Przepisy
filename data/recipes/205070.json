@@ -1,0 +1,68 @@
+{
+  "id": "205070",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/205070/egg-white-mayonnaise/",
+  "requested_url": "https://www.allrecipes.com/recipe/205070/egg-white-mayonnaise/",
+  "title": "Egg White Mayonnaise",
+  "description": "This homemade mayonnaise omits the egg yolk.",
+  "authors": [
+    "JILLENA"
+  ],
+  "date_published": "2020-06-18T23:39:54-04:00",
+  "date_modified": "2022-01-14T11:45:36-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg white",
+    "0.5 teaspoon salt",
+    "1 teaspoon white sugar",
+    "0.25 teaspoon mustard powder",
+    "2 teaspoons lemon juice",
+    "1 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Blend the egg white, salt, sugar, mustard powder, and lemon juice in a blender until combined; slowly stream the vegetable oil into the mixture while blending, about 1/4 cup at a time, until thick. Refrigerate in an air-tight container until using.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "248 kcal",
+    "carbohydrateContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "152 mg",
+    "sugarContent": "1 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/phqfHxNzSlJOwC-FEQ32YKyLCDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/581249-fef291d759854229a85d9ac693696e2c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/205070/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

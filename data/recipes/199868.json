@@ -1,0 +1,91 @@
+{
+  "id": "199868",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/199868/garlic-scape-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/199868/garlic-scape-pesto/",
+  "title": "Garlic Scape Pesto",
+  "description": "This garlic scape pesto is easy to make with fresh garlic scapes, olive oil, Parmesan cheese, and lemon for a great-tasting pesto for pasta and more!",
+  "authors": [
+    "amandajo"
+  ],
+  "date_published": "2019-07-10T03:01:47-04:00",
+  "date_modified": "2025-12-05T09:07:36-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "28"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound garlic scapes, cut into 2-inch pieces",
+    "1.25 cups grated Parmesan cheese",
+    "1 cup olive oil",
+    "1 tablespoon lemon juice",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/5pEkSijnzLPjj2MB_Db9ZNxIJl4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Garlic-Scape-Pesto-step-01-023-e9547bb370b04b90b1ed75b7b44bb30c.jpg"
+      ],
+      "image": "assets/images/199868/step_01.webp"
+    },
+    {
+      "text": "Blend garlic scapes, Parmesan cheese, olive oil, lemon juice, and pepper together in a food processor until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ItE3dfqcdE9jKcGMI1j9Pu2ux7c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Garlic-Scape-Pesto-step-02-029-3241b0d81ee0469ea88f0fb4de12909e.jpg"
+      ],
+      "image": "assets/images/199868/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "108 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "58 mg",
+    "sugarContent": "0 g",
+    "fatContent": "9 g",
+    "servingSize": "3 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "68"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-IMH8_AaWwht9yd-AdIXRMg-C3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Garlic-Scape-Pesto-2x3--049-d19b44af5a7749c09a5fc95ef9eb17a7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/199868/hero.webp",
+    "steps": [
+      "assets/images/199868/step_01.webp",
+      "assets/images/199868/step_02.webp"
+    ]
+  }
+}

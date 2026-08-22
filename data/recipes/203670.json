@@ -1,0 +1,91 @@
+{
+  "id": "203670",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/203670/scrambled-eggs-with-zucchini/",
+  "requested_url": "https://www.allrecipes.com/recipe/203670/scrambled-eggs-with-zucchini/",
+  "title": "Scrambled Eggs with Zucchini",
+  "description": "This scrambled eggs with zucchini recipe features sautéed sliced squash cooked in a scramble with Parmesan and garlic powder for a tasty anytime meal.",
+  "authors": [
+    "LinH"
+  ],
+  "date_published": "2019-11-12T03:33:07-05:00",
+  "date_modified": "2026-03-27T19:56:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs, lightly beaten",
+    "2 tablespoons grated Parmesan cheese",
+    "2 tablespoons olive oil",
+    "1 zucchini, sliced 1/8- to 1/4-inch thick",
+    "garlic powder, or to taste",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Stir eggs and Parmesan cheese together in a medium bowl; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Add zucchini and cook, stirring occasionally, until softened and lightly browned, about 7 minutes. Season with garlic powder, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium; pour egg mixture over zucchini. Cook, stirring gently, about 3 minutes. Remove the skillet from heat, cover, and let sit until eggs are set, about 2 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "153 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "188 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "269 mg",
+    "sugarContent": "1 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "137"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gFWn5r4UrEEhvB6LzjjFSh25tuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6945836-48c382ec311c41ab968c5dd37b65cb55.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/203670/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "204829",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/204829/hot-carob/",
+  "requested_url": "https://www.allrecipes.com/recipe/204829/hot-carob/",
+  "title": "Hot Carob",
+  "description": "In this hot carob recipe, carob is lightly sweetened with honey and vanilla extract for this satisfying alternative to hot chocolate on chilly evenings.",
+  "authors": [
+    "Melody-Angelica1997"
+  ],
+  "date_published": "2016-06-04T09:53:25-04:00",
+  "date_modified": "2026-07-30T16:01:21-04:00",
+  "prep_time": null,
+  "cook_time": "PT5M",
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1 tablespoon carob powder",
+    "1 tablespoon honey",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk and carob powder in a small saucepan over medium heat, whisking to remove any lumps. Stir in honey and vanilla extract; heat until reaches desired temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "243 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "114 mg",
+    "sugarContent": "29 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qGvzz1kSm8kQwYxFpU9SILagvys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/772740-f00b0ba361fe471a99e96de1cf122871.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/204829/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

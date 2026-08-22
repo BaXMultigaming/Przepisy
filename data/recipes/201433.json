@@ -1,0 +1,95 @@
+{
+  "id": "201433",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/201433/summer-couscous/",
+  "requested_url": "https://www.allrecipes.com/recipe/201433/summer-couscous/",
+  "title": "Summer Couscous",
+  "description": "This summer couscous recipe is packed with fresh tomatoes, red onion, green onion, cucumber, parsley, and lemon for a light, delicious, easy side dish.",
+  "authors": [
+    "jmn"
+  ],
+  "date_published": "2019-07-10T03:01:48-04:00",
+  "date_modified": "2025-07-10T16:21:57-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup chicken broth",
+    "0.5 cup couscous",
+    "2 tablespoons olive oil",
+    "8 cherry tomatoes, quartered",
+    "2 green onions, chopped",
+    "0.25 red onion, diced",
+    "0.25 cup seeded, diced cucumber",
+    "2 tablespoons chopped fresh parsley",
+    "1 tablespoon lemon juice",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring broth to a near boil in a small saucepan over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour hot broth over couscous in a large bowl; stir in oil. Add tomatoes, green onions, red onion, cucumber, parsley, and lemon juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the bowl with plastic wrap; steam for 5 minutes. Uncover the bowl; fluff couscous and vegetables with a fork. Season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "129 mg",
+    "sugarContent": "1 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/D8e18U-8QOD_-Z8rtfowyGl_RMQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3331704-3a5560cf4e5b4e4c887cb1581f76ef27.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/201433/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

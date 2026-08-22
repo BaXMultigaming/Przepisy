@@ -1,0 +1,107 @@
+{
+  "id": "208360",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/208360/spicy-avocado-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/208360/spicy-avocado-chicken/",
+  "title": "Spicy Avocado Chicken",
+  "description": "A simple sauce of red onion, avocado, and lime juice is served over pan-fried chicken breasts for a spicy main course that comes together quickly.",
+  "authors": [
+    "emarika"
+  ],
+  "date_published": "2018-06-08T09:54:33-04:00",
+  "date_modified": "2026-05-28T22:09:32-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 chicken breast halves"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "0.25 teaspoon ground cayenne pepper",
+    "4 skinless, boneless chicken breast halves",
+    "2 tablespoons olive oil",
+    "1 red onion, minced",
+    "2 tablespoons lime juice",
+    "1 avocado, diced"
+  ],
+  "steps": [
+    {
+      "text": "Stir together 1 teaspoon salt, 1/4 teaspoon black pepper, and cayenne pepper in a small bowl until well combined; rub evenly into chicken breasts.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium heat; cook chicken in hot oil until no longer pink in the center and the juices run clear, 5 to 7 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir together onion, avocado, and lime juice in a medium bowl until combined; season with salt and pepper. Spoon over chicken breasts to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mrt5J4IqRcwTvspp7PiBY3crDGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/208360spicy-avocado-chickenFranceCvideo4x3-c321bc5ed1214632a353a42b39b83fe8.jpg"
+      ],
+      "image": "assets/images/208360/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "296 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "646 mg",
+    "sugarContent": "2 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "173"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/mAufMZts-ma1DlVvV.mp4",
+    "description": "Pan-fried chicken topped with a fresh avocado and red onion salsa.",
+    "duration": "PT2M27S",
+    "name": "Spicy Avocado Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/mAufMZts/poster.jpg?width=1280",
+    "uploadDate": "2021-07-23T00:50:12-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mrt5J4IqRcwTvspp7PiBY3crDGo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/208360spicy-avocado-chickenFranceCvideo4x3-c321bc5ed1214632a353a42b39b83fe8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/208360/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/208360/step_03.webp"
+    ]
+  }
+}

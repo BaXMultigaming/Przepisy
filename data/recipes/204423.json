@@ -1,0 +1,75 @@
+{
+  "id": "204423",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/204423/caribbean-health-drink/",
+  "requested_url": "https://www.allrecipes.com/recipe/204423/caribbean-health-drink/",
+  "title": "Caribbean Health Drink",
+  "description": "Freshly-blended carrot, banana, kiwi, apple, and pineapple make this delicious beverage.",
+  "authors": [
+    "Teresa"
+  ],
+  "date_published": "2020-06-18T23:39:53-04:00",
+  "date_modified": "2022-05-11T18:17:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "3 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "regions": [
+    "Caribbean"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup chopped carrot",
+    "1 banana",
+    "1 kiwi, peeled",
+    "1 apple - peeled, cored, and sliced",
+    "1 cup chopped pineapple",
+    "1 cup ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Blend the carrot, banana, kiwi, apple, pineapple, and ice cubes in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "178 kcal",
+    "carbohydrateContent": "45 g",
+    "fiberContent": "7 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "47 mg",
+    "sugarContent": "29 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/D5qQ-c61-FpTIRQPBdDPOlYMC5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/737839-a8ce31ef9b1346a7bd324b2c0b7aef9e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/204423/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

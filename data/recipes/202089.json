@@ -1,0 +1,88 @@
+{
+  "id": "202089",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/202089/green-garlic-and-ham-scrambled-eggs-with-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/202089/green-garlic-and-ham-scrambled-eggs-with-cheese/",
+  "title": "Green Garlic and Ham Scrambled Eggs with Cheese",
+  "description": "This green garlic and ham scrambled eggs with cheese recipe combines eggs, ham, garlic scapes, onion, and white Cheddar cheese for a delicious meal.",
+  "authors": [
+    "Soupster"
+  ],
+  "date_published": "2018-06-08T09:54:06-04:00",
+  "date_modified": "2025-07-14T19:42:52-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Brunch",
+    "Lunch",
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "1 onion, chopped",
+    "0.5 cup cubed cooked ham",
+    "2 garlic scapes, sliced",
+    "6 eggs",
+    "0.25 cup milk",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "0.5 cup shredded white Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large skillet over medium heat. Add onion, ham, and garlic scapes; cook until onion is tender, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat eggs, milk, salt, and black pepper together in a bowl; pour into the skillet. Cook, and stir continually, until eggs are nearly set, but still moist. Add ¼ cup cheese; cook and stir until eggs are completely set, about 5 minutes. Top with remaining ¼ cup cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "400 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "445 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1433 mg",
+    "sugarContent": "5 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-Ekt-XlZ6PQzRl0EeERH4SMukaY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/871128-2c8f6c09772c4c79be42b515e30d677f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/202089/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

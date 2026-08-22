@@ -1,0 +1,102 @@
+{
+  "id": "205616",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/205616/yum-yum-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/205616/yum-yum-sauce/",
+  "title": "Yum Yum Sauce",
+  "description": "Yum yum sauce is a sweet and tangy Japanese steakhouse sauce made with mayo, paprika, tomato, sugar, and garlic that&#39;s perfect for dipping or drizzling.",
+  "authors": [
+    "Maybole"
+  ],
+  "date_published": "2020-06-18T23:40:02-04:00",
+  "date_modified": "2025-11-05T12:50:26-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT485M",
+  "yield": [
+    "12",
+    "1 1/2 cups"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "regions": [
+    "Japanese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1.25 cups mayonnaise",
+    "0.25 cup water",
+    "1 tablespoon melted butter",
+    "1 teaspoon tomato paste",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon garlic powder",
+    "0.25 teaspoon paprika",
+    "1 pinch cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/GssjTWJV3_Km-v5Y05FzQJG3HZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/205616-Yum-Yum-Sauce-ddms-4x3-step1-6fbd9008215f4e50a2d1d98a6815b8a4.jpg"
+      ],
+      "image": "assets/images/205616/step_01.webp"
+    },
+    {
+      "text": "Whisk mayonnaise, water, melted butter, tomato paste, sugar, garlic powder, paprika, and cayenne together until smooth. Cover and refrigerate, 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/d3cw-q_VYCFayh9R7MdnGamtQqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/205616-yum-yum-sauce-ddmfs-4X3-0056-98957365ddc940e4908fd25faeccc43b.jpg"
+      ],
+      "image": "assets/images/205616/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "175 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "141 mg",
+    "sugarContent": "1 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "144"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/TgcIKQoS-K3AjnAEN.mp4",
+    "description": "In this video, we show you how to make that craveable white sauce served at almost every Japanese steakhouse. Just whisk up some spices, butter, tomato paste, mayonnaise and a little sugar. Serve this right alongside seared meats, veggies, and steamed rice",
+    "duration": "PT52S",
+    "name": "Yum Yum Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/TgcIKQoS/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:38:26-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d3cw-q_VYCFayh9R7MdnGamtQqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/205616-yum-yum-sauce-ddmfs-4X3-0056-98957365ddc940e4908fd25faeccc43b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/205616/hero.webp",
+    "steps": [
+      "assets/images/205616/step_01.webp",
+      "assets/images/205616/step_02.webp"
+    ]
+  }
+}

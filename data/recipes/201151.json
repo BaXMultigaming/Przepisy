@@ -1,0 +1,88 @@
+{
+  "id": "201151",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/201151/vanilla-banana-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/201151/vanilla-banana-french-toast/",
+  "title": "Vanilla Banana French Toast",
+  "description": "A French toast sandwich filled with bananas and cinnamony eggs.",
+  "authors": [
+    "Stevie Bowden"
+  ],
+  "date_published": "2020-06-18T23:39:38-04:00",
+  "date_modified": "2020-06-18T23:39:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "0.75 teaspoon vanilla extract",
+    "1 tablespoon ground cinnamon",
+    "2.25 teaspoons white sugar",
+    "2 slices bread",
+    "1 banana, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Beat eggs, vanilla, cinnamon, and sugar together in a bowl. Place bread into the egg mixture to soak.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled skillet over medium heat and brown the slices of bread on both sides. Heat a smaller lightly oiled skillet over medium-low heat and pour the remaining egg mixture into the skillet. Allow the eggs to set in the skillet for 1 to 2 minutes, then continue to cook and stir eggs until scrambled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place 1 slice of toast onto a plate and top with the eggs. Layer the slices of banana over the eggs, then place the second slice of toast on top to make a sandwich.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "444 kcal",
+    "carbohydrateContent": "68 g",
+    "cholesterolContent": "372 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "483 mg",
+    "sugarContent": "27 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ArtPv8_Ex0LY6eRr3dOeonWJbmE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/880714-4bbc491880474020bc174a79da5cf0e4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/201151/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

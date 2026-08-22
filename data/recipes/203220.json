@@ -1,0 +1,72 @@
+{
+  "id": "203220",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/203220/green-tea-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/203220/green-tea-shake/",
+  "title": "Green Tea Shake",
+  "description": "Green tea makes a surprise appearance in a frosty ice cream shake.",
+  "authors": [
+    "chripuri91"
+  ],
+  "date_published": "2020-06-18T23:39:48-04:00",
+  "date_modified": "2020-06-18T23:39:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup vanilla ice cream",
+    "0.75 cup brewed green tea",
+    "3 tablespoons white sugar",
+    "2 drops green food coloring",
+    "12 cubes ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Combine the ice cream, green tea, sugar, food coloring, and ice cubes in a blender. Blend on high until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "59 mg",
+    "sugarContent": "33 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QmI2K6DxAWt8rCcdm-2o_a7_ZsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4547050-1dd22bb2fc8c4afcb4e3e981641f5645.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/203220/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

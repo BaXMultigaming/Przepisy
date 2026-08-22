@@ -1,0 +1,88 @@
+{
+  "id": "202716",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/202716/buffalo-chicken-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/202716/buffalo-chicken-soup/",
+  "title": "Buffalo Chicken Soup",
+  "description": "Buffalo chicken soup is like your favorite Buffalo wings appetizer in soup form. Enjoy this creamy, cheesy bowl of chicken soup for lunch or dinner.",
+  "authors": [
+    "Keiko"
+  ],
+  "date_published": "2020-03-20T02:50:07-04:00",
+  "date_modified": "2026-04-07T23:25:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "3 stalks celery, diced",
+    "1 small onion, diced",
+    "0.25 cup all-purpose flour",
+    "0.75 cup half-and-half cream",
+    "3 cups water",
+    "1 cube chicken bouillon",
+    "2 cups cubed cooked chicken",
+    "1.5 cups shredded Cheddar cheese",
+    "0.25 cup buffalo wing sauce, or more to taste",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large pot over medium-high heat. Add celery and onion; cook until tender, about 5 minutes. Add flour and cook until absorbed, about 2 minutes. Slowly stir in half-and-half and water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add bouillon and stir until dissolved. Stir in chicken, Cheddar cheese, and Buffalo wing sauce. Season with salt and pepper. Reduce the heat to medium-low and simmer, stirring occasionally, until cheese has completely melted, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "259 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "72 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "570 mg",
+    "sugarContent": "1 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "194"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/G0alXLccV0QmJUwT568JXbLaq1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1110561-bbf1892613d040c8a95f4ee8dd55b6dd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/202716/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

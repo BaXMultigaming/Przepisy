@@ -1,0 +1,79 @@
+{
+  "id": "200374",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/200374/spiced-hot-chocolate/",
+  "requested_url": "https://www.allrecipes.com/recipe/200374/spiced-hot-chocolate/",
+  "title": "Spiced Hot Chocolate",
+  "description": "This spiced hot chocolate is slightly sweet and flavored with vanilla, cinnamon, chili powder, nutmeg, and cloves for a soothing homemade beverage.",
+  "authors": [
+    "leoele"
+  ],
+  "date_published": "2020-06-18T23:39:33-04:00",
+  "date_modified": "2023-03-31T11:49:27-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "6 cups"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups skim milk",
+    "3 tablespoons unsweetened cocoa powder",
+    "3 tablespoons white sugar",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon cinnamon",
+    "0.5 teaspoon chili powder",
+    "0.25 teaspoon ground nutmeg",
+    "0.25 teaspoon ground cloves"
+  ],
+  "steps": [
+    {
+      "text": "Heat milk in a saucepan over medium-low heat until lukewarm; stir cocoa powder and sugar into warmed milk until dissolved. Add vanilla, cinnamon, chili powder, nutmeg, and cloves. Heat for 5 more minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "118 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "106 mg",
+    "sugarContent": "19 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3J-cwbgcQ1LdqpGr9fgrof4lLIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/311231-f73d3e4462af4e58ba1a84d33a98c636.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/200374/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

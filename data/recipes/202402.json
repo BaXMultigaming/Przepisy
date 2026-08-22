@@ -1,0 +1,76 @@
+{
+  "id": "202402",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/202402/easy-mango-lassi/",
+  "requested_url": "https://www.allrecipes.com/recipe/202402/easy-mango-lassi/",
+  "title": "Easy Mango Lassi",
+  "description": "This delicious mango and yogurt shake is great for extinguishing the fire in your mouth after eating hot curries!",
+  "authors": [
+    "Loving The Alien"
+  ],
+  "date_published": "2020-06-18T23:39:45-04:00",
+  "date_modified": "2022-01-14T01:40:51-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups plain whole milk yogurt",
+    "1 cup milk",
+    "3 mangoes - peeled, seeded, and chopped",
+    "4 teaspoons white sugar, or to taste",
+    "0.125 teaspoon ground cardamom"
+  ],
+  "steps": [
+    {
+      "text": "Place the yogurt, milk, mangoes, white sugar, and cardamom into the jar of a blender and blend until smooth, about 2 minutes. Chill in the refrigerator for 1 hour or until cold, and serve sprinkled with a little ground cardamom.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "195 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "84 mg",
+    "sugarContent": "29 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Z_FmsnwP09CDdhnjadR_4Iqk198=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4027706-e21d301074a14c77a3c8ad74ee567cb4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/202402/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

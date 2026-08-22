@@ -1,0 +1,81 @@
+{
+  "id": "203170",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/203170/fried-cucumbers/",
+  "requested_url": "https://www.allrecipes.com/recipe/203170/fried-cucumbers/",
+  "title": "Fried Cucumbers",
+  "description": "These fried cucumbers coated with crunchy cornmeal are golden, crisp, and a deliciously different way to use all those cucumbers from the garden!",
+  "authors": [
+    "Carmen"
+  ],
+  "date_published": "2018-06-08T09:54:12-04:00",
+  "date_modified": "2024-11-25T18:04:29-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Snack",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup vegetable oil",
+    "2 cucumbers, peeled and sliced",
+    "1 cup cornmeal",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat the vegetable oil in a large heavy skillet over medium high heat. Line a plate with a paper towel; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Roll the cucumber slices in the cornmeal. Fry the slices in the hot oil, a few at a time, until golden brown, about 2 minutes per side. Transfer the cucumbers to the prepared plate; sprinkle with salt to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "392 kcal",
+    "carbohydrateContent": "32 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "3 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SOovVOiqraspSmXrZ0nSTCye1Po=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3775278-fried-cucumbers-chefbrit-4x3-1-153e9fa38e35448993e348fe0f5b42ac.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/203170/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

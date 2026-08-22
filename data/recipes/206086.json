@@ -1,0 +1,81 @@
+{
+  "id": "206086",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/206086/rice-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/206086/rice-pancakes/",
+  "title": "Rice Pancakes",
+  "description": "This pancake recipe uses applesauce instead of egg and rice instead of wheat.",
+  "authors": [
+    "Jamie West"
+  ],
+  "date_published": "2020-06-18T23:40:04-04:00",
+  "date_modified": "2020-06-18T23:40:04-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "12 pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup cooked rice",
+    "1 cup milk",
+    "1.25 cups rice flour",
+    "0.25 cup white sugar",
+    "2 tablespoons applesauce",
+    "2 teaspoons baking powder",
+    "1 tablespoon vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine the rice, milk, rice flour, sugar, applesauce, baking powder, and oil together in a bowl; blend with an electric hand mixer for 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grease a large skillet or griddle and place over medium heat. Pour 1/4 cup of the batter onto the griddle; cook until the underside is golden brown. Flip and cook until the other side is also golden brown, 2 to 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "230 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "180 mg",
+    "sugarContent": "11 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NTP4P9rWLhorsMyfZ5dsZflOkaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/854543-caa55625fcc54ffb94f5391ab90d3c08.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/206086/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

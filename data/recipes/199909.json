@@ -1,0 +1,74 @@
+{
+  "id": "199909",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/199909/island-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/199909/island-smoothie/",
+  "title": "Island Smoothie",
+  "description": "This cool and refreshing smoothie will make you feel like you&#39;re strolling along the beaches in the Caribbean.",
+  "authors": [
+    "Colleen"
+  ],
+  "date_published": "2020-06-18T23:39:32-04:00",
+  "date_modified": "2022-05-11T18:17:13-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "3 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "regions": [
+    "Caribbean"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup ice",
+    "2 cups pineapple juice",
+    "0.5 cup ginger ale",
+    "3 tablespoons coconut milk",
+    "1 tablespoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine the ice, pineapple juice, ginger ale, coconut milk, and sugar in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "445 kcal",
+    "carbohydrateContent": "89 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "31 mg",
+    "sugarContent": "73 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EXn5KHrUgdquFk_55ZOs96E2JQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2355532-67ad40cbc0aa4686a1d8f8cd78c36a2a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/199909/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

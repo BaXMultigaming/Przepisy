@@ -1,0 +1,89 @@
+{
+  "id": "203900",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/203900/cordon-bleu-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/203900/cordon-bleu-salad/",
+  "title": "Cordon Bleu Salad",
+  "description": "Cooked chicken, cubed ham, cubed Swiss cheese, and broccoli are tossed with a honey-Dijon dressing in this hearty pasta salad.",
+  "authors": [
+    "Lori Kuehl Knight"
+  ],
+  "date_published": "2020-06-18T23:39:51-04:00",
+  "date_modified": "2022-06-20T13:17:08-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT15M",
+  "total_time": "PT105M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package farfalle (bow tie) pasta",
+    "2 cups cubed cooked chicken",
+    "2 cups cubed fully cooked ham",
+    "2 cups cubed Swiss cheese",
+    "1 cup broccoli florets",
+    "0.25 cup honey",
+    "1.5 cups mayonnaise",
+    "2 tablespoons Dijon mustard",
+    "2 tablespoons distilled white vinegar",
+    "2 tablespoons chopped onion",
+    "0.5 cup olive oil",
+    "0.25 cup white sugar",
+    "0.5 teaspoon garlic salt",
+    "2 tablespoons chopped parsley",
+    "0.25 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the bow tie pasta and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 12 minutes. Drain well in a colander set in the sink.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine pasta, chicken, ham, Swiss cheese, and broccoli in a large bowl. Set aside. Blend honey, mayonnaise, mustard, vinegar, onion, olive oil, sugar, and garlic salt in a blender. Stir in parsley. Stir dressing into the pasta, reserving 1/2 cup of dressing. Chill salad and reserved dressing in the refrigerator for at least 1 hour. Stir in the remaining dressing and Parmesan cheese before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "965 kcal",
+    "carbohydrateContent": "61 g",
+    "cholesterolContent": "93 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "1006 mg",
+    "sugarContent": "18 g",
+    "fatContent": "66 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nvQSjk7-1IoL2Kybd68Gmv7CRrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4542326-42aae28dad124905b8ad39fbad078423.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/203900/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

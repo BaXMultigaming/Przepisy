@@ -1,0 +1,77 @@
+{
+  "id": "202718",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/202718/mango-orange-sorbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/202718/mango-orange-sorbet/",
+  "title": "Mango Orange Sorbet",
+  "description": "This recipe for the ice cream maker uses fresh mango, orange juice, sugar, and water.",
+  "authors": [
+    "Macry"
+  ],
+  "date_published": "2020-06-18T23:39:46-04:00",
+  "date_modified": "2020-06-18T23:39:46-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT190M",
+  "yield": [
+    "8",
+    "1 quart"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups chilled cubed mango",
+    "0.5 cup cold water",
+    "0.25 cup orange juice",
+    "0.5 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Blend the mango, water, and orange juice in a blender on medium-low speed until smooth. Add the sugar and blend until incorporated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into an ice cream maker and freeze according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "27 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "25 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dvptGuJOPXC_g2_3o0lPKihOMV8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241624-a28bf2307fb74823a703829b17c65933.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/202718/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

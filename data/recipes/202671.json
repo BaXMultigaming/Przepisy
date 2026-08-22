@@ -1,0 +1,79 @@
+{
+  "id": "202671",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/202671/whole-wheat-cereal-bars/",
+  "requested_url": "https://www.allrecipes.com/recipe/202671/whole-wheat-cereal-bars/",
+  "title": "Whole Wheat Cereal Bars",
+  "description": "Whole wheat cereal biscuits are mixed with honey, peanut butter and raisins for this delicious bar.",
+  "authors": [
+    "kimberlyrs"
+  ],
+  "date_published": "2020-03-05T00:06:44-05:00",
+  "date_modified": "2022-01-14T01:25:38-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "8 - inch square pan"
+  ],
+  "categories": [
+    "Dessert",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup brown sugar",
+    "0.5 cup honey",
+    "0.5 cup peanut butter",
+    "3 cups coarsely chopped shredded whole wheat cereal biscuits",
+    "0.75 cup raisins"
+  ],
+  "steps": [
+    {
+      "text": "Combine brown sugar, honey, and peanut butter in a microwave-safe glass or ceramic bowl. Melt the peanut butter mixture microwave in 30 second intervals, stirring after each melting, for 1 to 2 minutes (depending on your microwave). Stir in cereal and raisins.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Press cereal mixture into an 8 inch square pan sprayed with non-stick spray. Cool and cut into bars.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "412 kcal",
+    "carbohydrateContent": "77 g",
+    "fiberContent": "4 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "109 mg",
+    "sugarContent": "54 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Qcw4EyfzjJ9FaFTq3mYhz1Zwuz0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/366321-d3296eb3369b4cbcaf36ff7a04e0c21b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/202671/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

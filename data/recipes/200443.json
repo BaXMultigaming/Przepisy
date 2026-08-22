@@ -1,0 +1,70 @@
+{
+  "id": "200443",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/200443/creamy-pomegranate-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/200443/creamy-pomegranate-ice-cream/",
+  "title": "Creamy Pomegranate Ice Cream",
+  "description": "Homemade ice cream sparkles with the sweet, tart flavor of pomegranate.",
+  "authors": [
+    "Tami Armstrong"
+  ],
+  "date_published": "2020-06-18T23:39:36-04:00",
+  "date_modified": "2020-06-18T23:39:36-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT35M",
+  "yield": [
+    "6",
+    "3 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup heavy cream",
+    "1 cup white sugar",
+    "1 cup pomegranate juice",
+    "1 teaspoon vanilla extract",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Stir together the heavy cream and sugar. Stir in the pomegranate juice, vanilla extract, and salt. Add the mixture to an ice cream maker and freeze according to the manufacturer's directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "294 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "54 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "39 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-8LvSaNIhaOg2I0WqalIkd-FcDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/672087-942d677c8f2f46b6a4f7a4d382ab50aa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/200443/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

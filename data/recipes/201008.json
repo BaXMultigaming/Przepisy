@@ -1,0 +1,79 @@
+{
+  "id": "201008",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/201008/aegean-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/201008/aegean-chicken-salad/",
+  "title": "Aegean Chicken Salad",
+  "description": "Chicken salad takes a yummy tour to Greece with tangy Greek yogurt, hummus, and kalamata olives.",
+  "authors": [
+    "Kelly"
+  ],
+  "date_published": "2020-01-02T19:50:25-05:00",
+  "date_modified": "2020-01-02T19:50:25-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "3",
+    "3 cups"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Greek Inspired"
+  ],
+  "regions": [
+    "Greek Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12.5 fl oz) can chicken breast chunks, drained",
+    "0.25 cup finely chopped red onion",
+    "1 teaspoon fresh lemon juice",
+    "2 tablespoons Greek yogurt",
+    "0.25 cup hummus",
+    "0.25 cup kalamata olives, chopped",
+    "0.25 cup finely chopped red bell pepper",
+    "1 teaspoon chopped fresh dill",
+    "0.25 cup crumbled feta cheese"
+  ],
+  "steps": [
+    {
+      "text": "Break up chicken in a large bowl using a fork. Stir in onion, lemon juice, yogurt, hummus, olives, red bell pepper, and dill. Sprinkle with feta cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "332 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "93 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1082 mg",
+    "sugarContent": "2 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dXFGClGWTmblmDruUfqd9JTYr3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245741-82c9dddbcf6a42f39b28f0930d69577b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/201008/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

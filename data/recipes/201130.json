@@ -1,0 +1,78 @@
+{
+  "id": "201130",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/201130/scotts-sweet-potato-and-butternut-squash-mashers/",
+  "requested_url": "https://www.allrecipes.com/recipe/201130/scotts-sweet-potato-and-butternut-squash-mashers/",
+  "title": "Scott&#39;s Sweet Potato and Butternut Squash Mashers",
+  "description": "Sweet potatoes and butternut squash are mashed together to create this tasty side dish.",
+  "authors": [
+    "scottg"
+  ],
+  "date_published": "2020-06-18T23:39:37-04:00",
+  "date_modified": "2022-09-20T06:17:16-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 sweet potato, peeled and cubed",
+    "1 butternut squash - peeled, seeded, and cubed",
+    "0.5 teaspoon ground cinnamon",
+    "0.5 teaspoon nutmeg",
+    "0.25 cup sugar free maple flavored syrup"
+  ],
+  "steps": [
+    {
+      "text": "Place sweet potatoes and butternut squash into a large pot and cover with water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam dry for a minute or two.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mash sweet potatoes and butternut squash, then add cinnamon, nutmeg, and syrup. Mix until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "36 g",
+    "fiberContent": "6 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "53 mg",
+    "sugarContent": "7 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/G3WDG-Cit-Nzn07i87gkoTNciIA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/481963-af10832bde844491895422871c029a81.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/201130/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "207913",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/207913/pizza-rolls/",
+  "requested_url": "https://www.allrecipes.com/recipe/207913/pizza-rolls/",
+  "title": "Pizza Rolls",
+  "description": "Crisp egg roll wrappers hold a savory filling of mozzarella cheese and pepperoni pizza sauce.",
+  "authors": [
+    "Cory Klein"
+  ],
+  "date_published": "2019-04-03T23:47:54-04:00",
+  "date_modified": "2026-05-11T00:05:47-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "10",
+    "20 pizza rolls"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts canola oil for frying",
+    "1 egg",
+    "3 tablespoons water",
+    "1 (16 ounce) jar pizza sauce",
+    "1 (8 ounce) package sliced pepperoni",
+    "1 cup shredded mozzarella cheese",
+    "1 (14 ounce) package egg roll wrappers"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a deep-fryer or large saucepan to 300 degrees F (150 degrees C). Whisk egg and water together in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the pizza sauce and pepperoni in a blender or food processor. Process until pepperoni is well chopped and the sauce has thickened. Transfer sauce to a large bowl, and stir in mozzarella.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lay out one eggroll wrapper on work surface. Place 1 tablespoon filling at the bottom center of the wrapper, leaving 1/2 inch border on each side. Lightly brush the wrapper edges with the egg mixture. Fold over both sides; roll up to encase filling in wrapper. Repeat with remaining wrappers and filling.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Deep fry pizza rolls in batches until crisp and golden brown, 5-9 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "438 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "53 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "913 mg",
+    "sugarContent": "2 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "69"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WRHW5PbKeXlrULhRMjeTxb-hF-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2619220-5420b43c2772457191242ff52e23b833.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/207913/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

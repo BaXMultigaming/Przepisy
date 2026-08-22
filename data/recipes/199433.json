@@ -1,0 +1,83 @@
+{
+  "id": "199433",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/199433/summer-herb-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/199433/summer-herb-pesto/",
+  "title": "Summer Herb Pesto",
+  "description": "This summer herb pesto recipe creates an earthy, green pesto with basil, parsley, oregano, and spinach, combined with pine nuts and Parmesan cheese.",
+  "authors": [
+    "thislittlepiggy"
+  ],
+  "date_published": "2018-06-08T09:53:57-04:00",
+  "date_modified": "2025-07-14T16:09:55-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Lunch",
+    "Brunch",
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup fresh basil leaves",
+    "1 cup fresh flat-leaf parsley leaves",
+    "1 cup fresh spinach leaves",
+    "0.75 cup olive oil",
+    "0.5 cup chopped fresh oregano",
+    "0.5 cup toasted pine nuts",
+    "0.5 cup grated Parmesan cheese",
+    "2 garlic cloves, minced",
+    "1 pinch salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine basil, parsley, spinach, oil, oregano, pine nuts, Parmesan cheese, garlic, salt, and black pepper in a blender or the bowl of a food processor; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "172 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "57 mg",
+    "sugarContent": "0 g",
+    "fatContent": "18 g",
+    "servingSize": "1 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dgP9bahQjLUlHhdpsUM7R1laWeQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/261394-0078af43c93a439d9988b209914f473a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/199433/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

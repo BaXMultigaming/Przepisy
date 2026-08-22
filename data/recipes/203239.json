@@ -1,0 +1,76 @@
+{
+  "id": "203239",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/203239/raspberry-blackberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/203239/raspberry-blackberry-smoothie/",
+  "title": "Raspberry Blackberry Smoothie",
+  "description": "A quick and delicious smoothie made with raspberries, blackberries, bananas and yogurt.",
+  "authors": [
+    "ashley"
+  ],
+  "date_published": "2016-06-04T09:59:45-04:00",
+  "date_modified": "2026-08-13T11:39:02-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 small banana",
+    "0.5 cup blackberries",
+    "1 cup fresh raspberries",
+    "1 (6 ounce) container vanilla yogurt",
+    "1 tablespoon honey",
+    "4 ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Place banana, blackberries, raspberries, yogurt, honey, and ice cubes into a blender. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "195 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "59 mg",
+    "sugarContent": "31 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/j-qE8GgEvdaOr9UkWirRX7ek3NA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Raspberry-Blackberry-Smoothie-2000-3a85c58ac97d4c02897d155ff718288a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/203239/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

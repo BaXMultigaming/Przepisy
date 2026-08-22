@@ -1,0 +1,79 @@
+{
+  "id": "195238",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/195238/maple-glazed-tofu/",
+  "requested_url": "https://www.allrecipes.com/recipe/195238/maple-glazed-tofu/",
+  "title": "Maple Glazed Tofu",
+  "description": "This maple tofu is a vegetarian alternative to ham that&#39;s great for holidays like Easter and Christmas.",
+  "authors": [
+    "doll"
+  ],
+  "date_published": "2017-07-13T09:01:15-04:00",
+  "date_modified": "2022-12-05T18:58:11-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup maple syrup",
+    "0.5 cup pineapple juice",
+    "2 tablespoons brown mustard",
+    "1 teaspoon soy sauce",
+    "1 tablespoon olive oil",
+    "1 (8 ounce) container firm tofu, drained and cubed",
+    "1 teaspoon sesame seeds"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together maple syrup, pineapple juice, mustard, and soy sauce in a small bowl. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Cook and stir tofu in hot oil until evenly browned. Stir in maple syrup mixture and continue to cook until glaze is reduced. Sprinkle with sesame seeds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "407 kcal",
+    "carbohydrateContent": "64 g",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "360 mg",
+    "sugarContent": "54 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "30"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vSjpEFjOP6Y0EAj6u2WUq3cWgAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/816872-c7e687b1bf31475db18bc39990c0785d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/195238/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

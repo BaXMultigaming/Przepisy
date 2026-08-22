@@ -1,0 +1,84 @@
+{
+  "id": "200194",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/200194/melon-ice-candy/",
+  "requested_url": "https://www.allrecipes.com/recipe/200194/melon-ice-candy/",
+  "title": "Melon Ice Candy",
+  "description": "This melon ice candy recipe is for a Filipino filled frozen treat with only 4 ingredients: shredded cantaloupe, evaporated milk, water, and white sugar.",
+  "authors": [
+    "Sporadic Cookie"
+  ],
+  "date_published": "2020-06-18T23:39:32-04:00",
+  "date_modified": "2025-04-21T22:21:05-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT385M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Filipino"
+  ],
+  "regions": [
+    "Filipino"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 pounds cantaloupe, shredded",
+    "2 quarts water",
+    "1 (12 fluid ounce) can evaporated milk",
+    "1.25 cups white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine cantaloupe, water, evaporated milk, and sugar in a large pitcher, stirring until sugar dissolves; refrigerate for 10 minutes. Divide cantaloupe mixture among 20 molds; freeze until firm, about 6 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/N0L_9Cx8AWwst7QBeg6DwHgHNhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7644888-4f925a3f287e44aa8278e8864827a612.jpg"
+      ],
+      "image": "assets/images/200194/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "105 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "37 mg",
+    "sugarContent": "21 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "7"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/1NQ6HqUJ-K3AjnAEN.mp4",
+    "description": "See how to make melon ice candy.",
+    "duration": "PT1M58S",
+    "name": "Melon Ice Candy",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1NQ6HqUJ/poster.jpg?width=1280",
+    "uploadDate": "2021-08-05T02:44:49-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/N0L_9Cx8AWwst7QBeg6DwHgHNhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7644888-4f925a3f287e44aa8278e8864827a612.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/200194/hero.webp",
+    "steps": [
+      "assets/images/200194/step_01.webp"
+    ]
+  }
+}

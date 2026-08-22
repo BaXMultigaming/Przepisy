@@ -1,0 +1,72 @@
+{
+  "id": "203228",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/203228/strawberry-sensation-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/203228/strawberry-sensation-smoothie/",
+  "title": "Strawberry Sensation Smoothie",
+  "description": "Strawberry and orange flavors will be sure to perk up your morning!",
+  "authors": [
+    "MW"
+  ],
+  "date_published": "2020-06-18T23:39:48-04:00",
+  "date_modified": "2022-06-07T01:02:30-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup frozen strawberries",
+    "0.5 orange, peeled",
+    "0.5 cup apple juice",
+    "0.25 cup vanilla yogurt",
+    "1 teaspoon finely ground almonds"
+  ],
+  "steps": [
+    {
+      "text": "Blend the strawberries, orange pieces, apple juice, vanilla yogurt, and almonds together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "35 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/e0dBb79bDCt3sgNzviFCl07tCfg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberry-Sensation-Smoothie-Yoly-4x3-1-c4375cabe88b46f79a36ea8a814c76d7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/203228/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

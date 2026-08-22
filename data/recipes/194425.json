@@ -1,0 +1,84 @@
+{
+  "id": "194425",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/194425/creamy-cheesy-scrambled-eggs-with-basil/",
+  "requested_url": "https://www.allrecipes.com/recipe/194425/creamy-cheesy-scrambled-eggs-with-basil/",
+  "title": "Creamy Cheesy Scrambled Eggs with Basil",
+  "description": "These cheesy scrambled eggs with sour cream, mozzarella, and basil are rich and satisfying. Serve with toast and fresh fruit for a divine breakfast.",
+  "authors": [
+    "Elisa Stamm"
+  ],
+  "date_published": "2020-05-18T18:22:22-04:00",
+  "date_modified": "2026-06-15T22:19:18-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "4 eggs",
+    "3 tablespoons sour cream",
+    "0.5 cup shredded mozzarella cheese",
+    "salt and pepper to taste",
+    "2 teaspoons butter",
+    "1 tablespoon minced fresh basil"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together eggs and sour cream in a large bowl until creamy and smooth. Mix in cheese. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium heat. Pour in egg mixture; cook, stirring constantly, until eggs reach desired consistency. Mix in basil during final minutes of cooking.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "297 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "410 mg",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "433 mg",
+    "sugarContent": "1 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "265"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rCC9IhboKBNfG1IMXP_s2-q0dCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/664766-97c8038b5f5144ce92fb0bc6235e85f4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/194425/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

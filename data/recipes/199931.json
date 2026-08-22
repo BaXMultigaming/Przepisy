@@ -1,0 +1,89 @@
+{
+  "id": "199931",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/199931/avocado-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/199931/avocado-smoothie/",
+  "title": "Avocado Smoothie",
+  "description": "This avocado smoothie is rich and creamy thanks to a combination of vanilla yogurt, ripe avocado, and honey. Perfect for a refreshing on-the-go breakfast.",
+  "authors": [
+    "loveinit"
+  ],
+  "date_published": "2009-06-01T18:53:49-04:00",
+  "date_modified": "2025-12-16T14:31:24-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 ripe avocado, halved and pitted",
+    "1 cup milk",
+    "0.5 cup vanilla yogurt",
+    "3 tablespoons honey",
+    "8 ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/18zUCs2jmqKpRAtE3wtpOJsU760=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-199931-avocado-smoothie-VAT-step-01-1516b6873ddc4cb298ebd1d5fc12e666.jpg"
+      ],
+      "image": "assets/images/199931/step_01.webp"
+    },
+    {
+      "text": "Scoop avocado flesh into a blender; add milk, yogurt, honey, and ice cubes. Blend ingredients until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/eXx0IQE-ot5dS03_XcTCfMr1ktw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-199931-avocado-smoothie-VAT-step-02-2beforeblending-47bafbb210d84df78f46b555ef55b368.jpg"
+      ],
+      "image": "assets/images/199931/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "370 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "101 mg",
+    "sugarContent": "41 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "259"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aREJpWcWB77xwNYj9Zgqz5j6hu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-199931-avocado-smoothie-VAT-4x3-2headon-8e9fbcd959d841aa88fd7f0d74ea52b2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/199931/hero.webp",
+    "steps": [
+      "assets/images/199931/step_01.webp",
+      "assets/images/199931/step_02.webp"
+    ]
+  }
+}

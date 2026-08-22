@@ -1,0 +1,80 @@
+{
+  "id": "206612",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/206612/spiced-coconut-coffee/",
+  "requested_url": "https://www.allrecipes.com/recipe/206612/spiced-coconut-coffee/",
+  "title": "Spiced Coconut Coffee",
+  "description": "Spicing up your cup of coffee with crushed red pepper, cloves, and cinnamon is a good way to kick start your day on a chilly winter morning.",
+  "authors": [
+    "Heather"
+  ],
+  "date_published": "2019-04-03T23:47:51-04:00",
+  "date_modified": "2022-09-25T23:33:17-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons ground coffee beans",
+    "0.5 teaspoon crushed red pepper",
+    "2 whole cloves",
+    "0.5 (3 inch) cinnamon stick",
+    "2 cups water",
+    "0.5 cup coconut milk",
+    "2 tablespoons honey"
+  ],
+  "steps": [
+    {
+      "text": "Combine the ground coffee, red pepper, cloves, and cinnamon stick in a coffee filter set into a drip coffee brewer. Pour the water into the brewer's water reservoir. Set the coffee brewer on to brew.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While the coffee brews, gently warm the coconut milk in a small saucepan over medium-low heat. Stir in the honey until the honey is dissolved. Pour the brewed coffee into the mixture; stir. Divide the liquid into two mugs to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "21 mg",
+    "sugarContent": "17 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fy89AVV3wPPs1BELCkgNPDNLZ_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4558186-37767b327a4c4c0d910153bf057ceb5d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/206612/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

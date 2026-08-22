@@ -1,0 +1,89 @@
+{
+  "id": "201910",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/201910/asian-cucumber-thai-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/201910/asian-cucumber-thai-salad/",
+  "title": "Asian Cucumber Thai Salad",
+  "description": "A sweet and tangy cold cucumber salad has Thai-inspired flavors of cilantro, fresh mint, and peanuts.",
+  "authors": [
+    "Kris10 in CA"
+  ],
+  "date_published": "2020-06-18T23:39:39-04:00",
+  "date_modified": "2020-06-18T23:39:39-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT80M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup distilled white vinegar",
+    "0.33333334326744 cup white sugar",
+    "0.5 teaspoon ground coriander",
+    "0.5 teaspoon crushed red pepper flakes",
+    "0.5 teaspoon salt",
+    "2 pounds cucumbers - halved, seeded, and sliced",
+    "0.5 cup finely chopped red onion",
+    "2 roma (plum) tomatoes, chopped",
+    "2 tablespoons chopped fresh cilantro",
+    "2 tablespoons chopped fresh mint",
+    "0.25 cup chopped roasted peanuts",
+    "2 sprigs fresh mint sprigs"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together the vinegar, sugar, coriander, red pepper flakes, and salt in a salad bowl until the sugar is dissolved. Stir in the cucumbers, onion, tomatoes, cilantro, and chopped mint, and toss to coat with dressing. Cover and refrigerate for 1 hour to blend the flavors.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Before serving, toss again with chopped peanuts, and garnish with sprigs of fresh mint.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "carbohydrateContent": "31 g",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "299 mg",
+    "sugarContent": "23 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "82"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KaNTvrw_k4ZUVzw8YWku1S7Gc8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3638388-3104be1a5cb642469687e3271a0a0f7d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/201910/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

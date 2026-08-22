@@ -1,0 +1,79 @@
+{
+  "id": "206160",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/206160/russian-garden-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/206160/russian-garden-salad/",
+  "title": "Russian Garden Salad",
+  "description": "This popular Russian salad is a mix of romaine lettuce, tomatoes, cucumber, and onion with a sour cream dressing.",
+  "authors": [
+    "Gianna Petrosyan"
+  ],
+  "date_published": "2020-02-24T19:42:58-05:00",
+  "date_modified": "2026-03-16T19:12:41-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Russian"
+  ],
+  "regions": [
+    "Russian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 romaine lettuce leaves, chopped",
+    "4 tomatoes, chopped",
+    "1 large cucumber, sliced",
+    "1 onion, sliced",
+    "0.5 cup fresh parsley, chopped",
+    "1 tablespoon salt",
+    "2 tablespoons lemon juice",
+    "1 tablespoon extra-virgin olive oil",
+    "1 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Toss the romaine lettuce, tomatoes, cucumber, onion, and parsley together in a large bowl; season with salt. Drizzle the lemon juice and olive oil over the salad; stir. Add the sour cream and mix until evenly coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1790 mg",
+    "sugarContent": "6 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EL5iIu8oVCoBsBSJaq5bkHAoZ_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/606226-c5c984c0b86d445db49f18e369c2f4c1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/206160/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

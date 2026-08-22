@@ -1,0 +1,90 @@
+{
+  "id": "201085",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/201085/molasses-beef-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/201085/molasses-beef-curry/",
+  "title": "Molasses-Beef Curry",
+  "description": "This molasses-beef curry recipe is soy- and dairy-free. Beef and potatoes are simmered to perfection with rice wine vinegar, molasses, and curry powder.",
+  "authors": [
+    "mdcook"
+  ],
+  "date_published": "2020-04-08T19:12:31-04:00",
+  "date_modified": "2025-05-20T09:58:42-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT105M",
+  "total_time": "PT125M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup all-purpose flour",
+    "0.25 teaspoon salt",
+    "1 dash ground black pepper",
+    "1 pound cubed beef stew meat",
+    "1 tablespoon olive oil",
+    "1 onion, diced",
+    "3 cups beef stock",
+    "2 tablespoons curry powder",
+    "2 bay leaves",
+    "3 potatoes, cut into 1/4 inch cubes",
+    "2 carrots, diced",
+    "0.25 cup rice vinegar",
+    "1 tablespoon molasses"
+  ],
+  "steps": [
+    {
+      "text": "Combine flour, salt, and black pepper in a bowl. Add beef and toss to coat; shake off excess.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Add beef and onion; cook until browned. Stir in beef stock, curry powder, and bay leaves; bring to a boil, then reduce heat and simmer for 30 minutes. Stir in potatoes, carrots, vinegar, and molasses; simmer until tender, about 1 hour more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "632 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "99 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "39 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "319 mg",
+    "sugarContent": "10 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Vdjt1F1dmpMug_GJTNBOhQFm8QY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4460313-cfe2fa6ee7c84ecd8155cf48e2649c7d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/201085/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

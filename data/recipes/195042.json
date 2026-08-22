@@ -1,0 +1,108 @@
+{
+  "id": "195042",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/195042/island-style-fried-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/195042/island-style-fried-rice/",
+  "title": "Island-Style Fried Rice",
+  "description": "This Hawaiian fried rice with egg features beloved island delicacies such as pineapple, Chinese lup cheong pork sausage, and Spam for a popular meal.",
+  "authors": [
+    "chen"
+  ],
+  "date_published": "2020-04-28T19:12:14-04:00",
+  "date_modified": "2026-03-02T08:54:36-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT40M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "regions": [
+    "Hawaiian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups water",
+    "1.5 cups uncooked jasmine rice",
+    "2 teaspoons canola oil",
+    "1 (12 ounce) can fully cooked luncheon meat (such as SPAM®), cubed",
+    "0.5 cup sliced Chinese sweet pork sausage (lup cheong)",
+    "3 eggs, beaten",
+    "2 tablespoons canola oil",
+    "0.5 teaspoon garlic powder",
+    "1 (8 ounce) can pineapple chunks, drained",
+    "3 tablespoons oyster sauce",
+    "0.5 cup chopped green onion"
+  ],
+  "steps": [
+    {
+      "text": "Bring water and rice to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes. Let rice cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 2 teaspoons oil in a large nonstick skillet over medium heat. Cook and stir luncheon meat and sausage in hot oil until browned. Remove meat mixture to a plate. Pour beaten eggs into the same skillet; cook and stir until eggs are scrambled. Transfer eggs to the plate with meat mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 2 tablespoons oil in the same skillet over medium heat. Cook and stir cooled rice in hot oil until heated through and beginning to brown, about 2 minutes. Add garlic powder; toss rice to develop garlic taste, about 1 minute. Stir in cooked meats, scrambled eggs, pineapple, and oyster sauce. Cook and stir until well combined and heated through, 2 to 3 minutes. Stir in green onion to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/DdubGFIkSeITNin7yenEGttjkMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/406386-dc23d08c419546f9966c98004f304a33.jpg"
+      ],
+      "image": "assets/images/195042/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "301 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "127 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "645 mg",
+    "sugarContent": "7 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "205"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/0Qdjzlpu-K3AjnAEN.mp4",
+    "description": "Fried rice with pineapple and Spam is a tasty island-style dish! Scramble some eggs, chop some green onions, and fry up this delicious rice!",
+    "duration": "PT1M26S",
+    "name": "How to Make Island Style Fried Rice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/0Qdjzlpu/poster.jpg?width=1280",
+    "uploadDate": "2022-06-07T12:58:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DdubGFIkSeITNin7yenEGttjkMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/406386-dc23d08c419546f9966c98004f304a33.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/195042/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/195042/step_03.webp"
+    ]
+  }
+}
