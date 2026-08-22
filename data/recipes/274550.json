@@ -1,0 +1,80 @@
+{
+  "id": "274550",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/274550/poblano-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/274550/poblano-rice/",
+  "title": "Poblano Rice",
+  "description": "This poblano rice recipe showcases poblano chile peppers and their incredible flavor by sautéing them in butter and pairing them with jasmine rice.",
+  "authors": [
+    "MitchJGray"
+  ],
+  "date_published": "2019-08-25T02:48:25-04:00",
+  "date_modified": "2022-09-08T09:09:33-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "4 poblano peppers, seeded and roughly chopped",
+    "1 teaspoon onion powder",
+    "1 teaspoon garlic powder",
+    "1.5 cups chicken broth",
+    "1 cup uncooked jasmine rice"
+  ],
+  "steps": [
+    {
+      "text": "Heat butter in a skillet over medium-high heat. Sauté peppers in butter until slightly soft, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in onion powder and garlic powder. Pour in chicken broth and bring to a boil; add rice and reduce heat to low. Cover and cook until rice is tender and fluffy, about 12 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "489 mg",
+    "sugarContent": "3 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fFLKSw1OY-zslN7DiWdDgYwpcaQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7383397-984321611ff449eb9d7990f92872088f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/274550/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

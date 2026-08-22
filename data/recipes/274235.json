@@ -1,0 +1,121 @@
+{
+  "id": "274235",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/274235/coconut-chicken-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/274235/coconut-chicken-curry/",
+  "title": "Coconut Chicken Curry",
+  "description": "This rich and flavorful coconut-chicken curry represents the sweet and savory flavor you get in a restaurant.",
+  "authors": [
+    "Matthieu Duquette"
+  ],
+  "date_published": "2020-06-19T00:38:03-04:00",
+  "date_modified": "2025-02-04T01:28:39-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT45M",
+  "total_time": "PT60M",
+  "yield": [
+    "4",
+    "4 large servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "regions": [
+    "Thai"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons curry powder",
+    "2 tablespoons ground cinnamon",
+    "1 tablespoon ground cumin",
+    "1 tablespoon ground turmeric",
+    "1 tablespoon ground coriander",
+    "1 teaspoon nutmeg",
+    "1 teaspoon paprika",
+    "1 teaspoon cayenne pepper",
+    "1 teaspoon black pepper",
+    "0.5 teaspoon ground cloves",
+    "0.5 teaspoon allspice",
+    "2 bay leaves",
+    "3 tablespoons olive oil",
+    "1 small onion, chopped",
+    "2 cloves garlic, minced",
+    "1 teaspoon grated fresh ginger root",
+    "3 tablespoons white sugar",
+    "salt to taste",
+    "3 skinless, boneless chicken breast halves, cut into bite-sized pieces",
+    "(14 ounce) can coconut milk",
+    "1 cup plain yogurt",
+    "4 tablespoons butter",
+    "1 splash lime juice",
+    "1 lime, cut into wedges"
+  ],
+  "steps": [
+    {
+      "text": "Combine curry powder, cinnamon, cumin, turmeric, coriander, nutmeg, paprika, cayenne pepper, black pepper, cloves, allspice, and bay leaves in a large skillet. Cook over medium heat for 5 minutes, stirring occasionally, allowing the oils in the spices to activate. Pour olive oil into the skillet and add onion. Cook and stir until lightly browned, about 5 minutes. Stir in garlic, ginger, sugar, and salt; cook and stir for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add chicken pieces, coconut milk, yogurt, and butter to the skillet. Bring to a boil, slightly reduce heat, and simmer until sauce reduces to desired thickness, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove and discard bay leaves. Stir in lime juice and serve with lime wedges on the side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/c0sEnmeQOIMOwEQLKYmDSZ9Mpm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7ad62816-691b-414f-841b-da9f2332f00d-09afb9c2a1284306ac1f62e0db783a48.png"
+      ],
+      "image": "assets/images/274235/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "439 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "218 mg",
+    "sugarContent": "16 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "15"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/LGgVC9E9-K3AjnAEN.mp4",
+    "description": "After experimenting, this is my adaptation of coconut chicken curry. Others ended up either too tangy, too tomato-like, or too lemony. This is what I feel better represents the sweet and savory flavor you get in a restaurant.",
+    "duration": "PT1M8S",
+    "name": "How to Make Coconut Chicken Curry",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/LGgVC9E9/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:44:39-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/c0sEnmeQOIMOwEQLKYmDSZ9Mpm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7ad62816-691b-414f-841b-da9f2332f00d-09afb9c2a1284306ac1f62e0db783a48.png"
+  ],
+  "images": {
+    "hero": "assets/images/274235/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/274235/step_03.webp"
+    ]
+  }
+}

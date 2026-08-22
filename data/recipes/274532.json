@@ -1,0 +1,82 @@
+{
+  "id": "274532",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/274532/high-protein-snack-bars/",
+  "requested_url": "https://www.allrecipes.com/recipe/274532/high-protein-snack-bars/",
+  "title": "High-Protein Snack Bars",
+  "description": "Packed with high-protein ingredients and easily made ahead, these snack bars are perfect for an afternoon pick-me-up, or an on-the-go breakfast.",
+  "authors": [
+    "Mary P"
+  ],
+  "date_published": "2019-07-11T08:30:25-04:00",
+  "date_modified": "2019-07-11T08:30:25-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT195M",
+  "yield": [
+    "24",
+    "24 bars"
+  ],
+  "categories": [
+    "Lunch",
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 scoops chocolate-flavored raw meal powder (such as Garden of Life®)",
+    "2 cups quick-cooking rolled oats",
+    "0.33333334326744 cup chopped unsalted peanuts",
+    "0.5 cup golden raisins",
+    "1 cup unsweetened almond milk",
+    "0.5 cup smooth peanut butter"
+  ],
+  "steps": [
+    {
+      "text": "Combine meal powder, oats, peanuts, and raisins in a large bowl and mix well. Add almond milk and peanut butter and mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Press mixture into an 8x8-inch baking pan. Cover and refrigerate 3 hours to overnight. Cut into 24 bars.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "95 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "3 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xPRg7cBbWLJJmc6uNTpEzoppKCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6867186-1e74762546ee45efbffed80838a181ca.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/274532/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
