@@ -1,0 +1,81 @@
+{
+  "id": "254315",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/254315/japanese-sweet-omelet/",
+  "requested_url": "https://www.allrecipes.com/recipe/254315/japanese-sweet-omelet/",
+  "title": "Japanese Sweet Omelet",
+  "description": "A quick and easy breakfast recipe, the tamagoyaki is a tasty Japanese sweet omelet made by adding sugar to eggs and folding into a square.",
+  "authors": [
+    "cOoKiEcRaZy"
+  ],
+  "date_published": "2020-06-19T00:16:25-04:00",
+  "date_modified": "2020-06-19T00:16:25-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 omelet"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "regions": [
+    "Japanese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "1 tablespoon water",
+    "1 teaspoon soy sauce",
+    "1 teaspoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Mix eggs, water, soy sauce, and sugar in a bowl with a fork until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a skillet over medium heat. Pour egg mixture into skillet and stir with a fork. Cook until omelet begins to set and liquid is no longer visible, 3 to 5 minutes. Fold in half twice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "162 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "372 mg",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "439 mg",
+    "sugarContent": "5 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d3Z67LEg_8pqxPM93FCypvx9X_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4409537-701155d663014f929b68ad6326a28f6b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/254315/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

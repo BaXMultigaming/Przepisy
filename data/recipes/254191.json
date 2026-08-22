@@ -1,0 +1,81 @@
+{
+  "id": "254191",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/254191/coconut-sorbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/254191/coconut-sorbet/",
+  "title": "Coconut Sorbet",
+  "description": "This creamy coconut milk sorbet is quick and easy to make with only four ingredients. It tastes refreshingly delicious on a hot summer day!",
+  "authors": [
+    "lpattan"
+  ],
+  "date_published": "2020-06-19T00:16:13-04:00",
+  "date_modified": "2023-06-15T14:53:00-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT55M",
+  "yield": [
+    "4",
+    "2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (13.5 ounce) can coconut milk",
+    "6.75 fluid ounces water",
+    "0.5 cup white sugar",
+    "0.5 cup unsweetened coconut flakes"
+  ],
+  "steps": [
+    {
+      "text": "Pour coconut milk into a container. Add water to the empty can, swirl, and pour into the container. Whisk in sugar until dissolved, then stir in coconut flakes. Cover and freeze until chilled, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour coconut mixture into an ice cream maker and churn according to the manufacturer's instructions until soft and creamy, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "363 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "25 g",
+    "sodiumContent": "18 mg",
+    "sugarContent": "26 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tRh6sgtGUprj1FwmQ3eE83qVO_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/254191coconut-sorbetYoly-18b52407fcee45c6a6035c70a0be7991.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/254191/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

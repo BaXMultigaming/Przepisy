@@ -1,0 +1,84 @@
+{
+  "id": "254559",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/254559/chia-milk/",
+  "requested_url": "https://www.allrecipes.com/recipe/254559/chia-milk/",
+  "title": "Chia Milk",
+  "description": "Chia seeds and walnuts are soaked overnight then blended with sesame tahini and honey to make this delicious chia milk protein shake.",
+  "authors": [
+    "LivingWithTheEssentials"
+  ],
+  "date_published": "2019-04-04T00:06:38-04:00",
+  "date_modified": "2024-07-23T07:39:51-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT485M",
+  "yield": [
+    "10",
+    "5 cups"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups water, divided",
+    "0.25 cup chia seeds",
+    "2 tablespoons walnuts",
+    "2 tablespoons sesame tahini",
+    "1 teaspoon honey, or to taste",
+    "1 dash vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine 3 cups water, chia seeds, and walnuts in a bowl; stir to prevent clumps from forming. Let soak for 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour chia seed mixture into a blender; add 1 cup water, tahini, honey, and vanilla extract. Cover and blend until smooth; add reminding water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "45 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6ls__zye3bvOxu9952zEtF_3FAg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4464626-chia-milk-Buckwheat-Queen-4x3-1-b8ed1ed5bc5242b6be82cd9096e00a63.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/254559/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

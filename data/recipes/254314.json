@@ -1,0 +1,82 @@
+{
+  "id": "254314",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/254314/tamagoyaki-japanese-sweet-omelet/",
+  "requested_url": "https://www.allrecipes.com/recipe/254314/tamagoyaki-japanese-sweet-omelet/",
+  "title": "Tamagoyaki (Japanese Sweet Omelet)",
+  "description": "Made with sugar and then folded until square, this take on the traditional tamagoyaki, or Japanese Sweet Omelet, is a quick and easy recipe.",
+  "authors": [
+    "JapaCook"
+  ],
+  "date_published": "2020-06-19T00:16:24-04:00",
+  "date_modified": "2020-06-19T00:16:24-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "1",
+    "1 omelet"
+  ],
+  "categories": [
+    "Breakfast",
+    "Snack"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon water",
+    "1 teaspoon soy sauce, or to taste",
+    "0.5 teaspoon white sugar",
+    "1 egg"
+  ],
+  "steps": [
+    {
+      "text": "Mix water, soy sauce, and sugar together in a small bowl until sugar is dissolved. Add egg and beat until egg mixture is combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat skillet over medium heat until a drop of water evaporates almost immediately. Pour egg mixture into pan. Cook until the bottom of the omelet has solidified, 3 to 5 minutes. Flip and fold omelet into a square and transfer to a plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "186 mg",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "369 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DmJ9GDh90muPTxp-mjQePTJCYag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4409530-c7e54a6a04544bcca88fd9443e6cec66.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/254314/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

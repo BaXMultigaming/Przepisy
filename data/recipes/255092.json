@@ -1,0 +1,77 @@
+{
+  "id": "255092",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255092/monkey-milk/",
+  "requested_url": "https://www.allrecipes.com/recipe/255092/monkey-milk/",
+  "title": "Monkey Milk",
+  "description": "This monkey milk recipe combines bananas, milk, a bit of sugar, vanilla, and cinnamon for a quick and and easy breakfast or healthy after-school snack.",
+  "authors": [
+    "Maggie Yant"
+  ],
+  "date_published": "2020-06-19T00:18:03-04:00",
+  "date_modified": "2025-01-06T17:51:39-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Snack",
+    "Breakfast",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large banana",
+    "1 cup milk",
+    "2 teaspoons white sugar",
+    "1 teaspoon vanilla extract",
+    "1 pinch ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Combine banana, milk, sugar, and vanilla extract in a blender; blend until smooth. Pour into 2 glasses; garnish with cinnamon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "51 mg",
+    "sugarContent": "19 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xNDcY3kjZ0xjF3OmFxxURC-4IdE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6032977-61a8392dd14249049cbf64af1373ec79.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255092/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
