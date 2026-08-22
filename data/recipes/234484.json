@@ -1,0 +1,98 @@
+{
+  "id": "234484",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234484/oreo-fluff-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/234484/oreo-fluff-salad/",
+  "title": "Oreo Fluff Salad",
+  "description": "This Oreo fluff salad features chocolate sandwich cookies folded into fluffy vanilla pudding for a simple, family-friendly, delicious dessert.",
+  "authors": [
+    "MelindaSAbel"
+  ],
+  "date_published": "2013-09-20T17:55:13-04:00",
+  "date_modified": "2025-11-24T18:46:56-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups milk",
+    "2 (3.4 ounce) packages instant vanilla pudding mix",
+    "2 (8 ounce) containers whipped topping (such as Cool Whip®)",
+    "30 chocolate sandwich cookies (such as Oreo®), crushed, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ukoXOiSwNc-Z5hQPfKjHbbd3-k8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234484-oreo-fluff-salad-VAT-005-step-01-43bd39bdfb6944ec9fe90f7279839c7b.jpg"
+      ],
+      "image": "assets/images/234484/step_01.webp"
+    },
+    {
+      "text": "Whisk milk and instant pudding mix together in a large serving bowl until thickened, about 2 minutes. Fold in whipped topping until incorporated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3HRZDRRoW3bcNH9gxE3xX0PPN0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234484-oreo-fluff-salad-VAT-006-step-02-7f32fcf7977247bbba1bfcacb5dd72c4.jpg"
+      ],
+      "image": "assets/images/234484/step_02.webp"
+    },
+    {
+      "text": "Stir crushed cookies into pudding until well blended. Cover the bowl with plastic wrap; refrigerate until chilled and thickened, at least 1 hour to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fpFTsLBNpzvym5qsOhXii7jslN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234484-oreo-fluff-salad-VAT-007-step-03-b6c9828037e04553a0c13af174988274.jpg"
+      ],
+      "image": "assets/images/234484/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "323 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "404 mg",
+    "sugarContent": "32 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QzJv2GO2xeh3kfeer-iTHmj9Ffo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234484-oreo-fluff-salad-VAT-001-4x3-1d356d1a22fe4c47b1578a20feda2511.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234484/hero.webp",
+    "steps": [
+      "assets/images/234484/step_01.webp",
+      "assets/images/234484/step_02.webp",
+      "assets/images/234484/step_03.webp"
+    ]
+  }
+}

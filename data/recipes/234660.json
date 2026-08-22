@@ -1,0 +1,71 @@
+{
+  "id": "234660",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234660/rum-and-raisin-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/234660/rum-and-raisin-banana-smoothie/",
+  "title": "Rum and Raisin Banana Smoothie",
+  "description": "This banana rum smoothie with raisins and a hint of nutmeg is super fast and tasty!",
+  "authors": [
+    "Chef Ames"
+  ],
+  "date_published": "2016-06-04T10:14:38-04:00",
+  "date_modified": "2022-09-25T20:40:16-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup almond milk",
+    "1 frozen banana, cut into chunks",
+    "2 tablespoons rum",
+    "1 tablespoon honey",
+    "1 tablespoon raisins",
+    "0.125 teaspoon nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "Blend almond milk, banana, rum, honey, raisins, and nutmeg in a blender until smooth, about 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "carbohydrateContent": "61 g",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "163 mg",
+    "sugarContent": "45 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sgjIa7SWhibyqtTD9q25myezWLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1124482-4a5969b328ab4fc1aec2ec7e12e59dfc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234660/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

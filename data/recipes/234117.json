@@ -1,0 +1,82 @@
+{
+  "id": "234117",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234117/easy-zucchini-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/234117/easy-zucchini-soup/",
+  "title": "Zucchini Soup",
+  "description": "This smooth zucchini soup tastes rich and creamy without adding cream; it&#39;s easy to make with just 5 ingredients and ready in less than 30 minutes.",
+  "authors": [
+    "Julia L"
+  ],
+  "date_published": "2018-06-08T10:10:01-04:00",
+  "date_modified": "2026-03-11T16:46:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "2 pounds zucchini, cut into chunks",
+    "1 (15 ounce) can chicken broth",
+    "1 teaspoon salt",
+    "1 teaspoon curry powder"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a pot over medium heat. Add zucchini, chicken broth, salt, and curry powder; cook until zucchini is soft, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill blender halfway with soup. Cover and hold lid down with a potholder; pulse a few times before leaving on to blend until smooth. Pour into a pot. Repeat with remaining soup.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "51 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1022 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "82"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3QrSNqtBAImk8OdT0Zc0Ky1_m3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234117easy-zucchini-soupFranceC4x3-370556e5f01449078edd1a612d601c25.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234117/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

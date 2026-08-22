@@ -1,0 +1,83 @@
+{
+  "id": "234989",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234989/hawaiian-hot-chocolate/",
+  "requested_url": "https://www.allrecipes.com/recipe/234989/hawaiian-hot-chocolate/",
+  "title": "Hawaiian Hot Chocolate",
+  "description": "The flavors of Hawaii combine in this coconut-infused hot chocolate, perfect for a cool evening.",
+  "authors": [
+    "L Mac"
+  ],
+  "date_published": "2020-06-18T23:56:45-04:00",
+  "date_modified": "2022-09-28T14:25:39-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups half-and-half",
+    "1 cup 2% milk",
+    "0.5 cup white sugar",
+    "0.5 cup unsweetened cocoa powder",
+    "1 tablespoon vanilla extract",
+    "1 tablespoon coconut extract",
+    "0.5 teaspoon kosher salt",
+    "0.5 cup whipped cream, or more to taste",
+    "0.25 cup toasted, shredded coconut"
+  ],
+  "steps": [
+    {
+      "text": "Whisk half-and-half, milk, sugar, and cocoa powder in a saucepan over medium-high heat until cocoa and sugar dissolve. Remove from heat when mixture begins to steam, 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk vanilla extract, coconut extract, and salt into cocoa mixture. Pour into glasses and top each with whipped cream and toasted coconut.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "445 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "78 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "365 mg",
+    "sugarContent": "31 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0allg9DNiF964E17_4Fq2pSvvDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1084812-a077168ccbf34bb3896f8505d76782c7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234989/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

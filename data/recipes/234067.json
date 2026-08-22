@@ -1,0 +1,74 @@
+{
+  "id": "234067",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234067/virgin-sunset/",
+  "requested_url": "https://www.allrecipes.com/recipe/234067/virgin-sunset/",
+  "title": "Virgin Sunset",
+  "description": "Grenadine syrup slowly floats through this mixture of orange, pineapple, and cranberry juices to give a visual effect of a sunset in a glass.",
+  "authors": [
+    "Kristy Self Kapp"
+  ],
+  "date_published": "2017-07-13T09:01:16-04:00",
+  "date_modified": "2024-11-17T02:36:53-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice cubes",
+    "0.25 cup orange juice",
+    "0.25 cup pineapple juice",
+    "0.25 cup cranberry juice",
+    "1 splash grenadine syrup"
+  ],
+  "steps": [
+    {
+      "text": "Fill a glass with ice. Pour orange juice, pineapple juice, and cranberry juice over the ice and stir. Float a splash of grenadine syrup atop the mixture and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "161 kcal",
+    "carbohydrateContent": "40 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "30 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/60Sw7YyB72p2v_2ITsD2bWYz3i4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1040464-b634f2e518f54257ba9a575bc51917f1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234067/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "234810",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234810/yummy-peanut-butter-cup-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/234810/yummy-peanut-butter-cup-ice-cream/",
+  "title": "Yummy Peanut Butter Cup Ice Cream",
+  "description": "Creamy peanut butter and peanut butter cups make this easy ice cream the perfect treat for kids of all ages.",
+  "authors": [
+    "Chloe Marie"
+  ],
+  "date_published": "2020-06-18T23:56:34-04:00",
+  "date_modified": "2020-06-18T23:56:34-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT80M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "4 egg yolks",
+    "0.5 cup white sugar",
+    "0.25 cup creamy peanut butter (such as Jif®)",
+    "0.25 teaspoon vanilla extract",
+    "1 cup heavy whipping cream",
+    "1 cup chopped peanut butter cups (such as Reese's®)"
+  ],
+  "steps": [
+    {
+      "text": "Heat milk in a saucepan over medium heat without boiling until steaming, about 4 minutes. Beat egg yolks and sugar in a large bowl. Slowly whisk hot milk into yolk mixture until well mixed; return mixture to saucepan and continue to cook on medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gradually stir peanut butter and vanilla extract into milk mixture until thoroughly combined, about 5 minutes. Pour peanut mixture into large bowl and cool for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir heavy cream and peanut butter cups into milk mixture, pour into an ice cream maker, and freeze according to the manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "349 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "147 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "131 mg",
+    "sugarContent": "25 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/12DyiS_tsApPF361dk61JZywuA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2612593-b4a027f974b24939861d9393610f29bd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234810/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "234082",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234082/philly-cheese-steak-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/234082/philly-cheese-steak-soup/",
+  "title": "Philly Cheese Steak Soup",
+  "description": "This Philly cheese steak soup combines everything you love about the sandwich in a creamy, hearty soup with roast beef, provolone cheese, peppers, and onion.",
+  "authors": [
+    "rawcalls"
+  ],
+  "date_published": "2018-06-08T10:09:58-04:00",
+  "date_modified": "2025-12-22T11:38:07-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup butter",
+    "1 white onion, diced",
+    "1 green bell pepper, diced",
+    "1 (8 ounce) package sliced fresh mushrooms",
+    "0.66666668653488 cup all-purpose flour",
+    "6 cups milk",
+    "1 (10.5 ounce) can beef consomme",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "1 (8 ounce) package provolone cheese, diced",
+    "0.75 pound sliced roast beef, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/C-9A2S6uDEy3Lztuo4M5wQNq4Kw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234082-philly-cheese-steak-soup-VAT-step-01-29a9443baea342ab851e8b9e92d889b0.jpg"
+      ],
+      "image": "assets/images/234082/step_01.webp"
+    },
+    {
+      "text": "Melt butter in a large, heavy-bottomed pot or Dutch oven over medium heat. Add onion, bell pepper, and mushrooms; cook and stir until tender, about 5 minutes. Add flour; cook and stir until flour golden, about 5 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NoLLf3bALa87o5qXXPEBg9nsv5c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234082-philly-cheese-steak-soup-VAT-step-02-a233b2e495244ccdb5bba16312e055da.jpg"
+      ],
+      "image": "assets/images/234082/step_02.webp"
+    },
+    {
+      "text": "Gradually whisk in milk; bring to a simmer. Cook until thickened, stirring often, about 5 minutes. Reduce heat to medium-low. Add beef consommé; season soup with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4M4PVlvGDRJVm_Tc8e5mYYQxBug=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234082-philly-cheese-steak-soup-VAT-step-03-10b5f4c52e194661919293df2cf3771d.jpg"
+      ],
+      "image": "assets/images/234082/step_03.webp"
+    },
+    {
+      "text": "Slowly stir in provolone cheese until melted, 3 to 5 minutes. Off heat, stir in roast beef.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WUO90fChzbg1PadttQ_HArBHF8A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234082-philly-cheese-steak-soup-VAT-step-04-a537f2ff49f7463fb3b814bb85578df8.jpg"
+      ],
+      "image": "assets/images/234082/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "448 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "100 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "1291 mg",
+    "sugarContent": "10 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wkzp1qSzWrkbD0SsFlVylAWo9BU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234082-philly-cheese-steak-soup-VAT-Beauty-4x3-52a3b5e47c424968b64780a9b9a21904.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234082/hero.webp",
+    "steps": [
+      "assets/images/234082/step_01.webp",
+      "assets/images/234082/step_02.webp",
+      "assets/images/234082/step_03.webp",
+      "assets/images/234082/step_04.webp"
+    ]
+  }
+}

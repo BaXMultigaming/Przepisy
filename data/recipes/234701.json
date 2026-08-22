@@ -1,0 +1,64 @@
+{
+  "id": "234701",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234701/almond-flour/",
+  "requested_url": "https://www.allrecipes.com/recipe/234701/almond-flour/",
+  "title": "Almond Flour",
+  "description": "Make your own almond flour in minutes with the help of a food processor and sifter for all your baking needs.",
+  "authors": [
+    "Cindy Anschutz Barbieri"
+  ],
+  "date_published": "2014-08-19T18:34:41-04:00",
+  "date_modified": "2022-01-14T11:50:34-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup almonds, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Place almonds, about 1/4 cup at a time, in the food processor. Pulse until you reach a flour-like consistency; sift into a container. Place any remaining almonds chunks back into food processor and pulse. Repeat until all almonds are transformed into flour. Cover container and store flour in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "4 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "0 mg",
+    "sugarContent": "2 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RWbaPpf3B_T1fmY3Icb03coyOFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1910857-c1034028f23740128ac4551fece61871.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234701/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

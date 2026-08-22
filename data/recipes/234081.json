@@ -1,0 +1,78 @@
+{
+  "id": "234081",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234081/pinto-bean-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/234081/pinto-bean-dip/",
+  "title": "Pinto Bean Dip",
+  "description": "With a few spices from your pantry, a can of pinto beans becomes a delicious party dip in minutes.",
+  "authors": [
+    "PRESIDENTJIM"
+  ],
+  "date_published": "2020-06-18T23:55:56-04:00",
+  "date_modified": "2026-05-13T08:11:05-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can pinto beans, rinsed and drained",
+    "1 tablespoon white vinegar",
+    "3 slices canned jalapeno pepper",
+    "1 teaspoon salt",
+    "0.5 teaspoon white sugar",
+    "0.25 teaspoon paprika",
+    "0.25 teaspoon onion powder",
+    "0.125 teaspoon garlic powder",
+    "0.125 teaspoon cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place pinto beans, vinegar, jalapeno pepper, salt, sugar, paprika, onion powder, garlic powder, and cayenne pepper in a food processor; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "44 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "567 mg",
+    "sugarContent": "0 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "40"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LjBUF2rrVEKb5N7KpYcuDsSNibA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1061139-f139ad5997974e0482e7007ec4de3882.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234081/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

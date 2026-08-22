@@ -1,0 +1,81 @@
+{
+  "id": "234731",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234731/brown-butter-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/234731/brown-butter-frosting/",
+  "title": "Brown Butter Frosting",
+  "description": "Brown butter frosting is rich and flavorful version of frosting that goes quite nicely on brownies and only requires 4 simple ingredients.",
+  "authors": [
+    "blueyedfeather"
+  ],
+  "date_published": "2013-10-02T14:56:47-04:00",
+  "date_modified": "2026-08-04T22:32:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Ingredient"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "2.5 cups confectioners' sugar",
+    "2 tablespoons milk, or more as needed",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Heat butter, stirring constantly, in a saucepan over medium-low heat until it browns and becomes very aromatic, 5 to 10 minutes. Whisk confectioners’ sugar into butter until dissolved and remove saucepan from heat; stir in milk and vanilla extract.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat butter mixture using an electric mixer until frosting is smooth; add more milk if frosting is too thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "165 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "12 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "34 mg",
+    "sugarContent": "31 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/A_mzO53pmV0gce2e7mBczt6U1gU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4021048-a0899b84bb8740078398e58ab6c66d20.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234731/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

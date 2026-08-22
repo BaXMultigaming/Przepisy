@@ -1,0 +1,92 @@
+{
+  "id": "234463",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234463/chef-johns-butterless-bearnaise-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/234463/chef-johns-butterless-bearnaise-sauce/",
+  "title": "Chef John&#39;s Butterless Bearnaise Sauce",
+  "description": "A version of the classic bearnaise sauce, made without butter, is thickened with egg yolks and flavored with tarragon Dijon mustard.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-06-18T23:56:11-04:00",
+  "date_modified": "2022-01-14T02:14:37-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "French Inspired"
+  ],
+  "regions": [
+    "French Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 egg yolks",
+    "0.5 teaspoon freshly ground black pepper, or to taste",
+    "2 teaspoons tarragon Dijon mustard",
+    "1 teaspoon tarragon vinegar",
+    "1 teaspoon water",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Whisk egg yolks, black pepper, tarragon Dijon mustard, tarragon vinegar, water, and salt in a metal mixing bowl or small saucepan. Place over low heat and whisk until mixture foams, small wisps of steam appear from the sauce, and sauce is hot and thick, 1 to 2 minutes. Raise and lower the pan over the heat to increase or reduce heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat and whisk a few more seconds to make sauce slightly fluffy. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/T12Ad-7QZcVn5wpk0MQKZc0s3lE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3547631-73fe454c145c430693276309d71dcc77.jpg"
+      ],
+      "image": "assets/images/234463/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "30 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "102 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "67 mg",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "8"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/DyNfik8U-DyXkTCke.mp4",
+    "description": "Chef John’s Butterless Béarnaise Sauce",
+    "duration": "PT3M45S",
+    "name": "Chef John’s Butterless Béarnaise Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/DyNfik8U/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T13:04:11-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/T12Ad-7QZcVn5wpk0MQKZc0s3lE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3547631-73fe454c145c430693276309d71dcc77.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234463/hero.webp",
+    "steps": [
+      null,
+      "assets/images/234463/step_02.webp"
+    ]
+  }
+}

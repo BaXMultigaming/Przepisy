@@ -1,0 +1,106 @@
+{
+  "id": "234939",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234939/strawberry-soda-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/234939/strawberry-soda-syrup/",
+  "title": "Strawberry Soda Syrup",
+  "description": "It’s so easy to make homemade strawberry syrup to flavor iced tea, lemonade, or make into your own strawberry soda.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-06-18T23:56:43-04:00",
+  "date_modified": "2026-08-11T18:03:08-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds very ripe strawberries, hulled and cut into chunks",
+    "3 cups cold water",
+    "2 cups white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place strawberries into a heavy saucepan, add water, and bring to a boil. Stir, reduce heat to low, and simmer until strawberries soften, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Strain juice into a separate saucepan, using a fine mesh strainer; discard strawberry pulp. Stir in sugar until dissolves. Bring strawberry juice back to a boil a second time.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium and simmer for 5 minutes. Skim any foam from the top of the syrup. Turn off heat and let cool to room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour syrup into a lidded container and refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/E9mUhI8edBokrGpafap1B6w0TIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1059519-strawberry-soda-syrup-Chef-John-1x1-1-10503eb4ff574c64a27f5790fa027c5a.jpg"
+      ],
+      "image": "assets/images/234939/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "306 kcal",
+    "carbohydrateContent": "78 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "74 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "33"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/NHa7ZwsT-ma1DlVvV.mp4",
+    "description": "0094",
+    "duration": "PT4M16S",
+    "name": "Strawberry Soda Syrup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/NHa7ZwsT/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T10:58:11-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/E9mUhI8edBokrGpafap1B6w0TIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1059519-strawberry-soda-syrup-Chef-John-1x1-1-10503eb4ff574c64a27f5790fa027c5a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234939/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/234939/step_04.webp"
+    ]
+  }
+}

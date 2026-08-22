@@ -1,0 +1,72 @@
+{
+  "id": "234473",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234473/banana-chia-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/234473/banana-chia-pudding/",
+  "title": "Banana Chia Pudding",
+  "description": "Banana and chia seed pudding is a creamy and hearty snack made quickly with the assistance of a blender.",
+  "authors": [
+    "Sloan4"
+  ],
+  "date_published": "2016-06-04T10:05:28-04:00",
+  "date_modified": "2021-09-15T14:33:02-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups vanilla-flavored flax milk",
+    "1 large banana, cut in chunks",
+    "7 tablespoons chia seeds",
+    "3 tablespoons honey",
+    "1 teaspoon vanilla extract",
+    "0.125 teaspoon sea salt"
+  ],
+  "steps": [
+    {
+      "text": "Put milk, banana, chia seeds, honey, vanilla extract, and sea salt in respective order in the blender; blend until smooth. Pour mixture into a bowl and refrigerate until thickened, at least 2 hours. Spoon mixture into small bowls to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "59 mg",
+    "sugarContent": "12 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mRRJqV9jTc7O_k8r0jhIKCKsjbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4496712-8ac2811641974829b8c01f546958a8fa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234473/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

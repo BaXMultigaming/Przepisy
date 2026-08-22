@@ -1,0 +1,80 @@
+{
+  "id": "234126",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234126/creamy-cheesy-zucchini-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/234126/creamy-cheesy-zucchini-soup/",
+  "title": "Creamy, Cheesy Zucchini Soup",
+  "description": "Zucchini and Swiss cheese add richness to this cream of zucchini soup recipe flavored with cilantro, bell pepper, and red onion.",
+  "authors": [
+    "Chair"
+  ],
+  "date_published": "2018-06-08T10:10:03-04:00",
+  "date_modified": "2022-01-14T01:28:11-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 pounds zucchini, trimmed and cut into 1-inch chunks",
+    "2 red bell peppers, finely chopped",
+    "1.5 large red onions, finely chopped",
+    "1 bunch cilantro",
+    "3 cups heavy whipping cream",
+    "1 pound shredded Swiss cheese",
+    "1 teaspoon salt",
+    "0.75 teaspoon cracked black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Put zucchini in large Dutch oven with a few inches of water. Simmer zucchini over medium-low heat until tender when poked with a fork, about 20 minutes. Use a slotted spoon to transfer zucchini to a blender, leaving about 1 inch of water in the bottom of the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend zucchini until no large chunks remain; return to the pot. Combine bell pepper, red onions, and cilantro in the blender; blend until no large pieces remain. Stir bell pepper mixture into the blended zucchini; add cream, Swiss cheese, salt, and pepper. Cook over medium-low heat until warmed through and the cheese is melted, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "471 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "139 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "25 g",
+    "sodiumContent": "373 mg",
+    "sugarContent": "7 g",
+    "fatContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Vylam6UI-4KW4aiPt6-SXkLHRqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2384152-5402d6e4589b4c4fa8a7ec5cea04fbf8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234126/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

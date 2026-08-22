@@ -1,0 +1,85 @@
+{
+  "id": "234411",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234411/kielbasa-onion-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/234411/kielbasa-onion-soup/",
+  "title": "Kielbasa Onion Soup",
+  "description": "Kielbasa, onion, tomatoes, and pasta combine in this hearty soup that will keep you warm on those cold winter nights.",
+  "authors": [
+    "ltlchkn2"
+  ],
+  "date_published": "2020-03-09T22:52:00-04:00",
+  "date_modified": "2022-09-30T18:54:10-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 kielbasa sausage, cut into 1-inch pieces",
+    "1 onion, diced",
+    "1 tablespoon minced garlic",
+    "3 (14 ounce) cans vegetable broth",
+    "1 (14 ounce) can stewed tomatoes",
+    "1.5 cups chopped carrots",
+    "1 (8 ounce) can tomato sauce",
+    "1 cup water",
+    "1.5 teaspoons salt-free seasoning blend (such as Mrs. Dash®)",
+    "1.5 cups bow-tie pasta (farfalle)"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot over medium heat. Cook and stir sausage, onion, and garlic in hot oil until onion is slightly softened and browned, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir vegetable broth, stewed tomatoes, carrots, tomato sauce, water, and seasoning blend into sausage mixture; bring to a boil, reduce heat to low, and simmer for 30 minutes. Add bow-tie pasta and continue simmering until pasta is cooked through yet firm to the bite, about 12 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "443 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "60 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1742 mg",
+    "sugarContent": "13 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dviiI_nxx1W4fbfsLq3Dy1P-5yQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2787588-677e3bca39734ffcac0926357c9e7668.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234411/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "234159",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234159/pumpkin-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/234159/pumpkin-banana-smoothie/",
+  "title": "Pumpkin Banana Smoothie",
+  "description": "This pumpkin banana smoothie has a hint of cinnamon and brown sugar for a delicious on-the-go breakfast in the fall.",
+  "authors": [
+    "Alyshia Wesley"
+  ],
+  "date_published": "2020-03-05T00:10:58-05:00",
+  "date_modified": "2020-03-05T00:10:58-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT495M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup pumpkin puree",
+    "1 cup milk",
+    "1 banana, sliced",
+    "2 tablespoons brown sugar",
+    "0.25 teaspoon ground cinnamon",
+    "0.25 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Spoon pumpkin puree into a resealable bag and freeze, 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove pumpkin from freezer and allow to soften at room temperature, 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour milk into the blender; add pumpkin, banana, brown sugar, cinnamon, and vanilla extract. Blend until smooth, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "350 mg",
+    "sugarContent": "30 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Yz-WPBXt7VsSMF3Rmq0agApDdes=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042154-f4684f1309144bf3a7eb23a93b585992.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234159/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

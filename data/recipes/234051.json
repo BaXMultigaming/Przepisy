@@ -1,0 +1,83 @@
+{
+  "id": "234051",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234051/the-best-lemon-iced-tea/",
+  "requested_url": "https://www.allrecipes.com/recipe/234051/the-best-lemon-iced-tea/",
+  "title": "The Best Lemon Iced Tea",
+  "description": "This is the best lemon iced tea ever. It comes very close to the Good Host brand Canadians are used to.",
+  "authors": [
+    "WANDAREN"
+  ],
+  "date_published": "2020-06-18T23:55:54-04:00",
+  "date_modified": "2022-06-29T07:01:43-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT65M",
+  "yield": [
+    "16",
+    "1 gallon"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Canadian"
+  ],
+  "regions": [
+    "Canadian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 green tea bags",
+    "4 orange pekoe tea bags",
+    "6 cups boiling water",
+    "1 cup white sugar",
+    "1 (12 ounce) can frozen lemonade concentrate",
+    "0.5 lemon, juiced",
+    "10 cups cold water, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Place green tea bags and black tea bags in a 1-gallon glass jar or pitcher. Pour boiling water over tea bags; steep for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove tea bags; stir in sugar and lemonade concentrate until dissolved. Stir in lemon juice. Fill jar to the top with cold water. Chill in the refrigerator until cold. Serve over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "99 kcal",
+    "carbohydrateContent": "26 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "25 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eeAKD7W2IuqPmgZY4YeyaU898EY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060352-9b3b8d1795e947d08a67e4d217b9d697.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234051/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

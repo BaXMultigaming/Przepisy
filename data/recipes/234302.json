@@ -1,0 +1,70 @@
+{
+  "id": "234302",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234302/cucumber-orange-carrot-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/234302/cucumber-orange-carrot-juice/",
+  "title": "Cucumber Orange Carrot Juice",
+  "description": "This orange, cucumber, and carrot juice is a refreshing way to start the day and is ready in about 10 minutes.",
+  "authors": [
+    "mamicha"
+  ],
+  "date_published": "2020-06-18T23:56:07-04:00",
+  "date_modified": "2022-12-28T20:48:31-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large navel orange",
+    "2 carrots, roughly chopped",
+    "0.5 cucumber, roughly chopped",
+    "0.5 cup water, or as needed",
+    "0.25 cup white sugar, or to taste",
+    "1 teaspoon lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Peel orange and save a 1x1-inch piece of the peel. Place orange, orange peel piece, carrots, and cucumber in a blender; pour in water. Blend until desired consistency is reached; add sugar and lemon juice. Blend until smooth, 1 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "89 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "26 mg",
+    "sugarContent": "19 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JCFB1gVogtMWbkMmmJkXSy4U5uE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1126628-cucumber-orange-carrot-juice-What-you-cooking-Willis-4x3-1-25ff92f2bdf0470f919fdc7743918e78.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234302/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

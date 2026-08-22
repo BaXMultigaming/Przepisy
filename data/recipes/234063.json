@@ -1,0 +1,84 @@
+{
+  "id": "234063",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234063/strawberry-shooters/",
+  "requested_url": "https://www.allrecipes.com/recipe/234063/strawberry-shooters/",
+  "title": "Strawberry Shooters",
+  "description": "This strawberry shooter recipe hulls strawberries, fills them with amaretto liqueur, and tops them with whipped cream for a fruity and messy treat.",
+  "authors": [
+    "superfox12082"
+  ],
+  "date_published": "2019-07-31T23:10:41-04:00",
+  "date_modified": "2025-05-19T14:04:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Drink",
+    "Snack",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (750 milliliter) bottle amaretto liqueur",
+    "1 (1 pound) fresh strawberries, hulled and cored",
+    "1 (7 ounce) can whipped cream (such as Reddi-Whip®)"
+  ],
+  "steps": [
+    {
+      "text": "Pour amaretto liqueur into each strawberry; top with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PO3J_Ta5Y0yqqRmI7ArrcGT7zsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060208-4a80a627f4014784a262edbc43ff9729.jpg"
+      ],
+      "image": "assets/images/234063/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "151 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "7 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "15 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "19"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/YH30BuLJ-K3AjnAEN.mp4",
+    "description": "This video shows you how to make fresh strawberries filled with almond-flavored liqueur and whipped cream.",
+    "duration": "PT1M19S",
+    "name": "Strawberry Shooters",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/YH30BuLJ/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T08:37:40-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PO3J_Ta5Y0yqqRmI7ArrcGT7zsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060208-4a80a627f4014784a262edbc43ff9729.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234063/hero.webp",
+    "steps": [
+      "assets/images/234063/step_01.webp"
+    ]
+  }
+}

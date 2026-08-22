@@ -1,0 +1,128 @@
+{
+  "id": "234642",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234642/thai-beef/",
+  "requested_url": "https://www.allrecipes.com/recipe/234642/thai-beef/",
+  "title": "Thai Beef",
+  "description": "Marinate flank steak in a mixture of coriander seed, lime juice, and soy sauce then broil it for delicious Thai beef.",
+  "authors": [
+    "BadLittleChef"
+  ],
+  "date_published": "2020-03-05T00:11:08-05:00",
+  "date_modified": "2026-04-07T15:44:08-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT100M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons coriander seeds, coarsely cracked",
+    "0.5 cup firmly packed dark brown sugar",
+    "0.25 cup soy sauce",
+    "1 tablespoon lime juice",
+    "2 cloves garlic, minced",
+    "1 pinch ground ginger",
+    "1.5 pounds flank steak"
+  ],
+  "steps": [
+    {
+      "text": "Place flank steak in the freezer for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk coriander, brown sugar, soy sauce, lime juice, garlic, and ground ginger together in a bowl until marinade is well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove steak from freezer and slice thinly across the grain. Place steak in a large bowl, pour marinade over steak, and toss to coat. Cover bowl and marinate at room temperature for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line bottom of a broiler pan with foil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lay steak slices in a single layer on the rack of the prepared broiler pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook in the preheated broiler, brushing occasionally with marinade, until steak reaches desired doneness, 1 to 2 minutes for medium rare.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4gMRnsEFzXv1iahBDueLE3QC9tU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1056299-thai-beef-Noah-King-1x1-1-f0169859f92349a4ae8f95963afee1e1.jpg"
+      ],
+      "image": "assets/images/234642/step_06.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "634 mg",
+    "sugarContent": "18 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "110"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Mjs5YJ6n-ma1DlVvV.mp4",
+    "description": "A delicious marinade for flank steak blending the flavors of crushed coriander seed, lime juice, and soy sauce. Serve over rice with shredded cabbage, green beans, and red pepper slices for a complete and dazzling meal!",
+    "duration": "PT1M4S",
+    "name": "Thai Beef",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Mjs5YJ6n/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T02:22:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4gMRnsEFzXv1iahBDueLE3QC9tU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1056299-thai-beef-Noah-King-1x1-1-f0169859f92349a4ae8f95963afee1e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234642/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      "assets/images/234642/step_06.webp"
+    ]
+  }
+}

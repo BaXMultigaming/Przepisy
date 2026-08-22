@@ -1,0 +1,69 @@
+{
+  "id": "234754",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234754/almond-joy-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/234754/almond-joy-cocktail/",
+  "title": "Almond Joy® Cocktail",
+  "description": "All the flavors of an Almond Joy® candy bar are shaken together in a cocktail shaker for a liquid version, perfect for dessert at dinner parties.",
+  "authors": [
+    "CHERYL BLUE"
+  ],
+  "date_published": "2020-06-18T23:56:28-04:00",
+  "date_modified": "2022-05-18T20:56:09-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 fluid ounce amaretto liqueur",
+    "1 fluid ounce cream of coconut",
+    "1 fluid ounce white creme de cacao",
+    "2 fluid ounces heavy whipping cream"
+  ],
+  "steps": [
+    {
+      "text": "Fill 1/2 a cocktail shaker with ice; pour in amaretto, cream of coconut, creme de cacao, and cream. Cover shaker and shake; strain into a glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "545 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "82 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "44 mg",
+    "sugarContent": "50 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lBOxsqDVlhBRdNsG-0jOQ_faggc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1064925-9d5933cb4c0540beb0438940e638a13d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234754/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

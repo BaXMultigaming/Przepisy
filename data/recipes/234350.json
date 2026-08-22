@@ -1,0 +1,83 @@
+{
+  "id": "234350",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234350/my-favorite-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/234350/my-favorite-chicken-salad/",
+  "title": "My Favorite Chicken Salad",
+  "description": "This savory chicken salad with crunchy celery and pecans mixed with mayonnaise, relish, mustard, garlic, and dill is delicious as is or on a sandwich.",
+  "authors": [
+    "SunnyDaysNora"
+  ],
+  "date_published": "2020-06-18T23:56:08-04:00",
+  "date_modified": "2026-04-10T14:28:08-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cooked skinless, boneless chicken breast halves, cut into cubes",
+    "3 stalks celery, finely diced",
+    "0.75 cup chopped pecans",
+    "0.5 cup mayonnaise",
+    "2 tablespoons minced yellow onion",
+    "1.5 tablespoons sweet pickle relish",
+    "2 teaspoons prepared mustard",
+    "1.5 teaspoons ground black pepper",
+    "1.5 teaspoons minced fresh dill",
+    "1 teaspoon lemon juice",
+    "0.5 teaspoon white sugar",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon garlic powder",
+    "0.5 teaspoon paprika"
+  ],
+  "steps": [
+    {
+      "text": "Stir together chicken, celery, pecans, mayonnaise, onion, relish, mustard, pepper, dill, lemon juice, sugar, salt, garlic powder, and paprika in a large bowl until well combined. Refrigerate for at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "384 mg",
+    "sugarContent": "2 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "230"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/R93f_A5dfnMAGQ1ccgPcEMKK7QE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5261952-3eacdfd09acc4add8102dfcbd399eab0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234350/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

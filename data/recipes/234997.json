@@ -1,0 +1,79 @@
+{
+  "id": "234997",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234997/citrus-bacon-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/234997/citrus-bacon-green-beans/",
+  "title": "Citrus-Bacon Green Beans",
+  "description": "Brighten up your green beans by simmering them in butter with lemon, lime, and bacon bits!",
+  "authors": [
+    "cncaswell"
+  ],
+  "date_published": "2019-07-10T03:04:57-04:00",
+  "date_modified": "2022-01-07T10:51:34-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "1 (14.5 ounce) can French style green beans, drained",
+    "1 tablespoon lemon juice",
+    "1 tablespoon lime juice",
+    "3 ounces bacon bits"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a skillet over medium heat. Stir green beans into melted butter. Add lemon juice and lime juice; simmer for 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir bacon bits into green beans and simmer until beans are heated through and flavors blend, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "146 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1045 mg",
+    "sugarContent": "2 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JxkyAdvwtwt5tihXcEkfq9OMlP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1378000-b573182043d64965a9e9602acbfd0ca1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234997/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "234079",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234079/cranberry-and-turkey-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/234079/cranberry-and-turkey-salad/",
+  "title": "Cranberry and Turkey Salad",
+  "description": "Turkey cranberry salad with leftover turkey, dried cranberries, and almonds makes a great filling for croissants, pita pockets, or plain white bread.",
+  "authors": [
+    "Jodi"
+  ],
+  "date_published": "2013-10-08T02:02:39-04:00",
+  "date_modified": "2026-06-26T12:14:06-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups chopped cooked turkey",
+    "0.5 cup dried cranberries",
+    "0.5 cup sliced almonds",
+    "2 stalks celery, chopped",
+    "2 tablespoons mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Mix turkey, cranberries, almonds, celery, and mayonnaise in a bowl until well blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "347 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "82 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "129 mg",
+    "sugarContent": "10 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vaAca0ahQFuMFCP27FgmXmNf53g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1061233-3b2dad1c5fb1420e847657a86fd0f472.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234079/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "234354",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234354/pesto-alfredo-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/234354/pesto-alfredo-sauce/",
+  "title": "Pesto Alfredo Sauce",
+  "description": "Make a delicious pesto Alfredo sauce by simply stirring prepared pesto, half-and-half, butter, and garlic powder together until hot and creamy.",
+  "authors": [
+    "Sarah Dipity"
+  ],
+  "date_published": "2018-06-08T10:10:16-04:00",
+  "date_modified": "2026-04-13T18:20:32-04:00",
+  "prep_time": null,
+  "cook_time": "PT10M",
+  "total_time": "PT10M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup half-and-half",
+    "0.25 cup prepared pesto",
+    "2 tablespoons butter",
+    "0.25 teaspoon garlic powder",
+    "0.125 teaspoon salt",
+    "0.125 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Combine half-and-half, pesto, butter, garlic powder, salt, and pepper in a skillet over medium-low heat. Cook and stir until hot, about 8 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "277 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "343 mg",
+    "sugarContent": "0 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4yxAF18Msd1suZEa95HdmuOXus4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3963897-pesto-alfredo-sauce-Jessica-4x3-1-50a5b44dcf834a7b856b73142d247119.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234354/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

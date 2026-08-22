@@ -1,0 +1,90 @@
+{
+  "id": "234587",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234587/5-layer-mexican-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/234587/5-layer-mexican-dip/",
+  "title": "5-Layer Mexican Dip",
+  "description": "This 5-layer dip has refried beans, guacamole, sour cream, cheese, and tomatoes for a Tex-Mex appetizer that&#39;s a great go-to for any gathering.",
+  "authors": [
+    "JENHAGGERTY"
+  ],
+  "date_published": "2013-09-20T17:02:20-04:00",
+  "date_modified": "2025-12-21T22:47:09-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Tex-Mex"
+  ],
+  "regions": [
+    "Tex-Mex"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups refried beans",
+    "1.75 cups guacamole",
+    "1.5 cups sour cream",
+    "1 (8 ounce) package shredded Cheddar cheese",
+    "2 tomatoes, diced"
+  ],
+  "steps": [
+    {
+      "text": "Heat refried beans in a microwave-safe bowl in a microwave oven until hot, stirring frequently, about 3 minutes. Spread beans onto the bottom of a serving platter; refrigerate until the beans are cooled completely, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread guacamole in a layer atop refried beans; top with a layer of sour cream. Sprinkle cheese over sour cream; top with tomatoes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the platter with plastic wrap and refrigerate until cold, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "441 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "71 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "779 mg",
+    "sugarContent": "6 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kr3pS8_d2kT8Aemgx-Ui9733bmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2345875-layer-mexican-dipSoupLovingNicolex3-d286026cbfb44bf8a164ea9bcd077f42.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234587/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

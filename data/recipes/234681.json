@@ -1,0 +1,69 @@
+{
+  "id": "234681",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234681/chia-fresca/",
+  "requested_url": "https://www.allrecipes.com/recipe/234681/chia-fresca/",
+  "title": "Chia Fresca",
+  "description": "Chia fresca is a refreshing lemonade-style drink with an added bonus of chia seeds for a little extra chew with your sips.",
+  "authors": [
+    "Booksie B"
+  ],
+  "date_published": "2020-06-18T23:56:22-04:00",
+  "date_modified": "2022-05-04T15:11:24-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "3 tablespoons lemon juice",
+    "2.5 teaspoons white sugar",
+    "1 teaspoon chia seeds"
+  ],
+  "steps": [
+    {
+      "text": "Stir water, lemon juice, and sugar together in a glass until sugar is completely dissolved; add chia seeds. Let stand until a gel forms around the chia seeds, about 10 minutes; stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "24 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QLmgOpLdDa6bEisj75Y2LxuJ3RI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1061761-1bd644f45d284287b96cb3053f11f94b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234681/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "235002",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235002/classic-contadina-spaghetti-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/235002/classic-contadina-spaghetti-sauce/",
+  "title": "Classic Contadina Spaghetti Sauce",
+  "description": "This Contadina classic pasta sauce with lots of tomatoes and Italian sausage tastes great served on hot cooked pasta. Try it as a pizza sauce!",
+  "authors": [
+    "Contadina"
+  ],
+  "date_published": "2013-10-14T17:20:57-04:00",
+  "date_modified": "2023-01-04T16:23:18-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT40M",
+  "total_time": "PT50M",
+  "yield": [
+    "11"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound Italian sausage (casings removed), or extra lean ground beef",
+    "1 cup chopped onion",
+    "1 teaspoon minced garlic",
+    "1 (28 ounce) can CONTADINA® Crushed Tomatoes",
+    "1 (15 ounce) can CONTADINA® Tomato Sauce",
+    "1 cup chopped fresh mushrooms",
+    "0.5 teaspoon dried oregano",
+    "0.5 teaspoon dried basil",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon sugar"
+  ],
+  "steps": [
+    {
+      "text": "Cook sausage, onion, and garlic in a large skillet over medium-high heat until sausage is browned and crumbly and onion is translucent, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in crushed tomatoes, tomato sauce, mushrooms, oregano, basil, salt, and sugar; bring to a boil. Reduce the heat to low and cook, uncovered, for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "746 mg",
+    "fatContent": "13 g",
+    "servingSize": "5 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wUGBaxHbRLJuNra_ov0Kal63Jeo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1056386-f6b0230ce80b4d1dbfd6d2ff0dd3d148.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235002/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "234415",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234415/luckys-quickie-chickie/",
+  "requested_url": "https://www.allrecipes.com/recipe/234415/luckys-quickie-chickie/",
+  "title": "Lucky&#39;s Quickie Chickie",
+  "description": "Fresh basil and honey give this quick and easy chicken recipe a hint of sweetness for a new weeknight meal.",
+  "authors": [
+    "Lucky Noodles"
+  ],
+  "date_published": "2018-06-08T10:10:20-04:00",
+  "date_modified": "2026-05-16T16:46:11-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons olive oil",
+    "6 ounces chicken tenderloin strips",
+    "0.25 teaspoon salt",
+    "0.125 teaspoon freshly ground black pepper",
+    "2 tablespoons chopped fresh basil",
+    "1.5 teaspoons honey",
+    "1.5 teaspoons balsamic vinegar, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a nonstick skillet over medium-high heat. Season chicken with salt and pepper. Cook and stir chicken in the hot oil until chicken is no longer pink in the center, about 3 to 5 minutes. Stir basil, honey, and balsamic vinegar into chicken and cook for 1 more minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "157 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "334 mg",
+    "sugarContent": "5 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "300"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OEcJrWOmhjIOVf_tohSE5RZLVfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1120924-luckys-quickie-chickie-France-C-4x3-1-7deff8e871a643ada85e641f2708b816.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234415/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

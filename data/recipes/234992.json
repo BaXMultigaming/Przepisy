@@ -1,0 +1,77 @@
+{
+  "id": "234992",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234992/lemon-ginger-cranberry-applesauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/234992/lemon-ginger-cranberry-applesauce/",
+  "title": "Lemon Ginger Cranberry Applesauce",
+  "description": "Brighten up your Thanksgiving table with this cranberry applesauce featuring lemon and ginger.",
+  "authors": [
+    "Tessa Goodpaster"
+  ],
+  "date_published": "2020-06-18T23:56:46-04:00",
+  "date_modified": "2022-09-26T16:16:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 ounce) bag fresh cranberries",
+    "2 large apples - peeled, cored, and diced",
+    "1 cup water",
+    "1 cup sugar",
+    "0.5 cup lemonade concentrate",
+    "1 teaspoon grated fresh ginger",
+    "0.125 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Stir cranberries, apples, water, sugar, and lemonade concentrate together in a saucepan. Bring to a boil, stirring occasionally, and reduce heat to medium low.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir ginger and salt into cranberry mixture and simmer until cranberries burst and apples are tender, 20 minutes. Chill in the refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "119 kcal",
+    "carbohydrateContent": "31 g",
+    "fiberContent": "2 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "26 mg",
+    "sugarContent": "27 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rhj8hpSMWrDSLq-PjTUuOVssEGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2970691-ebdd7755d2534b69822d03bf1f5aa7d6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234992/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

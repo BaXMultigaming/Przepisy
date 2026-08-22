@@ -1,0 +1,101 @@
+{
+  "id": "234100",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234100/cheese-tortellini-in-curried-coconut-milk/",
+  "requested_url": "https://www.allrecipes.com/recipe/234100/cheese-tortellini-in-curried-coconut-milk/",
+  "title": "Cheese Tortellini in Curried Coconut Milk",
+  "description": "Cheese tortellini, simmered in a curried tomato and coconut milk broth, blends two favorite comfort foods, soup and pasta.",
+  "authors": [
+    "Damaris Kazor"
+  ],
+  "date_published": "2020-03-09T22:52:00-04:00",
+  "date_modified": "2022-12-21T21:34:52-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Canadian"
+  ],
+  "regions": [
+    "Canadian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (9 ounce) package cheese tortellini",
+    "1 tablespoon butter",
+    "1 shallot, minced",
+    "1 tablespoon curry powder, or to taste",
+    "1.5 cups vegetable broth",
+    "1 (14 ounce) can coconut milk",
+    "1 tomato, chopped",
+    "2 pickled jalapeno pepper slices, minced",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of salted water to a boil; stir in tortellini and cook until tender, about 10 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat butter over medium heat in a saucepan; stir in shallot and saute until translucent, about 3 minutes. Add curry powder; cook and stir until a paste forms, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour vegetable broth into curry paste mixture. Stir until curry is dissolved, about 1 minute; bring to a boil. Slowly pour in coconut milk; adjust heat to return soup to a simmer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir tomato and jalapeno into soup, simmer 5 minutes more. Stir tortellini into soup; season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "451 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "23 g",
+    "sodiumContent": "459 mg",
+    "sugarContent": "4 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4jrBASttZaOOiSu_aP3j1lNO0T8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3086085-b069dbdefaba45d38625ac33b01914d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234100/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

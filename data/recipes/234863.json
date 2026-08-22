@@ -1,0 +1,86 @@
+{
+  "id": "234863",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234863/ranchero-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/234863/ranchero-sauce/",
+  "title": "Ranchero Sauce",
+  "description": "Homemade ranchero sauce is quick and easy to prepare and is a flavorful addition to grilled chicken or served as a salsa.",
+  "authors": [
+    "Andrea"
+  ],
+  "date_published": "2018-06-08T10:10:46-04:00",
+  "date_modified": "2024-11-20T02:57:55-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 slice bacon",
+    "0.5 onion, chopped",
+    "1 (14.5 ounce) can whole peeled tomatoes, drained and chopped",
+    "0.25 (6.5 ounce) can tomato sauce",
+    "0.25 cup chopped fresh cilantro, or to taste",
+    "0.5 jalapeno pepper, chopped, or to taste",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large skillet over medium-high heat, turning occasionally, until slightly browned and grease forms in the skillet, about 5 minutes. Add onion; cook and stir onion in bacon grease until onion is transparent, 5 to 10 minutes, while continuing to cook bacon until crisp and browned. Remove bacon from the skillet to drain on a paper towel-lined plate; crumble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir chopped tomatoes, tomato sauce, cilantro, jalapeño pepper, crumbled bacon, salt, and black pepper into onion in the skillet. Bring to a simmer and cook until flavors blend, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "19 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "130 mg",
+    "sugarContent": "2 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/acGV_mJWIzHwZzH9JLTPAgMMhks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1978082-b8ea4064d1934578839d166775013325.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234863/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "234121",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234121/fast-and-easy-zucchini-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/234121/fast-and-easy-zucchini-soup/",
+  "title": "Fast and Easy Zucchini Soup",
+  "description": "Melt cream cheese into zucchini soup, then blend with an immersion blender for a creamy, delicious soup that will hit the spot on a cold winter day.",
+  "authors": [
+    "Jilly Bean"
+  ],
+  "date_published": "2019-04-03T23:55:54-04:00",
+  "date_modified": "2023-07-28T06:11:14-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups water",
+    "5 zucchini, sliced",
+    "7 cubes chicken bouillon",
+    "1 (8 ounce) package cream cheese, softened and cut into 4 sections"
+  ],
+  "steps": [
+    {
+      "text": "Stir water, zucchini, and bouillon cubes together in a stockpot; bring to a boil. Reduce the heat to medium, then cover and simmer, stirring occasionally, until zucchini is tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Carefully drop cream cheese into the stockpot. Cook and stir until melted, about 5 minutes. Blend soup with an immersion blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "236 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "63 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "2205 mg",
+    "sugarContent": "3 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JWtIxaioenyEWTTjXDSGUmDA0e0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1575341-85c8007857244d9a88ee27fdc2b45e7a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234121/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

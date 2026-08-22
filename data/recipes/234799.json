@@ -1,0 +1,100 @@
+{
+  "id": "234799",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234799/poor-mans-stroganoff/",
+  "requested_url": "https://www.allrecipes.com/recipe/234799/poor-mans-stroganoff/",
+  "title": "Simple Stroganoff",
+  "description": "This simple stroganoff recipe combines ground beef, mushrooms, sour cream, and Greek seasoning for a deliciously savory topping for egg noodles.",
+  "authors": [
+    "Richard Daggett"
+  ],
+  "date_published": "2019-04-02T03:01:53-04:00",
+  "date_modified": "2024-11-27T21:43:56-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 ounce) package egg noodles",
+    "1 pound ground beef",
+    "1 teaspoon Greek seasoning (such as Cavender's®)",
+    "salt and ground black pepper to taste",
+    "1 teaspoon vegetable oil",
+    "1 (16 ounce) package sliced fresh mushrooms",
+    "1 pint sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat a large skillet over medium-high heat. Add ground beef; cook and stir until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Season beef with Greek seasoning, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat vegetable oil in a separate skillet over medium heat. Add mushrooms; cook and stir until tender, about 5 minutes; add to ground beef.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir sour cream into ground beef mixture; cook and stir until hot, about 5 minutes. Serve over egg noodles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "810 kcal",
+    "carbohydrateContent": "69 g",
+    "cholesterolContent": "192 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "38 g",
+    "saturatedFatContent": "22 g",
+    "sodiumContent": "268 mg",
+    "sugarContent": "4 g",
+    "fatContent": "43 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/77tmCvfTHUYdBJ-P26C_b1qT6C8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1074687-85715f1400dc4de99aac057725aa6e0c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234799/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

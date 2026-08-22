@@ -1,0 +1,67 @@
+{
+  "id": "234333",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/234333/easy-watermelon-martini/",
+  "requested_url": "https://www.allrecipes.com/recipe/234333/easy-watermelon-martini/",
+  "title": "Easy Watermelon Martini",
+  "description": "Sit by the pool in a hot summer day with this easy watermelon martini made with fresh watermelon.",
+  "authors": [
+    "Genevieve"
+  ],
+  "date_published": "2020-06-19T21:50:47-04:00",
+  "date_modified": "2022-09-25T19:33:43-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 martini"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 slice watermelon, rind removed",
+    "0.5 cup ice cubes, or as needed",
+    "1 (1.5 fluid ounce) jigger vodka"
+  ],
+  "steps": [
+    {
+      "text": "Place watermelon in a cocktail shaker and crush with a muddler; add ice cubes and vodka. Cover shaker and shake well. Strain cocktail into a martini glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "18 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yAxLWD94pcthtGSDdZ_gGDWKRDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1153240-c722ca743fa04e53858831f3ee0063a5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/234333/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
