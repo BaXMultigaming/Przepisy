@@ -1,0 +1,86 @@
+{
+  "id": "214761",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214761/collins-goulash/",
+  "requested_url": "https://www.allrecipes.com/recipe/214761/collins-goulash/",
+  "title": "Collins Goulash",
+  "description": "This goulash recipe is what you need when the family is hungry and you have hamburger in the fridge. This tasty, creamy dish will fill everyone up.",
+  "authors": [
+    "Mary Smallwood"
+  ],
+  "date_published": "2019-04-02T02:53:35-04:00",
+  "date_modified": "2022-10-01T19:50:19-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package elbow macaroni",
+    "1 pound ground beef",
+    "1 (8 ounce) package cream cheese, softened",
+    "2 (10.5 ounce) cans condensed cream of mushroom soup",
+    "1 cup milk, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once water is boiling, stir in macaroni and return to a boil. Cook uncovered, stirring occasionally until pasta is tender and cooked through, about 10 minutes. Drain well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook ground beef in a skillet over medium heat, breaking meat up as it cooks until beef is browned and no longer pink. Drain excess fat. Stir in cream cheese until melted, then mix in condensed soup until thoroughly combined. Stir in milk, about 1/4 cup at a time, until the mixture has the consistency of gravy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in macaroni, bring to a simmer, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "486 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "623 mg",
+    "sugarContent": "4 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0kcNTYtSloUOyA44Sye6dVJkJY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7054296-0f231100825b47b7bc4513ef481b93e6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214761/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

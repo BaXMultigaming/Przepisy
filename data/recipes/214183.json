@@ -1,0 +1,95 @@
+{
+  "id": "214183",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214183/quick-alfredo-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/214183/quick-alfredo-sauce/",
+  "title": "Quick Alfredo Sauce",
+  "description": "This Alfredo sauce made with half-and-half is rich and creamy with less fat. It&#39;s quickly made on the stovetop in just 5 minutes and great over pasta.",
+  "authors": [
+    "distasi"
+  ],
+  "date_published": "2019-04-02T02:53:17-04:00",
+  "date_modified": "2026-05-15T10:30:47-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "2 cups"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter",
+    "0.25 cup all-purpose flour",
+    "0.5 teaspoon garlic salt",
+    "2 cups half and half",
+    "0.33333334326744 cup grated Parmesan cheese",
+    "1 tablespoon dried parsley flakes",
+    "2 cloves garlic, minced"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a saucepan over medium heat. Whisk flour and garlic salt into butter until mixture is smooth. Slowly beat half and half into flour mixture until completely incorporated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk Parmesan cheese, parsley, and garlic into sauce; bring to a simmer. Cook and stir until sauce has thickened, 4 to 5 minutes. Use immediately or refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "231 mg",
+    "sugarContent": "0 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "332"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LBfmARFot62gegREIfviqdm0c2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3850301_Quick-Alfredo-Sauce-4x3-1-fae790fc25794f21b7cccfa5c0e4eb32.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214183/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

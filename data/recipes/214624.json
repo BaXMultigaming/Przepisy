@@ -1,0 +1,85 @@
+{
+  "id": "214624",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214624/coconut-horchata/",
+  "requested_url": "https://www.allrecipes.com/recipe/214624/coconut-horchata/",
+  "title": "Coconut Horchata",
+  "description": "A Mexican-inspired coconut horchata. Rice, almonds, and coconut are ground and soaked, then sweetened with condensed milk in this tropical drink.",
+  "authors": [
+    "Suzie Lopez O'Connor"
+  ],
+  "date_published": "2020-06-18T23:42:32-04:00",
+  "date_modified": "2026-08-03T13:39:05-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT375M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup uncooked white rice",
+    "1 cup almonds",
+    "1 cup sweetened flaked coconut",
+    "3 cups boiling water",
+    "1 (14 ounce) can coconut milk",
+    "1 (14 ounce) can sweetened condensed milk",
+    "5 cups cold water, or more as needed",
+    "5 cups ice"
+  ],
+  "steps": [
+    {
+      "text": "Place rice, almonds, and coconut flakes into a food processor. Process until ground to the consistency of sand. Pour rice mixture into a bowl and stir in boiling water. Cover and rest for 6 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Strain rice mixture through a sieve twice, discarding ground rice, almonds, and coconut. Stir in coconut milk and sweetened condensed milk. Stir in cold water and serve over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "322 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "69 mg",
+    "sugarContent": "21 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/llUnr4TpEDV-oxdldkq5uH8ZlsE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6439300-5f1264fb10d5469da70fe668a910cb46.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214624/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

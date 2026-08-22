@@ -1,0 +1,82 @@
+{
+  "id": "214470",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214470/pesto-quinoa/",
+  "requested_url": "https://www.allrecipes.com/recipe/214470/pesto-quinoa/",
+  "title": "Pesto Quinoa",
+  "description": "Quinoa is cooked in chicken broth, seasoned with pesto, and mixed with fresh tomato in this Ecuadorian side dish of quinoa with pesto.",
+  "authors": [
+    "Sarah"
+  ],
+  "date_published": "2018-06-08T09:56:14-04:00",
+  "date_modified": "2026-07-20T11:54:46-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "South American"
+  ],
+  "regions": [
+    "South American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup quinoa, rinsed and drained",
+    "2 cups chicken broth",
+    "2 tablespoons basil pesto",
+    "1 tomato, diced",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring quinoa and chicken broth to a boil in a saucepan; cover, reduce heat to low, and simmer until liquid is completely absorbed, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the saucepan from heat; stir pesto into quinoa. Fold tomato into mixture. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "198 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "70 mg",
+    "sugarContent": "1 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "101"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AqTltsN2XopLXa2l3h5MWQvy-YA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1002344-pesto-quinoa-janellody-4x3-1-53143ec3aae34c1c83a33e19d1570cda.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214470/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "215012",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215012/spicy-tuna-fish-cakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/215012/spicy-tuna-fish-cakes/",
+  "title": "Spicy Tuna Fish Cakes",
+  "description": "These spicy tuna fish cakes are made with canned tuna, dried spices, onion, and a mashed potato for a binder. They fry up into deliciously crisp patties!",
+  "authors": [
+    "Raquel Teixeira"
+  ],
+  "date_published": "2019-04-02T02:53:45-04:00",
+  "date_modified": "2026-04-08T09:54:45-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT35M",
+  "total_time": "PT55M",
+  "yield": [
+    "4",
+    "8 fish cakes"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large potato, peeled and cubed",
+    "4 (3 ounce) cans tuna, drained",
+    "0.25 cup chopped onion",
+    "1 egg",
+    "1 tablespoon Dijon mustard",
+    "1 tablespoon dry breadcrumbs, or as needed",
+    "1.5 teaspoons garlic powder",
+    "1 teaspoon Italian seasoning",
+    "0.25 teaspoon cayenne pepper",
+    "salt and ground black pepper to taste",
+    "1 tablespoon olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Place potato into a small pot and cover with salted water. Bring to a boil over high heat, then reduce the heat to medium-low, cover, and simmer until tender, about 20 minutes. Drain and allow to steam dry in the pot for 1 to 2 minutes. Transfer to a large bowl and mash with a potato masher or fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add tuna, onion, egg, mustard, bread crumbs, garlic powder, Italian seasoning, cayenne pepper, salt, and pepper and mix until well blended. Divide tuna mixture into eight equal portions and shape into patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a skillet over medium heat. Add tuna patties and pan-fry until browned and crisp, about 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Exz8i0Elkvkiem6YYSm24mhMjao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3547331-spicy-tuna-fish-cakes-Rock_lobster-4x3-1-853be1f0365443e191b43ce0fe1196a5.jpg"
+      ],
+      "image": "assets/images/215012/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "237 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "72 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "210 mg",
+    "sugarContent": "2 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "366"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/GVrQnBno-ma1DlVvV.mp4",
+    "description": "See how to make spicy tuna cakes using basic ingredients commonly found in the pantry.",
+    "duration": "PT2M",
+    "name": "Spicy Tuna Cakes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/GVrQnBno/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T01:03:51-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Exz8i0Elkvkiem6YYSm24mhMjao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3547331-spicy-tuna-fish-cakes-Rock_lobster-4x3-1-853be1f0365443e191b43ce0fe1196a5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215012/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/215012/step_03.webp"
+    ]
+  }
+}

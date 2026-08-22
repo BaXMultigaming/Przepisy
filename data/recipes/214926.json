@@ -1,0 +1,80 @@
+{
+  "id": "214926",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214926/ginger-collard-greens/",
+  "requested_url": "https://www.allrecipes.com/recipe/214926/ginger-collard-greens/",
+  "title": "Ginger Collard Greens",
+  "description": "A southern tradition with a ginger flavor.",
+  "authors": [
+    "Keith Dallmer"
+  ],
+  "date_published": "2019-04-03T23:49:20-04:00",
+  "date_modified": "2019-04-03T23:49:20-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT70M",
+  "total_time": "PT85M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 quarts water",
+    "6 cubes chicken bouillon",
+    "1 onion, chopped",
+    "2 cloves garlic, minced",
+    "1 teaspoon black pepper",
+    "1 teaspoon salt",
+    "1.5 teaspoons garlic powder",
+    "1.5 teaspoons ginger powder",
+    "1 bunch collard greens - rinsed, trimmed and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Combine the water, bouillon cubes, chopped onion, minced garlic, pepper, salt, garlic powder, and ginger powder in a large pot; bring to a boil over high heat. Add the collard greens, and return to a boil. Reduce heat to medium, and simmer until very tender, about 1 hour. Strain to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "37 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1565 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GqvVx5S-BaXfg_0BCHJF8SLmp1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/556410-39acfbc4b580473c9d9b3614e2fd0d0b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214926/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

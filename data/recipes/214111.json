@@ -1,0 +1,91 @@
+{
+  "id": "214111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214111/rhubarb-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/214111/rhubarb-lemonade/",
+  "title": "Rhubarb Lemonade",
+  "description": "When it comes to juice recipes with rhubarb, adding rhubarb syrup with lemon to your lemonade gives it an extra tangy flavor and a beautiful pink color.",
+  "authors": [
+    "Amy"
+  ],
+  "date_published": "2020-06-18T23:42:01-04:00",
+  "date_modified": "2026-07-25T13:07:14-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "4 cups syrup"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 cups chopped rhubarb",
+    "3 cups white sugar",
+    "3 tablespoons grated lemon peel",
+    "1.5 cups lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Combine rhubarb, sugar, and lemon peel in a large saucepan; bring to a boil. Reduce heat to medium-low; simmer until sugar has dissolved and rhubarb releases its juice and starts to break up, about 10 minutes. Off heat, stir in lemon juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour rhubarb mixture through a fine-mesh sieve, pressing out as much liquid as possible.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill a glass with ice; add 1 cup water and 1/3 cup syrup. Stir to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "216 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "51 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "29"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/avBkfhrMfEjVa_Ftu1fZk8sVyEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1014986-849ff6a9434a424d80a8cabffe4adb92.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214111/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

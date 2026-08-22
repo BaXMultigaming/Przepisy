@@ -1,0 +1,75 @@
+{
+  "id": "214095",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214095/philly-cheese-steak/",
+  "requested_url": "https://www.allrecipes.com/recipe/214095/philly-cheese-steak/",
+  "title": "Philly Cheese Steak",
+  "description": "An Asian-inspired version of a Philly cheese steak--thinly sliced steak is cooked with onion, cheese spread, and a splash of teriyaki sauce, and served on sandwich rolls.",
+  "authors": [
+    "Kikkoman"
+  ],
+  "date_published": "2013-10-08T19:57:19-04:00",
+  "date_modified": "2024-08-18T11:08:14-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 sandwiches"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound fresh steak (rib-eye, round, or sirloin)*",
+    "1 large yellow onion, sliced thin",
+    "3 tablespoons Kikkoman Teriyaki Marinade & Sauce",
+    "4 soft sandwich rolls",
+    "1 (8 fl oz) jar cheese spread"
+  ],
+  "steps": [
+    {
+      "text": "Add oil to a large non-stick skillet. Saute onions and 2 tablespoons of teriyaki sauce until the onions are soft. Add the sliced meat and cook until meat browns slightly, add remaining 1 tablespoon of teriyaki sauce and stir to combine. Place cheese on the meat and stir until melted, mixing meat, onions and cheese together. Scoop meat mixture onto sandwich rolls.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "521 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "1763 mg",
+    "sugarContent": "11 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6ksXaMwYCKhVQ0Wn-5_vj62LE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6622261-6e224aa97b344495a639d0bfe6e45103.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214095/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "215083",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215083/creamy-chicken-spread/",
+  "requested_url": "https://www.allrecipes.com/recipe/215083/creamy-chicken-spread/",
+  "title": "Creamy Chicken Spread",
+  "description": "This easy chicken spread is perfect for parties and so simple to make with canned chicken, softened cream cheese, sour cream, and savory spices.",
+  "authors": [
+    "Jennie Hood Flynn"
+  ],
+  "date_published": "2020-01-02T19:50:28-05:00",
+  "date_modified": "2023-07-13T15:39:41-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT65M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package cream cheese, softened",
+    "0.5 cup sour cream",
+    "1 teaspoon dried minced onion",
+    "0.5 teaspoon onion salt",
+    "0.5 teaspoon Worcestershire sauce",
+    "0.25 teaspoon cayenne pepper",
+    "2 (10 ounce) cans chunk white chicken, drained"
+  ],
+  "steps": [
+    {
+      "text": "Mix cream cheese, sour cream, minced onion, onion salt, Worcestershire sauce, and cayenne pepper in a bowl until well blended. Stir in chicken, breaking up any large pieces. Cover and refrigerate for at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "163 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "54 mg",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "373 mg",
+    "sugarContent": "0 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XAXwKoRw1SiSS2NtiqfHbZnTpVE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4483117-0a1cae99c33a4fe6af4b4ce5259187f4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215083/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

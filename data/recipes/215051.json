@@ -1,0 +1,84 @@
+{
+  "id": "215051",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215051/skinny-foster/",
+  "requested_url": "https://www.allrecipes.com/recipe/215051/skinny-foster/",
+  "title": "Skinny Foster",
+  "description": "A quick and easy version of Bananas Foster for two.",
+  "authors": [
+    "PAMELA D aPROpos of nothing"
+  ],
+  "date_published": "2020-03-05T00:07:26-05:00",
+  "date_modified": "2020-03-05T00:07:26-05:00",
+  "prep_time": "PT8M",
+  "cook_time": "PT2M",
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons butter",
+    "2 teaspoons brown sugar",
+    "1 orange, juiced",
+    "1 banana, split lengthwise",
+    "2 scoops vanilla ice cream",
+    "2 tablespoons sliced almonds, toasted"
+  ],
+  "steps": [
+    {
+      "text": "Heat butter, brown sugar, and orange juice in a skillet over medium heat. Once the butter has melted, add the banana. Cook until the banana has softened and the sauce is slightly syrupy, flipping the banana occasionally, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve each slice of banana with a scoop of vanilla ice cream. Drizzle with the sauce and sprinkle with almond slices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "48 mg",
+    "sugarContent": "16 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kUfuMCZ6SizRR_V5uC4rrX5TQVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1141736-12b053ec23e2446a8da80e6f5944cd36.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215051/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

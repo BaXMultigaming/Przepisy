@@ -1,0 +1,101 @@
+{
+  "id": "214188",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214188/pesto-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/214188/pesto-chicken/",
+  "title": "Pesto Chicken",
+  "description": "So simple. Spread skinless, boneless chicken breasts with basil pesto, wrap in prosciutto, and bake for an Italian-inspired main dish that&#39;s ready in only 35 minutes. Eat it hot with pasta, or let cool and slice for a salad.",
+  "authors": [
+    "Pjaros"
+  ],
+  "date_published": "2020-02-18T23:41:33-05:00",
+  "date_modified": "2026-04-16T16:54:11-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves",
+    "0.5 cup prepared basil pesto, divided",
+    "4 thin slices prosciutto, or more if needed"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 400 degrees F (200 degrees C). Grease a baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread about 2 tablespoons of pesto per chicken breast over the top of each breast, and wrap each breast in prosciutto slices to cover the entire breast. Place the wrapped chicken breasts into the prepared baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until the chicken is no longer pink, the juices run clear, and the prosciutto is lightly crisped, about 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/tEM0OPStrcWoF5SF8Pngjw7pPLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/214188pesto-chickenfabeveryday4x3-fabf661687634618b54c3384f84d87f7.jpg"
+      ],
+      "image": "assets/images/214188/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "312 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "434 mg",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "373"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/i4MWR42u-K3AjnAEN.mp4",
+    "description": "This easy chicken combines pesto and prosciutto for a quick and delicious dinner!",
+    "duration": "PT1M",
+    "name": "Pesto Chicken ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/i4MWR42u/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T12:32:12-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tEM0OPStrcWoF5SF8Pngjw7pPLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/214188pesto-chickenfabeveryday4x3-fabf661687634618b54c3384f84d87f7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214188/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/214188/step_03.webp"
+    ]
+  }
+}

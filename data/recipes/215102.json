@@ -1,0 +1,79 @@
+{
+  "id": "215102",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215102/green-goddess-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/215102/green-goddess-dip/",
+  "title": "Green Goddess Dip",
+  "description": "Sour cream and mayonnaise are the base of this dip with anchovy fillets and fresh herbs.",
+  "authors": [
+    "TerryWilson"
+  ],
+  "date_published": "2019-07-10T03:02:20-04:00",
+  "date_modified": "2025-02-14T15:41:31-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup sour cream",
+    "0.75 cup mayonnaise",
+    "2 cloves garlic, minced",
+    "0.25 cup fresh parsley leaves",
+    "2 teaspoons chopped fresh tarragon",
+    "1 tablespoon lemon juice",
+    "2 anchovy fillets",
+    "0.25 cup minced fresh chives",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend the sour cream, mayonnaise, garlic, parsley, tarragon, lemon juice, and anchovy fillets in a food processor or blender until smooth and creamy; transfer to a bowl. Gently stir the minced chives into the sour cream mixture; season with salt and pepper. Refrigerate at least 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "100 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "83 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/b_UfWaUQ6uf2k58ZokAOFOdWKg0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2066264-9a4ad2f665b04013b8a26267af6f747e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215102/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

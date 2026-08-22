@@ -1,0 +1,103 @@
+{
+  "id": "214672",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/214672/ranch-bacon-and-parmesan-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/214672/ranch-bacon-and-parmesan-pasta-salad/",
+  "title": "Ranch, Bacon, and Parmesan Pasta Salad",
+  "description": "This tangy, crunchy-crisp, savory chilled ranch, bacon, and Parmesan pasta salad recipe is a flavorful change of pasta to the usual pasta side salad.",
+  "authors": [
+    "Chef John Politte"
+  ],
+  "date_published": "2019-04-01T23:06:47-04:00",
+  "date_modified": "2026-06-17T10:55:34-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT165M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package farfalle (bow tie) pasta",
+    "6 slices bacon",
+    "1 cup prepared ranch dressing",
+    "1 red onion, diced",
+    "1 carrot, peeled and diced",
+    "1 stalk celery, diced",
+    "0.5 cup shredded Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook farfalle at a boil, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain; rinse with cold water until cool. Transfer to a large bowl; refrigerate until ready to use.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on a paper towel-lined plate. Chop when cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine dressing, bacon, red onion, carrot, celery, and Parmesan cheese in a large bowl; stir in pasta to coat. Refrigerate to blend flavors, about 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/sGZs3z4nhNXNYbLkRZV8MofyDnU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3378222-2e77aa5ca40c4ae18f44921c626611f4.jpg"
+      ],
+      "image": "assets/images/214672/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "584 kcal",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "713 mg",
+    "sugarContent": "4 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "83"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/W4q6DVgu-K3AjnAEN.mp4",
+    "description": "Savory, salty, and easy pasta salad! Creamy ranch dressing mixed with crisp bacon, celery, carrots, and red onion gives this pasta salad a tangy bite and is delicious as a side! \n",
+    "duration": "PT41S",
+    "name": "Ranch, Bacon, and Parmesan Pasta Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/W4q6DVgu/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:21:45-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sGZs3z4nhNXNYbLkRZV8MofyDnU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3378222-2e77aa5ca40c4ae18f44921c626611f4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/214672/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/214672/step_03.webp"
+    ]
+  }
+}
