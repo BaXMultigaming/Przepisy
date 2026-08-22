@@ -1,0 +1,74 @@
+{
+  "id": "255232",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255232/basic-white-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/255232/basic-white-rice/",
+  "title": "Basic White Rice",
+  "description": "Learn how to make white rice with flavor in a quick and easy recipe. This white rice yields a basic but tasty dish that goes with a range of meals.",
+  "authors": [
+    "LuisJanet Resendiz"
+  ],
+  "date_published": "2019-04-04T00:06:59-04:00",
+  "date_modified": "2026-08-12T12:48:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon canola oil",
+    "2 cups white rice",
+    "0.25 teaspoon garlic powder",
+    "salt to taste",
+    "2 cups boiling water"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large saucepan over medium heat. Add rice, garlic powder, and salt. Pour in boiling water to cover rice by about 1 inch; bring to a boil. Reduce heat to low, cover, and simmer until water is absorbed and rice is tender, 20 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "369 kcal",
+    "carbohydrateContent": "74 g",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "47 mg",
+    "sugarContent": "0 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9lQ6cQ3oODKTjdYvYA_x9-KA_ts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3914485-8a005eff768e42a483afe7fa479460e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255232/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

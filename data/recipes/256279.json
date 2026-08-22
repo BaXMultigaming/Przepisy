@@ -1,0 +1,81 @@
+{
+  "id": "256279",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256279/buttered-braised-cabbage/",
+  "requested_url": "https://www.allrecipes.com/recipe/256279/buttered-braised-cabbage/",
+  "title": "Buttered-Braised Cabbage",
+  "description": "This buttered cabbage recipe is super quick and easy to make by simply braising shredded green cabbage in butter until tender and delicious.",
+  "authors": [
+    "Alexis"
+  ],
+  "date_published": "2016-11-22T23:24:29-05:00",
+  "date_modified": "2026-06-22T11:36:31-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT12M",
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter, divided",
+    "1 head green cabbage, shredded",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat 3 tablespoons butter in a large pot over medium-low heat until mostly melted. Add cabbage; top with remaining 1 tablespoon butter. Cover and cook until cabbage is tender, about 10 minutes. Uncover and stir cabbage to coat evenly with melted butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat and let stand, covered, about 3 minutes. Season with black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "117 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "90 mg",
+    "sugarContent": "6 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/a6brbJO33gI1Jw73a5fPpdNwH1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/256279-buttered-braised-cabbage-VAT-Beauty-4x3-cb74ffa4f2ea462e943209e6ab537ff9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256279/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "255143",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255143/chef-johns-lemon-ice/",
+  "requested_url": "https://www.allrecipes.com/recipe/255143/chef-johns-lemon-ice/",
+  "title": "Chef John&#39;s Lemon Ice",
+  "description": "Lemon ice is a light and refreshing frozen dessert with a bright citrus flavor for an easy summer dessert that&#39;s both sweet and tart.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2016-08-19T00:28:34-04:00",
+  "date_modified": "2025-06-11T10:20:20-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT190M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups cold water",
+    "0.875 cup white sugar",
+    "2 tablespoons lemon zest",
+    "1 cup freshly squeezed lemon juice",
+    "1 teaspoon lemon extract"
+  ],
+  "steps": [
+    {
+      "text": "Dissolve sugar in water in a pot over medium heat, whisking while water heats up. As soon as sugar dissolves and water is clear, remove pan from heat. While water is still warm, add lemon zest. Allow to cool to room temperature before adding lemon juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk in lemon juice and lemon extract. Pour into a baking pan about 9x13 inches. Place in freezer until ice starts to form around the edges, about 40 to 45 minutes. Use a fork to stir up ice. Do this every 20 to 30 minutes until lemon ice reaches your preferred texture, 2 ½ to 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/zBElVIlYa1GJEwlUqd_jwQ05WKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3860477-chef-johns-lemon-ice-Chef-John-1x1-1-617e063cf70f41f48843a780d0cf660e.jpg"
+      ],
+      "image": "assets/images/255143/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "94 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "17"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/9FdT6HMu-K3AjnAEN.mp4",
+    "description": "This refreshing lemon ice is made granita-style, without an ice cream maker. See how Chef John gets just the right shaved ice consistency by using a fork to scrape the mixture as it freezes. You'll love the light texture and bright flavor of this easy dessert.",
+    "duration": "PT6M48S",
+    "name": "Chef John's Lemon Ice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9FdT6HMu/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:15:08-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zBElVIlYa1GJEwlUqd_jwQ05WKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3860477-chef-johns-lemon-ice-Chef-John-1x1-1-617e063cf70f41f48843a780d0cf660e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255143/hero.webp",
+    "steps": [
+      null,
+      "assets/images/255143/step_02.webp"
+    ]
+  }
+}

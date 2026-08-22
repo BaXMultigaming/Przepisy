@@ -1,0 +1,107 @@
+{
+  "id": "255122",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255122/chicken-zoodle-pho/",
+  "requested_url": "https://www.allrecipes.com/recipe/255122/chicken-zoodle-pho/",
+  "title": "Chicken Zoodle Pho",
+  "description": "Zoodles are a gluten-free alternative to rice noodles in this fragrant slow cooker pho made with chicken breast, bean sprouts, and bok choy.",
+  "authors": [
+    "Megan Olson"
+  ],
+  "date_published": "2020-03-09T22:52:52-04:00",
+  "date_modified": "2020-03-09T22:52:52-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT150M",
+  "total_time": "PT170M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 cups vegetable broth",
+    "12 ounces boneless chicken breasts",
+    "1.5 cups sliced white onion, separated into rings",
+    "2 tablespoons oyster sauce",
+    "1.5 teaspoons coconut sugar",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper",
+    "4 whole cloves",
+    "0.5 teaspoon minced ginger",
+    "2 whole star anise pods",
+    "9 cups bean sprouts",
+    "6 cups coarsely chopped bok choy cabbage",
+    "4 zucchini"
+  ],
+  "steps": [
+    {
+      "text": "Combine vegetable broth, chicken breasts, onions, oyster sauce, coconut sugar, salt, pepper, cloves, ginger, and star anise in a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on High until chicken breasts can be easily flaked with a fork, about 1 1/2 hour. Stir in bean sprouts and bok choy. Continue cooking soup until bean sprouts are tender, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut zucchini into thin noodles using a spiralizer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide soup among 6 serving bowls. Top with zucchini noodles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "180 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1278 mg",
+    "sugarContent": "14 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IpBWxIqKCc5xwsxcQGrmn_owEzk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4465927-abf882e62990471d91ac4d17da510f00.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255122/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

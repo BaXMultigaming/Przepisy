@@ -1,0 +1,72 @@
+{
+  "id": "255999",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255999/creamy-banana-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/255999/creamy-banana-milkshake/",
+  "title": "Creamy Banana Milkshake",
+  "description": "Bananas, milk, and ice cream are the star ingredients in this creamy and rich banana shake recipe that is quick and easy to make for the whole family.",
+  "authors": [
+    "NillaPoptartBaking"
+  ],
+  "date_published": "2019-07-31T23:10:51-04:00",
+  "date_modified": "2022-10-06T14:41:12-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1 scoop vanilla ice cream",
+    "1 ripe banana",
+    "1 pinch ground cinnamon, or to taste",
+    "2 tablespoons whipped cream, or more to taste",
+    "1 tablespoon caramel topping"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, ice cream, banana, and cinnamon in a blender; blend on low speed until the mixture reaches the consistency of a thick milkshake. Pour milkshake into a cup and top with whipped cream and drizzled caramel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "339 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "198 mg",
+    "sugarContent": "31 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IYqhjt8yeJH0jvdxxqM7ubxbRxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457033-21b47372d9c34d0fa31719cb18ccecdd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255999/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

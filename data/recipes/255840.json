@@ -1,0 +1,87 @@
+{
+  "id": "255840",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255840/haitian-style-fried-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/255840/haitian-style-fried-chicken/",
+  "title": "Haitian Fried Chicken",
+  "description": "Haitian fried chicken marinates chicken legs in lemon juice, paprika, cloves, thyme, and garlic for flavorful crispy chicken without any batter.",
+  "authors": [
+    "cremebrulee"
+  ],
+  "date_published": "2020-02-01T02:51:50-05:00",
+  "date_modified": "2024-11-24T00:36:27-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT75M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Caribbean"
+  ],
+  "regions": [
+    "Caribbean"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds chicken legs",
+    "1 cup lemon juice",
+    "0.5 white onion, chopped",
+    "1 head garlic, cloves separated and minced",
+    "3 tablespoons seasoned salt",
+    "3 tablespoons paprika",
+    "3 tablespoons ground thyme",
+    "2 tablespoons ground black pepper",
+    "2 tablespoons whole cloves",
+    "vegetable oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken legs, lemon juice, onion, garlic, seasoned salt, paprika, thyme, pepper, and cloves in a large bowl. Cover and marinate in the refrigerator for at least 30 minutes to 12 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a deep fryer or large saucepan over medium-high heat. Fry chicken in batches until golden brown, about 8 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Drain on paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "571 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "137 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1811 mg",
+    "sugarContent": "2 g",
+    "fatContent": "37 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0qCTotCmzLVnpWCeU9xip0AjusI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4464287-66ce2a487bda45e2a46e95b21040e3ef.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255840/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

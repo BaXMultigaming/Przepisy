@@ -1,0 +1,73 @@
+{
+  "id": "256000",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256000/cinnameg-chocolate-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/256000/cinnameg-chocolate-milkshake/",
+  "title": "Cinnameg Chocolate Milkshake",
+  "description": "Chocolate ice cream is blended with cocoa and fall spices like cinnamon and nutmeg in this thick milkshake you can top with whipped cream.",
+  "authors": [
+    "House of Aqua"
+  ],
+  "date_published": "2019-09-12T23:18:54-04:00",
+  "date_modified": "2019-09-12T23:18:54-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 milkshake"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups chocolate ice cream",
+    "0.25 cup milk",
+    "1 tablespoon Dutch-processed cocoa powder",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon ground nutmeg",
+    "0.5 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Combine chocolate ice cream, milk, cocoa powder, vanilla extract, nutmeg, and cinnamon in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "636 kcal",
+    "carbohydrateContent": "83 g",
+    "cholesterolContent": "95 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "227 mg",
+    "sugarContent": "71 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Pqt79H1B5lKM9oAcQwypYwMmsww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4113051-de9a54777df044ffabb7ebc7e5453593.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256000/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

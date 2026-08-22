@@ -1,0 +1,78 @@
+{
+  "id": "256234",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256234/2-ingredient-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/256234/2-ingredient-ice-cream/",
+  "title": "2-Ingredient Ice Cream",
+  "description": "This 2-ingredient ice cream, made with whipped cream and sweetened condensed milk, is so easy to make and your family and friends will love it!",
+  "authors": [
+    "Spetia"
+  ],
+  "date_published": "2017-04-05T09:01:46-04:00",
+  "date_modified": "2026-06-11T14:27:24-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT370M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint heavy whipping cream",
+    "1 (14 ounce) can sweetened condensed milk"
+  ],
+  "steps": [
+    {
+      "text": "Beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form; add condensed milk and beat until thick and well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer mixture to a shallow container and cover with plastic wrap; freeze until solid, about 6 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "725 kcal",
+    "carbohydrateContent": "57 g",
+    "cholesterolContent": "196 mg",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "33 g",
+    "sodiumContent": "170 mg",
+    "sugarContent": "53 g",
+    "fatContent": "53 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/F1n-LPg29xSqjBcZY00DtfgBbjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/256234-2-ingredient-ice-cream-VAT-Beauty-4x3-4946c00999a04ec7b4698c3b2bb85b63.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256234/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

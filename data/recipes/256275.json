@@ -1,0 +1,81 @@
+{
+  "id": "256275",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256275/ginger-milk-custard/",
+  "requested_url": "https://www.allrecipes.com/recipe/256275/ginger-milk-custard/",
+  "title": "Ginger Milk Custard",
+  "description": "This ginger milk custard is a traditional Chinese dessert, made with 3 simple ingredients, that is quick and easy to prepare.",
+  "authors": [
+    "HL"
+  ],
+  "date_published": "2020-06-19T00:18:56-04:00",
+  "date_modified": "2020-06-19T00:18:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT22M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Chinese"
+  ],
+  "regions": [
+    "Chinese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (2 inch) piece fresh ginger root, at room temperature",
+    "1 cup whole milk",
+    "2.5 teaspoons white sugar, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Peel and grate ginger. Squeeze grated ginger pieces to release juice; measure 2 teaspoons ginger juice and transfer to a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place milk in a saucepan; heat until temperature reaches 160 degrees F to 170 degrees F (71 degrees C to 77 degrees C), about 5 minutes. Add sugar and stir until dissolved; pour into the bowl with ginger juice. Stir mixture immediately and cover with a small plate. Cover the covered bowl with a clean towel; let sit for at least 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "24 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "99 mg",
+    "sugarContent": "22 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oj5BCn336beSW3XUD63g-WUZ8gM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4483593-517ea578f0eb41bdb25cf3aae5b8973e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256275/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

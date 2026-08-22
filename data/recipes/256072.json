@@ -1,0 +1,70 @@
+{
+  "id": "256072",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256072/banana-walnut-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/256072/banana-walnut-smoothie/",
+  "title": "Banana Walnut Smoothie",
+  "description": "This banana walnut smoothie will keep you full in the morning and is a great on-the-go breakfast drink that happens to be paleo and vegan!",
+  "authors": [
+    "Alli Shircliff"
+  ],
+  "date_published": "2019-04-04T00:07:27-04:00",
+  "date_modified": "2019-04-04T00:07:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 smoothies"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 bananas",
+    "1 cup frozen pineapple chunks",
+    "2 tablespoons cashew butter",
+    "2 tablespoons chopped walnuts",
+    "2 cups water, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Combine bananas, pineapple, cashew butter, and walnuts in a blender. Add water and blend until smooth, adding more water for a thinner smoothie.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "289 kcal",
+    "carbohydrateContent": "43 g",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "108 mg",
+    "sugarContent": "24 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gIXm3rjZxaJHw2Ae6c8RLtWnB3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4117373-cfe356014c5e40dd9132f94695163172.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256072/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

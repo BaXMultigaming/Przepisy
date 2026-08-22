@@ -1,0 +1,74 @@
+{
+  "id": "256266",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256266/blended-banana-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/256266/blended-banana-ice-cream/",
+  "title": "Blended Banana Ice Cream",
+  "description": "Frozen banana slices are blended into this creamy dessert with the look and texture of ice cream made without dairy products or added sugar.",
+  "authors": [
+    "Katie McElwee"
+  ],
+  "date_published": "2016-11-22T23:23:02-05:00",
+  "date_modified": "2016-11-22T23:23:02-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 banana, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Place banana slices in a resealable freezer bag. Freeze until firm, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Empty banana slices into a blender; blend until creamy and the consistency of ice cream. Scoop into a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "54 g",
+    "fiberContent": "6 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "29 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ogTpk_0fkDPHnaqN9s1ivR2hZAE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4428218-2f4815996df04be182ce80bb09aabfda.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256266/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

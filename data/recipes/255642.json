@@ -1,0 +1,94 @@
+{
+  "id": "255642",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255642/vegan-potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/255642/vegan-potato-soup/",
+  "title": "Vegan Potato Soup",
+  "description": "This creamy vegan potato soup made with carrots, celery, garlic, and almond milk is a smooth and comforting dinner option on a chilly day.",
+  "authors": [
+    "Autumn Pumpkin"
+  ],
+  "date_published": "2019-04-04T00:07:13-04:00",
+  "date_modified": "2024-01-26T03:45:56-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT30M",
+  "total_time": "PT55M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 cup diced onion",
+    "1 cup diced carrot",
+    "1 cup diced celery",
+    "3 cloves garlic, minced",
+    "4 russet potatoes, peeled and cut into 1-inch pieces",
+    "4 cups water",
+    "4 teaspoons salt, divided",
+    "2 cups almond milk",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large pot over medium heat. Add onion, carrot, celery, and garlic; cook and stir until soft, about 10 minutes. Add potatoes, water, and 2 teaspoons salt. Bring to a boil; reduce heat and simmer until potatoes are very tender, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove pot from the heat and puree soup with an immersion blender. Stir in almond milk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return soup to the heat and cook until heated through, about 5 minutes. Season with remaining 2 teaspoons salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "147 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "4 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1237 mg",
+    "sugarContent": "5 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3_gJzHooC6JFk8fkSlRjTkEd3Bg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5631451-8864a25b06124d17b60227a046775c16.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255642/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

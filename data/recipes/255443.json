@@ -1,0 +1,84 @@
+{
+  "id": "255443",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255443/10-minute-rice-cakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/255443/10-minute-rice-cakes/",
+  "title": "10-Minute Rice Cakes",
+  "description": "See how easy it is to make rice cakes with leftover cooked rice, egg, milk, and basil. They&#39;re ready to enjoy for breakfast or dinner in just 10 minutes!",
+  "authors": [
+    "Lauren"
+  ],
+  "date_published": "2020-06-19T00:18:14-04:00",
+  "date_modified": "2025-12-22T17:54:44-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "2 rice cakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup cooked white rice",
+    "1 egg",
+    "1 tablespoon chopped fresh basil",
+    "1 teaspoon milk",
+    "salt and ground black pepper to taste",
+    "1.5 teaspoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Mix rice, egg, basil, milk, salt, and pepper together in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a skillet over medium heat. Scoop rice mixture into the skillet in two equal portions. Cook until browned on the bottom, about 3 minutes. Flip and continue to cook until browned on the other side, about 2 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "202 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "269 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7gFBbCyRkkAPIBfILGp5ec6GGko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4140705-0c2474f9ebb942cabbfd3d82d27f25ad.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255443/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "255538",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255538/puppy-chow-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/255538/puppy-chow-milkshake/",
+  "title": "Puppy Chow Milkshake",
+  "description": "Chocolate chips, peanut butter, and ice cream come together in this, quick and easy drinkable version of the puppy chow snack: a milkshake!",
+  "authors": [
+    "Mkat14"
+  ],
+  "date_published": "2016-09-24T00:45:45-04:00",
+  "date_modified": "2016-09-24T00:45:45-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT2M",
+  "total_time": "PT7M",
+  "yield": [
+    "1",
+    "1 milkshake"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup semisweet chocolate chips",
+    "2 tablespoons peanut butter",
+    "1 cup vanilla ice cream",
+    "0.25 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Combine chocolate chips and peanut butter in a microwave-safe bowl; heat in microwave for 1 minute. Stir mixture and heat in microwave for 30 seconds more; stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine ice cream, milk, and chocolate mixture in a blender; blend on high for 40 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "688 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "63 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "285 mg",
+    "sugarContent": "57 g",
+    "fatContent": "45 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vFtxMclllOBPRMSCIGyqhzZUMyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4449836-b6c311325eb440bead9d52842654a89b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255538/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

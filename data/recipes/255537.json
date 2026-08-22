@@ -1,0 +1,75 @@
+{
+  "id": "255537",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255537/orange-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/255537/orange-milkshake/",
+  "title": "Orange Milkshake",
+  "description": "Orange juice gives a traditional vanilla milkshake an extra citrusy kick in this quick and easy orange milkshake recipe everyone loves.",
+  "authors": [
+    "Hansika Kuruppuarachchi"
+  ],
+  "date_published": "2020-06-19T00:18:22-04:00",
+  "date_modified": "2026-06-19T18:14:02-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 milkshake"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups orange juice",
+    "2 scoops vanilla ice cream",
+    "0.5 cup milk",
+    "2 teaspoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine orange juice, ice cream, milk, and sugar in a blender; blend until smooth. Pour milkshake into a glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "345 kcal",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "87 mg",
+    "sugarContent": "54 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/K_So76C_rRDNIdRcWXK5q9kKuzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4444985-930a6b5879bb4724812a812be3d018da.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255537/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

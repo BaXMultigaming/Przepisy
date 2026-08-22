@@ -1,0 +1,89 @@
+{
+  "id": "256008",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256008/mexican-scrambled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/256008/mexican-scrambled-eggs/",
+  "title": "Mexican Scrambled Eggs",
+  "description": "This recipe for Mexican scrambled eggs includes red and green bell peppers, onion, fresh jalapeño, chili powder, ground cumin, and ground cinnamon.",
+  "authors": [
+    "Claire"
+  ],
+  "date_published": "2020-02-19T01:50:18-05:00",
+  "date_modified": "2025-02-05T20:17:35-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "0.5 cup diced onion",
+    "0.25 cup milk",
+    "2 tablespoons diced green bell pepper",
+    "2 tablespoons diced red bell pepper",
+    "1 jalapeno pepper, seeded and diced",
+    "2 teaspoons Mexican-style chile powder",
+    "1 teaspoon onion powder",
+    "0.5 teaspoon ground cumin",
+    "1 dash ground cinnamon",
+    "salt and ground black pepper to taste",
+    "cooking spray"
+  ],
+  "steps": [
+    {
+      "text": "Whisk eggs together in a bowl. Stir in onion, milk, bell peppers, jalapeño, chili powder, onion powder, cumin, cinnamon, salt, and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large skillet over medium-high heat; coat with cooking spray. Pour egg mixture into the skillet; cook and stir until eggs are set and golden brown, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "233 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "377 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "328 mg",
+    "sugarContent": "9 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rEY5-atv3Z4xFsjhbaiFvigu1BE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4104671-f1cacd6876ae48f48390f8ed495bb77d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256008/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

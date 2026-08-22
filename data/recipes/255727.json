@@ -1,0 +1,88 @@
+{
+  "id": "255727",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255727/butternut-squash-coconut-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/255727/butternut-squash-coconut-curry/",
+  "title": "Butternut Squash Coconut Curry",
+  "description": "Butternut squash, simmered with curry spices and coconut milk, makes a tasty and easy Indian-inspired stew that is great on fall weeknights.",
+  "authors": [
+    "hame0051"
+  ],
+  "date_published": "2020-06-19T00:18:27-04:00",
+  "date_modified": "2022-01-14T01:26:53-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian Inspired"
+  ],
+  "regions": [
+    "Indian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups diced butternut squash",
+    "1 cup water",
+    "1 tablespoon olive oil",
+    "1 teaspoon salt",
+    "0.5 teaspoon mustard seeds",
+    "0.5 teaspoon cumin seeds",
+    "0.25 teaspoon cayenne pepper",
+    "0.25 teaspoon ground turmeric",
+    "1 (15 ounce) can coconut milk",
+    "1 (15 ounce) can cannellini beans, drained and rinsed",
+    "0.25 cup chopped fresh cilantro, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine squash, water, olive oil, salt, mustard seeds, cumin seeds, cayenne pepper, and turmeric in a saucepan; bring to a boil. Reduce heat and simmer, stirring occasionally, until squash is tender, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir coconut milk and beans into the squash mixture; simmer until flavors blend, about 10 minutes. Serve curry with cilantro on top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "397 kcal",
+    "carbohydrateContent": "34 g",
+    "fiberContent": "8 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "607 mg",
+    "sugarContent": "2 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tKALhIQhirBNUPQf43r2yL8csKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4055088-ce9aa4c6fc3e47078fface0a8ad3020e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255727/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "255815",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255815/real-aioli/",
+  "requested_url": "https://www.allrecipes.com/recipe/255815/real-aioli/",
+  "title": "Real Aioli",
+  "description": "Making aioli is easy and makes one of the greatest condiments of all time. Chef John’s recipe simply emulsifies olive oil into freshly crushed garlic.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-06-19T00:18:31-04:00",
+  "date_modified": "2026-07-08T12:04:49-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large cloves fresh garlic, peeled and sliced",
+    "0.5 teaspoon kosher salt, or other course-grain salt",
+    "1 teaspoon lemon juice, or more to taste",
+    "0.5 cup light, extra-virgin olive oil",
+    "1 teaspoon water to adjust texture, or more as needed"
+  ],
+  "steps": [
+    {
+      "text": "Place garlic slices in a mortar with kosher salt. Mash with the pestle into a fine paste, 4 or 5 minutes. Mix in lemon juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add a teaspoon of olive oil; stir and mash until oil is incorporated. Add another teaspoon and mix in thoroughly. Continue incorporating olive oil, teaspoon by teaspoon, mashing and stirring until aioli thickens up. If the aioli gets thicker than you like, add a few drops of water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/L6bJGnxNTU439oCMMtC2tip1CIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/255815-real-aioli-VAT-Beauty-4x3-4320b6f639594e6fbeab8edce213f8d0.jpg"
+      ],
+      "image": "assets/images/255815/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "173 kcal",
+    "carbohydrateContent": "1 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "161 mg",
+    "sugarContent": "0 g",
+    "fatContent": "19 g",
+    "servingSize": "2/3 cup",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "23"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/42BHygA7-K3AjnAEN.mp4",
+    "description": "There’s a good chance most of you have never tried a real aioli. To make Chef John’s version of this Mediterranean sauce you only need four ingredients; fresh garlic, olive oil, salt and lemon. Just as important as the ingredients is having a good mortar and pestle on hand. Slice the garlic then begin to crush with a little bit of salt. It’s the crushing and pulverization of the garlic that gives this sauce that signature taste you can’t recreate any other way. Once a fairly smooth paste is achieved, add a teaspoon of freshly squeezed lemon juice. Next introduce the olive oil slowly, stirring in teaspoon by teaspoon until the oil is gone. Delicious, spreadable and dippable, this simple sauce will be your new favorite condiment for finishing meat dishes or with a roasted artichoke.",
+    "duration": "PT7M6S",
+    "name": "Chef John's Real Aioli",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/42BHygA7/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T15:01:35-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/L6bJGnxNTU439oCMMtC2tip1CIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/255815-real-aioli-VAT-Beauty-4x3-4320b6f639594e6fbeab8edce213f8d0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255815/hero.webp",
+    "steps": [
+      null,
+      "assets/images/255815/step_02.webp"
+    ]
+  }
+}

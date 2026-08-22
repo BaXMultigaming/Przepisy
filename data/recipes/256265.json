@@ -1,0 +1,89 @@
+{
+  "id": "256265",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256265/vegan-tempura-veggies/",
+  "requested_url": "https://www.allrecipes.com/recipe/256265/vegan-tempura-veggies/",
+  "title": "Vegan Tempura Veggies",
+  "description": "Fresh cauliflower, broccoli, red bell pepper, and carrots are dipped in a simple vegan batter then deep-fried in this easy tempura recipe.",
+  "authors": [
+    "Jeannine Rivas"
+  ],
+  "date_published": "2020-06-19T00:18:55-04:00",
+  "date_modified": "2025-02-28T19:40:46-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT2M",
+  "total_time": "PT12M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American",
+    "Asian"
+  ],
+  "regions": [
+    "American",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice cubes",
+    "1 cup all-purpose flour",
+    "2 tablespoons arrowroot powder",
+    "1 cup ice water",
+    "vegetable oil for frying",
+    "1 small head cauliflower, cut into bite-size pieces",
+    "1 small head broccoli, cut into bite-size pieces",
+    "1 small red bell pepper, cut into bite-size pieces",
+    "10 baby carrots"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large bowl with ice cubes. Mix flour and arrowroot powder together a smaller bowl; set over the ice cubes. Pour ice water slowly into the flour mixture, mixing until the batter has a medium-thick texture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a deep-fryer or large saucepan over medium-high heat. Dip each piece of cauliflower into the batter and cook in batches in the hot oil until golden brown, 1 to 2 minutes. Place on paper towels to absorb excess oil. Repeat with broccoli, red bell pepper, and baby carrots.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "246 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "45 mg",
+    "sugarContent": "4 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1W_0YshxBzz-feOVq9VmD0WBg9A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5791276-ad3ca2a1a53d4ca9b5467dccde0bff28.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256265/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

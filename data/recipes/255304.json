@@ -1,0 +1,106 @@
+{
+  "id": "255304",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255304/chef-johns-fresh-berry-fool/",
+  "requested_url": "https://www.allrecipes.com/recipe/255304/chef-johns-fresh-berry-fool/",
+  "title": "Chef John&#39;s Fresh Berry Fool",
+  "description": "Chef John&#39;s fresh berry fool recipe starts with a lemon-sugar-macerated trio of fresh berries, whipped crème fraîche and heavy cream, and shortbreads.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2016-09-07T00:40:34-04:00",
+  "date_modified": "2025-06-03T17:28:50-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT80M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup fresh raspberries",
+    "1 cup fresh blackberries, broken in half",
+    "1 cup fresh strawberries, hulled and quartered",
+    "0.25 cup white sugar",
+    "1 teaspoon lemon zest",
+    "1 teaspoon freshly squeezed lemon juice",
+    "1 cup chilled heavy cream",
+    "0.25 cup creme fraiche",
+    "0.25 teaspoon pure vanilla extract",
+    "1 cup crushed shortbread cookies"
+  ],
+  "steps": [
+    {
+      "text": "Place raspberries, blackberries, and strawberries in a bowl. Add ¼ cup sugar, lemon zest, and lemon juice; stir until sugar is mixed with berries and juices begin to release. Cover the bowl with plastic wrap; refrigerate until chilled, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place heavy cream and crème fraîche in a cold bowl. Add remaining 1 tablespoon sugar and vanilla extract; whisk until soft peaks and sharp lines form, 5 to 8 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place some cookie crumbs in the bottom of each serving dish. Spoon in some macerated berries and a layer of whipped cream. Repeat layers, ending with a sprinkle of cookie crumbs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Ug5hu5pLj434ldGi8zxvLfXXcZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3931900-8c0becc3d8f0476ca9ed5df7d3b9473a.jpg"
+      ],
+      "image": "assets/images/255304/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "646 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "113 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "287 mg",
+    "sugarContent": "30 g",
+    "fatContent": "42 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "9"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/BTP803fL-K3AjnAEN.mp4",
+    "description": "So ridiculously simple and easy to make, this is one of Chef John's favorite all-time fresh fruit desserts. It's that contrast between the rich, fluffy cream and the syrupy, tangy fruit that makes this dessert so much greater than the sum of its parts. Broken up blackberries join quartered strawberries and plump raspberries in a medley tossed with lemon zest and sugar. Spoon crumbly, buttery shortbread cookies layered with the juicy fruit and a rich, homemade whipped cream that will make you and dinner guests swoon. Fresh berries are classic, but this would work with peeled, diced, ripe peaches too.",
+    "duration": "PT7M36S",
+    "name": "Fresh Berry Fool",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/BTP803fL/poster.jpg?width=1280",
+    "uploadDate": "2021-07-27T07:16:21-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ug5hu5pLj434ldGi8zxvLfXXcZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3931900-8c0becc3d8f0476ca9ed5df7d3b9473a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255304/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/255304/step_03.webp"
+    ]
+  }
+}

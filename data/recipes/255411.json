@@ -1,0 +1,73 @@
+{
+  "id": "255411",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255411/sesame-mango-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/255411/sesame-mango-smoothie/",
+  "title": "Sesame Mango Smoothie",
+  "description": "Sesame seeds and cashew butter add a nice nutty flavor to this mango and spinach green smoothie that is a great on-the-go breakfast.",
+  "authors": [
+    "Alli Shircliff"
+  ],
+  "date_published": "2020-06-19T00:18:12-04:00",
+  "date_modified": "2020-06-19T00:18:12-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 smoothies"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1 cup frozen mango chunks",
+    "1 small cucumber, roughly chopped",
+    "2 cups fresh spinach",
+    "2 tablespoons cashew butter",
+    "1 teaspoon toasted sesame seeds",
+    "1 cup water"
+  ],
+  "steps": [
+    {
+      "text": "Layer banana, mango, cucumber, spinach, cashew butter, and sesame seeds in a blender, in the order mentioned; add water. Blend until smoothie is desired consistency, adding more water if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "174 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "128 mg",
+    "sugarContent": "10 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/P5qkDTv39OFJxIg5Fw8El6_WhAk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4458883-060a1469a96447e697ddd5e95fe2396f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255411/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

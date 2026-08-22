@@ -1,0 +1,81 @@
+{
+  "id": "255222",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255222/sesame-parmesan-popcorn/",
+  "requested_url": "https://www.allrecipes.com/recipe/255222/sesame-parmesan-popcorn/",
+  "title": "Sesame Parmesan Popcorn",
+  "description": "Freshly popped popcorn is tossed with butter, sesame oil, and Parmesan cheese in this light and flavorful snack that&#39;s ready in minutes.",
+  "authors": [
+    "Tukaussey"
+  ],
+  "date_published": "2018-06-08T10:40:49-04:00",
+  "date_modified": "2022-01-04T08:13:01-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup popcorn kernels",
+    "3 tablespoons butter, melted",
+    "3 tablespoons sesame oil",
+    "0.25 cup finely grated Parmesan cheese",
+    "1 teaspoon salt",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Pop popcorn in a hot air popper or microwave popper according to manufacturer's instructions. Pour into a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix butter and sesame oil together in a small bowl. Drizzle over popcorn. Add Parmesan cheese, salt, and pepper; toss well to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "360 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XpcePmTIKTDQDOFK22_Qr_Wng50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3914206-372a8a11b36b405e9c69012b1157dfe9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255222/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "255243",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255243/chocolate-covered-strawberries-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/255243/chocolate-covered-strawberries-smoothie/",
+  "title": "Chocolate-Covered Strawberries Smoothie",
+  "description": "The decadent flavor of chocolate-covered strawberries combines with hearty tofu and vanilla soy milk to create this quick and easy smoothie.",
+  "authors": [
+    "Sierraskye"
+  ],
+  "date_published": "2020-06-19T00:18:06-04:00",
+  "date_modified": "2020-06-19T00:18:06-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 smoothies"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup light vanilla soy milk",
+    "0.33333334326744 cup light silken tofu",
+    "1 tablespoon maple syrup",
+    "1 tablespoon unsweetened cocoa powder",
+    "1.5 cups frozen strawberries"
+  ],
+  "steps": [
+    {
+      "text": "Combine soy milk, tofu, maple syrup, and cocoa powder in a blender; pulse until smooth. Add strawberries; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "28 g",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "98 mg",
+    "sugarContent": "17 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vDkrs_qCQQyJnSUsuFpGjBjM2l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4469912-34f60de93a084619a0b5f499bdc34112.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255243/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

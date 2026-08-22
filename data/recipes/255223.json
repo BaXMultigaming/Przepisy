@@ -1,0 +1,84 @@
+{
+  "id": "255223",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255223/healthy-peanut-butter-mousse/",
+  "requested_url": "https://www.allrecipes.com/recipe/255223/healthy-peanut-butter-mousse/",
+  "title": "Healthy Peanut Butter Mousse",
+  "description": "Whip up this quick and easy mousse with peanut butter, Greek yogurt, and chocolate chips the next time you need a healthy after-school snack.",
+  "authors": [
+    "Sarah"
+  ],
+  "date_published": "2016-08-31T21:45:39-04:00",
+  "date_modified": "2026-06-24T21:09:42-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT1M",
+  "total_time": "PT6M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Snack",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons peanut butter",
+    "0.25 cup plain Greek yogurt",
+    "0.5 teaspoon stevia brown sugar blend",
+    "0.125 teaspoon vanilla extract",
+    "1 tablespoon chocolate chips, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Microwave peanut butter in a microwave-safe bowl until liquid and smooth, about 20 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir Greek yogurt into the peanut butter with a spoon until smooth, scraping off any peanut butter stuck to the spoon. Stir in stevia and vanilla extract. Fold in chocolate chips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "395 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "185 mg",
+    "sugarContent": "21 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WMFOzESEFhzvdoa74je-LTXRF2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4453566-87b196742fb54c378006dd4e790afdc9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255223/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

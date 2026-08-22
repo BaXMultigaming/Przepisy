@@ -1,0 +1,83 @@
+{
+  "id": "255295",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/255295/basil-aioli/",
+  "requested_url": "https://www.allrecipes.com/recipe/255295/basil-aioli/",
+  "title": "Basil Aioli",
+  "description": "This basil aioli turns mayonnaise into something special by blending it with fresh basil, lemon, and garlic in this easy recipe for a delicious dip.",
+  "authors": [
+    "CallieJo"
+  ],
+  "date_published": "2019-07-10T03:10:12-04:00",
+  "date_modified": "2026-03-02T14:41:25-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups mayonnaise",
+    "0.66666668653488 cup chopped fresh basil",
+    "1 tablespoon chopped fresh garlic",
+    "1 tablespoon lemon juice",
+    "1.5 teaspoons lemon zest"
+  ],
+  "steps": [
+    {
+      "text": "Combine mayonnaise and basil in a food processor; blend until mixed and mayonnaise turns slightly green. Add garlic; process until well blended. Add lemon juice and zest; process until well mixed, 30 to 45 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer to a bowl and cover. Chill until flavors combine, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "150 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "117 mg",
+    "sugarContent": "0 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_m3OgNC2sjq0_4LNOLJXPPTR_qA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3929506-53aead980e24437bb85e6799215df741.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/255295/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
