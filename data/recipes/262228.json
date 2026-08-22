@@ -1,0 +1,99 @@
+{
+  "id": "262228",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/262228/instant-pot-teriyaki-chicken-breast/",
+  "requested_url": "https://www.allrecipes.com/recipe/262228/instant-pot-teriyaki-chicken-breast/",
+  "title": "Instant Pot® Teriyaki Chicken Breast",
+  "description": "Chicken cooked in homemade teriyaki sauce is a delicious weeknight dish you can make in the Instant Pot® when you&#39;re short on time.",
+  "authors": [
+    "cyans"
+  ],
+  "date_published": "2020-03-05T00:17:20-05:00",
+  "date_modified": "2022-01-14T01:23:39-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup soy sauce",
+    "0.5 cup water",
+    "0.5 cup brown sugar",
+    "2 tablespoons rice wine vinegar",
+    "1 tablespoon mirin (Japanese sweet wine)",
+    "1 tablespoon sake",
+    "1 tablespoon minced garlic",
+    "1 dash freshly cracked black pepper",
+    "1 pound skinless, boneless chicken breast halves"
+  ],
+  "steps": [
+    {
+      "text": "Mix soy sauce, water, brown sugar, rice wine vinegar, mirin, sake, garlic, and pepper in a bowl to make a sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place chicken in an electric pressure cooker (such as Instant Pot®). Pour sauce over chicken. Close and lock the lid. Select Meat function; set timer for 12 minutes. Allow 10 to 15 minutes for pressure to build.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove lid. An instant-read thermometer inserted into the center of the chicken should read at least 165 degrees F (74 degrees C); if not, cook chicken for another 2 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove chicken from the pot and cut up or shred. Mix with the sauce from the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "259 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "2009 mg",
+    "sugarContent": "30 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/u7t2SzyUws5XFFw4ifcZmQOiq94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8960564-19e333ecc9df48de8f766d1c260c138c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/262228/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

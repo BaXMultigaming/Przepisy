@@ -1,0 +1,94 @@
+{
+  "id": "262379",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/262379/custard-buttercream/",
+  "requested_url": "https://www.allrecipes.com/recipe/262379/custard-buttercream/",
+  "title": "Custard Buttercream",
+  "description": "This custard buttercream (German buttercream) is a very rich, tasty buttercream icing that works great for decorating cakes or 24 cupcakes.",
+  "authors": [
+    "Lenam"
+  ],
+  "date_published": "2020-06-19T00:26:53-04:00",
+  "date_modified": "2026-05-28T15:55:20-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT85M",
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg",
+    "1 cup white sugar",
+    "0.5 cup milk",
+    "1.3333333730698 cups unsalted butter, at room temperature",
+    "1 tablespoon rum",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Beat egg with a fork in a small, heavy saucepan. Mix in sugar and milk. Heat on medium-low heat, whisking constantly, until it just starts to boil. Continue beating rapidly until mixture thickens to a thin custard consistency. Remove from heat and cool completely, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat butter in a bowl with an electric mixer until light and creamy, about 5 minutes. Add cooled custard, 1 to 2 tablespoons at a time, beating well after each addition. Beat in rum and vanilla extract. Keep beating until buttercream is very light and fluffy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/b-6I9XdezazLqhwWP9-yKtFUxN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5018896-8a7da3ec0e2b44fea93436b87f683885.jpg"
+      ],
+      "image": "assets/images/262379/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "35 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "6 mg",
+    "sugarContent": "9 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "16"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/69ShrfRr-K3AjnAEN.mp4",
+    "description": "This rich buttercream frosting is made with the addition of custard. You can spruce it up by adding different flavors or food coloring. The buttercream pipes well and tastes delicious.",
+    "duration": "PT53S",
+    "name": "Custard Buttercream",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/69ShrfRr/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T02:26:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/b-6I9XdezazLqhwWP9-yKtFUxN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5018896-8a7da3ec0e2b44fea93436b87f683885.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/262379/hero.webp",
+    "steps": [
+      null,
+      "assets/images/262379/step_02.webp"
+    ]
+  }
+}

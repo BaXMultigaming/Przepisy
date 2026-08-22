@@ -1,0 +1,75 @@
+{
+  "id": "262592",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/262592/guacamole-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/262592/guacamole-salad-dressing/",
+  "title": "Guacamole Salad Dressing",
+  "description": "Creamy Mexican guacamole salad dressing made with ripe avocado, fresh cilantro, lime juice, onion, serrano pepper for spice, and cream.",
+  "authors": [
+    "agonzalez"
+  ],
+  "date_published": "2020-06-19T00:27:01-04:00",
+  "date_modified": "2022-11-29T17:25:58-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "10"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large avocado - peeled, pitted, and mashed",
+    "1 cup heavy whipping cream",
+    "1 tablespoon lime juice",
+    "1 tablespoon chopped cilantro",
+    "1 tablespoon chopped onion",
+    "0.5 serrano pepper, seeded and deveined, or to taste",
+    "1 small clove garlic",
+    "1 teaspoon salt",
+    "0.125 teaspoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Blend avocado, cream, lime juice, cilantro, onion, serrano pepper, garlic, salt, and sugar in a blender until smooth. Chill for 1 hour before using.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "129 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "206 mg",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wnWFpLSJzjifbFBz5m2tKsW2-DE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5098911-ca96c564107c4999a46cd953a53cf8ad.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/262592/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

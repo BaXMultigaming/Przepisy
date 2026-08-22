@@ -1,0 +1,80 @@
+{
+  "id": "262404",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/262404/karens-chili-con-carne-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/262404/karens-chili-con-carne-soup/",
+  "title": "Karen&#39;s Chili Con Carne Soup",
+  "description": "A touch of brown sugar and vinegar bring out the spice in this easy chili con carne filled with ground beef, tomatoes, and a trio of beans.",
+  "authors": [
+    "Karen"
+  ],
+  "date_published": "2020-03-05T00:17:21-05:00",
+  "date_modified": "2020-03-05T00:17:21-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT75M",
+  "total_time": "PT90M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "1 cup diced onions",
+    "1 clove garlic, crushed",
+    "1.5 pounds lean ground beef",
+    "1 (28 ounce) can whole peeled tomatoes",
+    "1 (16 ounce) can navy beans, with juice",
+    "1 (16 ounce) can red chili beans in sauce",
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "0.5 cup diced green bell pepper",
+    "0.5 cup diced celery",
+    "0.25 cup light brown sugar",
+    "2 tablespoons white vinegar",
+    "1 tablespoon chili powder",
+    "1 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a stockpot over medium heat. Add onions and garlic; cook and stir until tender, about 5 minutes. Add ground beef; cook and stir until browned and crumbly, 5 to 7 minutes. Mix in tomatoes, navy beans, chili beans, black beans, green bell pepper, celery, brown sugar, vinegar, chili powder, and salt. Bring to a boil. Reduce heat to medium-low and let simmer until thick, at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "407 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "52 mg",
+    "fiberContent": "11 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1206 mg",
+    "sugarContent": "10 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YjwzH4s8LMop5rWQ4g93Gb_vWMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1084705-3b56068e195e47839bdb38d8714b1d7e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/262404/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
