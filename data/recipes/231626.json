@@ -1,0 +1,94 @@
+{
+  "id": "231626",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231626/creamy-broccoli-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/231626/creamy-broccoli-salad/",
+  "title": "Creamy Broccoli Salad",
+  "description": "This creamy broccoli salad recipe combines broccoli, bacon, red onion, and mozzarella cheese, tossed in a creamy dressing for a perfect picnic salad.",
+  "authors": [
+    "Mark Simma"
+  ],
+  "date_published": "2020-06-18T23:53:33-04:00",
+  "date_modified": "2026-06-01T21:25:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch",
+    "Side Dish",
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 slices bacon",
+    "1 pound fresh broccoli, cut into florets",
+    "1 cup shredded mozzarella cheese",
+    "0.5 small red onion, chopped",
+    "0.5 cup mayonnaise",
+    "0.25 cup white sugar",
+    "1 tablespoon white wine vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels; crumble when cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine bacon, broccoli, mozzarella cheese, and onion in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk mayonnaise, sugar, and vinegar in a small bowl until smooth and sugar dissolves; pour over broccoli mixture and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "306 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "527 mg",
+    "sugarContent": "10 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "46"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wmWpCYe2Ruaw2b7zS0hxuO72CXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1002927-56c23c36cdff4ee3b904f5dd5a9d2a96.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231626/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

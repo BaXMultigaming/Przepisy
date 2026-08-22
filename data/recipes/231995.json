@@ -1,0 +1,86 @@
+{
+  "id": "231995",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231995/avocado-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/231995/avocado-toast/",
+  "title": "Avocado Toast",
+  "description": "Cheddar cheese is toasted on bread and topped with avocado slices for a quick and easy snack that will keep you full.",
+  "authors": [
+    "Sarah Ruiz"
+  ],
+  "date_published": "2019-04-02T03:00:41-04:00",
+  "date_modified": "2022-10-09T20:19:25-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices bread",
+    "2 ounces Cheddar cheese, cut into 8 pieces",
+    "1 avocado - peeled, pitted, and sliced"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 300 degrees F (150 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bread on a baking sheet; top each piece with 4 pieces Cheddar cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until cheese melts, about 5 minutes. Cover each bread slice with sliced avocado.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "30 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "353 mg",
+    "sugarContent": "2 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/blMirlrffT4VHKzyyu7dgrE9s_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1001479-avocado-toast-bd.weld-4x3-1-29ae944ca7a749829dbef066a1795946.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231995/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

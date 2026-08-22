@@ -1,0 +1,91 @@
+{
+  "id": "231129",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231129/creamy-spicy-guacamole/",
+  "requested_url": "https://www.allrecipes.com/recipe/231129/creamy-spicy-guacamole/",
+  "title": "Creamy, Spicy Guacamole",
+  "description": "This guacamole recipe yields a creamy result thanks to the use of sour cream. The addition of prepared salsa adds extra flavor.",
+  "authors": [
+    "user0220"
+  ],
+  "date_published": "2018-06-08T10:07:05-04:00",
+  "date_modified": "2025-02-16T16:32:24-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 large avocados - peeled, pitted, and diced",
+    "1 tomato, seeded and chopped",
+    "2 green onions, finely chopped",
+    "0.5 lime, juiced",
+    "1 tablespoon salsa, or more to taste",
+    "1 clove garlic, minced",
+    "1 teaspoon sour cream",
+    "1 teaspoon white vinegar",
+    "0.5 teaspoon cayenne pepper",
+    "0.25 teaspoon cumin",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mash avocado in a large bowl. Stir tomato, green onions, lime juice, salsa, garlic, sour cream, vinegar, cayenne pepper, and cumin with the mashed avocado until evenly mixed; season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover bowl with plastic wrap and refrigerate until the flavors blend, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "90 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "1 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/27c7cNjjPS1gKiXwG4SbQcvGCOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969787-1107f35ec30b454f9e815420d994ef55.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231129/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

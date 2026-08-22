@@ -1,0 +1,99 @@
+{
+  "id": "231833",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231833/spicy-cajun-cabbage/",
+  "requested_url": "https://www.allrecipes.com/recipe/231833/spicy-cajun-cabbage/",
+  "title": "Spicy Cajun Cabbage",
+  "description": "A head of cabbage becomes a tasty Cajun-inspired side dish with the addition of spices and herbs.",
+  "authors": [
+    "Carolyn Chieffe Perrine"
+  ],
+  "date_published": "2019-04-02T03:00:36-04:00",
+  "date_modified": "2026-04-26T10:00:01-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Cajun"
+  ],
+  "regions": [
+    "Cajun"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon chili powder",
+    "1 teaspoon dried thyme",
+    "1 teaspoon smoked paprika",
+    "1 teaspoon dried oregano",
+    "0.5 teaspoon ground cayenne pepper",
+    "0.5 teaspoon ground cumin",
+    "0.5 teaspoon onion powder",
+    "1 teaspoon salt",
+    "2 tablespoons butter",
+    "1 small onion, sliced",
+    "3 cloves garlic, minced",
+    "1 small head cabbage, finely shredded"
+  ],
+  "steps": [
+    {
+      "text": "Combine chili powder, thyme, smoked paprika, oregano, cayenne pepper, cumin, onion powder, and salt in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium heat; cook and stir onion in hot butter until translucent, about 5 minutes. Add garlic and cook until soft, about 2 minutes; stir shredded cabbage into onion and garlic. Cook and stir cabbage mixture until cabbage starts to soften, about 5 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir spices into cabbage mixture and cook, stirring often, until spices are evenly mixed in and cabbage is tender, 3 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "114 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "663 mg",
+    "sugarContent": "7 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0iluu0DtRaA5Po0rKVUzPxIrD1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2311866-spicy-cajun-cabbage-Rock_lobster-4x3-1-2e625fb22f954e959d0418f7920d0be4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231833/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

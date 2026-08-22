@@ -1,0 +1,89 @@
+{
+  "id": "231175",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231175/my-favorite-sloppy-joes/",
+  "requested_url": "https://www.allrecipes.com/recipe/231175/my-favorite-sloppy-joes/",
+  "title": "My Favorite Sloppy Joes",
+  "description": "This quick Sloppy Joe meal is a perfect weeknight dinner, and one the kids will love. Who knew basic pantry ingredients would result in such a tasty meal?",
+  "authors": [
+    "Alissa"
+  ],
+  "date_published": "2020-03-05T00:10:13-05:00",
+  "date_modified": "2023-03-23T16:38:34-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT45M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch",
+    "Sandwich"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 cup ketchup",
+    "0.25 cup dried minced onion",
+    "3 tablespoons brown sugar, or to taste",
+    "2 tablespoons spicy brown mustard",
+    "1 tablespoon Worcestershire sauce, or more to taste",
+    "1 tablespoon liquid smoke flavoring",
+    "1 teaspoon minced garlic",
+    "1 cup beef broth",
+    "salt and ground black pepper to taste",
+    "6 buns"
+  ],
+  "steps": [
+    {
+      "text": "Cook and stir ground beef in a large skillet over medium heat until browned and crumbly, about 10 minutes; drain excess grease. Mix ketchup, dried onion, brown sugar, mustard, Worcestershire sauce, liquid smoke, and garlic into beef, stirring until brown sugar has dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in broth and bring to a boil. Reduce the heat to low and simmer until thick, about 30 minutes. Season with salt and black pepper. Serve on buns.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "398 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "67 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "960 mg",
+    "sugarContent": "18 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "138"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/h98oUrZat6YLDMFtAc2re5ZxIaM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/994391-6bbbab6aea2b485da87fa6c8611619a6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231175/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

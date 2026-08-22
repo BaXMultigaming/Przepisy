@@ -1,0 +1,83 @@
+{
+  "id": "231941",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231941/nancys-butter-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/231941/nancys-butter-beans/",
+  "title": "Nancy&#39;s Butter Beans",
+  "description": "Nancy&#39;s butter beans recipe includes canned butter beans, butter, a couple bacon strips, and brown sugar for a simple side dish in under 30 minutes.",
+  "authors": [
+    "Wes"
+  ],
+  "date_published": "2020-03-05T00:10:25-05:00",
+  "date_modified": "2025-04-16T14:48:15-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices bacon",
+    "1 (15 ounce) can butter beans, rinsed and drained",
+    "1 tablespoon butter",
+    "1 tablespoon brown sugar",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels, then crumble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat butter beans, bacon, butter, and brown sugar in a saucepan over medium heat until bubbling, about 5 minutes; season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "995 mg",
+    "sugarContent": "8 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6WIhOZ4k3yc7OSWbWjv1my1pY2Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1274022-6c62ff93872a4241aa5f0448efad7f44.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231941/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

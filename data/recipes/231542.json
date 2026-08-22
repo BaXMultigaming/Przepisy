@@ -1,0 +1,79 @@
+{
+  "id": "231542",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231542/red-cabbage-slaw/",
+  "requested_url": "https://www.allrecipes.com/recipe/231542/red-cabbage-slaw/",
+  "title": "Red Cabbage Slaw",
+  "description": "This red cabbage slaw made with sliced red cabbage, grated carrots, and walnuts tossed in a creamy dressing makes a colorful, crunchy side dish.",
+  "authors": [
+    "AuntE"
+  ],
+  "date_published": "2020-06-18T23:53:29-04:00",
+  "date_modified": "2025-11-25T08:31:57-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 small head red cabbage, thinly sliced and chopped",
+    "0.5 cup grated carrot",
+    "0.5 cup mayonnaise",
+    "0.25 cup dried cranberries",
+    "0.25 cup chopped walnuts",
+    "1 tablespoon milk, or more as needed",
+    "1 tablespoon apple cider vinegar",
+    "1 teaspoon white sugar, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine cabbage, carrot, mayonnaise, cranberries, walnuts, milk, cider vinegar, and sugar in a bowl; stir well. For best flavor results, cover and refrigerate until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "216 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "137 mg",
+    "sugarContent": "9 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "78"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CwlR5xmV-tyxBibAERjSkprB-bs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5311211-red-cabbage-slaw-Buckwheat-Queen-4x3-1-f6027135df3a49d2b5f619bf4bdd99c0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231542/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

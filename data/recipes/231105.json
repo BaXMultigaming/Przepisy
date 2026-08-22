@@ -1,0 +1,80 @@
+{
+  "id": "231105",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231105/poppy-seed-chicken-pasta-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/231105/poppy-seed-chicken-pasta-salad/",
+  "title": "Poppy Seed Chicken Pasta Salad",
+  "description": "This light and elegant chicken pasta salad with poppy seed dressing, dried cranberries, celery, and almonds is ready in just over 30 minutes.",
+  "authors": [
+    "lee jean"
+  ],
+  "date_published": "2019-04-02T03:00:07-04:00",
+  "date_modified": "2022-10-15T09:03:25-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups fusilli (spiral) pasta",
+    "1.5 cups cubed cooked chicken",
+    "6 tablespoons chopped onion",
+    "0.25 cup dried cranberries",
+    "0.25 cup chopped celery",
+    "0.25 cup slivered almonds",
+    "0.5 cup poppy seed salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook fusilli in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain, rinse in cold water, and drain again.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss pasta, chicken, onion, cranberries, celery, and almonds together in a salad bowl. Drizzle with poppy seed dressing and stir to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "253 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "162 mg",
+    "sugarContent": "9 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Q_-ka8KcVOvZ6g1-dI1_BYSQjPQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1132992-6a277cd0afbf4984a2777ca041594447.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231105/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

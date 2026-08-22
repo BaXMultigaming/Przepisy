@@ -1,0 +1,80 @@
+{
+  "id": "231081",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231081/best-hummus/",
+  "requested_url": "https://www.allrecipes.com/recipe/231081/best-hummus/",
+  "title": "Best Hummus",
+  "description": "This hummus recipe is easy to make by blending canned chickpeas, tahini, olive oil, lemon juice, and garlic into a smooth and creamy dip or spread.",
+  "authors": [
+    "Reman9981"
+  ],
+  "date_published": "2019-07-10T03:04:12-04:00",
+  "date_modified": "2026-04-17T20:23:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "32",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Lebanese",
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Lebanese",
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can garbanzo beans (chickpeas), drained",
+    "3 tablespoons tahini",
+    "2 tablespoons olive oil",
+    "1 tablespoon fresh lemon juice",
+    "0.25 cup water",
+    "3 cloves garlic, crushed",
+    "0.5 teaspoon ground cumin",
+    "1 pinch paprika",
+    "1 sprig fresh parsley, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Place chickpeas, tahini, olive oil, lemon juice, water, garlic, and cumin into a food processor and process until smooth, about 1 minute. Transfer to a bowl and sprinkle top of hummus with paprika and fresh parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "27 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "29 mg",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "119"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Wr_pdX2oo4zeLESDILtbSzHfD9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/231081-Best-Hummus-PIFS-4x3-138_1-crop-a93d8f99be6a4400ba4bce9eeec001fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231081/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

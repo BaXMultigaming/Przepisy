@@ -1,0 +1,91 @@
+{
+  "id": "231942",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231942/southern-butter-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/231942/southern-butter-beans/",
+  "title": "Southern Butter Beans",
+  "description": "Lima beans simmer with bacon, heavy cream, and plenty of butter in this rich, comforting side dish.",
+  "authors": [
+    "Mardon Fergeson Hickford"
+  ],
+  "date_published": "2018-06-08T10:07:55-04:00",
+  "date_modified": "2024-12-24T13:53:07-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT65M",
+  "total_time": "PT555M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package dried lima beans",
+    "5 slices bacon, chopped",
+    "1 cup heavy whipping cream",
+    "0.5 cup butter",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place lima beans in a large pot. Cover with water and soak overnight. Drain and return lima beans to the pot; cover beans with fresh water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large skillet over medium-high heat; cook and stir bacon in the hot skillet until crisp, about 5 minutes. Use a slotted spoon to remove bacon to a paper towel-lined plate to drain. Reserve about 2 teaspoons bacon drippings.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add bacon and reserved bacon drippings to lima beans in the pot; bring to a boil. Reduce heat to medium-low and simmer until beans are just tender, 40 to 60 minutes. Stir heavy cream and butter into bean mixture and cook until thickened, about 15 minutes more. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "425 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "78 mg",
+    "fiberContent": "11 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "236 mg",
+    "sugarContent": "5 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hmfklCnFAAnlGahWdfTIyJPcGSE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9359559-b68c17d9f5ca4a1c9261156c792eb335.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231942/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

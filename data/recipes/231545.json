@@ -1,0 +1,83 @@
+{
+  "id": "231545",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231545/authentic-miso-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/231545/authentic-miso-soup/",
+  "title": "Authentic Miso Soup",
+  "description": "This Japanese miso soup recipe features the traditional ingredients of kombu, bonito flakes, and miso paste. It&#39;s simple to make and comforting to eat!",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-08T23:41:20-04:00",
+  "date_modified": "2026-04-18T10:34:35-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "regions": [
+    "Japanese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups water",
+    "1 (4 inch) piece dashi kombu (dried kelp)",
+    "0.5 cup bonito flakes",
+    "0.5 (12 ounce) package tofu, cut into chunks",
+    "1 teaspoon dried wakame",
+    "3 tablespoons miso paste",
+    "0.25 cup chopped green onions"
+  ],
+  "steps": [
+    {
+      "text": "Heat water in a large pot over low heat. Add kombu and cook until just simmering. Stir in bonito flakes, then remove dashi stock from the heat. Let dashi sit, uncovered, for 5 minutes. Strain and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 3 1/2 cups dashi in a pot over medium heat. Add tofu and wakame and stir to combine. Remove 1 cup warmed dashi to a small bowl and whisk in miso paste. Pour miso mixture back into the pot with remaining dashi. Stir until warmed through. Serve garnished with chopped green onions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "65 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "511 mg",
+    "sugarContent": "1 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bzE9Y2VxYVPmqGeCqign73hnrUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9069102-44651730a49146a5ac257445c5f9e1ea.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231545/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

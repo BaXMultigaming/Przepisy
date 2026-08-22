@@ -1,0 +1,90 @@
+{
+  "id": "231749",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231749/strawberry-raspberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/231749/strawberry-raspberry-smoothie/",
+  "title": "Strawberry Raspberry Smoothie",
+  "description": "This strawberry and raspberry smoothie recipe is easy and filling. Fruit is blended with yogurt, creating a probiotic-enhanced breakfast treat.",
+  "authors": [
+    "SHAWNDRAM"
+  ],
+  "date_published": "2016-06-04T09:37:26-04:00",
+  "date_modified": "2026-04-15T06:12:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup hulled fresh strawberries",
+    "0.5 cup frozen raspberries",
+    "0.5 cup lowfat milk",
+    "0.5 cup vanilla yogurt",
+    "1 tablespoon honey",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qV5A5s2Yg3iH-_0an9d1U4lRf6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-231749-strawberry-raspberry-smoothie-ddmfs-step1-3x4-b4ca61b5ecc541849ff984c166b3efb2.jpg"
+      ],
+      "image": "assets/images/231749/step_01.webp"
+    },
+    {
+      "text": "Blend strawberries, raspberries, milk, yogurt, honey, and vanilla together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/zpCqtObSBOKF9SzGHAhb8tejNes=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-231749-strawberry-raspberry-smoothie-ddmfs-step2-1-3x4-8e4d04099b4449f3ac62587a06866b0e.jpg"
+      ],
+      "image": "assets/images/231749/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "318 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "134 mg",
+    "sugarContent": "50 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "58"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Zd5avDj0tV4jqWXyRhpCNV64sM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-231749-strawberry-raspberry-smoothie-ddmfs-3x4-aabb843c85a34ed09105a7d2e13b7973.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231749/hero.webp",
+    "steps": [
+      "assets/images/231749/step_01.webp",
+      "assets/images/231749/step_02.webp"
+    ]
+  }
+}

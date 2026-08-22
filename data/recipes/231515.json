@@ -1,0 +1,91 @@
+{
+  "id": "231515",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231515/tom-kha-gai/",
+  "requested_url": "https://www.allrecipes.com/recipe/231515/tom-kha-gai/",
+  "title": "Tom Kha Gai",
+  "description": "Tom Kha Gai is a traditional Thai soup containing a spicy coconut broth that&#39;s simmered with chicken, vegetables, and fresh basil.",
+  "authors": [
+    "Darcy Loo"
+  ],
+  "date_published": "2020-03-05T00:10:17-05:00",
+  "date_modified": "2022-09-12T15:15:26-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "regions": [
+    "Thai"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups chicken broth",
+    "1 (14 ounce) can coconut milk",
+    "0.25 cup sweet red chile sauce",
+    "3 tablespoons lime juice",
+    "2 tablespoons fish sauce",
+    "2 tablespoons brown sugar",
+    "1 (1 1/2 inch) piece fresh ginger, sliced",
+    "10 makrut lime leaves, torn in half",
+    "1.5 pounds skinless, boneless chicken breast halves - cut into strips",
+    "1 (15 ounce) can straw mushrooms",
+    "1 cup coarsely chopped onion",
+    "1 zucchini, sliced",
+    "1 lemongrass stalk, chopped",
+    "1 bunch fresh basil, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Warm chicken broth and coconut milk together in a stockpot over medium heat; add chile sauce, lime juice, fish sauce, brown sugar, ginger, and lime leaves. Bring broth mixture to a low simmer until flavors have blended, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove stockpot from heat and strain out ginger and lime leaves. Return broth mixture to the stockpot and bring to a simmer. Cook chicken in the simmering broth until no longer pink in the center, about 5 minutes. Add mushrooms, onion, zucchini, lemongrass, and basil and simmer until onion softens, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "1318 mg",
+    "sugarContent": "12 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/n5P4PYJwnk0HBGTZSWUojK8IA_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3980808-a218e1c66e5a4ee8a5697ef94a4a0188.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231515/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

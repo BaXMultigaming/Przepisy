@@ -1,0 +1,76 @@
+{
+  "id": "231984",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231984/seasoned-asparagus/",
+  "requested_url": "https://www.allrecipes.com/recipe/231984/seasoned-asparagus/",
+  "title": "Seasoned Asparagus",
+  "description": "Seasoned asparagus is topped with seasoned bread crumbs and Parmesan cheese in this quick, easy recipe for a deliciously crispy vegetable side dish.",
+  "authors": [
+    "StrongCook"
+  ],
+  "date_published": "2013-03-26T19:55:27-04:00",
+  "date_modified": "2026-01-05T11:37:50-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "1 bunch asparagus, trimmed",
+    "0.25 cup seasoned bread crumbs",
+    "3 tablespoons grated Parmesan cheese",
+    "2 tablespoons garlic powder",
+    "0.25 tablespoon sea salt"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat for 1 minute. Add asparagus; cook, flipping regularly, until slightly tender, about 5 minutes. Sprinkle bread crumbs, Parmesan cheese, and garlic powder over asparagus; flip asparagus with a spatula to evenly coat. Reduce heat to medium; continue cooking until asparagus is completely tender, about 8 minutes. Season with sea salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "201 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "523 mg",
+    "sugarContent": "4 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UyLg00U5eUUy8LOeP3Cflo8aN8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7553242-seasoned-asparagus-Susan-P-4x3-1-21742aa0b06340d59e75a28e525da7fe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231984/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

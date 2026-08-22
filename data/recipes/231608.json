@@ -1,0 +1,75 @@
+{
+  "id": "231608",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231608/banana-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/231608/banana-juice/",
+  "title": "Banana Juice",
+  "description": "Blend bananas, pistachios, milk, and honey to make this banana juice recipe, which is frothy. If you like, top it with a scoop of vanilla ice cream.",
+  "authors": [
+    "Autumn Leaves"
+  ],
+  "date_published": "2016-06-04T09:27:58-04:00",
+  "date_modified": "2026-08-13T10:20:30-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "2 large ripe bananas",
+    "2 tablespoons slivered shelled pistachios",
+    "1 tablespoon honey"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, bananas, pistachios, and honey in a blender; blend until smooth and frothy, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "320 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "136 mg",
+    "sugarContent": "37 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/q-4cTf5CRyFl9wH0FZGJnzUMJJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/994339-e6dd98fadb0741fb9d20766f543d1046.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231608/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

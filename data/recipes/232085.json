@@ -1,0 +1,91 @@
+{
+  "id": "232085",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232085/homemade-granola/",
+  "requested_url": "https://www.allrecipes.com/recipe/232085/homemade-granola/",
+  "title": "Homemade Granola",
+  "description": "This is a great recipe for homemade granola with raisins, almonds, and coconut.",
+  "authors": [
+    "JAIME15"
+  ],
+  "date_published": "2020-03-05T00:10:28-05:00",
+  "date_modified": "2023-01-15T00:41:18-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups old-fashioned oats",
+    "1 cup brown sugar",
+    "1 cup flaked coconut",
+    "1 cup wheat germ",
+    "1 tablespoon ground cinnamon",
+    "1 teaspoon ground nutmeg",
+    "0.5 cup water",
+    "0.5 cup vegetable oil",
+    "1 tablespoon vanilla extract",
+    "0.5 cup raisins",
+    "0.5 cup sliced almonds"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 325 degrees F (165 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix oats, brown sugar, coconut, wheat germ, cinnamon, and nutmeg together in a large bowl. Stir water, oil, and vanilla extract into oat mixture; spread onto a baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven, stirring every 15 minutes, until golden brown and crunchy, about 1 hour; transfer to a bowl. Stir raisins and almonds through granola.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "367 kcal",
+    "carbohydrateContent": "50 g",
+    "fiberContent": "6 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "25 mg",
+    "sugarContent": "19 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GpFTZ3x7jESvFfwrzd1hT_bMJEA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1991382-homemade-granola-Scott-M.-4x3-1-2365565ac0f34458987b42a26b77a876.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232085/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

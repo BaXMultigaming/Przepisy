@@ -1,0 +1,81 @@
+{
+  "id": "231460",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231460/tropical-carrot-raisin-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/231460/tropical-carrot-raisin-salad/",
+  "title": "Tropical Carrot Raisin Salad",
+  "description": "Carrot and raisin salad gets a tropical makeover with pineapple and shredded coconut.",
+  "authors": [
+    "Betsy Pearce Hochstein"
+  ],
+  "date_published": "2018-06-08T10:07:21-04:00",
+  "date_modified": "2018-06-08T10:07:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT150M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup raisins",
+    "1 pound carrots, shredded",
+    "0.25 cup crushed pineapple in juice",
+    "3 tablespoons shredded coconut",
+    "0.25 teaspoon salt",
+    "6 ounces reduced-fat pina colada yogurt",
+    "0.25 cup mayonnaise"
+  ],
+  "steps": [
+    {
+      "text": "Soak raisins in a bowl of water until softened, about 20 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine carrots, raisins, pineapple, coconut, and salt in a bowl. Mix yogurt and mayonnaise in another bowl; stir into carrot mixture. Cover and refrigerate until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "170 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "172 mg",
+    "sugarContent": "20 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UO4pgi8FiY3PwucNfMT5v1iWG70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1117021-100c60633ef74eec9544c543e5f3a2ff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231460/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

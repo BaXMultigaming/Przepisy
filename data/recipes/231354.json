@@ -1,0 +1,101 @@
+{
+  "id": "231354",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231354/creme-anglaise-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/231354/creme-anglaise-sauce/",
+  "title": "Crème Anglaise Sauce",
+  "description": "Rich and creamy crème anglaise is perfect drizzled over fresh fruit, pound cake, or other desserts.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2013-02-13T14:44:03-05:00",
+  "date_modified": "2026-06-18T19:40:11-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "1 cup"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large egg yolks",
+    "1 cup heavy cream",
+    "0.33333334326744 cup white sugar",
+    "1 tablespoon brandy-based orange liqueur (such as Grand Marnier®)",
+    "0.25 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Whisk egg yolks, cream, sugar, brandy-based orange liqueur, and vanilla extract in a small saucepan until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place saucepan over medium-low heat and cook, stirring constantly with a rubber spatula scraping the bottom, until the mixture is hot and thickens slightly, and a thermometer reaches 180 degrees F (82 degrees C), 8 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat, strain to remove any over-cooked particles of egg, and allow cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/igSlBz4O8YsFRoLzWn_P_cIB66o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035092-0e41ec7516fc49c6b3c1bf5806c54de2.jpg"
+      ],
+      "image": "assets/images/231354/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "619 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "368 mg",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "29 g",
+    "sodiumContent": "54 mg",
+    "sugarContent": "36 g",
+    "fatContent": "49 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "44"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jixyZ8ym-ma1DlVvV.mp4",
+    "description": "0010",
+    "duration": "PT3M53S",
+    "name": "Orange Crème Anglaise",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jixyZ8ym/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T22:31:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/igSlBz4O8YsFRoLzWn_P_cIB66o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035092-0e41ec7516fc49c6b3c1bf5806c54de2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231354/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/231354/step_03.webp"
+    ]
+  }
+}
