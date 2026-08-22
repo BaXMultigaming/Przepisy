@@ -1,0 +1,76 @@
+{
+  "id": "223243",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223243/yogurt-mint-chutney/",
+  "requested_url": "https://www.allrecipes.com/recipe/223243/yogurt-mint-chutney/",
+  "title": "Yogurt-Mint Chutney",
+  "description": "Try this yogurt-based sauce with your grilled meats.",
+  "authors": [
+    "stellarr"
+  ],
+  "date_published": "2019-07-10T03:03:34-04:00",
+  "date_modified": "2022-10-06T14:47:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Greek Inspired"
+  ],
+  "regions": [
+    "Greek Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 whole green onions",
+    "0.5 cup chopped fresh mint leaves",
+    "1 tablespoon olive oil",
+    "1 tablespoon lemon juice",
+    "1 pinch crushed red pepper flakes, or to taste",
+    "1 (7 ounce) container Greek-style yogurt",
+    "1 teaspoon salt",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Grind green onions, mint, olive oil, lemon juice, and red pepper flakes in a food processor to a coarse paste; transfer to a bowl. Add yogurt, salt, and black pepper; stir with a fork until blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "69 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "411 mg",
+    "sugarContent": "2 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_0jVtir-LURR0FcTiwHSMDIOefU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2330037-4d20ae3125204fd79c9166f296c30d88.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223243/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

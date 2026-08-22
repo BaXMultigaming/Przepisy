@@ -1,0 +1,72 @@
+{
+  "id": "223287",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223287/blackberry-pie-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/223287/blackberry-pie-oatmeal/",
+  "title": "Blackberry Pie Oatmeal",
+  "description": "Make a hearty breakfast by adding an egg, applesauce, and blackberry yogurt to your morning oatmeal.",
+  "authors": [
+    "Nicole"
+  ],
+  "date_published": "2019-04-03T23:53:00-04:00",
+  "date_modified": "2019-04-03T23:53:00-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "0.5 cup rolled oats",
+    "1 pinch salt",
+    "1 egg",
+    "1 (6 ounce) container blackberry-flavored yogurt",
+    "0.33333334326744 cup unsweetened applesauce"
+  ],
+  "steps": [
+    {
+      "text": "Combine water, oats, and salt in a saucepan; bring to a boil, stirring occasionally. Fold egg into oatmeal until incorporated. Reduce heat to medium-low and simmer oatmeal mixture until egg is cooked, 3 to 5 minutes. Stir in blackberry yogurt and applesauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "212 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "101 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "85 mg",
+    "sugarContent": "19 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wAviBzAZPM-XwzDiR8Rl-kCcgGk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4482209-796eff681c064d68a604502059886967.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223287/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

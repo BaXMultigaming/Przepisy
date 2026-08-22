@@ -1,0 +1,79 @@
+{
+  "id": "223570",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223570/quinoa-and-black-bean-bliss/",
+  "requested_url": "https://www.allrecipes.com/recipe/223570/quinoa-and-black-bean-bliss/",
+  "title": "Quinoa and Black Bean Bliss",
+  "description": "This simple dish is a mixture of quinoa, fresh corn, and black beans topped with fresh salsa and avocado.",
+  "authors": [
+    "Jen"
+  ],
+  "date_published": "2019-04-03T23:53:09-04:00",
+  "date_modified": "2019-04-03T23:53:09-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "0.5 cup quinoa",
+    "1 (15 ounce) can reduced-sodium black beans, drained and rinsed",
+    "2 ears corn, kernels cut from cob",
+    "4 cups fresh salsa",
+    "2 avocados, cut into cubes"
+  ],
+  "steps": [
+    {
+      "text": "Bring water and quinoa to a boil in a small saucepan. Reduce heat to medium-low and cook at a simmer until the water is absorbed, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix black beans and corn kernels in a large bowl; add cooked quinoa and stir. Spoon quinoa mixture into 4 bowls; top each with salsa and avocado.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "443 kcal",
+    "carbohydrateContent": "64 g",
+    "fiberContent": "21 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1982 mg",
+    "sugarContent": "10 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uLStnL-EwKTXyH-xS2vO-ECVi0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/876727-6fa4ff75b8b34dd8b036e7f57a81c7b4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223570/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

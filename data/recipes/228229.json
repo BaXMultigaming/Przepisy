@@ -1,0 +1,96 @@
+{
+  "id": "228229",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228229/watermelon-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/228229/watermelon-soup/",
+  "title": "Watermelon Soup",
+  "description": "This refreshing watermelon soup made with fresh watermelon, mint, and lemon juice is a bright-flavored, delicious chilled soup for a hot summer day.",
+  "authors": [
+    "lillpup"
+  ],
+  "date_published": "2020-06-19T21:50:43-04:00",
+  "date_modified": "2026-05-13T20:33:26-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups cubed seeded watermelon",
+    "2 tablespoons lemon juice",
+    "1 tablespoon chopped fresh mint",
+    "1 tablespoon honey"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MXOI7vuLfvbp_ZhoaFVWCZx8o7c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228229-watermelon-soup-DDMFS-28534-step-01-657605bab1ff44b3aa9d1e5200b3c424.jpg"
+      ],
+      "image": "assets/images/228229/step_01.webp"
+    },
+    {
+      "text": "Blend watermelon, lemon juice, mint, and honey in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ZV_CvpI-G8qIA0m5D09S692m1-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228229-watermelon-soup-DDMFS-28536-step-02-c0d281d50b4e4ffaa5fb27ad961b479b.jpg"
+      ],
+      "image": "assets/images/228229/step_02.webp"
+    },
+    {
+      "text": "Refrigerate for 2 hours; serve chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/37yOmtz-tTU-ean9Y21QIx6pMX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228229-watermelon-soup-DDMFS-28540-step-03-da108dc96afc4898b2695bcbfee4a783.jpg"
+      ],
+      "image": "assets/images/228229/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "85 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "19 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZV25b7Atym9rsz_t9U8kwtBom4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228229-watermelon-soup-DDMFS-28599-beauty-4x3-9001a3ceb4e9486db118c7f256117402.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228229/hero.webp",
+    "steps": [
+      "assets/images/228229/step_01.webp",
+      "assets/images/228229/step_02.webp",
+      "assets/images/228229/step_03.webp"
+    ]
+  }
+}

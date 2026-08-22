@@ -1,0 +1,77 @@
+{
+  "id": "223140",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223140/strawberry-blueberry-smoothies/",
+  "requested_url": "https://www.allrecipes.com/recipe/223140/strawberry-blueberry-smoothies/",
+  "title": "Strawberry Blueberry Smoothie",
+  "description": "This strawberry blueberry smoothie is a fruity blend of frozen strawberries and blueberries with yogurt and almond milk for a delicious start to your day.",
+  "authors": [
+    "abbiemello"
+  ],
+  "date_published": "2020-06-18T23:50:08-04:00",
+  "date_modified": "2026-05-15T13:31:12-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup almond milk",
+    "0.5 cup frozen strawberries",
+    "0.5 cup frozen blueberries",
+    "0.5 cup low-fat plain yogurt",
+    "1 teaspoon flax seed oil",
+    "1 teaspoon agave nectar"
+  ],
+  "steps": [
+    {
+      "text": "Blend almond milk, strawberries, blueberries, yogurt, flax seed oil, and agave nectar in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "170 mg",
+    "sugarContent": "30 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VQn0c9Kg-Yl96DzfZI7M1frhmBI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1095899-f4ee9cf4b32a43da93b1a4a4be45f6d7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223140/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

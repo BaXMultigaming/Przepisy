@@ -1,0 +1,113 @@
+{
+  "id": "223531",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223531/savory-french-crepes/",
+  "requested_url": "https://www.allrecipes.com/recipe/223531/savory-french-crepes/",
+  "title": "Savory French Crêpes",
+  "description": "These savory French buckwheat crêpes made with an overnight batter are filled with two kinds of mushrooms, spinach, tomatoes, and Gruyère cheese.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2018-06-08T10:03:56-04:00",
+  "date_modified": "2023-04-12T14:39:59-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT15M",
+  "total_time": "PT520M",
+  "yield": [
+    "4",
+    "4 crepes"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "U.S.",
+    "French"
+  ],
+  "regions": [
+    "U.S.",
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "1.5 cups milk",
+    "2 tablespoons butter",
+    "0.25 cup buckwheat flour",
+    "0.75 cup all-purpose flour",
+    "1 pinch salt",
+    "3 tablespoons butter",
+    "0.5 cup cremini mushrooms, sliced",
+    "0.5 cup oyster mushrooms, sliced",
+    "1 cup diced tomatoes",
+    "2 cups baby spinach leaves",
+    "4 teaspoons butter, divided",
+    "1 cup shredded Gruyere cheese, divided"
+  ],
+  "steps": [
+    {
+      "text": "Make the crêpe batter: Combine eggs, milk, and 2 tablespoons butter in a blender. Add buckwheat flour, all-purpose flour, and a pinch of salt; purée until smooth. Cover and refrigerate for 8 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Make the filling: Melt 3 tablespoons butter in a large skillet over medium-high heat. Add cremini and oyster mushrooms; cook and stir until golden brown, about 10 minutes. Add tomatoes and spinach; cook and stir until spinach is wilted, 3 to 4 minutes. Remove from the heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt 1 teaspoon butter in another large skillet over medium heat. Pour about 1/4 cup batter (depending on the size of your pan) into the hot skillet' immediately tilt and swirl the pan to evenly distribute batter along the bottom. Cook until the center is set and the edges begin to brown, 3 to 4 minutes. Sprinkle 1/4 of the filling in the middle of each crêpe, then sprinkle with 3 tablespoons Gruyère cheese. Fold the crêpe in thirds over the filling, forming a triangle shape. Sprinkle 1 tablespoon Gruyère over top. Repeat to make remaining crêpes, adding 1 teaspoon butter for each one.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/HN9ATfhsNiAniCOc0dXD5VbwBE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1980918-5acffa7425e346f69c20987e0a6e2d5b.jpg"
+      ],
+      "image": "assets/images/223531/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "507 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "186 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "370 mg",
+    "sugarContent": "6 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Globf7Wy-ma1DlVvV.mp4",
+    "description": "See how to make traditional Normandy-style crepes.",
+    "duration": "PT4M27S",
+    "name": "French Crepes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Globf7Wy/poster.jpg?width=1280",
+    "uploadDate": "2021-06-23T02:54:25-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HN9ATfhsNiAniCOc0dXD5VbwBE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1980918-5acffa7425e346f69c20987e0a6e2d5b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223531/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/223531/step_03.webp"
+    ]
+  }
+}

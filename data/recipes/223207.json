@@ -1,0 +1,74 @@
+{
+  "id": "223207",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223207/orange-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/223207/orange-salsa/",
+  "title": "Orange Salsa",
+  "description": "This sweet and spicy orange salsa has chunks of citrus and a bit of ginger root for a fragrant, peppery taste.",
+  "authors": [
+    "Jason Arden"
+  ],
+  "date_published": "2018-06-08T10:03:18-04:00",
+  "date_modified": "2022-12-06T15:22:41-05:00",
+  "prep_time": "PT25M",
+  "cook_time": null,
+  "total_time": "PT55M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large oranges, peeled and cut into chunks",
+    "1 medium tomato, seeded and diced",
+    "0.5 cup minced red onion",
+    "0.25 medium jalapeno pepper, minced",
+    "1 tablespoon apple juice",
+    "1 teaspoon grated orange zest",
+    "1 teaspoon minced garlic",
+    "0.5 teaspoon minced fresh ginger root",
+    "1 pinch salt",
+    "1 tablespoon chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Combine oranges, tomato, onion, jalapeño, apple juice, orange zest, garlic, ginger, and salt in a bowl; toss to combine. Cover and refrigerate until chilled, about 30 minutes. Stir in cilantro before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "41 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "7 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BcYsKFeE2sTKvdy1JuHyqRGIkeo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131176-0caaac60a2be44cc929a2327341ab183.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223207/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

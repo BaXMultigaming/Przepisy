@@ -1,0 +1,76 @@
+{
+  "id": "223571",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223571/summertime-salsa-verde/",
+  "requested_url": "https://www.allrecipes.com/recipe/223571/summertime-salsa-verde/",
+  "title": "Summertime Salsa Verde",
+  "description": "This light, refreshing, and hot Mexican-style green sauce is perfect for summertime!",
+  "authors": [
+    "lisa"
+  ],
+  "date_published": "2020-02-01T02:51:18-05:00",
+  "date_modified": "2025-04-09T12:56:52-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 tomatillos, husked and quartered",
+    "2 cloves garlic",
+    "0.5 bunch fresh cilantro",
+    "0.5 avocado",
+    "1 serrano chile pepper, chopped.",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomatillos, garlic, cilantro, avocado, serrano chile pepper, and salt in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "15 kcal",
+    "carbohydrateContent": "1 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tFsYXfYCvb3KFsAXyHDZsqI0ZRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970296-cd74cacd581c44949a7deca650195079.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223571/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

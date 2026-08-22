@@ -1,0 +1,78 @@
+{
+  "id": "228123",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228123/smiling-caprese-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/228123/smiling-caprese-salad/",
+  "title": "Smiling Caprese Salad",
+  "description": "You get all the delicious flavor of a Caprese salad in minutes when you just toss tomatoes, mozzarella cheese, and basil with a simple balsamic dressing.",
+  "authors": [
+    "Cajun Girl"
+  ],
+  "date_published": "2018-06-08T10:04:08-04:00",
+  "date_modified": "2025-02-14T16:17:05-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 tomatoes, cut into bite-size pieces",
+    "0.25 cup extra-virgin olive oil, or more to taste",
+    "1.5 tablespoons balsamic vinegar",
+    "6 leaves fresh basil, cut into slivers",
+    "0.5 pound mozzarella cheese, cut into bite-size cubes",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Stir tomatoes, olive oil, balsamic vinegar, and basil together in a large salad bowl; gently fold in mozzarella cheese ; season with salt and black pepper. Chill before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "314 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "364 mg",
+    "sugarContent": "7 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "45"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/w8eeEpKAlS9T63vzgBFy1hBJob8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/871005-bc2d0297abb2439780dafd87f4d6bf57.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228123/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

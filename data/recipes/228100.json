@@ -1,0 +1,86 @@
+{
+  "id": "228100",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228100/mango-bacon-butternut-squash-hash/",
+  "requested_url": "https://www.allrecipes.com/recipe/228100/mango-bacon-butternut-squash-hash/",
+  "title": "Mango-Bacon-Butternut Squash Hash",
+  "description": "A Paleo-friendly hash is made from a mixture of bacon, butternut squash, and mango.",
+  "authors": [
+    "Chris Denzer"
+  ],
+  "date_published": "2020-06-18T23:50:32-04:00",
+  "date_modified": "2025-03-14T08:31:56-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Entree"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 slices bacon, cut into 1/4-inch squares",
+    "1 butternut squash, peeled and cubed",
+    "1 teaspoon thyme",
+    "1 mango, peeled and cubed",
+    "salt and ground black pepper, to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 5 minutes. Add squash and thyme; cook and stir until squash begins to brown, 10 to 15 minutes. Add mango; cook and stir until heated through, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6xEqKkwMx9pHCAeruFNAc9TmjVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3781372-f09accf4a24242c6b69ac4eb49b3a0c4.jpg"
+      ],
+      "image": "assets/images/228100/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "424 kcal",
+    "carbohydrateContent": "91 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "15 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "417 mg",
+    "sugarContent": "29 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "51"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/oR216RF5-ma1DlVvV.mp4",
+    "description": "AR1435",
+    "duration": "PT2M48S",
+    "name": "Mango, Bacon, and Butternut Squash Hash",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/oR216RF5/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:51:12-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6xEqKkwMx9pHCAeruFNAc9TmjVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3781372-f09accf4a24242c6b69ac4eb49b3a0c4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228100/hero.webp",
+    "steps": [
+      "assets/images/228100/step_01.webp"
+    ]
+  }
+}

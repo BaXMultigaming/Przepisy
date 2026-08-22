@@ -1,0 +1,89 @@
+{
+  "id": "228258",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228258/paleo-tuna-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/228258/paleo-tuna-burgers/",
+  "title": "Paleo Tuna Burgers",
+  "description": "A paleo recipe for tuna burgers has just a few simple ingredients.",
+  "authors": [
+    "Chris Denzer"
+  ],
+  "date_published": "2019-07-10T03:03:42-04:00",
+  "date_modified": "2025-05-01T15:33:48-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 patties"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (8 ounce) cans tuna, drained",
+    "2 tablespoons soy sauce",
+    "0.25 cup chopped cilantro",
+    "2 tablespoons olive oil",
+    "2 tablespoons lemon juice",
+    "1 tablespoon grated ginger root",
+    "3 eggs",
+    "kosher salt and ground black pepper to taste",
+    "0.5 cup almond meal",
+    "1 tablespoon olive oil, for frying"
+  ],
+  "steps": [
+    {
+      "text": "Mix tuna, soy sauce, cilantro, 2 tablespoons olive oil, lemon juice, ginger, eggs, kosher salt, black pepper, and almond meal in a food processor or by hand until it reaches a firm consistency. Form mixture into four patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 1 tablespoon olive oil in a grill pan or skillet over medium heat. Cook tuna burgers in the hot oil until patties are set and and browned on both sides, about 5 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "340 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "174 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "40 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "602 mg",
+    "sugarContent": "1 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mn_3wcI_KafJlsN3yS3EDuacSn0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2615732-52ac7eb91efe41e795c8a6846fe32ce6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228258/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

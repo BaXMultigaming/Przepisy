@@ -1,0 +1,90 @@
+{
+  "id": "223344",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223344/summery-bean-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/223344/summery-bean-salad/",
+  "title": "Summery Bean Salad",
+  "description": "This summery bean salad recipe uses black beans and garbanzo beans. It’s a great way to get in those good-for-you veggies and beans into your diet.",
+  "authors": [
+    "Jacqueline"
+  ],
+  "date_published": "2018-06-08T10:03:38-04:00",
+  "date_modified": "2025-02-17T09:45:09-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch",
+    "Side Dish",
+    "Dinner",
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons olive oil",
+    "2 tablespoons finely chopped fresh cilantro",
+    "1 lime, zested",
+    "2 tablespoons fresh lime juice",
+    "1 teaspoon freshly cracked black pepper",
+    "0.5 teaspoon salt",
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "1 (15 ounce) can garbanzo beans, rinsed and drained",
+    "0.5 tomato, seeded and chopped",
+    "0.5 cucumber, seeded and chopped",
+    "0.25 red onion, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Whisk olive oil, cilantro, lime zest, and lime juice together in a bowl; season with black pepper and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine black beans, garbanzo beans, tomato, cucumber, and red onion in a salad bowl; drizzle dressing over salad and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "189 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "8 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "607 mg",
+    "sugarContent": "1 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Bncqf_KgLsF6Kbzfex6zwqAQbHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1044565-805d6d1350de49d68e29d1ae7360b250.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223344/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

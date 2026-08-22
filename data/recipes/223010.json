@@ -1,0 +1,114 @@
+{
+  "id": "223010",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223010/spicy-dorito-taco-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/223010/spicy-dorito-taco-salad/",
+  "title": "Spicy Dorito Taco Salad",
+  "description": "This spicy Dorito taco salad recipe combines crunchy Doritos, seasoned ground beef, veggies, cheese, beans, and lettuce tossed with a tangy vinaigrette.",
+  "authors": [
+    "Lora R"
+  ],
+  "date_published": "2020-06-18T23:50:02-04:00",
+  "date_modified": "2025-04-02T14:10:35-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT10M",
+  "total_time": "PT35M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Lunch",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "0.5 teaspoon garlic powder",
+    "0.5 teaspoon chili powder",
+    "0.25 teaspoon ground black pepper",
+    "1 head lettuce, chopped",
+    "5 cups crushed nacho cheese-flavored tortilla chips",
+    "2 cups shredded Colby-Jack cheese",
+    "1 (15 ounce) can dark red kidney beans, drained and rinsed",
+    "1 tomato, diced",
+    "0.33333334326744 cup chopped onion",
+    "0.25 cup pickled jalapeno peppers, chopped",
+    "1 cup vegetable oil",
+    "0.5 cup white sugar",
+    "0.5 cup ketchup",
+    "1 envelope taco seasoning mix",
+    "2 tablespoons cider vinegar",
+    "1 tablespoon Worcestershire sauce"
+  ],
+  "steps": [
+    {
+      "text": "Combine ground beef, garlic powder, chili powder, and black pepper in a skillet over medium heat; cook until beef is brown and crumbly, about 10 minutes, breaking up beef into chunks as it cooks. Drain excess grease, remove from heat, and cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss lettuce, tortilla chips, cheese, beans, tomato, onion, and jalapeño in a large bowl. Stir in beef until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk oil, sugar, ketchup, taco seasoning, vinegar, and Worcestershire together in a bowl until sugar dissolves; pour over salad and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6OhTu3bglO4n9E3V1gIPe4pkFr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2387124-f775ef83360d43c38ce2f4721ef300e9.jpg"
+      ],
+      "image": "assets/images/223010/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "561 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "54 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "844 mg",
+    "sugarContent": "16 g",
+    "fatContent": "40 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "91"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/jHh9omPn-K3AjnAEN.mp4",
+    "description": "Get into the crunch and tangy taco flavor of this quick crowd-pleaser recipe. Cook ground beef, garlic powder, chili powder and black pepper until browned and juicy. Toss together lettuce, nacho cheese flavored tortilla chips, Colby-Jack cheese, kidney beans, tomato, onion and pickled jalapeno peppers with the ground beef, then mix with a zesty dressing of vegetable oil, sugar, ketchup, taco seasoning, cider vinegar and Worcestershire sauce. The delicious taco flavors will be popular with your entire brood! Watch everyone clamor for seconds! ",
+    "duration": "PT58S",
+    "name": "Spicy Dorito® Taco Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/jHh9omPn/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T03:03:57-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6OhTu3bglO4n9E3V1gIPe4pkFr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2387124-f775ef83360d43c38ce2f4721ef300e9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223010/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/223010/step_03.webp"
+    ]
+  }
+}

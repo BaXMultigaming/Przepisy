@@ -1,0 +1,88 @@
+{
+  "id": "228234",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228234/crispy-potato-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/228234/crispy-potato-pancakes/",
+  "title": "Crispy Potato Pancakes",
+  "description": "These potato pancakes are crispy on the outside and tender on the inside and make a terrific side dish any day of the week.",
+  "authors": [
+    "maf13456"
+  ],
+  "date_published": "2019-07-10T03:03:42-04:00",
+  "date_modified": "2026-07-20T17:11:26-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "12 pancakes"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds potatoes, peeled and coarsely shredded",
+    "2 onions, minced",
+    "3 eggs, beaten",
+    "0.25 cup all-purpose flour",
+    "1 tablespoon baking powder",
+    "1 teaspoon lemon juice",
+    "1 pinch ground nutmeg, or to taste",
+    "salt and ground black pepper to taste",
+    "0.25 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Mix potatoes, onions, eggs, flour, baking powder, and lemon juice in a large bowl; season with nutmeg, salt, and black pepper. Shape potato mixture into 12 evenly sized patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat vegetable oil in a large skillet over medium heat. Pan-fry potato patties in batches until tender and browned on both sides, 7 to 10 minutes. Transfer browned patties to a paper towel-lined baking sheet. Repeat with remaining patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "268 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "93 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "214 mg",
+    "sugarContent": "3 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fAQI-TIWnTzEMd-_nuL4FhY5MBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1055174-1528bb553ef049e4874d6f764b90811c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228234/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

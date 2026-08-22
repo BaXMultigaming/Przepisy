@@ -1,0 +1,71 @@
+{
+  "id": "223459",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223459/spiced-cranberry-chutney/",
+  "requested_url": "https://www.allrecipes.com/recipe/223459/spiced-cranberry-chutney/",
+  "title": "Spiced Cranberry Chutney",
+  "description": "Spicy, tangy, and sweet, this cranberry chutney goes great with turkey or as a snack with cheese and crackers.",
+  "authors": [
+    "Jody"
+  ],
+  "date_published": "2020-06-18T23:50:21-04:00",
+  "date_modified": "2022-09-26T15:28:02-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT150M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups fresh cranberries",
+    "1 cup white sugar",
+    "0.5 cup brown sugar",
+    "1 cup water",
+    "2 teaspoons ground cinnamon",
+    "1.5 teaspoons ground ginger",
+    "1.5 teaspoons ground cloves",
+    "0.25 teaspoon ground allspice",
+    "1 tart apple, peeled and diced"
+  ],
+  "steps": [
+    {
+      "text": "Bring cranberries, white sugar, brown sugar, water, cinnamon, ginger, cloves, and allspice to a boil over medium-high heat in a large saucepan; cook and stir for 20 minutes. Stir in apple; cook and stir until apple is tender and sauce is thick, about 5 minutes. Refrigerate until cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "125 kcal",
+    "carbohydrateContent": "32 g",
+    "fiberContent": "2 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "28 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "36"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hgXtB0gbwp2bW3tZ7v2dNb2glTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1070818-04956241c6d141e3aa76c2fea9637c99.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223459/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

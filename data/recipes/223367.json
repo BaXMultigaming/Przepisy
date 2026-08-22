@@ -1,0 +1,81 @@
+{
+  "id": "223367",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223367/peach-sangria/",
+  "requested_url": "https://www.allrecipes.com/recipe/223367/peach-sangria/",
+  "title": "Peach Sangria",
+  "description": "This peach sangria recipe takes puréed peaches soaked in white wine and triple sec and combines them with sparkling wine for a refreshing adult drink.",
+  "authors": [
+    "rlt11_NMC"
+  ],
+  "date_published": "2020-03-05T00:09:10-05:00",
+  "date_modified": "2025-08-06T20:30:40-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT260M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large fresh peaches - peeled, pitted, and sliced",
+    "1 cup hot water",
+    "0.5 cup light brown sugar",
+    "1 pinch ground cinnamon",
+    "2.5 cups dry white wine",
+    "0.5 cup triple sec liqueur",
+    "1 (750 milliliter) bottle sparkling white wine, chilled"
+  ],
+  "steps": [
+    {
+      "text": "Place peaches, water, sugar, and cinnamon in a blender or the bowl of a food processor; blend until smooth. Transfer mixture to a pitcher; stir in dry white wine and triple sec. Cover the pitcher; chill in the refrigerator for at least 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Strain peach mixture through a large cheesecloth-lined sieve; squeeze cloth to extrude all juice. Pour juice into a large pitcher; stir in sparkling wine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "23 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CMvsR9prL6ZIui_lpdV6NsyBVxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4008276-fb26240aa7aa4545aa932e230f791939.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223367/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

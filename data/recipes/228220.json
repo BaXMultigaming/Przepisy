@@ -1,0 +1,104 @@
+{
+  "id": "228220",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228220/cheesy-hash-browns/",
+  "requested_url": "https://www.allrecipes.com/recipe/228220/cheesy-hash-browns/",
+  "title": "Cheesy Hash Browns",
+  "description": "These cheesy hash browns are baked with sour cream, onion, cream of chicken soup, Colby cheese, and melted butter, all topped with crushed cornflakes.",
+  "authors": [
+    "terra"
+  ],
+  "date_published": "2019-04-02T02:58:16-04:00",
+  "date_modified": "2024-12-02T11:04:11-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT75M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (2 pound) package frozen hash brown potatoes, thawed",
+    "1 (16 ounce) container sour cream",
+    "1 cup chopped onion",
+    "1 (10.75 ounce) can condensed cream of chicken soup",
+    "8 ounces shredded Colby cheese",
+    "5.3333334922791 tablespoons butter, melted",
+    "salt and ground black pepper to taste",
+    "2 tablespoons crushed corn flakes cereal"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix together hash brown potatoes, sour cream, onion, cream of chicken soup, Colby cheese, and melted butter in a bowl until well combined; season with salt and black pepper. Transfer mixture to a 9x13-inch baking dish and sprinkle the top with cornflake crumbs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until casserole is bubbling, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/nTFRqc8CtPeSeSArudxXOCr2x_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4376685-b8b84af25b9248f889a9a29ce727572e.jpg"
+      ],
+      "image": "assets/images/228220/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "876 kcal",
+    "carbohydrateContent": "58 g",
+    "cholesterolContent": "151 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "43 g",
+    "sodiumContent": "1104 mg",
+    "sugarContent": "3 g",
+    "fatContent": "76 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "148"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/W4vcHu3F-K3AjnAEN.mp4",
+    "description": "It’s like a loaded baked potato, casserole-style, for brunch or dinner.",
+    "duration": "PT2M3S",
+    "name": "Cheesy Hash Browns",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/W4vcHu3F/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T01:58:51-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nTFRqc8CtPeSeSArudxXOCr2x_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4376685-b8b84af25b9248f889a9a29ce727572e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228220/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/228220/step_03.webp"
+    ]
+  }
+}

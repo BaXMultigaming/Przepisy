@@ -1,0 +1,73 @@
+{
+  "id": "223485",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223485/no-cook-applesauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/223485/no-cook-applesauce/",
+  "title": "No Cook Applesauce",
+  "description": "This no-cook applesauce recipe uses five simple ingredients and is puréed in a blender, with no cooking required — a recipe the whole family will love.",
+  "authors": [
+    "Tina M"
+  ],
+  "date_published": "2020-03-05T00:09:12-05:00",
+  "date_modified": "2026-06-27T23:34:37-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Snack",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 apples - peeled, cored, and chopped",
+    "1 cup brown sugar",
+    "1 cup water",
+    "1.5 tablespoons lemon juice",
+    "1 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Combine apples, brown sugar, water, lemon juice, and cinnamon in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "107 kcal",
+    "carbohydrateContent": "28 g",
+    "fiberContent": "3 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "24 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jcLgNvUxkJlYJ5HUGCjQWq4fovQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060959-no-cook-applesauce-ReneePaj-4x3-1-8622d012073f4a738b7209a3e8e558d8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223485/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "223514",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223514/curried-zucchini-corn-fritters/",
+  "requested_url": "https://www.allrecipes.com/recipe/223514/curried-zucchini-corn-fritters/",
+  "title": "Curried Zucchini Corn Fritters",
+  "description": "These delicious little fritters are a great way to use up end-of-summer zucchini and corn! Delicious with raita or plain yogurt with a little chopped mint mixed in.",
+  "authors": [
+    "DCKatie"
+  ],
+  "date_published": "2018-06-08T10:03:54-04:00",
+  "date_modified": "2025-02-27T12:10:26-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups shredded zucchini",
+    "2 ears fresh corn, kernels cut from cob",
+    "0.25 cup finely chopped onion",
+    "0.25 cup all-purpose flour",
+    "1 teaspoon curry powder",
+    "1 large egg, beaten",
+    "salt and ground black pepper to taste",
+    "0.75 cup olive oil for frying, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Squeeze excess moisture from shredded zucchini and combine with corn kernels, onion, flour, and curry powder in a bowl. Stir in egg until thoroughly combined and season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil to a depth of about 1/8 inch in a large nonstick skillet over medium-high heat. Drop batter, 1/4 cup at a time, into hot oil and flatten fritters gently with a spatula. Cook until golden brown on both sides, 3 to 4 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "141 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "34 mg",
+    "sugarContent": "4 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MU7ueEF0pTn-uo-CuqVlK-yaU-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8020334-93c4d0d81013434288fb6cf42ab49823.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223514/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

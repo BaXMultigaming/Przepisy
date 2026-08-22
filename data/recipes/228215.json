@@ -1,0 +1,71 @@
+{
+  "id": "228215",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228215/refreshing-tomato-cucumber-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/228215/refreshing-tomato-cucumber-salad/",
+  "title": "Refreshing Tomato Cucumber Salad",
+  "description": "This cool, zesty salad, made with fresh cucumbers and tomatoes, is a breeze to throw together in a pinch.",
+  "authors": [
+    "Beth"
+  ],
+  "date_published": "2012-08-07T13:34:36-04:00",
+  "date_modified": "2012-08-07T13:36:27-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cucumbers, sliced",
+    "2 tomatoes, sliced",
+    "1 onion, sliced",
+    "0.33333334326744 cup Italian-style salad dressing",
+    "0.25 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Combine cucumbers, tomatoes, and onion in a bowl. Add Italian dressing and Parmesan cheese and toss until coated. Refrigerate until chilled, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "106 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "404 mg",
+    "sugarContent": "5 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2AKnv6dAA32QOUsxyXmEKnOpX94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2612383-d2a65ced769344f8b4c1426affb79775.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228215/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "228048",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228048/strawberry-goat-cheese-bruschetta/",
+  "requested_url": "https://www.allrecipes.com/recipe/228048/strawberry-goat-cheese-bruschetta/",
+  "title": "Strawberry Goat Cheese Bruschetta",
+  "description": "Delicious strawberry bruschetta made with charred Italian bread topped with creamy goat cheese and a mixture of strawberries and balsamic vinegar.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2019-10-10T00:50:56-04:00",
+  "date_modified": "2026-05-14T12:27:52-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "12 slices"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup balsamic vinegar",
+    "12 slices Italian bread",
+    "1 tablespoon olive oil",
+    "1 pound strawberries, washed and diced",
+    "2 teaspoons fresh thyme leaves, plus more for serving",
+    "1 cup goat cheese, room temperature",
+    "salt and freshly ground pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat vinegar in a small skillet over medium-low heat. Simmer until reduced by about half, 8 to 10 minutes. Remove from heat and allow to cool to room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Prepare a grill for high heat. Place bread slices on a foil-lined baking sheet and drizzle with olive oil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine strawberries and thyme in a small bowl and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill bread on the preheated grill until browned, about 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread goat cheese on toasted bread. Add black pepper, salt, and reduced vinegar to the strawberry mixture. Spoon over the goat cheese topped bruschetta. Garnish with additional thyme.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LoZHgtwn5FlrzEgv9pbJeUtHFvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1022906-3f98eb59da56479baa7a62eea73a5c09.jpg"
+      ],
+      "image": "assets/images/228048/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "303 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "30 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "460 mg",
+    "sugarContent": "8 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "122"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/4HIkK7nW-ma1DlVvV.mp4",
+    "description": "0089",
+    "duration": "PT5M29S",
+    "name": "Strawberry Goat Cheese Bruschetta",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/4HIkK7nW/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T18:14:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LoZHgtwn5FlrzEgv9pbJeUtHFvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1022906-3f98eb59da56479baa7a62eea73a5c09.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228048/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/228048/step_05.webp"
+    ]
+  }
+}

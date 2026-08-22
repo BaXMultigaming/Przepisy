@@ -1,0 +1,123 @@
+{
+  "id": "223150",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223150/chef-johns-turkey-burger/",
+  "requested_url": "https://www.allrecipes.com/recipe/223150/chef-johns-turkey-burger/",
+  "title": "Chef John&#39;s Turkey Burger",
+  "description": "Chef John&#39;s yummy turkey burger recipe uses garlic, ginger, cilantro, and lemon juice to spice it up, making this tasty low-fat meal a healthy option.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-06-11T20:06:36-04:00",
+  "date_modified": "2025-10-29T18:44:01-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT90M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds ground turkey",
+    "2 tablespoons plain yogurt",
+    "2 tablespoons chopped fresh cilantro",
+    "1.5 tablespoons plain bread crumbs",
+    "1.5 tablespoons ground almonds",
+    "1 tablespoon lemon juice",
+    "2 cloves garlic, crushed and minced",
+    "1.5 teaspoons finely grated fresh ginger",
+    "1.5 teaspoons salt",
+    "1.5 teaspoons garam masala",
+    "1 teaspoon chile paste"
+  ],
+  "steps": [
+    {
+      "text": "Combine ground turkey, yogurt, cilantro, bread crumbs, almonds, lemon juice, garlic, ginger, salt, garam masala, and chili paste with a spatula or clean hands.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Shape turkey mixture into a ball; divide into 4 even pieces. Refrigerate for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Form each turkey piece into a patty using damp hands. Refrigerate patties while grill heats.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on the preheated grill until patties appear cooked about halfway up sides. Flip; cook until surface is cracked and juices start to rise to the top, 4 to 5 minutes per side. An instant-read thermometer inserted into centers should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ajyS9yuQdKV29vju22Wi2-qcCV8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/892657-dfe5ae76ea6a4026a52e541f136aacfe.jpg"
+      ],
+      "image": "assets/images/223150/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "301 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "136 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1026 mg",
+    "sugarContent": "1 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "77"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/pv92Pkjd-ma1DlVvV.mp4",
+    "description": "0100",
+    "duration": "PT4M35S",
+    "name": "Chef John's Turkey Burger",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/pv92Pkjd/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T07:42:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ajyS9yuQdKV29vju22Wi2-qcCV8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/892657-dfe5ae76ea6a4026a52e541f136aacfe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223150/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/223150/step_05.webp"
+    ]
+  }
+}

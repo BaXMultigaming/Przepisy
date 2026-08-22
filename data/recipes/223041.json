@@ -1,0 +1,133 @@
+{
+  "id": "223041",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223041/chef-johns-blueberry-muffins/",
+  "requested_url": "https://www.allrecipes.com/recipe/223041/chef-johns-blueberry-muffins/",
+  "title": "Chef John’s Blueberry Muffins",
+  "description": "A perfect recipe for blueberry muffins made with sour cream and extra blueberries. Great served slightly warm.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-06-06T16:19:37-04:00",
+  "date_modified": "2026-07-21T19:12:11-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "16",
+    "16 muffins"
+  ],
+  "categories": [
+    "Bread"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "0.5 cup butter, softened",
+    "2 large eggs",
+    "2 tablespoons vegetable oil",
+    "1 cup sour cream",
+    "0.5 cup milk",
+    "1 tablespoon grated lemon zest",
+    "3 cups all-purpose flour",
+    "1 tablespoon baking powder",
+    "0.5 teaspoon baking soda",
+    "0.75 teaspoon salt",
+    "2 cups fresh blueberries"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease 16 muffin cups, or line with paper muffin liners.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat butter and sugar in a large bowl until light and fluffy, about 3 minutes. Stir in eggs until well mixed. Add vegetable oil, stir to combine. Whisk sour cream, milk, and lemon zest into butter mixture until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk flour, baking powder, baking soda, and salt in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir half the flour mixture into the butter mixture until combined. Add remaining half of flour mixture and blueberries into the batter, folding together until just combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon batter into prepared muffin cups.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place muffin cups on center rack of the preheated oven and bake until tops are golden and a toothpick inserted into the center of a muffin comes out clean, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/X-iojtCgQ9IfXcnnBcLIrI4LjmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6345864-b223af4622174eb8b30751294f334e42.jpg"
+      ],
+      "image": "assets/images/223041/step_06.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "254 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "45 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "272 mg",
+    "sugarContent": "15 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "396"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/CVTRs7nL-ma1DlVvV.mp4",
+    "description": "0318",
+    "duration": "PT2M43S",
+    "name": "Making Blueberry Muffins",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/CVTRs7nL/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T06:57:34-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/X-iojtCgQ9IfXcnnBcLIrI4LjmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6345864-b223af4622174eb8b30751294f334e42.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223041/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      "assets/images/223041/step_06.webp"
+    ]
+  }
+}

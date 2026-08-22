@@ -1,0 +1,77 @@
+{
+  "id": "228225",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228225/lemon-curd/",
+  "requested_url": "https://www.allrecipes.com/recipe/228225/lemon-curd/",
+  "title": "Lemon Curd",
+  "description": "Rich and creamy lemon curd is perfect alongside scones or sugar cookies.",
+  "authors": [
+    "Charlene Liang"
+  ],
+  "date_published": "2020-06-18T23:50:38-04:00",
+  "date_modified": "2022-10-07T12:13:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT260M",
+  "yield": [
+    "10",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 eggs",
+    "1 cup white sugar",
+    "0.33333334326744 cup lemon juice",
+    "0.25 cup butter",
+    "2 teaspoons lemon zest"
+  ],
+  "steps": [
+    {
+      "text": "Whisk eggs, sugar, and lemon juice in a double boiler over simmering water until mixed well, then continue to stir until thick, 7 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain through a mesh sieve to get rid of lumps. Fold in butter until well incorporated. Mix in lemon zest. Cover curd and chill in the refrigerator until it has thickened, about 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "20 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "104"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cbdR3as-D09E9jwWvcHKIJdVQCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6390010-f667e0dcf9864f2bb59dec3adbe629d9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228225/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "223104",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223104/oatmeal-rhubarb-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/223104/oatmeal-rhubarb-pancakes/",
+  "title": "Oatmeal Rhubarb Pancakes",
+  "description": "Hearty pancakes dotted with fresh rhubarb and banana make this a breakfast your whole family will love.",
+  "authors": [
+    "Alison M"
+  ],
+  "date_published": "2020-03-05T00:09:07-05:00",
+  "date_modified": "2020-03-05T00:09:07-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.3333333730698 cups unbleached all-purpose flour",
+    "10 tablespoons quick cooking oats",
+    "0.33333334326744 cup brown sugar",
+    "1 teaspoon ground cinnamon",
+    "0.5 teaspoon baking soda",
+    "0.5 teaspoon salt",
+    "1.3333333730698 cups nonfat milk",
+    "1 teaspoon lemon juice",
+    "0.5 banana, mashed",
+    "1 cup finely chopped rhubarb",
+    "2 tablespoons vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine flour, oats, brown sugar, cinnamon, baking soda, and salt in a large bowl. Mix milk and lemon juice in another bowl; stir in banana. Stir banana mixture into flour mixture; fold in rhubarb.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a griddle or large skillet over medium heat. Drop 1/4 cupfuls of batter onto the griddle and cook until bubbles form and the edges are dry, about 2 minutes. Flip, and cook until browned on the other side, about 2 minutes more. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "380 kcal",
+    "carbohydrateContent": "68 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "491 mg",
+    "sugarContent": "24 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p3LOTNt6d5SZIvqnCEeLBbCcvZY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131451-8c056f16896341f3ac569ada8773b7c1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223104/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

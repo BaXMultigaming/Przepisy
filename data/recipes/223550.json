@@ -1,0 +1,78 @@
+{
+  "id": "223550",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/223550/stir-fried-cabbage/",
+  "requested_url": "https://www.allrecipes.com/recipe/223550/stir-fried-cabbage/",
+  "title": "Stir-Fried Cabbage",
+  "description": "Stir-fried cabbage is a quick and easy side dish that can be ready in thirty minutes or less.",
+  "authors": [
+    "CRE8IVEONE"
+  ],
+  "date_published": "2020-06-18T23:50:25-04:00",
+  "date_modified": "2020-06-18T23:50:25-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "2 tablespoons minced onion",
+    "2 cloves garlic, minced",
+    "6 cups chopped cabbage",
+    "1 tablespoon soy sauce",
+    "0.5 teaspoon white sugar",
+    "0.125 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Heat vegetable oil in a large skillet over medium heat; cook and stir onion and garlic until tender, about 10 minutes. Cook and stir cabbage into onion mixture until slightly tender, about 5 minutes. Reduce heat to medium-low; add soy sauce, sugar, and black pepper. Cook and stir until cabbage is tender, 3 to 5 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "72 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "250 mg",
+    "sugarContent": "5 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/t0kfUKqrkNn9uC6MBCBf7UuyiCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/864849-ff2c3351fcbc4e54a36bd87bd1d392d3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/223550/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
