@@ -1,0 +1,97 @@
+{
+  "id": "230119",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230119/quinoa-stuffing/",
+  "requested_url": "https://www.allrecipes.com/recipe/230119/quinoa-stuffing/",
+  "title": "Quinoa Stuffing",
+  "description": "Quinoa, butternut squash, zucchini, cranberries, and dried apricots add flavor and color to a pilaf-like dish that&#39;s vegetarian and gluten-free.",
+  "authors": [
+    "Heather Hogan"
+  ],
+  "date_published": "2010-11-18T10:19:19-05:00",
+  "date_modified": "2010-11-18T10:19:19-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT20M",
+  "total_time": "PT45M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "4 cups vegetable stock",
+    "2 cups quinoa",
+    "0.25 cup olive oil",
+    "1 butternut squash - peeled, seeded, and diced",
+    "2 small zucchinis, cut into 1-inch cubes",
+    "1 bunch green onions, chopped",
+    "1 cup diced dried apricots",
+    "1 cup dried cranberries",
+    "1 cup chopped fresh parsley",
+    "1 lime, juiced, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring vegetable stock to a boil in a saucepan, reduce heat to low, and stir in quinoa. Cover pan and simmer until quinoa absorbs the liquid, 10 to 15 minutes. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium heat. Cook and stir butternut squash and zucchinis in the hot oil until slightly browned, about 10 minutes. Stir quinoa into the vegetables and gently mix green onions, apricots, cranberries, and parsley into the stuffing. Drizzle with lime juice to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fnPAggCUr-U-1dQHSuPlugLNcQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1075223-2c4279895b74486da0759760a2383d2a.jpg"
+      ],
+      "image": "assets/images/230119/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "387 kcal",
+    "carbohydrateContent": "71 g",
+    "fiberContent": "10 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "258 mg",
+    "sugarContent": "24 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "52"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/sHCAqrkO-ma1DlVvV.mp4",
+    "description": "See how to make quinoa stuffing.",
+    "duration": "PT2M21S",
+    "name": "Quinoa Stuffing",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/sHCAqrkO/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T17:04:06-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fnPAggCUr-U-1dQHSuPlugLNcQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1075223-2c4279895b74486da0759760a2383d2a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230119/hero.webp",
+    "steps": [
+      null,
+      "assets/images/230119/step_02.webp"
+    ]
+  }
+}

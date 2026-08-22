@@ -1,0 +1,81 @@
+{
+  "id": "230018",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230018/homemade-sausage/",
+  "requested_url": "https://www.allrecipes.com/recipe/230018/homemade-sausage/",
+  "title": "Homemade Sausage",
+  "description": "Mix ground turkey with a few spices and whip up a batch of your own sausage in minutes. Form into patties or just cook in a skillet and add it to other dishes.",
+  "authors": [
+    "growingoodsons"
+  ],
+  "date_published": "2019-04-02T02:59:21-04:00",
+  "date_modified": "2022-01-07T13:47:48-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon salt",
+    "1 teaspoon crumbled dried sage",
+    "0.5 teaspoon ground black pepper",
+    "0.25 teaspoon ground nutmeg",
+    "0.125 teaspoon red pepper flakes",
+    "1 pinch ground ginger",
+    "1 pound ground turkey"
+  ],
+  "steps": [
+    {
+      "text": "Stir salt, sage, black pepper, nutmeg, red pepper flakes, and ginger in a small bowl. Place turkey into a separate bowl and thoroughly mix in the spices. Form sausage into patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fry the sausage patties in a skillet over medium heat until browned and the meat is no longer pink inside, 3 to 5 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "170 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "84 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "646 mg",
+    "sugarContent": "0 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/88OiSMvt90vwBotFJXPVQhN3cAk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2866769-f19879801b9748c98f312dfd616cff39.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230018/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

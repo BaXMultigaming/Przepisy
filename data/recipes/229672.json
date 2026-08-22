@@ -1,0 +1,80 @@
+{
+  "id": "229672",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229672/pomegranate-glazed-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/229672/pomegranate-glazed-carrots/",
+  "title": "Pomegranate Glazed Carrots",
+  "description": "Sliced carrots are simmered with orange juice and pomegranate juice for a colorful carrot side dish with a fruity taste.",
+  "authors": [
+    "Katie"
+  ],
+  "date_published": "2018-06-08T10:05:42-04:00",
+  "date_modified": "2018-06-08T10:05:42-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "3 cups peeled, sliced carrots",
+    "salt and ground black pepper to taste",
+    "0.25 cup orange juice",
+    "0.25 cup pomegranate juice"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a skillet over medium heat. Cook and stir carrots in the hot butter until they begin to soften, about 5 minutes; season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir orange juice and pomegranate juice into carrots, bring to a simmer, and reduce heat to low. Simmer carrots until tender, stirring occasionally, 10 to 12 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "80 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "84 mg",
+    "sugarContent": "8 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qy9Bd3a-UXmIIJOfcxaRlQzC8tY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4086144-cb7a236a01dd4f85bcdb39860ae05cd1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229672/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

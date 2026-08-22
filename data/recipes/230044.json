@@ -1,0 +1,84 @@
+{
+  "id": "230044",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230044/lemon-glazed-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/230044/lemon-glazed-carrots/",
+  "title": "Lemon-Glazed Carrots",
+  "description": "Carrots are pan-fried in a sweet lemony glaze creating a quick and easy side dish.",
+  "authors": [
+    "REBECCARIVINIUS"
+  ],
+  "date_published": "2020-03-05T00:09:52-05:00",
+  "date_modified": "2026-05-08T10:23:42-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 serving"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 carrots, sliced 1/4-inch thick",
+    "1 tablespoon butter",
+    "1 tablespoon brown sugar",
+    "1 teaspoon lemon juice",
+    "1 pinch salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place carrots into a large pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until carrots are tender, about 8 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat butter in a skillet over medium heat; cook and stir carrots, brown sugar, and lemon juice in the melted butter, stirring often, until sugar has dissolved, 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "102 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "85 mg",
+    "sugarContent": "10 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/b8wnfUZ-vT_TfIxmPNZT5vvAM7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5418732-lemon-glazed-carrots-lutzflcat-4x3-1-ccb546079e18470dae9f1be08296fcce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230044/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

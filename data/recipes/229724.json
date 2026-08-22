@@ -1,0 +1,71 @@
+{
+  "id": "229724",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229724/orange-mocha/",
+  "requested_url": "https://www.allrecipes.com/recipe/229724/orange-mocha/",
+  "title": "Orange Mocha",
+  "description": "Add some sweet citrus to your coffee drink through the introduction of orange juice.",
+  "authors": [
+    "Pigslop123"
+  ],
+  "date_published": "2020-06-25T02:30:56-04:00",
+  "date_modified": "2022-09-25T23:36:08-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup brewed coffee",
+    "2 tablespoons orange juice",
+    "2 tablespoons milk",
+    "1 tablespoon white sugar",
+    "1 tablespoon unsweetened cocoa powder"
+  ],
+  "steps": [
+    {
+      "text": "Stir coffee, orange juice, milk, sugar, and cocoa powder together in a mug until the sugar and cocoa dissolve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "92 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "19 mg",
+    "sugarContent": "17 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FuQ4oy5jdvrYUJHJmBJFQaG2lLM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/939576-98ca63f458c043c297dfc2c4193f0ac5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229724/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

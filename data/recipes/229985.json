@@ -1,0 +1,77 @@
+{
+  "id": "229985",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229985/cranberry-relish/",
+  "requested_url": "https://www.allrecipes.com/recipe/229985/cranberry-relish/",
+  "title": "Cranberry Relish",
+  "description": "This cranberry relish is given an extra boost with the use of fresh apples, pears, oranges, and lemons (not to mention a little bit of brandy).",
+  "authors": [
+    "speedrat330"
+  ],
+  "date_published": "2020-06-18T23:52:11-04:00",
+  "date_modified": "2022-09-26T15:54:37-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT1460M",
+  "yield": [
+    "40"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds fresh cranberries",
+    "2 pears - peeled, cored, and quartered",
+    "2 Granny Smith apples - peeled, cored, and quartered",
+    "2 oranges - zested, peeled, and segmented",
+    "2 lemons - zested, peeled, and segmented",
+    "0.75 cup white sugar",
+    "0.25 cup brandy",
+    "0.25 cup cranberry juice"
+  ],
+  "steps": [
+    {
+      "text": "Combine cranberries, pears, apples, oranges, and lemons in a food processor; grind to a fine consistency. Transfer to a large glass bowl. Stir sugar, orange zest, and lemon zest into the fruit mixture. Add brandy and cranberry juice; stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover bowl with plastic wrap and refrigerate for at least 24 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "35 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "6 g",
+    "servingSize": "2 1/2 pints",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-OerxAQqISO7PHBU24TJzF_MegE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/949439-c721a56f2e3649a39ea37c64ecf6389f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229985/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

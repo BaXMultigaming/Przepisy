@@ -1,0 +1,81 @@
+{
+  "id": "229225",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229225/apple-pear-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/229225/apple-pear-sauce/",
+  "title": "Apple Pear Sauce",
+  "description": "Apples and pears are simmered with vanilla extract and blended into a smooth sauce. Serve with warm biscuits or scones for a sweet topping.",
+  "authors": [
+    "Katie Sechrist"
+  ],
+  "date_published": "2019-04-03T23:53:43-04:00",
+  "date_modified": "2026-05-11T18:49:59-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 pears, cut into chunks",
+    "3 apples, cut into chunks",
+    "0.5 cup water",
+    "1 teaspoon vanilla extract",
+    "0.25 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Heat a skillet over medium heat; add pears, apples, water, and vanilla extract to the hot skillet. Cover and simmer fruit mixture for 10 minutes; remove lid and cook until most of liquid is evaporated and fruit is softened, 10 to 15 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove skillet from heat and transfer fruit mixture and any remaining liquid to a food processor. Process until smooth; stir in cinnamon. Serve warm or refrigerate up to 4 days.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "77 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "4 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "14 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "51"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/voVaaHR6Er4butDzSM91g_dtV-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229225apple-pear-sauceFranceC4x3-ec7158eab1d64b6b9834d96cc19ddd65.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229225/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

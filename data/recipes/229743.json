@@ -1,0 +1,88 @@
+{
+  "id": "229743",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229743/pecan-pie-pancake-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/229743/pecan-pie-pancake-syrup/",
+  "title": "Pecan Pie Pancake Syrup",
+  "description": "Pecan pie-inspired syrup is a rich and tasty way to dress up your pancake breakfast. Serve with whipped cream for an added indulgence.",
+  "authors": [
+    "RonSmith"
+  ],
+  "date_published": "2020-06-18T23:51:57-04:00",
+  "date_modified": "2022-01-14T02:16:28-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup water",
+    "0.5 cup white sugar",
+    "0.5 cup brown sugar",
+    "0.25 teaspoon salt",
+    "3 tablespoons butter",
+    "2 eggs",
+    "1 tablespoon vanilla extract",
+    "0.5 cup chopped pecans"
+  ],
+  "steps": [
+    {
+      "text": "Heat water in a saucepan over medium-low heat; cook and stir white sugar into hot water until dissolved, about 5 minutes. Stir brown sugar and salt into the sugar mixture until dissolved; stir in butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk eggs and vanilla together in a bowl until smooth; stir 2 to 3 tablespoons hot sugar mixture into eggs, 1 tablespoon at a time, to slowly bring eggs up to temperature without cooking them. Slowly stir egg mixture into saucepan of sugar mixture. Fold in pecans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Increase temperature to medium heat; cook and stir mixture until thickened and bubbling, about 5 minutes. Reduce heat to low before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "208 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "58 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "125 mg",
+    "sugarContent": "26 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/U321kmy09c-ik5rUmCOoY-_cld0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1614568-551efe38dda542188a74103ccd99424d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229743/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

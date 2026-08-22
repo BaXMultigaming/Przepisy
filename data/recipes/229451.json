@@ -1,0 +1,110 @@
+{
+  "id": "229451",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229451/beef-and-beet-borscht/",
+  "requested_url": "https://www.allrecipes.com/recipe/229451/beef-and-beet-borscht/",
+  "title": "Beef and Beet Borscht",
+  "description": "This beef borscht is Chef John&#39;s version of the Russian and Polish soup with beets and cabbage simmered in a homemade broth made from bone-in shank.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-10-04T14:13:09-04:00",
+  "date_modified": "2026-04-22T21:21:09-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT285M",
+  "total_time": "PT305M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Russian",
+    "Eastern European"
+  ],
+  "regions": [
+    "Russian",
+    "Eastern European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (1 inch thick) slice bone-in beef shank",
+    "3 quarts water",
+    "1 onion, chopped",
+    "1 cup chopped carrots",
+    "0.5 cup chopped celery",
+    "1 bay leaf",
+    "3 cups diced peeled beets",
+    "2 cups chopped cabbage",
+    "0.25 cup white vinegar, or to taste",
+    "salt and ground black pepper to taste",
+    "1 cup sour cream, for garnish",
+    "2 tablespoons chopped fresh dill, for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Cook beef shank in a large soup pot over high heat until browned, about 3 minutes per side. Add water, onion, carrots, celery, and bay leaf; bring to a simmer and cook until meat is tender and falling off the bone, about 4 hours. Strain broth and discard solids.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine beef broth, beets, and cabbage in the same pot; cook, stirring occasionally, until beets are tender, about 30 minutes. Reduce heat to low; add vinegar, salt, and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve soup in bowls garnished with sour cream and dill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/9Roil-q3fZMLq0D7SBZYevA4KOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4468945-a93b224b95c545b98dda9e18c361d8a4.jpg"
+      ],
+      "image": "assets/images/229451/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "96 mg",
+    "sugarContent": "6 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "86"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/XxKCvSIb-ma1DlVvV.mp4",
+    "description": "0064",
+    "duration": "PT4M24S",
+    "name": "Chef John’s Beef Borscht",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/XxKCvSIb/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T11:57:03-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9Roil-q3fZMLq0D7SBZYevA4KOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4468945-a93b224b95c545b98dda9e18c361d8a4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229451/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/229451/step_03.webp"
+    ]
+  }
+}

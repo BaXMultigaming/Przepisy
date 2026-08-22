@@ -1,0 +1,84 @@
+{
+  "id": "230024",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230024/amazing-whipped-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/230024/amazing-whipped-potatoes/",
+  "title": "Amazing Whipped Potatoes",
+  "description": "These whipped potatoes with butter, cream cheese, and sour cream are deliciously rich and fluffy — the perfect potato side dish to complete any meal.",
+  "authors": [
+    "AmyBoul"
+  ],
+  "date_published": "2018-06-08T10:05:59-04:00",
+  "date_modified": "2026-04-15T05:39:00-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 pounds yellow potatoes, peeled and cut into 1/2-inch cubs",
+    "0.25 cup butter at room temperature",
+    "0.25 cup cream cheese at room temperature",
+    "0.5 cup warm milk, or more as needed",
+    "1 tablespoon sour cream",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes; drain and transfer to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add butter and cream cheese to potatoes; beat with an electric mixer until butter is nearly melted. Add milk and sour cream; continue to beat until smooth. Season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "69 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aujfJqRDY4rVeiNJpQqtGeg8c-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2415474-07150c250fdf464ba80b4227815ac8ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230024/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "229629",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229629/buttermilk-oatmeal-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/229629/buttermilk-oatmeal-pancakes/",
+  "title": "Buttermilk Oatmeal Pancakes",
+  "description": "Cornmeal gives these hearty oatmeal pancakes a crisp texture. Serve it with berries and maple syrup.",
+  "authors": [
+    "Shannon McLane"
+  ],
+  "date_published": "2020-06-18T23:51:49-04:00",
+  "date_modified": "2026-06-19T17:58:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups buttermilk",
+    "1.5 cups rolled oats",
+    "0.5 cup all-purpose flour",
+    "0.5 cup cornmeal",
+    "2 teaspoons baking powder",
+    "1.5 teaspoons white sugar",
+    "0.5 teaspoon baking soda",
+    "0.5 teaspoon salt",
+    "2 eggs, beaten",
+    "0.25 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Mix buttermilk and oats in a large bowl; allow to rest about 5 minutes. Stir flour, cornmeal, baking powder, sugar, baking soda, and salt into oat mixture. Add eggs and vegetable oil; mix until just combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle; cook until bubbles form and the edges are dry, about 3 minutes. Flip and cook until browned on the other side, about 3 minutes more. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "448 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "98 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "859 mg",
+    "sugarContent": "8 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "129"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aoS-eXydgt4iV712KcfYAXo93TQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2887547-buttermilk-oatmeal-pancakes-Noah-WS-4x3-1-8a43ad85744e43fb855018c74ae4943c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229629/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

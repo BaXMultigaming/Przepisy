@@ -1,0 +1,103 @@
+{
+  "id": "230048",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230048/chef-johns-ranch-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/230048/chef-johns-ranch-dressing/",
+  "title": "Chef John&#39;s Ranch Dressing",
+  "description": "Ranch dressing is quick and easy to make at home. Just combine mayonnaise, sour cream, buttermilk, and herbs for a thick and creamy salad topping.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2018-06-08T10:06:01-04:00",
+  "date_modified": "2026-05-06T11:11:06-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1.3333333730698 cups mayonnaise",
+    "0.33333334326744 cup sour cream",
+    "0.33333334326744 cup buttermilk",
+    "1 tablespoon minced fresh Italian parsley",
+    "2 teaspoons sliced fresh chives",
+    "0.5 teaspoon dried dill weed",
+    "0.25 teaspoon dried tarragon",
+    "0.25 teaspoon garlic powder",
+    "0.25 teaspoon onion powder",
+    "0.25 teaspoon freshly ground black pepper",
+    "1 pinch cayenne pepper",
+    "1 pinch salt",
+    "2 drops Worcestershire sauce"
+  ],
+  "steps": [
+    {
+      "text": "Combine mayonnaise, sour cream, and buttermilk in a large bowl. Stir in parsley, chives, dill, tarragon, garlic powder, onion powder, black pepper, cayenne pepper, salt, and Worcestershire sauce until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and refrigerate for 4 hours to overnight. Season with salt and black pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BMDJNvNKz0D2afHgltY7wpdFP2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2251745-chef-johns-ranch-dressing-Sherri-1x1-1-febdaa1b1ea14f3e8732e5dfd4595671.jpg"
+      ],
+      "image": "assets/images/230048/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "9 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "114 mg",
+    "sugarContent": "1 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "171"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/PBVLczJI-ma1DlVvV.mp4",
+    "description": "0046",
+    "duration": "PT4M9S",
+    "name": "Chef John's Ranch Dressing",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/PBVLczJI/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T06:46:57-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BMDJNvNKz0D2afHgltY7wpdFP2I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2251745-chef-johns-ranch-dressing-Sherri-1x1-1-febdaa1b1ea14f3e8732e5dfd4595671.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230048/hero.webp",
+    "steps": [
+      null,
+      "assets/images/230048/step_02.webp"
+    ]
+  }
+}

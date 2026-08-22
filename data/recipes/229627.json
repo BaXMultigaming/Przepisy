@@ -1,0 +1,85 @@
+{
+  "id": "229627",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229627/chic-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/229627/chic-green-beans/",
+  "title": "Chic Green Beans",
+  "description": "Green beans and mushrooms are cooked in butter in this quick and easy side dish. Sliced almonds add a nutty crunch.",
+  "authors": [
+    "Luv2Eat"
+  ],
+  "date_published": "2012-10-16T19:00:24-04:00",
+  "date_modified": "2025-02-27T11:18:48-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound fresh green beans, trimmed",
+    "2 tablespoons butter",
+    "0.5 cup sliced mushrooms",
+    "0.25 cup sliced almonds",
+    "1 pinch garlic salt, or to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a pot water to a boil; add green beans and cook until just tender, 6 to 8 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, melt butter in a skillet over medium heat. Cook and stir mushrooms and almonds until tender, about 3 minutes; stir in green beans. Season with garlic salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "142 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "170 mg",
+    "sugarContent": "2 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/X3JW7XmGbnJPkCseYWkxwOjdOT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/956213-befbe357b64241698a6677e48865c736.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229627/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

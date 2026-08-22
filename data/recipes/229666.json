@@ -1,0 +1,82 @@
+{
+  "id": "229666",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229666/fresh-banana-daiquiri/",
+  "requested_url": "https://www.allrecipes.com/recipe/229666/fresh-banana-daiquiri/",
+  "title": "Fresh Banana Daiquiri",
+  "description": "This banana daiquiri recipe is a nice twist on the usual strawberry version. Blend up a tropical cocktail with lime juice, light rum, and banana.",
+  "authors": [
+    "Patrick Washburn"
+  ],
+  "date_published": "2020-06-18T23:51:52-04:00",
+  "date_modified": "2022-11-15T15:03:15-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Cuban"
+  ],
+  "regions": [
+    "Cuban"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 large banana, sliced",
+    "1.5 fluid ounces light rum",
+    "1 fluid ounce fresh lime juice",
+    "0.5 fluid ounce triple sec",
+    "1 teaspoon white sugar, or to taste",
+    "1 cup ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Combine banana, rum, lime juice, triple sec, and sugar in a blender; purée until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add ice cubes and blend on the highest setting until slushy, 15 to 20 seconds. Pour into a glass and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "234 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "19 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Fne4ygl-0g7ZhxDaCtR9WQIyIiU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8073879-2b260ba956d34caebe64bf139129a3e0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229666/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
