@@ -1,0 +1,115 @@
+{
+  "id": "220111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220111/seafood-creole/",
+  "requested_url": "https://www.allrecipes.com/recipe/220111/seafood-creole/",
+  "title": "Seafood Creole",
+  "description": "Delectable chunks of fish, rock shrimp, and scallops bask in a spicy Creole sauce. This would go great with hot cooked rice, garlic bread, a green salad, and a glass of good white wine.",
+  "authors": [
+    "Plain ole Bob"
+  ],
+  "date_published": "2020-06-18T23:47:24-04:00",
+  "date_modified": "2026-04-17T14:19:29-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT40M",
+  "total_time": "PT70M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Creole"
+  ],
+  "regions": [
+    "Creole"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 teaspoon dried oregano",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground white pepper",
+    "0.5 teaspoon ground black pepper",
+    "0.5 teaspoon cayenne pepper",
+    "0.5 teaspoon dried thyme leaves",
+    "0.5 teaspoon dried sweet basil",
+    "0.25 cup butter",
+    "1 cup peeled chopped tomato",
+    "0.75 cup chopped onion",
+    "0.75 cup chopped celery",
+    "0.75 cup chopped green bell pepper",
+    "1.5 teaspoons minced garlic",
+    "1.25 cups chicken stock",
+    "1 cup canned tomato sauce",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon hot pepper sauce (such as Tabasco®)",
+    "2 bay leaves",
+    "1 pound peeled and deveined rock shrimp (thawed if frozen)",
+    "1 pound bay scallops (thawed if frozen)",
+    "1 pound haddock fillets (thawed if frozen) - cut into bite-size pieces"
+  ],
+  "steps": [
+    {
+      "text": "Mix together oregano, salt, white pepper, black pepper, cayenne pepper, thyme, and basil in a small bowl; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large Dutch oven over medium heat; stir in tomato, onion, celery, green bell pepper, and garlic. Cook and stir until the onion is translucent, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in chicken stock, tomato sauce, sugar, hot pepper sauce, and bay leaves. Reduce heat to low and bring sauce to a simmer. Stir in seasoning mix and simmer until the flavors have blended, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gently stir in rock shrimp, bay scallops, and haddock; bring sauce back to a simmer and cook until the shellfish and fish are opaque, about 20 more minutes. Remove bay leaves to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "328 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "224 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "47 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1019 mg",
+    "sugarContent": "5 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "137"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MOCx5_hULW6IHwvFXCiJH3rri34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7168622-seafood-creole-coggsley-4x3-1-5e60899ee9ea402096f26aa974b1b170.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220111/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

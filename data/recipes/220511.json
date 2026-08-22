@@ -1,0 +1,109 @@
+{
+  "id": "220511",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220511/creamy-reuben-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/220511/creamy-reuben-soup/",
+  "title": "Creamy Reuben Soup",
+  "description": "This Reuben chowder has all the ingredients of the traditional sandwich combined with half-and-half to make a creamy soup topped with rye croutons.",
+  "authors": [
+    "Shannon Felgner"
+  ],
+  "date_published": "2020-06-18T23:47:51-04:00",
+  "date_modified": "2026-06-19T22:25:59-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT50M",
+  "total_time": "PT70M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large onion, chopped",
+    "4 stalks celery, chopped",
+    "1 red bell pepper, chopped",
+    "1 cup butter",
+    "2 cloves garlic, minced",
+    "0.5 teaspoon dried tarragon",
+    "0.5 teaspoon caraway seeds",
+    "0.5 cup all-purpose flour",
+    "4 cups beef stock",
+    "1 quart half-and-half",
+    "1 pound cooked corned beef, chopped",
+    "1 cup sauerkraut",
+    "1 teaspoon seasoned salt (such as Spice Islands® Beau Monde Seasoning)",
+    "freshly ground black pepper to taste",
+    "2.5 cups shredded Swiss cheese, divided",
+    "1 (6 ounce) package rye croutons"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large stockpot over medium heat. Cook and stir onion, celery, red bell pepper, butter, garlic, tarragon, and caraway seeds in the hot stockpot until vegetables are tender, 6 to 8 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slowly stir flour into vegetable mixture. Cook, stirring constantly, over low heat until flour is lightly browned, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in beef stock, half-and-half, corned beef, sauerkraut, seasoned salt, and black pepper. Reduce heat to low and simmer until soup is heated through and slightly thickened, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir 2 cups Swiss cheese into soup until melted. Ladle soup into individual bowls and top with rye croutons and remaining 1/2 cup Swiss cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "590 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "142 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "26 g",
+    "sodiumContent": "1005 mg",
+    "sugarContent": "3 g",
+    "fatContent": "43 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8L_7APHiom7eAxuZLdwB68mps8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/968262-c338bbda872b4e57851a3df48cbf2b39.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220511/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

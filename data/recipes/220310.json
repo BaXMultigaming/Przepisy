@@ -1,0 +1,67 @@
+{
+  "id": "220310",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220310/simple-coffee-drink/",
+  "requested_url": "https://www.allrecipes.com/recipe/220310/simple-coffee-drink/",
+  "title": "Simple Coffee Drink",
+  "description": "Leftover coffee becomes a refreshing and sweet drink with the addition of milk and sweetener.",
+  "authors": [
+    "marko1995"
+  ],
+  "date_published": "2017-05-06T09:00:46-04:00",
+  "date_modified": "2022-10-07T13:40:08-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "0.5 cup cold brewed coffee",
+    "2 (1 gram) packets granular sucralose sweetener (such as Splenda®)"
+  ],
+  "steps": [
+    {
+      "text": "Mix milk, coffee, and sweetener together in a glass until sweetener is dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "124 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "20 mg",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "102 mg",
+    "sugarContent": "11 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DWDHIUUGevQhZ55c6EnnPEAth1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3588740-ee75ca7b976147bd973bdcbb4510c71a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220310/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

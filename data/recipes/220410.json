@@ -1,0 +1,78 @@
+{
+  "id": "220410",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220410/mocha-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/220410/mocha-frosting/",
+  "title": "Mocha Frosting",
+  "description": "Delicious mellow coffee flavor from the use of instant coffee powder makes this frosting a favorite on chocolate cake.",
+  "authors": [
+    "Samantha"
+  ],
+  "date_published": "2019-04-02T02:56:26-04:00",
+  "date_modified": "2022-09-23T14:49:19-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons warm milk",
+    "0.5 teaspoon instant coffee powder",
+    "1 (16 ounce) package confectioners' sugar",
+    "6 tablespoons butter, melted",
+    "0.25 cup unsweetened cocoa powder",
+    "1.5 teaspoons vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Stir warm milk and coffee powder in large bowl until the coffee dissolves completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk confectioners' sugar, melted butter, cocoa powder, and vanilla extract into the milk mixture until no clumps remain and you have a smooth frosting.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "32 mg",
+    "sugarContent": "28 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rW_QIlmz9LKNbSmq9ji0ULvVVeo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/884449-0fda187cb66e489c9b475b577d5cef53.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220410/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

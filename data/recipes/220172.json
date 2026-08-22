@@ -1,0 +1,90 @@
+{
+  "id": "220172",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220172/kale-orange-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/220172/kale-orange-banana-smoothie/",
+  "title": "Kale Orange Banana Smoothie",
+  "description": "A fresh orange, a pair of ripe bananas, and a kale leaf are blended into a pudding-like smoothie for a wholesome breakfast drink.",
+  "authors": [
+    "Georgina"
+  ],
+  "date_published": "2019-04-03T23:51:39-04:00",
+  "date_modified": "2026-04-24T12:16:23-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Breakfast",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 orange, peeled",
+    "0.5 cup water",
+    "1 leaf kale, torn into several pieces",
+    "2 ripe bananas, peeled"
+  ],
+  "steps": [
+    {
+      "text": "Blend orange in a blender until mostly juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add water and kale; blend again on High speed until kale is liquefied.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Break bananas into chunks and add to the blender. Start blending at a lower speed until banana is incorporated. Increase speed to blend the mixture into a pudding-like texture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "220 kcal",
+    "carbohydrateContent": "56 g",
+    "fiberContent": "7 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "29 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "53"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HGbTslLAveG4MAa51SymGXgQM0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/818330-d77f49b3e23941ad928c97e003c8b86f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220172/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

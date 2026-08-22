@@ -1,0 +1,93 @@
+{
+  "id": "220123",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220123/black-bean-breakfast-bowl/",
+  "requested_url": "https://www.allrecipes.com/recipe/220123/black-bean-breakfast-bowl/",
+  "title": "Black Bean Breakfast Bowl",
+  "description": "This quick and easy breakfast is loaded with protein and flavor from layers of black beans, scrambled eggs, avocado, and salsa.",
+  "authors": [
+    "Allrecipes Member"
+  ],
+  "date_published": "2018-06-08T10:00:09-04:00",
+  "date_modified": "2026-03-25T10:11:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "4 eggs, beaten",
+    "1 (15 ounce) can black beans, drained and rinsed",
+    "1 avocado, peeled and sliced",
+    "0.25 cup salsa",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a small skillet over medium heat. Pour eggs into skillet; cook and stir eggs until set, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place black beans in a microwave-safe bowl. Microwave at High power until warm, about 1 minute. Divide between two bowls.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide scrambled eggs between each bowl; top each with avocado and salsa, then season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "625 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "372 mg",
+    "fiberContent": "22 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1158 mg",
+    "sugarContent": "2 g",
+    "fatContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "135"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/V6hqhkBd6gxNuygQfOhJ0dJxMCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5437904-8d54d81d509d489c959e371bd7b6fc99.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220123/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

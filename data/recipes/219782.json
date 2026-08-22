@@ -1,0 +1,98 @@
+{
+  "id": "219782",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/219782/meadowwood-tapioca-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/219782/meadowwood-tapioca-pudding/",
+  "title": "Meadowwood Tapioca Pudding",
+  "description": "Use your slow cooker to make a batch of comforting, warming tapioca pudding. The creamy vanilla pudding is great warm or cold, with whipped cream or a handful of fresh berries.",
+  "authors": [
+    "Meadowwood"
+  ],
+  "date_published": "2020-06-18T23:47:07-04:00",
+  "date_modified": "2020-06-18T23:47:07-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT150M",
+  "total_time": "PT165M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups whole milk",
+    "0.66666668653488 cup white sugar",
+    "2 teaspoons vanilla extract",
+    "0.5 teaspoon salt",
+    "0.5 cup small tapioca pearls",
+    "3 egg yolks"
+  ],
+  "steps": [
+    {
+      "text": "Whisk the milk, sugar, vanilla extract, salt, and tapioca pearls in a slow cooker until the sugar has dissolved. Turn the cooker to high setting, cover with lid, and cook for 2 hours. (If preferred, set on low setting and cook for 4 hours. Stir pudding occasionally during cooking.)",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place egg yolks into a bowl, and whisk until smooth. Mix about 1 tablespoon of the hot pudding into the egg yolks until thoroughly combined; continue gradually mixing hot tapioca pudding into the egg yolks, slowly increasing the amount of pudding mixed in, until the yolks and pudding total about 2 cups. Slowly pour the yolk mixture into the pudding in the slow cooker until blended, whisking constantly until the egg yolks have thickened the pudding, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place lid back on the cooker, and continue cooking until the pudding is your desired degree of thickness, on high setting for about 30 more minutes (or low setting for 1 more hour).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3ZRGQArC1P08Tcq86_Adr4NebCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/772457-a698e67c579e45e1bab41e0af6720ced.jpg"
+      ],
+      "image": "assets/images/219782/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "190 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "89 mg",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "198 mg",
+    "sugarContent": "22 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "37"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/OGPok1E6-ma1DlVvV.mp4",
+    "description": "Meadowwood Tapioca Pudding",
+    "duration": "PT3M29S",
+    "name": "Meadowwood Tapioca Pudding",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/OGPok1E6/poster.jpg?width=1280",
+    "uploadDate": "2021-07-29T06:07:27-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3ZRGQArC1P08Tcq86_Adr4NebCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/772457-a698e67c579e45e1bab41e0af6720ced.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/219782/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/219782/step_03.webp"
+    ]
+  }
+}

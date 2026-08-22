@@ -1,0 +1,83 @@
+{
+  "id": "220604",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220604/raw-pasta-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/220604/raw-pasta-sauce/",
+  "title": "Raw Pasta Sauce",
+  "description": "This raw pasta sauce is packed with nutrient-rich vegetables and is super easy to prepare. Serve over uncooked spaghetti squash.",
+  "authors": [
+    "Bekah Pellegrino"
+  ],
+  "date_published": "2020-01-19T08:50:03-05:00",
+  "date_modified": "2020-01-19T08:50:03-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT50M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tomatoes, chopped",
+    "0.25 cup chopped green bell pepper",
+    "0.25 cup chopped onion",
+    "1.5 teaspoons lime juice",
+    "1 clove garlic, minced",
+    "0.125 teaspoon sea salt",
+    "0.125 teaspoon dried oregano",
+    "0.125 teaspoon dried rosemary"
+  ],
+  "steps": [
+    {
+      "text": "Puree tomatoes, including seeds and juice, in a food processor or blender. Transfer to a lidded 2-cup container.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir green bell pepper, onion, lime juice, garlic, sea salt, oregano, and rosemary into pureed tomatoes. Place lid on container and refrigerate at least 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "38 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "118 mg",
+    "sugarContent": "5 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/g-9RBrt2ON4rcBuaWwm3UZOWmto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5177524-114696cd46754a0295c6fab4365b7ccd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220604/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

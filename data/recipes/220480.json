@@ -1,0 +1,115 @@
+{
+  "id": "220480",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220480/adams-apple-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/220480/adams-apple-cake/",
+  "title": "Adam&#39;s Apple Cake",
+  "description": "Adam&#39;s apple cake recipe is simple to make yet incredibly flavorful, and it only requires apples, basic pantry ingredients, and a 9x13-inch baking pan.",
+  "authors": [
+    "akipust"
+  ],
+  "date_published": "2020-06-18T23:47:50-04:00",
+  "date_modified": "2025-10-29T21:14:21-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT60M",
+  "total_time": "PT145M",
+  "yield": [
+    "12",
+    "1 (9x13-inch) cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "cooking spray",
+    "3 cups all-purpose flour",
+    "2 cups white sugar",
+    "1 teaspoon salt",
+    "1 teaspoon ground cinnamon",
+    "0.5 teaspoon baking soda",
+    "1.25 cups vegetable oil",
+    "3 eggs",
+    "1 teaspoon vanilla extract",
+    "4 apples - peeled, cored and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Coat a 9x13-inch baking pan with cooking spray.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk flour, sugar, salt, cinnamon, and baking soda together in a large bowl. Whisk oil, eggs, and vanilla extract together in a separate bowl; stir into flour mixture until combined. Fold in chopped apples until just combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour batter into the prepared baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a toothpick inserted into center comes out clean, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/73MO73EpyLnlXBTIGdf4uJ1eiiw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4584616-572473d4a4f545d6a5feedf063b078d0.jpg"
+      ],
+      "image": "assets/images/220480/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "487 kcal",
+    "carbohydrateContent": "64 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "265 mg",
+    "sugarContent": "38 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "139"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RVLbjmrD-ma1DlVvV.mp4",
+    "description": "Meet 10 year-old baker, Adam, and see how to make his favorite recipe.",
+    "duration": "PT2M52S",
+    "name": "Adam's Apple Cake",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RVLbjmrD/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T12:45:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/73MO73EpyLnlXBTIGdf4uJ1eiiw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4584616-572473d4a4f545d6a5feedf063b078d0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220480/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/220480/step_04.webp"
+    ]
+  }
+}

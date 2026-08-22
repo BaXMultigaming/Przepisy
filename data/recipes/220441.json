@@ -1,0 +1,111 @@
+{
+  "id": "220441",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220441/grilled-asian-asparagus/",
+  "requested_url": "https://www.allrecipes.com/recipe/220441/grilled-asian-asparagus/",
+  "title": "Grilled Asian Asparagus",
+  "description": "Asparagus spears are marinated in hoisin sauce, then grilled to smoky perfection and sprinkled with sesame seeds for an Asian-inspired side dish.",
+  "authors": [
+    "yorkc39"
+  ],
+  "date_published": "2019-04-02T02:56:27-04:00",
+  "date_modified": "2025-01-31T23:54:27-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT40M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Asian Inspired",
+    "Asian"
+  ],
+  "regions": [
+    "Asian Inspired",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound fresh asparagus, trimmed",
+    "0.5 cup hoisin sauce",
+    "sesame seeds"
+  ],
+  "steps": [
+    {
+      "text": "Place asparagus and hoisin sauce into a resealable plastic bag and shake several times to coat asparagus with sauce. Allow to stand at least 30 minutes. For best flavor, refrigerate and marinate overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove asparagus from bag and shake off excess hoisin sauce; lay asparagus spears onto the grill and cook, turning every 1 to 2 minutes, until all sides of the spears show grill marks and hoisin sauce has caramelized onto the asparagus, 4 to 6 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer asparagus to a serving platter and sprinkle with sesame seeds to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/AabPdl7UmVQO9fLagmZ5INGje1Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/817349-grilled-asian-asparagus-photo-by-Baking-Nana-3eae2f755dc844f3838fc08ca2ff4d50.jpg"
+      ],
+      "image": "assets/images/220441/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "412 mg",
+    "sugarContent": "9 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "34"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/adt4dgdZ-K3AjnAEN.mp4",
+    "description": "A super-simple Asian-inspired marinade makes grilled asparagus special.",
+    "duration": "PT2M3S",
+    "name": "Grilled Asian Asparagus",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/adt4dgdZ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T21:48:44-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AabPdl7UmVQO9fLagmZ5INGje1Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/817349-grilled-asian-asparagus-photo-by-Baking-Nana-3eae2f755dc844f3838fc08ca2ff4d50.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220441/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/220441/step_04.webp"
+    ]
+  }
+}
