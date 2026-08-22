@@ -1,0 +1,82 @@
+{
+  "id": "237536",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237536/steamed-broccoli/",
+  "requested_url": "https://www.allrecipes.com/recipe/237536/steamed-broccoli/",
+  "title": "Steamed Broccoli",
+  "description": "Steamed broccoli mixed with crispy cooked bacon and butter is a tasty side dish that is quick and easy to prepare any night of the week.",
+  "authors": [
+    "hcir614"
+  ],
+  "date_published": "2019-04-03T02:31:26-04:00",
+  "date_modified": "2026-05-23T17:53:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 head broccoli, cut into florets",
+    "1 slice cooked bacon, chopped",
+    "1 tablespoon butter",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add broccoli, cover, and steam until tender, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix steamed broccoli, bacon, butter, salt, and pepper together in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "143 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "219 mg",
+    "sugarContent": "3 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eoNMApqgqrSQLiqAcMS3ndfxEGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2256209-steamed-broccoli-Rock_lobster-4x3-1-8dc9d131d3174e2da8da41f6c3be8bf0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237536/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

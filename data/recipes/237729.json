@@ -1,0 +1,78 @@
+{
+  "id": "237729",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237729/coconut-oil-coffee/",
+  "requested_url": "https://www.allrecipes.com/recipe/237729/coconut-oil-coffee/",
+  "title": "Coconut Oil Coffee",
+  "description": "Start your morning off right with this mind-blowing recipe for hot coffee with coconut oil and butter.",
+  "authors": [
+    "The Gruntled Gourmand"
+  ],
+  "date_published": "2014-05-16T18:36:43-04:00",
+  "date_modified": "2022-12-26T17:48:23-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups hot coffee",
+    "2 tablespoons coconut oil",
+    "2 tablespoons unsalted butter"
+  ],
+  "steps": [
+    {
+      "text": "Blend coffee, coconut oil, and butter together in a blender until oil and butter are melted and coffee is frothy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/m8bnUJWVN3yNjLPTK22JiZ8PFdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3542130-coconut-oil-coffee-Paula-1x1-1-4c1f7e6b874c41d58d4fa7708937b52e.jpg"
+      ],
+      "image": "assets/images/237729/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "cholesterolContent": "31 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "6 mg",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "50"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/4ZdLFO6b-K3AjnAEN.mp4",
+    "description": "Coconut oil and butter take freshly brewed coffee into the flavor stratosphere.",
+    "duration": "PT1M4S",
+    "name": "Coconut Oil Coffee",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/4ZdLFO6b/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T03:48:14-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/m8bnUJWVN3yNjLPTK22JiZ8PFdA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3542130-coconut-oil-coffee-Paula-1x1-1-4c1f7e6b874c41d58d4fa7708937b52e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237729/hero.webp",
+    "steps": [
+      "assets/images/237729/step_01.webp"
+    ]
+  }
+}

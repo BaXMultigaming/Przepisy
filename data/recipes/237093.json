@@ -1,0 +1,92 @@
+{
+  "id": "237093",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237093/kiss-keep-it-simple-brussels-sprouts/",
+  "requested_url": "https://www.allrecipes.com/recipe/237093/kiss-keep-it-simple-brussels-sprouts/",
+  "title": "KISS: Keep it Simple (Brussels) Sprouts",
+  "description": "Sauteed brussels sprouts are seasoned with nothing more than salt and pepper and cooked only briefly.",
+  "authors": [
+    "Ruby"
+  ],
+  "date_published": "2017-01-20T10:01:19-05:00",
+  "date_modified": "2026-08-11T08:02:39-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound Brussels sprouts, trimmed and halved lengthwise",
+    "2 tablespoons olive oil",
+    "1 teaspoon kosher salt",
+    "1 teaspoon coarse-ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Put Brussels sprouts in a large bowl. Drizzle olive oil over the sprouts; season with salt and pepper. Toss sprouts to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large skillet over medium heat; cook and stir sprouts in hot skillet until bright green and beginning to brown on edges, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/vvriNGyAQ9e8ASnLVzyQm8aLRfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1128186-41e2889a97154b6abb5f818044b22b63.jpg"
+      ],
+      "image": "assets/images/237093/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "110 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "5 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "509 mg",
+    "sugarContent": "3 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "24"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/dUFvhnln-K3AjnAEN.mp4",
+    "description": "This is a simple preparation that lets the sprouts speak for themselves instead of masking with another flavor. You may be surprised, but if you listen you'll hear them saying 'I am yummy!' Makes a great side with turkey or tempeh.",
+    "duration": "PT57S",
+    "name": "KISS: Keep it Simple (Brussels) Sprouts Recipe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dUFvhnln/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:19:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vvriNGyAQ9e8ASnLVzyQm8aLRfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1128186-41e2889a97154b6abb5f818044b22b63.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237093/hero.webp",
+    "steps": [
+      null,
+      "assets/images/237093/step_02.webp"
+    ]
+  }
+}

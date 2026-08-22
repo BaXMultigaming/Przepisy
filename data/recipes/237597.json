@@ -1,0 +1,69 @@
+{
+  "id": "237597",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237597/basil-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/237597/basil-lemonade/",
+  "title": "Basil Lemonade",
+  "description": "Give your lemonade a refreshing kick by adding fresh basil and a little lime.",
+  "authors": [
+    "Carolyn"
+  ],
+  "date_published": "2020-06-18T23:59:03-04:00",
+  "date_modified": "2022-05-04T12:29:00-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT490M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 cups cold water",
+    "1 (12 ounce) can frozen lemonade concentrate, thawed",
+    "0.33333334326744 cup white sugar",
+    "0.25 cup fresh lime juice",
+    "0.5 cup firmly packed torn basil leaves"
+  ],
+  "steps": [
+    {
+      "text": "Stir water, lemonade, sugar, and lime juice together in a pitcher. Add 1/2 cup basil leaves, stir to combine, cover the pitcher, and refrigerate until flavors combine, 8 hours to overnight. Remove basil leaves and discard.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "89 kcal",
+    "carbohydrateContent": "23 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "22 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kSpwR5K1zmZDIZfCuhmSm5TdNY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131841-4759bfc140a14e15a1df639f6f58c7ef.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237597/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "237240",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237240/chicken-and-olives/",
+  "requested_url": "https://www.allrecipes.com/recipe/237240/chicken-and-olives/",
+  "title": "Chicken and Olives",
+  "description": "The sharp, briny bite of olives pairs perfectly with chicken in Chef John’s recipe for chicken and olives.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-04-02T14:39:04-04:00",
+  "date_modified": "2026-08-11T15:13:11-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "4 boneless chicken breast halves with skin",
+    "salt and ground black pepper to taste",
+    "1 pinch cayenne pepper, or to taste",
+    "2 teaspoons herbes de Provence",
+    "2 tablespoons olive oil",
+    "0.25 cup sliced shallots",
+    "0.5 cup pitted and sliced green olives",
+    "0.5 cup brine-cured pitted olives, such as Kalamata, halved lengthwise and brine reserved",
+    "1 cup chicken broth",
+    "1 lemon, zested and juiced",
+    "0.5 teaspoon cumin",
+    "2 tablespoons chopped fresh flat-leaf parsley",
+    "2 tablespoons cold butter, cut into four pieces"
+  ],
+  "steps": [
+    {
+      "text": "Season skin sides chicken with salt, black pepper, and cayenne pepper; flip and season skinless sides with salt, black pepper, cayenne pepper, and herbes de Provence. Flip again so skin sides facing up; rest 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over high heat. Add chicken skin-side down; reduce heat to medium-high and cook chicken until skin well-browned, about 5 minutes. Flip and cook until just browned, about 2 minutes; transfer to a plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium. Add shallots; cook and stir until just softening and golden brown, about 2 minutes. Stir in olives; cook until fragrant, about 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add chicken broth; bring to a boil while scraping browned bits off bottom of the skillet with a wooden spoon. Add 2 tablespoons reserved olive brine, lemon juice, lemon zest, and cumin; increase heat to high and cook until sauce is reduced by half, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to low; return chicken, skin-side up, to the skillet. Cover the skillet; cook until chicken no longer pink in the center and the juices run clear, about 5 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Transfer chicken to a plate; cover with aluminum foil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir parsley and butter into sauce, stirring constantly, until butter melted and sauce shiny. Spoon sauce over chicken.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YRAnQ1O8P8l0wZk_mgixBT42Shc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2432950-fb2d54bd3a0944b5be064f6c619aee34.jpg"
+      ],
+      "image": "assets/images/237240/step_06.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "642 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "207 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "69 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "901 mg",
+    "sugarContent": "0 g",
+    "fatContent": "37 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "63"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/QF7uktML-ma1DlVvV.mp4",
+    "description": "Moist, tender seared chicken finishes in a savory olive sauce.",
+    "duration": "PT6M56S",
+    "name": "Chef John's Chicken and Olives",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/QF7uktML/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T18:52:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YRAnQ1O8P8l0wZk_mgixBT42Shc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2432950-fb2d54bd3a0944b5be064f6c619aee34.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237240/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      "assets/images/237240/step_06.webp"
+    ]
+  }
+}

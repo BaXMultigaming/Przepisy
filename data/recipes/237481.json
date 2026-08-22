@@ -1,0 +1,73 @@
+{
+  "id": "237481",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237481/tasty-strawberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/237481/tasty-strawberry-smoothie/",
+  "title": "Tasty Strawberry Smoothie",
+  "description": "This quick and easy strawberry smoothie is made with ground oatmeal and flax.",
+  "authors": [
+    "Patricia Gallardo"
+  ],
+  "date_published": "2020-06-18T23:58:59-04:00",
+  "date_modified": "2020-06-18T23:58:59-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (6 ounce) container low-fat strawberry yogurt",
+    "0.75 cup low-fat milk",
+    "0.5 cup frozen strawberries",
+    "0.25 cup ground oats",
+    "1 teaspoon flax seed meal",
+    "0.5 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Blend yogurt, milk, strawberries, oats, flax, and vanilla extract in a blender until smooth, about 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "377 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "189 mg",
+    "sugarContent": "35 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7m_O9jEYt9j23f10zDwBmm2zxKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1128047-3162fe47efce48e7975f6828a9e51e18.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237481/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

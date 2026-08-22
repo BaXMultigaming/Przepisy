@@ -1,0 +1,103 @@
+{
+  "id": "237728",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237728/mascarpone-brulee-with-fresh-berries/",
+  "requested_url": "https://www.allrecipes.com/recipe/237728/mascarpone-brulee-with-fresh-berries/",
+  "title": "Mascarpone Brulee with Fresh Berries",
+  "description": "Shortcake halves are topped with mascarpone brulee and fresh berries, for what Chef John calls &#34;the perfect finish to that early summer dinner.&#34;",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-06-18T23:59:10-04:00",
+  "date_modified": "2020-06-18T23:59:10-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint whole strawberries, stems removed",
+    "0.5 pint fresh blackberries",
+    "0.33333334326744 cup white sugar",
+    "0.5 orange, juiced",
+    "1 (8 ounce) container mascarpone cheese",
+    "1 teaspoon lemon zest",
+    "0.5 teaspoon white sugar",
+    "3 drops vanilla extract, or to taste",
+    "2 shortcakes, halved horizontally",
+    "4 teaspoons white sugar, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Mix strawberries, blackberries, 1/3 cup sugar, and orange juice together in a bowl. Cover the bowl with plastic wrap and refrigerate, 2 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir mascarpone cheese, lemon zest, 1/2 teaspoon sugar, and vanilla extract together in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread mascarpone mixture over the top of each shortcake half; sprinkle about 1 teaspoon sugar over the top to cover. Caramelize the sugar using a kitchen torch, 20 to 30 seconds per shortcake. Place each shortcake in a shallow bowl and surround with berries and accumulated juices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RzwV49G_renydBZcFoRRlAUAb_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2730482-1ab3c6a3b9f64859af5d96a80ec66bcd.jpg"
+      ],
+      "image": "assets/images/237728/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "486 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "71 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "196 mg",
+    "sugarContent": "28 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/CLufdbpf-ma1DlVvV.mp4",
+    "description": "See how to make a simple but impressive summer fruit dessert.",
+    "duration": "PT5M29S",
+    "name": "Mascarpone Brulee with Fresh Berries",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/CLufdbpf/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T10:18:07-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RzwV49G_renydBZcFoRRlAUAb_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2730482-1ab3c6a3b9f64859af5d96a80ec66bcd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237728/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/237728/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "237000",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237000/green-power-mojito-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/237000/green-power-mojito-smoothie/",
+  "title": "Green Power Smoothie",
+  "description": "Spinach, pineapple, banana, and fresh mint leaves are blended with ice to create this delicious and refreshing green smoothie.",
+  "authors": [
+    "Patricia Cooper"
+  ],
+  "date_published": "2020-06-18T23:58:25-04:00",
+  "date_modified": "2024-07-08T11:33:43-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups ice cubes, or as desired",
+    "2 cups baby spinach leaves, or to taste",
+    "1 (7 ounce) can crushed pineapple",
+    "0.5 cup water, or to taste",
+    "1 banana, broken into chunks",
+    "1 orange, peeled and segmented",
+    "10 fresh mint leaves, or more to taste",
+    "1 lemon, juiced",
+    "1 lime, juiced"
+  ],
+  "steps": [
+    {
+      "text": "Blend ice, spinach, pineapple, water, banana, orange, mint, lemon juice, and lime juice in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Sp3CdleseYKmESb2kA5q0dXrGFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237000-green-power-mojito-smoothie-Yoly-4x3-c3eff42886e34dcdbc9ed5ae6412a784.jpg"
+      ],
+      "image": "assets/images/237000/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "94 kcal",
+    "carbohydrateContent": "24 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "17 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "67"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/gZVV8WyK-K3AjnAEN.mp4",
+    "description": "If you love the flavors of a mojito and want to spread them all the way to breakfast; give this smoothie recipe a try. In this video you'll see how to pack powerfully nutritious fruits and veggies into an energy boosting smoothie.",
+    "duration": "PT1M29S",
+    "name": "Green Power Mojito Smoothie",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/gZVV8WyK/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T08:54:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Sp3CdleseYKmESb2kA5q0dXrGFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237000-green-power-mojito-smoothie-Yoly-4x3-c3eff42886e34dcdbc9ed5ae6412a784.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237000/hero.webp",
+    "steps": [
+      "assets/images/237000/step_01.webp"
+    ]
+  }
+}

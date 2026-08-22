@@ -1,0 +1,73 @@
+{
+  "id": "237823",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237823/bff-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/237823/bff-smoothie/",
+  "title": "BFF Smoothie",
+  "description": "This creamy strawberry and mango smoothie has a hint of mint added at the end of blending.",
+  "authors": [
+    "Kiska"
+  ],
+  "date_published": "2020-06-18T23:59:15-04:00",
+  "date_modified": "2020-06-18T23:59:15-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup frozen strawberries",
+    "1 cup plain Greek yogurt",
+    "1 cup frozen mango chunks",
+    "0.5 cup 1% milk",
+    "1 scoop vanilla whey protein powder",
+    "5 fresh mint leaves, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend strawberries, Greek yogurt, mango, milk, and protein powder together until smooth. Add mint leaves and pulse until leaves are chopped, 4 to 5 pulses.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "336 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "202 mg",
+    "sugarContent": "25 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-0Sf-ILVDcp7Kp7r0Ugqw_ngdfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1214427-03db65e5653a4542ac776d32440d6b5d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237823/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

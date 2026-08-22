@@ -1,0 +1,80 @@
+{
+  "id": "237690",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237690/pumpkin-spice-protein-drink/",
+  "requested_url": "https://www.allrecipes.com/recipe/237690/pumpkin-spice-protein-drink/",
+  "title": "Pumpkin Spice Protein Drink",
+  "description": "This pumpkin spice protein drink recipe will fill you up when you need something while on the go. Substitute peanut butter for the dates if you prefer.",
+  "authors": [
+    "manella"
+  ],
+  "date_published": "2014-07-02T02:00:50-04:00",
+  "date_modified": "2025-12-03T22:32:54-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 bananas, sliced and frozen",
+    "1 cup unsweetened almond milk",
+    "0.5 cup canned pumpkin",
+    "1 scoop vanilla protein powder",
+    "2 dates, pitted",
+    "0.5 teaspoon vanilla extract",
+    "1 pinch ground nutmeg",
+    "1 pinch ground cinnamon",
+    "1 pinch ground cloves",
+    "1 pinch ground ginger"
+  ],
+  "steps": [
+    {
+      "text": "Combine bananas, almond milk, pumpkin purée, protein powder, dates, vanilla extract, nutmeg, cinnamon, cloves, and ginger in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "192 mg",
+    "sugarContent": "27 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BQ-xu0QrBE6-IOdZNtWyJdZ31J4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1636394-pumpkin-spice-protein-drink-Buckwheat-Queen-4x3-1-43f6d91bb68b4f8c997ea3aa767e86ec.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237690/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

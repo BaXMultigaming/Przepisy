@@ -1,0 +1,74 @@
+{
+  "id": "237592",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237592/the-drink-by-will/",
+  "requested_url": "https://www.allrecipes.com/recipe/237592/the-drink-by-will/",
+  "title": "The Drink by Will",
+  "description": "This green smoothie with tomato, radishes, spirulina powder, and carrot is a savory way to start the day.",
+  "authors": [
+    "Will Lee"
+  ],
+  "date_published": "2019-04-03T23:57:41-04:00",
+  "date_modified": "2019-04-03T23:57:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "1 tomato, roughly chopped",
+    "1 large carrot, roughly chopped",
+    "1 cup kale",
+    "2 radishes, roughly chopped",
+    "1 lemon, peeled",
+    "1 teaspoon spirulina powder",
+    "6 ice cubes, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Pour water into a blender. Add tomato, carrot, kale, radishes, lemon, spirulina powder; top with ice cubes. Blend vegetable mixture until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "98 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "125 mg",
+    "sugarContent": "8 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/w-R5bKt1PFijwkeBsWN9Jot_MDM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1132401-894180af75cc43538b4fed5bd46b6446.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237592/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

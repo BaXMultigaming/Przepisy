@@ -1,0 +1,76 @@
+{
+  "id": "237788",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237788/tuna-and-avocado-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/237788/tuna-and-avocado-salad/",
+  "title": "Tuna and Avocado Salad",
+  "description": "This tuna salad gets added creaminess from avocado and packs a punch with jalapeno and onion.",
+  "authors": [
+    "tjkirkwood"
+  ],
+  "date_published": "2020-02-01T02:51:30-05:00",
+  "date_modified": "2025-01-31T12:18:29-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 avocados - peeled, pitted, and diced",
+    "3 (5 ounce) cans tuna in water, drained and flaked",
+    "0.5 tomato, diced",
+    "0.5 jalapeno pepper, diced",
+    "0.25 cup diced white onion",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mix avocados, tuna, tomato, jalapeno pepper, and white onion together in a bowl; season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "239 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "1 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "58"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EmnYOwn3F_ParzhCndknTkq8Iew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1130371-9f0e520376ef4ca3876e71929e0450a2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237788/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

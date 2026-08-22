@@ -1,0 +1,89 @@
+{
+  "id": "237343",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237343/seitan-fajitas/",
+  "requested_url": "https://www.allrecipes.com/recipe/237343/seitan-fajitas/",
+  "title": "Seitan Fajitas",
+  "description": "This recipe with seitan strips, a wheat gluten-based meat alternative, makes spicy vegetarian fajitas stuffed with bell peppers, onion, and garlic.",
+  "authors": [
+    "MFord"
+  ],
+  "date_published": "2016-06-04T10:08:01-04:00",
+  "date_modified": "2023-03-27T14:56:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "5",
+    "10 fajitas"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons olive oil",
+    "1 red bell pepper, cut into strips",
+    "1 green bell pepper, cut into strips",
+    "1 yellow bell pepper, cut into strips",
+    "0.5 red onion, chopped",
+    "1 pound seitan, cut into strips",
+    "2 tablespoons reduced-sodium soy sauce",
+    "3 cloves garlic, minced",
+    "1 teaspoon chili powder",
+    "1 teaspoon paprika",
+    "1 teaspoon ground cumin",
+    "10 whole grain tortillas"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium heat; cook and stir bell peppers and onion in hot oil until tender, 3 to 5 minutes. Add seitan, soy sauce, garlic, chili powder, paprika, and cumin; cook and stir until seitan is heated through, 7 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon seitan filling onto each tortilla and fold tortilla around filling.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "424 kcal",
+    "carbohydrateContent": "67 g",
+    "fiberContent": "7 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "925 mg",
+    "sugarContent": "3 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BU-vgkViKawHVHsDTI_xiIOxBCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2110057-0647fdf0eacb40cd88f6f498c7906ab1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237343/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

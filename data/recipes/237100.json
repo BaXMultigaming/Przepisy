@@ -1,0 +1,89 @@
+{
+  "id": "237100",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237100/brownie-mix-black-bean-brownies/",
+  "requested_url": "https://www.allrecipes.com/recipe/237100/brownie-mix-black-bean-brownies/",
+  "title": "Brownie Mix-Black Bean Brownies",
+  "description": "Black beans are the secret ingredient in these rich and moist brownies. You only need 4 simple ingredients!",
+  "authors": [
+    "Mary B Smith"
+  ],
+  "date_published": "2019-04-03T23:57:28-04:00",
+  "date_modified": "2026-03-02T07:41:20-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT60M",
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "1 cup water",
+    "1 package brownie mix",
+    "1 cup chocolate chips, divided"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend black beans and water together in a blender until smooth; pour into a bowl. Stir brownie mix into black bean mixture until batter is smooth; fold in 1/2 cup chocolate chips. Pour batter into prepared baking dish. Sprinkle remaining 1/2 cup chocolate chips over batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a toothpick inserted 2 inches from the side of the pan comes out clean, 25 to 27 minutes. Cool brownies completely on a wire rack before cutting into squares.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "150 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "139 mg",
+    "sugarContent": "4 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/e5QAk70n1zeDpIFVExvT7dXOzkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237100brownie-mix-black-bean-brownies4x3-882688893b9d4377a019e5576c2c2b76.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237100/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

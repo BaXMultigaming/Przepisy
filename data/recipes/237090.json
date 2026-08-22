@@ -1,0 +1,94 @@
+{
+  "id": "237090",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237090/broccoli-and-bacon-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/237090/broccoli-and-bacon-salad/",
+  "title": "Broccoli-and-Bacon Salad",
+  "description": "Broccoli and bacon, of course, but also raisins and cashews in a salad dressed with a creamy mayonnaise-based dressing. You won&#39;t believe how good it is!",
+  "authors": [
+    "Linda Z"
+  ],
+  "date_published": "2020-06-18T23:58:29-04:00",
+  "date_modified": "2025-01-15T15:24:15-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT255M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds broccoli florets",
+    "10 slices crisply cooked bacon, crumbled",
+    "0.5 cup chopped red onion",
+    "0.5 cup golden raisins",
+    "0.5 cup cashews",
+    "0.5 cup sliced water chestnuts",
+    "1 cup mayonnaise",
+    "0.5 cup white sugar",
+    "2 tablespoons vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Make salad: Toss together broccoli, bacon, red onion, raisins, cashews, and water chestnuts in a large bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Make dressing: Whisk together mayonnaise, sugar, and vinegar in a small bowl until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour dressing over salad and toss to coat. Cover the bowl with plastic wrap and refrigerate until dressing sets, at least 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "299 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "201 mg",
+    "sugarContent": "18 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/j4mrRHkTT29QL8EopudWmEmwxkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1132713-87a431ce942c47ea8bcae8933081bde0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237090/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "237826",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237826/chef-johns-tarragon-aioli/",
+  "requested_url": "https://www.allrecipes.com/recipe/237826/chef-johns-tarragon-aioli/",
+  "title": "Chef John&#39;s Tarragon Aioli",
+  "description": "Chef John&#39;s recipe for homemade aioli with tarragon is the perfect accompaniment to fish, meat, or vegetables.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-05-20T18:12:23-04:00",
+  "date_modified": "2026-06-17T14:22:31-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cloves garlic, sliced",
+    "1 pinch kosher salt",
+    "1 tablespoon chopped fresh tarragon",
+    "0.5 cup mayonnaise",
+    "2 teaspoons fresh lemon juice",
+    "1 pinch cayenne pepper, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Crush garlic and salt together in a mortar with a pestle; add tarragon and continue crushing with the pestle until tarragon is pulverized.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir mayonnaise and lemon juice into garlic-tarragon mixture until aioli is smooth; season with cayenne pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RI4jmtHgNDduqdyVgq-CTsmzvOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2343146-75490677ca81400e82cab0997175d27c.jpg"
+      ],
+      "image": "assets/images/237826/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "101 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "5 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "128 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "36"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/nj5BF25p-ma1DlVvV.mp4",
+    "description": "See how to make real aioli flavored with fresh tarragon.",
+    "duration": "PT4M17S",
+    "name": "Chef John's Tarragon Aioli",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/nj5BF25p/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T22:57:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RI4jmtHgNDduqdyVgq-CTsmzvOs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2343146-75490677ca81400e82cab0997175d27c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237826/hero.webp",
+    "steps": [
+      null,
+      "assets/images/237826/step_02.webp"
+    ]
+  }
+}

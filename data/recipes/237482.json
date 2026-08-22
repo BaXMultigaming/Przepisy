@@ -1,0 +1,75 @@
+{
+  "id": "237482",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237482/quick-avocado-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/237482/quick-avocado-smoothie/",
+  "title": "Quick Avocado Smoothie",
+  "description": "This Middle Eastern-style smoothie features avocado, honey, and almond milk.",
+  "authors": [
+    "Mona Redjaie"
+  ],
+  "date_published": "2017-06-21T09:02:54-04:00",
+  "date_modified": "2022-11-14T18:15:54-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "Middle Eastern Inspired"
+  ],
+  "regions": [
+    "Middle Eastern Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.25 cups almond milk",
+    "1 avocado - peeled, pitted, and sliced",
+    "1 small banana, sliced",
+    "0.25 cup ice, or as needed",
+    "1 tablespoon honey"
+  ],
+  "steps": [
+    {
+      "text": "Blend almond milk, avocado, banana, ice, and honey in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "555 kcal",
+    "carbohydrateContent": "68 g",
+    "fiberContent": "18 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "218 mg",
+    "sugarContent": "40 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jP0WySk1qnVoiw-EM_hladn6iC8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1127253-quick-avocado-smoothie-Paula-4x3-1-d432661e218b436fa06cca085972ebb8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237482/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

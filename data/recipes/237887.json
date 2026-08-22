@@ -1,0 +1,92 @@
+{
+  "id": "237887",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237887/zucchini-parmesan-with-tomato-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/237887/zucchini-parmesan-with-tomato-sauce/",
+  "title": "Zucchini Parmesan with Tomato Sauce",
+  "description": "Sautéed zucchini is seasoned with oregano and basil, then topped with tomato sauce and Parmesan cheese for a tasty side dish recipe or pasta topper.",
+  "authors": [
+    "MW09"
+  ],
+  "date_published": "2015-07-17T02:02:16-04:00",
+  "date_modified": "2026-06-02T21:54:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "4 zucchini - peeled, sliced lengthwise, and sliced",
+    "2 teaspoons dried oregano",
+    "2 teaspoons dried basil",
+    "1.5 cups tomato sauce",
+    "0.25 cup Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Add zucchini slices; sauté until softened, 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season zucchini with oregano and basil. Add tomato sauce; cook and stir until heated through, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle Parmesan cheese over top, then serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "570 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/emik3S-r_sjchJQMpCyrh9mpPOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/237887-zucchini-parmesan-with-tomato-sauce-Buckwheat-Queen-4x3.jpg-916ffcbc74314cf2b9a5192166bb876d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237887/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "237270",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237270/baja-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/237270/baja-salad/",
+  "title": "Baja Salad",
+  "description": "For this Mexican-style Baja salad recipe, corn, black beans, avocado, and tortilla chips are tossed with romaine lettuce in a homemade lemon dressing.",
+  "authors": [
+    "startrooper3000"
+  ],
+  "date_published": "2019-07-10T03:05:23-04:00",
+  "date_modified": "2026-06-25T17:59:59-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (12 ounce) package romaine lettuce leaves",
+    "1 large tomato, diced",
+    "1 avocado, diced",
+    "1 pickling cucumber, diced",
+    "0.75 cup crumbled feta cheese",
+    "0.25 cup diced red onion",
+    "0.25 cup white corn kernels",
+    "0.25 cup cooked black beans",
+    "0.25 cup crushed tortilla chips, or to taste",
+    "2 tablespoons olive oil",
+    "2 tablespoons lemon juice",
+    "0.25 teaspoon ground cumin",
+    "1 pinch salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine romaine, tomato, avocado, cucumber, feta cheese, onion, corn, and black beans in a large bowl; toss well. Sprinkle tortilla chips over salad.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk olive oil, lemon juice, cumin, salt, and black pepper together in a bowl until dressing is smooth; drizzle over salad and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "223 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "405 mg",
+    "sugarContent": "4 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "44"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/k2yaSdgFA679GGYS0l3OolcsufU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1120890-1e4596c92a7f4026ab62a2cddcb1394f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237270/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

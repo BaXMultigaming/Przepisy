@@ -1,0 +1,113 @@
+{
+  "id": "237140",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237140/chef-johns-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/237140/chef-johns-french-toast/",
+  "title": "Chef John&#39;s French Toast",
+  "description": "For amazing French toast, use this two-step method. And everyone--including the cook--gets to sit down for breakfast at the same time!",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-03-25T16:56:23-04:00",
+  "date_modified": "2026-06-17T21:56:31-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "0.5 cup milk",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon ground cinnamon",
+    "0.25 teaspoon ground allspice",
+    "1 pinch salt",
+    "6 (1 inch thick) slices French bread",
+    "1 tablespoon butter, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 400 degrees F (200 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk eggs, milk, vanilla extract, cinnamon, allspice, and salt together in a large bowl. Place bread slices in egg mixture and soak, turning to coat, until bread is completely saturated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a cast-iron skillet over medium heat. Working in batches, cook bread in hot butter until golden, about 3 minutes per side. Transfer toasted bread to a baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake toast in the oven until outside is crisp and slightly puffed, 12 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Ywcc5Lzvg1cgiY9fuvGk9CDDRbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2084571-chef-johns-french-toast-Tishka11-1x1-1-d935bd020a10454087baecf015bee756.jpg"
+      ],
+      "image": "assets/images/237140/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "199 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "396 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "262"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/V4aBUOe1-ma1DlVvV.mp4",
+    "description": "Chef John shows you the three tricks to making perfect French toast.",
+    "duration": "PT3M54S",
+    "name": "Chef John's French Toast",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/V4aBUOe1/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T12:25:58-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ywcc5Lzvg1cgiY9fuvGk9CDDRbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2084571-chef-johns-french-toast-Tishka11-1x1-1-d935bd020a10454087baecf015bee756.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237140/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/237140/step_04.webp"
+    ]
+  }
+}

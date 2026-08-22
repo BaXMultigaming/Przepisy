@@ -1,0 +1,72 @@
+{
+  "id": "237694",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237694/mango-orange-slush/",
+  "requested_url": "https://www.allrecipes.com/recipe/237694/mango-orange-slush/",
+  "title": "Mango Orange Slush",
+  "description": "Enjoy this mango orange slush with a touch of ginger and lime on a hot summer day.",
+  "authors": [
+    "peekncook"
+  ],
+  "date_published": "2020-03-05T00:11:59-05:00",
+  "date_modified": "2022-08-01T21:53:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large mango - peeled, seeded, and cut into chunks",
+    "10 ice cubes",
+    "1 cup orange juice",
+    "1 cup sparkling water",
+    "2 tablespoons lime juice",
+    "1 tablespoon ginger juice",
+    "1 tablespoon brown sugar"
+  ],
+  "steps": [
+    {
+      "text": "Blend mango, ice, orange juice, water, lime juice, ginger juice, and brown sugar together in a blender until slushy, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "47 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "19 mg",
+    "sugarContent": "40 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jE1WBOKcCqsvPNk0E970iQuq654=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1127814-71c2b81026354ec4af19e5e42216c934.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237694/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
