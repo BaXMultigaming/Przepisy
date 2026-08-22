@@ -1,0 +1,86 @@
+{
+  "id": "260551",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260551/arvidson-swedish-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/260551/arvidson-swedish-pancakes/",
+  "title": "Arvidson Swedish Pancakes",
+  "description": "The best Swedish pancakes are made with a very thin batter for a quick and easy, family-friendly option for breakfast or brunch.",
+  "authors": [
+    "C R Henning"
+  ],
+  "date_published": "2020-06-19T00:24:44-04:00",
+  "date_modified": "2024-06-06T11:28:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Swedish"
+  ],
+  "regions": [
+    "Swedish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "4 cups milk",
+    "2.5 cups all-purpose flour",
+    "0.5 cup white sugar",
+    "0.5 teaspoon vanilla extract",
+    "0.5 teaspoon ground nutmeg",
+    "0.25 teaspoon salt",
+    "0.5 cup butter, melted",
+    "1 teaspoon butter"
+  ],
+  "steps": [
+    {
+      "text": "Beat eggs in a large bowl until smooth. Add milk, flour, sugar, vanilla extract, nutmeg, and salt; whisk until just combined. Stir in 1/2 cup melted butter until batter is very thin and slightly lumpy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a nonstick griddle over medium-high heat. Brush generously with 1 teaspoon butter. Drop batter onto the griddle to make 6-inch pancakes. Cook until bubbles form and the edges are dry, 30 seconds to 1 minute. Flip and cook until the other side is dry, 30 seconds to 1 minute. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "395 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "135 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "244 mg",
+    "sugarContent": "19 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/i4h84CVRNqk-erAukZ6yX4jXFf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5394293-arvidson-swedish-pancakes-Marianne-4x3-1-d30437963ad6486da1f2e76f17efeb7d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260551/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

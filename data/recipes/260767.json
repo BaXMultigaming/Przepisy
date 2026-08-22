@@ -1,0 +1,81 @@
+{
+  "id": "260767",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260767/peppermint-hot-chocolate/",
+  "requested_url": "https://www.allrecipes.com/recipe/260767/peppermint-hot-chocolate/",
+  "title": "Peppermint Hot Chocolate",
+  "description": "Put together this easy peppermint hot chocolate recipe with flavors of cocoa, cinnamon, and vanilla to warm yourself on a chilly morning.",
+  "authors": [
+    "Emily"
+  ],
+  "date_published": "2020-06-19T00:24:52-04:00",
+  "date_modified": "2022-05-19T10:52:26-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT3M",
+  "total_time": "PT8M",
+  "yield": [
+    "1",
+    "1 cup"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons milk",
+    "1 tablespoon unsweetened cocoa powder",
+    "1 tablespoon white sugar",
+    "1 pinch ground cinnamon",
+    "0.25 teaspoon vanilla extract",
+    "0.75 cup milk",
+    "1 peppermint candy cane"
+  ],
+  "steps": [
+    {
+      "text": "Stir 2 tablespoons milk, cocoa powder, sugar, cinnamon, vanilla extract together in a mug until well blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Microwave 3/4 cup milk on high for 2 1/2 minutes in a microwave-safe mug. Pour the hot milk over the cocoa mixture; stir with candy cane.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "283 kcal",
+    "carbohydrateContent": "54 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "100 mg",
+    "sugarContent": "40 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Do2SDyHJrzaL1OiV-_JPVL0t6tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5043720-c4226789ae2b4c99bcf1d1e2e056e034.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260767/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "261488",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/261488/mocha-morning-breakfast-yogurt/",
+  "requested_url": "https://www.allrecipes.com/recipe/261488/mocha-morning-breakfast-yogurt/",
+  "title": "Mocha Morning Breakfast Yogurt",
+  "description": "This mocha morning breakfast yogurt is loaded with chocolate whey protein, Greek yogurt, and a jolt of caffeine to start your day off right!",
+  "authors": [
+    "Culinary Envy"
+  ],
+  "date_published": "2017-11-10T23:15:41-05:00",
+  "date_modified": "2017-11-10T23:15:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups plain Greek yogurt",
+    "3 tablespoons honey",
+    "2 scoops chocolate-flavored whey protein powder (such as ON™ Gold Standard)",
+    "2 tablespoons instant coffee granules",
+    "4 teaspoons cocoa powder",
+    "0.125 teaspoon ground cinnamon",
+    "1 cup granola cereal with nuts",
+    "0.5 cup sliced fresh strawberries",
+    "0.5 cup fresh raspberries"
+  ],
+  "steps": [
+    {
+      "text": "Stir Greek yogurt, honey, protein powder, instant coffee, cocoa powder, and cinnamon together in a bowl. Combine strawberries and raspberries in a second bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Layer ingredients into a glass in the following order: 1/3 cup yogurt, 1/2 cup berries, 1/3 cup yogurt, 1/2 cup granola, and 1/3 cup yogurt. Sprinkle with some granola and garnish with a piece of fruit. Fill a second glass in the same way with the remaining ingredients, reserving some granola and fruit for garnish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "772 kcal",
+    "carbohydrateContent": "80 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "234 mg",
+    "sugarContent": "50 g",
+    "fatContent": "37 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mUpHVw28O7rAaracCFQXKIMESng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4479476-26ed7cc4282b4413964c2b823821e42c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/261488/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

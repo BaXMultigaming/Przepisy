@@ -1,0 +1,82 @@
+{
+  "id": "260835",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260835/authentic-mexican-hot-chocolate-with-chile/",
+  "requested_url": "https://www.allrecipes.com/recipe/260835/authentic-mexican-hot-chocolate-with-chile/",
+  "title": "Authentic Mexican Hot Chocolate",
+  "description": "Mexican hot chocolate is made by melting Mexican chocolate that contains sugar and cinnamon in warm milk for a richer, more intense chocolate flavor. Chile de arbol adds a touch of heat.",
+  "authors": [
+    "gem"
+  ],
+  "date_published": "2017-12-06T10:00:39-05:00",
+  "date_modified": "2026-01-22T11:54:31-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup whole milk",
+    "0.5 Mexican hot chocolate drink tablet (such as Nestle® Abuelita®)",
+    "1 dried red chile de arbol, lightly toasted"
+  ],
+  "steps": [
+    {
+      "text": "Place milk and chocolate in a small saucepan over medium-low heat and simmer, stirring, until chocolate is melted but not boiling, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour chocolate mixture into a blender. Cover and hold lid down with a potholder; blend until foamy. Pour into a mug. Break the chile into 2 or 3 pieces, discarding seeds, and drop into the hot chocolate. Drink immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "444 kcal",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "24 mg",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "108 mg",
+    "sugarContent": "11 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-VkkarSjxTbcmUN6wr0nOpAzGvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4700982-639a92977f74486ea49eece44bace37f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260835/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "260649",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260649/mexican-charred-tomatillo-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/260649/mexican-charred-tomatillo-salsa/",
+  "title": "Mexican Charred Tomatillo Salsa",
+  "description": "This Mexican salsa recipe is made with charred fresh tomatillos, chiles de arbol, and garlic for an authentic salsa with a delicious smoky flavor.",
+  "authors": [
+    "Sony"
+  ],
+  "date_published": "2020-04-15T00:20:46-04:00",
+  "date_modified": "2025-02-03T13:32:04-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Appetizer",
+    "Sauce"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds fresh tomatillos, husks removed",
+    "10 dried chile de arbol peppers",
+    "2 cloves garlic, unpeeled",
+    "salt to taste",
+    "tortilla chips"
+  ],
+  "steps": [
+    {
+      "text": "Line a heavy cast iron grill pan or griddle with aluminum foil and place over high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Arrange tomatillos, chiles de arbol, and garlic in a single layer on top. Grill until chiles are blackened, turning as necessary, 3 to 5 minutes. Transfer to a bowl. Continue grilling tomatillos and garlic until they are evenly blackened, 8 to 10 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Peel garlic and place in a mortar and pestle. Season with salt and pound into a thick paste. Add chiles; pound until smooth. Add as many tomatillos as you can fit in your mortar; pound until chunky. Transfer salsa to a bowl. Repeat with remaining tomatillos, mixing them into the bowl of salsa in batches. Serve with tortilla chips for dipping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Si3r92D687RMhrKNLusNXteQKAk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4566966-195a53ff601a43ad98f2c4da17c8c764.jpg"
+      ],
+      "image": "assets/images/260649/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "40 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "21 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/IQ53fyRP-K3AjnAEN.mp4",
+    "description": "This delicious Mexican salsa (Salsa martajada de tomate verde) is made with fresh tomatillos, chiles de arbol, and garlic. Everything is chargrilled till blackened, imparting a smoky flavor that makes this salsa so special. Serve with tortilla chips, or as an accompaniment to your favorite Mexican meal.",
+    "duration": "PT1M46S",
+    "name": "Mexican Charred Tomatillo Salsa",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/IQ53fyRP/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:26:10-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Si3r92D687RMhrKNLusNXteQKAk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4566966-195a53ff601a43ad98f2c4da17c8c764.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260649/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/260649/step_03.webp"
+    ]
+  }
+}

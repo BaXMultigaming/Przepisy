@@ -1,0 +1,88 @@
+{
+  "id": "261366",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/261366/spanakorizo/",
+  "requested_url": "https://www.allrecipes.com/recipe/261366/spanakorizo/",
+  "title": "Spanakorizo",
+  "description": "Spanakorizo is a Greek rice pilaf with bright flavors of dill, spinach, lemon, and feta cheese; enjoy it with lamb for a Mediterranean meal.",
+  "authors": [
+    "Julie Barracato"
+  ],
+  "date_published": "2019-04-04T00:10:28-04:00",
+  "date_modified": "2025-02-05T18:41:24-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT33M",
+  "total_time": "PT43M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cup long-grain rice",
+    "1 teaspoon olive oil",
+    "1 small onion, chopped",
+    "1 bunch fresh spinach",
+    "1 lemon, zested and juiced",
+    "0.25 cup crumbled feta cheese",
+    "0.25 cup chopped fresh dill",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a saucepan over medium-high heat. Saute onion until tender, about 5 minutes. Add the cooked rice and spinach; cook and stir until spinach wilts, 3 to 5 minutes. Add lemon juice, zest, feta cheese, and dill. Remove from heat. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "218 mg",
+    "sugarContent": "2 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NcA8cl6Gf_DmqRLRN2mmcK3f7Bg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4600331-762b78168fc64b1d8061def0bc5d98f5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/261366/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

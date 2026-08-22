@@ -1,0 +1,85 @@
+{
+  "id": "261001",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/261001/ube-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/261001/ube-milkshake/",
+  "title": "Ube Milkshake",
+  "description": "Make yourself a tasty purple milkshake with the addition of ube, aka purple yam, which gives this ube drink a great flavor and fun color.",
+  "authors": [
+    "yummers"
+  ],
+  "date_published": "2017-10-24T20:46:43-04:00",
+  "date_modified": "2021-11-19T20:27:10-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 ube (purple yam), peeled",
+    "0.5 cup milk",
+    "1 scoop vanilla ice cream"
+  ],
+  "steps": [
+    {
+      "text": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add ube, cover, and steam until tender, about 20 minutes. Cool until easily handled, then cut into cubes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine 1/4 cup cubed ube, milk, and vanilla ice cream in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "275 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "92 mg",
+    "sugarContent": "10 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/e9qrvss-xJJCPhDhYtpkM9QUN_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4570949-3cbb27203e824df7835483bac2995b5c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/261001/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

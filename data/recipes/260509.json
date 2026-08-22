@@ -1,0 +1,112 @@
+{
+  "id": "260509",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260509/rice-ah-roni/",
+  "requested_url": "https://www.allrecipes.com/recipe/260509/rice-ah-roni/",
+  "title": "Rice-Ah-Roni",
+  "description": "Chef John creates his own version of this combination rice and pasta dish with lots of seasonings and real chicken broth.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2017-09-25T22:55:40-04:00",
+  "date_modified": "2026-05-15T15:40:07-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT28M",
+  "total_time": "PT38M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 teaspoons kosher salt, plus more as needed",
+    "0.125 teaspoon freshly ground black pepper",
+    "0.125 teaspoon ground coriander",
+    "0.125 teaspoon mustard powder",
+    "0.125 teaspoon celery salt",
+    "0.125 teaspoon paprika",
+    "0.125 pinch ground turmeric",
+    "0.125 teaspoon cayenne pepper",
+    "3 tablespoons unsalted butter",
+    "0.5 cup finely diced onions",
+    "0.66666668653488 cup uncooked orzo pasta",
+    "1.3333333730698 cups uncooked long-grain white rice",
+    "3 cups good-quality chicken broth",
+    "1 tablespoon freshly chopped parsley"
+  ],
+  "steps": [
+    {
+      "text": "Mix together salt, pepper, coriander, mustard powder, celery salt, paprika, turmeric, and cayenne pepper in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium-high heat. Add diced onion and pasta. Cook and stir until onions soften and pasta turns golden brown, 4 to 6 minutes. Stir in spice blend; cook and stir about 30 seconds. Add rice and stir until rice is coated with butter, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour in chicken broth. Bring to a simmer. Stir; reduce heat to low. Cover with a tight-fitting lid; cook for 17 minutes. Remove from heat; let covered skillet sit for 5 minutes. Remove lid and stir in parsley, fluffing rice and breaking up any clumps.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4C4D6afBYHYdZtL27JMejPTAd4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4562747-rice-ah-roni-Chef-John-1x1-1-6f020c2aa54b4a3e8c4425064e3aebf2.jpg"
+      ],
+      "image": "assets/images/260509/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "297 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1098 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "61"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/msc2bMw7-K3AjnAEN.mp4",
+    "description": "Make Chef John’s version of a great San Fran side dish by starting with a top secret spice blend of salt, black pepper, celery salt, paprika, coriander, turmeric, dry mustard and cayenne pepper. Melt some butter in a large pan and cook your diced onion with orzo pasta until golden, then stir in your spice mix. Then add white long grain rice and stir until coated in butter. Stir in chicken broth, bring to simmer, cover and cook. Let rest, add some chopped parsley and fluff. Serve mixed with vegetables or straight up paired with your favorite meat entrée.",
+    "duration": "PT6M4S",
+    "name": "Rice-Ah-Roni",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/msc2bMw7/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T07:36:52-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4C4D6afBYHYdZtL27JMejPTAd4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4562747-rice-ah-roni-Chef-John-1x1-1-6f020c2aa54b4a3e8c4425064e3aebf2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260509/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/260509/step_03.webp"
+    ]
+  }
+}

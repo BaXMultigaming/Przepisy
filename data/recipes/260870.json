@@ -1,0 +1,75 @@
+{
+  "id": "260870",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260870/candied-almond-bark-popcorn/",
+  "requested_url": "https://www.allrecipes.com/recipe/260870/candied-almond-bark-popcorn/",
+  "title": "Candied Almond Bark Popcorn",
+  "description": "This candied popcorn recipe takes your movie-night snacking to a new level of sweetness. This recipe is also great for holiday gift-giving!",
+  "authors": [
+    "alytholen"
+  ],
+  "date_published": "2017-10-19T02:18:25-04:00",
+  "date_modified": "2023-01-10T11:52:01-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT11M",
+  "total_time": "PT16M",
+  "yield": [
+    "30"
+  ],
+  "categories": [
+    "Snack",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (24 ounce) package almond bark",
+    "3 (2.9 ounce) bags microwave popcorn"
+  ],
+  "steps": [
+    {
+      "text": "Place packaged popcorn in the microwave; cook on high until popping begins to slow down, about 2 1/2 minutes. Pour popcorn into a large bowl. Remove any unpopped kernels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place almond bark in a saucepan and melt over medium-low heat, stirring constantly so it does not burn on the bottom, about 8 minutes. Pour melted almond bark over popcorn and stir to coat evenly. Pour out onto a baking sheet to cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "148 kcal",
+    "carbohydrateContent": "15 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "73 mg",
+    "sugarContent": "1 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1dadY0equIeS2VlDbP9W6CQ31xQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5215782-candied-almond-bark-popcorn-Christina-4x3-1-863104b5d2f342849aa1d3d0e4735452.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260870/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
