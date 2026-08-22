@@ -1,0 +1,78 @@
+{
+  "id": "221028",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221028/smashed-cauliflower-side-dish/",
+  "requested_url": "https://www.allrecipes.com/recipe/221028/smashed-cauliflower-side-dish/",
+  "title": "Smashed Cauliflower Side Dish",
+  "description": "Smashed cauliflower is prepared just like mashed potatoes but is lower in carbs.",
+  "authors": [
+    "Erika Cormier"
+  ],
+  "date_published": "2019-04-02T02:56:53-04:00",
+  "date_modified": "2022-11-25T07:56:22-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (16 ounce) packages frozen cauliflower",
+    "0.25 cup butter",
+    "1 clove garlic, minced",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place cauliflower in a pot and cover with water; bring to a boil. Cook until tender, about 10 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return drained cauliflower to the pot. Add butter, garlic, salt, and pepper. Mash with a potato masher until smooth and the consistency is similar to mashed potatoes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "78 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "190 mg",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "106"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/t61p9Sj_VcdftyQd09AwkPyoftQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1260316-c47dd08a4e294369951ba813032ced33.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221028/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

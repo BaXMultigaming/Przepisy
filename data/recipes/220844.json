@@ -1,0 +1,79 @@
+{
+  "id": "220844",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220844/zesty-lemon-carrot-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/220844/zesty-lemon-carrot-salad/",
+  "title": "Zesty Lemon Carrot Salad",
+  "description": "Fresh garlic and lemon juice give a powerful flavor to carrots and mushrooms boiled with cumin and coriander.",
+  "authors": [
+    "Dara"
+  ],
+  "date_published": "2020-06-18T23:48:04-04:00",
+  "date_modified": "2020-06-18T23:48:04-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package baby carrots",
+    "10 mushrooms",
+    "1 teaspoon ground cumin",
+    "1 teaspoon ground coriander",
+    "1 teaspoon minced garlic",
+    "0.25 cup lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Combine baby carrots, mushrooms, cumin, and coriander in a pot. Pour enough water into pot to just cover the mixture. Bring to a boil and cook until carrots are tender, 15 to 20 minutes. Drain mixture and transfer to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir garlic and lemon juice together in a small bowl; drizzle over carrot mixture. Stir to evenly coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "51 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "63 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TpA3Hcs_UnbeCmEw47qc86gDIEY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7046564-6cfad9123a624bbc945eea28a58c00b3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220844/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

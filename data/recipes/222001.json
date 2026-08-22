@@ -1,0 +1,121 @@
+{
+  "id": "222001",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222001/spicy-sausage-ragu/",
+  "requested_url": "https://www.allrecipes.com/recipe/222001/spicy-sausage-ragu/",
+  "title": "Spicy Sausage Ragu",
+  "description": "This spicy sausage ragu recipe features Italian sausage and a simple tomato sauce with white wine, cream, and fresh parsley for a zesty pasta dinner.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-04-27T18:43:51-04:00",
+  "date_modified": "2025-05-14T20:57:17-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT95M",
+  "total_time": "PT105M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Pasta"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound spicy Italian sausage, casing removed",
+    "1 tablespoon fresh parsley, minced",
+    "0.5 cup dry white wine",
+    "0.25 cup heavy cream",
+    "3.5 cups tomato sauce",
+    "1 cup water",
+    "14.5 ounces dry penne pasta",
+    "1 cup finely grated Parmigiano-Reggiano cheese"
+  ],
+  "steps": [
+    {
+      "text": "Cook sausage in a Dutch oven over medium heat until browned, about 15 minutes. Stir in parsley; cook for 2 minutes. Stir in wine; cook until nearly evaporated, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Increase heat to high; stir in heavy cream and bring to a boil. Stir in tomato sauce and water; return to a boil. Reduce heat to low; simmer sauce for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, bring a large pot of lightly salted water to a boil. Add penne, return to a boil, and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir penne into sauce to combine. Remove from heat, cover, and let sit about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Top servings with grated Parmigiano-Reggiano.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/hLKKncYLgAhZOSo6pMdgKs0FGWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/844469-8123514d65e849ffb4ff0c8b1ff0a672.jpg"
+      ],
+      "image": "assets/images/222001/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "831 kcal",
+    "carbohydrateContent": "89 g",
+    "cholesterolContent": "99 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "40 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "2165 mg",
+    "sugarContent": "12 g",
+    "fatContent": "34 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "55"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fiBFchLj-ma1DlVvV.mp4",
+    "description": "0286",
+    "duration": "PT3M35S",
+    "name": "Spicy Sausage Ragu",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fiBFchLj/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T11:28:44-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hLKKncYLgAhZOSo6pMdgKs0FGWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/844469-8123514d65e849ffb4ff0c8b1ff0a672.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222001/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/222001/step_05.webp"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "220954",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/220954/classic-ham-glaze/",
+  "requested_url": "https://www.allrecipes.com/recipe/220954/classic-ham-glaze/",
+  "title": "Classic Ham Glaze",
+  "description": "This ham glaze recipe is a delicious blend of brown sugar, honey, and orange juice for that classic sweet and tangy coating on baked holiday ham.",
+  "authors": [
+    "lindsey"
+  ],
+  "date_published": "2020-03-05T00:08:44-05:00",
+  "date_modified": "2025-10-28T07:34:08-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "12",
+    "1 1/4 cups"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup packed brown sugar",
+    "0.5 cup orange juice",
+    "0.5 cup honey"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XtEsEDHVqO_o0N--ncZzPPRTxiU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-220954-classic-ham-glaze-VAT-step-01-c4d45e5666294f34a70bac3a6b8f85c7.jpg"
+      ],
+      "image": "assets/images/220954/step_01.webp"
+    },
+    {
+      "text": "Whisk brown sugar, orange juice, and honey in a bowl until smooth and dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FBQwBZGCVcgFzmIMELngpGIRqy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-220954-classic-ham-glaze-VAT-step-02-1handinframe-4e3f206b25b441b3828c5f740b225482.jpg"
+      ],
+      "image": "assets/images/220954/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "117 kcal",
+    "carbohydrateContent": "31 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "6 mg",
+    "sugarContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "100"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/11BmReKRRfHp-mniC_zjHboTafA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-220954-classic-ham-glaze-VAT-4x3-2cleantble-4289bd76ad0a48399c333adac248c5c5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/220954/hero.webp",
+    "steps": [
+      "assets/images/220954/step_01.webp",
+      "assets/images/220954/step_02.webp"
+    ]
+  }
+}

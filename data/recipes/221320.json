@@ -1,0 +1,107 @@
+{
+  "id": "221320",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221320/old-fashioned-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/221320/old-fashioned-cocktail/",
+  "title": "Old Fashioned Cocktail",
+  "description": "This old fashioned cocktail recipe is a true classic made with a sugar cube muddled with bitters, then stirred with whiskey and a twist of lemon.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:48:27-04:00",
+  "date_modified": "2026-01-05T02:45:40-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 sugar cube",
+    "1 teaspoon water",
+    "1 dash bitters",
+    "2 fluid ounces whiskey (rye or bourbon)",
+    "1 lemon twist",
+    "0.5 cup ice cubes, or as needed",
+    "1 orange slice, for garnish",
+    "1 maraschino cherry, for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/oIvD2wlz4lRbk0rTlTPM4EQgL3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221320-old-fashioned-cocktail-ddmfs-Step1-13181392-faf2f726d5474f8586a2da33eff44d8c.jpg"
+      ],
+      "image": "assets/images/221320/step_01.webp"
+    },
+    {
+      "text": "Muddle sugar cube, water, and bitters in an old fashioned glass for 1 minute. Pour in whiskey; stir for 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/-EdMbaykhk4uhdv4I72J5H2D-Cw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221320-old-fashioned-cocktail-ddmfs-Step3-13181394-538a7d44e00d47cca24c60e0b3fab89d.jpg"
+      ],
+      "image": "assets/images/221320/step_02.webp"
+    },
+    {
+      "text": "Squeeze lemon twist over the glass and drop it in. Add ice cubes. Garnish with orange slice and maraschino cherry; serve with a swizzle stick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/DQIEfVzC7KndUnnHJbmB44a0u3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221320-old-fashioned-cocktail-ddmfs-3X4-13181414-bf1365252476463b9650096c28b5acfd.jpg"
+      ],
+      "image": "assets/images/221320/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "168 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "0 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "19"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/1aqvjT3u-K3AjnAEN.mp4",
+    "description": "See how to make the original whiskey cocktail.",
+    "duration": "PT2M37S",
+    "name": "Old Fashioned Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1aqvjT3u/poster.jpg?width=1280",
+    "uploadDate": "2021-06-23T22:47:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DQIEfVzC7KndUnnHJbmB44a0u3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221320-old-fashioned-cocktail-ddmfs-3X4-13181414-bf1365252476463b9650096c28b5acfd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221320/hero.webp",
+    "steps": [
+      "assets/images/221320/step_01.webp",
+      "assets/images/221320/step_02.webp",
+      "assets/images/221320/step_03.webp"
+    ]
+  }
+}

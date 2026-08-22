@@ -1,0 +1,85 @@
+{
+  "id": "222030",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222030/shellis-lemon-pepper-catfish/",
+  "requested_url": "https://www.allrecipes.com/recipe/222030/shellis-lemon-pepper-catfish/",
+  "title": "Shelli&#39;s Lemon Pepper Catfish",
+  "description": "Catfish fillets are simmered in a buttery lemon sauce in this easy dish.",
+  "authors": [
+    "Shelli"
+  ],
+  "date_published": "2020-03-05T00:08:52-05:00",
+  "date_modified": "2022-01-12T14:02:31-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "2 teaspoons olive oil",
+    "0.66666668653488 cup chopped green onions",
+    "2 cloves garlic, minced",
+    "0.5 teaspoon dried parsley",
+    "0.25 teaspoon sea salt",
+    "0.25 teaspoon ground black pepper",
+    "0.25 cup lemon juice",
+    "0.25 cup lightly packed brown sugar",
+    "2 (3 ounce) fillets catfish",
+    "1 teaspoon brown sugar"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter with olive oil in a large skillet over medium heat. Cook and stir green onions, garlic, parsley, salt, and pepper in the hot oil until vegetables are softened, about 2 minutes. Stir lemon juice and 1/4 cup brown sugar into green onion mixture, stirring constantly until sugar is dissolved, about 2 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place catfish fillets into the skillet; cook until catfish easily flakes with a fork, 3 to 4 minutes per side. Transfer catfish to a plate and pour remaining lemon juice sauce on top. Sprinkle with remaining brown sugar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "299 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "63 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "309 mg",
+    "sugarContent": "31 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jtaqFC1wB0nHOQh60HHAxPCVdC8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8559339-87e2c1464ce8423992208154250a99c0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222030/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

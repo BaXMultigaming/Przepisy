@@ -1,0 +1,109 @@
+{
+  "id": "221899",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221899/chef-johns-cottage-fries/",
+  "requested_url": "https://www.allrecipes.com/recipe/221899/chef-johns-cottage-fries/",
+  "title": "Chef John&#39;s Cottage Fries",
+  "description": "These cottage fries are Chef John&#39;s recipe for sliced, oven-baked russet potatoes seasoned with salt, black pepper, cayenne, and herbs de Provence.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-04-23T20:57:17-04:00",
+  "date_modified": "2026-05-08T11:37:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT60M",
+  "total_time": "PT70M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 baking (russet) potatoes, sliced into 3/8-inch thick rounds",
+    "salt and freshly ground black pepper to taste",
+    "1 pinch cayenne pepper, or to taste",
+    "1 pinch herbes de provence, or to taste",
+    "2 tablespoons olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with parchment paper or a silicone baking mat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine potatoes, salt, black pepper, cayenne pepper, and herbes de Provence in a large bowl. Drizzle with olive oil; stir to coat. Arrange potatoes, evenly spaced, onto the prepared baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven for 15 minutes. Flip over each potato slice, then bake for 15 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Continue baking and flipping until potatoes are well browned, about 30 minutes. Potatoes should be crispy around the edges but soft in the center.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mf9l1oSk1oxr1frH9VduBRFUYJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/833264-f1ca0bf4e9be48d0bb5290013cff75ce.jpg"
+      ],
+      "image": "assets/images/221899/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "187 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "332 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "151"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/V6T15yhC-ma1DlVvV.mp4",
+    "description": "0117",
+    "duration": "PT3M58S",
+    "name": "Cottage Fries",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/V6T15yhC/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T03:09:56-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mf9l1oSk1oxr1frH9VduBRFUYJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/833264-f1ca0bf4e9be48d0bb5290013cff75ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221899/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/221899/step_04.webp"
+    ]
+  }
+}

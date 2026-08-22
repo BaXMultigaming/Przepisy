@@ -1,0 +1,101 @@
+{
+  "id": "222058",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222058/chia-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/222058/chia-pudding/",
+  "title": "Chia Pudding",
+  "description": "This chia pudding recipe combines chia seeds, milk, and vanilla with coconut and fruit to make a deliciously creamy and super satisfying breakfast or dessert.",
+  "authors": [
+    "nikkid"
+  ],
+  "date_published": "2020-06-18T23:48:54-04:00",
+  "date_modified": "2026-04-05T05:44:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT495M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "0.66666668653488 cup chia seeds",
+    "1 tablespoon white sugar",
+    "0.5 teaspoon vanilla extract",
+    "2 tablespoons unsweetened coconut flakes",
+    "2 tablespoons raisins"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/5QMqdDO4uCznbzdn9eRie2CsUCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222058-chia-pudding-DDMFS-step-01-4x3-002-39663fdfc5004eb39408930c8667a733.jpg"
+      ],
+      "image": "assets/images/222058/step_01.webp"
+    },
+    {
+      "text": "Combine milk, chia seeds, sugar to taste, and vanilla in a bowl; let sit for about 10 minutes. Stir, then cover with plastic wrap and refrigerate, 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/OLRiX6D52nNRNSFZuR4yMnhImHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222058-chia-pudding-DDMFS-step-02-4x3-0021-617faa89c1364e209059c357ad0341db.jpg"
+      ],
+      "image": "assets/images/222058/step_02.webp"
+    },
+    {
+      "text": "Top the chia pudding with coconut and raisins to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Ylk1jC3P2A5yYNj-c7U_YgAE1hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222058-chia-pudding-DDMFS-step-04-4x3-002-ce91310c0a1d4485a062696ce7fece8e.jpg"
+      ],
+      "image": "assets/images/222058/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "109 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "52 mg",
+    "sugarContent": "12 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1aBmRWAxa-TsCgcUwSbSNzOO6Tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222058-chia-pudding-DDMFS-beauty-4x3-001-377a6e297bcb4c24b3ecd594acc59fc3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222058/hero.webp",
+    "steps": [
+      "assets/images/222058/step_01.webp",
+      "assets/images/222058/step_02.webp",
+      "assets/images/222058/step_03.webp"
+    ]
+  }
+}

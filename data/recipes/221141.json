@@ -1,0 +1,112 @@
+{
+  "id": "221141",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221141/fresh-strawberry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/221141/fresh-strawberry-sauce/",
+  "title": "Fresh Strawberry Sauce",
+  "description": "This fresh strawberry sauce is enhanced with a splash of balsamic vinegar; perfect to use in pies, as a filling for cakes, or to drizzle over cheesecake.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-04-12T13:08:21-04:00",
+  "date_modified": "2023-01-06T16:26:11-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint fresh strawberries, hulled",
+    "0.25 cup white sugar, or more to taste",
+    "2 tablespoons water",
+    "0.5 teaspoon balsamic vinegar",
+    "2 tablespoons water",
+    "1 teaspoon cornstarch"
+  ],
+  "steps": [
+    {
+      "text": "Combine strawberries, sugar, 2 tablespoons water, and balsamic vinegar in a saucepan; bring to a simmer over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium-low, cover, and simmer for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk 2 tablespoons water and cornstarch together in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk cornstarch mixture into strawberry mixture. Cook, stirring constantly, until mixture thickens, 1 to 2 minutes. Remove from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer mixture to a blender and puree until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MelQiv1q0C89JN88Z86lkwtFZ5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1044471-fresh-strawberry-sauce-Melissa-Goff-1x1-1-b768db8c5cd94e46bee48eaa29c46ea4.jpg"
+      ],
+      "image": "assets/images/221141/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "53 kcal",
+    "carbohydrateContent": "13 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "11 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "146"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/hEGlyarN-ma1DlVvV.mp4",
+    "description": "0280",
+    "duration": "PT3M3S",
+    "name": "Fresh Strawberry Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/hEGlyarN/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T00:52:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MelQiv1q0C89JN88Z86lkwtFZ5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1044471-fresh-strawberry-sauce-Melissa-Goff-1x1-1-b768db8c5cd94e46bee48eaa29c46ea4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221141/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/221141/step_05.webp"
+    ]
+  }
+}

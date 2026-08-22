@@ -1,0 +1,88 @@
+{
+  "id": "221973",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221973/sufferin-succotash-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/221973/sufferin-succotash-salad/",
+  "title": "Sufferin&#39; Succotash Salad",
+  "description": "A sweet corn succotash salad with a tangy barbeque vinaigrette: the perfect side dish for a picnic.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2019-10-10T00:50:42-04:00",
+  "date_modified": "2019-10-10T00:50:42-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons barbeque sauce",
+    "2 tablespoons rice vinegar",
+    "2 tablespoons vegetable oil",
+    "2 ears corn, kernels cut from cob",
+    "1 large red bell pepper, diced",
+    "4 green onions, chopped",
+    "1 (14.5 ounce) can white beans, drained and rinsed",
+    "1 pinch salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Whisk barbeque sauce, rice vinegar, and oil in a large bowl until smooth. Stir in corn kernels, red bell pepper, green onions, and white beans to coat. Cover and refrigerate for at least 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PvfPl3DZE-wx55kxtnEpAVp3xBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3565083-392221c5a80e4e3d84d8b27411f1566c.jpg"
+      ],
+      "image": "assets/images/221973/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "164 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "69 mg",
+    "sugarContent": "4 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "36"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/BuTzT3fA-ma1DlVvV.mp4",
+    "description": "0203",
+    "duration": "PT3M11S",
+    "name": "Sufferin’ Succotash Corn Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/BuTzT3fA/poster.jpg?width=1280",
+    "uploadDate": "2021-07-27T14:43:24-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PvfPl3DZE-wx55kxtnEpAVp3xBk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3565083-392221c5a80e4e3d84d8b27411f1566c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221973/hero.webp",
+    "steps": [
+      "assets/images/221973/step_01.webp"
+    ]
+  }
+}

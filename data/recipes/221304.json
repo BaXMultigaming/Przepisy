@@ -1,0 +1,95 @@
+{
+  "id": "221304",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221304/perfect-breakfast/",
+  "requested_url": "https://www.allrecipes.com/recipe/221304/perfect-breakfast/",
+  "title": "Perfect Breakfast",
+  "description": "Start your day with the perfect breakfast — a delicious open-face sandwich with fried eggs, creamy avocado, Dijon mustard, and Parmesan cheese.",
+  "authors": [
+    "Britty"
+  ],
+  "date_published": "2017-06-21T09:02:39-04:00",
+  "date_modified": "2025-01-27T17:37:19-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons butter",
+    "2 eggs",
+    "1 slice sourdough bread, toasted",
+    "Dijon mustard",
+    "0.5 avocado - peeled, pitted, and sliced",
+    "2 tablespoons grated Parmesan cheese, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a skillet over medium heat. Add eggs and cook until whites are mostly firm. Break yolks and continue cooking until eggs are set and no longer runny, 2 to 3 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread one side of toasted sourdough with Dijon mustard. Arrange avocado slices on bread and top with cooked eggs. Sprinkle with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ku0wtc1dR8TEWNL-nFWdJWemRsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2269682-33c6903a209641988b99024246683a4c.jpg"
+      ],
+      "image": "assets/images/221304/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "501 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "402 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "770 mg",
+    "sugarContent": "2 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "94"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/wh0Lseg5-ma1DlVvV.mp4",
+    "description": "Eggs, avocado, Parmesan cheese, and toasted bread come together to make a simple, savory breakfast.",
+    "duration": "PT1M50S",
+    "name": "Perfect Breakfast",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wh0Lseg5/poster.jpg?width=1280",
+    "uploadDate": "2021-07-23T09:17:25-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ku0wtc1dR8TEWNL-nFWdJWemRsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2269682-33c6903a209641988b99024246683a4c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221304/hero.webp",
+    "steps": [
+      null,
+      "assets/images/221304/step_02.webp"
+    ]
+  }
+}

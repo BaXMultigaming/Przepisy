@@ -1,0 +1,63 @@
+{
+  "id": "222060",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222060/chia-gel/",
+  "requested_url": "https://www.allrecipes.com/recipe/222060/chia-gel/",
+  "title": "Chia Gel",
+  "description": "Chia seeds in water makes a gel simply and quickly.",
+  "authors": [
+    "OBCook"
+  ],
+  "date_published": "2019-04-03T23:52:27-04:00",
+  "date_modified": "2026-05-13T09:30:23-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "0.33333331346512 cup chia seeds"
+  ],
+  "steps": [
+    {
+      "text": "Combine water and chia seeds in a small, sealable jar. Shake 5 seconds; rest 1 minute. Shake 15 seconds more; refrigerate until gelatinous, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "sodiumContent": "1 mg",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/L3GTofp8V3gi2rwFHBtgHKAU8bI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/872040-1d087432ed39432a9e1d9b206575cdd3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222060/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

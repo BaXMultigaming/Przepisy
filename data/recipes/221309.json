@@ -1,0 +1,103 @@
+{
+  "id": "221309",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221309/bloody-mary-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/221309/bloody-mary-cocktail/",
+  "title": "Bloody Mary Cocktail",
+  "description": "Spice up your brunch with this lively, eye-opening cocktail, which delivers a bold, flavorful punch that&#39;ll awaken your senses and kick-start your day.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2019-07-10T03:03:17-04:00",
+  "date_modified": "2026-04-11T10:50:39-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups ice cubes",
+    "4 fluid ounces tomato juice",
+    "1.5 fluid ounces vodka",
+    "0.25 fluid ounce fresh lemon juice",
+    "4 dashes hot pepper sauce (such as Tabasco®)",
+    "2 dashes Worcestershire sauce",
+    "1 pinch salt and ground black pepper",
+    "1 stalk celery, for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Fill a pint glass or goblet with 1 1/2 cups ice. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine tomato juice, vodka, lemon juice, hot pepper sauce, Worcestershire sauce, salt, black pepper, and 1 cup ice in a mixing glass. Stir until chilled and strain into the reserved ice-filled pint glass or goblet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Garnish with celery stalk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ciLRRNP1THQQTV1AH4oqbR6Z2Hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/835760-6fe5bd6ba18748bb8c7ca388b80f6f5f.jpg"
+      ],
+      "image": "assets/images/221309/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "126 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "558 mg",
+    "sugarContent": "5 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "12"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/PeBq71Nx-K3AjnAEN.mp4",
+    "description": "Say hello to the perfect brunch companion.",
+    "duration": "PT1M44S",
+    "name": "Bloody Mary Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/PeBq71Nx/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T05:45:56-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ciLRRNP1THQQTV1AH4oqbR6Z2Hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/835760-6fe5bd6ba18748bb8c7ca388b80f6f5f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221309/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/221309/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "221303",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221303/the-arnold-palmer/",
+  "requested_url": "https://www.allrecipes.com/recipe/221303/the-arnold-palmer/",
+  "title": "The Arnold Palmer",
+  "description": "The Arnold Palmer mocktail, named after the famous golfer, is a deliciously simple combo of iced tea and lemonade that&#39;ll cool you down on a hot day!",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2015-09-15T02:00:22-04:00",
+  "date_modified": "2025-12-22T13:24:13-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "5 fluid ounces prepared lemonade",
+    "5 fluid ounces prepared iced tea",
+    "1 cup ice"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mtTBdjJgTdxtNb90aquRyFUUCRs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221303-Arnold-Palmer-ddmfs-step-1-267-8049894f980843bdb4dab35624153508.jpg"
+      ],
+      "image": "assets/images/221303/step_01.webp"
+    },
+    {
+      "text": "Combine lemonade and iced tea in a highball or tall glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/skdWq_6ZxltL5GRpk3mv8KU7Ks8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221303-Arnold-Palmer-ddmfs-step-3-278-7bfcd96da2f24a8fa04ccfb2ae426cd3.jpg"
+      ],
+      "image": "assets/images/221303/step_02.webp"
+    },
+    {
+      "text": "Add ice and stir until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/cERMv4K0ei_1AJr0NatjRKs6LR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221303-Arnold-Palmer-ddmfs-step-4-283-b4c66950d221465bbb1b8ffd66eb0c01.jpg"
+      ],
+      "image": "assets/images/221303/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "60 kcal",
+    "carbohydrateContent": "16 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "18 mg",
+    "sugarContent": "15 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fYk_2iD92TkZ4RDGC9VK6SuJyuE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221303-Arnold-Palmer-ddmfs-4x3-298-36e0d9b8e0034c2cb04c374b3d0c7202.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221303/hero.webp",
+    "steps": [
+      "assets/images/221303/step_01.webp",
+      "assets/images/221303/step_02.webp",
+      "assets/images/221303/step_03.webp"
+    ]
+  }
+}

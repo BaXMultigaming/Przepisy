@@ -1,0 +1,84 @@
+{
+  "id": "221286",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221286/traditional-mexican-guacamole/",
+  "requested_url": "https://www.allrecipes.com/recipe/221286/traditional-mexican-guacamole/",
+  "title": "Traditional Mexican Guacamole",
+  "description": "Authentic guacamole recipe made with traditional ingredients of avocados, tomatoes, lemon juice, cilantro, onion, and some spicy jalapeño for heat.",
+  "authors": [
+    "Kaersten"
+  ],
+  "date_published": "2019-07-10T03:03:16-04:00",
+  "date_modified": "2026-06-09T12:13:33-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 avocados, peeled and pitted",
+    "1 cup chopped tomatoes",
+    "0.25 cup chopped onion",
+    "0.25 cup chopped cilantro",
+    "2 tablespoons lemon juice",
+    "1 jalapeno pepper, seeded and minced",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mash avocados in a bowl until creamy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix tomatoes, onion, cilantro, lemon juice, and jalapeño pepper into mashed avocado until well combined. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "177 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "8 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "50 mg",
+    "sugarContent": "3 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "202"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IPjGfXSQm-vDT215UVLkhEt8yBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221286-traditional-mexican-guacamole-VAT-Beauty-4x3-b030599126c145acb9e000b767a847fb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221286/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

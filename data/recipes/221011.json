@@ -1,0 +1,113 @@
+{
+  "id": "221011",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/221011/magical-egg-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/221011/magical-egg-salad/",
+  "title": "Magical Egg Salad",
+  "description": "The magic in the simple egg salad is a splash of steak sauce.",
+  "authors": [
+    "Emily G"
+  ],
+  "date_published": "2018-06-08T10:01:04-04:00",
+  "date_modified": "2024-10-11T08:41:08-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT60M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 eggs",
+    "3 tablespoons mayonnaise",
+    "2 tablespoons Dijon mustard",
+    "2 tablespoons sweet pickle relish",
+    "1 teaspoon steak sauce",
+    "0.25 teaspoon paprika",
+    "0.25 teaspoon dried dill weed",
+    "salt and ground black pepper to taste",
+    "1 pinch cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water, and peel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Chop eggs and transfer to a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir mayonnaise, Dijon mustard, sweet pickle relish, steak sauce, paprika, and dill into eggs until well mixed; season with salt and black pepper. Cover and refrigerate until chilled, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle with cayenne pepper before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4v8PhhQH8Trl5EH4rkOdbpz8Q1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9412221-ad890e172abf4b7c9ecb932da886a3a7-182c0fa2baae41b7af394412c50fba3f.jpg"
+      ],
+      "image": "assets/images/221011/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "366 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "473 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "828 mg",
+    "sugarContent": "6 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "228"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/P1gO1pq6-K3AjnAEN.mp4",
+    "description": "In this video, Nicole shows you how to make a magical egg salad with a secret ingredient that really brings it all together. After boiling and chopping the eggs, mix them together with the usual egg salad ingredients like mayo, dijon mustard, sweet relish, and seasoning. Finally, add the secret ingredient to give it some extra tanginess: steak sauce. Serve this savory egg salad on toasted bread for a decadent lunch meal!",
+    "duration": "PT2M36S",
+    "name": "How to Make Magical Egg Salad ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/P1gO1pq6/poster.jpg?width=1280",
+    "uploadDate": "2023-08-18T14:06:53-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4v8PhhQH8Trl5EH4rkOdbpz8Q1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9412221-ad890e172abf4b7c9ecb932da886a3a7-182c0fa2baae41b7af394412c50fba3f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/221011/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/221011/step_04.webp"
+    ]
+  }
+}
