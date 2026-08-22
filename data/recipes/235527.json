@@ -1,0 +1,84 @@
+{
+  "id": "235527",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235527/yummy-apple-cider-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/235527/yummy-apple-cider-pancakes/",
+  "title": "Yummy Apple Cider Pancakes",
+  "description": "Apple cider pancakes made with powdered milk and cinnamon are a surprisingly yummy way to start your day. Serve with your favorite toppings.",
+  "authors": [
+    "Deborah Jacques"
+  ],
+  "date_published": "2020-06-18T23:57:19-04:00",
+  "date_modified": "2020-06-18T23:57:19-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "0.75 cup powdered milk",
+    "2 tablespoons white sugar",
+    "1 teaspoon baking powder",
+    "0.5 teaspoon ground cinnamon",
+    "0.5 teaspoon baking soda",
+    "2 cups apple cider",
+    "0.25 cup vegetable oil",
+    "2 eggs",
+    "1 teaspoon vegetable oil, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Sift flour, powdered milk, sugar, baking powder, cinnamon, and baking soda together in a bowl. Whisk apple cider, 1/4 cup vegetable oil, and eggs together in a separate bowl. Stir apple cider mixture into flour mixture until batter is just combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 1 teaspoon vegetable oil in a griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle and cook until bubbles form and the edges are dry, 2 to 3 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "378 kcal",
+    "carbohydrateContent": "55 g",
+    "cholesterolContent": "65 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "300 mg",
+    "sugarContent": "22 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jXV4PPoJ65B_CRXsS3MpJeHyt6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1088019-1e46d6d57bca4133be6bfd5d9780e47e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235527/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "235568",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235568/chef-johns-mayo-method-steak-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/235568/chef-johns-mayo-method-steak-sauce/",
+  "title": "Chef John&#39;s Mayo Method Steak Sauce",
+  "description": "It&#39;s so easy to whip up your own steak sauce from mayonnaise plus a few other things. Vary the basic mayo-based sauce formula to make it your own.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2013-11-19T18:39:08-05:00",
+  "date_modified": "2026-06-02T14:23:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup mayonnaise",
+    "1 tablespoon oil from canned anchovies",
+    "1 tablespoon lemon juice",
+    "2 teaspoons minced fresh rosemary",
+    "1 teaspoon harissa"
+  ],
+  "steps": [
+    {
+      "text": "Combine mayonnaise, anchovy oil, lemon juice, rosemary, and harissa in a bowl. Let stand about 5 minutes to blend flavors before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Mvf0-LrlM-V_-BugAbv8L0U7d-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3592617-ef50501b5e8748baba4f9d64545453ab.jpg"
+      ],
+      "image": "assets/images/235568/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "104 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "7 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "150 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "17"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/T50JRrh0-ma1DlVvV.mp4",
+    "description": "A delicious, last-minute steak sauce recipe!",
+    "duration": "PT3M31S",
+    "name": "Chef John's Mayo Method Steak Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/T50JRrh0/poster.jpg?width=1280",
+    "uploadDate": "2021-07-24T17:14:10-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Mvf0-LrlM-V_-BugAbv8L0U7d-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3592617-ef50501b5e8748baba4f9d64545453ab.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235568/hero.webp",
+    "steps": [
+      "assets/images/235568/step_01.webp"
+    ]
+  }
+}

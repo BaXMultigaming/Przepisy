@@ -1,0 +1,87 @@
+{
+  "id": "235365",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235365/memphis-pulled-pork/",
+  "requested_url": "https://www.allrecipes.com/recipe/235365/memphis-pulled-pork/",
+  "title": "Memphis Pulled Pork",
+  "description": "This Memphis-style pulled pork is simmered in a slow cooker with brown sugar for sweet, tender, and flavorful meat that&#39;s great served in sandwiches.",
+  "authors": [
+    "bubba hardy"
+  ],
+  "date_published": "2020-03-05T00:11:24-05:00",
+  "date_modified": "2023-03-17T14:57:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT360M",
+  "total_time": "PT370M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 onion, thinly sliced",
+    "6 cloves garlic, peeled",
+    "2 (14 ounce) cans beef broth",
+    "1 (18 ounce) bottle barbeque sauce",
+    "0.33333334326744 cup brown sugar",
+    "0.33333334326744 cup cider vinegar",
+    "0.5 teaspoon ground black pepper",
+    "1 (4 pound) Boston butt pork shoulder roast",
+    "3 tablespoons water",
+    "2 tablespoons cornstarch"
+  ],
+  "steps": [
+    {
+      "text": "Spread onion slices and garlic cloves in the bottom of a slow cooker. Stir in beef broth, barbecue sauce, brown sugar, cider vinegar, and pepper. Add pork roast.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on Low for 6 to 8 hours. Remove pork from the slow cooker. Strain juices and return to the slow cooker. Mix together water and cornstarch in a small bowl; stir into juices until sauce is thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "87 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "212 mg",
+    "sugarContent": "7 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GllVl-awqBXkMJOqU89vFlDPFuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235365_MemphisPulledPork_MFS_24321-1-7e394794c0ba46999c18dd3285bd30ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235365/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

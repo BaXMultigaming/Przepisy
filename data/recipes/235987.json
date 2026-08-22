@@ -1,0 +1,75 @@
+{
+  "id": "235987",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235987/fried-cabbage/",
+  "requested_url": "https://www.allrecipes.com/recipe/235987/fried-cabbage/",
+  "title": "Fried Cabbage",
+  "description": "Fried cabbage with bacon, onions, and bell pepper is a tasty side dish the whole family will enjoy.",
+  "authors": [
+    "Contented Home-maker"
+  ],
+  "date_published": "2019-04-02T03:02:30-04:00",
+  "date_modified": "2026-01-26T06:19:39-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound bacon, diced",
+    "2 onions, chopped",
+    "1 cup diced bell pepper",
+    "1 head cabbage, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Cook and stir bacon, onions, and bell pepper together in a skillet over medium heat until bacon is just starting to brown, about 10 minutes. Add cabbage and cook, stirring frequently, until cabbage is tender and transparent, 20 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "164 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "460 mg",
+    "sugarContent": "8 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "38"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5fvy52yIZBhhlOQDeGp3ZgGTqqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1602295-405a20dab4ad421a8fae4740d014aef8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235987/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

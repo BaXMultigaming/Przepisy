@@ -1,0 +1,104 @@
+{
+  "id": "235243",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235243/turkey-stock/",
+  "requested_url": "https://www.allrecipes.com/recipe/235243/turkey-stock/",
+  "title": "Turkey Stock",
+  "description": "Make your own tasty turkey stock the day after Thanksgiving by simmering the carcass with vegetables and seasonings to make a rich base for soup.",
+  "authors": [
+    "Julia Monroe"
+  ],
+  "date_published": "2019-04-03T23:56:27-04:00",
+  "date_modified": "2026-01-06T10:03:19-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT90M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Ingredient"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 turkey carcass",
+    "3 onions, coarsely chopped",
+    "1 pound carrots, coarsely chopped",
+    "1 bunch celery, coarsely chopped",
+    "1 green bell pepper, coarsely chopped",
+    "3 cloves garlic",
+    "4 cubes chicken bouillon",
+    "1 tablespoon whole black peppercorns, or to taste",
+    "3 bay leaves",
+    "water to cover"
+  ],
+  "steps": [
+    {
+      "text": "Combine turkey carcass, onions, carrots, celery, green bell pepper, garlic, chicken bouillon cubes, peppercorns, and bay leaves in a stockpot. Pour in enough water to cover.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_51NV0-WXOlaUKlCzUXAV2AX_eI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235243-turkey-stock-VAT-step-01-46c66a55164b472faa7d0023cc0b3410.jpg"
+      ],
+      "image": "assets/images/235243/step_01.webp"
+    },
+    {
+      "text": "Bring mixture to a boil, reduce heat, and simmer until flavors blend, about 1 hour. Remove stockpot from heat and let sit for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_x8IralJ-rVfRPXBXF3cHKxeBa8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235243-turkey-stock-VAT-step-02-88661206cc074aa08ffcb3eac72e8931.jpg"
+      ],
+      "image": "assets/images/235243/step_02.webp"
+    },
+    {
+      "text": "Strain the stock through a fine-mesh sieve lined with cheesecloth into a large bowl; discard solids.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6h5LrCh64-hzQKNhOIZWY_H1hK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235243-turkey-stock-VAT-step-03-91bf0429bc33420f9f400b7b421c30e2.jpg"
+      ],
+      "image": "assets/images/235243/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "63 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "453 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OvFkXDQaF1_8_h6G8cMPD9hmHkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235243-turkey-stock-VAT-Beauty-4x3-01ebb64609b14c64a1f582c6a61e552d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235243/hero.webp",
+    "steps": [
+      "assets/images/235243/step_01.webp",
+      "assets/images/235243/step_02.webp",
+      "assets/images/235243/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "235812",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235812/mashed-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/235812/mashed-potatoes/",
+  "title": "Mashed Potatoes",
+  "description": "These simple, delicious mashed potatoes are made with sour cream and milk.",
+  "authors": [
+    "jennifer_russell"
+  ],
+  "date_published": "2018-06-08T10:11:44-04:00",
+  "date_modified": "2025-02-25T15:08:48-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 Yukon Gold potatoes, peeled and chopped",
+    "0.33333334326744 cup milk",
+    "0.25 cup sour cream",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mash potatoes with milk, sour cream, salt, and pepper in the large pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "226 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "43 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "50"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Y9dfVQt_AX_1DC2ql4PxqsUEIZ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4539489-2e2e446219ea40c3a65cc5d5d89a2e96.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235812/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

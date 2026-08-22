@@ -1,0 +1,86 @@
+{
+  "id": "235541",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235541/chicken-apple-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/235541/chicken-apple-soup/",
+  "title": "Chicken Apple Soup",
+  "description": "Chicken noodle soup recipe gets a makeover with the addition of orzo pasta and diced apple, creating this chicken soup made with rotisserie chicken.",
+  "authors": [
+    "Tom Simbron"
+  ],
+  "date_published": "2020-06-18T23:57:20-04:00",
+  "date_modified": "2026-01-14T19:22:51-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT50M",
+  "total_time": "PT65M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (32 ounce) cartons chicken broth",
+    "0.5 cooked rotisserie chicken, meat removed from bones and chopped",
+    "1 cup sliced carrots",
+    "1 Macintosh apple, cored and diced",
+    "0.5 onion, diced",
+    "0.5 cup sliced celery",
+    "0.25 cup grated Parmesan cheese",
+    "1 bay leaf",
+    "2 cups orzo pasta"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken broth, chicken, carrots, apple, onion, celery, Parmesan cheese, and bay leaf in a large pot; bring to a boil. Reduce heat to medium-low; simmer until vegetables are soft, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir orzo into soup; cook, stirring occasionally, until orzo is tender yet firm to the bite, about 11 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "514 kcal",
+    "carbohydrateContent": "70 g",
+    "cholesterolContent": "65 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1859 mg",
+    "sugarContent": "10 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TrAFbpSgWqHovyT7z4uzS6ePpCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4470163-7ea88bf38c7448c2af2f80e94a49693d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235541/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "235405",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235405/sweet-and-sour-beef/",
+  "requested_url": "https://www.allrecipes.com/recipe/235405/sweet-and-sour-beef/",
+  "title": "Sweet and Sour Beef",
+  "description": "Turn beef stew meat into a sweet-and-sour meat dish that can be eaten on its own, in a sandwich, over rice, or tossed with steamed vegetables.",
+  "authors": [
+    "SDSCHMIDT"
+  ],
+  "date_published": "2020-03-05T00:11:25-05:00",
+  "date_modified": "2023-08-24T15:27:35-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT370M",
+  "total_time": "PT375M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Entree"
+  ],
+  "cuisines": [
+    "Asian"
+  ],
+  "regions": [
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound cubed beef stew meat",
+    "3 cups cold water",
+    "0.75 cup vinegar",
+    "9 tablespoons soy sauce",
+    "9 tablespoons brown sugar",
+    "5 tablespoons cornstarch"
+  ],
+  "steps": [
+    {
+      "text": "Heat a deep skillet over medium heat. Cook and stir beef in hot skillet until completely browned, 7 to 10 minutes. Transfer beef to a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk water, vinegar, soy sauce, brown sugar, and cornstarch together until smooth; pour over the beef.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on Low until the beef is tender and the sauce is thick, 6 to 8 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "321 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "60 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "2090 mg",
+    "sugarContent": "30 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oo3ollPoFnQzWxvO6Lh-17Ad0Mo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3518093-1e799735d6524a4da4d1d1da8cec7fd2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235405/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

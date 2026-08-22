@@ -1,0 +1,79 @@
+{
+  "id": "235941",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235941/quick-hot-chocolate/",
+  "requested_url": "https://www.allrecipes.com/recipe/235941/quick-hot-chocolate/",
+  "title": "Quick Hot Chocolate",
+  "description": "Enjoy this rich, creamy hot chocolate topped with marshmallows and chocolate and caramel syrup.",
+  "authors": [
+    "laady_jr"
+  ],
+  "date_published": "2020-06-18T23:57:51-04:00",
+  "date_modified": "2022-09-28T14:31:13-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "3 ounces unsweetened baking chocolate",
+    "0.33333334326744 cup white sugar",
+    "1 pinch salt",
+    "4.5 cups milk"
+  ],
+  "steps": [
+    {
+      "text": "Heat water and chocolate in a saucepan over medium heat, stirring constantly, until chocolate is melted and mixture is smooth, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir sugar and salt into chocolate mixture. Bring to a boil, reduce heat to low, and simmer, stirring constantly, until sugar is dissolved and flavors combine, about 4 minutes. Pour milk into chocolate mixture and cook until hot. Beat with a whisk until foamy or stir until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "80 mg",
+    "sugarContent": "20 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MzC0BWH8WEUHPna7jGlJcSvTCP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1080716-213452f50dda42ebb2821b2f594fe62f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235941/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

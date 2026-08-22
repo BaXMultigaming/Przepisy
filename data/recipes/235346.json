@@ -1,0 +1,107 @@
+{
+  "id": "235346",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235346/apple-pie-moonshine/",
+  "requested_url": "https://www.allrecipes.com/recipe/235346/apple-pie-moonshine/",
+  "title": "Apple Pie Moonshine",
+  "description": "This apple pie moonshine recipe is made with grain alcohol, vodka, apple cider, sugar, and spices, and is perfect for slow-sipping on a chilly evening.",
+  "authors": [
+    "STASH"
+  ],
+  "date_published": "2020-06-18T23:57:10-04:00",
+  "date_modified": "2025-12-31T12:45:16-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT60M",
+  "total_time": "PT70M",
+  "yield": [
+    "2 1/2 gallons"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 gallon apple juice",
+    "1 gallon apple cider",
+    "2 cups white sugar",
+    "2 cups brown sugar",
+    "4 cinnamon sticks, or more to taste",
+    "1 pinch apple pie spice",
+    "1 (750 milliliter) bottle 190 proof grain alcohol",
+    "1 (750 milliliter) bottle vodka"
+  ],
+  "steps": [
+    {
+      "text": "Combine juice, cider, white sugar, brown sugar, cinnamon sticks, and apple pie spice in a large pot; bring to a lively simmer over medium heat. Cover, reduce heat to low, and simmer for about 1 hour. Remove from heat; cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rQ3X3l7bBHckth6ZKDgMK8_beFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235346-apple-pie-moonshine-DDMFS-step-2-c4be45166fa74f2a9ee46860cbb3345c.jpg"
+      ],
+      "image": "assets/images/235346/step_01.webp"
+    },
+    {
+      "text": "Stir grain alcohol and vodka into apple mixture; remove cinnamon sticks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/AQv5JgbX4QUE9T85nI97L-Hgi40=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235346-apple-pie-moonshine-DDMFS-step-3-aa097a344af94e13b38221a2ae58c7ca.jpg"
+      ],
+      "image": "assets/images/235346/step_02.webp"
+    },
+    {
+      "text": "Divide between glass jars or bottles. Store in the refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/OQyLUn62A7wfihWg4HXZJulGlEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235346-apple-pie-moonshine-DDMFS-4x3-8a6c348c0ac94c99bcdafd4ce214a11f.jpg"
+      ],
+      "image": "assets/images/235346/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "104 kcal",
+    "carbohydrateContent": "17 g",
+    "fiberContent": "0 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "81"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/T9Owg9hX-K3AjnAEN.mp4",
+    "description": "Is there any better way to ring in the fall than with an apple pie-style cocktail? In this video, Nicole combines apple juice, apple cider, vodka, and more to create apple pie moonshine! After the apple pie drink mixture simmers over the stove for around an hour, vodka and grain alcohol are added to give this recipe a moonshine kick.",
+    "duration": "PT58S",
+    "name": "How to Make Apple Pie Moonshine",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/T9Owg9hX/thumbnails/DxrKdrS3.jpg?width=1280",
+    "uploadDate": "2025-08-19T14:56:01-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OQyLUn62A7wfihWg4HXZJulGlEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-235346-apple-pie-moonshine-DDMFS-4x3-8a6c348c0ac94c99bcdafd4ce214a11f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235346/hero.webp",
+    "steps": [
+      "assets/images/235346/step_01.webp",
+      "assets/images/235346/step_02.webp",
+      "assets/images/235346/step_03.webp"
+    ]
+  }
+}

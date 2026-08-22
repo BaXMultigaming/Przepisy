@@ -1,0 +1,111 @@
+{
+  "id": "235505",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235505/crab-boil/",
+  "requested_url": "https://www.allrecipes.com/recipe/235505/crab-boil/",
+  "title": "Crab Boil",
+  "description": "This classic crab boil with whole crab, fresh corn, sausage, onion, and red potatoes cooked in a seasoned broth makes a sensational seafood feast.",
+  "authors": [
+    "Preston Hoover"
+  ],
+  "date_published": "2019-04-02T03:02:17-04:00",
+  "date_modified": "2025-11-20T15:52:59-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 red potatoes",
+    "8 andouille sausages, sliced",
+    "4 onions, quartered",
+    "2 ears fresh corn, cut into halves",
+    "0.5 cup seafood seasoning (such as Old Bay®), or to taste",
+    "4 whole Dungeness crabs"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients. Bring a large pot of water to a boil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qk8Ri4M7O7tfNDGAyuruK_AbCoo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-23550-Crab-Boil-Recipe-DDMFS-4x3-step-01-88512633b44e45ab9d9595b2c6233eca.jpg"
+      ],
+      "image": "assets/images/235505/step_01.webp"
+    },
+    {
+      "text": "Add potatoes, sausages, onions, corn, and seafood seasoning. Boil until potatoes are cooked through, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2wCJp4_p0Hlwlnj-Qlx0C5BL42M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-23550-Crab-Boil-Recipe-DDMFS-4x3-step-03-5ba6a3eb72e44c538590c0042040761f.jpg"
+      ],
+      "image": "assets/images/235505/step_02.webp"
+    },
+    {
+      "text": "Gently drop crabs into pot and boil until crabmeat is cooked through, at least 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BVtFu6VLzwj5XFsE1-q0Xa7Vq-s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-23550-Crab-Boil-Recipe-DDMFS-4x3-step-03b-71a926cf271d4ee4b3a36d9a0956a611.jpg"
+      ],
+      "image": "assets/images/235505/step_03.webp"
+    },
+    {
+      "text": "Drain and serve. Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/C_kaHOXhXSFZmxJ7taFAk-Fedlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-23550-Crab-Boil-Recipe-DDMFS-4x3-step-04-b607724ec29c4d6a954359cf66f977ad.jpg"
+      ],
+      "image": "assets/images/235505/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "416 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "83 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "4890 mg",
+    "sugarContent": "12 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KroxS7u_2WBTUR7GXagO0O8C06I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-23550-Crab-Boil-Recipe-DDMFS-4x3-7d224cecc83247a5b61940c1a4aecd43.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235505/hero.webp",
+    "steps": [
+      "assets/images/235505/step_01.webp",
+      "assets/images/235505/step_02.webp",
+      "assets/images/235505/step_03.webp",
+      "assets/images/235505/step_04.webp"
+    ]
+  }
+}

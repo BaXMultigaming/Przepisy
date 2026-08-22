@@ -1,0 +1,79 @@
+{
+  "id": "235430",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235430/good-and-easy-sloppy-joes/",
+  "requested_url": "https://www.allrecipes.com/recipe/235430/good-and-easy-sloppy-joes/",
+  "title": "Good and Easy Sloppy Joes",
+  "description": "The sauce for these sloppy joes is a mixture of chili sauce, brown sugar, mustard, and vinegar.",
+  "authors": [
+    "Karen"
+  ],
+  "date_published": "2020-03-05T00:11:26-05:00",
+  "date_modified": "2022-01-07T13:58:24-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 (12 ounce) bottle chili sauce",
+    "2 tablespoons mustard",
+    "2 tablespoons brown sugar",
+    "1 tablespoon vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 7 to 10 minutes; drain and discard grease. Return skillet and beef to stove and reduce heat to medium-low.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir chili sauce, mustard, brown sugar, and vinegar into the ground beef; simmer until the sauce thickens, 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "163 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "175 mg",
+    "sugarContent": "5 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GLoKxY0IIOLgKMzjTlaDIRSAsPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1069316-7d4cc4370ebe44689f1e08d3cf694aa6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235430/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

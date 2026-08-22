@@ -1,0 +1,104 @@
+{
+  "id": "235755",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235755/birria-recipe/",
+  "requested_url": "https://www.allrecipes.com/recipe/235755/birria-recipe/",
+  "title": "Birria Recipe",
+  "description": "This birria recipe is a delicious Mexican dish of braised beef in a chile pepper sauce. Serve in warm corn tortillas with cilantro, lime, and onion.",
+  "authors": [
+    "Cynthia"
+  ],
+  "date_published": "2019-09-27T18:57:21-04:00",
+  "date_modified": "2024-11-13T20:50:57-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT195M",
+  "total_time": "PT220M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "5 dried Anaheim chile peppers, stemmed and seeded",
+    "5 guajillo chile peppers, stemmed and seeded",
+    "water to cover",
+    "0.25 onion",
+    "1 tablespoon mixed spices, or more to taste",
+    "1 tablespoon salt, or to taste",
+    "3 pounds cubed beef stew meat",
+    "6 bay leaves"
+  ],
+  "steps": [
+    {
+      "text": "Place Anaheim and guajillo peppers in a saucepan; cover with water and bring to a boil. Reduce heat to medium-low and simmer until tender, about 15 minutes. Set aside to cool for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/hc7TYBqZw8_bkCfBoOQNCByiUd0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235755-birria-recipe-step2-238-c51d043beedc443eb7be84cae661327f.jpg"
+      ],
+      "image": "assets/images/235755/step_01.webp"
+    },
+    {
+      "text": "Transfer chiles and water into a blender; add onion, mixed spices, and salt. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/s7bOTzJ9RmG08bp3kmLkB9_fTLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235755-birria-recipe-step3-242-4d59b3a3a3254e1e97cd9d1314b79f46.jpg"
+      ],
+      "image": "assets/images/235755/step_02.webp"
+    },
+    {
+      "text": "Place stew meat in a large pot; stir in pureed chile mixture and add bay leaves. Cook over medium-low heat until meat is very tender, 3 to 5 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/O5roV12-nCIdgy2Bzp3prSd4Kvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235755-birria-recipe-step4-347-41f857bb843e490da166963d1f5a34a1.jpg"
+      ],
+      "image": "assets/images/235755/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "60 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "630 mg",
+    "sugarContent": "1 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "63"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rKV3lQ_BQbE9I8cvwbmMt0N2NGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235755-birria-recipe-3x4-403copy-5ef95533290443db8200e297cceca9b8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235755/hero.webp",
+    "steps": [
+      "assets/images/235755/step_01.webp",
+      "assets/images/235755/step_02.webp",
+      "assets/images/235755/step_03.webp"
+    ]
+  }
+}

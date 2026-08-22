@@ -1,0 +1,87 @@
+{
+  "id": "235880",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235880/baked-taro-chips/",
+  "requested_url": "https://www.allrecipes.com/recipe/235880/baked-taro-chips/",
+  "title": "Baked Taro Chips",
+  "description": "Homemade taro root chips are a quick and easy snack or accompaniment to your favorite sandwich instead of fries.",
+  "authors": [
+    "Chris Denzer"
+  ],
+  "date_published": "2018-06-08T10:11:47-04:00",
+  "date_modified": "2023-10-15T15:56:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large taro root, peeled and sliced into 1/4-inch disks",
+    "1 tablespoon olive oil",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 450 degrees F (230 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place taro disks in a 1- to 2-inch deep dish. Brush disks evenly with olive oil and sprinkle with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until tops of chips are crisp, about 15 minutes; flip chips and continue baking until second side is crisp, about 15 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "582 mg",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oIiiWp7uMYlIAReTuxh9561zAP0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7419883-f4b520eed4f04f05b0dcec6a51e9f95d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235880/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

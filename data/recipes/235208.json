@@ -1,0 +1,83 @@
+{
+  "id": "235208",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235208/pumpkin-alfredo-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/235208/pumpkin-alfredo-sauce/",
+  "title": "Pumpkin Alfredo Sauce",
+  "description": "This homemade creamy pasta sauce uses autumnal favorite ingredient pumpkin for a different take on alfredo sauce.",
+  "authors": [
+    "@m"
+  ],
+  "date_published": "2017-10-10T09:01:49-04:00",
+  "date_modified": "2022-01-14T02:17:05-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "9 sage leaves",
+    "1 cup heavy whipping cream",
+    "1 cup pumpkin puree",
+    "1 teaspoon ground nutmeg",
+    "1 teaspoon ground cinnamon",
+    "1 tablespoon grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a saucepan over medium heat; cook and stir sage leaves in hot butter until the butter takes on the sage flavor, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk cream, pumpkin, nutmeg, cinnamon, and Parmesan cheese into the butter; cook until the cheese melts, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "289 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "98 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "231 mg",
+    "sugarContent": "2 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/R6rLksySIe4vBtykODz1tzqttbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2761829-02bb80b7392e4848a63f296029c80582.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235208/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

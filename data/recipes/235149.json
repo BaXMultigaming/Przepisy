@@ -1,0 +1,78 @@
+{
+  "id": "235149",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235149/quick-easy-chicken-barley-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/235149/quick-easy-chicken-barley-soup/",
+  "title": "Quick Easy Chicken Barley Soup",
+  "description": "This chicken and barley soup is quick and easy to make and just right for a cold night.",
+  "authors": [
+    "Charley"
+  ],
+  "date_published": "2018-06-08T10:11:03-04:00",
+  "date_modified": "2025-02-14T18:56:13-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 quarts chicken broth",
+    "2 skinless, boneless chicken breast halves, chopped",
+    "2 stalks celery, chopped",
+    "2 carrots, chopped",
+    "1 onion, chopped",
+    "0.66666668653488 cup barley",
+    "0.33333334326744 cup rice",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring chicken broth to a boil in a large pot. Stir chicken, celery, carrots, onion, barley, rice, salt, and pepper into broth. Reduce heat to medium-high and cook until chicken and rice are cooked through, about 20 minutes. Adjust salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "281 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1988 mg",
+    "sugarContent": "5 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QZqOYdGb1Y02Uk1MT88wFVNYYnM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1095627-6502ad8141c84482ab646156f47c5447.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235149/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

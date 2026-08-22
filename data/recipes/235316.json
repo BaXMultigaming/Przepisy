@@ -1,0 +1,82 @@
+{
+  "id": "235316",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235316/garlic-quinoa/",
+  "requested_url": "https://www.allrecipes.com/recipe/235316/garlic-quinoa/",
+  "title": "Garlic Quinoa",
+  "description": "This quinoa is simmered with fresh garlic, chicken stock, and butter for an easy 4-ingredient side dish for steak, fish, chicken, veggies — you name it!",
+  "authors": [
+    "sjflick"
+  ],
+  "date_published": "2016-06-04T09:52:41-04:00",
+  "date_modified": "2026-04-15T03:08:37-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "1 tablespoon minced garlic",
+    "2 cups chicken broth",
+    "1 cup quinoa"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a large saucepan over medium heat. Cook and stir garlic in melted butter until just browned, about 5 minutes. Pour chicken broth into the saucepan; add quinoa and stir. Bring to a boil, reduce heat to low, cover, and simmer until liquid is absorbed, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the saucepan from heat and let sit for 5 minutes before fluffing quinoa with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "193 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "503 mg",
+    "sugarContent": "1 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "101"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9VTLiYTb2M-MnkhJ46CGcu7Ha6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1399317-73d707a5926e458bbe295317a5e86889.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235316/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

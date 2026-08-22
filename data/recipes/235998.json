@@ -1,0 +1,72 @@
+{
+  "id": "235998",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235998/sour-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/235998/sour-smoothie/",
+  "title": "Sour Smoothie",
+  "description": "A smoothie made with oranges, lemon, lime, and kiwi with a hint of honey is just the right amount of sweet and sour.",
+  "authors": [
+    "Denise Meredith"
+  ],
+  "date_published": "2017-06-22T09:01:10-04:00",
+  "date_modified": "2017-06-22T09:01:10-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup ice cubes",
+    "1 orange, peeled",
+    "2 limes, peeled",
+    "1 lemon, peeled",
+    "1 kiwi, peeled",
+    "1 teaspoon honey, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend ice, orange, limes, lemon, kiwi, and honey together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "105 kcal",
+    "carbohydrateContent": "31 g",
+    "fiberContent": "8 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "16 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iHIZUtZSA7Un42NtLYC3wD_t4I0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1090133-0493f09dc5a644d189af3964831a8c9f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235998/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

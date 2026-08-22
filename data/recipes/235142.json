@@ -1,0 +1,101 @@
+{
+  "id": "235142",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/235142/hello-dolly-bars/",
+  "requested_url": "https://www.allrecipes.com/recipe/235142/hello-dolly-bars/",
+  "title": "Hello Dolly Bars",
+  "description": "Hello Dolly bars, also known as seven layer bars, are a delicious mix of ingredients from graham cracker, to coconut, to chocolate, nuts, and more.",
+  "authors": [
+    "Cupcake Princess"
+  ],
+  "date_published": "2019-04-02T03:02:02-04:00",
+  "date_modified": "2026-06-23T11:58:40-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "24",
+    "2 dozen bars"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups graham cracker crumbs",
+    "0.5 cup butter, melted",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1.5 cups semisweet chocolate chips",
+    "1 cup chopped walnuts",
+    "1 cup shredded coconut",
+    "0.5 cup white chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 325 degrees F (165 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix graham cracker crumbs and melted butter together in a bowl until evenly moistened; press into the bottom of a 9x13-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour 1/2 of the can of sweetened condensed milk over the graham cracker crust. Sprinkle semisweet chocolate chips, walnuts, coconut, and white chocolate chips over the graham cracker crust; gently press chocolate, nuts, and coconuts into the crust. Drizzle remaining 1/2 can of condensed milk over the top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until fragrant and coconut is golden, 25 to 30 minutes. Cool completely before cutting into squares.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "227 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "94 mg",
+    "sugarContent": "20 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "51"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bTbos1gdAoA6jtioCVIxHE0m2f0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235142-hello-dolly-bars-VAT-Beauty-4x3-7b7c159eb74e4d6c90ab032121163f99.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/235142/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
