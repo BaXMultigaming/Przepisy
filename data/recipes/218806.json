@@ -1,0 +1,75 @@
+{
+  "id": "218806",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218806/chocolate-banana-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/218806/chocolate-banana-milkshake/",
+  "title": "Chocolate Banana Milkshake",
+  "description": "A chocolate-flavored creamy milkshake is made with a frozen banana for extra flavor.",
+  "authors": [
+    "Rosemary62"
+  ],
+  "date_published": "2014-01-11T02:01:29-05:00",
+  "date_modified": "2026-05-09T10:06:13-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT35M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana, frozen and chunked",
+    "6 tablespoons powdered chocolate-flavored malt drink mix (such as Ovaltine®)",
+    "1 cup milk",
+    "2 cups vanilla ice cream"
+  ],
+  "steps": [
+    {
+      "text": "Place the frozen banana chunks, powdered drink mix, milk, and vanilla ice cream into a blender, and blend until smooth and creamy. Pour into large glasses.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "439 kcal",
+    "carbohydrateContent": "64 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "198 mg",
+    "sugarContent": "51 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/knePJh6oJDfkBWFKq6X3Xk9S4pU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/697527-aa18fdd8a380403193d0208185ec6500.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218806/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

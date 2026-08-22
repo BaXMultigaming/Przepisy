@@ -1,0 +1,96 @@
+{
+  "id": "218989",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218989/mediterranean-kale/",
+  "requested_url": "https://www.allrecipes.com/recipe/218989/mediterranean-kale/",
+  "title": "Mediterranean Kale",
+  "description": "Steamed kale is tossed in a bright and lemony dressing in this easy side dish.",
+  "authors": [
+    "Julia Phillips"
+  ],
+  "date_published": "2011-02-07T15:13:21-05:00",
+  "date_modified": "2026-02-14T16:04:00-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 cups chopped kale",
+    "2 tablespoons lemon juice",
+    "1 tablespoon olive oil, or as needed",
+    "1 tablespoon minced garlic",
+    "1 teaspoon soy sauce",
+    "salt to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place a steamer insert into a saucepan, and fill with water to just below the bottom of the steamer. Cover, and bring the water to a boil over high heat. Add the kale, recover, and steam until just tender, 7 to 10 minutes depending on thickness.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk together the lemon juice, olive oil, garlic, soy sauce, salt, and black pepper in a large bowl. Toss steamed kale into dressing until well coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/VDgcPZnduqXNmKp0UQmHBKWR1cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218989mediterranean-kaleFranceCvideo4x3-3743619457034564a280a48599efb969.jpg"
+      ],
+      "image": "assets/images/218989/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "91 kcal",
+    "carbohydrateContent": "15 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "108 mg",
+    "sugarContent": "0 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "433"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/iCL2n41G-ma1DlVvV.mp4",
+    "description": "AR1118",
+    "duration": "PT2M37S",
+    "name": "Mediterranean Kale",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/iCL2n41G/poster.jpg?width=1280",
+    "uploadDate": "2021-07-11T10:20:45-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VDgcPZnduqXNmKp0UQmHBKWR1cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/218989mediterranean-kaleFranceCvideo4x3-3743619457034564a280a48599efb969.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218989/hero.webp",
+    "steps": [
+      null,
+      "assets/images/218989/step_02.webp"
+    ]
+  }
+}

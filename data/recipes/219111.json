@@ -1,0 +1,80 @@
+{
+  "id": "219111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/219111/spicy-honey-mustard-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/219111/spicy-honey-mustard-sauce/",
+  "title": "Spicy Honey Mustard Sauce",
+  "description": "This honey mustard sauce is given a little boost from the addition of hot sauce and rice vinegar.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2019-10-10T00:50:12-04:00",
+  "date_modified": "2022-01-14T02:17:09-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "12",
+    "12 tablespoons"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup mayonnaise",
+    "2 tablespoons Dijon mustard",
+    "2 teaspoons yellow mustard",
+    "1 tablespoon rice vinegar",
+    "2 tablespoons honey",
+    "0.5 teaspoon hot sauce"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together mayonnaise, Dijon mustard, yellow mustard, rice vinegar, honey, and hot sauce in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WO4uJ49iUSkE4VV5Hhrf4RPf0es=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4538583-68946cbbdeaf447fb5f98cf207e28a01.jpg"
+      ],
+      "image": "assets/images/219111/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "58 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "2 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "112 mg",
+    "sugarContent": "3 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "53"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/85TM129c-DyXkTCke.mp4",
+    "description": "0321",
+    "duration": "PT1M45S",
+    "name": "Honey Mustard Dipping Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/85TM129c/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T11:51:10-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WO4uJ49iUSkE4VV5Hhrf4RPf0es=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4538583-68946cbbdeaf447fb5f98cf207e28a01.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/219111/hero.webp",
+    "steps": [
+      "assets/images/219111/step_01.webp"
+    ]
+  }
+}

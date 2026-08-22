@@ -1,0 +1,79 @@
+{
+  "id": "218690",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218690/elvis-grilled-cheese-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/218690/elvis-grilled-cheese-sandwich/",
+  "title": "Elvis&#39; Grilled Cheese Sandwich",
+  "description": "This melty sandwich, made with peanut butter, bacon, and American cheese, is fit for The King.",
+  "authors": [
+    "Ricky Cooks"
+  ],
+  "date_published": "2011-12-15T15:55:05-05:00",
+  "date_modified": "2011-12-15T15:55:05-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices bacon",
+    "1 tablespoon smooth peanut butter",
+    "2 slices soft white bread",
+    "1 slice American cheese",
+    "1 tablespoon butter, softened"
+  ],
+  "steps": [
+    {
+      "text": "Place the bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain the bacon slices on a paper towel-lined plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread peanut butter on a slice of white bread, and cover with cheese slice and bacon. Top with the other piece of bread. Spread butter on both sides of the sandwich, and pan-fry in a skillet over medium heat until the bread is golden brown and the cheese has melted, 2 to 3 minutes per side. Serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "534 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "77 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "1335 mg",
+    "sugarContent": "4 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dhveaxG8b4wokph8JumUBhDAKsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/729312-36f98def0f26485f99885b78ff49d6d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218690/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

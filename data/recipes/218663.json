@@ -1,0 +1,100 @@
+{
+  "id": "218663",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218663/bobs-pineapple-pie/",
+  "requested_url": "https://www.allrecipes.com/recipe/218663/bobs-pineapple-pie/",
+  "title": "Bob&#39;s Pineapple Pie",
+  "description": "A double crust pie is filled with a creamy pineapple egg custard.",
+  "authors": [
+    "pvf"
+  ],
+  "date_published": "2020-06-18T23:45:25-04:00",
+  "date_modified": "2025-04-01T12:36:10-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT40M",
+  "total_time": "PT60M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup cornstarch",
+    "2 (20 ounce) cans crushed pineapple, drained with juice reserved",
+    "1.5 cups white sugar",
+    "0.25 teaspoon salt",
+    "4 egg yolks",
+    "pastry for a (10 inch) double crust pie"
+  ],
+  "steps": [
+    {
+      "text": "Dissolve the cornstarch in 1/4 cup of the reserved pineapple juice. Combine the drained pineapple, sugar, salt, egg yolks, cornstarch mixture, and 1 cup of the reserved pineapple juice in a large saucepan. Cook and stir over medium heat just until the mixture has thickened slightly and turned shiny. Do not boil. Remove from heat, and cool 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven to 400 degrees F (200 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Line a 10-inch pie plate with half of the pastry. Pour the cooled pineapple mixture into the crust. Top with second crust, and seal and crimp the edge. Use a fork to poke holes in the top crust in a few places.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until the crust is golden brown, about 35 to 40 minutes. Cool before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "367 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "244 mg",
+    "sugarContent": "39 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0T3GULr-zKaT4SRho5AftvfroE8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2900159-e45cae89c11a44fcb5654ac7852ab578.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218663/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

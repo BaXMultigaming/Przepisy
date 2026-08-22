@@ -1,0 +1,83 @@
+{
+  "id": "218525",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218525/minted-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/218525/minted-carrots/",
+  "title": "Minted Carrots",
+  "description": "These tender minted baby carrots are sweet from brown sugar and honey. The simple recipe is easily doubled or even tripled for your next gathering.",
+  "authors": [
+    "Marlys Davis"
+  ],
+  "date_published": "2020-06-18T23:45:21-04:00",
+  "date_modified": "2025-05-14T20:26:33-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound baby carrots",
+    "1 teaspoon butter",
+    "2 tablespoons brown sugar",
+    "2 tablespoons honey",
+    "0.125 teaspoon dried mint, crushed"
+  ],
+  "steps": [
+    {
+      "text": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil over high heat. Add carrots, cover, and steam until just tender, 2 to 6 minutes depending on thickness. Drain carrots.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat butter in a skillet over low heat. Add carrots, brown sugar, honey, and mint; cook and stir until sugar is dissolved, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "173 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "107 mg",
+    "sugarContent": "36 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6C4BvB5JMUL_m6AVJg9fX1lL7zQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7517212-42f650e21c984f00986b38399f3ff7f3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218525/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

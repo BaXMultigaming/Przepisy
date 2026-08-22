@@ -1,0 +1,79 @@
+{
+  "id": "218635",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218635/apple-bacon-and-cheddar-panini/",
+  "requested_url": "https://www.allrecipes.com/recipe/218635/apple-bacon-and-cheddar-panini/",
+  "title": "Apple, Bacon, and Cheddar Panini",
+  "description": "Cheddar cheese, bacon, and sliced apples are layered between 3 slices of buttered bread and pressed into an satisfying golden brown panini.",
+  "authors": [
+    "Karen"
+  ],
+  "date_published": "2019-04-03T02:30:57-04:00",
+  "date_modified": "2019-04-03T02:30:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT4M",
+  "total_time": "PT14M",
+  "yield": [
+    "1",
+    "1 panini"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter, or to taste",
+    "3 slices bread",
+    "0.25 cup shredded Cheddar cheese",
+    "4 slices cooked bacon",
+    "0.25 apple, peeled and sliced thinly"
+  ],
+  "steps": [
+    {
+      "text": "Preheat a panini press.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Butter 2 of the bread slices. Place 1 slice on the panini press, buttered-side-down. Arrange Cheddar cheese on the bread; lay unbuttered bread on top. Place bacon and apple on top; cover with the remaining slice of bread, buttered side-up. Close the press and cook until panini is browned, about 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "535 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "91 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "850 mg",
+    "sugarContent": "7 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KVWC5nMbTuvNqxwGlFBtXEzTAvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5340852-24746c546fff4ef796234fa58f64b3a3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218635/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

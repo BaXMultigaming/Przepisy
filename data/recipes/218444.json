@@ -1,0 +1,80 @@
+{
+  "id": "218444",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218444/killed-lettuce-and-onion/",
+  "requested_url": "https://www.allrecipes.com/recipe/218444/killed-lettuce-and-onion/",
+  "title": "Killed Lettuce and Onion",
+  "description": "Killed lettuce (aka kilt lettuce) is a traditional Appalachian recipe featuring fresh leaf lettuce tossed with hot grease, green onion, and crumbled bacon.",
+  "authors": [
+    "shann"
+  ],
+  "date_published": "2011-12-15T15:54:47-05:00",
+  "date_modified": "2024-07-08T13:50:47-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 slices bacon",
+    "4 green onions, chopped",
+    "1 head leaf lettuce - rinsed, dried and torn into bite-size pieces"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned and crisp, about 10 minutes. Drain on paper towels and crumble; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add green onions to bacon grease; cook and stir until onions reach desired tenderness, about 1 minute. Pour onions and bacon grease over lettuce; toss lightly. Top with crumbled bacon and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "144 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "255 mg",
+    "sugarContent": "1 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3CxZo-CpBHbJOF0Veen1aKf865k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/686383-7afdd79884eb481dbd7d85e113c43b07.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218444/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

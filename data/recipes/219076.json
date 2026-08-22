@@ -1,0 +1,113 @@
+{
+  "id": "219076",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/219076/chef-johns-turkey-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/219076/chef-johns-turkey-chili/",
+  "title": "Chef John’s Turkey Chili",
+  "description": "Cocoa powder adds richness and depth to this delicious turkey chili from Chef John. Garnish with ripe avocado slices, sour cream, jalapeño, and cilantro.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2011-09-30T17:38:45-04:00",
+  "date_modified": "2026-07-20T14:27:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT100M",
+  "total_time": "PT110M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup ancho chile powder",
+    "1 tablespoon paprika",
+    "1 tablespoon ground cumin",
+    "2.5 teaspoons salt",
+    "1.5 teaspoons ground dried chipotle pepper",
+    "1 teaspoon dried oregano",
+    "1 teaspoon unsweetened cocoa powder",
+    "1 teaspoon ground black pepper",
+    "0.25 teaspoon ground cayenne pepper",
+    "0.125 teaspoon ground cinnamon",
+    "1 tablespoon olive oil",
+    "1 onion, chopped",
+    "2.5 pounds ground turkey",
+    "3 cloves garlic, minced",
+    "1 cup tomato puree",
+    "2 cups water",
+    "2 (12 ounce) cans pinquito or pinto beans, drained and rinsed"
+  ],
+  "steps": [
+    {
+      "text": "Make the spice mix: Mix ancho chili powder, paprika, cumin, salt, chipotle pepper, oregano, cocoa powder, black pepper, cayenne pepper, and cinnamon in a bowl; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Make the chili: Heat olive oil in a large, heavy pot over medium heat. Stir in onion; cook and stir until onion has softened and turned translucent, about 5 minutes. Stir in ground turkey and garlic. Cook and stir until turkey is no longer pink, breaking up any large chunks, 7 to 8 minutes. Stir in spice mixture. Cook until fragrant, 3 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in tomato purée and water. Bring to a simmer, then reduce heat to low. Cook until turkey meat is broken down, about 1 hour. Stir in beans, and continue to simmer until flavors have blended, 20 to 30 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/P-AHe4h5xlNesI4g58H8UtpngiU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5426702-c47fe4d10d8942d3ba8e178d296ba6e8.jpg"
+      ],
+      "image": "assets/images/219076/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "448 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "140 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "45 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "1635 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "158"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ybQZs6cx-7uK69qX5.mp4",
+    "description": "0366",
+    "duration": "PT4M58S",
+    "name": "Easy Turkey Chili",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ybQZs6cx/poster.jpg?width=1280",
+    "uploadDate": "2021-07-27T06:18:23-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/P-AHe4h5xlNesI4g58H8UtpngiU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5426702-c47fe4d10d8942d3ba8e178d296ba6e8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/219076/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/219076/step_03.webp"
+    ]
+  }
+}
