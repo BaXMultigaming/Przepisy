@@ -1,0 +1,78 @@
+{
+  "id": "272988",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/272988/watermelon-cucumber-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/272988/watermelon-cucumber-salad/",
+  "title": "Watermelon, Cucumber, and Mint Salad",
+  "description": "This watermelon, cucumber, mint, and feta cheese salad is super easy to make and so refreshing on a hot day.",
+  "authors": [
+    "Sarah K"
+  ],
+  "date_published": "2020-06-19T21:51:12-04:00",
+  "date_modified": "2024-12-04T10:51:15-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large seedless watermelon, cut into 1-inch cubes",
+    "2 cucumbers, thinly sliced",
+    "12 leaves fresh mint, thinly sliced",
+    "0.25 cup olive oil",
+    "2 tablespoons apple cider vinegar",
+    "coarse salt and ground black pepper to taste",
+    "1 cup crumbled feta cheese"
+  ],
+  "steps": [
+    {
+      "text": "Gently mix watermelon, cucumbers, and mint in a large bowl. Whisk olive oil, vinegar, salt, and pepper together in a small bowl. Drizzle over salad and gently toss to coat. Add feta cheese and gently mix.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "448 kcal",
+    "carbohydrateContent": "86 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "240 mg",
+    "sugarContent": "71 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Riw2HEpBvKcvqATwxB36Zq2lVBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/272988_Watermelon-Cucumber-and-Mint-Salad-4x3-97a4c5354c9d4b5ebe1b666a6c85aea1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/272988/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

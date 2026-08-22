@@ -1,0 +1,84 @@
+{
+  "id": "272924",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/272924/breakfast-scramble/",
+  "requested_url": "https://www.allrecipes.com/recipe/272924/breakfast-scramble/",
+  "title": "Breakfast Scramble",
+  "description": "Eggs are scrambled with kale, harissa, bell peppers, and bacon for a quick yet flavor-packed keto breakfast done in one pan.",
+  "authors": [
+    "Kim Nelson"
+  ],
+  "date_published": "2019-08-15T02:14:00-04:00",
+  "date_modified": "2019-08-15T02:14:00-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons olive oil",
+    "1 red bell pepper, chopped",
+    "0.5 onion, diced",
+    "1 cup chopped kale, stems removed",
+    "2 teaspoons harissa paste (such as CAVA brand)",
+    "1 teaspoon minced garlic",
+    "6 eggs, beaten",
+    "3 slices cooked bacon, crumbled",
+    "0.33333334326744 cup crumbled feta",
+    "0.25 cup chopped pepperoncini peppers"
+  ],
+  "steps": [
+    {
+      "text": "Heat 1/2 the oil in a nonstick pan over medium high heat. Add bell pepper and onion; cook, stirring frequently, until pepper starts to brown, about 5 minutes. Add remaining oil. Stir kale, harissa, and garlic into the hot oil until well combined. Reduce heat to medium; splash in 1 to 2 tablespoons of water if needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gradually stir eggs into the kale mixture. Cook, stirring frequently, until nearly set, about 2 minutes. Mix in bacon, feta, and pepperoncini. Heat through. Transfer to a bowl or plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "248 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "274 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "853 mg",
+    "sugarContent": "3 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jlACdZRopbwJDxFVgVfR7a3__LQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4994876-1b4dc72fb35548cca9f1890962a2c3ec.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/272924/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

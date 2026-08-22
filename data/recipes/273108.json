@@ -1,0 +1,84 @@
+{
+  "id": "273108",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/273108/basil-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/273108/basil-pesto/",
+  "title": "Basil Pesto",
+  "description": "This basil pesto with pine nuts and Parmigiano-Reggiano cheese is quickly made in a food processor for a bright, flavorful sauce to enhance dishes.",
+  "authors": [
+    "Bwoogie1"
+  ],
+  "date_published": "2019-04-26T01:37:53-04:00",
+  "date_modified": "2026-05-08T14:48:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups packed fresh basil leaves",
+    "1 cup freshly grated Parmigiano-Reggiano cheese",
+    "1 cup olive oil",
+    "0.66666668653488 cup pine nuts",
+    "6 cloves garlic, minced",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine basil, cheese, and olive oil in a food processor. Pulse to combine. Add pine nuts, garlic, salt, and pepper. Pulse until mixture is smooth and blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour mixture onto a large sheet of plastic wrap; roll into a tube shape and seal. Store in the refrigerator until needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "177 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "87 mg",
+    "sugarContent": "0 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NdG8f4rFVagEIFjaozoHaoTh_GQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6609259-505f73dcf77b4315a9a88a01d8152772.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/273108/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

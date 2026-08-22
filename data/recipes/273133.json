@@ -1,0 +1,86 @@
+{
+  "id": "273133",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/273133/perfect-hard-boiled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/273133/perfect-hard-boiled-eggs/",
+  "title": "Hard-Boiled Eggs",
+  "description": "This recipe gently lowers the eggs into boiling water to get the best hard-boiled eggs — the cooked eggs peel easily with perfect yolks.",
+  "authors": [
+    "wackerd"
+  ],
+  "date_published": "2019-04-30T05:52:40-04:00",
+  "date_modified": "2024-02-21T07:41:48-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT35M",
+  "yield": [
+    "12",
+    "12 hard-boiled eggs"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 eggs"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot halfway with water, making sure the pot is large enough to contain eggs in a single layer. Bring water to a boil over high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place eggs in boiling water individually using a large spoon, making sure not to break them. Continue to boil for 1 minute. Remove from heat, cover, and let stand for 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cool eggs under cold water, then peel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "63 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "164 mg",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "62 mg",
+    "sugarContent": "0 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7jslQABVA8G4olUpVIyP1NcxVJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6769945-a11444b69a2e4fe69efeddcdfe5ff6e7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/273133/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
