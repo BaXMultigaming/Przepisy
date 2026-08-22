@@ -1,0 +1,82 @@
+{
+  "id": "236796",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236796/mexican-gravy/",
+  "requested_url": "https://www.allrecipes.com/recipe/236796/mexican-gravy/",
+  "title": "Mexican Gravy",
+  "description": "This Mexican-style &#39;gravy&#39; is a delicious accompaniment for your burritos, tortilla chips, or whatever you think needs a touch of chili powder and oregano.",
+  "authors": [
+    "tpf2005"
+  ],
+  "date_published": "2019-04-03T23:57:17-04:00",
+  "date_modified": "2022-01-14T02:18:11-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup flour",
+    "2 tablespoons chili powder",
+    "2 teaspoons onion powder",
+    "1 teaspoon dried Mexican oregano",
+    "1 teaspoon salt",
+    "6 tablespoons vegetable oil",
+    "4 cups water"
+  ],
+  "steps": [
+    {
+      "text": "Mix flour, chili powder, onion powder, oregano, and salt together in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large saucepan over low heat. Whisk flour mixture into hot oil until smooth. Pour water into mixture in small amounts and whisk to incorporate smoothly between additions. Bring the gravy to a simmer for 5 minutes. Remove from heat and cool 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "170 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "420 mg",
+    "sugarContent": "1 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/li1ZPR0RX-KICA3wbrJNzbdZ0t8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5121571-0f23148195c4493cb34d03db02ad654b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236796/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

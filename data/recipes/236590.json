@@ -1,0 +1,84 @@
+{
+  "id": "236590",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236590/cabbage-pico-de-gallo/",
+  "requested_url": "https://www.allrecipes.com/recipe/236590/cabbage-pico-de-gallo/",
+  "title": "Cabbage Pico de Gallo",
+  "description": "This cabbage pico de gallo is a fresh-tasting, crisp salsa made with diced Roma tomatoes, onion, jalapeño, cilantro, lime juice, garlic, and salt.",
+  "authors": [
+    "Josh"
+  ],
+  "date_published": "2018-06-08T10:12:57-04:00",
+  "date_modified": "2023-05-02T12:14:31-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT140M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 medium head cabbage, chopped",
+    "6 Roma (plum) tomatoes, diced",
+    "1 red onion, diced",
+    "1 yellow onion, diced",
+    "4 jalapeno peppers, diced",
+    "2 bunches cilantro, chopped",
+    "3 limes, juiced",
+    "2 teaspoons chopped garlic",
+    "2 teaspoons salt"
+  ],
+  "steps": [
+    {
+      "text": "Mix together cabbage, tomatoes, onions, jalapeño peppers, cilantro, lime juice, garlic, and salt in a large bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the bowl with plastic wrap and refrigerate for at least 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "27 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "245 mg",
+    "sugarContent": "3 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1hRr8MXXhKhkYTtFdgolUJwUuxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4517039-ef2b8b78ebf94b00bb9721f1bd5c3395.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236590/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

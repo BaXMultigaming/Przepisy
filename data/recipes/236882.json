@@ -1,0 +1,82 @@
+{
+  "id": "236882",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236882/victorias-secret-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/236882/victorias-secret-cocktail/",
+  "title": "Victoria&#39;s Secret Cocktail",
+  "description": "Combine raspberry and orange vodkas with cranberry and pineapple juices to make the Victoria&#39;s Secret cocktail for your next happy hour.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2017-07-13T09:01:18-04:00",
+  "date_modified": "2024-12-20T13:45:07-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice",
+    "3 fluid ounces cranberry juice",
+    "3 fluid ounces pineapple juice",
+    "1 fluid ounce raspberry vodka",
+    "1 fluid ounce orange vodka",
+    "1 fluid ounce sparkling wine"
+  ],
+  "steps": [
+    {
+      "text": "Fill a shaker with ice. Pour cranberry juice, pineapple juice, raspberry vodka, and orange vodka into shaker; cover and shake until chilled. Strain into a martini glass and top with sparkling wine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "28 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "21 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fFLYBxTf-K3AjnAEN.mp4",
+    "description": "Watch a professional bartender make the Victoria’s Secret Cocktail.",
+    "duration": "PT1M25S",
+    "name": "Victoria's Secret Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fFLYBxTf/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T22:43:37-04:00"
+  },
+  "image_sources": [
+    "https://cdn.jwplayer.com/v2/media/fFLYBxTf/poster.jpg?width=720"
+  ],
+  "images": {
+    "hero": "assets/images/236882/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

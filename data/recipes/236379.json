@@ -1,0 +1,83 @@
+{
+  "id": "236379",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236379/pancakes-paleo/",
+  "requested_url": "https://www.allrecipes.com/recipe/236379/pancakes-paleo/",
+  "title": "Pancakes (Paleo)",
+  "description": "Paleo-friendly pancakes made with almond flour, banana, and almond butter are a hearty and family-pleasing breakfast.",
+  "authors": [
+    "Mouretsu"
+  ],
+  "date_published": "2020-06-16T01:14:41-04:00",
+  "date_modified": "2020-06-16T01:14:41-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana, mashed",
+    "3 eggs",
+    "0.25 cup almond flour",
+    "1 tablespoon almond butter",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon ground cinnamon",
+    "0.125 teaspoon baking soda",
+    "0.125 teaspoon baking powder",
+    "1 teaspoon olive oil, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Whisk banana, eggs, almond flour, almond butter, vanilla extract, cinnamon, baking soda, and baking powder together in a bowl until batter is smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil on a griddle or skillet over medium-high heat. Drop batter by large spoonfuls onto the griddle and cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "330 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "279 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "251 mg",
+    "sugarContent": "9 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/K6A9n_HXxNfpm2fSsuoJFhuMEjA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8163126-b92d0bfc7672425a9210ba52300a23b3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236379/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

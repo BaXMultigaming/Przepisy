@@ -1,0 +1,84 @@
+{
+  "id": "236885",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236885/strawberry-lemonade-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/236885/strawberry-lemonade-cocktail/",
+  "title": "Strawberry Lemonade Cocktail",
+  "description": "Shake a little strawberry puree with citrus vodka and lemonade for a perfect summer cocktail.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-09T02:17:31-04:00",
+  "date_modified": "2024-11-27T02:24:38-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice",
+    "1.5 fluid ounces citron vodka",
+    "4 fluid ounces lemonade",
+    "1 fluid ounce strawberry puree",
+    "1 lemon slice"
+  ],
+  "steps": [
+    {
+      "text": "Fill a shaker with ice. Pour citron vodka, lemonade, and strawberry puree into shaker; shake briefly to combine. Pour entire contents of shaker into a pint glass and garnish with a slice of lemon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RyrvQgvLQBZr8jMWqV_7dgsSVFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3841859-7707542705484893b070b3cd796a7bb1.jpg"
+      ],
+      "image": "assets/images/236885/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "158 kcal",
+    "carbohydrateContent": "16 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "16 mg",
+    "sugarContent": "14 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "6"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/WgP0aexC-K3AjnAEN.mp4",
+    "description": "Watch a professional bartender make the Strawberry Lemonade Cocktail.",
+    "duration": "PT1M16S",
+    "name": "Strawberry Lemonade Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/WgP0aexC/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T10:22:37-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RyrvQgvLQBZr8jMWqV_7dgsSVFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3841859-7707542705484893b070b3cd796a7bb1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236885/hero.webp",
+    "steps": [
+      "assets/images/236885/step_01.webp"
+    ]
+  }
+}

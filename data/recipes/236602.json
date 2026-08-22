@@ -1,0 +1,112 @@
+{
+  "id": "236602",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236602/chef-johns-corned-beef-hash/",
+  "requested_url": "https://www.allrecipes.com/recipe/236602/chef-johns-corned-beef-hash/",
+  "title": "Chef John&#39;s Corned Beef Hash",
+  "description": "A little roasted tomato salsa is the secret ingredient in Chef John&#39;s diner-style corned beef hash recipe that&#39;s perfect for brunch.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-02-12T19:59:37-05:00",
+  "date_modified": "2026-05-24T00:04:29-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds potatoes, peeled and quartered",
+    "1.5 pounds cooked corned beef, finely chopped",
+    "1 bunch green onions, chopped",
+    "salt and ground black pepper to taste",
+    "2 cloves garlic, crushed",
+    "1 tablespoon butter",
+    "0.25 cup roasted tomato salsa"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes in a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until almost tender but still firm, about 15 minutes. Drain and finely chop.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook beef in a large cast iron or nonstick skillet over medium heat until fat begins to render. Stir green onions, salt, and pepper into beef. Add garlic and butter; cook and stir until butter is melted and garlic is fragrant, 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir potatoes, salsa, and a pinch of salt into beef mixture. Pat mixture down in the skillet with a spatula and divide hash into 4 sections.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook, without stirring, until a crust forms on the bottom, about 5 minutes. Flip sections and cook until a crust forms on the bottom, about 5 minutes more. Repeat cooking and flipping process, flipping every 5 minutes, until hash stays together and has a golden crust, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7s3yr4idbXYgexuXENw81eL1Z98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1111656-chef-johns-corned-beef-hash-Jennifer-Baker-1x1-1-2d324d49d5254c56936455b643d62df9.jpg"
+      ],
+      "image": "assets/images/236602/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "609 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "175 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "2068 mg",
+    "sugarContent": "3 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "104"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/yZ8GSz6q-DyXkTCke.mp4",
+    "description": "See how to make corned beef hash with the perfect crispy crust.",
+    "duration": "PT3M35S",
+    "name": "How to Make Corned Beef Hash",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/yZ8GSz6q/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T19:14:33-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7s3yr4idbXYgexuXENw81eL1Z98=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1111656-chef-johns-corned-beef-hash-Jennifer-Baker-1x1-1-2d324d49d5254c56936455b643d62df9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236602/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/236602/step_04.webp"
+    ]
+  }
+}

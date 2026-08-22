@@ -1,0 +1,87 @@
+{
+  "id": "236887",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236887/fresh-raspberry-mojito/",
+  "requested_url": "https://www.allrecipes.com/recipe/236887/fresh-raspberry-mojito/",
+  "title": "Fresh Raspberry Mojito",
+  "description": "This raspberry mojito combines silver rum and raspberry vodka with fresh berries, lime juice, and mint leaves to make a refreshing happy hour drink!",
+  "authors": [
+    "Home Happy Hour"
+  ],
+  "date_published": "2014-03-04T16:17:59-05:00",
+  "date_modified": "2024-11-30T22:55:22-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 fresh mint leaves",
+    "4 fresh raspberries",
+    "0.5 fluid ounce simple syrup",
+    "0.5 fluid ounce lime juice",
+    "ice",
+    "1 fluid ounce raspberry-flavored vodka",
+    "1 fluid ounce silver rum",
+    "2 fluid ounces club soda"
+  ],
+  "steps": [
+    {
+      "text": "Muddle mint leaves, raspberries, simple syrup, and lime juice together in a shaker. Fill the shaker with ice and add vodka and rum; cover and shake until chilled. Pour entire contents of shaker into a Collins glass and top with club soda.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NcsWrFQVXxZncbnVfZK-QEVu4Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3669567-cdc8f49514164bc5b74b6de9850978b2.jpg"
+      ],
+      "image": "assets/images/236887/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "174 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "1 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fu4Vhwll-K3AjnAEN.mp4",
+    "description": "A refreshing mojito with rum, raspberry vodka, fresh berries, and mint.",
+    "duration": "PT1M57S",
+    "name": "Raspberry Mojito",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fu4Vhwll/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T06:26:51-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NcsWrFQVXxZncbnVfZK-QEVu4Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3669567-cdc8f49514164bc5b74b6de9850978b2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236887/hero.webp",
+    "steps": [
+      "assets/images/236887/step_01.webp"
+    ]
+  }
+}

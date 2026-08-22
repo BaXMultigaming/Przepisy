@@ -1,0 +1,88 @@
+{
+  "id": "236522",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236522/buffalo-ranch-deviled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/236522/buffalo-ranch-deviled-eggs/",
+  "title": "Buffalo Ranch Deviled Eggs",
+  "description": "Deviled eggs, inspired by the flavors of Buffalo chicken, are easily adjusted to the level of spiciness you prefer.",
+  "authors": [
+    "flutewoman3"
+  ],
+  "date_published": "2020-03-20T02:50:15-04:00",
+  "date_modified": "2021-10-06T16:30:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT45M",
+  "yield": [
+    "12",
+    "12 deviled eggs"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 eggs",
+    "0.25 cup ranch salad dressing",
+    "1 teaspoon hot Buffalo wing sauce, or to taste",
+    "1 pinch cayenne pepper, or to taste",
+    "1 stalk celery"
+  ],
+  "steps": [
+    {
+      "text": "Place eggs in a saucepan; cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water, and peel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut each egg in half lengthwise; place egg yolks in a bowl. Mash yolks with a fork; stir in ranch dressing and hot Buffalo sauce until smooth. Spoon yolk mixture into a resealable plastic bag; snip off one corner of the bag.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place egg white halves cut-side-up on a serving platter; pipe yolk mixture into whites. Sprinkle with cayenne pepper. Cut celery into tiny stalks and place one on top of each egg.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "61 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "94 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "97 mg",
+    "sugarContent": "0 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l_GXRLk2Gl_RQDgBh4g9u7w7upU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9406794-9acc41529a6448f49743e4fe3c449ac3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236522/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

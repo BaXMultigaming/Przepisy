@@ -1,0 +1,103 @@
+{
+  "id": "236372",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236372/chef-johns-summer-scrambled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/236372/chef-johns-summer-scrambled-eggs/",
+  "title": "Chef John&#39;s Summer Scrambled Eggs",
+  "description": "Chef John&#39;s recipe for scrambled eggs with cherry tomatoes, feta cheese, and fresh basil is a delicious breakfast option for any time of the year.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-01-24T13:42:37-05:00",
+  "date_modified": "2026-05-12T10:40:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 large eggs",
+    "1 pinch red pepper flakes",
+    "9 cherry tomatoes, halved",
+    "2 tablespoons crumbled feta cheese",
+    "1 tablespoon very thinly sliced fresh basil leaves",
+    "olive oil",
+    "1 pinch sea salt"
+  ],
+  "steps": [
+    {
+      "text": "Whisk eggs and pepper flakes together in a bowl. Stir in tomatoes, feta, and basil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a nonstick skillet over high heat until starting to shimmer. Pour egg mixture into hot oil and cook, without stirring, for 5 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook and stir egg mixture until eggs are scrambled and softly set, about 30 seconds. Transfer to a plate and sprinkle with sea salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/y8PqFcQchH0o0GY-xJBdNbv9TBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2381404-d3ec0b8a9cf8439aaec8f8ee9e9f3d8f.jpg"
+      ],
+      "image": "assets/images/236372/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "420 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "575 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "756 mg",
+    "sugarContent": "2 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "101"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/0dwUunWI-ma1DlVvV.mp4",
+    "description": "Fresh basil, cherry tomatoes, and feta cheese make the perfect summer scramble.",
+    "duration": "PT2M51S",
+    "name": "Chef John's Summer Scrambled Eggs",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/0dwUunWI/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T03:17:53-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/y8PqFcQchH0o0GY-xJBdNbv9TBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2381404-d3ec0b8a9cf8439aaec8f8ee9e9f3d8f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236372/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/236372/step_03.webp"
+    ]
+  }
+}

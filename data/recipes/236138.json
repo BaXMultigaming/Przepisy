@@ -1,0 +1,79 @@
+{
+  "id": "236138",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/236138/healthy-tartar-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/236138/healthy-tartar-sauce/",
+  "title": "Healthy Tartar Sauce",
+  "description": "This tartar sauce replaces pickles with fresh cucumbers, onion, and garlic.",
+  "authors": [
+    "ladybethany"
+  ],
+  "date_published": "2019-07-10T03:05:07-04:00",
+  "date_modified": "2022-01-14T02:18:27-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "10"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg yolk",
+    "1 cup fat-free mayonnaise",
+    "2 tablespoons diced cucumber",
+    "0.5 lemon, juiced",
+    "1 tablespoon diced onion",
+    "1.5 teaspoons white vinegar",
+    "1 teaspoon mustard",
+    "1 small garlic clove, pressed"
+  ],
+  "steps": [
+    {
+      "text": "Beat egg yolk and mayonnaise together in a bowl; stir cucumber, lemon juice, onion, vinegar, mustard, and garlic into the mayonnaise mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover bowl with plastic wrap and refrigerate at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "23 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "21 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "175 mg",
+    "sugarContent": "3 g",
+    "fatContent": "1 g",
+    "servingSize": "1 1/2 cup",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7mAqmzeqYmSFcTXbFoeSdSzH9GM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2631387-29c20b97cbd84403a32586ebc3e03681.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/236138/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
