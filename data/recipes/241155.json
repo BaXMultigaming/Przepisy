@@ -1,0 +1,84 @@
+{
+  "id": "241155",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241155/sauteed-cauliflower-delight/",
+  "requested_url": "https://www.allrecipes.com/recipe/241155/sauteed-cauliflower-delight/",
+  "title": "Sauteed Cauliflower Delight",
+  "description": "Cauliflower is stir-fried with tomatoes, raisins, onion, and garlic for a quick and easy side dish to any meal.",
+  "authors": [
+    "LM Black"
+  ],
+  "date_published": "2020-06-19T00:02:11-04:00",
+  "date_modified": "2022-10-27T22:54:37-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "1 red onion, chopped",
+    "1 head cauliflower, cut into florets",
+    "1 cup cherry tomatoes, halved, or more to taste",
+    "2 tablespoons raisins",
+    "1 teaspoon white sugar",
+    "1 clove garlic, minced",
+    "1 teaspoon dried parsley",
+    "0.25 teaspoon red pepper flakes",
+    "1 tablespoon fresh lemon juice, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium heat; cook and stir onion until tender, 5 to 10 minutes. Add cauliflower, cherry tomatoes, raisins, and white sugar to onion; cover skillet and cook, stirring occasionally, until cauliflower is tender, 4 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix garlic, parsley, and red pepper flakes into cauliflower mixture; increase heat to high and saute until cauliflower is browned, 1 to 2 minutes. Drizzle lemon juice over cauliflower.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "197 kcal",
+    "carbohydrateContent": "18 g",
+    "fiberContent": "5 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "49 mg",
+    "sugarContent": "9 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zPGMkx3RqqWbEq84nEozv6q0pqM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2060773-sauteed-cauliflower-delight-Rock_lobster-4x3-1-6ae44164ba0c45739a87e474d7c4c3c1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241155/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

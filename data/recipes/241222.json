@@ -1,0 +1,73 @@
+{
+  "id": "241222",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241222/kimchi-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/241222/kimchi-soup/",
+  "title": "Kimchi Soup",
+  "description": "This basic recipe for kimchi soup only calls for a handful of ingredients and is quick and easy to make.",
+  "authors": [
+    "Ginger"
+  ],
+  "date_published": "2020-06-19T00:02:16-04:00",
+  "date_modified": "2022-01-14T01:18:50-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups water",
+    "2 cups kimchi, cut into bite-size pieces",
+    "0.5 pound boneless pork shoulder, cut into bite-size pieces",
+    "1 tablespoon hot pepper paste",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon salt",
+    "3 green onions, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Stir water, kimchi, pork shoulder, hot pepper paste, sugar, and salt together in a pot; bring to a boil, reduce heat to medium, and simmer until meat is tender, about 20 minutes. Remove from heat and stir in green onions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "104 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "848 mg",
+    "sugarContent": "3 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Wh6q3UYQ94NoZ7uhObW-TdRdE1A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5742182-84c70fcaad3341fc99d1e1f9a62fa3ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241222/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

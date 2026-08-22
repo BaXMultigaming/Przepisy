@@ -1,0 +1,91 @@
+{
+  "id": "240938",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240938/favorite-basil-tomato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/240938/favorite-basil-tomato-soup/",
+  "title": "Favorite Basil Tomato Soup",
+  "description": "Make a delicious pot of creamy, basil-tomato soup by simmering crushed tomatoes, fresh basil, chicken broth, and cream together. Don&#39;t forget the butter!",
+  "authors": [
+    "JulieO"
+  ],
+  "date_published": "2020-06-19T00:02:03-04:00",
+  "date_modified": "2026-03-24T16:20:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "9"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (28 ounce) cans crushed tomatoes",
+    "1 (14.5 ounce) can chicken broth",
+    "18 fresh basil leaves, or more to taste, finely chopped",
+    "1 teaspoon white sugar",
+    "1 cup heavy whipping cream",
+    "0.5 cup butter"
+  ],
+  "steps": [
+    {
+      "text": "Stir together tomatoes and chicken broth in a large saucepan; bring to a boil, reduce heat to medium-low, and cook at a simmer until slightly reduced, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in basil and sugar; reduce heat to low and continue cooking until basil is wilted, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir cream into tomato mixture; add butter and continue cooking, stirring occasionally, until butter is completely melted, 5 to 7 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "242 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "506 mg",
+    "sugarContent": "1 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/V3xyWWiv2vQiYf2mIFoKMhIDWHk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2011965-e9efbb8e9037421d87a6a05a8ed94e47.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240938/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

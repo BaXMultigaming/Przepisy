@@ -1,0 +1,90 @@
+{
+  "id": "241308",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241308/fresh-raspberry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/241308/fresh-raspberry-sauce/",
+  "title": "Fresh Raspberry Sauce",
+  "description": "This raspberry sauce recipe by Chef John is easy to make, refreshingly delicious, and perfect for topping ice cream, cheesecake, or chocolate cake!",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-06-19T00:02:19-04:00",
+  "date_modified": "2025-12-18T13:46:53-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT55M",
+  "yield": [
+    "12",
+    "3 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds fresh raspberries",
+    "0.25 cup white sugar",
+    "1 tablespoon water, or as needed",
+    "2 teaspoons lemon juice, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine raspberries, sugar, water, and lemon juice in a saucepan over medium heat; cook and stir until raspberries break down, sugar dissolves, and sauce is heated through, 3 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Press sauce through a fine-mesh strainer to remove seeds. Cool to room temperature; cover with plastic wrap and refrigerate until chilled, at least 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/H5jOBGKvvVH_zU31oCXmVkCOjlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241308fresh-raspberry-sauceKim4x3-b0449d343ddd4c99a8bff4b6c35a464c.jpg"
+      ],
+      "image": "assets/images/241308/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "44 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "4 g",
+    "proteinContent": "1 g",
+    "sugarContent": "7 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "100"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/3nbuDqgO-K3AjnAEN.mp4",
+    "description": "Discover the secret to a light, fresh, vibrant pool of raspberry goodness in this delicious recipe. Delicious and decadent!",
+    "duration": "PT4M33S",
+    "name": "Chef John's Fresh Raspberry Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/3nbuDqgO/thumbnails/Wt10Wnwh.jpg?width=1280",
+    "uploadDate": "2021-07-08T22:25:38-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/H5jOBGKvvVH_zU31oCXmVkCOjlw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241308fresh-raspberry-sauceKim4x3-b0449d343ddd4c99a8bff4b6c35a464c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241308/hero.webp",
+    "steps": [
+      null,
+      "assets/images/241308/step_02.webp"
+    ]
+  }
+}

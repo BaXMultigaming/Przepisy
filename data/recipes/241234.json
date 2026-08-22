@@ -1,0 +1,78 @@
+{
+  "id": "241234",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241234/cashew-nut-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/241234/cashew-nut-cheese/",
+  "title": "Cashew Nut Cheese",
+  "description": "A non-dairy &#34;cheese&#34; made with cashews, tahini, and almond milk is a delicious addition to sandwiches or wraps.",
+  "authors": [
+    "mollymariephoto"
+  ],
+  "date_published": "2020-06-19T00:02:17-04:00",
+  "date_modified": "2020-06-19T00:02:17-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Lunch",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups unsalted roasted cashews",
+    "2.5 tablespoons vegetable oil",
+    "1 teaspoon white sugar",
+    "0.25 cup almond milk",
+    "2 tablespoons tahini",
+    "0.5 teaspoon onion powder",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon garlic powder",
+    "0.25 teaspoon ground white pepper",
+    "1 red bell pepper, chopped",
+    "1 tablespoon lemon juice",
+    "1.5 cloves garlic, peeled"
+  ],
+  "steps": [
+    {
+      "text": "Blend cashews, oil, and sugar together in a food processor or blender until smooth. Add almond milk, tahini, onion powder, salt, garlic powder, and white pepper; blend until well mixed. Add red bell pepper, lemon juice, and garlic and blend until creamy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "212 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "300 mg",
+    "sugarContent": "2 g",
+    "fatContent": "18 g",
+    "servingSize": "1 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DZsdi8lyx2Mog0YQzLqTc72BGuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2202310-1a071ddfe9264249891bf2df861684a2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241234/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

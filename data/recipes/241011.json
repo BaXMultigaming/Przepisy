@@ -1,0 +1,84 @@
+{
+  "id": "241011",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241011/quinoa-tabbouleh-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/241011/quinoa-tabbouleh-salad/",
+  "title": "Quinoa Tabbouleh Salad",
+  "description": "This recipe for quinoa tabbouleh salad produces a cool and refreshing vegetarian dish that&#39;s great for potlucks and picnics.",
+  "authors": [
+    "Nadine"
+  ],
+  "date_published": "2020-03-09T22:52:17-04:00",
+  "date_modified": "2020-03-09T22:52:17-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT15M",
+  "total_time": "PT100M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups vegetable broth",
+    "1 cup quinoa",
+    "1 cucumber, chopped",
+    "2 tomatoes, chopped",
+    "0.5 cup fresh parsley, chopped",
+    "2 green onions, chopped",
+    "2 tablespoons chopped fresh mint",
+    "2 cloves garlic, minced",
+    "0.25 cup olive oil",
+    "0.25 cup lemon juice",
+    "0.5 teaspoon salt, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring broth and quinoa to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until quinoa is tender and water has been absorbed, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine cucumber, tomatoes, parsley, green onions, mint, and garlic in a large bowl. Add quinoa, olive oil, lemon juice, and salt to cucumber mixture; toss to combine. Cover the bowl with plastic wrap and refrigerate until flavors combine, at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "107 kcal",
+    "carbohydrateContent": "12 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "178 mg",
+    "sugarContent": "2 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IXcAxij4Fnz8VBKtsNq7Sdfmj3w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2028273-e73d1fde1c9840bf9bde9906c3f2d2ce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241011/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

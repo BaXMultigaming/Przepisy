@@ -1,0 +1,81 @@
+{
+  "id": "241040",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241040/10-minute-chocolate-mug-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/241040/10-minute-chocolate-mug-cake/",
+  "title": "10-Minute Chocolate Mug Cake",
+  "description": "This quick no-bake, 10-minute dessert is easy to make in the microwave. This delicious chocolate mug cake will be a new family favorite.",
+  "authors": [
+    "Baker Boy"
+  ],
+  "date_published": "2020-06-19T00:02:07-04:00",
+  "date_modified": "2023-01-07T10:07:21-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 tablespoons white sugar",
+    "0.25 cup all-purpose flour",
+    "3 tablespoons milk",
+    "3 tablespoons olive oil",
+    "2 tablespoons unsweetened cocoa powder",
+    "1 egg",
+    "1 dash pure vanilla extract",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Mix sugar, flour, milk, olive oil, cocoa powder, egg, vanilla extract, and salt together in a large microwave-safe mug.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat in the microwave until the center of the cake is done, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "836 kcal",
+    "carbohydrateContent": "95 g",
+    "cholesterolContent": "190 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "248 mg",
+    "sugarContent": "65 g",
+    "fatContent": "48 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "62"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wFPFfL4ee0o8w48r-16TN6P73Zg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2224921-10-minute-chocolate-mug-cake-bri-4x3-1-3f72df8a432d4d48814b34a69062178a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241040/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

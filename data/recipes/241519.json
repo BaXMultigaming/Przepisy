@@ -1,0 +1,91 @@
+{
+  "id": "241519",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241519/banana-lumpia/",
+  "requested_url": "https://www.allrecipes.com/recipe/241519/banana-lumpia/",
+  "title": "Banana Lumpia",
+  "description": "Brown sugared bananas are wrapped in lumpia wrappers and deep-fried in this rich, banana lumpia dessert.",
+  "authors": [
+    "Mina"
+  ],
+  "date_published": "2020-03-05T00:13:04-05:00",
+  "date_modified": "2024-11-28T12:49:30-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "oil for deep frying",
+    "0.25 cup brown sugar, or as needed",
+    "6 large bananas, halved crosswise and then lengthwise",
+    "24 lumpia wrappers, defrosted",
+    "1 tablespoon water, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place brown sugar in a shallow bowl. Roll each banana quarter in the brown sugar until coated. Wrap a lumpia wrapper around each coated banana, sealing the last edge to the roll using a spoon or your finger dipped in water. Repeat with the remaining bananas and wrappers.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Working in batches, fry lumpia in the hot oil until golden brown, about 5 minutes. Transfer cooked lumpia to a paper towel-lined plate using a slotted spoon. Some sugar may leak out the sides of the lumpia while cooling.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "275 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "140 mg",
+    "sugarContent": "17 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uuTy8621_6GdMy-kr7ioc356aH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2676649-banana-lumpia-Baking-Nana-4x3-1-074fa51aebc64b928789667f71bcfd63.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241519/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

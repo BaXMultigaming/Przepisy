@@ -1,0 +1,121 @@
+{
+  "id": "241499",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241499/chef-johns-red-beans-and-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/241499/chef-johns-red-beans-and-rice/",
+  "title": "Chef John’s Red Beans and Rice",
+  "description": "Chef John’s recipe for red beans, andouille sausage, smoked ham hock, and rice is the textbook definition of soul food: a comforting, hearty bowl of goodness.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2015-02-27T19:39:31-05:00",
+  "date_modified": "2026-08-11T08:42:51-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT195M",
+  "total_time": "PT225M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dry red kidney beans",
+    "1 tablespoon vegetable oil",
+    "12 ounces andouille sausage, diced",
+    "1 cup finely diced onion",
+    "0.75 cup chopped celery",
+    "0.75 cup poblano peppers",
+    "4 cloves garlic, minced",
+    "2 quarts chicken broth, or more as needed",
+    "1 smoked ham hock",
+    "2 bay leaves",
+    "1 teaspoon freshly ground black pepper",
+    "1 teaspoon dried thyme",
+    "0.5 teaspoon cayenne pepper, or to taste",
+    "hot sauce to taste",
+    "4 cups cooked white rice",
+    "2 tablespoons chopped green onion, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place beans in a large container and cover with several inches of cool water; let stand 8 hours to overnight. Drain and rinse.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat vegetable oil in a large pot over medium heat. Cook and stir sausage in hot oil until oils slightly release from sausage and edges brown, 5 to 7 minutes. Stir onion, celery, and poblano peppers into sausage; cook and stir until vegetables soften and start to turn translucent, 5 to 10 minutes. Stir garlic into sausage mixture; cook and stir until fragrant, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir red beans, chicken broth, ham hock, bay leaves, black pepper, thyme, cayenne pepper, and hot sauce into the sausage mixture; bring to a boil, reduce heat to low, and simmer gently, stirring occasionally, for 1 1/2 hours. Add salt and continue simmering until beans are soft, meat is tender, and desired consistency is reached, 1 1/2 to 2 hours more. Season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon rice into bowls, ladle red beans mixture over rice, and top with green onion.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/2NJ2RH3v4lDa7__2ELyn1k4swkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9162756-chef-johns-red-beans-and-rice-Christina-Dygert-Lackey-1x1-1-ca6f406688a1450dab779d04bed181ba.jpg"
+      ],
+      "image": "assets/images/241499/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "542 kcal",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1384 mg",
+    "sugarContent": "4 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "264"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/VvGHsi8X-K3AjnAEN.mp4",
+    "description": "0813 Red Beans and Rice",
+    "duration": "PT7M30S",
+    "name": "0813 Red Beans and Rice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/VvGHsi8X/poster.jpg?width=1280",
+    "uploadDate": "2021-07-10T00:16:38-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2NJ2RH3v4lDa7__2ELyn1k4swkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9162756-chef-johns-red-beans-and-rice-Christina-Dygert-Lackey-1x1-1-ca6f406688a1450dab779d04bed181ba.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241499/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/241499/step_04.webp"
+    ]
+  }
+}

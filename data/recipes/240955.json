@@ -1,0 +1,112 @@
+{
+  "id": "240955",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240955/eggplant-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/240955/eggplant-pasta/",
+  "title": "Eggplant Pasta",
+  "description": "Eggplant and pasta are simmered in a simple tomato sauce in this quick and easy pasta dish perfect for weeknight meals.",
+  "authors": [
+    "alands18"
+  ],
+  "date_published": "2016-06-04T09:42:16-04:00",
+  "date_modified": "2026-04-20T21:43:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT40M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "2 cloves garlic, minced",
+    "1 eggplant, peeled and cut into 1/2-inch cubes",
+    "1 (28 ounce) can plum tomatoes with juice, chopped",
+    "1 (16 ounce) package rigatoni pasta"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium heat; cook and stir garlic until fragrant, 1 to 2 minutes. Add eggplant; cook, stirring constantly, until eggplant is softened, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UQqW1AjXV6O-5nEd1lOodBkcITI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240955-eggplant-pasta-step-1-0754-4x3-4b9a8c0b890444d4ab48cc2ec15febce.jpg"
+      ],
+      "image": "assets/images/240955/step_01.webp"
+    },
+    {
+      "text": "Add tomatoes and juice; cook until sauce is slightly reduced, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Txkzv5ZFY-z85y6e8yhsPjn_5YI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240955-eggplant-pasta-step-3-0761-4x3-fbc03c9bcfb84776981536f681dcd11c.jpg"
+      ],
+      "image": "assets/images/240955/step_02.webp"
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook rigatoni in the boiling water, stirring occasionally until cooked through but firm to the bite, about 13 minutes. Drain and transfer to a serving bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/J8ad1LkS8tYqmxNMYx-ULgjTb_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240955-eggplant-pasta-step-4-0762-4x3-ae5af739eb8245ecba527c5fe211fda6.jpg"
+      ],
+      "image": "assets/images/240955/step_03.webp"
+    },
+    {
+      "text": "Pour sauce over pasta.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Ig1OHatfgDBVMqMV0ALfyu4dOPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240955-eggplant-pasta-step-5-0764-4x3-7f6f13567873494ebb516818bc36c848.jpg"
+      ],
+      "image": "assets/images/240955/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "295 kcal",
+    "carbohydrateContent": "49 g",
+    "fiberContent": "5 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "145 mg",
+    "sugarContent": "6 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "48"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hVUpTWzwhiJGVyH8iJThnPEQABQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240955-eggplant-pasta-4x3-0775-f6786f863eb6416cac756907b150685a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240955/hero.webp",
+    "steps": [
+      "assets/images/240955/step_01.webp",
+      "assets/images/240955/step_02.webp",
+      "assets/images/240955/step_03.webp",
+      "assets/images/240955/step_04.webp"
+    ]
+  }
+}

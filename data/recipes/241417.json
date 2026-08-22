@@ -1,0 +1,82 @@
+{
+  "id": "241417",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241417/cauliflower-puree/",
+  "requested_url": "https://www.allrecipes.com/recipe/241417/cauliflower-puree/",
+  "title": "Cauliflower Purée",
+  "description": "Try this cauliflower purée recipe when you want mashed potatoes but don&#39;t want all the calories or carbs. Dinner guests might not notice the difference!",
+  "authors": [
+    "Nicholio"
+  ],
+  "date_published": "2018-06-08T10:19:47-04:00",
+  "date_modified": "2026-05-13T14:10:17-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 head cauliflower, cut into florets",
+    "1 tablespoon butter",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a 4-quart pot of salted water to a boil; add cauliflower and simmer until tender, 7 to 10 minutes. Drain, reserving 1 cup cooking liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend cauliflower and 1/4 cup cooking liquid in a blender until smooth, adding more water until desired consistency is reached. Add butter and pulse until incorporated; season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "61 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "102 mg",
+    "sugarContent": "4 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZyORzFGWZ77T3L_qF6AzHcW3LfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2117053-9acab141e56d44b580948de9838aa3a4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241417/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

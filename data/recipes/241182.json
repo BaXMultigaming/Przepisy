@@ -1,0 +1,96 @@
+{
+  "id": "241182",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241182/rice-cooker-oats/",
+  "requested_url": "https://www.allrecipes.com/recipe/241182/rice-cooker-oats/",
+  "title": "Rice Cooker Oats",
+  "description": "Oatmeal made in the rice cooker is simple to prepare and is ready in about 20 minutes!",
+  "authors": [
+    "rachel gillespie"
+  ],
+  "date_published": "2020-06-19T00:02:16-04:00",
+  "date_modified": "2026-03-13T18:25:26-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup quick-cooking oats",
+    "1 cup water",
+    "1 cup milk",
+    "2 tablespoons honey",
+    "1 tablespoon white sugar",
+    "1 teaspoon vanilla extract",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Mix oats, water, milk, honey, sugar, vanilla extract, and salt together in a rice cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook oats in rice cooker until desired consistency is reached, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/97UFN8Iu2Ed00Yld25a3qd49_54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241182rice-cooker-oatsYoly4x3-411ed6f21da4408093ecc14f809c7715.jpg"
+      ],
+      "image": "assets/images/241182/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "309 kcal",
+    "carbohydrateContent": "57 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "135 mg",
+    "sugarContent": "30 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "39"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/uU4v7JYx-K3AjnAEN.mp4",
+    "description": "In this video, we'll show you how to make lightly sweet, perfect oats using a rice cooker. All you need is oats, water, milk and some flavorings (we use honey, sugar, and vanilla). Set the rice cooker to cook for 10 to 15 minutes and breakfast is served.",
+    "duration": "PT59S",
+    "name": "Rice Cooker Oats",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/uU4v7JYx/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T02:23:24-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/97UFN8Iu2Ed00Yld25a3qd49_54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241182rice-cooker-oatsYoly4x3-411ed6f21da4408093ecc14f809c7715.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241182/hero.webp",
+    "steps": [
+      null,
+      "assets/images/241182/step_02.webp"
+    ]
+  }
+}

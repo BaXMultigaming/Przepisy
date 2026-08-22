@@ -1,0 +1,73 @@
+{
+  "id": "241364",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241364/green-monster-spinach-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/241364/green-monster-spinach-smoothie/",
+  "title": "Green Monster - Spinach Smoothie",
+  "description": "This banana and spinach smoothie is extra creamy thanks to yogurt added to the mix for a quick and easy, on-the-go breakfast.",
+  "authors": [
+    "The Angerers"
+  ],
+  "date_published": "2019-04-03T23:59:21-04:00",
+  "date_modified": "2019-04-03T23:59:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 large smoothies"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup yogurt",
+    "1 banana, broken into chunks",
+    "0.5 cup frozen blueberries",
+    "4 cups fresh spinach",
+    "1 tablespoon water, or as desired",
+    "2 ice cubes, or as desired"
+  ],
+  "steps": [
+    {
+      "text": "Layer yogurt, banana, and blueberries in a blender, respectively. Add as much spinach to blender that will fit; pour in water. Blend on high speed until smooth, adding the remaining spinach if needed. Add ice for a colder and thicker smoothie. Add more water for a thinner smoothie.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "164 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "135 mg",
+    "sugarContent": "20 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AMaRkTJO84cr0aArZm0n4fq0FCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457693-52774b8bcb184ed2ba5053f5cf6f7670.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241364/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

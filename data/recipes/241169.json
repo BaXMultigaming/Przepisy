@@ -1,0 +1,78 @@
+{
+  "id": "241169",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241169/orange-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/241169/orange-pancakes/",
+  "title": "Orange Pancakes",
+  "description": "Pancakes are a breeze to make with this vegan recipe that calls for flax meal and orange juice in place of eggs and milk.",
+  "authors": [
+    "Marie Angel Cat"
+  ],
+  "date_published": "2015-02-20T19:41:01-05:00",
+  "date_modified": "2022-10-20T19:19:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups white whole wheat flour",
+    "2 tablespoons baking powder",
+    "2 tablespoons ground flax meal",
+    "17 fluid ounces orange juice",
+    "1 teaspoon orange extract"
+  ],
+  "steps": [
+    {
+      "text": "Whisk flour, baking powder, and flax meal together in a bowl; stir orange juice and orange extract into flour mixture until batter is well-combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle over medium-high heat, or an electric griddle to 375 degrees F (190 degrees C). Drop batter by large spoonfuls onto the griddle and cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "305 kcal",
+    "carbohydrateContent": "65 g",
+    "fiberContent": "9 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "734 mg",
+    "sugarContent": "11 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ig1AKHpfbo2NR98DFXuIcnNEZ_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5600172-392de3e9fb61485abc88ef6b39532df9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241169/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

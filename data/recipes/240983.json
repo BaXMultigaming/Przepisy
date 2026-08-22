@@ -1,0 +1,80 @@
+{
+  "id": "240983",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240983/slow-cooker-butternut-squash/",
+  "requested_url": "https://www.allrecipes.com/recipe/240983/slow-cooker-butternut-squash/",
+  "title": "Slow Cooker Butternut Squash",
+  "description": "Butternut squash, apple juice, and butter are combined in a slow cooker to create this delicious dish.",
+  "authors": [
+    "Sockbum"
+  ],
+  "date_published": "2020-06-19T00:02:05-04:00",
+  "date_modified": "2020-06-19T00:02:05-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT360M",
+  "total_time": "PT375M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (3 pound) butternut squash - peeled, seeded, and cut into cubes",
+    "1 cup apple juice",
+    "0.25 cup butter, melted",
+    "0.25 cup firmly packed brown sugar",
+    "0.5 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Combine butternut squash and apple juice in a slow cooker. Whisk butter, brown sugar, and cinnamon together in a bowl; drizzle over butternut squash.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on Low for 6 to 8 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "337 kcal",
+    "carbohydrateContent": "61 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "101 mg",
+    "sugarContent": "28 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/k9qBsDZYF9ljF9miU2fsYyFewio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7033560-34ee8d14e9974fcfaea77c4cc1aff2d4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240983/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

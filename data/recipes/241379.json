@@ -1,0 +1,85 @@
+{
+  "id": "241379",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241379/zippy-tuna/",
+  "requested_url": "https://www.allrecipes.com/recipe/241379/zippy-tuna/",
+  "title": "Zippy Tuna",
+  "description": "This is tuna salad with a bit of a horseradish kick. It can be served as a spread for crackers or sandwiches or even on a salad.",
+  "authors": [
+    "Ari Lin"
+  ],
+  "date_published": "2019-07-10T03:06:07-04:00",
+  "date_modified": "2023-01-25T12:23:14-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (5 ounce) can chunk light tuna in water, drained and flaked",
+    "2 tablespoons mayonnaise",
+    "1 tablespoon prepared yellow mustard",
+    "1.5 teaspoons creamy prepared horseradish",
+    "1 teaspoon lemon juice",
+    "1 teaspoon garlic powder",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Mix tuna, mayonnaise, yellow mustard, horseradish, lemon juice, garlic powder, and salt together in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "46 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "72 mg",
+    "sugarContent": "0 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "54"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/NvFLMDeZ-K3AjnAEN.mp4",
+    "description": "In this video, learn how to make zippy tuna, a simple seafood spread with a horseradish kick. Use this recipe when you need a versatile dip for crackers or a tasty spread for sandwiches. Since it only has a few simple ingredients, you can whip this recipe up on the run, and store it in the refrigerator to use all week. Perfect for work lunches or late night snacks, zippy tuna might become your go-to canned tuna meal.",
+    "duration": "PT34S",
+    "name": "How to Make Zippy Tuna",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/NvFLMDeZ/poster.jpg?width=1280",
+    "uploadDate": "2023-01-29T14:22:07-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_la6UmfZnD47cZT0pifTTBWI4B0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2099440-69ec696eba1a428f91554ef466ea8bcd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241379/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

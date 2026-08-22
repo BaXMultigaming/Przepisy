@@ -1,0 +1,90 @@
+{
+  "id": "240906",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240906/frozen-grape-bites/",
+  "requested_url": "https://www.allrecipes.com/recipe/240906/frozen-grape-bites/",
+  "title": "Frozen Grape Bites",
+  "description": "Cream and grapes are frozen together in miniature muffin cups creating cute frozen grape bites that are great for snacking or to serve at parties.",
+  "authors": [
+    "MichaelaK9"
+  ],
+  "date_published": "2015-01-16T18:48:25-05:00",
+  "date_modified": "2025-03-17T17:07:16-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "12",
+    "24 bites"
+  ],
+  "categories": [
+    "Snack",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "cooking spray",
+    "1.5 cups heavy whipping cream",
+    "24 green grapes, frozen"
+  ],
+  "steps": [
+    {
+      "text": "Spray 24 miniature muffin cups with cooking spray.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour 1 tablespoon cream into each muffin cup. Place 1 grape into each muffin cup, swirling grape in the cream to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Freeze grape mixture until solid, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "110 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "2 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/343KYE3iTALxY86aj9GQmtQvP7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2025932-8a12995b285a4fdea8b66ae179104173.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240906/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

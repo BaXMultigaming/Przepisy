@@ -1,0 +1,90 @@
+{
+  "id": "241227",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241227/rice-cooker-risotto/",
+  "requested_url": "https://www.allrecipes.com/recipe/241227/rice-cooker-risotto/",
+  "title": "Rice Cooker Risotto",
+  "description": "This is a simple way to make Arborio rice in a rice cooker, making a perfect item to taking sauteed vegetables or meat.",
+  "authors": [
+    "turtle311"
+  ],
+  "date_published": "2015-02-06T18:33:43-05:00",
+  "date_modified": "2026-02-14T16:27:59-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups Arborio rice",
+    "4.5 cups hot chicken stock",
+    "1 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Place the rice and heated chicken stock into the rice cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Press Start and let cook until the cycle has completed and has shifted to Keep Warm setting. Let rice sit with cover remaining on the rice cooker until the rice is completely tender, about 10 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle Parmesan cheese over the rice and stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "268 kcal",
+    "carbohydrateContent": "47 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "718 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UeJMTv67NilvK5Uv9sgUwKAWlTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6385026-a1f788a704e544b0a3bbe6ebfed2f5a6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241227/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
