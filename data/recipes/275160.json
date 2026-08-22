@@ -1,0 +1,87 @@
+{
+  "id": "275160",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/275160/skinny-cabbage-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/275160/skinny-cabbage-soup/",
+  "title": "Skinny Cabbage Soup",
+  "description": "Hearty, colorful, and filling, this skinny soup recipe features a variety of vegetables and flavors to keep you satisfied without ruining your diet.",
+  "authors": [
+    "Nada"
+  ],
+  "date_published": "2020-03-09T22:53:57-04:00",
+  "date_modified": "2026-05-06T13:30:27-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 medium onion, chopped",
+    "2 cloves garlic, chopped",
+    "4 cups vegetable broth",
+    "1 small head cabbage, chopped",
+    "1 (14.5 ounce) can chopped stewed tomatoes",
+    "3 carrots, peeled and cut into coins",
+    "2 teaspoons paprika",
+    "1 bunch kale, chopped",
+    "1 (15 ounce) can chickpeas",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large pot over medium heat. Sauté onion and garlic in hot oil until onion is translucent, about 5 minutes. Add broth, cabbage, tomatoes, carrots, and paprika. Cook until cabbage softens, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add kale, cover to trap steam, and cook until soft, 7 to 10 minutes. Pour in chickpeas and cook until heated through, 1 to 2 minutes. Season with salt and pepper; serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "124 kcal",
+    "carbohydrateContent": "23 g",
+    "fiberContent": "6 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "421 mg",
+    "sugarContent": "7 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wCQrWwtl5u0FH9l4s1BK-cwxPUg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Skinny-Cabbage-Soup-y4qy7g2xdr-4x3-1-2000-07e95382415e4b6cb904ae1b15544a5b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/275160/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

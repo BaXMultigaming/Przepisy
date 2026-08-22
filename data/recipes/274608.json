@@ -1,0 +1,108 @@
+{
+  "id": "274608",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/274608/ramen-carbonara/",
+  "requested_url": "https://www.allrecipes.com/recipe/274608/ramen-carbonara/",
+  "title": "Ramen Carbonara",
+  "description": "Carbonara is known as a quick-to-fix meal, but get dinner done even sooner by using ramen instead of traditional pasta.",
+  "authors": [
+    "Juliana Hale"
+  ],
+  "date_published": "2019-07-10T00:27:13-04:00",
+  "date_modified": "2026-08-20T12:22:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 slices bacon, chopped",
+    "0.5 cup chopped onion",
+    "2 (3 ounce) packages ramen noodles (flavor packets discarded)",
+    "0.5 cup frozen peas",
+    "1 egg",
+    "0.5 cup shredded Parmesan cheese",
+    "0.25 teaspoon kosher salt",
+    "1 pinch red pepper flakes",
+    "Chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large skillet over medium heat until crisp, about 5 minutes. Transfer to paper towels to drain. Add onion to bacon drippings in skillet; cook until tender, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, cook ramen in a saucepan according to package directions, adding peas the last minute of cooking. Reserve 1/2 cup cooking water; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk together egg, Parmesan, onion and drippings, salt, and red pepper in a bowl. Add hot ramen and cooked bacon. Toss to coat, adding enough reserved cooking water to make a creamy consistency. Top servings with parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/XwEve7QqnG0-6RHch_Nw7g6r8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-117-82d56906e00d4ef18fa9fb634d7e9d79.jpg"
+      ],
+      "image": "assets/images/274608/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "284 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "121 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1145 mg",
+    "sugarContent": "4 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "44"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/o96MnpOD-K3AjnAEN.mp4",
+    "description": "This budget-friendly carbonara recipe uses ramen noodles and bacon! It's a quick and easy lunch or dinner!",
+    "duration": "PT1M39S",
+    "name": "How to Cook Ramen Carbonara",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/o96MnpOD/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T21:29:54-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XwEve7QqnG0-6RHch_Nw7g6r8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-117-82d56906e00d4ef18fa9fb634d7e9d79.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/274608/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/274608/step_03.webp"
+    ]
+  }
+}

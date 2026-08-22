@@ -1,0 +1,82 @@
+{
+  "id": "274946",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/274946/quick-blackberry-coulis/",
+  "requested_url": "https://www.allrecipes.com/recipe/274946/quick-blackberry-coulis/",
+  "title": "Quick Blackberry Coulis",
+  "description": "A coulis is a wonderful, uncooked, puree made with fresh fruit. Serve this blackberry coulis over ice cream, as a syrup, or even with yogurt!",
+  "authors": [
+    "Diana71"
+  ],
+  "date_published": "2020-06-19T00:39:36-04:00",
+  "date_modified": "2024-09-24T13:25:51-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 ounces ripe blackberries",
+    "2 tablespoons white sugar",
+    "1 tablespoon freshly squeezed lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Rinse and drain blackberries. Place into a bowl. Add sugar and mix well. Let sit for 30 minutes to allow sugar to draw out blackberry juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix in lemon juice and begin to mash berries. Mash by hand with a fork or potato ricer, or puree in a food processor. If desired, strain through a fine mesh sieve to remove seeds. Serve warm or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fJ2c3Fz6bcXNxaHM-4l5WhgiMzw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RamonaCruz-Peters_QuickBlackberryCoulis_4x3-38a50bcca388431c8bdd7c442c6e47f1.jpg"
+      ],
+      "image": "assets/images/274946/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "0 mg",
+    "sugarContent": "8 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6B5Lw9hQ-K-07-0ZaLhUzFiwBGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/274946quick-blackberry-coulisfabeveryday4x3-9ba93b734b3a400fbb26a51d3c271bae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/274946/hero.webp",
+    "steps": [
+      null,
+      "assets/images/274946/step_02.webp"
+    ]
+  }
+}

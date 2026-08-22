@@ -1,0 +1,100 @@
+{
+  "id": "275105",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/275105/sous-vide-steak/",
+  "requested_url": "https://www.allrecipes.com/recipe/275105/sous-vide-steak/",
+  "title": "Sous Vide Steak",
+  "description": "Learn how to cook sous vide steak with this recipe. These steaks are beautifully tender when cooked this way but get extra color and flavor when seared on the grill after.",
+  "authors": [
+    "barbara"
+  ],
+  "date_published": "2020-03-06T02:55:25-05:00",
+  "date_modified": "2025-01-22T10:33:18-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT125M",
+  "total_time": "PT130M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 (10 ounce) strip steaks",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Generously season steaks with salt and black pepper. Place into a large plastic bag and vacuum seal.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place a heat-resistant pad underneath a large pot filled with water. Attach a sous vide precision cooker to the pot and set the temperature to 130 degrees F (54 degrees C). Immerse the bag with steaks into the water bath and cook for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the bag from the water bath and take out steaks. Pat very dry with paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill to medium-high heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place steak on the preheated grill. Cook, turning every minute or so until well seared all over, 3 to 4 minutes total.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "444 kcal",
+    "cholesterolContent": "148 mg",
+    "proteinContent": "44 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "130 mg",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JQHvO503ReUz-iA1VpgXjOa84Ok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6892313-149ba0765b9a434e8193eccaf080037b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/275105/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
