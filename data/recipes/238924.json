@@ -1,0 +1,78 @@
+{
+  "id": "238924",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238924/chef-johns-gremolata/",
+  "requested_url": "https://www.allrecipes.com/recipe/238924/chef-johns-gremolata/",
+  "title": "Chef John&#39;s Gremolata",
+  "description": "Chef John&#39;s recipe for gremolata produces the sharp and fresh Italian condiment perfect for garnishing hearty fall and winter meals.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-08-05T21:23:26-04:00",
+  "date_modified": "2023-02-13T20:47:12-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons minced fresh parsley",
+    "1 tablespoon olive oil",
+    "1 teaspoon freshly grated lemon zest",
+    "1 clove garlic, crushed",
+    "1 pinch salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Stir parsley, olive oil, lemon zest, garlic, salt, and pepper together in a small bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/I1KYhRmfYp_FwGi8ocFU0Vicl0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1913675-chef-johns-gremolata-Baking-Nana-1x1-1-e33c5085301a40ffac22ba2c573aa351.jpg"
+      ],
+      "image": "assets/images/238924/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "128 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "0 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "14"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/SThvSbdA-ma1DlVvV.mp4",
+    "description": "A bright Italian garnish for rich meat dishes, soups, and stews.",
+    "duration": "PT2M6S",
+    "name": "How to Make Gremolata",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/SThvSbdA/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T14:22:29-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/I1KYhRmfYp_FwGi8ocFU0Vicl0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1913675-chef-johns-gremolata-Baking-Nana-1x1-1-e33c5085301a40ffac22ba2c573aa351.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238924/hero.webp",
+    "steps": [
+      "assets/images/238924/step_01.webp"
+    ]
+  }
+}

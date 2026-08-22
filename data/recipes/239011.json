@@ -1,0 +1,91 @@
+{
+  "id": "239011",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/239011/maple-chicken-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/239011/maple-chicken-curry/",
+  "title": "Maple Chicken Curry",
+  "description": "Maple chicken and vegetables are seasoned with a creamy curry sauce creating a spicy topping for basmati rice with saffron.",
+  "authors": [
+    "Erin Bruegger"
+  ],
+  "date_published": "2020-01-02T16:50:06-05:00",
+  "date_modified": "2022-01-14T01:28:11-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil, or as needed, divided",
+    "3 skinless, boneless chicken breast halves, cut into chunks",
+    "1 onion, diced",
+    "1 red bell pepper, chopped",
+    "2 cloves garlic, minced",
+    "2 carrots, chopped",
+    "1 cup heavy whipping cream",
+    "2 tablespoons curry paste",
+    "0.25 cup maple syrup"
+  ],
+  "steps": [
+    {
+      "text": "Heat 1 tablespoon olive oil in a skillet over medium heat; cook and stir chicken until no longer pink in the center, about 10 minutes. Remove skillet from heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 1 tablespoon olive oil in a separate skillet over medium heat; cook and stir onion, red bell pepper, and garlic until onion is translucent, 5 to 10 minutes. Add carrots and cook over low heat until carrots are slightly tender, about 5 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix chicken, cream, and curry paste into onion mixture and simmer until heated through, about 5 minutes. Add maple syrup and simmer until thickened, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "125 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "229 mg",
+    "sugarContent": "17 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1OZc9J7HmzuwChXarhSZqDQx4C0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1972367-562a3261c85a4ffcb6270dd2a4370471.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/239011/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

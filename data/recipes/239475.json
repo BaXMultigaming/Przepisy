@@ -1,0 +1,76 @@
+{
+  "id": "239475",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/239475/waldorf-salad-65/",
+  "requested_url": "https://www.allrecipes.com/recipe/239475/waldorf-salad-65/",
+  "title": "Waldorf Salad 65",
+  "description": "Apples, raisins, and pecans combine to make this updated version of the classic Waldorf salad.",
+  "authors": [
+    "Sue Sparrow"
+  ],
+  "date_published": "2019-07-10T03:05:48-04:00",
+  "date_modified": "2019-07-10T03:05:48-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT50M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 apples, peeled and cut into bite-size pieces",
+    "1.5 lemons, juiced",
+    "2 cups chopped pecans",
+    "1 cup mayonnaise (such as Hellman's®), or more to taste",
+    "1 cup raisins",
+    "1 teaspoon dried orange zest",
+    "1 teaspoon vanilla extract",
+    "0.5 teaspoon celery seed",
+    "0.25 teaspoon salt",
+    "1 pinch stevia powder, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place apples in a large bowl and sprinkle lemon juice over the top; toss to coat. Stir pecans, mayonnaise, raisins, orange zest, vanilla extract, celery seed, salt, and stevia into apples until well-combined. Cover the bowl with plastic wrap and refrigerate until chilled, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "432 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "186 mg",
+    "sugarContent": "23 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Tn9616Xk-Qfa4FXJX2x_cPOKw8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1509566-e09e6242e9a2406b8f47a0bb3c6ea101.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/239475/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

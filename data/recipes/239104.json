@@ -1,0 +1,103 @@
+{
+  "id": "239104",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/239104/classic-smoked-sausage-peppers/",
+  "requested_url": "https://www.allrecipes.com/recipe/239104/classic-smoked-sausage-peppers/",
+  "title": "Classic Smoked Sausage &amp; Peppers",
+  "description": "Sliced smoked sausage is sauteed with onions and red and green bell peppers for a quick and colorful weeknight dinner.",
+  "authors": [
+    "Hillshire FarmR Brand"
+  ],
+  "date_published": "2016-01-29T16:24:55-05:00",
+  "date_modified": "2026-05-24T12:38:38-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) package Hillshire Farm® Smoked Sausage, diagonally cut into 1/4-inch slices",
+    "2 tablespoons olive oil",
+    "1 cup onion, cut into 1-inch pieces",
+    "2 cups red and green peppers, cut into 1-inch pieces",
+    "0.5 teaspoon dried oregano",
+    "0.5 cup grated Parmesan cheese"
+  ],
+  "steps": [
+    {
+      "text": "Saute sausage in a large skillet over medium-high heat for 3 minutes, turning occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add olive oil, onion, peppers and oregano, cooking until tender, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat, stir in Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/GySR9SYrkx1TwhIrQggcMSXAFq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8251739-660ee637be5244959d764eb2012f8ed9.jpg"
+      ],
+      "image": "assets/images/239104/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "314 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "672 mg",
+    "sugarContent": "2 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "97"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/4qdG2nID-K3AjnAEN.mp4",
+    "description": "In this video, you’ll see how to make sliced smoked sausage sauteed with onions and red and green bell peppers. It’s a quick, colorful weeknight dinner that’s ready in 20 minutes.",
+    "duration": "PT1M22S",
+    "name": "Classic Smoked Sausage & Peppers",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/4qdG2nID/poster.jpg?width=1280",
+    "uploadDate": "2021-06-30T19:06:18-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GySR9SYrkx1TwhIrQggcMSXAFq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8251739-660ee637be5244959d764eb2012f8ed9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/239104/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/239104/step_03.webp"
+    ]
+  }
+}

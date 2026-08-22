@@ -1,0 +1,100 @@
+{
+  "id": "239150",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/239150/santa-fe-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/239150/santa-fe-stew/",
+  "title": "Santa Fe Stew",
+  "description": "This ground beef stew is easy to make thanks to use of canned beans and vegetables, making it a great winter dinner for busy parents.",
+  "authors": [
+    "steph"
+  ],
+  "date_published": "2020-02-26T00:51:40-05:00",
+  "date_modified": "2026-05-05T14:24:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT40M",
+  "total_time": "PT50M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground beef",
+    "1 onion, chopped",
+    "2 (1 ounce) packets taco seasoning mix",
+    "2 (1 ounce) packets ranch dressing mix",
+    "2 (16 ounce) cans shoepeg corn",
+    "2 (10 ounce) cans diced tomatoes with green chile peppers (such as RO*TEL®)",
+    "1 (15 ounce) can red kidney beans",
+    "1 (15 ounce) can black beans",
+    "1 (15 ounce) can pinto beans",
+    "1 (14.5 ounce) can chicken broth",
+    "1 (14.5 ounce) can diced tomatoes"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook and stir beef and onion in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir taco seasoning mix and ranch dressing mix into the ground beef; add shoepeg corn, diced tomatoes with green chile peppers, red kidney beans, black beans, pinto beans, chicken broth, and diced tomatoes. Bring the mixture to a simmer, stirring occasionally; cook until the tomatoes are softened, 30 to 60 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Sx6B3Oes1VUJYZBBy7l6TwvG4w0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1920163-ecde919f90924500b8ed76020a5d91b0.jpg"
+      ],
+      "image": "assets/images/239150/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "525 kcal",
+    "carbohydrateContent": "62 g",
+    "cholesterolContent": "72 mg",
+    "fiberContent": "12 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "2402 mg",
+    "sugarContent": "8 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "31"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/6hGr1wCw-K3AjnAEN.mp4",
+    "description": "Watch how to make a hearty beef and bean stew. This one-skillet meal is high in protein and fiber and takes about an hour from start to finish.",
+    "duration": "PT1M59S",
+    "name": "Santa Fe Stew",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/6hGr1wCw/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T10:55:05-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Sx6B3Oes1VUJYZBBy7l6TwvG4w0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1920163-ecde919f90924500b8ed76020a5d91b0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/239150/hero.webp",
+    "steps": [
+      null,
+      "assets/images/239150/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "239732",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/239732/summertime-cucumber-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/239732/summertime-cucumber-salad/",
+  "title": "Summertime Cucumber Salad",
+  "description": "This simple and fast summertime cucumber salad recipe is basically sliced cucumbers and onion in a creamy salad dressing made with vinegar and sugar.",
+  "authors": [
+    "kevinmannjr"
+  ],
+  "date_published": "2020-06-19T00:01:08-04:00",
+  "date_modified": "2025-08-11T10:05:44-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup creamy salad dressing (such as Miracle Whip®)",
+    "0.5 cup white sugar",
+    "0.25 cup vinegar",
+    "salt and ground black pepper to taste",
+    "4 cucumbers, sliced",
+    "1 large onion, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Combine salad dressing, sugar, and vinegar in a small bowl until smooth; season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place cucumbers and onion in a large bowl; stir in dressing until evenly coated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "267 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "437 mg",
+    "sugarContent": "31 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oQZHHjDKAtp0mmrA-A1L3-M1SCI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1950560-8f717dc0415442a7b2f4ac3c1327d56a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/239732/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

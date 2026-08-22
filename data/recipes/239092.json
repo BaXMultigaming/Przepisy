@@ -1,0 +1,67 @@
+{
+  "id": "239092",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/239092/healthy-carrot-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/239092/healthy-carrot-milkshake/",
+  "title": "Healthy Carrot Milkshake",
+  "description": "This carrot milkshake made with rice milk and honey is a tasty, healthier version of milkshake with a boost of orange color.",
+  "authors": [
+    "Christina Avlon"
+  ],
+  "date_published": "2020-06-19T00:00:31-04:00",
+  "date_modified": "2020-06-19T00:00:31-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup rice milk",
+    "1 carrot, shredded",
+    "0.25 cup ice cubes, or as desired",
+    "1 tablespoon honey, or to taste",
+    "1 pinch ground cinnamon",
+    "1 pinch ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "Blend rice milk, carrot, ice cubes, honey, cinnamon, and nutmeg in a blender until smooth, at least 45 seconds. Strain milkshake through a fine-mesh strainer into a cup 2 times to catch any carrot lumps.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "120 kcal",
+    "carbohydrateContent": "26 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "10 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": null,
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SYQAwyv1Uc4cIZKCkqMR9kxMhAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1501658-fe07b37a91e748119e3404f9d5ab3863.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/239092/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

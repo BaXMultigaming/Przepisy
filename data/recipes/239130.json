@@ -1,0 +1,82 @@
+{
+  "id": "239130",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/239130/dark-choco-bliss/",
+  "requested_url": "https://www.allrecipes.com/recipe/239130/dark-choco-bliss/",
+  "title": "Dark Choco Bliss",
+  "description": "Dark chocolate tapioca pudding is a dairy-free, gluten-free, and refined-sugar-free dessert that can be served warm or chilled.",
+  "authors": [
+    "Genna Suchomel"
+  ],
+  "date_published": "2019-04-03T23:58:22-04:00",
+  "date_modified": "2019-04-03T23:58:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT80M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup small pearl tapioca",
+    "2 tablespoons chia seeds",
+    "1.5 cups water",
+    "4 cups coconut milk",
+    "1 cup palm sugar",
+    "0.5 cup cocoa powder",
+    "3 tablespoons arrowroot powder",
+    "0.5 teaspoon salt",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine tapioca and chia seeds in a pot and cover with water; let soak until thickened and gelatinous, at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix coconut milk, palm sugar, cocoa powder, arrowroot powder, and salt into tapioca mixture; cook and stir over medium heat until desired thickness is reached, 10 to 15 minutes. Remove saucepan from heat and stir vanilla into the pudding.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "348 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "22 g",
+    "sodiumContent": "168 mg",
+    "sugarContent": "18 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/o8Xe78mhO7XNGmPDqzVHfCtsYsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6546647-eef356cb5755461d832f01a0812cea7e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/239130/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

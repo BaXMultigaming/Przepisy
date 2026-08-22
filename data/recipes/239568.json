@@ -1,0 +1,81 @@
+{
+  "id": "239568",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/239568/spiced-pumpkin-oats/",
+  "requested_url": "https://www.allrecipes.com/recipe/239568/spiced-pumpkin-oats/",
+  "title": "Spiced Pumpkin Oats",
+  "description": "Creamy pumpkin oatmeal, lightly spiced, makes a warm and cozy breakfast.",
+  "authors": [
+    "varsha"
+  ],
+  "date_published": "2020-06-19T00:00:57-04:00",
+  "date_modified": "2020-06-19T00:00:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cup oat bran",
+    "1 pinch salt",
+    "0.5 cup pumpkin puree",
+    "1 teaspoon ground ginger",
+    "0.5 teaspoon ground cinnamon",
+    "0.33333334326744 cup white sugar, or to taste",
+    "0.33333334326744 cup coconut milk, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring water to boil in a saucepan. Add oat bran and salt, reduce heat to medium-low; cook and stir until mixture begins to simmer, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir pumpkin puree, ginger, and cinnamon into oat bran mixture; bring back to a simmer. Stir in sugar and coconut milk; cook and stir until mixture reaches desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "172 kcal",
+    "carbohydrateContent": "36 g",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "120 mg",
+    "sugarContent": "18 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PTS-1_6wLAACqC4iCo8oyvzpT6I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1587026-29f67985248a4a57a7b8bc68f422afc2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/239568/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

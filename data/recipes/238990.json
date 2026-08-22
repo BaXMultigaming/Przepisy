@@ -1,0 +1,90 @@
+{
+  "id": "238990",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238990/fried-beets/",
+  "requested_url": "https://www.allrecipes.com/recipe/238990/fried-beets/",
+  "title": "Fried Beets",
+  "description": "Beets are pan-fried in butter and seasoned with salt and pepper for a decadent side dish or appetizer.",
+  "authors": [
+    "MRS_GEOMORPH"
+  ],
+  "date_published": "2018-06-08T10:16:14-04:00",
+  "date_modified": "2024-11-19T01:12:20-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT60M",
+  "total_time": "PT80M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large red beets",
+    "0.25 cup butter",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add beets and cook uncovered until slightly tender, about 20 minutes. Drain, rinse, and cut ends from each beet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place beets in a saucepan with about 2 inches of water. Cover saucepan and bring water to a boil; cook beets until tender, about 20 minutes. Remove beets from water and immediately immerse in a bowl of ice water to cool. Pull peels off the beets. Slice beets into 1/4-inch-thick slices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat butter in a large skillet over medium-high heat; fry beets, flipping occasionally, until lightly blackened, about 20 minutes. Season beets with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "372 mg",
+    "sugarContent": "25 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-PD87G7ImCiA3lqwzVP8BPmr8t4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5886539-fried-beets-doriisworking-4x3-1-38952d1e82af452dbd3c1901fe8da2b7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238990/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
