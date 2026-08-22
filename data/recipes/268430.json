@@ -1,0 +1,71 @@
+{
+  "id": "268430",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/268430/biscoff-latte/",
+  "requested_url": "https://www.allrecipes.com/recipe/268430/biscoff-latte/",
+  "title": "Biscoff® Latte",
+  "description": "This recipe gives your morning latte a fun twist with Biscoff® cookie butter and just a pinch of cinnamon.",
+  "authors": [
+    "LROwen"
+  ],
+  "date_published": "2020-03-05T00:18:37-05:00",
+  "date_modified": "2022-09-25T23:15:24-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 latte"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup milk",
+    "1 tablespoon brown sugar",
+    "1 tablespoon cookie butter (such as Biscoff®)",
+    "0.125 teaspoon ground cinnamon",
+    "1 cup coffee"
+  ],
+  "steps": [
+    {
+      "text": "Heat milk and brown sugar in a small saucepan until frothy, close to simmering. Reduce heat to low. Whisk in cookie butter and cinnamon, then mix in coffee.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "59 mg",
+    "sugarContent": "19 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ESGgSFsbdX0rB8ErjaqDabP6vpU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6306088-891817ef61784cfe9ab404c2a95ef846.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/268430/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
