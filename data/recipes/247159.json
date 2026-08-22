@@ -1,0 +1,90 @@
+{
+  "id": "247159",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/247159/weeknight-noodle-bowl/",
+  "requested_url": "https://www.allrecipes.com/recipe/247159/weeknight-noodle-bowl/",
+  "title": "Weeknight Noodle Bowl",
+  "description": "Spaghetti is topped with a soup made from onion soup mix in this quick and easy dinner for weeknights that is ready in 30 minutes.",
+  "authors": [
+    "AkronJoya"
+  ],
+  "date_published": "2019-04-04T00:01:35-04:00",
+  "date_modified": "2019-04-04T00:01:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound spaghetti",
+    "4 cups water",
+    "0.5 pound cooked chicken breast, chopped",
+    "1 (1 ounce) package onion soup mix",
+    "1 tablespoon chile-garlic sauce",
+    "3 cloves garlic, minced",
+    "0.25 teaspoon ground ginger",
+    "3 cups broccoli florets"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally until tender yet firm to the bite, about 12 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring 4 cups water to a boil in a separate pot; add chicken, onion soup mix, chile-garlic sauce, garlic, and ginger and mix well. Add broccoli and simmer for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide spaghetti into 4 bowls. Ladle soup over spaghetti.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "573 kcal",
+    "carbohydrateContent": "95 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "850 mg",
+    "sugarContent": "5 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cbt86CIpuZOf_iKSBNsVz0YQ9Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4458797-d576a5ceb04b4bd6be4724cf97d1cef3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/247159/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

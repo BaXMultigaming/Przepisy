@@ -1,0 +1,83 @@
+{
+  "id": "246450",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246450/spicy-watercress-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/246450/spicy-watercress-salad/",
+  "title": "Spicy Watercress Salad",
+  "description": "Watercress topped with a cucumber and red pepper flake dressing is a spicy salad that is quick and easy to prepare.",
+  "authors": [
+    "Herbivore"
+  ],
+  "date_published": "2020-06-19T00:06:02-04:00",
+  "date_modified": "2020-06-19T00:06:02-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cucumber, chopped",
+    "1 red bell pepper, cut into thin strips",
+    "0.5 red onion, roughly chopped",
+    "0.25 cup rice vinegar",
+    "1 tablespoon sesame oil",
+    "1 tablespoon white sugar",
+    "1 tablespoon soy sauce",
+    "1 teaspoon red pepper flakes",
+    "1 dash hot pepper sauce",
+    "2 bunches watercress, stems removed"
+  ],
+  "steps": [
+    {
+      "text": "Combine cucumber, red bell pepper, red onion, rice vinegar, sesame oil, sugar, soy sauce, red pepper flakes, and hot pepper sauce in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place watercress on a serving platter or bowl. Pour cucumber mixture over watercress.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "286 mg",
+    "sugarContent": "6 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OaaWCRT4uY_cbfqhao9D-4cPiWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4105586-7df3fe2ff62147358749bfb2bc0ff857.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246450/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "246613",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246613/almond-berry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/246613/almond-berry-smoothie/",
+  "title": "Almond Berry Smoothie",
+  "description": "Almond milk and almond butter are the star ingredients in this berry smoothie with almond milk for a nutritious, on-the-go meal that is vegan and paleo-friendly.",
+  "authors": [
+    "Alli Shircliff"
+  ],
+  "date_published": "2019-04-04T00:01:16-04:00",
+  "date_modified": "2026-06-27T21:49:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup frozen blueberries",
+    "1 banana",
+    "0.5 cup almond milk",
+    "1 tablespoon almond butter",
+    "water as needed"
+  ],
+  "steps": [
+    {
+      "text": "Combine blueberries, banana, almond milk, and almond butter in a blender; blend until smooth, adding water for a thinner smoothie.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "321 kcal",
+    "carbohydrateContent": "56 g",
+    "fiberContent": "8 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "162 mg",
+    "sugarContent": "33 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "42"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AzM7rQUGxWBdz_0PcpVXt9QvKeQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5550584-almond-berry-smoothie-Kim-4x3-1-0a6dde70ce51405798b271b4d6709efb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246613/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

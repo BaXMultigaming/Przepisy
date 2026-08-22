@@ -1,0 +1,108 @@
+{
+  "id": "247247",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/247247/mushroom-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/247247/mushroom-stew/",
+  "title": "Mushroom Stew",
+  "description": "This hearty vegetarian mushroom stew recipe combines dried porcini and mixed fresh mushrooms with thyme and tomatoes. Delicious served over polenta!",
+  "authors": [
+    "Allyson"
+  ],
+  "date_published": "2020-03-09T22:52:27-04:00",
+  "date_modified": "2024-11-21T23:42:07-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT45M",
+  "total_time": "PT85M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Canadian",
+    "American"
+  ],
+  "regions": [
+    "Canadian",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 ounce dried mushrooms (such as porcini)",
+    "1 cup hot water, or as needed",
+    "2 tablespoons extra-virgin olive oil",
+    "1 yellow onion, minced",
+    "2 cloves garlic, minced",
+    "1 tablespoon fresh thyme leaves",
+    "1 pinch ground cloves",
+    "2 pounds assorted fresh mushrooms, cut into bite size pieces",
+    "salt and ground black pepper to taste",
+    "1.5 pounds tomatoes - peeled, seeded, and chopped",
+    "1 quart vegetable stock, or as needed",
+    "8 ounces instant polenta",
+    "4 teaspoons chopped fresh parsley, or as desired"
+  ],
+  "steps": [
+    {
+      "text": "Place dried mushrooms in a small bowl with enough hot water to cover; let stand 20 minutes. Drain mushrooms; reserve liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large pot over medium-high heat; cook and stir onion until soft, about 5 minutes. Reduce heat to medium. Stir in garlic, thyme, and cloves; cook and stir 2 minutes more. Stir fresh mushrooms and soaked dried mushrooms into onion mixture; cook and stir until mushrooms are soft, about 10 minutes. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir tomatoes and reserved mushroom liquid into mushroom mixture; simmer over low heat until thickened, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring vegetable stock to a boil; whisk in polenta. Cook polenta, whisking constantly, until polenta is thick and stock is absorbed, about 5 minutes. Divide polenta into 4 bowls; ladle mushroom stew over polenta and garnish with fresh parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "424 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "988 mg",
+    "sugarContent": "16 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mEtK89zS_ZK_cxCKvwBtVzSmMrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6548766-1d2c0ba486f646be95fb8703cf613c26.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/247247/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

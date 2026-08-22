@@ -1,0 +1,88 @@
+{
+  "id": "246345",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246345/protein-packed-vegetarian-fried-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/246345/protein-packed-vegetarian-fried-rice/",
+  "title": "Protein-Packed Vegetarian Fried Rice",
+  "description": "This tasty vegetarian fried rice is packed with vegetables and protein thanks to the addition of tofu. Top with Sriracha sauce for a kick of heat.",
+  "authors": [
+    "OwlsTheDragon"
+  ],
+  "date_published": "2019-04-02T03:06:27-04:00",
+  "date_modified": "2024-12-17T16:19:01-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "0.5 (12 ounce) package firm tofu, cubed",
+    "2 carrots, peeled and diced",
+    "2 stalks celery, diced",
+    "0.25 onion, minced",
+    "2 cloves garlic, minced",
+    "salt and ground black pepper to taste",
+    "3 cups cooked white rice",
+    "4 large eggs, beaten",
+    "1 (8 ounce) package frozen chopped spinach, thawed",
+    "1 teaspoon sriracha hot sauce, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a skillet over medium-high heat. Add tofu, carrots, celery, onion, and garlic; cook and stir until vegetables are just soft; 5 to 10 minutes. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir rice, egg, and spinach into tofu mixture until egg is no longer runny, about 5 minutes. Stir in Sriracha sauce; season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "217 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "124 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "166 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tLlLPrUJ2VHIzYt8jy9Ce6WqklU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3441068-d348ea929bbd4e09b5b61937e6751ea6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246345/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

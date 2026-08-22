@@ -1,0 +1,70 @@
+{
+  "id": "246479",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246479/healthy-hot-cocoa/",
+  "requested_url": "https://www.allrecipes.com/recipe/246479/healthy-hot-cocoa/",
+  "title": "Healthy Hot Cocoa",
+  "description": "Milk is heated with cacao powder, stevia, and vanilla extract for this simple and delicious cup of hot cocoa, done in less than 10 minutes.",
+  "authors": [
+    "Drew"
+  ],
+  "date_published": "2016-03-03T18:56:48-05:00",
+  "date_modified": "2022-09-28T14:07:18-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT2M",
+  "total_time": "PT7M",
+  "yield": [
+    "1",
+    "1 cup"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "2 teaspoons cacao powder",
+    "0.25 teaspoon stevia powder",
+    "0.25 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Heat milk in a saucepan over medium heat. Add cacao powder, stevia powder, and vanilla extract; stir until hot, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "100 mg",
+    "sugarContent": "12 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0kYnQD9zedF4VrIBU9gP6AkLcT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3407036-d386642a5f8a42fb9522cfeebb42dc0b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246479/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

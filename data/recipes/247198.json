@@ -1,0 +1,93 @@
+{
+  "id": "247198",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/247198/indian-taco/",
+  "requested_url": "https://www.allrecipes.com/recipe/247198/indian-taco/",
+  "title": "Indian Taco",
+  "description": "Chili, tomato, lettuce, and Cheddar cheese are piled on top of bannocks, Native American fry breads, to make quick and easy Indian tacos.",
+  "authors": [
+    "Daduke"
+  ],
+  "date_published": "2019-04-04T00:01:36-04:00",
+  "date_modified": "2019-04-04T00:01:36-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Native American"
+  ],
+  "regions": [
+    "Native American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "1 tablespoon salt",
+    "1 tablespoon baking powder",
+    "1 cup water, or as needed",
+    "2 tablespoons vegetable oil, or as needed",
+    "1 (15 ounce) can chili",
+    "1 tomato, chopped",
+    "1 cup shredded Cheddar cheese",
+    "1 cup shredded lettuce"
+  ],
+  "steps": [
+    {
+      "text": "Mix flour, salt, and baking powder together in a bowl. Stir in enough water to make a dough. Divide dough into 4 pieces and form into 6-inch patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium heat. Fry patties in batches until puffed and golden, about 5 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bannocks on serving plates and top with chili, tomato, Cheddar cheese, and lettuce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "530 kcal",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "2840 mg",
+    "sugarContent": "3 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Erp6EJnROXRIH6AbgbUyXOsyry0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5053168-f02257d78b1649d1b67a0ca7bb467337.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/247198/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "246930",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246930/frozen-berry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/246930/frozen-berry-smoothie/",
+  "title": "Frozen Berry Smoothie",
+  "description": "This milk-based smoothie made with frozen marionberries and sweetened with dark brown sugar makes a quick and tasty breakfast on the go.",
+  "authors": [
+    "dessert_eater51"
+  ],
+  "date_published": "2020-03-05T00:14:03-05:00",
+  "date_modified": "2023-05-09T17:40:39-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1 cup frozen berries (marionberries, raspberries, and blueberries)",
+    "2 tablespoons dark brown sugar",
+    "2 tablespoons white grape juice",
+    "1 teaspoon vanilla extract",
+    "1 ice cube"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, berries, brown sugar, grape juice, vanilla extract, and ice cube in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "carbohydrateContent": "60 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "110 mg",
+    "sugarContent": "54 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/si4wse_LLol84GNUs00KYN6VjSA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/246930frozen-berry-smoothiemyhotsouthernmess4x3-85d01f35133244f383c8016af8f5d39f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246930/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

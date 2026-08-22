@@ -1,0 +1,87 @@
+{
+  "id": "247326",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/247326/iced-mocha-frappe/",
+  "requested_url": "https://www.allrecipes.com/recipe/247326/iced-mocha-frappe/",
+  "title": "Iced Mocha Frappé",
+  "description": "Blend up sweet, homemade iced mocha frappés that taste like those at McDonald&#39;s with this quick-and-easy five-ingredient recipe.",
+  "authors": [
+    "nicoleconrad"
+  ],
+  "date_published": "2020-06-19T00:07:00-04:00",
+  "date_modified": "2022-10-07T15:40:01-04:00",
+  "prep_time": "PT8M",
+  "cook_time": null,
+  "total_time": "PT188M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups cold coffee",
+    "2 cups whole milk",
+    "0.25 cup chocolate syrup",
+    "0.25 cup white sugar",
+    "1 tablespoon whipped cream"
+  ],
+  "steps": [
+    {
+      "text": "Pour coffee into an ice cube tray. Freeze until solid, 3 to 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place frozen coffee cubes in a blender. Add milk, chocolate syrup, and sugar; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour coffee mixture into 2 glasses and top with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "353 kcal",
+    "carbohydrateContent": "61 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "130 mg",
+    "sugarContent": "55 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pUynR4GEcMamLUioi36Y4yhi3kY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3630196-13e1fab602e543ec8a4420e6ff9e230e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/247326/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

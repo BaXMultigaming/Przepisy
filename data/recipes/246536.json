@@ -1,0 +1,85 @@
+{
+  "id": "246536",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246536/gingersnap-peanut-butter-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/246536/gingersnap-peanut-butter-pancakes/",
+  "title": "Gingersnap Peanut Butter Pancakes",
+  "description": "Peanut butter, ginger, and cinnamon flavor these pancakes topped with crushed ginger snaps for a delightful crunch. Great with maple syrup!",
+  "authors": [
+    "Jessiebug"
+  ],
+  "date_published": "2020-06-19T00:06:06-04:00",
+  "date_modified": "2020-06-19T00:06:06-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups all-purpose flour",
+    "1.25 cups whole milk",
+    "0.25 cup crushed gingersnap cookies",
+    "3 tablespoons creamy peanut butter",
+    "3 tablespoons butter, melted",
+    "3 tablespoons white sugar",
+    "1 egg",
+    "1 tablespoon baking powder",
+    "1.5 teaspoons ground ginger",
+    "1 teaspoon salt",
+    "0.75 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Whisk flour, milk, gingersnaps, peanut butter, butter, sugar, egg, baking powder, ginger, salt, and cinnamon together in a bowl until smooth batter forms.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle over medium-high heat. Pour 1/2 cup batter onto the griddle and cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "300 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "51 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "756 mg",
+    "sugarContent": "11 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UfU3uKMeXA9rHjFYjyZPhYsRDQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4488501-3df7a1c979a34197840abef8e8413487.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246536/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

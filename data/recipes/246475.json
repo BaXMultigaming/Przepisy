@@ -1,0 +1,72 @@
+{
+  "id": "246475",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246475/breakfast-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/246475/breakfast-shake/",
+  "title": "Breakfast Shake",
+  "description": "Cacao, banana, and vanilla soy milk are thickened with oatmeal and almonds for a breakfast treat that will keep you going all morning long.",
+  "authors": [
+    "Leslie Bridges"
+  ],
+  "date_published": "2020-03-28T18:50:02-04:00",
+  "date_modified": "2020-03-28T18:50:02-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 shake"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup rolled oats",
+    "1 tablespoon almonds",
+    "1 cup vanilla-flavored soy milk",
+    "1 banana",
+    "1 tablespoon cacao powder",
+    "1 tablespoon cocoa powder"
+  ],
+  "steps": [
+    {
+      "text": "Grind oats and almonds to a flour-like consistency using a coffee grinder. Blend soy milk and banana in a blender. Add ground oats and almonds, cacao powder, and cocoa powder; blend until smooth, 30 seconds to 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "382 kcal",
+    "carbohydrateContent": "59 g",
+    "fiberContent": "13 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "120 mg",
+    "sugarContent": "21 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/G_PH85IbEiE6TIl9xi0A92teqvc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8023819-455aab65e8654222a17dfe997c0e7f15.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246475/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

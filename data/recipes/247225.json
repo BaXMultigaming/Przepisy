@@ -1,0 +1,75 @@
+{
+  "id": "247225",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/247225/tomato-avocado-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/247225/tomato-avocado-sandwich/",
+  "title": "Tomato Avocado Sandwich",
+  "description": "This tomato avocado sandwich is made on ciabatta bread for a vegan-friendly, open-faced sandwich, perfect for a quick lunch or hearty snack.",
+  "authors": [
+    "ronnietong"
+  ],
+  "date_published": "2017-06-21T09:03:02-04:00",
+  "date_modified": "2023-03-26T11:17:26-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Lunch",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 avocado - peeled, pitted, and mashed",
+    "1 teaspoon garlic salt",
+    "1 slice ciabatta bread",
+    "3 slices tomato",
+    "1 pinch ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mix together avocado and garlic salt in a small bowl; spread onto ciabatta bread. Layer tomatoes over avocado and season with black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "335 kcal",
+    "carbohydrateContent": "42 g",
+    "fiberContent": "10 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "2157 mg",
+    "sugarContent": "3 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WO5ymcnjTweNynpMjNbmm6DeuRU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3637962-08c2110bd4cf43948ed61a4445097125.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/247225/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "246959",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246959/toast-with-banana-topping/",
+  "requested_url": "https://www.allrecipes.com/recipe/246959/toast-with-banana-topping/",
+  "title": "Toast with Banana Topping",
+  "description": "Slices of whole wheat bread are buttered then grilled and topped with sweetened condensed milk and banana for a quick and easy sweet snack.",
+  "authors": [
+    "Mint"
+  ],
+  "date_published": "2019-04-02T03:06:58-04:00",
+  "date_modified": "2019-04-02T03:06:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT2M",
+  "total_time": "PT12M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "4 slices whole wheat bread",
+    "0.5 cup sweetened condensed milk",
+    "1 banana, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Spread butter onto whole wheat bread.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat bread slices in a grill pan over low heat until golden brown, 1 to 2 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut each grilled slice into 4 pieces. Top with sweetened condensed milk and banana slices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "203 mg",
+    "sugarContent": "26 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3HcKcB_KW0UGEEmJfprbg4a1Bs0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3577169-d185cdd46289404390a5724cc0dfdf4f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246959/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
