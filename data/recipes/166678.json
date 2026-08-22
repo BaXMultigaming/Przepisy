@@ -1,0 +1,72 @@
+{
+  "id": "166678",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/166678/easy-curry-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/166678/easy-curry-rice/",
+  "title": "Easy Curry Rice",
+  "description": "This rice side dish recipe utilizes a rice cooker.",
+  "authors": [
+    "nickval2010"
+  ],
+  "date_published": "2019-04-03T23:46:10-04:00",
+  "date_modified": "2026-03-04T11:10:07-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "5",
+    "5 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Indian Inspired"
+  ],
+  "regions": [
+    "Indian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups uncooked white rice, rinsed",
+    "3 cups water",
+    "3 tablespoons mild curry powder"
+  ],
+  "steps": [
+    {
+      "text": "Stir the rice, water, and curry powder together in a rice cooker; cook for 1 full cycle or until all the water is absorbed, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "282 kcal",
+    "carbohydrateContent": "61 g",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "0 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VXGYzc0RGiMZZvZ7wxgMe5CLj44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Curry-Rice-France-C-2000-4766305c3ed2496290fc2d443bda34d6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/166678/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

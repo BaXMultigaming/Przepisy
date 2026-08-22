@@ -1,0 +1,114 @@
+{
+  "id": "163001",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/163001/bourbon-mango-pulled-pork/",
+  "requested_url": "https://www.allrecipes.com/recipe/163001/bourbon-mango-pulled-pork/",
+  "title": "Bourbon Mango Pulled Pork",
+  "description": "A recipe for pulled pork and mango BBQ sauce that balances spicy, smoky, and sweet. It&#39;s easy to prepare in the slow cooker and makes a great sandwich.",
+  "authors": [
+    "RuggerDucky"
+  ],
+  "date_published": "2019-04-03T23:45:58-04:00",
+  "date_modified": "2023-03-21T10:18:12-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT360M",
+  "total_time": "PT380M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 mangos",
+    "1 (4 pound) pork shoulder roast",
+    "2 tablespoons ground black pepper",
+    "1 teaspoon kosher salt",
+    "1 teaspoon chipotle chile powder",
+    "0.25 cup balsamic vinegar",
+    "2 cups water",
+    "2 teaspoons honey",
+    "1 (1.5 fluid ounce) jigger bourbon whiskey",
+    "2 (12 ounce) bottles barbeque sauce"
+  ],
+  "steps": [
+    {
+      "text": "Peel mangos and remove the pits. Place the pits into a slow cooker, then roughly chop the mango and set aside. Place pork shoulder into the slow cooker and season with pepper, salt, and 1 teaspoon chipotle powder. Pour in balsamic vinegar and water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on Low until the meat is very tender, 5 to 8 hours. Once done, drain the pork, discarding the cooking liquid and mango pits, and shred with two forks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While pork is cooking, purée chopped mango in a blender until smooth, then pour into a saucepan along with honey, remaining chipotle powder, and whiskey. Bring to a simmer. Reduce heat to medium-low and simmer, stirring frequently, until mango has reduced and darkened slightly, about 10 minutes. Stir in barbecue sauce and remove from the heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return shredded pork to the slow cooker and stir in mango barbecue sauce. Cover and cook on High until pork absorbs the barbecue sauce, 1 to 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qW4D7N9n4UJgqVSLOSybWEuiwao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/780295-0c60b357b6074afe850d3014c7739b4d.jpg"
+      ],
+      "image": "assets/images/163001/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "319 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "68 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "996 mg",
+    "sugarContent": "26 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "382"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/xwWxMPRw-ma1DlVvV.mp4",
+    "description": "AR1273",
+    "duration": "PT4M6S",
+    "name": "Bourbon-Mango Pulled Pork",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/xwWxMPRw/poster.jpg?width=1280",
+    "uploadDate": "2021-07-28T01:43:28-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qW4D7N9n4UJgqVSLOSybWEuiwao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/780295-0c60b357b6074afe850d3014c7739b4d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/163001/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/163001/step_04.webp"
+    ]
+  }
+}

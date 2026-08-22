@@ -1,0 +1,83 @@
+{
+  "id": "167060",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/167060/besan-laddu/",
+  "requested_url": "https://www.allrecipes.com/recipe/167060/besan-laddu/",
+  "title": "Besan Laddu",
+  "description": "Chickpea flour, pistachios, and cashews make a delicious Indian sweet, commonly gifted during celebrations like Diwali.",
+  "authors": [
+    "Chantal Perez"
+  ],
+  "date_published": "2020-06-18T23:35:56-04:00",
+  "date_modified": "2021-10-26T19:33:42-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT45M",
+  "yield": [
+    "24",
+    "2 dozen"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups chickpea flour (besan)",
+    "1 cup clarified butter (ghee)",
+    "1 cup white sugar, or to taste",
+    "2 teaspoons finely chopped pistachio nuts",
+    "1 teaspoon finely chopped cashews"
+  ],
+  "steps": [
+    {
+      "text": "Stir the chickpea flour and clarified butter together in a saucepan over medium-low heat until the mixture smells toasty, about 10 minutes. Set aside until cool enough to handle.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in the sugar, pistachios, and cashews until evenly mixed. Form the mixture into small balls the size of large cherries. Use some pressure when forming the balls so they don't come apart.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "22 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "8 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1QvBmBpaZKlSocp2ZQv4OMQVdS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4450789-c9cfef52b83542ec917fc18ff1e998f5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/167060/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

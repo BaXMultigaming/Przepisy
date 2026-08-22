@@ -1,0 +1,103 @@
+{
+  "id": "168814",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/168814/peanut-butter-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/168814/peanut-butter-chili/",
+  "title": "Peanut Butter Chili",
+  "description": "Who would have thought beans and peanut butter could go together in harmony? They do, in this satisfying vegetarian chili.",
+  "authors": [
+    "EuroGirl6"
+  ],
+  "date_published": "2019-04-03T23:46:22-04:00",
+  "date_modified": "2024-11-23T22:31:22-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14.5 ounce) can diced tomatoes",
+    "0.5 cup water",
+    "3 cloves garlic, minced",
+    "2 bay leaves",
+    "0.5 teaspoon cayenne pepper, or to taste",
+    "1 teaspoon chili powder",
+    "1 teaspoon garlic powder",
+    "1 teaspoon Italian seasoning",
+    "1 (15 ounce) can black beans, rinsed and drained",
+    "1 (15 ounce) can kidney beans, rinsed and drained",
+    "0.33333334326744 cup creamy peanut butter",
+    "salt and pepper to taste",
+    "1 cup shredded Cheddar cheese",
+    "2 cups tortilla chips"
+  ],
+  "steps": [
+    {
+      "text": "Place the diced tomatoes, water, garlic, and bay leaves into a saucepan, and bring to a simmer over high heat. Reduce heat to medium-low, and season with the cayenne pepper, chili powder, garlic powder, and Italian seasoning. Cover, and simmer 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "After 15 minutes, pour in the black beans and kidney beans; return to a simmer, and cook for 5 minutes. Stir in the peanut butter until dissolved, then remove and discard the bay leaves, and season the chili with salt and pepper to taste. Enjoy with a sprinkle of Cheddar cheese, tortilla chips and smile!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/wemaECn_JKKkyE3foeLgJwNZGDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/130693-9de78fcad4804ae98366cd57979ccb88.jpg"
+      ],
+      "image": "assets/images/168814/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "347 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "12 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "754 mg",
+    "sugarContent": "3 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "70"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/zP5CANow-ma1DlVvV.mp4",
+    "description": "See how to turn common pantry items into delicious chili.",
+    "duration": "PT1M47S",
+    "name": "Peanut Butter Chili",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/zP5CANow/poster.jpg?width=1280",
+    "uploadDate": "2021-08-03T16:35:48-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wemaECn_JKKkyE3foeLgJwNZGDg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/130693-9de78fcad4804ae98366cd57979ccb88.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/168814/hero.webp",
+    "steps": [
+      null,
+      "assets/images/168814/step_02.webp"
+    ]
+  }
+}

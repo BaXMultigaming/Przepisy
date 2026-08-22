@@ -1,0 +1,80 @@
+{
+  "id": "172634",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/172634/chocolate-creme-fraiche-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/172634/chocolate-creme-fraiche-ice-cream/",
+  "title": "Chocolate Creme Fraiche Ice Cream",
+  "description": "No cooking is required to make this egg-free chocolate ice cream.",
+  "authors": [
+    "ROQUEMOMA"
+  ],
+  "date_published": "2020-06-18T23:37:04-04:00",
+  "date_modified": "2020-06-18T23:37:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT250M",
+  "yield": [
+    "8",
+    "1 quart"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 (1 ounce) squares bittersweet chocolate, chopped",
+    "1 cup 2% milk",
+    "2 cups creme fraiche",
+    "0.5 cup white sugar",
+    "0.25 cup maple syrup",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Blend the chocolate and milk together in a blender on high until smooth; add the creme fraiche, sugar, maple syrup, and vanilla extract. Blend again until the sugar has dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour the mixture into an ice cream maker and freeze according to manufacturer's directions until it reaches \"soft-serve\" consistency. Transfer ice cream to a lidded plastic container; cover surface with plastic wrap and seal. For best results, ice cream should ripen in the freezer at least 2 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "412 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "35 mg",
+    "sugarContent": "31 g",
+    "fatContent": "30 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hu9R1sjshIhZNRvHz5cEVr_tVqk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4563724-2a33b16390a14085881997dac9367263.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/172634/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

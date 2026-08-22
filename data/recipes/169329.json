@@ -1,0 +1,76 @@
+{
+  "id": "169329",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/169329/chipotle-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/169329/chipotle-chicken-salad/",
+  "title": "Chipotle Chicken Salad",
+  "description": "Cubed chicken breast is combined with smoky, spicy chipotle peppers and feta cheese in this flavorful salad.",
+  "authors": [
+    "Toni Losada"
+  ],
+  "date_published": "2019-04-02T02:50:46-04:00",
+  "date_modified": "2024-11-26T22:29:28-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups cubed cooked chicken",
+    "1 cup mayonnaise",
+    "0.25 cup crumbled reduced-fat feta cheese",
+    "2 green onions, chopped",
+    "3 tablespoons reduced-fat sour cream",
+    "3 chipotle peppers in adobo sauce, minced",
+    "garlic salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken, mayonnaise, feta cheese, green onions, sour cream, and chipotle peppers in a bowl. Season with garlic, salt, and pepper to taste. Stir until evenly combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "404 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "64 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "472 mg",
+    "sugarContent": "1 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "50"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jEwu9Cnukd3bjhTt7wyOgS5eBGE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/169329chipotle-chicken-saladChefMo4x3-68bc1896ee0a46f794fd6f681509d6a4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/169329/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

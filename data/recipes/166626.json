@@ -1,0 +1,78 @@
+{
+  "id": "166626",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/166626/airport-bobs-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/166626/airport-bobs-green-beans/",
+  "title": "Airport Bob&#39;s Green Beans",
+  "description": "A simple, sweet, green bean and bacon side that others will crave.",
+  "authors": [
+    "Tracy T"
+  ],
+  "date_published": "2020-03-05T00:05:53-05:00",
+  "date_modified": "2022-01-07T10:49:34-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 thick slices bacon, cut into 1 inch pieces",
+    "1 (16 ounce) package frozen cut green beans",
+    "0.25 cup butter",
+    "0.25 cup packed brown sugar"
+  ],
+  "steps": [
+    {
+      "text": "Fry the bacon in a large skillet over medium heat until done, but not quite crisp, about 9 minutes. Drain off grease and add butter and brown sugar. Cook and stir over medium heat until sugar has dissolved; remove from the heat and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the green beans into a pot and fill with about 1 inch of water. Bring to a boil then cover, and steam over medium heat until cooked through, about 5 minutes. Drain off water and stir in the sugar and bacon mixture. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "195 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "347 mg",
+    "sugarContent": "11 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "249"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xdLXijmxW_mBp3GAETaaKx2oSGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4026654-bee24db102514e6f961d1b6e799fd870.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/166626/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

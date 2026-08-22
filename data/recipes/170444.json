@@ -1,0 +1,91 @@
+{
+  "id": "170444",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/170444/guacamole-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/170444/guacamole-salad/",
+  "title": "Guacamole Salad",
+  "description": "Fresh avocado, tomato, cucumber, and corn are tossed together to make a delicious, crisp salad for a hot summer day!",
+  "authors": [
+    "yogurtraisin"
+  ],
+  "date_published": "2018-06-08T09:52:07-04:00",
+  "date_modified": "2025-01-31T11:47:31-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT50M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 avocados - peeled, pitted, and sliced",
+    "2 tomatoes, seeded and chopped",
+    "0.5 small red onion, chopped",
+    "0.5 cucumber, sliced",
+    "1 small fresh jalapeno pepper, seeded and diced",
+    "1 (15.25 ounce) can whole kernel corn, drained",
+    "0.5 teaspoon garlic salt",
+    "salt and black pepper to taste",
+    "juice of 1 fresh lime",
+    "0.25 cup extra virgin olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Lightly toss avocados, tomatoes, red onion, cucumber, jalapeno, and corn in a salad bowl until well mixed, and sprinkle with garlic salt, salt, and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix lime juice with olive oil in a small bowl, and pour over the salad. Chill for at least 30 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "278 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "8 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "572 mg",
+    "sugarContent": "4 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WiKbymzA2_eh29RluvksZlfEEFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/848406-870c7d10242042c796580ff640dfec8d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/170444/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

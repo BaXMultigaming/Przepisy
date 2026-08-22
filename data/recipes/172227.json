@@ -1,0 +1,83 @@
+{
+  "id": "172227",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/172227/salty-cumin-lassi/",
+  "requested_url": "https://www.allrecipes.com/recipe/172227/salty-cumin-lassi/",
+  "title": "Salty Cumin Lassi",
+  "description": "Toasted cumin seeds and salt flavor this Indian yogurt drink.",
+  "authors": [
+    "Sunaina"
+  ],
+  "date_published": "2018-06-08T09:52:14-04:00",
+  "date_modified": "2018-06-08T09:52:14-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons cumin seeds",
+    "2 cups ice cubes",
+    "1 cup nonfat milk",
+    "3 cups nonfat plain yogurt",
+    "0.5 teaspoon salt, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toast the cumin seeds in a small skillet over medium heat until they appear to be black and charred, about 8 minutes. Allow to cool to room temp; grind into a fine powder.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend the ice, milk, yogurt, salt, and ground cumin together in a blender on high speed until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "136 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "467 mg",
+    "sugarContent": "17 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "1",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mKd8xT53WKGMZXVwmip11TQFo3c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1019006-4cdd08a2611d4c839f0cd20e8252f8f4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/172227/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

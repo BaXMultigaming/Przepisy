@@ -1,0 +1,89 @@
+{
+  "id": "170413",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/170413/onion-elk-roast-stroganoff/",
+  "requested_url": "https://www.allrecipes.com/recipe/170413/onion-elk-roast-stroganoff/",
+  "title": "Onion Elk Roast Stroganoff",
+  "description": "Cook elk roast all day in a slow cooker with condensed soup, onion, and seasonings, then shred it and serve over egg noodles, mashed potatoes, or rice.",
+  "authors": [
+    "SPEARL20"
+  ],
+  "date_published": "2019-04-03T23:46:25-04:00",
+  "date_modified": "2022-11-29T07:51:28-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT330M",
+  "total_time": "PT345M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds elk roast",
+    "1.5 tablespoons steak seasoning",
+    "1 teaspoon rubbed sage",
+    "1 (10.5 ounce) can condensed cream of onion soup",
+    "1 cup water",
+    "1 small onion, chopped",
+    "4 cloves garlic, chopped",
+    "1 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Season elk roast with steak seasoning and sage; place into a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir condensed soup, water, onion, and garlic together in a bowl; pour over roast. Cover and cook on Low until meat is easily shredded with a fork, 5 to 7 hours. Stir in sour cream and cook for 30 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove meat and shred with a fork. Return shredded meat to the slow cooker and mix with sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "242 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "75 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1140 mg",
+    "sugarContent": "1 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_oGO98blr6LG9CjaKlabzdaZNS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1129053-030c24f3df89477eaf34f38c7bb2d269.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/170413/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "168323",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/168323/cherry-chutney/",
+  "requested_url": "https://www.allrecipes.com/recipe/168323/cherry-chutney/",
+  "title": "Cherry Chutney",
+  "description": "So many cherries are produced during cherry harvest that I created a savory recipe, because there&#39;s only so much cherry pie and ice cream one man can eat!",
+  "authors": [
+    "Scott Simmons"
+  ],
+  "date_published": "2020-06-18T23:36:17-04:00",
+  "date_modified": "2020-06-18T23:36:17-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT70M",
+  "total_time": "PT360M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound cherries, pitted",
+    "1 cup cider vinegar",
+    "0.5 cup rice vinegar",
+    "1 large onion, chopped",
+    "1 Granny Smith apple - peeled, cored and chopped",
+    "0.25 cup white sugar",
+    "0.25 cup brown sugar",
+    "2 tablespoons minced fresh ginger",
+    "2 tablespoons Chinese five-spice powder",
+    "1 teaspoon salt",
+    "0.25 teaspoon ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "Place the cherries, cider vinegar, rice vinegar, onion, apple, white sugar, brown sugar, ginger, five-spice powder, salt, and nutmeg into a large pot. Bring to a simmer over medium-high heat, then reduce heat to medium-low, cover, and simmer for 1 hour, stirring occasionally. Remove the lid, and continue simmering until the desired consistency has been reached. Chill before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "80 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "197 mg",
+    "sugarContent": "16 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gM4-zZOyF6d5LamWEpbMT8qtDXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035037-6472e93f78f04a2c88e9ea2d70c4b008.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/168323/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "168018",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/168018/secret-burger-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/168018/secret-burger-sauce/",
+  "title": "Secret Burger Sauce",
+  "description": "Jazz up a boring blend of mayo and ketchup by adding garlic powder, pepper, and finely chopped dill pickles. Your burgers (and fries!) will thank you.",
+  "authors": [
+    "Soifua"
+  ],
+  "date_published": "2017-07-01T01:47:36-04:00",
+  "date_modified": "2026-01-05T05:23:12-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "U.S.",
+    "American"
+  ],
+  "regions": [
+    "U.S.",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.5 cup mayonnaise",
+    "0.5 cup chopped dill pickles",
+    "0.25 cup ketchup",
+    "1 teaspoon garlic powder",
+    "0.5 teaspoon black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JTyG9pnUzAXaUduWp2u_g-B9d1U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/168018-secret-burger-sauce-step-01-a3e32116d44b49aa9507d16a985a93e3.jpg"
+      ],
+      "image": "assets/images/168018/step_01.webp"
+    },
+    {
+      "text": "Stir together mayonnaise, pickles, ketchup, garlic powder, and pepper in a bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/WQH_-Q7F6qke0gpFiAl3fkK2FXU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/168018-secret-burger-sauce-step-02-02-65d86e0c5d0a4e04997107293dd79bf1.jpg"
+      ],
+      "image": "assets/images/168018/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "87 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "221 mg",
+    "fatContent": "9 g",
+    "servingSize": "1 1/4 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "189"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/o72ONuYzYGnxEWNG5CO1EwU8GP4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/168018-secret-burger-sauce-beauty-3x4-1aad84d77d894d76969d65ebe9cbfa92.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/168018/hero.webp",
+    "steps": [
+      "assets/images/168018/step_01.webp",
+      "assets/images/168018/step_02.webp"
+    ]
+  }
+}

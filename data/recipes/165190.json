@@ -1,0 +1,113 @@
+{
+  "id": "165190",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/165190/spicy-vegan-potato-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/165190/spicy-vegan-potato-curry/",
+  "title": "Spicy Vegan Potato Curry",
+  "description": "This vegan potato curry with garbanzo beans, peas, and tomatoes in coconut milk is seasoned with aromatic spices like garam masala, cumin, and cayenne.",
+  "authors": [
+    "MeganLee"
+  ],
+  "date_published": "2020-01-04T02:26:34-05:00",
+  "date_modified": "2026-05-02T12:39:18-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Indian Inspired",
+    "Indian"
+  ],
+  "regions": [
+    "Indian Inspired",
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "4 potatoes, peeled and cubed",
+    "2 tablespoons vegetable oil",
+    "1 yellow onion, diced",
+    "3 cloves garlic, minced",
+    "4 teaspoons curry powder",
+    "4 teaspoons garam masala",
+    "2 teaspoons ground cumin",
+    "2 teaspoons salt",
+    "1 (1 inch) piece fresh ginger root, peeled and minced",
+    "1.5 teaspoons cayenne pepper",
+    "1 (15 ounce) can garbanzo beans (chickpeas), rinsed and drained",
+    "1 (15 ounce) can peas, drained",
+    "1 (14.5 ounce) can diced tomatoes",
+    "1 (14 ounce) can coconut milk"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large pot and cover with salted water. Bring to a boil, then reduce the heat to medium-low, cover, and simmer until just tender, about 15 minutes. Drain and allow to steam dry for 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat oil in a large skillet over medium heat. Cook and stir onion and garlic in hot oil until onion has softened and turned translucent, about 5 minutes. Season with curry powder, garam masala, cumin, salt, ginger, and cayenne pepper; cook and stir for 2 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add cooked potatoes, garbanzo beans, peas, and tomatoes, then pour in coconut milk. Bring to a simmer and continue cooking for 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fD7yqpdEzPCVt7cgM2Vb6ipIMH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7123953-56848a6299ff4bab8fcdf10ed001b6c3.jpg"
+      ],
+      "image": "assets/images/165190/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "407 kcal",
+    "carbohydrateContent": "51 g",
+    "fiberContent": "10 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "1176 mg",
+    "sugarContent": "6 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "1159"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/zkmt20tC-K3AjnAEN.mp4",
+    "description": "SEP 0020 Spicy Vegan Potato Curry - APPROVED",
+    "duration": "PT2M29S",
+    "name": "Spicy Vegan Potato Curry",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/zkmt20tC/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T02:28:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fD7yqpdEzPCVt7cgM2Vb6ipIMH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7123953-56848a6299ff4bab8fcdf10ed001b6c3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/165190/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/165190/step_03.webp"
+    ]
+  }
+}

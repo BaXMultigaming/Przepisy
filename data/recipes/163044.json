@@ -1,0 +1,88 @@
+{
+  "id": "163044",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/163044/quinoa-with-veggies/",
+  "requested_url": "https://www.allrecipes.com/recipe/163044/quinoa-with-veggies/",
+  "title": "Quinoa with Veggies",
+  "description": "I love quinoa and I wanted to make something that was flavorful and filling. The vegetables can be changed to your liking!",
+  "authors": [
+    "feminiSh"
+  ],
+  "date_published": "2019-04-03T23:45:58-04:00",
+  "date_modified": "2026-05-21T14:00:38-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups water",
+    "1 cup quinoa",
+    "1 pinch salt",
+    "3 tablespoons olive oil",
+    "3 cloves garlic, minced",
+    "1 red bell pepper, chopped",
+    "0.5 cup corn kernels",
+    "1 teaspoon dried oregano",
+    "0.5 teaspoon cumin",
+    "salt and pepper to taste",
+    "2 green onions, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Bring water, quinoa, and 1 pinch salt to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until quinoa tender, about 20 minutes. Drain in mesh strainer; set aside",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat olive oil in a saucepan over medium heat. Stir in garlic; cook until softens and aroma mellows, about 2 minutes. Add bell pepper and corn; cook until pepper softens, about 5 minutes. Season with oregano, cumin, salt, and black pepper; cook 1 minute more, then stir in cooked quinoa and green onions. Serve hot or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "carbohydrateContent": "34 g",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "2 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "250"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qAXXDgta1PiT47wBEyMkcQm1dS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1339471-2ee6531fd43e4e0aa7c628fbb68a1041.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/163044/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

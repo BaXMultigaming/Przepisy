@@ -1,0 +1,82 @@
+{
+  "id": "166847",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/166847/grilled-apple-and-swiss-cheese-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/166847/grilled-apple-and-swiss-cheese-sandwich/",
+  "title": "Grilled Apple and Swiss Cheese Sandwich",
+  "description": "Add an apple to your grilled cheese sandwich! My mother taught me this recipe, and it has become one of my favorite meals.",
+  "authors": [
+    "Nikkiling"
+  ],
+  "date_published": "2019-04-02T02:50:36-04:00",
+  "date_modified": "2022-12-11T09:44:36-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices whole wheat bread",
+    "1.5 teaspoons olive oil",
+    "0.5 medium Granny Smith apple - peeled, cored and thinly sliced",
+    "0.33333334326744 cup shredded Swiss cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat a skillet over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lightly brush oil onto one side of each bread slice. Place one slice, oil-side down, into the preheated skillet. Arrange apple slices over bread, then top with Swiss cheese and remaining bread slice, oiled-side up. Cook until bread is golden brown and cheese is melted, 2 to 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "371 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "33 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "338 mg",
+    "sugarContent": "11 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "190"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zMsT9rT4_EiPcN8DVCuxgS5hh_I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4218273-a1a617b9e25b4787a5e7dbbaa01cd652.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/166847/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

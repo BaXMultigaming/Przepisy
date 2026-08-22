@@ -1,0 +1,90 @@
+{
+  "id": "168281",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/168281/rice-flour-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/168281/rice-flour-pancakes/",
+  "title": "Rice Flour Pancakes",
+  "description": "Rice flour replaces wheat in this tasty pancake batter.",
+  "authors": [
+    "ilikeit"
+  ],
+  "date_published": "2018-06-08T09:51:57-04:00",
+  "date_modified": "2018-06-08T09:51:57-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT75M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 eggs",
+    "0.5 cup milk",
+    "1 tablespoon vegetable oil",
+    "0.5 teaspoon salt",
+    "1 cup rice flour"
+  ],
+  "steps": [
+    {
+      "text": "Beat the eggs in a mixing bowl; stir in the milk, vegetable oil, and salt. Whisk in the rice flour until no dry lumps remain. Cover the bowl and let stand at room temperature for 1 hour or in the refrigerator overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly-oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle and cook until bubbles form and the edges are dry. Flip and cook until browned on the other side. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/SSeC7-WQnbXjErOyvSJAFfUNnFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4384880-05304c40da1b464c9ddb81a392de25be.jpg"
+      ],
+      "image": "assets/images/168281/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "487 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "284 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "711 mg",
+    "sugarContent": "4 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "57"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/SJUHUMdu-ma1DlVvV.mp4",
+    "description": "See how to make 5-star gluten-free pancakes.",
+    "duration": "PT1M14S",
+    "name": "Rice Flour Pancakes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/SJUHUMdu/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T01:42:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SSeC7-WQnbXjErOyvSJAFfUNnFg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4384880-05304c40da1b464c9ddb81a392de25be.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/168281/hero.webp",
+    "steps": [
+      null,
+      "assets/images/168281/step_02.webp"
+    ]
+  }
+}

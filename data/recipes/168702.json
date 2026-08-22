@@ -1,0 +1,80 @@
+{
+  "id": "168702",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/168702/watermelon-granita-with-champagne/",
+  "requested_url": "https://www.allrecipes.com/recipe/168702/watermelon-granita-with-champagne/",
+  "title": "Watermelon Granita with Champagne",
+  "description": "This watermelon granita with Champagne recipe is a wonderful dessert to end a warm evening. Watermelon purée and champagne are frozen into a granita.",
+  "authors": [
+    "ilikeit"
+  ],
+  "date_published": "2020-06-19T21:50:30-04:00",
+  "date_modified": "2025-06-25T18:40:01-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds watermelon, seeded and cubed",
+    "0.5 cup white sugar",
+    "1 cup champagne",
+    "4 slices watermelon"
+  ],
+  "steps": [
+    {
+      "text": "Place cubed watermelon and sugar in a blender; blend for 1 minute. Stir in Champagne. Pour watermelon mixture into a container; cover, and freeze. Stir mixture with a fork every 30 minutes until frozen, about 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove granita from the freezer; stir well using a fork. Or place granita in the bowl of a food processor; pulse until it reaches desired consistency. Serve in tall glasses garnished with sliced watermelon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "303 kcal",
+    "carbohydrateContent": "65 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "57 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-fd8K_gkr4OZZTS5214yOtZDtRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/700715-d16c297c3b9d4bf5a15827f56a2652d1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/168702/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

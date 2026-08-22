@@ -1,0 +1,92 @@
+{
+  "id": "163998",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/163998/creamed-eggs-on-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/163998/creamed-eggs-on-toast/",
+  "title": "Creamed Eggs on Toast",
+  "description": "Creamed eggs on toast made with an easy white sauce is a delicious and comforting way to use leftover hard-boiled eggs for breakfast or brunch.",
+  "authors": [
+    "Chrissy"
+  ],
+  "date_published": "2018-06-08T09:50:55-04:00",
+  "date_modified": "2025-12-10T17:03:53-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT5M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 hard-cooked eggs, peeled",
+    "0.25 cup butter",
+    "0.5 cup all-purpose flour",
+    "3 cups milk",
+    "1 tablespoon chicken bouillon granules",
+    "6 slices white bread, lightly toasted",
+    "salt and white pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Separate egg whites from egg yolks. Place egg yolks into a bowl and mash with a fork. Chop egg whites into small pieces and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a saucepan over medium heat; stir in flour until smooth. Gradually mix in milk and chicken bouillon so that no lumps form and stir constantly until mixture comes to a boil. Add mashed egg yolks and mix until dissolved. Stir in chopped egg whites.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve over toast and season with salt and white pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "391 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "454 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "586 mg",
+    "sugarContent": "8 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "326"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/P0WgNBekncrFhIpHLxSwVXPm9R0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/221205-creamed-eggs-on-toast-gapch1026-4x3-1-37ebf66dbda443089e6a7c49ecb15906.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/163998/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

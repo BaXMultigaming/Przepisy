@@ -1,0 +1,79 @@
+{
+  "id": "172463",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/172463/simple-summer-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/172463/simple-summer-smoothie/",
+  "title": "Simple Summer Smoothie",
+  "description": "Banana, strawberries, blueberries, and cherries with a touch of honey are my favorite ingredients for this smoothie.",
+  "authors": [
+    "Toni"
+  ],
+  "date_published": "2020-06-18T23:37:00-04:00",
+  "date_modified": "2026-06-25T17:09:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1 cup frozen strawberries",
+    "1 cup frozen blueberries",
+    "1 cup frozen cherries",
+    "4 ice cubes",
+    "0.5 cup orange juice",
+    "0.75 cup vanilla yogurt",
+    "0.5 teaspoon honey"
+  ],
+  "steps": [
+    {
+      "text": "Place the banana, strawberries, blueberries, cherries, and ice cubes into a blender. Pour in the orange juice, vanilla yogurt, and honey. Puree until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "139 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "34 mg",
+    "sugarContent": "23 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "47"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LTfr8Z4Pq79_FgbP6A3AJAASPTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4883666-simple-summer-smoothie-Chef-V-4x3-1-f08fef2c92ff488ba3178dc4330e04f8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/172463/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

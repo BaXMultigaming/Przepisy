@@ -1,0 +1,95 @@
+{
+  "id": "163145",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/163145/creamed-cabbage/",
+  "requested_url": "https://www.allrecipes.com/recipe/163145/creamed-cabbage/",
+  "title": "Creamed Cabbage",
+  "description": "Creamed cabbage with crispy bacon, shredded cabbage, and tangy sour cream is a super easy side dish you&#39;ll want to serve for St. Patrick&#39;s Day.",
+  "authors": [
+    "Jessica Tripp"
+  ],
+  "date_published": "2019-04-02T02:50:18-04:00",
+  "date_modified": "2025-12-08T09:37:02-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 slices bacon",
+    "0.25 cup butter",
+    "1 tablespoon all-purpose flour",
+    "1 teaspoon salt",
+    "1 large head cabbage, cored and shredded",
+    "0.5 cup sour cream"
+  ],
+  "steps": [
+    {
+      "text": "Cook bacon in a large, deep skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on a paper towel-lined plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add butter, flour, and salt to the skillet; whisk with drippings over medium heat until butter melts. Add cabbage and cook, stirring occasionally, until tender, about 15 minutes. Crumble bacon into the skillet. Stir in sour cream and cook until heated through, 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/udHwIVPeazkimC-BleyzbPeqFDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9229882-creamed-cabbage-MrsMunch-1x1-1-c33e5d3b85584ff9982eaa144d21d457.jpg"
+      ],
+      "image": "assets/images/163145/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "251 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "645 mg",
+    "sugarContent": "7 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "243"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/vh9dqJnY-ma1DlVvV.mp4",
+    "description": "This video shows you how to make quick, creamy cabbage flavored with bacon and sour cream. Incredibly simple, it’s terrific for St. Patrick’s Day and, paired with pork chops or roasts, makes a great side dish any time.",
+    "duration": "PT1M36S",
+    "name": "Creamed Cabbage",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/vh9dqJnY/poster.jpg?width=1280",
+    "uploadDate": "2021-07-06T04:46:31-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/udHwIVPeazkimC-BleyzbPeqFDw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9229882-creamed-cabbage-MrsMunch-1x1-1-c33e5d3b85584ff9982eaa144d21d457.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/163145/hero.webp",
+    "steps": [
+      null,
+      "assets/images/163145/step_02.webp"
+    ]
+  }
+}
