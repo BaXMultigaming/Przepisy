@@ -1,0 +1,88 @@
+{
+  "id": "272508",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/272508/instant-pot-orange-ginger-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/272508/instant-pot-orange-ginger-carrots/",
+  "title": "Instant Pot Orange-Ginger Carrots",
+  "description": "Carrots are cooked with orange juice and ginger in the Instant Pot for a quick and easy side dish that pairs well with pork tenderloin.",
+  "authors": [
+    "Bren"
+  ],
+  "date_published": "2020-06-19T00:36:01-04:00",
+  "date_modified": "2023-02-15T07:00:05-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons butter",
+    "3 tablespoons orange juice",
+    "3 tablespoons honey",
+    "0.25 teaspoon ground ginger",
+    "0.25 teaspoon salt, or to taste",
+    "12 ounces thin baby carrots"
+  ],
+  "steps": [
+    {
+      "text": "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Saute function. Add butter and allow to melt. Mix orange juice, honey, ginger, and salt into the butter. Add carrots and stir to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 6 minutes. Allow 10 minutes for pressure to build.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Select Saute function; cook over high heat to thicken the liquid, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "273 mg",
+    "sugarContent": "18 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HPHmaFpy0Y11PgZBMGUFgWLzE1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6519618-7bdd53b870e64ed7bb247685c57a6de3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/272508/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "271025",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/271025/instant-pot-peppery-rutabaga/",
+  "requested_url": "https://www.allrecipes.com/recipe/271025/instant-pot-peppery-rutabaga/",
+  "title": "Instant Pot® Peppery Rutabaga",
+  "description": "Want to speed up cooking rutabaga? Try making it in your Instant Pot®, where it can be ready in just over 30 minutes.",
+  "authors": [
+    "Bren"
+  ],
+  "date_published": "2020-03-05T00:19:20-05:00",
+  "date_modified": "2022-01-14T01:25:04-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds rutabaga, peeled and cut into 1/2-inch chunks",
+    "1 cup water",
+    "1 teaspoon salt",
+    "1 tablespoon brown sugar",
+    "1 tablespoon butter",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Combine rutabaga and water in a multi-functional pressure cooker (such as Instant Pot®). Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 7 minutes. Allow 10 to 15 minutes for pressure to build.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Release pressure carefully using the quick-release method according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Drain rutabaga in a colander and return to Instant Pot®. Select Saute function. Cook on low until rutabaga starts to sizzle, about 5 minutes. Cancel Saute mode. Season with brown sugar, butter, and pepper. Use an immersion blender to mash rutabaga until smooth. Taste and adjust the seasoning if necessary.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "121 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "650 mg",
+    "sugarContent": "16 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vRW6hhvEv8WbV8Vb4vCE09UeIXA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6445808-218a0f526429443fa13f79b77a3ac945.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/271025/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

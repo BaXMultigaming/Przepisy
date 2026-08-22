@@ -1,0 +1,80 @@
+{
+  "id": "270804",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270804/perfectly-crispy-grilled-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/270804/perfectly-crispy-grilled-cheese/",
+  "title": "Perfectly Crispy Grilled Cheese",
+  "description": "Learn how to make a crispy grilled cheese sandwich with bread, cheese, and one tablespoon of mayonnaise, the secret ingredient, instead of butter!",
+  "authors": [
+    "Hellmann's"
+  ],
+  "date_published": "2019-02-22T00:10:13-05:00",
+  "date_modified": "2026-05-28T13:40:13-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices crusty Italian bread",
+    "1 tablespoon Hellmann's® or Best Foods® Real Mayonnaise",
+    "2 (1 ounce) slices white Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Spread one bread slice with mayonnaise. Place bread, mayonnaise-side down, onto a hot skillet. Add cheese slices. Spread the remaining bread slice with mayonnaise and place on top of the cheese with the mayonnaise facing up.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook until lightly browned on one side. Flip over and cook until cheese is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "444 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "65 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "682 mg",
+    "sugarContent": "1 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iSxql0yFAY_pwAXhx-BVA0MTE80=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6542783-perfectly-crispy-grilled-cheese-Hellmanns-4x3-1-3675808f97d444dea045ad049754310e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270804/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

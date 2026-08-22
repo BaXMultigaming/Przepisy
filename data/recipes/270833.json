@@ -1,0 +1,83 @@
+{
+  "id": "270833",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270833/easy-cottage-cheese-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/270833/easy-cottage-cheese-pancakes/",
+  "title": "Easy Cottage Cheese Pancakes",
+  "description": "Enjoy these simple cottage cheese pancakes as is, or add spices, dried or pureed fruit, seeds, beans, or meat to the batter to really change it up and suit your taste.",
+  "authors": [
+    "Sarabeth Emet"
+  ],
+  "date_published": "2019-12-05T15:15:22-05:00",
+  "date_modified": "2025-04-04T11:34:09-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "32",
+    "32 pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups whole milk cottage cheese",
+    "2 cups all-purpose flour",
+    "1 cup whole milk, or more to taste",
+    "2 eggs",
+    "oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Combine cottage cheese, flour, milk, and eggs in a bowl; mix into a soft batter that is easy to ladle with a large spoon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add enough oil to cover the bottom of a large skillet and heat over medium heat. Working in batches, drop large spoonfuls of batter into the skillet and cook until browned, 3 to 5 minutes per side. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "53 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "0 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/AMNvDU03rmcmgavy2X2J0sFXNx4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6308432-1396224d9f3f423e8a2c7fb73ba228cd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270833/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

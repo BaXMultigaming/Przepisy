@@ -1,0 +1,100 @@
+{
+  "id": "270806",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270806/instant-pot-collard-greens/",
+  "requested_url": "https://www.allrecipes.com/recipe/270806/instant-pot-collard-greens/",
+  "title": "Instant Pot Collard Greens",
+  "description": "This is a simple recipe for quick Southern-style collard greens made in your Instant Pot. You need only a few ingredients, but feel free to add extra spices to your liking.",
+  "authors": [
+    "Trevor Barrett"
+  ],
+  "date_published": "2019-04-04T00:16:30-04:00",
+  "date_modified": "2026-05-19T13:30:47-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT55M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 bunch collard greens",
+    "4 thick slices bacon, cut into 1-inch pieces",
+    "4 cups water",
+    "2 tablespoons white vinegar",
+    "4 cups chicken broth",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Rinse collard greens; remove and discard thick parts of stems. Chop greens to desired size.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Saute function. Cook bacon until brown and crisp, about 5 minutes. Turn off Saute function. Pour in water and vinegar. Scrape the bottom of the pot to release stuck bits of bacon. Add collard greens and stir to coat. Pour in chicken broth and season with salt. Close and lock the lid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Select high pressure according to manufacturer's instructions; set timer for 5 minutes. Allow 10 to 15 minutes for pressure to build.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Release pressure using the natural-release method according to manufacturer's instructions for 20 minutes. Quick-release remaining steam, according to manufacturer's instructions, about 5 minutes. Unlock and remove the lid. Season with more salt if necessary.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "68 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "988 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MhztS8o8gipNN0A4gb8VzC4Mbrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6445836-instant-pot-collard-greens-Diana71-4x3-1-e3e41f78c9c74e23a5eed388c5352125.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270806/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

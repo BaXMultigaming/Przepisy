@@ -1,0 +1,82 @@
+{
+  "id": "270844",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270844/sauteed-asparagus/",
+  "requested_url": "https://www.allrecipes.com/recipe/270844/sauteed-asparagus/",
+  "title": "Simple Sautéed Asparagus",
+  "description": "This is one of the easiest ways to prepare sautéed fresh asparagus. Simply trim and cook it in a skillet in olive oil and some water for an easy side dish.",
+  "authors": [
+    "SpikeSTL"
+  ],
+  "date_published": "2019-04-04T00:16:31-04:00",
+  "date_modified": "2024-03-20T06:45:49-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 bunch fresh asparagus, trimmed",
+    "2 tablespoons extra-virgin olive oil",
+    "0.25 cup water",
+    "0.125 teaspoon salt",
+    "0.125 teaspoon pepper"
+  ],
+  "steps": [
+    {
+      "text": "Drizzle olive oil into a large skillet over medium-high heat. Once oil is hot, add asparagus spears; cover and cook for 5 minutes, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add water and cover to steam asparagus and keep it from drying out. Continue cooking for another 5 minutes or until asparagus is tender. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84 kcal",
+    "carbohydrateContent": "4 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "75 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Sj-vmgI9VXD9NNBzugT0p8NFIv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3053017-sauteed-asparagus-SpikeSTL-4x3-1-45afdd5633ca48058cc18d1af127540d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270844/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

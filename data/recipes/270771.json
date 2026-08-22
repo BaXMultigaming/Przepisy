@@ -1,0 +1,93 @@
+{
+  "id": "270771",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270771/sous-vide-salmon/",
+  "requested_url": "https://www.allrecipes.com/recipe/270771/sous-vide-salmon/",
+  "title": "Sous Vide Salmon",
+  "description": "Salmon comes out wonderfully moist and flavorful in this recipe for sous vide salmon. If you like your salmon more tender, lower the cooking temperature.",
+  "authors": [
+    "Bren"
+  ],
+  "date_published": "2019-02-23T03:12:15-05:00",
+  "date_modified": "2023-01-19T14:15:31-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT50M",
+  "total_time": "PT60M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) salmon fillet",
+    "1 shallot, finely chopped",
+    "1 pinch salt and pepper",
+    "1 teaspoon olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with warm water. Attach a sous vide precision cooker to the pot and set temperature to 125 degrees F (51 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place shallot into a plastic bag and lay salmon on top, skin-side down. Use a vacuum sealer to remove air and seal the bag, or use the water-immersion method. Once water temperature has reached 125 degrees F (51°C), add the bag to the pot; set the timer for 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the bag from the pot when the timer goes off. Remove salmon and pat dry. Remove and discard shallot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a nonstick or cast iron skillet over medium heat until it shimmers. Add salmon, skin-side down, and sear for 1 1/2 minutes. Flip and sear for an additional 1 1/2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "66 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "147 mg",
+    "sugarContent": "1 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZsLyL5pJSIVp0gfi5xoxkkwt8Cc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6393850-sous-vide-salmon-Bren-4x3-1-e6ff1c52506149cfae8e651b413b2802.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270771/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

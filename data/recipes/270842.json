@@ -1,0 +1,73 @@
+{
+  "id": "270842",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270842/starter-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/270842/starter-smoothie/",
+  "title": "Starter Smoothie",
+  "description": "Customize this base recipe with your favorite fruits and vegetables for a tasty, calorie-conscious smoothie every time!",
+  "authors": [
+    "lkb"
+  ],
+  "date_published": "2019-02-26T01:43:50-05:00",
+  "date_modified": "2022-10-06T17:32:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup fresh blueberries",
+    "1 cup grape juice",
+    "1 banana, cut into chunks and frozen",
+    "0.5 cup low-fat plain Greek-style yogurt",
+    "1 cup ice",
+    "1 teaspoon honey, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend blueberries, grape juice, banana, yogurt, ice, and honey in a blender until smooth, at least 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "213 kcal",
+    "carbohydrateContent": "48 g",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "30 mg",
+    "sugarContent": "39 g",
+    "fatContent": "1 g",
+    "servingSize": "2 1 1/4-cup servings",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MQHFW2Gtm08L4NyaeiVbuPhPCNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6420436-bd54494990b047ecb169ec5bf933065a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270842/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

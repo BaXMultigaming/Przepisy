@@ -1,0 +1,87 @@
+{
+  "id": "271024",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/271024/sous-vide-dulce-de-leche/",
+  "requested_url": "https://www.allrecipes.com/recipe/271024/sous-vide-dulce-de-leche/",
+  "title": "Sous Vide Dulce de Leche",
+  "description": "With the sous vide technique, water heated to 185 degrees F slowly transforms sweetened condensed milk into luscious dulce de leche.",
+  "authors": [
+    "declan manderscheid"
+  ],
+  "date_published": "2019-03-09T05:36:48-05:00",
+  "date_modified": "2024-12-03T22:03:56-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT840M",
+  "total_time": "PT905M",
+  "yield": [
+    "8",
+    "1 cup caramel"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 pint-sized Mason jar"
+  ],
+  "steps": [
+    {
+      "text": "Set a sous vide precision cooker to 185 degrees F (85 degrees C) according to manufacturer's directions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour sweetened condensed milk into the jar and seal. Immerse in the water bath for 14 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cool in the refrigerator for 1 hour before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "157 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "17 mg",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "62 mg",
+    "sugarContent": "27 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0p6WMAis6dNWsV3cR0gZwBXLr6g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6055633-4dc76f68c0f14336bf8c9e1857c73642.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/271024/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

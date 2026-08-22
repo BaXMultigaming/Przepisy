@@ -1,0 +1,83 @@
+{
+  "id": "272389",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/272389/strawberry-sangria/",
+  "requested_url": "https://www.allrecipes.com/recipe/272389/strawberry-sangria/",
+  "title": "Strawberry Sangria",
+  "description": "This refreshing sangria features white wine, strawberry schnapps, and fresh strawberries, making it the perfect summertime drink.",
+  "authors": [
+    "BUCKEYEMJ"
+  ],
+  "date_published": "2020-06-19T00:35:56-04:00",
+  "date_modified": "2025-02-04T00:43:33-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "6",
+    "6 glasses"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (750 milliliter) bottle white wine",
+    "0.5 cup strawberry schnapps",
+    "0.25 cup white sugar",
+    "2 cups sliced strawberries",
+    "ice",
+    "6 whole strawberries for garnish"
+  ],
+  "steps": [
+    {
+      "text": "Combine wine, strawberry schnapps, and sugar in a large pitcher. Stir until sugar is dissolved. Add sliced strawberries and refrigerate, 2 to 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour over ice and garnish with whole strawberries before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "carbohydrateContent": "26 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "21 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/J2LdV1qBSrq9awk5Lf_jTcYTyuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberry-Sangria-Chef-Mo-4x3-1-dbc6701e98914c3ba0467f3d34e09882.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/272389/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
