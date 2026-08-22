@@ -1,0 +1,76 @@
+{
+  "id": "238434",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238434/cake-and-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/238434/cake-and-ice-cream/",
+  "title": "Cake and Ice Cream",
+  "description": "All the flavors of cake and ice cream are blended together into a boozy milkshake laced with cake-flavored vodka.",
+  "authors": [
+    "superwoman"
+  ],
+  "date_published": "2020-06-18T23:59:50-04:00",
+  "date_modified": "2020-06-18T23:59:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 scoops vanilla ice cream",
+    "0.5 cup milk",
+    "0.5 cup crushed ice",
+    "3 fluid ounces cake-flavored vodka",
+    "1 tablespoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Blend ice cream, milk, ice, vodka, and sugar together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "235 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "59 mg",
+    "sugarContent": "18 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/v7zzbpdJftGi3d02kYZYEPDD8qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1267831-89710e0a1bbc4614a76172fd7aeed26e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238434/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

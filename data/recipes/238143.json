@@ -1,0 +1,74 @@
+{
+  "id": "238143",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238143/blueberry-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/238143/blueberry-oatmeal/",
+  "title": "Blueberry Oatmeal",
+  "description": "Start your day off right with a cozy bowl of blueberry oatmeal that&#39;s flavored with nutty flax seed, cinnamon, and vanilla. Quick and delicious!",
+  "authors": [
+    "agoldstone"
+  ],
+  "date_published": "2020-03-05T00:12:06-05:00",
+  "date_modified": "2022-06-20T07:14:17-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.3333333730698 cups water",
+    "1 pinch salt",
+    "0.66666668653488 cup quick oats",
+    "1 tablespoon crushed flax seed",
+    "1 tablespoon brown sugar",
+    "1 teaspoon ground cinnamon",
+    "1 teaspoon vanilla extract",
+    "0.5 cup milk",
+    "0.25 cup fresh blueberries, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine water and salt together in a saucepan; bring to a boil. Add oats; cook and stir until halfway tender, 2 to 3 minutes. Stir flax, brown sugar, cinnamon, and vanilla extract into oatmeal; continue cooking until oats are tender, water is boiled off, and desired consistency is reached, 2 to 3 minutes more. Stir milk and blueberries into oatmeal.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "36 mg",
+    "sugarContent": "12 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TDChU7Fdrd0PXpSLBaOuQ3E9fXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1212758-9d5f34e2e1ec43af967dc4fda11f3123.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238143/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

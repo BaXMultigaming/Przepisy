@@ -1,0 +1,82 @@
+{
+  "id": "238237",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238237/taco-mix-with-black-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/238237/taco-mix-with-black-beans/",
+  "title": "Taco Mix with Black Beans",
+  "description": "This simple mixture of beef, black beans, salsa, and taco seasoning can be used as a filling in a variety of Mexican-style dishes.",
+  "authors": [
+    "Stephanie Land"
+  ],
+  "date_published": "2020-02-26T00:51:36-05:00",
+  "date_modified": "2026-05-19T08:50:34-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 (19 ounce) can black beans, rinsed and drained",
+    "0.5 cup salsa",
+    "0.25 cup water",
+    "2 tablespoons taco seasoning mix"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium heat. Add beef; cook and stir until browned and crumbly, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in black beans, salsa, water, and taco seasoning; cook, stirring frequently, until heated through, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "554 mg",
+    "sugarContent": "1 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "43"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xPM2JICSifWSK9NMlI9JeuIpmb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1453600-f784f434da6a4bb2a783b417d4e868fd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238237/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

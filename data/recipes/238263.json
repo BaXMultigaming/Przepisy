@@ -1,0 +1,91 @@
+{
+  "id": "238263",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238263/almond-and-parsley-salsa-verde/",
+  "requested_url": "https://www.allrecipes.com/recipe/238263/almond-and-parsley-salsa-verde/",
+  "title": "Almond and Parsley Salsa Verde",
+  "description": "Chef John&#39;s recipe for almond and parsley salsa verde is a welcome change from the traditional pesto sauce.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-06-20T15:02:22-04:00",
+  "date_modified": "2023-07-17T09:39:53-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66666668653488 cup roasted, salted almonds, finely chopped",
+    "1 bunch flat-leaf parsley, finely chopped",
+    "1 clove garlic, minced",
+    "1 cup olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Combine chopped almonds and parsley on a cutting board; chop together again until very finely chopped.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer almond mixture to a bowl and add garlic. Stir olive oil into almond mixture until a thick sauce forms.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ZhfJdH9CV0dsan58sjkRoX6r_co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1532261-65f43092c7f44997a1abcbf73847918f.jpg"
+      ],
+      "image": "assets/images/238263/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "311 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "44 mg",
+    "sugarContent": "1 g",
+    "fatContent": "33 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "9"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/rcCGtWLv-ma1DlVvV.mp4",
+    "description": "See how to make a lively, fresh salsa using only a kitchen knife. No food processor.",
+    "duration": "PT5M47S",
+    "name": "Almond and Parsley Salsa Verde",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/rcCGtWLv/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T07:53:55-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZhfJdH9CV0dsan58sjkRoX6r_co=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1532261-65f43092c7f44997a1abcbf73847918f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238263/hero.webp",
+    "steps": [
+      null,
+      "assets/images/238263/step_02.webp"
+    ]
+  }
+}

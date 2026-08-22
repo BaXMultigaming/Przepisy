@@ -1,0 +1,73 @@
+{
+  "id": "238199",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238199/walnut-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/238199/walnut-pesto/",
+  "title": "Walnut Pesto",
+  "description": "This walnut pesto sauce is easy to make by blending basil leaves, walnuts, garlic, and lemon juice for a delicious alternative to pine nut pesto.",
+  "authors": [
+    "teachhope03"
+  ],
+  "date_published": "2019-07-10T03:05:36-04:00",
+  "date_modified": "2026-04-15T05:49:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups basil leaves",
+    "0.5 cup walnuts",
+    "0.25 cup olive oil",
+    "2 cloves garlic",
+    "1 tablespoon lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Blend basil, walnuts, olive oil, garlic, and lemon juice together in a food processor until pesto has a paste-like consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "455 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "1 g",
+    "fatContent": "47 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qfiyNicbOolTR14XQjf9cnNfpsA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238199walnut-pestoWalnutPestoReneePajestka4x3-c676a8ec53c2455a93ffc33dbbf9deaa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238199/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

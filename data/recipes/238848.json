@@ -1,0 +1,92 @@
+{
+  "id": "238848",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238848/chef-johns-almond-arugula-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/238848/chef-johns-almond-arugula-pesto/",
+  "title": "Arugula Pesto",
+  "description": "Chef John&#39;s arugula pesto is a delicious blend of fresh arugula leaves, almonds, garlic, and olive oil to make a rich vegan sauce exploding with flavor.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-07-30T14:53:42-04:00",
+  "date_modified": "2025-02-01T16:55:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup arugula leaves, or more to taste",
+    "0.33333334326744 cup olive oil",
+    "0.33333334326744 cup raw almonds",
+    "4 cloves garlic",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Add arugula and cook until bright green, about 30 seconds. Remove arugula to a bowl full of ice water for several minutes until cold. Drain and wring out arugula.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pulse arugula, olive oil, almonds, and garlic together in a blender, scraping down the sides, until mixture just becomes a coarse puree. Pour puree into a bowl and season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/GGz7p--u743cvHSqlYmnafZzi7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3547618-947f393ffeb14798a8bc48f5881605d0.jpg"
+      ],
+      "image": "assets/images/238848/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "40 mg",
+    "sugarContent": "1 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "21"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ymJHw8gj-ma1DlVvV.mp4",
+    "description": "See how to make pesto with arugula instead of basil.",
+    "duration": "PT2M24S",
+    "name": "Chef John's Arugula Pesto",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ymJHw8gj/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T09:15:56-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GGz7p--u743cvHSqlYmnafZzi7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3547618-947f393ffeb14798a8bc48f5881605d0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238848/hero.webp",
+    "steps": [
+      null,
+      "assets/images/238848/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "238430",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238430/cherry-cloud/",
+  "requested_url": "https://www.allrecipes.com/recipe/238430/cherry-cloud/",
+  "title": "Cherry Cloud",
+  "description": "This cherry cloud recipe is a mixture of cherry pie filling, pineapple, and pecans in a cream cheese, whipped topping, and sweetened condensed milk base.",
+  "authors": [
+    "Tami Thompson Wright"
+  ],
+  "date_published": "2017-04-05T09:01:46-04:00",
+  "date_modified": "2025-01-22T20:07:36-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) can sweetened condensed milk",
+    "1 (8 ounce) package cream cheese, softened",
+    "6 ounces frozen whipped topping, thawed",
+    "1 (20 ounce) can crushed pineapple, drained",
+    "1 (20 ounce) can cherry pie filling",
+    "0.5 cup pecans"
+  ],
+  "steps": [
+    {
+      "text": "Beat sweetened condensed milk, cream cheese, and whipped topping together in a bowl; stir in pineapple, cherry pie filling, and pecans until evenly distributed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover bowl with plastic wrap; freeze before serving, at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "397 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "131 mg",
+    "sugarContent": "34 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l-0VzXGqY4ikfY3MFWY5brEmy4E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1291366-7da5063b960d46cd800b9a046fca0bb4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238430/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

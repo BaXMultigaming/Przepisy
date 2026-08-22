@@ -1,0 +1,105 @@
+{
+  "id": "238342",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238342/dairy-free-coconut-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/238342/dairy-free-coconut-ice-cream/",
+  "title": "Dairy-Free Coconut Ice Cream",
+  "description": "This dairy-free coconut ice cream recipe is made with just 4 ingredients, yielding a creamy and rich frozen dessert with chewy bits of shredded coconut.",
+  "authors": [
+    "John Wironen"
+  ],
+  "date_published": "2020-06-18T23:59:46-04:00",
+  "date_modified": "2025-07-30T22:03:18-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT70M",
+  "total_time": "PT105M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ounces shredded unsweetened coconut",
+    "4 (14 ounce) cans coconut milk",
+    "1.5 cups white sugar",
+    "4 egg yolks"
+  ],
+  "steps": [
+    {
+      "text": "Cook and stir shredded coconut in a small skillet over medium-low heat until lightly browned and fragrant, about 5 minutes. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine coconut milk, sugar, and toasted coconut in the top of a double boiler over simmering water; simmer until slightly reduced, about 1 hour. Strain coconut milk mixture through a sieve. Discard solids; pour liquid back into top of double boiler over simmering water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill a large bowl with ice and cold water; set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk egg yolks into coconut milk mixture until thickened. Place top of double boiler in ice water until coconut milk mixture is cooled to room temperature, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour coconut milk mixture into an ice cream maker and freeze according to manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "260 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "15 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Elh7bNjF6Agmrpes_syex4nYp28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2125169-b0504bbdfc284a529649275eddd182b4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238342/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "238000",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238000/nutty-blueberry-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/238000/nutty-blueberry-oatmeal/",
+  "title": "Nutty Blueberry Oatmeal",
+  "description": "Mix quick-cooking oats with chia seeds, flax, brown sugar, walnuts, and cinnamon for a homemade instant oatmeal to which you just add blueberries.",
+  "authors": [
+    "NUSIA"
+  ],
+  "date_published": "2020-03-05T00:12:03-05:00",
+  "date_modified": "2020-03-05T00:12:03-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT12M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup quick-cooking oats",
+    "1 tablespoon chopped walnuts",
+    "2 teaspoons brown sugar",
+    "1 teaspoon ground flax",
+    "1 teaspoon chia seeds",
+    "0.5 teaspoon sesame seeds",
+    "0.25 teaspoon ground cinnamon",
+    "1 pinch ground nutmeg",
+    "1 pinch salt",
+    "1 cup boiling water",
+    "0.25 cup frozen blueberries, thawed"
+  ],
+  "steps": [
+    {
+      "text": "Mix oats, walnuts, brown sugar, flax, chia seeds, sesame seeds, cinnamon, nutmeg, and salt together in a bowl. Pour boiling water over the oats mixture and stir so ingredients are completely moistened; steep until the oats are softened, about 2 minutes. Stir blueberries through the oats mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "299 kcal",
+    "carbohydrateContent": "46 g",
+    "fiberContent": "8 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "14 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0podZuytkK_FuiH9KybSOMVVRQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1379583-206990eac2914033a89e49f69e633d31.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238000/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

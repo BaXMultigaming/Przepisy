@@ -1,0 +1,84 @@
+{
+  "id": "238537",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238537/perfect-vanilla-tea/",
+  "requested_url": "https://www.allrecipes.com/recipe/238537/perfect-vanilla-tea/",
+  "title": "Perfect Vanilla Tea",
+  "description": "This is a delicious blend of plain tea, wonderful vanilla, and spices to create the perfect mug for late night, morning, or really any time of day at all!",
+  "authors": [
+    "ChefChef"
+  ],
+  "date_published": "2020-06-18T23:59:53-04:00",
+  "date_modified": "2026-07-15T15:42:17-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 mug"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup boiling water",
+    "1 orange pekoe tea bag",
+    "2 tablespoons milk",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon vanilla extract",
+    "0.5 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Pour boiling water into a mug. Steep tea bag in water for 3 minutes; remove and discard.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir milk, sugar, vanilla extract, and cinnamon into the tea.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "41 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "20 mg",
+    "sugarContent": "6 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VUXjoPIlwjXqV6ENnVnKW8BBMPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3601817-45c14098bf064bb0a708cf252c9dfab6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238537/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

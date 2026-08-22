@@ -1,0 +1,88 @@
+{
+  "id": "238262",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238262/chef-johns-remoulade-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/238262/chef-johns-remoulade-sauce/",
+  "title": "Chef John&#39;s Remoulade Sauce",
+  "description": "Enjoy Chef John&#39;s recipe for remoulade sauce, made with mayonnaise, Dijon mustard, dill, and capers over crab cakes or with any grilled fish.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2019-10-10T00:51:48-04:00",
+  "date_modified": "2026-05-22T18:42:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mayonnaise",
+    "1 cup cornichons, finely chopped",
+    "0.5 bunch fresh dill, finely chopped",
+    "2 tablespoons capers, drained and coarsely chopped",
+    "1 medium lemon, juiced",
+    "1 teaspoon Dijon mustard, or more to taste",
+    "1 small clove garlic, minced",
+    "1 pinch cayenne pepper, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Stir mayonnaise, cornichons, dill, capers, lemon juice, Dijon mustard, garlic, and cayenne pepper together in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ew2p38wJV5racJsFKtKjgD63ZjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1340081-74ba4fe2014e4cc0b9b003890793a132.jpg"
+      ],
+      "image": "assets/images/238262/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "486 mg",
+    "sugarContent": "1 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "33"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/8SThxwB5-ma1DlVvV.mp4",
+    "description": "See how to make homemade remoulade sauce for seafood recipes.",
+    "duration": "PT3M55S",
+    "name": "Chef John's Remoulade Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/8SThxwB5/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T18:38:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ew2p38wJV5racJsFKtKjgD63ZjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1340081-74ba4fe2014e4cc0b9b003890793a132.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238262/hero.webp",
+    "steps": [
+      "assets/images/238262/step_01.webp"
+    ]
+  }
+}

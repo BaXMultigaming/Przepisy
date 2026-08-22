@@ -1,0 +1,115 @@
+{
+  "id": "238261",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238261/chef-johns-classic-potato-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/238261/chef-johns-classic-potato-pancakes/",
+  "title": "Chef John&#39;s Classic Potato Pancakes",
+  "description": "Follow Chef John&#39;s recipe for his classic potato pancakes, and you will get perfectly crisp latkes every time. Top with salmon, sour cream, and dill.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-06-20T15:01:12-04:00",
+  "date_modified": "2024-10-28T17:27:29-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Jewish",
+    "American"
+  ],
+  "regions": [
+    "Jewish",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.25 pounds russet potatoes, peeled and grated",
+    "0.5 yellow onion, grated",
+    "2 large eggs",
+    "3 tablespoons all-purpose flour",
+    "1 teaspoon salt",
+    "0.5 teaspoon freshly ground black pepper",
+    "1 pinch cayenne pepper",
+    "1 cup vegetable oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes and onion into a large bowl and pour enough cold water in the bowl to cover by several inches. Let rest until potatoes and onion are completely soaked, 20 to 30 minutes. Pour potato mixture into a colander, rinse, drain, and squeeze repeatedly to remove all moisture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk eggs, flour, salt, black pepper, and cayenne pepper together in a bowl until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix potato mixture and egg mixture together in a large bowl with a spatula.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 1/4-inch oil in a heavy skillet over medium-high heat. When oil shimmers, drop large spoonfuls of potato batter into hot oil and flatten with a spatula to about 1/2-inch thick. Cook until the edges of pancakes are golden brown and crispy, 3 to 5 minutes. Reduce heat to medium, flip pancakes, and cook until golden brown and crispy on the other side, about 5 minutes more. Repeat cooking process with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1B5kaKRQjo6eYYeKTzUsKDMNbAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6079895_Chef-Johns-Classic-Potato-Pancakes-4x3-039b8d26f2dc4e89afd86f26af813eac.jpg"
+      ],
+      "image": "assets/images/238261/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "315 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "93 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "633 mg",
+    "sugarContent": "3 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "58"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/FA1GlwGm-ma1DlVvV.mp4",
+    "description": "See a great technique for making perfect potato pancakes.",
+    "duration": "PT3M33S",
+    "name": "Chef John's Classic Potato Pancakes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/FA1GlwGm/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T21:02:18-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1B5kaKRQjo6eYYeKTzUsKDMNbAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6079895_Chef-Johns-Classic-Potato-Pancakes-4x3-039b8d26f2dc4e89afd86f26af813eac.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238261/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/238261/step_04.webp"
+    ]
+  }
+}

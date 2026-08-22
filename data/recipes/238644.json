@@ -1,0 +1,73 @@
+{
+  "id": "238644",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238644/uncle-monkey-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/238644/uncle-monkey-smoothie/",
+  "title": "Uncle Monkey Smoothie",
+  "description": "Kids, adults, and monkeys all love this smoothie made with bananas and peanut butter.",
+  "authors": [
+    "joshuacharlo"
+  ],
+  "date_published": "2020-06-18T23:59:59-04:00",
+  "date_modified": "2020-06-18T23:59:59-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 bananas, cut into small chunks",
+    "0.25 cup vanilla yogurt",
+    "5 ice cubes",
+    "3 tablespoons peanut butter",
+    "2 tablespoons milk",
+    "1 tablespoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Blend bananas, yogurt, ice cubes, peanut butter, milk, and sugar together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "153 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "71 mg",
+    "sugarContent": "14 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BmwBoFGY_GF5Y0zrTEO4ztW41r4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3892402-f9f7e58155664b1ea5f544c465520e8b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238644/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

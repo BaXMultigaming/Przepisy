@@ -1,0 +1,73 @@
+{
+  "id": "238484",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238484/mango-cherry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/238484/mango-cherry-smoothie/",
+  "title": "Mango Cherry Smoothie",
+  "description": "This mango and cherry smoothie is a tangy, delicious breakfast drink or snack to cool down on a sunny day.",
+  "authors": [
+    "Savvy1324"
+  ],
+  "date_published": "2019-04-03T23:58:09-04:00",
+  "date_modified": "2024-05-28T12:41:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups pitted cherries",
+    "1 cup chopped mango",
+    "1 cup water",
+    "1 cup ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Blend cherries, mango, water, and ice cubes in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "158 kcal",
+    "carbohydrateContent": "38 g",
+    "fiberContent": "5 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "33 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WXCuBAh-FdcZtBiH1CPtA8ehb_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1273039-mango-cherry-smoothie-lutzflcat-4x3-1-f32041724c1f4427b5d653f3cf4e685b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238484/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

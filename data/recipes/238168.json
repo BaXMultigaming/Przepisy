@@ -1,0 +1,76 @@
+{
+  "id": "238168",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238168/super-easy-strawberry-shortcake/",
+  "requested_url": "https://www.allrecipes.com/recipe/238168/super-easy-strawberry-shortcake/",
+  "title": "Super-Easy Strawberry Shortcake",
+  "description": "This recipe for strawberry shortcake with frozen strawberries uses 4 simple ingredients and is great for birthday parties or picnics.",
+  "authors": [
+    "tamzie"
+  ],
+  "date_published": "2020-06-18T23:59:37-04:00",
+  "date_modified": "2023-01-21T19:18:28-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT490M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package frozen strawberries",
+    "0.33333334326744 cup white sugar",
+    "1 (9 inch) angel food cake, sliced",
+    "1 (8 ounce) container frozen whipped topping (such as Cool Whip®), thawed"
+  ],
+  "steps": [
+    {
+      "text": "Mix strawberries and sugar together in a bowl until evenly coated. Refrigerate until strawberries are thawed, 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place a slice of angel food cake on each plate; top with whipped topping and sweetened strawberries.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "308 kcal",
+    "carbohydrateContent": "53 g",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "434 mg",
+    "sugarContent": "20 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eM0DLn4k1-Iugq-XuZITozvAvsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6100532-super-easy-strawberry-shortcake-Jessica-Baker-4x3-1-c5f9f64a931e48a7adb01f2c750235ae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238168/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

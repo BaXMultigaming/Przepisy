@@ -1,0 +1,82 @@
+{
+  "id": "238536",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238536/quick-and-easy-mashed-sweet-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/238536/quick-and-easy-mashed-sweet-potatoes/",
+  "title": "Quick and Easy Mashed Sweet Potatoes",
+  "description": "These easy mashed sweet potatoes are boiled, then seasoned to perfection with butter, garlic, basil, and thyme for a quick and delicious side dish.",
+  "authors": [
+    "Master Chef"
+  ],
+  "date_published": "2018-11-14T22:04:07-05:00",
+  "date_modified": "2026-08-14T11:07:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 sweet potatoes",
+    "0.5 cup butter",
+    "2 cloves garlic, minced",
+    "1 teaspoon dried basil",
+    "0.5 teaspoon dried thyme"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer potatoes to a large bowl; add butter, garlic, basil, and thyme. Use a potato masher to mash until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "573 kcal",
+    "carbohydrateContent": "87 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "13 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "398 mg",
+    "sugarContent": "18 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VM-1pY5jZPBvzb3uN5ObYn1BWAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1285557-2f4d34a2615146b495d93de1fe20444c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238536/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "238403",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238403/chef-johns-green-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/238403/chef-johns-green-sauce/",
+  "title": "Chef John&#39;s Green Sauce",
+  "description": "Chef John&#39;s recipe for raw green sauce, or salsa verde, made with garlic, capers, parsley, and anchovy, is the perfect condiment for grilled steak.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-07-01T14:45:25-04:00",
+  "date_modified": "2022-01-14T02:14:55-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large cloves garlic",
+    "1 pinch salt",
+    "0.25 cup packed flat-leaf parsley leaves",
+    "2 teaspoons capers",
+    "1 teaspoon anchovy paste",
+    "2 tablespoons olive oil",
+    "1 tablespoon white wine vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Crush garlic and salt in a molcajete or with a mortar and pestle until garlic has a paste-like texture. Add parsley, capers, and anchovy paste; grind into garlic until mixture is coarsely ground.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir oil and vinegar into parsley mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bAvl4WwIB_C2w1wUFbNXeRGWB6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2327538-270709d2bf5442efa3adbb83b7c7522c.jpg"
+      ],
+      "image": "assets/images/238403/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "135 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "481 mg",
+    "sugarContent": "0 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/kEF855WZ-ma1DlVvV.mp4",
+    "description": "Watch Chef John make a classic green sauce for steaks.",
+    "duration": "PT2M32S",
+    "name": "How to Make Salsa Verde",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/kEF855WZ/poster.jpg?width=1280",
+    "uploadDate": "2021-07-29T08:42:28-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bAvl4WwIB_C2w1wUFbNXeRGWB6E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2327538-270709d2bf5442efa3adbb83b7c7522c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238403/hero.webp",
+    "steps": [
+      null,
+      "assets/images/238403/step_02.webp"
+    ]
+  }
+}

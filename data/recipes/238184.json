@@ -1,0 +1,82 @@
+{
+  "id": "238184",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238184/coconut-jasmine-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/238184/coconut-jasmine-rice/",
+  "title": "Coconut Jasmine Rice",
+  "description": "Coconut jasmine rice is quick, easy, and the perfect accompaniment to almost any dish. Made with just five ingredients, it&#39;s ready in under 30 minutes.",
+  "authors": [
+    "Tony Reinert"
+  ],
+  "date_published": "2020-06-18T23:59:38-04:00",
+  "date_modified": "2025-12-21T22:51:49-05:00",
+  "prep_time": null,
+  "cook_time": "PT25M",
+  "total_time": "PT25M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) can coconut milk",
+    "1.25 cups water",
+    "1 teaspoon white sugar",
+    "1 pinch salt",
+    "1.5 cups jasmine rice"
+  ],
+  "steps": [
+    {
+      "text": "Stir coconut milk, water, sugar, and salt together in a saucepan over medium heat until sugar dissolves, 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add rice and bring to a boil. Cover, reduce the heat to low, and simmer until rice is tender and liquid is absorbed, 18 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "302 kcal",
+    "carbohydrateContent": "41 g",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "1 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "71"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zLaCSeQn5T8Vc4TB_9ZK8eWTSlM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8284095-coconut-jasmine-rice-Pasquale-4x3-1-c89e1cef73f3469c862b96bf09ee31aa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238184/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

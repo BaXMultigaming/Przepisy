@@ -1,0 +1,83 @@
+{
+  "id": "238457",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238457/sriracha-scrambled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/238457/sriracha-scrambled-eggs/",
+  "title": "Sriracha Scrambled Eggs",
+  "description": "This is an excellent, spicy, quick-and-easy breakfast item of eggs scrambled in butter with sriracha and half-and-half.",
+  "authors": [
+    "LaShondaRN"
+  ],
+  "date_published": "2018-06-08T10:15:37-04:00",
+  "date_modified": "2026-07-21T14:05:39-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "1 tablespoon half-and-half",
+    "1 teaspoon sriracha sauce, or to taste",
+    "salt and ground pepper to taste",
+    "2 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Beat eggs in a bowl with half-and-half, sriracha, salt, and pepper until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in nonstick pan over medium-low heat, tilting the pan to cover surface entirely with butter. Cook egg mixture in pan, stirring to slowly scramble eggs, until the eggs are fully set, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "369 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "439 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "537 mg",
+    "sugarContent": "1 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WiusJFAihmI2V-2-Q4SSajNbolg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238457sriracha-scrambled-eggsYoly4x3-fa4b5def78b4425faccc4f16ce42ead5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238457/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

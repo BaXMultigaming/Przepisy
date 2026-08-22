@@ -1,0 +1,84 @@
+{
+  "id": "237947",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/237947/sangria/",
+  "requested_url": "https://www.allrecipes.com/recipe/237947/sangria/",
+  "title": "Sangria (Red)",
+  "description": "This red sangria recipe features green apple, orange, lemon, and lime soaked in a mixture of wine, orange juice, and rum for a refreshing summer drink.",
+  "authors": [
+    "themistycat"
+  ],
+  "date_published": "2020-06-18T23:59:23-04:00",
+  "date_modified": "2025-07-30T11:08:16-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Spanish"
+  ],
+  "regions": [
+    "Spanish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup rum",
+    "0.33333334326744 cup white sugar",
+    "1 green apple, cored and sliced",
+    "1 orange, sliced",
+    "1 lemon, sliced",
+    "1 lime, sliced",
+    "1 (750 milliliter) bottle red wine",
+    "1 cup orange juice",
+    "1 (12 fluid ounce) can or bottle lemon-lime flavored carbonated beverage"
+  ],
+  "steps": [
+    {
+      "text": "Combine rum and sugar in a large pitcher until sugar is dissolved; add apple slices, orange slices, lemon slices, and lime slices. Slightly crush fruit against bottom of pitcher to extract some juice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add wine and orange juice to the pitcher; stir. Add lemon-lime soda just before serving; stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "215 kcal",
+    "carbohydrateContent": "26 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "15 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fpWOcRyp7JVXJ5P74qcZ7hiiVrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7533253-b456347c2e794930a674f757e3dcd00f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/237947/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

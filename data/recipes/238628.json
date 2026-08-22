@@ -1,0 +1,72 @@
+{
+  "id": "238628",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/238628/frozen-blueberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/238628/frozen-blueberry-smoothie/",
+  "title": "Frozen Blueberry Smoothie",
+  "description": "Enjoy this blueberry smoothie with kiwi and yogurt as a refresher on a hot day.",
+  "authors": [
+    "lanita99"
+  ],
+  "date_published": "2017-03-10T10:01:54-05:00",
+  "date_modified": "2017-03-10T10:01:54-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup frozen blueberries",
+    "0.75 cup milk",
+    "0.75 cup Greek yogurt",
+    "1 kiwi, peeled",
+    "2 teaspoons raw sugar"
+  ],
+  "steps": [
+    {
+      "text": "Blend blueberries, milk, yogurt, kiwi, and sugar together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "443 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "180 mg",
+    "sugarContent": "42 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/D3wTn7zlVXnjDe9nsTZodXyYqa4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6392961-a6282bde18a8419ab97781a45fd90223.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/238628/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
