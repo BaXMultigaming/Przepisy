@@ -1,0 +1,76 @@
+{
+  "id": "215615",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215615/good-mojito/",
+  "requested_url": "https://www.allrecipes.com/recipe/215615/good-mojito/",
+  "title": "Good Mojito",
+  "description": "Fresh lime, mint, and rum are needed to make this classic cocktail.",
+  "authors": [
+    "ELIZARDC"
+  ],
+  "date_published": "2020-06-18T23:43:16-04:00",
+  "date_modified": "2025-04-06T15:36:41-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 lime, juiced",
+    "1 tablespoon white sugar",
+    "5 mint leaves",
+    "ice cubes",
+    "2 fluid ounces white rum",
+    "4 fluid ounces soda water",
+    "1 lime wedge"
+  ],
+  "steps": [
+    {
+      "text": "Muddle the lime juice, sugar, and mint leaves together in the bottom of a cocktail glass until the mint has broken down a bit, about 1 minute. Fill the glass with ice cubes. Add the rum and soda water over the ice. Pour the mixture back and forth from from the glass to another glass to mix. Garnish with the lime wedge and enjoy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "188 kcal",
+    "carbohydrateContent": "17 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "13 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/85NAsM_32x2WHk_vTHCscYvF9os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/486105-0e8b9f1649f143b4906ea160f752ffd0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215615/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "215752",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215752/portobello-pesto-egg-omelette/",
+  "requested_url": "https://www.allrecipes.com/recipe/215752/portobello-pesto-egg-omelette/",
+  "title": "Portobello Pesto Egg Omelette",
+  "description": "Portobello mushroom, red onion, and pesto flavor this egg white omelette.",
+  "authors": [
+    "Alisan"
+  ],
+  "date_published": "2020-06-18T23:43:27-04:00",
+  "date_modified": "2025-03-14T09:03:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "1",
+    "1 omelette"
+  ],
+  "categories": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon olive oil",
+    "1 portobello mushroom cap, sliced",
+    "0.25 cup chopped red onion",
+    "4 egg whites",
+    "1 teaspoon water",
+    "salt and ground black pepper to taste",
+    "0.25 cup shredded low-fat mozzarella cheese",
+    "1 teaspoon prepared pesto"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a skillet over medium heat. Cook the portobello mushroom and red onion in the olive oil until the mushroom has softened, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk the egg whites and water together in a small bowl; pour over the mushroom and onion mixture. Season the egg whites with salt and pepper. Cook, stirring occasionally, until the egg whites are no longer runny, about 5 minutes. Sprinkle the mozzarella cheese over the mixture; top with the pesto. Fold the omelette in half and continue cooking until the cheese melts, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "259 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "501 mg",
+    "sugarContent": "5 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sddydSNBZqWs5g2aRxMQDdH2kws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3354066-dd1b1a984c764f159842103f7a7826f3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215752/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

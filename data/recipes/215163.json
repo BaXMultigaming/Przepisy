@@ -1,0 +1,73 @@
+{
+  "id": "215163",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215163/strawberry-orange-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/215163/strawberry-orange-banana-smoothie/",
+  "title": "Strawberry Orange Banana Smoothie",
+  "description": "This orange juice smoothie with strawberries and banana is a refreshing, fruit-filled drink ready in just 5 minutes.",
+  "authors": [
+    "BRENDALEE2"
+  ],
+  "date_published": "2014-01-11T02:01:25-05:00",
+  "date_modified": "2026-06-17T10:23:59-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup fresh strawberries",
+    "0.75 cup orange juice",
+    "1 ripe banana",
+    "1 cup ice cubes, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Blend strawberries, orange juice, banana, and ice in a blender until smooth and frothy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "238 kcal",
+    "carbohydrateContent": "58 g",
+    "fiberContent": "7 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "38 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "117"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sPf0uV1v1ogdtsqyhOExCgn6ju0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215163-strawberry-orange-banana-smoothie-Beauty-4x3-3313fb7e4e564d32b58d9132c8ec6e50.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215163/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

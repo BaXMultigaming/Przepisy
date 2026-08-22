@@ -1,0 +1,102 @@
+{
+  "id": "215189",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215189/fruit-and-yogurt-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/215189/fruit-and-yogurt-smoothie/",
+  "title": "Fruit and Yogurt Smoothie",
+  "description": "This yogurt smoothie recipe blends strawberries, banana, pineapple juice, orange juice, and plain yogurt together for a delicious, refreshing drink.",
+  "authors": [
+    "Sarah"
+  ],
+  "date_published": "2020-06-18T23:43:00-04:00",
+  "date_modified": "2025-11-28T10:19:29-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup strawberries",
+    "1 banana",
+    "0.5 cup yogurt",
+    "0.25 cup pineapple juice",
+    "1.5 teaspoons white sugar",
+    "1 teaspoon orange juice",
+    "1 teaspoon milk"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PyaGs3cCEWAYbbeL8MMLfIFzZm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-215189-fruit-and-yogurt-smoothie-DDMFS-Step-01-e4ea8b0e8ace446892c2b2a59fc0dea4.jpg"
+      ],
+      "image": "assets/images/215189/step_01.webp"
+    },
+    {
+      "text": "Combine strawberries, banana, yogurt, pineapple juice, sugar, orange juice, and milk in a blender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rv3zbFBd_mpGIy8LjjWU0xK7JiE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-215189-fruit-and-yogurt-smoothie-DDMFS-Step-02-f665f0289e8a4492b04b8c021e4b96c9.jpg"
+      ],
+      "image": "assets/images/215189/step_02.webp"
+    },
+    {
+      "text": "Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PCEqSeGtgALALO4UCzfK-tkSAeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-215189-fruit-and-yogurt-smoothie-DDMFS-Step-03-9b253b2e97bf46efaa298b9650e2502b.jpg"
+      ],
+      "image": "assets/images/215189/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "146 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "45 mg",
+    "sugarContent": "22 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "111"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Qx03ek_F5_clocpyE2aaZ-bq7Ac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-215189-fruit-and-yogurt-smoothie-DDMFS-4x3-d5183e8688b8422293b89cd2562309de.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215189/hero.webp",
+    "steps": [
+      "assets/images/215189/step_01.webp",
+      "assets/images/215189/step_02.webp",
+      "assets/images/215189/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "215800",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215800/asian-pineapple-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/215800/asian-pineapple-sauce/",
+  "title": "Asian Pineapple Sauce",
+  "description": "Pineapple sauce for teriyaki chicken and Asian noodles.",
+  "authors": [
+    "mcdavis8784"
+  ],
+  "date_published": "2020-06-18T23:43:30-04:00",
+  "date_modified": "2026-07-25T15:22:59-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Sauce"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup pineapple juice",
+    "2 tablespoons teriyaki sauce",
+    "1 teaspoon soy sauce",
+    "0.5 teaspoon lemon juice",
+    "4 slices canned pineapple in juice, drained and chopped",
+    "0.5 cup white sugar",
+    "1.5 tablespoons garlic powder",
+    "0.25 cup water"
+  ],
+  "steps": [
+    {
+      "text": "Combine the pineapple juice, teriyaki sauce, soy sauce, lemon juice, pineapple, sugar, and garlic powder in a saucepan over medium heat; cook until the liquid has reduced to a syrup, about 5 minutes. Stir the water through the mixture; continue cooking until the mixture thickens again. Remove from heat and serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "158 kcal",
+    "carbohydrateContent": "39 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "422 mg",
+    "sugarContent": "36 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9iRgMzgCkDcNCPviPEZtzKZGYtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1060436-f69f89d2ef914b8b981c60f85c6fa357.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215800/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

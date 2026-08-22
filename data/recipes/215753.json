@@ -1,0 +1,80 @@
+{
+  "id": "215753",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215753/simple-pesto-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/215753/simple-pesto-pasta/",
+  "title": "Simple Pesto Pasta",
+  "description": "Simply noodles with a pesto and butter sauce.",
+  "authors": [
+    "MOMof5"
+  ],
+  "date_published": "2016-06-04T09:44:00-04:00",
+  "date_modified": "2022-08-17T22:38:39-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 (16 ounce) box dry fettuccine pasta",
+    "0.25 cup butter, or to taste",
+    "3 tablespoons minced garlic",
+    "0.25 cup pesto"
+  ],
+  "steps": [
+    {
+      "text": "Bring a pot of lightly salted water to a rolling boil; cook the fettuccini at a boil until cooked through yet firm to the bite, about 8 minutes; drain. Transfer the fettuccini to a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt the butter in a saucepan over medium heat. Cook the garlic and pesto in the melted butter until warmed, 2 to 3 minutes; pour over the fettuccini and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "392 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "205 mg",
+    "sugarContent": "2 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/G7FCn6rNxO6tfUt4wqra65BkHBs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/468533-simple-pesto-pasta-Pam-Ziegler-Lutz-4x3-1-ec36ff66e34e495991809383e3de445a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215753/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

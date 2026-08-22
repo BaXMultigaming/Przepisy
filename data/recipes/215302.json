@@ -1,0 +1,88 @@
+{
+  "id": "215302",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215302/creamy-chipotle-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/215302/creamy-chipotle-chicken/",
+  "title": "Creamy Chipotle Chicken",
+  "description": "An easy, creamy chipotle chicken dish made in the slow cooker gets a smoky kick from the chipotle peppers in adobo sauce. Serve with hot cooked rice.",
+  "authors": [
+    "tnahinu"
+  ],
+  "date_published": "2019-04-02T02:53:53-04:00",
+  "date_modified": "2026-05-26T10:31:26-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT360M",
+  "total_time": "PT375M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American",
+    "Tex-Mex"
+  ],
+  "regions": [
+    "American",
+    "Tex-Mex"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breast halves",
+    "0.25 cup melted butter",
+    "salt and ground black pepper to taste",
+    "2 cloves garlic, minced",
+    "1 (10.75 ounce) can condensed cream of chicken soup",
+    "0.5 cup chicken broth",
+    "1 (8 ounce) package cream cheese, cut into cubes",
+    "3 chipotle peppers in adobo sauce, minced",
+    "1 tablespoon adobo sauce from chipotle peppers"
+  ],
+  "steps": [
+    {
+      "text": "Place chicken breasts into a slow cooker, brush with butter, and sprinkle with salt, pepper, and minced garlic. Pour in condensed soup and chicken broth. Add cream cheese, chipotle peppers, and adobo sauce. Stir the mixture gently.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on Low for 6 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "494 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "159 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "22 g",
+    "sodiumContent": "862 mg",
+    "sugarContent": "1 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "299"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2PZrYzG_tx9D86uJZDDr_Oy3BYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9142161-d7722b1416df4c1992ce43e8574f7952.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215302/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

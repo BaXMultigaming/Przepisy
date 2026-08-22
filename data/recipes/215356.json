@@ -1,0 +1,71 @@
+{
+  "id": "215356",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215356/lean-green-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/215356/lean-green-smoothie/",
+  "title": "Lean Green Smoothie",
+  "description": "Honeydew melon, grapes, cucumber, and maybe a few pieces of broccoli make up this green, and slightly minty, summer drink.",
+  "authors": [
+    "Heidi"
+  ],
+  "date_published": "2020-06-18T23:43:05-04:00",
+  "date_modified": "2020-06-18T23:43:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups honeydew melon - peeled, seeded and cubed",
+    "3 cups ice cubes",
+    "1 cup green grapes",
+    "1 cucumber, peeled and chopped",
+    "0.5 cup broccoli florets",
+    "1 sprig fresh mint"
+  ],
+  "steps": [
+    {
+      "text": "Place the honeydew melon, ice cubes, grapes, cucumber, broccoli, and mint into a blender. Cover, and puree until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "86 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "29 mg",
+    "sugarContent": "18 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cbV5kJPHyomrOqoznv4qnqne_5g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1129905-b1e26f61dfa94daab7ca9761349e0864.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215356/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

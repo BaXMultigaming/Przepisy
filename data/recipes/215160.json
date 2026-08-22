@@ -1,0 +1,74 @@
+{
+  "id": "215160",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215160/banana-coconut-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/215160/banana-coconut-smoothie/",
+  "title": "Banana Coconut Smoothie",
+  "description": "Coconut cream blends with milk and banana in this Caribbean-inspired smoothie recipe.",
+  "authors": [
+    "Food Lover"
+  ],
+  "date_published": "2016-01-20T12:33:27-05:00",
+  "date_modified": "2024-11-23T01:56:20-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Inspired"
+  ],
+  "regions": [
+    "Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1 cup milk",
+    "3 fluid ounces unsweetened coconut cream",
+    "ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Blend banana, milk, coconut cream, and ice cubes in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "520 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "31 g",
+    "sodiumContent": "109 mg",
+    "sugarContent": "26 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BdvB1B3QWSrmwMxCUOWWY_ob2MM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Banana-Coconut-Smoothie-4x3-1-2000-a0e83c6956d845d0bda5f32bd9009c53.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215160/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "215734",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215734/zesty-walnut-hummus/",
+  "requested_url": "https://www.allrecipes.com/recipe/215734/zesty-walnut-hummus/",
+  "title": "Zesty Walnut Hummus",
+  "description": "An ultra nutritious dip that is easy to prepare and makes a great snack or appetizer.",
+  "authors": [
+    "California Walnuts"
+  ],
+  "date_published": "2021-08-04T08:14:39-04:00",
+  "date_modified": "2021-08-04T08:14:39-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "18",
+    "18 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup walnuts, toasted",
+    "1 (19 ounce) can chick peas, drained and rinsed",
+    "0.25 cup Italian salad dressing",
+    "0.5 teaspoon cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "In a blender or food processor, puree walnuts, chickpeas, salad dressing and cayenne pepper together until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve with vegetable sticks or pita triangles.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "68 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "144 mg",
+    "sugarContent": "0 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/53s_5nFxW21iBQsIl50p_0Z4jDs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/992066-1f3ea8da52504849a169db62aa021186.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215734/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

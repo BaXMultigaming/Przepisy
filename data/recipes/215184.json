@@ -1,0 +1,109 @@
+{
+  "id": "215184",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215184/blueberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/215184/blueberry-smoothie/",
+  "title": "Blueberry Smoothie",
+  "description": "Blueberry smoothie recipes are a favorite way to enjoy fresh or frozen berries, and this one&#39;s a winner! Tangy yogurt and a touch of sugar balance it.",
+  "authors": [
+    "eveningbell"
+  ],
+  "date_published": "2020-06-18T23:43:00-04:00",
+  "date_modified": "2025-10-30T11:50:35-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup blueberries (frozen or fresh)",
+    "1 (8 ounce) container plain yogurt",
+    "0.75 cup 2% reduced-fat milk",
+    "2 tablespoons white sugar",
+    "0.5 teaspoon vanilla extract",
+    "0.125 teaspoon ground nutmeg"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FHWxnFYJkbfGaqDm7KLsuuG_Q08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215184-blueberry-smoothie-ddmfs-0370-3x4-step-01-e14dc1c616f14f26a224f9083a4d7463.jpg"
+      ],
+      "image": "assets/images/215184/step_01.webp"
+    },
+    {
+      "text": "Blend blueberries, yogurt, milk, sugar, vanilla, and nutmeg in a blender until frothy, scraping down the sides of the blender if needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/j5WG-TeyDpz1WUZ7ngy0PbZ5Ick=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215184-blueberry-smoothie-ddmfs-0373-3x4-step-02-6f4ee067f4ae4dcb86b49c1321a82d33.jpg"
+      ],
+      "image": "assets/images/215184/step_02.webp"
+    },
+    {
+      "text": "Divide between 2 glasses and serve immediately. Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mvAOZswlesIze_VZJ_kBp8QS1N4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215184-blueberry-smoothie-ddmfs-0407-3x4-hero-2dc0563113084f1faea7ad1d7fe58d38.jpg"
+      ],
+      "image": "assets/images/215184/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "211 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "118 mg",
+    "sugarContent": "32 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "260"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/BPp3xpFi-K3AjnAEN.mp4",
+    "description": "You’d be hard-pressed to find a drink more refreshing than a classic fruit smoothie. This video shows you how to make a blueberry smoothie using either fresh or frozen blueberries, plain yogurt, and milk. For extra sweetness and flavor, this blueberry smoothie recipe also calls for sugar, vanilla extract, and ground nutmeg. Enjoy this top-rated smoothie as a healthy breakfast or as a refreshing (and tasty!) way to cool off on a hot summer day.",
+    "duration": "PT32S",
+    "name": "Blueberry Smoothie Recipe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/BPp3xpFi/thumbnails/S9e6ATqi.jpg?width=1280",
+    "uploadDate": "2022-07-15T14:21:43-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mvAOZswlesIze_VZJ_kBp8QS1N4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215184-blueberry-smoothie-ddmfs-0407-3x4-hero-2dc0563113084f1faea7ad1d7fe58d38.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215184/hero.webp",
+    "steps": [
+      "assets/images/215184/step_01.webp",
+      "assets/images/215184/step_02.webp",
+      "assets/images/215184/step_03.webp"
+    ]
+  }
+}

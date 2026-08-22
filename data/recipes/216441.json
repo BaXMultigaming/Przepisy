@@ -1,0 +1,84 @@
+{
+  "id": "216441",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/216441/pumpkin-spice-coffee/",
+  "requested_url": "https://www.allrecipes.com/recipe/216441/pumpkin-spice-coffee/",
+  "title": "Pumpkin Spice Coffee",
+  "description": "This pumpkin spice coffee recipe gives your cuppa joe warmth and spiciness from allspice and cinnamon. Add the spices to the coffee in your drip machine.",
+  "authors": [
+    "Monica"
+  ],
+  "date_published": "2020-06-18T23:43:49-04:00",
+  "date_modified": "2025-12-03T14:23:03-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup ground coffee",
+    "1 teaspoon ground allspice",
+    "0.5 teaspoon ground cinnamon",
+    "4 cups water",
+    "2 teaspoons half-and-half cream, or to taste",
+    "1 teaspoon white sugar, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine ground coffee, allspice, and cinnamon in a small bowl; add to drip coffee maker filter basket. Pour water into coffee maker; turn machine on.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide coffee between 2 cups; stir in half-and-half and sugar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "25 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "23 mg",
+    "sugarContent": "2 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "24"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YB_R3QcSIVCZqlFrGMUY7j3Kl1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8686405-14c2a3ec35ca4c939bb7cf4d0807852c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/216441/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

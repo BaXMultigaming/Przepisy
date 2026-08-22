@@ -1,0 +1,102 @@
+{
+  "id": "216621",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/216621/hummus-from-scratch/",
+  "requested_url": "https://www.allrecipes.com/recipe/216621/hummus-from-scratch/",
+  "title": "Hummus from Scratch",
+  "description": "Garbanzo beans and soybeans are cooked until tender in a pressure cooker, then mixed with tahini and other flavors. Stovetop cooking instructions are included as well.",
+  "authors": [
+    "RCROYER"
+  ],
+  "date_published": "2020-03-09T22:51:35-04:00",
+  "date_modified": "2025-02-14T15:18:35-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT60M",
+  "total_time": "PT90M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Middle Eastern Inspired",
+    "Greek",
+    "American"
+  ],
+  "regions": [
+    "Middle Eastern Inspired",
+    "Greek",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup dry garbanzo beans",
+    "0.25 cup dried soybeans",
+    "1 bay leaf",
+    "1 onion, quartered",
+    "1 cup vegetable broth",
+    "3 cups water",
+    "2 cloves cloves garlic, crushed",
+    "1 lemon, juiced",
+    "2 tablespoons soy sauce",
+    "black pepper to taste",
+    "0.25 cup tahini",
+    "0.25 cup chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Rinse the garbanzos and soybeans, and place them in a pressure cooker along with the bay leaf and onion. Add vegetable broth and enough water to cover the beans by 1 inch (or follow the manufacturer's instructions for the minimum amount of liquid required).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Seal the lid and bring the pressure up to high; reduce the heat to low and cook, maintaining high pressure, for 1 hour. Allow the pressure to drop naturally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain the beans, reserving the liquid. Place the beans in the bowl of a food processor. Add the garlic, lemon juice, soy sauce, black pepper, and tahini; process until smooth. (You may add some of the cooking liquid for a thinner consistency.) Scoop the mixture into a bowl, and mix in the parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "161 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "6 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "302 mg",
+    "sugarContent": "4 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dYYMooc0APAzpic-W2HNg4IoWSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7189368-175372b5577847d084d679f651d59726.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/216621/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

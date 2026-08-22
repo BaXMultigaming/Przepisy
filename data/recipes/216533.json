@@ -1,0 +1,92 @@
+{
+  "id": "216533",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/216533/french-75/",
+  "requested_url": "https://www.allrecipes.com/recipe/216533/french-75/",
+  "title": "French 75",
+  "description": "This French 75 recipe yields a hard-hitting refresher with Champagne and gin, named after a rapid-firing piece of World War I era French artillery.",
+  "authors": [
+    "JBK"
+  ],
+  "date_published": "2010-08-26T16:09:07-04:00",
+  "date_modified": "2026-03-23T14:31:17-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "cracked ice",
+    "2 fluid ounces gin",
+    "0.5 fluid ounce lemon juice",
+    "1 teaspoon simple syrup",
+    "5 fluid ounces brut champagne, chilled",
+    "1 slice lemon"
+  ],
+  "steps": [
+    {
+      "text": "Chill cocktail shaker and glass (Champagne flute or collins glass) in the freezer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill chilled cocktail shaker with ice; add gin, lemon juice, and simple syrup to shaker. Cover and shake until the outside of shaker has frosted. Fill chilled glass half full with ice; strain cocktail into glass. Top with Champagne; garnish with a lemon slice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/IZrlj2QiH569TrCwgnXjwUOGUQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2466109-french-75-Allrecipes-Magazine-1x1-1-4c6d3bb00c5a4e958a2530ae5ed27855.jpg"
+      ],
+      "image": "assets/images/216533/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "19"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/X2mF9yMV-K3AjnAEN.mp4",
+    "description": "Dress up that champagne like something special with this classic cocktail. The aromatic botanicals of gin collide with lemon juice and a touch of sweetness to refresh as only a true classic cocktail can. Best when shared with good friends",
+    "duration": "PT1M4S",
+    "name": "French75",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/X2mF9yMV/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T00:33:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IZrlj2QiH569TrCwgnXjwUOGUQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2466109-french-75-Allrecipes-Magazine-1x1-1-4c6d3bb00c5a4e958a2530ae5ed27855.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/216533/hero.webp",
+    "steps": [
+      null,
+      "assets/images/216533/step_02.webp"
+    ]
+  }
+}

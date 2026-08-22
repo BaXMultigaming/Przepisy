@@ -1,0 +1,73 @@
+{
+  "id": "215583",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/215583/french-watermelon/",
+  "requested_url": "https://www.allrecipes.com/recipe/215583/french-watermelon/",
+  "title": "French Watermelon",
+  "description": "Watermelon, vodka, sugar, and fresh mint are all you need to make this fun summertime recipe.",
+  "authors": [
+    "PAUL"
+  ],
+  "date_published": "2020-06-19T21:50:38-04:00",
+  "date_modified": "2024-04-17T12:00:42-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "20",
+    "20 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large watermelon, cubed",
+    "1 cup vodka",
+    "0.5 cup white sugar",
+    "15 fresh mint leaves, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Toss the watermelon, vodka, sugar, and mint together in a large bowl. Cover the bowl with plastic wrap and refrigerate 1 to 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "carbohydrateContent": "39 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "33 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/96upq4aB10dCCc2pp8zoIoyO8_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215583french-watermelonlutzflcat4x3-2690ae1455d54226a4ffaa91d4202e33.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/215583/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
