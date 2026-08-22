@@ -1,0 +1,108 @@
+{
+  "id": "222204",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222204/chef-johns-poached-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/222204/chef-johns-poached-eggs/",
+  "title": "Chef John&#39;s Poached Eggs",
+  "description": "Chef John&#39;s poached eggs recipe is nothing fancy, but his improved method with a simple trick will make it much easier to cook poached eggs for a crowd.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-05-04T16:39:20-04:00",
+  "date_modified": "2025-03-12T17:04:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Brunch",
+    "Lunch",
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon champagne vinegar",
+    "0.5 teaspoon salt",
+    "2 eggs, as fresh as possible"
+  ],
+  "steps": [
+    {
+      "text": "Fill a bowl with ice and cold water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill a saucepan with cold water; place over medium heat. Stir in vinegar and salt; bring to a gentle, slow simmer. Reduce heat to low.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Break each egg into separate small ramekins. Place one ramekin close to the water's surface; gently add egg to the simmering water. Let egg white set, 1 to 2 minutes. Gently lift egg from the bottom of the pan using a silicone spatula to prevent sticking. Repeat with remaining egg. Cook until white is firm and yolk is runny, about 6 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Lift poached egg from simmering water using a slotted spoon; gently transfer to the ice water to stop the cooking process. Reheat eggs for 1 1/2 to 2 minutes in very gently simmering water; remove with a slotted spoon. Tap bottom of slotted spoon containing egg on a dry paper towel to remove any excess water before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0PPWCyEgKFZknVrkWy8zryijITY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1017298-1e7d3f36e2b248f2a6321a7c58c7ac3a.jpg"
+      ],
+      "image": "assets/images/222204/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "72 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "186 mg",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "652 mg",
+    "sugarContent": "0 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "71"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/7KwLF7r2-ma1DlVvV.mp4",
+    "description": "0210",
+    "duration": "PT4M17S",
+    "name": "Poaching Eggs",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/7KwLF7r2/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T02:24:42-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0PPWCyEgKFZknVrkWy8zryijITY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1017298-1e7d3f36e2b248f2a6321a7c58c7ac3a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222204/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/222204/step_04.webp"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "222419",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222419/pina-colada-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222419/pina-colada-cocktail/",
+  "title": "Pina Colada Cocktail",
+  "description": "The pina colada is a blended drink that originated in Puerto Rico. The mixture of pineapple, coconut, and rum is a taste of the tropics.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:49:27-04:00",
+  "date_modified": "2022-06-08T17:07:45-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 fluid ounces light rum",
+    "3 tablespoons cream of coconut",
+    "3 tablespoons crushed pineapple",
+    "2 cups ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine rum, cream of coconut, pineapple, and ice in a blender. Puree on high speed until smooth. Pour into chilled Collins glass and serve with a straw.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "423 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "22 mg",
+    "sugarContent": "36 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WBbXA5lQPzLXRdCrZzZayl01zg0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970764-7e2dc24145e74860b8e7844eb6210e94.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222419/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

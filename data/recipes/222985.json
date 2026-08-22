@@ -1,0 +1,71 @@
+{
+  "id": "222985",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222985/no-cook-bbq-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/222985/no-cook-bbq-sauce/",
+  "title": "No Cook BBQ Sauce",
+  "description": "A no-cook version of BBQ sauce is ready to use in ten minutes or less. It is perfect for sandwiches and fries!",
+  "authors": [
+    "cynjne"
+  ],
+  "date_published": "2020-06-18T23:50:01-04:00",
+  "date_modified": "2022-07-26T14:17:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "32",
+    "4 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups ketchup",
+    "1 cup vinegar",
+    "1 cup prepared yellow mustard",
+    "0.5 cup white sugar",
+    "1 teaspoon garlic powder",
+    "1 teaspoon salt",
+    "0.75 teaspoon chili powder",
+    "0.75 teaspoon cayenne pepper",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Mix ketchup, vinegar, mustard, sugar, garlic powder, salt, chili powder, cayenne pepper, and black pepper together in a bowl until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "29 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "287 mg",
+    "sugarContent": "6 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/IBSVDOac105jXPxkA0Yr3KErGWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1566929-58ac0170a00d4cd38951c938ec2321db.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222985/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "222534",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222534/tropical-island-fruit-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/222534/tropical-island-fruit-salad/",
+  "title": "Tropical Island Fruit Salad",
+  "description": "Simply tossing together cut pineapple, mango, papaya, and bananas can deliver a tropical taste to your table.",
+  "authors": [
+    "Devin"
+  ],
+  "date_published": "2014-03-18T02:00:25-04:00",
+  "date_modified": "2022-01-28T14:13:52-05:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "14",
+    "14 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pineapple - peeled, cored, and cut into 1/2-inch cubes",
+    "2 mangos - peeled, pitted, and cut into small cubes",
+    "2 papayas - halved lengthwise, seeded, peeled, and cut into 1/2-inch cubes",
+    "3 bananas, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Toss pineapple, mangos, papayas, and bananas together in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "94 kcal",
+    "carbohydrateContent": "24 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "17 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/efpd6zZLT51vTszSVnN8I21Szik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/876301-773d297aaf5443fd92884b79886b67a7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222534/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "222662",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222662/french-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/222662/french-salad-dressing/",
+  "title": "French Salad Dressing",
+  "description": "Traditional, rich salad dressing with a tangy flavor.",
+  "authors": [
+    "Gemini26"
+  ],
+  "date_published": "2020-06-18T23:49:43-04:00",
+  "date_modified": "2026-04-05T08:08:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "26",
+    "26 servings"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups vegetable oil",
+    "1 cup ketchup",
+    "0.75 cup white sugar",
+    "0.5 cup vinegar",
+    "1 small onion, chopped",
+    "1 teaspoon lemon juice",
+    "1 teaspoon paprika",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Place oil, ketchup, sugar, vinegar, onion, lemon juice, paprika, and salt into a blender; cover and puree until smooth. Store in refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "144 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "148 mg",
+    "sugarContent": "8 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "82"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RJodfTBRJpXZJlUKz-Kq1uuNV-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3958212-3b5f3d2c86d2441d8e34353dbb5a1cd5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222662/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

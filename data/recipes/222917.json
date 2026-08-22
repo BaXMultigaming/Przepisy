@@ -1,0 +1,71 @@
+{
+  "id": "222917",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222917/matcha-madness/",
+  "requested_url": "https://www.allrecipes.com/recipe/222917/matcha-madness/",
+  "title": "Matcha Madness",
+  "description": "Green tea powder, low-fat soy milk, and low-fat yogurt blend for a tasty smoothie.",
+  "authors": [
+    "kimmers"
+  ],
+  "date_published": "2020-04-08T21:50:06-04:00",
+  "date_modified": "2020-04-08T21:50:06-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup low-fat soy milk",
+    "0.5 cup low-fat vanilla Greek-style yogurt",
+    "0.75 teaspoon green tea powder (matcha)",
+    "3 cubes ice, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Blend soy milk, yogurt, green tea powder, and ice in a blender on high until ice is entirely crushed, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "186 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "99 mg",
+    "sugarContent": "22 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8SxITviHEeyE8qdDTVWXS0BVmN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2617406-213f36d0f530479d9509fd623f599fd2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222917/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

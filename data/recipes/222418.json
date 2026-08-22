@@ -1,0 +1,80 @@
+{
+  "id": "222418",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222418/the-mojito-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222418/the-mojito-cocktail/",
+  "title": "The Mojito Cocktail",
+  "description": "This classic cocktail from Cuba is packed with fresh mint, lime juice, and rum and topped with club soda.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:49:27-04:00",
+  "date_modified": "2022-09-25T20:04:44-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons white sugar",
+    "4 sprigs fresh mint",
+    "1 fluid ounce club soda",
+    "1 lime, halved",
+    "2 fluid ounces light rum",
+    "1.5 cups ice",
+    "2 fluid ounces club soda",
+    "1 sprig fresh mint"
+  ],
+  "steps": [
+    {
+      "text": "Muddle sugar and mint with soda water in pint glass. Squeeze both halves of lime into the glass leaving one hull in the mixture. Add rum, stir, and fill with ice. Top with club soda.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Garnish with a mint sprig.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 kcal",
+    "carbohydrateContent": "33 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "26 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/COOsbLk6fEP9_eORuZMFn6UuSQw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/993575-d65c94066ff940fba48bd27d11bef38c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222418/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

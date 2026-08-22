@@ -1,0 +1,116 @@
+{
+  "id": "222415",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222415/manhattan-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222415/manhattan-cocktail/",
+  "title": "Manhattan Cocktail",
+  "description": "This classic Manhattan recipe mixes rye whiskey, sweet vermouth, a dash of bitters, and a maraschino cherry for a smooth, timeless cocktail.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:49:27-04:00",
+  "date_modified": "2025-11-26T13:48:17-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 fluid ounces rye whiskey",
+    "0.5 fluid ounce sweet vermouth",
+    "1 dash Angostura bitters",
+    "1 cup ice cubes",
+    "1 maraschino cherry"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RFFsa7pa0M4_7Ick3wSaSphtlhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-mfs-step-1-ef06075e291c4b0e9b23616593324259.jpg"
+      ],
+      "image": "assets/images/222415/step_01.webp"
+    },
+    {
+      "text": "Combine whiskey, vermouth, and bitters in a cocktail mixing glass. Add ice and stir until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_kwJ9hrxmxcl97GY6VX1QBPw9T4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-mfs-step-2-ccbdb1d57b5d42cea59c0be9e367975a.jpg"
+      ],
+      "image": "assets/images/222415/step_02.webp"
+    },
+    {
+      "text": "Strain into a chilled cocktail glass and garnish with a maraschino cherry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/SdIM5vjDEl_ZTcVgSOzz_wZ8RqQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-mfs-step-3-087c5a99161e4fd0b7f2282b5cfc6ab1.jpg"
+      ],
+      "image": "assets/images/222415/step_03.webp"
+    },
+    {
+      "text": "Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ICkje7q82XlQgqRIgBWlv_2TAHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-DDMFS-4x3-20e4513afe47484f85d7ee72b24816a3.jpg"
+      ],
+      "image": "assets/images/222415/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "carbohydrateContent": "4 g",
+    "fiberContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "25"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/a0KXyrz5-K3AjnAEN.mp4",
+    "description": "See how to make a classic whiskey cocktail.",
+    "duration": "PT2M16S",
+    "name": "Manhattan Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/a0KXyrz5/poster.jpg?width=1280",
+    "uploadDate": "2021-06-24T22:06:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ICkje7q82XlQgqRIgBWlv_2TAHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222415-manhattan-cocktail-DDMFS-4x3-20e4513afe47484f85d7ee72b24816a3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222415/hero.webp",
+    "steps": [
+      "assets/images/222415/step_01.webp",
+      "assets/images/222415/step_02.webp",
+      "assets/images/222415/step_03.webp",
+      "assets/images/222415/step_04.webp"
+    ]
+  }
+}

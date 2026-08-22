@@ -1,0 +1,107 @@
+{
+  "id": "222569",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222569/slow-cooked-baked-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/222569/slow-cooked-baked-beans/",
+  "title": "Slow-Cooked Baked Beans",
+  "description": "Navy beans and ham are slow-cooked with molasses for a warm and hearty side dish ready by dinner time.",
+  "authors": [
+    "Jaeme"
+  ],
+  "date_published": "2020-03-05T00:09:00-05:00",
+  "date_modified": "2025-02-05T18:19:02-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT480M",
+  "total_time": "PT970M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups dried navy beans",
+    "water, to cover",
+    "1.5 cups ketchup",
+    "0.5 pound fully cooked ham",
+    "1.5 cups water",
+    "0.5 cup brown sugar",
+    "0.25 cup molasses",
+    "1.5 tablespoons onion powder",
+    "1 tablespoon dry mustard",
+    "1 tablespoon salt",
+    "1 tablespoon Worcestershire sauce",
+    "0.25 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place beans in a large pot and cover with plenty of water. Cover pot with a lid and soak beans for 8 hours or overnight. Drain and fill pot with fresh water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook beans over medium heat until tender, about 1 hour. Drain beans, reserving the water for later use.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place beans, ketchup, ham, 1 1/2 cup water, brown sugar, molasses, onion powder, mustard, salt, Worcestershire sauce, black pepper, and 1 cup reserved bean water in a slow cooker. Add more bean water as needed if beans get too dry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on Low for 7 to 9 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "302 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "13 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1185 mg",
+    "sugarContent": "19 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MOjZit-WSaV1E9Mv_eI5ECTqZZI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1995339-ef22f046492d44dab36793e29cff2c41.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222569/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

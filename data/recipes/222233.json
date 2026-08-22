@@ -1,0 +1,103 @@
+{
+  "id": "222233",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222233/tortilla-chorizo-scramble/",
+  "requested_url": "https://www.allrecipes.com/recipe/222233/tortilla-chorizo-scramble/",
+  "title": "Tortilla Chorizo Scramble",
+  "description": "Brighten up your morning with this scramble featuring pepper jack cheese, pan-crisped chorizo, and tortilla strips.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-05-07T14:11:49-04:00",
+  "date_modified": "2025-02-18T15:46:48-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "2 high fiber, whole wheat tortillas, sliced into 1/2-inch strips",
+    "2 ounces dry chorizo, diced",
+    "2 slices pepperjack cheese",
+    "salt and ground black pepper to taste",
+    "1 tablespoon chopped fresh chives"
+  ],
+  "steps": [
+    {
+      "text": "Beat eggs in a small bowl. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine tortilla slices and chorizo in a skillet over medium heat. Cook, stirring, until tortillas are crisped, 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place cheese slices on top of chorizo and tortillas; pour in eggs. Reduce heat to low and cook, stirring, until eggs are cooked through, 3 minutes. Season with salt and pepper to taste; garnish with chives.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BO4soZdfyamFPzqDc48fVGNM8-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/962779-9963d361be8c42eca925e7ee7592f58d.jpg"
+      ],
+      "image": "assets/images/222233/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "424 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "412 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "801 mg",
+    "sugarContent": "1 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "19"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Ua12kgRM-ma1DlVvV.mp4",
+    "description": "0288",
+    "duration": "PT3M5S",
+    "name": "Tortilla Chorizo Scramble",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Ua12kgRM/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T10:26:10-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BO4soZdfyamFPzqDc48fVGNM8-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/962779-9963d361be8c42eca925e7ee7592f58d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222233/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/222233/step_03.webp"
+    ]
+  }
+}

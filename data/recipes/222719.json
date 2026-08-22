@@ -1,0 +1,84 @@
+{
+  "id": "222719",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222719/red-onion-marmalade/",
+  "requested_url": "https://www.allrecipes.com/recipe/222719/red-onion-marmalade/",
+  "title": "Red Onion Marmalade",
+  "description": "This tasty onion marmalade made with sweet caramelized red onions simmered in a mixture of red wine and balsamic vinegar goes well with grilled meats.",
+  "authors": [
+    "kdominy"
+  ],
+  "date_published": "2020-06-18T23:49:45-04:00",
+  "date_modified": "2026-01-04T16:00:35-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT40M",
+  "total_time": "PT45M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 tablespoon butter",
+    "2 large red onions, thinly sliced",
+    "0.25 cup white sugar",
+    "1 cup dry red wine",
+    "0.25 cup balsamic vinegar",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil and butter in a large skillet over medium heat until butter melts. Add onions and sugar; cook and stir until onions start to caramelize, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour red wine and balsamic vinegar into the skillet and bring to a boil. Reduce the heat to medium-low and simmer until liquid is evaporated, 15 to 20 minutes more. Season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "9 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/768U5LkWiPLQMArMjTNTct-TkPo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5168179-983f4add430848b9b335ffa29eb1d6b7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222719/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

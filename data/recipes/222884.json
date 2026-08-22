@@ -1,0 +1,77 @@
+{
+  "id": "222884",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222884/golden-cadillac-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222884/golden-cadillac-cocktail/",
+  "title": "Golden Cadillac Cocktail",
+  "description": "This blended cocktail combines the Italian herbal liqueur Galliano, with crème de cacao and cream for a frothy and refreshing libation.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:49:55-04:00",
+  "date_modified": "2022-06-08T17:23:11-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 fluid ounce Galliano liqueur",
+    "2 fluid ounces white creme de cacao",
+    "1 fluid ounce heavy cream",
+    "0.5 cup crushed ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine Galliano, creme de cacao, cream, and ice in a blender. Puree on low speed for 10 seconds. Strain into chilled Champagne flute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "370 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "41 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "29 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/1Xdg6DOr-K3AjnAEN.mp4",
+    "description": "Watch a professional bartender make the Golden Cadillac Cocktail.",
+    "duration": "PT1M21S",
+    "name": "The Golden Cadillac Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/1Xdg6DOr/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:52:51-04:00"
+  },
+  "image_sources": [
+    "https://cdn.jwplayer.com/v2/media/1Xdg6DOr/poster.jpg?width=720"
+  ],
+  "images": {
+    "hero": "assets/images/222884/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

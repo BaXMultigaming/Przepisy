@@ -1,0 +1,82 @@
+{
+  "id": "222372",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222372/lemony-salmon-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/222372/lemony-salmon-burgers/",
+  "title": "Lemony Salmon Burgers",
+  "description": "Pan-fried salmon patties make a weeknight burger dinner simple and delicious.",
+  "authors": [
+    "Sara Brulet"
+  ],
+  "date_published": "2019-07-10T03:03:24-04:00",
+  "date_modified": "2019-07-10T03:03:24-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 burgers"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds salmon fillet, cut into chunks",
+    "0.33333334326744 cup chopped fresh parsley",
+    "2 tablespoons dry bread crumbs",
+    "2 tablespoons chopped green onion",
+    "2 teaspoons seafood seasoning",
+    "1 lemon, juiced",
+    "salt and ground black pepper to taste",
+    "1 tablespoon olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Place salmon chunks, parsley, bread crumbs, green onion, seafood seasoning, lemon juice, salt, and black pepper in a food processor. Pulse until salmon is chopped. Shape salmon mixture into four patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Pan-fry patties until golden brown, about 4 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "293 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "76 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "37 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "350 mg",
+    "sugarContent": "1 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dLdhlZSYZViGuQzrfYKxpzkVA3A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2023895-35ebc7501f654e1f994db45f50d19225.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222372/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

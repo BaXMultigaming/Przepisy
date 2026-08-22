@@ -1,0 +1,75 @@
+{
+  "id": "222293",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222293/avocado-blueberry-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/222293/avocado-blueberry-smoothie/",
+  "title": "Avocado Blueberry Smoothie",
+  "description": "This five-ingredient smoothie uses only blueberries, avocado, yogurt, almond milk, and water.",
+  "authors": [
+    "allie888"
+  ],
+  "date_published": "2019-04-03T23:52:33-04:00",
+  "date_modified": "2026-08-19T13:56:45-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup frozen blueberries",
+    "1 (6 ounce) container plain Greek-style yogurt",
+    "0.5 cup almond milk",
+    "0.5 cup water",
+    "0.25 avocado - peeled, pitted, and diced"
+  ],
+  "steps": [
+    {
+      "text": "Blend blueberries, yogurt, almond milk, water, and avocado in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "297 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "206 mg",
+    "sugarContent": "29 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mCvK9bls-YWmI1tvCDMz8y-7YC8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3549736-75e6c40898134028a3787c715253ae4c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222293/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

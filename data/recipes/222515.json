@@ -1,0 +1,72 @@
+{
+  "id": "222515",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222515/simple-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/222515/simple-banana-smoothie/",
+  "title": "Simple Banana Smoothie",
+  "description": "Apple juice and yogurt blend with ripe bananas for a quick, fruity smoothie.",
+  "authors": [
+    "Raelyntorngren"
+  ],
+  "date_published": "2020-06-18T23:49:33-04:00",
+  "date_modified": "2021-04-27T14:15:18-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "2 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup vanilla yogurt",
+    "0.5 cup apple juice",
+    "1 tablespoon honey, or to taste",
+    "2 ripe bananas",
+    "1 teaspoon milk, or to taste",
+    "4 ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Blend yogurt, apple juice, honey, bananas, milk and ice cubes in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "488 kcal",
+    "carbohydrateContent": "111 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "131 mg",
+    "sugarContent": "85 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fV6rhEp8nJ3UQJF0dhSEUpq5DVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9176487-32d82b5b159c406aa14d8aa3b2a6cf0a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222515/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

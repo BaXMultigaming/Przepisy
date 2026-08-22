@@ -1,0 +1,93 @@
+{
+  "id": "222524",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222524/irish-coffee-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222524/irish-coffee-cocktail/",
+  "title": "Irish Coffee Cocktail",
+  "description": "This classic Irish coffee recipe is the ultimate balance of strong, hot coffee, rich Irish whisky, a touch of sweetness, and a luscious cream topping.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:49:34-04:00",
+  "date_modified": "2025-10-29T17:34:43-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 teaspoons white sugar",
+    "1.5 fluid ounces whiskey",
+    "6 fluid ounces hot coffee",
+    "0.25 cup whipped cream"
+  ],
+  "steps": [
+    {
+      "text": "Place 1 tablespoon sugar on a plate or in a shallow bowl. Lightly wet rim of an Irish coffee glass with a moistened paper towel; dip rim in sugar to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour Irish whisky into the prepared glass; fill with coffee to within ½ inch of top. Stir in 1 teaspoon sugar; top with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/JWB4lKU-JLrhhhhnoBMH2D8PEus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/968637-edc520f26efc4a3083d835db67a29fc1.jpg"
+      ],
+      "image": "assets/images/222524/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "41 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "17 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "9"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/fCpSO85u-K3AjnAEN.mp4",
+    "description": "Irish whiskey, hot coffee, and whipped cream knock out winter’s chill.",
+    "duration": "PT1M28S",
+    "name": "Irish Coffee Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/fCpSO85u/poster.jpg?width=1280",
+    "uploadDate": "2021-07-23T15:53:08-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JWB4lKU-JLrhhhhnoBMH2D8PEus=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/968637-edc520f26efc4a3083d835db67a29fc1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222524/hero.webp",
+    "steps": [
+      null,
+      "assets/images/222524/step_02.webp"
+    ]
+  }
+}

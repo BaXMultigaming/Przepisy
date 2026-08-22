@@ -1,0 +1,76 @@
+{
+  "id": "222890",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222890/mexican-coffee-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222890/mexican-coffee-cocktail/",
+  "title": "Mexican Coffee Cocktail",
+  "description": "This Mexican coffee cocktail is a simple-to-make, invigorating warm cocktail made with coffee liqueur, tequila, coffee, and topped with whipped cream.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2019-07-31T23:10:39-04:00",
+  "date_modified": "2022-09-18T10:08:22-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 fluid ounce coffee-flavored liqueur (such as Kahlua®)",
+    "0.5 fluid ounce tequila",
+    "5 fluid ounces hot coffee",
+    "2 tablespoons whipped cream"
+  ],
+  "steps": [
+    {
+      "text": "Stir together coffee liqueur and tequila in a mug. Pour in hot coffee and top with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "155 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "5 mg",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "12 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "5"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/WujB1RWL-K3AjnAEN.mp4",
+    "description": "Watch a professional bartender mix up a Mexican coffee.",
+    "duration": "PT1M12S",
+    "name": "Mexican Coffee",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/WujB1RWL/poster.jpg?width=1280",
+    "uploadDate": "2021-07-25T08:47:22-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XECwsstM5yqe2TqEigY6f6ZK0T4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/871196-mexican-coffee-cocktail-Deb-C-1x1-1-256076042bec4ea2bff54f32e78e6ea4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222890/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

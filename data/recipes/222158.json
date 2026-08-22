@@ -1,0 +1,79 @@
+{
+  "id": "222158",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222158/fresh-mild-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/222158/fresh-mild-salsa/",
+  "title": "Fresh Mild Salsa",
+  "description": "This fresh, mild salsa recipe, made with tomatoes, garlic, bell peppers, cumin, serrano chiles, and jalapeños, can be tweaked for more or less heat.",
+  "authors": [
+    "clow4851"
+  ],
+  "date_published": "2020-02-01T02:51:14-05:00",
+  "date_modified": "2026-01-06T10:37:09-05:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ripe tomatoes, chopped",
+    "0.75 white onion, finely chopped",
+    "0.25 green bell pepper, finely chopped",
+    "2 tablespoons chopped fresh cilantro",
+    "1 jalapeno pepper, seeded and chopped",
+    "1 serrano pepper, seeded and chopped",
+    "4 cloves garlic, minced",
+    "1 tablespoon ground cumin, or to taste",
+    "2.5 teaspoons lemon juice",
+    "2 teaspoons salt, or to taste",
+    "1 teaspoon ground black pepper, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomatoes, onion, bell pepper, cilantro, jalapeño, serrano, garlic, cumin, lemon juice, salt, and black pepper in a bowl until well mixed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "51 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "1175 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zjE0aTyxgTwAIVOy5xpI1UURaGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/965298-e818942f9e134f39b48ea1e012ef6edc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222158/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

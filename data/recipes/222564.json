@@ -1,0 +1,87 @@
+{
+  "id": "222564",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222564/rum-rickey-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222564/rum-rickey-cocktail/",
+  "title": "Rum Rickey Cocktail",
+  "description": "We don&#39;t know who Rickey was, but he sure could make a tasty drink. Simply mix rum and lime juice together and top off with some club soda.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:49:38-04:00",
+  "date_modified": "2022-09-23T22:13:28-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 fluid ounce lime juice",
+    "1.5 fluid ounces light rum",
+    "1 cup ice cubes",
+    "2 fluid ounces club soda",
+    "1 lime wedge"
+  ],
+  "steps": [
+    {
+      "text": "Combine lime juice and rum in a highball glass. Add ice and club soda and stir well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Garnish with a lime wedge.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KAKo0tCJw-JKRG0aSo6lEuxZdH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969989-rum-rickey-cocktail-lovestohost-1x1-1-3401aa0129ea4cf58da4bdc4ada9c408.jpg"
+      ],
+      "image": "assets/images/222564/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "102 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "11"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/sLvoH4tk-K3AjnAEN.mp4",
+    "description": "A refreshing summer classic starring rum, lime juice, and a splash of soda.",
+    "duration": "PT1M14S",
+    "name": "Rum Rickey Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/sLvoH4tk/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T18:04:35-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KAKo0tCJw-JKRG0aSo6lEuxZdH8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969989-rum-rickey-cocktail-lovestohost-1x1-1-3401aa0129ea4cf58da4bdc4ada9c408.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222564/hero.webp",
+    "steps": [
+      null,
+      "assets/images/222564/step_02.webp"
+    ]
+  }
+}

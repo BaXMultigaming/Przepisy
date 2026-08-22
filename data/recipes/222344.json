@@ -1,0 +1,83 @@
+{
+  "id": "222344",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222344/easy-brazilian-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/222344/easy-brazilian-lemonade/",
+  "title": "Easy Brazilian Lemonade",
+  "description": "This creamy lemonade drink is sweet limeade mixed with sweetened condensed milk to make a creamy, cold drink perfect for a sunny day. Easy and breezy!",
+  "authors": [
+    "Ashley Bluth"
+  ],
+  "date_published": "2020-06-18T23:49:22-04:00",
+  "date_modified": "2023-07-05T17:05:54-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "South American"
+  ],
+  "regions": [
+    "South American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 limes",
+    "3 cups water",
+    "0.5 cup white sugar",
+    "3 tablespoons sweetened condensed milk",
+    "1 cup ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Wash limes thoroughly. Cut ends off and discard, then slice into about 8 pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place limes, water, sugar, and sweetened condensed milk in a blender. Pulse 5 times. Strain mixture through a sieve into a large pitcher. Serve over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "203 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "32 mg",
+    "sugarContent": "44 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "39"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dbilQHcZ_cAO3ih_2Bhg13JWyy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/871699-91ee8f7bb5f74534afd1e42d016b529b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222344/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

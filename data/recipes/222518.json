@@ -1,0 +1,84 @@
+{
+  "id": "222518",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222518/vesper-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222518/vesper-cocktail/",
+  "title": "Vesper Cocktail",
+  "description": "The vesper cocktail, invented by James Bond in the novel Casino Royale, features gin, vodka, and Lillet Blanc for a delicious and potent drink.",
+  "authors": [
+    "Juliana Hale"
+  ],
+  "date_published": "2018-05-04T09:02:59-04:00",
+  "date_modified": "2026-03-20T13:27:09-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "British",
+    "American",
+    "French"
+  ],
+  "regions": [
+    "British",
+    "American",
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup ice",
+    "3 fluid ounces gin",
+    "1 fluid ounce vodka",
+    "0.5 fluid ounce Lillet blanc",
+    "1 orange twist"
+  ],
+  "steps": [
+    {
+      "text": "Fill a cocktail mixing glass with ice; add gin, vodka, and Lillet. Stir until well chilled and properly diluted, about 20 to 30 seconds. Strain into a chilled cocktail glass and garnish with an orange twist for a hint of bright citrus flavor.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "289 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "10 mg",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/oQPvpzI8-K3AjnAEN.mp4",
+    "description": "See how to make James Bond’s cocktail from “Casino Royale.”",
+    "duration": "PT1M18S",
+    "name": "Vesper Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/oQPvpzI8/poster.jpg?width=1280",
+    "uploadDate": "2021-07-25T23:02:18-04:00"
+  },
+  "image_sources": [
+    "https://cdn.jwplayer.com/v2/media/oQPvpzI8/poster.jpg?width=720"
+  ],
+  "images": {
+    "hero": "assets/images/222518/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "222189",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222189/spicy-mango-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/222189/spicy-mango-sauce/",
+  "title": "Spicy Mango Sauce",
+  "description": "Try this bright, delightful, spicy mango sauce over grilled fish.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-05-03T15:49:49-04:00",
+  "date_modified": "2026-07-30T21:43:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT40M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American",
+    "Asian"
+  ],
+  "regions": [
+    "American",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.75 cup finely minced mango",
+    "0.25 cup seasoned rice vinegar",
+    "1 lemon, juiced",
+    "1 clove garlic, crushed",
+    "1 teaspoon hot chile paste (such as sambal oelek)",
+    "0.5 small Thai chile pepper, minced",
+    "1 tablespoon chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Combine mango, rice wine vinegar, lime juice, garlic, hot chili paste, and Thai chile pepper in a bowl. Cover and let rest 30 minutes. Stir in cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/c8_71b9qFaiIa0BAjCcpnBk45qc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6688124-fa66207605cf460eb8a57e18be0f6e4e.jpg"
+      ],
+      "image": "assets/images/222189/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "656 mg",
+    "sugarContent": "17 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "26"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/A5B3bpiW-ma1DlVvV.mp4",
+    "description": "0214",
+    "duration": "PT4M57S",
+    "name": "Grilled Mahi Mahi with Spicy Mango Sauce",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/A5B3bpiW/poster.jpg?width=1280",
+    "uploadDate": "2021-07-21T09:51:39-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/c8_71b9qFaiIa0BAjCcpnBk45qc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6688124-fa66207605cf460eb8a57e18be0f6e4e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222189/hero.webp",
+    "steps": [
+      "assets/images/222189/step_01.webp"
+    ]
+  }
+}

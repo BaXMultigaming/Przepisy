@@ -1,0 +1,115 @@
+{
+  "id": "222207",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222207/sous-vide-duck-breast/",
+  "requested_url": "https://www.allrecipes.com/recipe/222207/sous-vide-duck-breast/",
+  "title": "Sous Vide Duck Breast",
+  "description": "This sous vide duck breast recipe is made without a sous vide cooker! You just need a heavy-duty plastic bag, a Dutch oven, and a candy thermometer.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-05-04T16:40:38-04:00",
+  "date_modified": "2026-04-30T10:23:07-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT70M",
+  "total_time": "PT145M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (8 ounce) boneless duck breast halves, skin on",
+    "salt and ground black pepper to taste",
+    "2 teaspoons fresh thyme leaves",
+    "1 teaspoon vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Cut several very shallow crosswise slashes across the skin of each duck breast about 1/2 inch apart. (The cuts should only barely cut into the skin and fat; don't cut into the meat.) Season skin sides with salt, then generously season meat sides with salt, pepper, and thyme. Place into a heavy-duty resealable plastic bag, squeeze out all the air, and seal. Refrigerate for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill a large Dutch oven about 2/3 full with water and place over medium heat; heat to 135 degrees F (57 degrees C). Attach a candy thermometer to the side of the Dutch oven in order to monitor and maintain the water temperature. Place a silicone hot pad into the bottom of the pot to keep the plastic bag from contacting the bottom of the pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the sealed plastic bag into the Dutch oven. Cook, moving the bag around occasionally and adjusting the heat as necessary to maintain the temperature at 135 degrees F (57 degrees C), for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove duck breasts from the plastic bag and pat dry. Generously season skin sides with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a skillet over high heat. Place duck breasts, skin-side down, in the hot skillet until fat renders and skin is golden brown, 5 minutes. Turn breasts over and cook until lightly browned and meat still pink in the center, 1 minute. Let rest for 2 minutes before slicing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/802cEaDYemZj-uBQtyhpIOQgBh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4227652-sous-vide-duck-breast-Chef-John-1x1-1-bbc618f9480c4fbea691dcc4c7b4f064.jpg"
+      ],
+      "image": "assets/images/222207/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "177 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "105 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "143 mg",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "32"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/05PokrQ1-ma1DlVvV.mp4",
+    "description": "0256",
+    "duration": "PT6M46S",
+    "name": "Duck Sous Vide",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/05PokrQ1/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T22:58:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/802cEaDYemZj-uBQtyhpIOQgBh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4227652-sous-vide-duck-breast-Chef-John-1x1-1-bbc618f9480c4fbea691dcc4c7b4f064.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222207/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/222207/step_05.webp"
+    ]
+  }
+}

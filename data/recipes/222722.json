@@ -1,0 +1,78 @@
+{
+  "id": "222722",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222722/kale-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/222722/kale-salad/",
+  "title": "Kale Salad Recipe",
+  "description": "This kale salad recipe features crunchy sunflower seeds, sweet dried cranberries, hearty kale, fresh tomatoes, and a bright and refreshing lemon dressing.",
+  "authors": [
+    "tipsuda"
+  ],
+  "date_published": "2020-06-18T23:49:46-04:00",
+  "date_modified": "2026-04-05T06:19:42-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup lemon juice",
+    "1 tablespoon canola oil",
+    "1 tablespoon olive oil",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon ground black pepper",
+    "1 bunch kale, cut into bite-size pieces",
+    "1 large tomato, seeded and diced",
+    "0.5 cup roasted sunflower seeds",
+    "0.5 cup dried cranberries"
+  ],
+  "steps": [
+    {
+      "text": "Whisk lemon juice, canola oil, olive oil, sugar, salt, and black pepper together in a large bowl. Add kale, tomato, sunflower seeds, and cranberries; toss to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "182 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "342 mg",
+    "sugarContent": "13 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "108"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3PfaY7ROoMB-xFNb9rMGvK-DUx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1006672-1bade22fd72446b0914a5b637d893b1f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222722/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

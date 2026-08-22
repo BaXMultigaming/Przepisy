@@ -1,0 +1,77 @@
+{
+  "id": "222708",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222708/green-monster-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/222708/green-monster-smoothie/",
+  "title": "Green Monster Smoothie",
+  "description": "Banana, spinach, and peanut butter blend with yogurt and milk for a power-packed smoothie.",
+  "authors": [
+    "Arizona Desert Flower"
+  ],
+  "date_published": "2020-06-18T23:49:45-04:00",
+  "date_modified": "2026-05-18T12:07:58-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup fat-free milk",
+    "0.5 cup fat-free plain yogurt",
+    "1 banana, frozen and chunked",
+    "1 tablespoon natural peanut butter",
+    "2 cups fresh spinach",
+    "1 cup ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Blend milk, yogurt, banana, peanut butter, spinach, and ice cubes until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "382 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "328 mg",
+    "sugarContent": "36 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "143"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yQPMVY9I8znJRpJze_QAvXEHZ-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2983047-green-monster-smoothie-Buckwheat-Queen-4x3-1-2ab7a395e370404a9fe660df37157c9b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222708/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "222872",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222872/cowgirl-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/222872/cowgirl-stew/",
+  "title": "Cowgirl Stew",
+  "description": "This is a pretty simple stew recipe using ground beef, potatoes, corn, and ranch-style beans simmering in a tomato-based sauce.",
+  "authors": [
+    "Paula Todora Paula T"
+  ],
+  "date_published": "2020-06-18T23:49:55-04:00",
+  "date_modified": "2025-01-25T11:00:52-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT70M",
+  "total_time": "PT85M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Southwestern",
+    "American"
+  ],
+  "regions": [
+    "Southwestern",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons vegetable oil",
+    "2 pounds ground beef",
+    "3 cups water",
+    "1 (16 ounce) package frozen corn",
+    "1 (15 ounce) can tomatoes",
+    "1 (15 ounce) can ranch-style beans",
+    "6 potatoes, peeled and cubed",
+    "1 onion, chopped",
+    "1 green bell pepper, chopped",
+    "0.25 cup chopped celery",
+    "2 tablespoons chili powder",
+    "0.25 teaspoon white sugar",
+    "1 dash garlic powder",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot over medium heat. Crumble ground beef into the pot; cook and stir until completely browned, 5 to 7 minutes. Add water, corn, tomatoes, ranch-style beans, potatoes, onion, green bell pepper, celery, chili powder, sugar, garlic powder, salt, and black pepper to the beef; stir. Cover the pot and bring the mixture to a boil. Reduce heat to medium-low and cook at a simmer until potatoes are tender, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "323 kcal",
+    "carbohydrateContent": "36 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "295 mg",
+    "sugarContent": "5 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "56"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oDYIbxZquZk_sNnd34-h9wV35XY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4569233-9201a60f724c4b87882fafd3983b5a4e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222872/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

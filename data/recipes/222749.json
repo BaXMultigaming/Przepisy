@@ -1,0 +1,82 @@
+{
+  "id": "222749",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222749/blueberry-spinach-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/222749/blueberry-spinach-salad/",
+  "title": "Blueberry Spinach Salad",
+  "description": "A lovely salad with fresh blueberries, candied pecans, and blue cheese. The homemade salad dressing is the best and brings the flavors together nicely!",
+  "authors": [
+    "Kathi Crawford"
+  ],
+  "date_published": "2020-06-18T23:49:50-04:00",
+  "date_modified": "2022-02-25T18:25:30-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons red wine vinegar",
+    "0.5 cup olive oil",
+    "1 teaspoon Dijon mustard",
+    "1 teaspoon white sugar",
+    "1 pound fresh spinach",
+    "1 pint fresh blueberries",
+    "4 ounces crumbled blue cheese",
+    "4 ounces candied pecans"
+  ],
+  "steps": [
+    {
+      "text": "Combine vinegar, oil, mustard, and sugar in a jar with a tight-fitting lid; shake well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss spinach, blueberries, blue cheese, and candied pecans in a large salad bowl. Drizzle with dressing and toss gently; serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "375 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "440 mg",
+    "sugarContent": "9 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pjhKNcyuwEdry8u19lyTiAMWPT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/880407-f4676e4a770845669792aa01dc6e9e81.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222749/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

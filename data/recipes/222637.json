@@ -1,0 +1,79 @@
+{
+  "id": "222637",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222637/roast-beef-and-gravy/",
+  "requested_url": "https://www.allrecipes.com/recipe/222637/roast-beef-and-gravy/",
+  "title": "Roast Beef and Gravy",
+  "description": "Prepared in a slow cooker, this is a simple way to make roast beef and gravy. Serve with mashed potatoes and fruit salad for a complete meal.",
+  "authors": [
+    "weezard1"
+  ],
+  "date_published": "2019-04-02T02:57:35-04:00",
+  "date_modified": "2022-11-25T13:36:49-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT480M",
+  "total_time": "PT490M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (3 pound) boneless beef chuck roast",
+    "2 (10.75 ounce) cans condensed cream of mushroom soup, undiluted",
+    "1 (14 ounce) can beef broth",
+    "0.33333334326744 cup dry sherry",
+    "1 envelope onion soup mix"
+  ],
+  "steps": [
+    {
+      "text": "Cut chuck roast in half; place in slow cooker. Combine cream of mushroom soup, beef broth, sherry, and soup mix in a bowl; pour over roast.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on Low until meat is tender, 8 to 9 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "336 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "78 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1071 mg",
+    "sugarContent": "1 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "112"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kfvo2xNgXn987G5YXGiRNV1d7Hg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1608424-roast-beef-and-gravy-Deb-C-4x3-1-55087d3664754a23a103bdfb110fbc9b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222637/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "222420",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222420/rob-roy-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222420/rob-roy-cocktail/",
+  "title": "Rob Roy Cocktail",
+  "description": "Considered the cousin of the Manhattan cocktail, the Rob Roy combines Scotch whisky with sweet vermouth for a smokier flavor.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2015-09-14T14:03:24-04:00",
+  "date_modified": "2015-09-14T14:03:24-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 fluid ounces Scotch whisky",
+    "0.75 cup sweet vermouth",
+    "1 cup ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine vermouth and whisky in a cocktail mixing class. Add ice and stir until chilled. Strain into a chilled cocktail glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/63XVKrUoQoNNKgrYC1P4Iqf6sUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/937682-da4d8b508a61424eaa40099952a47c55.jpg"
+      ],
+      "image": "assets/images/222420/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "392 kcal",
+    "carbohydrateContent": "25 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "24 mg",
+    "sugarContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/FBxl2E6g-K3AjnAEN.mp4",
+    "description": "063_HHH_Rob_Roy",
+    "duration": "PT59S",
+    "name": "Rob Roy Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/FBxl2E6g/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T10:49:37-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/63XVKrUoQoNNKgrYC1P4Iqf6sUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/937682-da4d8b508a61424eaa40099952a47c55.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222420/hero.webp",
+    "steps": [
+      "assets/images/222420/step_01.webp"
+    ]
+  }
+}

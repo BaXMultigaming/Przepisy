@@ -1,0 +1,92 @@
+{
+  "id": "222318",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222318/mocha-espresso-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/222318/mocha-espresso-ice-cream/",
+  "title": "Mocha Espresso Ice Cream",
+  "description": "Espresso and chocolate are a match made in ice cream heaven. Serve this yummy dessert as a soft ice cream or allow it to ripen in the freezer.",
+  "authors": [
+    "DogsboroDave"
+  ],
+  "date_published": "2020-06-18T23:49:21-04:00",
+  "date_modified": "2023-07-15T09:01:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups heavy whipping cream",
+    "1.5 cups whole milk",
+    "0.75 cup white sugar",
+    "0.5 cup brewed espresso, chilled",
+    "0.25 cup chocolate syrup",
+    "0.75 cup cocoa roast almonds, chopped",
+    "4 ounces dark chocolate, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Mix heavy cream, whole milk, sugar, espresso, and chocolate syrup in a bowl until sugar is dissolved. Refrigerate until chilled, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour chilled mixture into an ice cream maker and freeze according to the manufacturer's directions until it reaches \"soft-serve\" consistency, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in almonds and dark chocolate. Serve soft ice cream immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "36 mg",
+    "sugarContent": "17 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xZL_HfIeqFom2YLz9saMxy4dRV4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/934978-ca342ff0ff994e7e98bb868fc5d40dcb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222318/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

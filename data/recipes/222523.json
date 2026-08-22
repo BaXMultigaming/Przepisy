@@ -1,0 +1,83 @@
+{
+  "id": "222523",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222523/hurricane-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222523/hurricane-cocktail/",
+  "title": "Hurricane Cocktail",
+  "description": "The ingredients in this hurricane cocktail include rum, passion fruit, and lime for a sweet, boozy concoction well-known and well-drunk in New Orleans.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2015-09-14T14:05:30-04:00",
+  "date_modified": "2024-03-12T17:19:03-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 fluid ounce dark rum",
+    "1 fluid ounce light rum",
+    "2 tablespoons lime juice",
+    "1 tablespoon passion fruit flavored syrup",
+    "1 cup ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine dark rum, light rum, lime juice, and passion fruit syrup in a cocktail shaker. Add ice; cover and shake until the outside of the shaker has frosted. Strain into a chilled glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/gCk_gDhDesEyO904rO_l7xQmd78=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2424131-01429619a83d4f29b9e4eac09c7a3cbd.jpg"
+      ],
+      "image": "assets/images/222523/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "190 kcal",
+    "carbohydrateContent": "17 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "18 mg",
+    "sugarContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "6"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/iogzFNBu-K3AjnAEN.mp4",
+    "description": "See how to make New Orleans’ sweetly potent cocktail.",
+    "duration": "PT1M44S",
+    "name": "Hurricane Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/iogzFNBu/poster.jpg?width=1280",
+    "uploadDate": "2021-07-25T11:40:17-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gCk_gDhDesEyO904rO_l7xQmd78=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2424131-01429619a83d4f29b9e4eac09c7a3cbd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222523/hero.webp",
+    "steps": [
+      "assets/images/222523/step_01.webp"
+    ]
+  }
+}

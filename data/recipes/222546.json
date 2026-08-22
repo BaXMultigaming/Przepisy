@@ -1,0 +1,77 @@
+{
+  "id": "222546",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222546/greyhound-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222546/greyhound-cocktail/",
+  "title": "Greyhound Cocktail",
+  "description": "The refreshing mixture of grapefruit juice and gin makes the greyhound an ideal choice for a summertime refresher.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2015-09-14T14:09:49-04:00",
+  "date_modified": "2021-07-01T10:05:30-04:00",
+  "prep_time": "PT3M",
+  "cook_time": null,
+  "total_time": "PT3M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (1.5 fluid ounce) jigger vodka",
+    "5 fluid ounces grapefruit juice",
+    "0.5 cup ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine vodka and grapefruit juice in a highball glass. Add ice and stir well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qbTfkWG_DhFb-i5rCizZqTlnBTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-37-7ed7abd4bb64404493e5cd5126f17e0a.jpg"
+      ],
+      "image": "assets/images/222546/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "167 kcal",
+    "carbohydrateContent": "13 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "6 mg",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "16"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/IXMsdpuU-K3AjnAEN.mp4",
+    "description": "See how to make a refreshing and simple summer cocktail.",
+    "duration": "PT1M3S",
+    "name": "Greyhound Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/IXMsdpuU/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T06:11:06-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qbTfkWG_DhFb-i5rCizZqTlnBTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-37-7ed7abd4bb64404493e5cd5126f17e0a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222546/hero.webp",
+    "steps": [
+      "assets/images/222546/step_01.webp"
+    ]
+  }
+}

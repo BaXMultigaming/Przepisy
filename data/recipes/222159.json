@@ -1,0 +1,73 @@
+{
+  "id": "222159",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222159/scotts-pico-de-gallo/",
+  "requested_url": "https://www.allrecipes.com/recipe/222159/scotts-pico-de-gallo/",
+  "title": "Scott&#39;s Pico de Gallo",
+  "description": "Tomatoes, cilantro, onion, and fresh lime juice blend in this quick and easy version of pico de gallo.",
+  "authors": [
+    "SUZWIRTHLIN"
+  ],
+  "date_published": "2020-02-01T02:51:14-05:00",
+  "date_modified": "2022-01-14T01:27:00-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT50M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 large tomatoes, diced",
+    "1 white onion, diced",
+    "1 bunch cilantro, chopped",
+    "6 limes, juiced",
+    "1 tablespoon salt, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss tomatoes, white onion, and cilantro together in a large bowl. Pour lime juice over tomato mixture; mix to coat. Season with salt. Chill completely before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "35 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "880 mg",
+    "sugarContent": "3 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iIbmia00xBvdfPhsURCHMqNUuLo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/874773-36228da753e14c8aae8c0d6edf2dbc5c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222159/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

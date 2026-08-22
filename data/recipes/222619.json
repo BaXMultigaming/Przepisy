@@ -1,0 +1,106 @@
+{
+  "id": "222619",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222619/sweet-corn-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/222619/sweet-corn-bread/",
+  "title": "Sweet Corn Bread",
+  "description": "This cornbread recipe goes well with just about anything. I always make it when we have chili. The sour cream makes it nice and moist.",
+  "authors": [
+    "bookwurm70"
+  ],
+  "date_published": "2020-06-18T23:49:41-04:00",
+  "date_modified": "2026-07-23T14:57:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "9"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup all-purpose flour",
+    "1 cup cornmeal",
+    "0.25 cup white sugar",
+    "0.5 teaspoon baking powder",
+    "0.5 teaspoon baking soda",
+    "0.5 teaspoon salt",
+    "1 egg, lightly beaten",
+    "1 cup sour cream",
+    "0.33333334326744 cup milk",
+    "0.25 cup butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 400 degrees F (205 degrees C). Lightly grease an 8-inch square baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine flour, cornmeal, sugar, baking powder, baking soda, and salt in a large bowl. Mix egg, sour cream, milk, and butter in a small bowl. Fold egg mixture into flour mixture until just moistened; pour into prepared baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in preheated oven until a toothpick inserted near the center comes out clean, 20 to 25 minutes. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/BW9D4t9kqhNgGLv3UYRI0A9KgxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4540792_Sweet-Corn-Bread-1x1-1-2000-e7c3548d07e3432ba667f330818f06a7.jpg"
+      ],
+      "image": "assets/images/222619/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "241 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "289 mg",
+    "sugarContent": "6 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "757"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/SC2HOQgL-ma1DlVvV.mp4",
+    "description": "In this video, you’ll see how to make sweet corn bread. A touch of sour cream helps it stay moist. Best of all, the bread's not overloaded with lard or butter, so it's nice and light.",
+    "duration": "PT2M50S",
+    "name": "Sweet Corn Bread",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/SC2HOQgL/poster.jpg?width=1280",
+    "uploadDate": "2021-07-15T23:00:49-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BW9D4t9kqhNgGLv3UYRI0A9KgxU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4540792_Sweet-Corn-Bread-1x1-1-2000-e7c3548d07e3432ba667f330818f06a7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222619/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/222619/step_03.webp"
+    ]
+  }
+}

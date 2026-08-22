@@ -1,0 +1,92 @@
+{
+  "id": "222414",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222414/gimlet-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222414/gimlet-cocktail/",
+  "title": "Gimlet Cocktail",
+  "description": "The gimlet is as simple as it is refreshing. Shake up gin with fresh lime juice and simple syrup to make this classic cocktail.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2017-06-22T09:02:00-04:00",
+  "date_modified": "2024-04-15T13:22:21-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 fluid ounces gin",
+    "1 fluid ounce lime juice",
+    "1 teaspoon simple syrup",
+    "1 cup ice",
+    "1 lime wheel"
+  ],
+  "steps": [
+    {
+      "text": "Combine gin, lime juice, and simple syrup in a cocktail shaker. Add ice and shake until chilled. Strain into a chilled cocktail glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Garnish with a lime wheel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/rSnyIjuYc1cuwfTLgvZ_FK7w9Zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222414gimlet-cocktailFranceC4x3video-8270887b23fd43a78427750153edebd1.jpg"
+      ],
+      "image": "assets/images/222414/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "133 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "10"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/116bgEtD-K3AjnAEN.mp4",
+    "description": "See how to make a gimlet cocktail with vodka or gin.",
+    "duration": "PT2M24S",
+    "name": "Gimlet Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/116bgEtD/poster.jpg?width=1280",
+    "uploadDate": "2021-06-23T14:12:03-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rSnyIjuYc1cuwfTLgvZ_FK7w9Zw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222414gimlet-cocktailFranceC4x3video-8270887b23fd43a78427750153edebd1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222414/hero.webp",
+    "steps": [
+      null,
+      "assets/images/222414/step_02.webp"
+    ]
+  }
+}

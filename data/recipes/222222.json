@@ -1,0 +1,84 @@
+{
+  "id": "222222",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222222/20-second-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/222222/20-second-salad/",
+  "title": "20 Second Salad",
+  "description": "There&#39;s not much chopping involved in this tangy, sweet coleslaw made with poppy seeds, green peas, peanuts, and ready-made coleslaw mix. Just stir it together, let it stand for a few minutes, and serve.",
+  "authors": [
+    "Sunflower"
+  ],
+  "date_published": "2020-06-18T23:49:16-04:00",
+  "date_modified": "2020-06-18T23:49:16-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT25M",
+  "yield": [
+    "20",
+    "20 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup vegetable oil",
+    "0.5 cup white sugar",
+    "0.5 cup vinegar",
+    "2 tablespoons grated onion",
+    "2 teaspoons dry mustard powder",
+    "1 teaspoon salt",
+    "2 (16 ounce) packages coleslaw mix",
+    "2 (10 ounce) packages frozen green peas, thawed",
+    "1 cup dry-roasted peanuts",
+    "2 tablespoons poppy seeds"
+  ],
+  "steps": [
+    {
+      "text": "Whisk vegetable oil, sugar, vinegar, grated onion, dry mustard, and salt in a bowl, stirring until sugar has dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss coleslaw mix, peas, peanuts, and poppy seeds together in a large salad bowl until thoroughly combined; pour dressing over coleslaw and stir to coat. Let stand 10 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "222 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "218 mg",
+    "sugarContent": "7 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/D9kkb_lZIELCetPRKUwUCytgv3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/873292-b8fb1311dc7c41a79cbc2a797cdca27b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222222/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

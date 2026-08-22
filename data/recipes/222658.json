@@ -1,0 +1,101 @@
+{
+  "id": "222658",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222658/frozen-vegetable-stir-fry/",
+  "requested_url": "https://www.allrecipes.com/recipe/222658/frozen-vegetable-stir-fry/",
+  "title": "Frozen Vegetable Stir-Fry",
+  "description": "This quick stir fry with frozen veggies has a tasty Thai-style flavor thanks to the addition of soy sauce, peanut butter, and brown sugar.",
+  "authors": [
+    "Tracey Davies"
+  ],
+  "date_published": "2020-03-05T00:09:01-05:00",
+  "date_modified": "2025-12-01T11:19:32-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "2 tablespoons soy sauce",
+    "1 tablespoon brown sugar",
+    "2 teaspoons peanut butter",
+    "2 teaspoons garlic powder",
+    "2 teaspoons olive oil",
+    "1 (16 ounce) package frozen mixed vegetables"
+  ],
+  "steps": [
+    {
+      "text": "Combine soy sauce, brown sugar, peanut butter, and garlic powder in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/W0Z7ASMfN7dIGKyOEfcXfzZWuB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222658-frozen-vegetable-stir-fry-step-1-1365-1-e1a921ba9f044e5f96fc1ccd647708c0.jpg"
+      ],
+      "image": "assets/images/222658/step_01.webp"
+    },
+    {
+      "text": "Heat oil in a large skillet over medium heat. Add frozen mixed vegetables; cook and stir until just tender, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/h83kgvNzndRiHHB1Wrwfw74n-Q8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222658-frozen-vegetable-stir-fry-step-2-1367-63325ff2ea5a4ff99c2062f964529cd4.jpg"
+      ],
+      "image": "assets/images/222658/step_02.webp"
+    },
+    {
+      "text": "Remove from heat and fold in soy sauce mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/GY-1PG9wl6z4_OIY91jvpilQN70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222658-frozen-vegetable-stir-fry-step-3-1368-7b937a2bd69f4beda9476c257021a869.jpg"
+      ],
+      "image": "assets/images/222658/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "88 kcal",
+    "carbohydrateContent": "14 g",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "345 mg",
+    "sugarContent": "3 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "267"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MF7yU1MBbRlaT40ogVr-1PgggKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222658-frozen-vegetable-stir-fry-4x3-1382-583b53fa0bcd4247920611ad431c14cb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222658/hero.webp",
+    "steps": [
+      "assets/images/222658/step_01.webp",
+      "assets/images/222658/step_02.webp",
+      "assets/images/222658/step_03.webp"
+    ]
+  }
+}

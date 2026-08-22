@@ -1,0 +1,87 @@
+{
+  "id": "222552",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222552/amaretto-sour-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222552/amaretto-sour-cocktail/",
+  "title": "Amaretto Sour Cocktail",
+  "description": "The easy to make drink is hard to put down. A little sweet and a little tart, the amaretto sour is a simply delicious cocktail.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:49:37-04:00",
+  "date_modified": "2020-06-18T23:49:37-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 fluid ounces amaretto",
+    "0.75 fluid ounce lemon juice",
+    "1 cup ice",
+    "1 orange slice"
+  ],
+  "steps": [
+    {
+      "text": "Combine amaretto and lemon juice in a cocktail shaker. Add ice and shake until chilled. Strain into chilled sour glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Garnish with a slice of orange.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/vVygxSybByig-CQ2WUKcOlp4hRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/947077-a4ba8d2eb75a46b586a6fb2048265ae4.jpg"
+      ],
+      "image": "assets/images/222552/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "180 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "21 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.3",
+    "ratingCount": "6"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/pCSoN6fj-K3AjnAEN.mp4",
+    "description": "HHH_0004",
+    "duration": "PT49S",
+    "name": "Amaretto Sour Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/pCSoN6fj/poster.jpg?width=1280",
+    "uploadDate": "2021-08-02T17:06:55-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vVygxSybByig-CQ2WUKcOlp4hRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/947077-a4ba8d2eb75a46b586a6fb2048265ae4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222552/hero.webp",
+    "steps": [
+      null,
+      "assets/images/222552/step_02.webp"
+    ]
+  }
+}

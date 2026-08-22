@@ -1,0 +1,70 @@
+{
+  "id": "222800",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222800/aunt-rosies-bbq-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/222800/aunt-rosies-bbq-sauce/",
+  "title": "Aunt Rosie&#39;s BBQ Sauce",
+  "description": "This is a quick sauce you can use for your barbeque needs using just ketchup, brown sugar, water, and onion soup mix.",
+  "authors": [
+    "LINNNY"
+  ],
+  "date_published": "2020-03-05T00:09:03-05:00",
+  "date_modified": "2022-01-14T02:19:12-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup ketchup",
+    "0.5 cup brown sugar",
+    "0.5 cup water",
+    "1 (1 ounce) package dry onion soup mix (such as Lipton®)"
+  ],
+  "steps": [
+    {
+      "text": "Stir ketchup, brown sugar, water, and dry onion soup mix together in a saucepan; bring to a boil, stirring regularly, until sugar is dissolved, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "97 kcal",
+    "carbohydrateContent": "25 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "862 mg",
+    "sugarContent": "21 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/h-jk7Q3dIpfzDfl565GRXoxf2m8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3657250-4edb6c7822ff4ddfb80f864d940d4812.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222800/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

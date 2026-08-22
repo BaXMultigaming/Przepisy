@@ -1,0 +1,81 @@
+{
+  "id": "222879",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222879/colorado-bulldog-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222879/colorado-bulldog-cocktail/",
+  "title": "Colorado Bulldog Cocktail",
+  "description": "Similar to a white Russian, the Colorado bulldog adds a splash of cola to a combination of coffee liqueur and vodka.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2018-05-04T09:03:00-04:00",
+  "date_modified": "2022-08-22T14:27:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 fluid ounce vodka",
+    "1 fluid ounce coffee-flavored liqueur (such as Kahlua®)",
+    "1 cup ice",
+    "1 tablespoon cola-flavored carbonated beverage"
+  ],
+  "steps": [
+    {
+      "text": "Combine vodka, coffee liqueur, and ice in a cocktail shaker. Cover and shake until chilled. Strain into a rocks glass. Add cola.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/wMjKtAo4IiOZa9PZ1elZvPjIU-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970783-0122ba42cf174f5aaeb4458480eb25e5.jpg"
+      ],
+      "image": "assets/images/222879/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "178 kcal",
+    "carbohydrateContent": "13 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "13 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/842wajUU-K3AjnAEN.mp4",
+    "description": "Watch a professional bartender put a tasty twist on a White Russian cocktail.",
+    "duration": "PT1M34S",
+    "name": "Colorado Bulldog Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/842wajUU/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T22:13:46-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wMjKtAo4IiOZa9PZ1elZvPjIU-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970783-0122ba42cf174f5aaeb4458480eb25e5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222879/hero.webp",
+    "steps": [
+      "assets/images/222879/step_01.webp"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "222168",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222168/carrot-citrus-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/222168/carrot-citrus-salad/",
+  "title": "Carrot Citrus Salad",
+  "description": "Marinated carrots, jicama, and orange make a light and fresh-tasting salad.",
+  "authors": [
+    "METG"
+  ],
+  "date_published": "2019-04-03T23:52:29-04:00",
+  "date_modified": "2025-05-01T15:07:43-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT135M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup water",
+    "2 tablespoons cider vinegar",
+    "0.125 teaspoon sea salt",
+    "2 carrots, shaved into strips using a vegetable peeler",
+    "0.5 jicama, peeled and cut into thin matchsticks",
+    "1 orange, peeled and thinly sliced",
+    "1 sprig fresh cilantro, or to taste",
+    "cracked black pepper to taste",
+    "2 leaves escarole, torn"
+  ],
+  "steps": [
+    {
+      "text": "Stir water, vinegar, and sea salt together in a bowl to dissolve the salt; add shaved carrots and submerge in the liquid. Marinate in refrigerator for 2 hours; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Layer carrots, jicama, orange slices, and cilantro on a plate; season with cracked black pepper and garnish with escarole to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "49 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "5 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "86 mg",
+    "sugarContent": "3 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vee98z2CaxeeEtMABfcd4R3K8cY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5118331-69c212b5ce2149449d06e6cc2d4c2c63.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222168/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

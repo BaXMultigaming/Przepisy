@@ -1,0 +1,112 @@
+{
+  "id": "222550",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222550/blue-hawaiian-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222550/blue-hawaiian-cocktail/",
+  "title": "Blue Hawaiian Cocktail",
+  "description": "The Blue Hawaiian is a classic tiki cocktail made with rum, cream of coconut, pineapple juice, and Curacao liqueur to create its iconic blue color.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2017-07-13T09:01:18-04:00",
+  "date_modified": "2026-01-22T17:50:54-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Cocktail",
+    "Beverage"
+  ],
+  "cuisines": [
+    "Hawaiian"
+  ],
+  "regions": [
+    "Hawaiian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 cup crushed ice",
+    "2 fluid ounces pineapple juice",
+    "1 fluid ounce light rum",
+    "1 fluid ounce blue Curacao liqueur",
+    "1 fluid ounce cream of coconut",
+    "1 pineapple slice",
+    "1 maraschino cherry"
+  ],
+  "steps": [
+    {
+      "text": "Combine crushed ice, pineapple juice, rum, blue Curacao, and cream of coconut in a blender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/zw5aq6Xkdz0QHzK1cK9Ju6dhwNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-BlueHawaiianCocktail-mfs-Step1-0090-3ed58bb422b944ca9ee075be27785cf0.jpg"
+      ],
+      "image": "assets/images/222550/step_01.webp"
+    },
+    {
+      "text": "Blend on high speed until smooth and an even blue color.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bGcKZrpm0xiy5j7P_3jnsJsK2vs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-BlueHawaiianCocktail-mfs-Step2-0096-c150fd11c9034138a43cea06493a0a7c.jpg"
+      ],
+      "image": "assets/images/222550/step_02.webp"
+    },
+    {
+      "text": "Pour into a chilled highball glass. Garnish with a slice of pineapple and a maraschino cherry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/FYSK15V366s4x5yVElZK8xTvaTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-blue-hawaiian-cocktail-DDMFS-4x3-882f91302502469c8b86471485aa0983.jpg"
+      ],
+      "image": "assets/images/222550/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "369 kcal",
+    "carbohydrateContent": "49 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "31 mg",
+    "sugarContent": "43 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "63"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/a3Vn3eyU-K3AjnAEN.mp4",
+    "description": "The Blue Hawaiian is a fun, refreshing cocktail made with rum, cream of coconut, pineapple juice, and Curacao liqueur to create its signature blue color. Invented in Hawaii in the 1950s, this tiki cocktail will have you crooning like Elvis! You don't need to be at the beach to enjoy this tropical and fruity cocktail. The gorgeous drink is incredibly simple to make at home, but one sip will transport you to an island in the sun. Whether enjoyed poolside or simply after work, you'll love the Blue Hawaiian recipe in this video.",
+    "duration": "PT47S",
+    "name": "Blue Hawaiian Recipe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/a3Vn3eyU/poster.jpg?width=1280",
+    "uploadDate": "2022-08-14T13:08:32-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FYSK15V366s4x5yVElZK8xTvaTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222550-blue-hawaiian-cocktail-DDMFS-4x3-882f91302502469c8b86471485aa0983.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222550/hero.webp",
+    "steps": [
+      "assets/images/222550/step_01.webp",
+      "assets/images/222550/step_02.webp",
+      "assets/images/222550/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "222908",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222908/salmon-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/222908/salmon-burgers/",
+  "title": "Salmon Burgers",
+  "description": "These juicy salmon burgers with canned salmon, oats, lemon juice, and mustard make dinner a breeze! Serve with your favorite toppings.",
+  "authors": [
+    "flamingo1012"
+  ],
+  "date_published": "2019-07-10T03:03:30-04:00",
+  "date_modified": "2025-01-17T11:36:36-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 burgers"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14.75 ounce) can salmon, drained and flaked",
+    "0.75 cup rolled oats",
+    "0.5 onion, sliced",
+    "1 large egg",
+    "0.5 lemon, juiced",
+    "1 tablespoon Dijon mustard",
+    "salt and ground black pepper to taste",
+    "1 teaspoon vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Mix salmon, oats, onion, egg, lemon juice, mustard, salt, and pepper together in a large bowl until evenly combined. Divide and shape mixture into 4 patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Pan-fry salmon patties in hot oil until heated through, about 7 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "268 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "92 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "485 mg",
+    "sugarContent": "1 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "64"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0NS4JiZDH8AMz3ScXzCcf4yolFQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222908salmon-burgersfrancec4x3-b6160973c8204f55a594ee0e73bf0afc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222908/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

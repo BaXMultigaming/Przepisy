@@ -1,0 +1,86 @@
+{
+  "id": "222239",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222239/cranberry-mustard-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/222239/cranberry-mustard-salad-dressing/",
+  "title": "Cranberry Mustard Salad Dressing",
+  "description": "This beautiful vinaigrette combines cranberry sauce and mustard for a light, tangy taste.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-05-07T14:16:45-04:00",
+  "date_modified": "2025-02-19T13:59:40-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "18",
+    "1 cups"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup cranberry sauce",
+    "0.25 cup Dijon mustard",
+    "1 clove garlic, peeled",
+    "salt and ground black pepper to taste",
+    "0.25 cup rice vinegar",
+    "0.25 cup apple cider vinegar",
+    "0.25 cup walnut oil",
+    "1 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Place cranberry sauce, Dijon mustard, garlic, salt, black pepper, rice vinegar, and cider vinegar into a blender. Turn the blender on and process until smooth, about 30 seconds. Pour in walnut oil in a steady stream, then vegetable oil. Blend until the salad dressing is thick and creamy, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/bUop4o35qCwnBxKaxqVCuehNoSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/848700-e4a6684139d94288ad81528d0d82f4e1.jpg"
+      ],
+      "image": "assets/images/222239/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "144 kcal",
+    "carbohydrateContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "85 mg",
+    "sugarContent": "2 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "14"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/mAWtXvkT-ma1DlVvV.mp4",
+    "description": "0170",
+    "duration": "PT4M9S",
+    "name": "Cranberry Mustard Salad Dressing",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/mAWtXvkT/poster.jpg?width=1280",
+    "uploadDate": "2020-11-25T06:47:49-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/bUop4o35qCwnBxKaxqVCuehNoSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/848700-e4a6684139d94288ad81528d0d82f4e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222239/hero.webp",
+    "steps": [
+      "assets/images/222239/step_01.webp"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "222161",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222161/jrs-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/222161/jrs-salsa/",
+  "title": "JR&#39;s Salsa",
+  "description": "Seeding the chile peppers takes the heat out of this homemade salsa while leaving in the flavor.",
+  "authors": [
+    "Nelson W Browning JR"
+  ],
+  "date_published": "2020-02-01T02:51:14-05:00",
+  "date_modified": "2025-04-10T23:30:56-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT80M",
+  "yield": [
+    "8",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 roma (plum) tomatoes, seeded and diced",
+    "6 serrano chile peppers, diced",
+    "2 jalapeno peppers, seeded and diced",
+    "0.5 small white onion, diced",
+    "3 cloves garlic, minced",
+    "2 tablespoons chopped fresh cilantro",
+    "0.25 teaspoon chili powder",
+    "0.25 teaspoon grated lime zest",
+    "1 lime, juiced",
+    "coarse salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss tomatoes, serrano peppers, jalapeno peppers, white onion, garlic, cilantro, chili powder, lime zest, and lime juice in a bowl; season with salt and black pepper. Cover the bowl with plastic wrap and refrigerate 1 hour to overnight before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "20 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "2 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/B1jmlI9ZNWNJkU-vJnEHsPDHAWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/833423-bdf7d73c0e0642afb1c88b1ab423c9a1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222161/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

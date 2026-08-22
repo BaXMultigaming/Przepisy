@@ -1,0 +1,85 @@
+{
+  "id": "222889",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/222889/madras-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/222889/madras-cocktail/",
+  "title": "Madras Cocktail",
+  "description": "Mix up some cranberry juice, orange juice, and vodka for a refreshing cocktail known as the Madras.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2018-05-04T09:03:01-04:00",
+  "date_modified": "2025-12-18T12:41:44-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 fluid ounces cranberry juice",
+    "1.5 fluid ounces vodka",
+    "1 fluid ounce orange juice",
+    "0.5 cup ice",
+    "1 lime wedge"
+  ],
+  "steps": [
+    {
+      "text": "Pour cranberry juice, vodka, and orange juice into a highball glass. Add ice; stir to combine. Garnish with a lime wedge.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MUb-XoRM4WMWz601qgPSopZYPvA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3163525-9543b0844ff64714948420b802c70128.jpg"
+      ],
+      "image": "assets/images/222889/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "180 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "7 mg",
+    "sugarContent": "18 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "20"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/dTH7Lfpu-K3AjnAEN.mp4",
+    "description": "Watch a professional bartender make the Madras Cocktail.",
+    "duration": "PT1M6S",
+    "name": "The Madras Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dTH7Lfpu/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T11:14:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MUb-XoRM4WMWz601qgPSopZYPvA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3163525-9543b0844ff64714948420b802c70128.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/222889/hero.webp",
+    "steps": [
+      "assets/images/222889/step_01.webp"
+    ]
+  }
+}
