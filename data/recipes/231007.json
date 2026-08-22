@@ -1,0 +1,119 @@
+{
+  "id": "231007",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231007/old-fashioned-cracker-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/231007/old-fashioned-cracker-dressing/",
+  "title": "Old-Fashioned Cracker Dressing",
+  "description": "This old-fashioned cracker dressing recipe is made with saltine crackers, celery, onions, and herbs, it&#39;s a simple and satisfying side dish for poultry.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2013-01-23T16:49:08-05:00",
+  "date_modified": "2026-05-18T23:13:34-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT50M",
+  "total_time": "PT70M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "cooking spray",
+    "0.5 cup butter",
+    "3 stalks celery, diced",
+    "1 large onion, diced",
+    "1 teaspoon salt, or to taste",
+    "0.5 teaspoon freshly ground black pepper, or to taste",
+    "0.5 teaspoon dried sage",
+    "0.5 teaspoon dried thyme",
+    "0.5 teaspoon dried rosemary",
+    "1 pinch cayenne pepper, or to taste",
+    "2.75 cups chicken broth",
+    "1 pound saltine crackers, crushed",
+    "0.5 cup milk",
+    "1 egg"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C). Lightly coat a baking dish with cooking spray.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium heat. Add celery, onion, and 1 teaspoon salt; cook and stir until onion begins to turn translucent, about 5 minutes. Season with black pepper, sage, thyme, rosemary, and cayenne pepper; cook and stir about 1 minute. Off heat, stir in chicken broth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine crushed crackers and onion mixture in a large bowl. Add milk and egg; stir until combined. Season with salt and black pepper. Transfer to the prepared baking dish; smooth top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until top is golden brown, 40 to 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/MzyNb5IewPqXED_uxCm528s_E6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4095456-ca84ac0447754433b61e4342d4f22c40.jpg"
+      ],
+      "image": "assets/images/231007/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "189 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "705 mg",
+    "sugarContent": "1 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "31"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Fl8ASHPV-ma1DlVvV.mp4",
+    "description": "0040",
+    "duration": "PT5M44S",
+    "name": "Old-Fashioned Cracker Dressing",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Fl8ASHPV/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T04:44:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MzyNb5IewPqXED_uxCm528s_E6c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4095456-ca84ac0447754433b61e4342d4f22c40.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231007/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/231007/step_04.webp"
+    ]
+  }
+}

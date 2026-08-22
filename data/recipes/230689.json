@@ -1,0 +1,88 @@
+{
+  "id": "230689",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230689/bacon-wrapped-pretzels/",
+  "requested_url": "https://www.allrecipes.com/recipe/230689/bacon-wrapped-pretzels/",
+  "title": "Bacon Wrapped Pretzels",
+  "description": "Pretzel rods are wrapped in spicy brown sugar-coated bacon slices and baked for a sweet and savory appetizer perfect for your next get-together.",
+  "authors": [
+    "Chad Baker"
+  ],
+  "date_published": "2020-03-05T00:10:04-05:00",
+  "date_modified": "2020-03-05T00:10:04-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "20",
+    "20 servings"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup brown sugar, or more to taste",
+    "3 tablespoons red chili powder",
+    "1 pinch cayenne pepper, or more to taste",
+    "1 (12 ounce) package thinly sliced bacon",
+    "1 (15 ounce) package short pretzel rods"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 375 degrees F (190 degrees C). Line a baking sheet with aluminum foil and top with a wire rack.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix brown sugar, chili powder, and cayenne pepper together in a bowl. Dredge both sides of each bacon slice in the brown sugar mixture. Wrap a coated bacon slice around each pretzel rod, leaving a small space at the bottom of pretzel uncovered for easy handling. Arrange wrapped pretzels on the wire rack atop the baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until bacon is crisp, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "608 mg",
+    "sugarContent": "8 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FSXzTKGrMIGv1rSi4dzC7Mz1VEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/964882-66928a2e012b496c97df747e5a5e21e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230689/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

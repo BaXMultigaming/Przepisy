@@ -1,0 +1,80 @@
+{
+  "id": "230756",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230756/peanut-butter-banana-quesadilla/",
+  "requested_url": "https://www.allrecipes.com/recipe/230756/peanut-butter-banana-quesadilla/",
+  "title": "Peanut Butter Banana Quesadilla",
+  "description": "These sweet and simple quesadillas with peanut butter and banana are a light yet satisfying treat — perfect for breakfast, a midday snack, or dessert!",
+  "authors": [
+    "lbouza"
+  ],
+  "date_published": "2014-01-11T02:01:45-05:00",
+  "date_modified": "2026-08-19T15:36:40-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup peanut butter",
+    "2 (8 inch) flour tortillas",
+    "1 banana, sliced",
+    "cooking spray"
+  ],
+  "steps": [
+    {
+      "text": "Spread 2 tablespoons peanut butter onto each tortilla. Top one tortilla with banana slices, then cover with remaining tortilla, peanut butter-side down.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spray cooking spray into a skillet and heat over medium heat. Place quesadilla into the hot skillet and cook until lightly browned, about 3 minutes per side. Cut in half to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "403 kcal",
+    "carbohydrateContent": "47 g",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "383 mg",
+    "sugarContent": "10 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4hiyZrSQxKNKc3WcBfjuPyUgyRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5387459-140535b996bd48f196c58d70b015c851.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230756/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

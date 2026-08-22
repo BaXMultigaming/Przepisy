@@ -1,0 +1,84 @@
+{
+  "id": "230138",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230138/framboise-fizz/",
+  "requested_url": "https://www.allrecipes.com/recipe/230138/framboise-fizz/",
+  "title": "Framboise Fizz",
+  "description": "Raspberry liqueur, called framboise, gives this refreshing tequila-based cocktail a sweet finish.",
+  "authors": [
+    "Allrecipes"
+  ],
+  "date_published": "2020-06-18T23:52:20-04:00",
+  "date_modified": "2020-06-18T23:52:20-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 fluid ounces tequila",
+    "0.75 fluid ounce white creme de cacao",
+    "0.75 fluid ounce lemon juice",
+    "1 cup ice cubes",
+    "2 fluid ounces framboise",
+    "3 fresh raspberries"
+  ],
+  "steps": [
+    {
+      "text": "Combine tequila, creme de cacao, and lemon juice in a cocktail shaker. Add ice, cover and shake until chilled. Strain into a chilled cocktail glass. Pour framboise on top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Garnish with 3 raspberries on a toothpick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/qYL7frcINBu01GKD6vPWmGrRICM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1486089-08657b604a4b464aae2c31e4854ac954.jpg"
+      ],
+      "image": "assets/images/230138/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "349 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": null,
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Evu4qZUf-K3AjnAEN.mp4",
+    "description": "See how to make a tasty tequila and Framboise cocktail.",
+    "duration": "PT1M55S",
+    "name": "Framboise Fizz Cocktail",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Evu4qZUf/poster.jpg?width=1280",
+    "uploadDate": "2021-07-10T16:09:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qYL7frcINBu01GKD6vPWmGrRICM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1486089-08657b604a4b464aae2c31e4854ac954.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230138/hero.webp",
+    "steps": [
+      null,
+      "assets/images/230138/step_02.webp"
+    ]
+  }
+}

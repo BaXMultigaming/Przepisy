@@ -1,0 +1,83 @@
+{
+  "id": "230613",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230613/game-day-crunch/",
+  "requested_url": "https://www.allrecipes.com/recipe/230613/game-day-crunch/",
+  "title": "Game Day Crunch",
+  "description": "Cereal squares, pretzels, and peanuts are tossed in a salty caramel sauce for the perfect crunchy snack for Game Days.",
+  "authors": [
+    "Kimniki"
+  ],
+  "date_published": "2020-03-05T00:10:02-05:00",
+  "date_modified": "2022-01-14T01:26:59-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT50M",
+  "yield": [
+    "20",
+    "10 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup brown sugar",
+    "0.5 cup butter",
+    "0.25 cup white corn syrup",
+    "1 teaspoon baking soda",
+    "0.5 teaspoon vanilla extract",
+    "6 cups crispy wheat cereal squares (such as Wheat Chex®)",
+    "2 cups pretzel sticks",
+    "1.5 cups peanuts"
+  ],
+  "steps": [
+    {
+      "text": "Mix brown sugar, butter, and corn syrup together in a large microwave-safe bowl. Microwave on high until bubbling, 3 1/2 minutes. Stir and microwave for 2 more minutes. Stir baking soda and vanilla extract into brown sugar mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fold cereal squares, pretzel sticks, and peanuts into brown sugar mixture until well coated. Microwave for 2 minutes. Stir and microwave again for 1 minute; stir well. Spread mixture onto waxed paper and cool completely; break into small pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "407 mg",
+    "sugarContent": "13 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/d5ZHOug8OmHVikZaTS65H3cLJgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2190852-e5dcc3170f8e4262a80c06ac0af4f965.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230613/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

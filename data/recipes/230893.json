@@ -1,0 +1,84 @@
+{
+  "id": "230893",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230893/spanish-brown-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/230893/spanish-brown-rice/",
+  "title": "Spanish Brown Rice",
+  "description": "This easy, Spanish-style brown rice recipe uses salsa, tomatoes, and garlic for a tasty change from a typical side dish. Try it as a burrito filling.",
+  "authors": [
+    "mom2dylanmorgan"
+  ],
+  "date_published": "2019-04-03T23:54:27-04:00",
+  "date_modified": "2025-04-01T14:52:42-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT50M",
+  "total_time": "PT70M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American",
+    "Spanish"
+  ],
+  "regions": [
+    "American",
+    "Spanish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup brown rice",
+    "1 teaspoon minced garlic",
+    "2 cups water",
+    "1 cup salsa",
+    "1 cup diced tomatoes"
+  ],
+  "steps": [
+    {
+      "text": "Combine rice and garlic in a saucepan; stir in water, salsa, and diced tomatoes. Bring to a boil; stir, reduce heat to low, and simmer, covered, for 50 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Turn off heat, let rice sit, covered, for 5 to 10 minutes. Stir rice before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "199 kcal",
+    "carbohydrateContent": "42 g",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "396 mg",
+    "sugarContent": "4 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "36"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gbOuBftjvSUzCuPbjC6TzBubV3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7937224-60be811542084110b83d7524de5e2c71.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230893/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

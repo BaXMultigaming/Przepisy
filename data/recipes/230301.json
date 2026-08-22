@@ -1,0 +1,75 @@
+{
+  "id": "230301",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230301/so-simple-beef-stroganoff/",
+  "requested_url": "https://www.allrecipes.com/recipe/230301/so-simple-beef-stroganoff/",
+  "title": "So Simple Beef Stroganoff",
+  "description": "All you need are five basic pantry ingredients to make a comforting, creamy beef Stroganoff in your slow cooker.",
+  "authors": [
+    "SHANL76"
+  ],
+  "date_published": "2019-04-03T23:54:11-04:00",
+  "date_modified": "2026-03-25T13:44:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT240M",
+  "total_time": "PT250M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (10.75 ounce) can condensed cream of mushroom soup",
+    "0.5 cup water, or more as needed",
+    "1 (1 ounce) package dry onion soup mix",
+    "1 pound cubed beef stew meat",
+    "4 ounces cream cheese"
+  ],
+  "steps": [
+    {
+      "text": "Whisk cream of mushroom soup, water, and dry onion soup mix in a slow cooker; stir meat into soup mixture. Cover and cook on Low until beef is tender, 6 to 8 hours, or on High for 4 hours. Test for doneness after 2 hours. Stir cream cheese into beef until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "329 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "91 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1241 mg",
+    "sugarContent": "2 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "196"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WWnU0Qvt2XUpZ0OZoMd9K6lMH6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6586736_So-Simple-Beef-Stroganoff_Peyton-Beckwith_4x3-b46aa4d90d5540f6a5a4ae406a31f12b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230301/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

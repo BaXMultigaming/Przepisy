@@ -1,0 +1,89 @@
+{
+  "id": "230983",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230983/deli-style-fresh-broccoli-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/230983/deli-style-fresh-broccoli-salad/",
+  "title": "Deli-Style Fresh Broccoli Salad",
+  "description": "Broccoli is tossed with bacon and sweetened dried cranberries before being tossed with a mayonnaise-based dressing for a tasty deli-style salad.",
+  "authors": [
+    "Anne Cassens"
+  ],
+  "date_published": "2016-06-04T09:29:12-04:00",
+  "date_modified": "2022-01-14T01:19:17-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 slices bacon, diced",
+    "1 head broccoli, cut into florets",
+    "0.5 cup sliced green onion",
+    "1 cup sweetened dried cranberries (such as Craisins®)",
+    "1 cup mayonnaise",
+    "0.5 cup honey",
+    "2 tablespoons cider vinegar"
+  ],
+  "steps": [
+    {
+      "text": "Cook and stir bacon in a large skillet over medium-high heat until crisp, about 10 minutes. Drain bacon on a plate lined with paper towel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss broccoli, cranberries, and green onion together in a large bowl. Whisk mayonnaise, honey, and vinegar together in a small bowl. Add bacon to broccoli mixture and toss. Drizzle dressing over the salad; toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Refrigerate until cold, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "519 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "521 mg",
+    "sugarContent": "30 g",
+    "fatContent": "41 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UrrDTfX2ec-Ka46ZGjjFuOlC3w8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/963442-e67722e0f9774af0b3dba236b5d36495.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230983/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

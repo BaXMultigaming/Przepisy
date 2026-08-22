@@ -1,0 +1,88 @@
+{
+  "id": "230155",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230155/champurrado/",
+  "requested_url": "https://www.allrecipes.com/recipe/230155/champurrado/",
+  "title": "Champurrado (Mexican Hot Chocolate)",
+  "description": "Champurrado is a thick, hot chocolate drink made with Mexican chocolate, pinole, piloncillo, and cinnamon to create a warm and delicious cozy drink.",
+  "authors": [
+    "monmedel"
+  ],
+  "date_published": "2019-04-03T23:54:07-04:00",
+  "date_modified": "2026-01-22T11:58:40-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1.5 cups water",
+    "1 cinnamon stick",
+    "1 whole clove",
+    "1 pod star anise",
+    "4.25 cups milk",
+    "2 tablets Mexican chocolate (such as Chocolate Ibarra®)",
+    "0.75 cup pinole (coarse ground maize flour)",
+    "1 pinch crushed piloncillo (Mexican brown sugar cone), or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place water, cinnamon stick, clove, and star anise in a saucepan over medium heat; bring to a boil. Remove from heat and allow spices to steep until water is fragrant, about 10 minutes; strain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat milk, chocolate, and pinole in a separate saucepan over medium heat, whisking until chocolate is dissolved and liquid is thickened, about 10 minutes. Remove from heat; add piloncillo and let rest until sugar is dissolved, about 5 minutes more. Pour cinnamon water into chocolate mixture and stir to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "524 kcal",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "276 mg",
+    "sugarContent": "38 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "25"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gvsDC5ZyXEkZ05ka_8cRd0knxHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Champurrado-2000-60cdaddbe52143518439c8ac136be6ff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230155/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

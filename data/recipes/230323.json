@@ -1,0 +1,75 @@
+{
+  "id": "230323",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230323/honey-rosemary-carrots/",
+  "requested_url": "https://www.allrecipes.com/recipe/230323/honey-rosemary-carrots/",
+  "title": "Honey Rosemary Carrots",
+  "description": "Rosemary carrots in a buttery honey sauce make an elegant side dish to serve with any meal.",
+  "authors": [
+    "KATHYP100"
+  ],
+  "date_published": "2019-04-03T23:54:12-04:00",
+  "date_modified": "2026-08-17T16:11:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large carrots, peeled and cut diagonally into 1/4-inch slices",
+    "0.25 cup water",
+    "2 tablespoons butter",
+    "0.25 cup honey",
+    "1 sprig fresh rosemary, leaves stripped"
+  ],
+  "steps": [
+    {
+      "text": "Bring carrots, water, and butter to a boil in a small saucepan; reduce heat to medium and simmer for 10 minutes. Add honey and rosemary; continue simmering until carrots are tender, about 5 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "92 mg",
+    "sugarContent": "21 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QXjG-ARXKvHAv_cbWDh1Xctf_j0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8615896-85b403dd2c2b40708aa03f858b83ff1f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230323/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

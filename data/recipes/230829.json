@@ -1,0 +1,93 @@
+{
+  "id": "230829",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230829/rutabaga-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/230829/rutabaga-stew/",
+  "title": "Rutabaga Stew",
+  "description": "This budget-friendly rutabaga soup is full of root vegetables, celery, carrots, and beets with chicken, though you can use whatever meat you fancy.",
+  "authors": [
+    "Britt Gustaveson"
+  ],
+  "date_published": "2019-04-03T23:54:26-04:00",
+  "date_modified": "2025-01-22T10:38:27-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT245M",
+  "total_time": "PT265M",
+  "yield": [
+    "15"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1.5 pounds chicken, diced",
+    "4 rutabagas, peeled and diced",
+    "4 medium beets, peeled and diced",
+    "4 carrots, diced",
+    "3 stalks celery, diced",
+    "1 red onion, diced",
+    "water, or to cover"
+  ],
+  "steps": [
+    {
+      "text": "Heat vegetable oil in a Dutch oven or large pot over medium heat. Cook and stir chicken in hot oil until completely browned, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add rutabagas, beets, carrots, celery, and onion to the pot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour enough water over the vegetable mixture to cover completely. Reduce heat to low and cook at a simmer for at least 4 hours, adding water as needed to keep vegetables submerged.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "111 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "80 mg",
+    "sugarContent": "9 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/U6zhC9gWBvZhqwsZfxvsdBW8bik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1549554-46a3faeb3aee4525ae81a290c56e925f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230829/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

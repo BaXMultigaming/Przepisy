@@ -1,0 +1,74 @@
+{
+  "id": "230314",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230314/beef-salad-sandwich-filling/",
+  "requested_url": "https://www.allrecipes.com/recipe/230314/beef-salad-sandwich-filling/",
+  "title": "Beef Salad Sandwich Filling",
+  "description": "Use leftover cooked beef plus a few other things to mix up a tasty sandwich filling to serve on bread or in pita pockets.",
+  "authors": [
+    "Sarah Simmons"
+  ],
+  "date_published": "2019-04-02T02:59:35-04:00",
+  "date_modified": "2022-06-15T13:07:09-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup chopped cooked beef",
+    "2 stalks celery, chopped",
+    "1 carrot, diced",
+    "0.25 cup chopped onion",
+    "3 tablespoons mayonnaise",
+    "0.25 teaspoon salt",
+    "0.125 teaspoon ground black pepper",
+    "0.125 teaspoon garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "Stir beef, celery, carrot, onion, mayonnaise, salt, black pepper, and garlic powder in a bowl until thoroughly combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "228 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "261 mg",
+    "sugarContent": "2 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DNm-BDiar8MUUgouMqj6TKDMnW4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/945725-f3b5b7fd431d4860a4bae194656c1af3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230314/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

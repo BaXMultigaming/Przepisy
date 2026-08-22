@@ -1,0 +1,77 @@
+{
+  "id": "230553",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230553/atomic-cheese-ball/",
+  "requested_url": "https://www.allrecipes.com/recipe/230553/atomic-cheese-ball/",
+  "title": "Atomic Cheese Ball",
+  "description": "Cream cheese is mixed with jalapeno peppers and dried beef creating a cheese ball with a little extra zip.",
+  "authors": [
+    "Darla Abbott"
+  ],
+  "date_published": "2019-04-03T02:31:10-04:00",
+  "date_modified": "2024-04-23T13:04:57-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT495M",
+  "yield": [
+    "30",
+    "1 cheese ball"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 (8 ounce) packages cream cheese, softened",
+    "1 bunch green onions, chopped",
+    "8 roasted jalapeno peppers, seeded and chopped, or to taste",
+    "1 (4 ounce) jar dried beef, chopped",
+    "1 tablespoon seasoned salt",
+    "1 teaspoon garlic powder"
+  ],
+  "steps": [
+    {
+      "text": "Beat cream cheese in a medium bowl with an electric mixer until light and fluffy. Mix green onions, jalapeno peppers, beef, seasoned salt, and garlic powder into cream cheese. Form cheese mixture into a ball; refrigerate 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "89 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "362 mg",
+    "sugarContent": "1 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/P3md2rzmSkLh0O8tgchaLdq4pBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230553atomiccheeseball4x3-243b75b0c3394f379e5c96a27252cb00.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230553/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "230306",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230306/peppermint-martini/",
+  "requested_url": "https://www.allrecipes.com/recipe/230306/peppermint-martini/",
+  "title": "Peppermint Martini",
+  "description": "This peppermint martini is made with white creme de menthe, vanilla vodka, and peppermint schnapps. The perfect Christmas cocktail for parties!",
+  "authors": [
+    "Joel Vincent"
+  ],
+  "date_published": "2020-04-18T00:37:29-04:00",
+  "date_modified": "2024-12-09T15:54:17-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice cubes, as needed",
+    "5 fluid ounces vanilla vodka",
+    "2 fluid ounces white creme de menthe",
+    "0.5 fluid ounce peppermint schnapps"
+  ],
+  "steps": [
+    {
+      "text": "Gather all your ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/scdfl3tBkWjiAjH6HkvkmVQNoc0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230306-peppermint-martini-step-01-878cc178c3314ec0a726e3966abf941b.jpg"
+      ],
+      "image": "assets/images/230306/step_01.webp"
+    },
+    {
+      "text": "Fill a cocktail shaker with ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/iXiRCl639VHEVgQqogT0FfThQds=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230306-peppermint-martini-step-02-8638f0f399754a5b8d1b8ea9aca0b8da.jpg"
+      ],
+      "image": "assets/images/230306/step_02.webp"
+    },
+    {
+      "text": "Pour vodka, creme de menthe, and peppermint schnapps over ice. Cover the cocktail shaker and shake well, about 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/sipN7VNkw4JUtR7BZa648luKfAE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230306-peppermint-martini-step-03-f709b56c0f354cdc874e9dcae627f2fe.jpg"
+      ],
+      "image": "assets/images/230306/step_03.webp"
+    },
+    {
+      "text": "Strain into two martini glasses. Garnish with peppermint sticks if desired and enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/-jrTNvX3pjm2ImQ4hvPcMosULm4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230306-peppermint-martini-step-04-48a1bc2f575d4d9c8234ce692b1e2ea1.jpg"
+      ],
+      "image": "assets/images/230306/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "325 kcal",
+    "carbohydrateContent": "17 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "3 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "21"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HCwdbduaPisZ_cRUlrREnb3aYlE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230306-peppermint-martini-hero-one-4x3-eb4b76d19fdd438fae1d9da2181ea54c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230306/hero.webp",
+    "steps": [
+      "assets/images/230306/step_01.webp",
+      "assets/images/230306/step_02.webp",
+      "assets/images/230306/step_03.webp",
+      "assets/images/230306/step_04.webp"
+    ]
+  }
+}

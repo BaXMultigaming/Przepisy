@@ -1,0 +1,77 @@
+{
+  "id": "231002",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/231002/creamy-cucumber-tomato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/231002/creamy-cucumber-tomato-salad/",
+  "title": "Creamy Cucumber Tomato Salad",
+  "description": "This creamy cucumber and tomato salad is tossed with a tangy sour cream, balsamic vinaigrette, and dill dressing. It&#39;s light, crisp, and refreshing!",
+  "authors": [
+    "klyoung"
+  ],
+  "date_published": "2019-07-10T03:04:11-04:00",
+  "date_modified": "2026-05-29T13:04:14-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large tomatoes, diced",
+    "1 large cucumber, quartered",
+    "0.25 cup sour cream, or to taste",
+    "2.5 teaspoons balsamic vinaigrette dressing (such as Wish-Bone®)",
+    "2 teaspoons lemon juice",
+    "1 teaspoon finely chopped fresh dill",
+    "4 pinches garlic salt with parsley (such as Lawry's®)",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place tomatoes and cucumber into a bowl. Add sour cream, balsamic vinaigrette, lemon juice, dill, and garlic salt; stir to combine. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "68 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "380 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oYVbAKQLqD9X0f7yPAvumuAyq9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1018148-922e670f13bf4637a07c1a07d594e712.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/231002/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

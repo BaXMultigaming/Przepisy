@@ -1,0 +1,67 @@
+{
+  "id": "230311",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230311/cranberry-liqueur/",
+  "requested_url": "https://www.allrecipes.com/recipe/230311/cranberry-liqueur/",
+  "title": "Cranberry Liqueur",
+  "description": "Cranberries and sugar are soaked in gin for six weeks creating a festive cranberry liqueur for the holiday season.",
+  "authors": [
+    "bella_bex"
+  ],
+  "date_published": "2020-06-18T23:52:29-04:00",
+  "date_modified": "2022-09-25T19:15:10-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT11107M",
+  "yield": [
+    "16",
+    "16 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups cranberries, coarsely chopped",
+    "3 cups white sugar",
+    "2 cups gin",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine cranberries, sugar, gin, and vanilla extract in a large sterilized jar with a tight-fitting lid. Let stand at room temperature for 6 weeks, shaking at least once a week. Pour mixture through a sieve and discard solids. Store in an airtight container for up to 2 months.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "232 kcal",
+    "carbohydrateContent": "41 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l4Pg7Qj3HO8O8Pj9vWlmwpe7Yjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4464900-04db2529c9734e82bfe1e9dea85b3867.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230311/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

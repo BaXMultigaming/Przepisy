@@ -1,0 +1,72 @@
+{
+  "id": "230125",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230125/thanksgiving-spinach-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/230125/thanksgiving-spinach-salad/",
+  "title": "Thanksgiving Spinach Salad",
+  "description": "Spinach, apples, and dried cranberries are tossed in a sweet and spicy dressing for a festive salad perfect for Thanksgiving dinner.",
+  "authors": [
+    "J Dub"
+  ],
+  "date_published": "2019-07-10T03:04:02-04:00",
+  "date_modified": "2023-02-24T20:11:13-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup sweetened dried cranberries, chopped",
+    "1 McIntosh apple - peeled, cored, and diced",
+    "0.5 small red onion, finely chopped",
+    "2 tablespoons lemon juice",
+    "2 teaspoons honey",
+    "1 teaspoon chili powder",
+    "0.5 teaspoon ground cinnamon",
+    "1 (6 ounce) bag baby spinach, torn into bite-sized pieces"
+  ],
+  "steps": [
+    {
+      "text": "Mix cranberries, apple, onion, lemon juice, honey, chili powder, and cinnamon together in a large bowl. Let rest for flavors to blend, about 20 minutes. Add spinach and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "115 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "41 mg",
+    "sugarContent": "22 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nAN7ipycSvL8RDlhFYOBMiEdkEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9157080-thanksgiving-spinach-salad-Suzanne-L-4x3-1-d02fdd2aa8234edf96d995dd917007f4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230125/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

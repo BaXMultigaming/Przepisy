@@ -1,0 +1,74 @@
+{
+  "id": "230604",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230604/milk-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/230604/milk-banana-smoothie/",
+  "title": "Milk Banana Smoothie",
+  "description": "Milk, bananas, and a pinch of sweetener are all you need for this creamy, smooth drink.",
+  "authors": [
+    "M131984"
+  ],
+  "date_published": "2014-01-11T02:01:44-05:00",
+  "date_modified": "2026-04-23T19:23:24-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1.5 bananas",
+    "5 (1 gram) packets low calorie granulated sugar substitute (such as Sweet 'n Low®)"
+  ],
+  "steps": [
+    {
+      "text": "Blend milk, bananas, and sugar substitute in a blender or food processor until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "280 kcal",
+    "carbohydrateContent": "57 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "102 mg",
+    "sugarContent": "38 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "36"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iF26FlJbYhTOS7XkUkIlS5vAOTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4894643-milk-banana-smoothie-Jan-Mowbray-4x3-1-29b9bb5a5a03461a8e7b87a233a0f9d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230604/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

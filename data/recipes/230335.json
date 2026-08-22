@@ -1,0 +1,94 @@
+{
+  "id": "230335",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230335/5-hour-beef-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/230335/5-hour-beef-stew/",
+  "title": "5-Hour Beef Stew",
+  "description": "In this beef stew, tapioca is used as a thickener to make it extra rich and delicious as it cooks low and slow in your oven for a total of five hours.",
+  "authors": [
+    "Anna Johnson"
+  ],
+  "date_published": "2020-06-18T23:52:31-04:00",
+  "date_modified": "2026-03-16T12:36:56-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT300M",
+  "total_time": "PT325M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds beef tenderloin steaks, diced",
+    "8 potatoes, peeled and diced",
+    "4 (12 ounce) cans tomato-vegetable juice cocktail (such as V8®)",
+    "3 cups diced carrots",
+    "1 cup diced celery",
+    "1 onion, diced",
+    "3 tablespoons tapioca",
+    "1 tablespoon white sugar",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 250 degrees F (120 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place beef into a roasting pan. Stir in potatoes, tomato-vegetable juice cocktail, carrots, celery, onion, tapioca, sugar, salt, and pepper. Cover the pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until beef and potatoes are tender, about 5 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "399 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "76 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "30 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "470 mg",
+    "sugarContent": "10 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eSP3JX8T8QFn--MAmZDqzkfmxDQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4651478-9eef1100559a47e683f5037bfaf168d7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230335/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

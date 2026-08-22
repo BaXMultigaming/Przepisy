@@ -1,0 +1,71 @@
+{
+  "id": "230603",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230603/coconut-and-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/230603/coconut-and-banana-smoothie/",
+  "title": "Coconut and Banana Smoothie",
+  "description": "Bananas and coconut milk make this vanilla ice cream smoothie extra yummy.",
+  "authors": [
+    "Misty89"
+  ],
+  "date_published": "2016-06-04T10:12:07-04:00",
+  "date_modified": "2016-06-04T10:12:07-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup coconut milk",
+    "3 scoops vanilla ice cream",
+    "2 ripe bananas",
+    "2 teaspoons honey"
+  ],
+  "steps": [
+    {
+      "text": "Blend coconut milk, ice cream, bananas, and honey in a blender or food processor until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "414 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "24 g",
+    "sodiumContent": "41 mg",
+    "sugarContent": "27 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nq5TGcLr8dht6lFJqIWeR6Pf-OE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/964373-7a6397ecc57d4d408116e3559f3fa1cb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230603/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

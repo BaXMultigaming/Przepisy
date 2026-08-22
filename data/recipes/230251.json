@@ -1,0 +1,98 @@
+{
+  "id": "230251",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230251/spicy-bacon-wrapped-scallops/",
+  "requested_url": "https://www.allrecipes.com/recipe/230251/spicy-bacon-wrapped-scallops/",
+  "title": "Spicy Bacon-Wrapped Scallops",
+  "description": "Bacon-wrapped scallops are a tried-and-true combination. Cajun seasoning gives this classic a spicy kick. Double the recipe to serve a crowd.",
+  "authors": [
+    "Ashley Robinson"
+  ],
+  "date_published": "2020-01-04T20:50:03-05:00",
+  "date_modified": "2022-12-29T03:29:40-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "10 slices bacon",
+    "10 sea scallops",
+    "1 teaspoon Cajun seasoning",
+    "1 tablespoon olive oil",
+    "1 lemon, cut into wedges"
+  ],
+  "steps": [
+    {
+      "text": "Arrange bacon in a large skillet and cook over medium-high heat, turning occasionally, until lightly browned but still pliable, about 5 minutes. Drain the bacon slices on paper towels.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Wrap each slice of bacon around one sea scallop and secure with a toothpick. Season with Cajun seasoning.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a clean skillet over medium-high heat; sear scallops until golden and bacon is crisp, 3 to 4 minutes on each side. Squeeze lemon over scallops. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/tsA2G-lFAXyRGSaIU2kYxli78sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2432695-spicy-bacon-wrapped-scallops-Allrecipes-Magazine-1x1-1-829846baac4e425faff6a18cce42df0c.jpg"
+      ],
+      "image": "assets/images/230251/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "198 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "54 mg",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "683 mg",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "40"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/G8ehLT3m-K3AjnAEN.mp4",
+    "description": "Enjoy the delicate flavors of perfectly seared scallops, with a Cajun kick and the savory saltiness of bacon. After partially cooking bacon until it’s still bendable, wrap each slice around a sea scallop, secure with a toothpick and season with Cajun seasoning. Sear 3 or 4 minutes per side in olive oil and serve with a spritz of lemon juice. Eat straight up, or present to hungry people with a dipping sauce and a side salad.",
+    "duration": "PT34S",
+    "name": "Spicy Bacon-Wrapped Scallops",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/G8ehLT3m/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T02:17:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tsA2G-lFAXyRGSaIU2kYxli78sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2432695-spicy-bacon-wrapped-scallops-Allrecipes-Magazine-1x1-1-829846baac4e425faff6a18cce42df0c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230251/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/230251/step_03.webp"
+    ]
+  }
+}

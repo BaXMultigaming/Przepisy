@@ -1,0 +1,78 @@
+{
+  "id": "230774",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230774/hot-banana-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/230774/hot-banana-milkshake/",
+  "title": "Hot Banana Milkshake",
+  "description": "An easy banana smoothie sweetened with honey and served hot makes a nice alternative to hot chocolate.",
+  "authors": [
+    "Coffee Jam"
+  ],
+  "date_published": "2020-03-05T00:10:07-05:00",
+  "date_modified": "2022-10-07T15:44:58-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 small ripe bananas, chopped",
+    "0.25 teaspoon brown sugar",
+    "1.5 cups milk, divided",
+    "1 tablespoon honey",
+    "0.125 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Mash bananas and brown sugar together in a bowl. Transfer to a small saucepan, place over medium heat and cook until bananas begin to brown, about 5 minutes, stirring constantly. Gradually mix 1 cup of milk into bananas and heat until mixture begins to steam. Stir honey and cinnamon into mixture until honey has dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour banana mixture into a blender no more than half full. Cover and hold the lid down; pulse a few times before leaving on to blend. Purée until smooth. Blend remaining 1/2 cup of milk into mixture until creamy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "216 kcal",
+    "carbohydrateContent": "41 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "77 mg",
+    "sugarContent": "30 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vDK41A-1zlxFNQy323F2e0J6apU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/959098-80d99d3a5cdd41bd84b6fae98638825e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230774/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

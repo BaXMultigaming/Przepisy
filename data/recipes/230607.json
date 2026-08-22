@@ -1,0 +1,101 @@
+{
+  "id": "230607",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230607/marshmallow-hot-fudge-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/230607/marshmallow-hot-fudge-sauce/",
+  "title": "Marshmallow Hot Fudge Sauce",
+  "description": "Marshmallows give this creamy hot fudge sauce a velvety texture for the ultimate topping for ice cream.",
+  "authors": [
+    "Jenny"
+  ],
+  "date_published": "2018-06-08T10:06:36-04:00",
+  "date_modified": "2025-03-12T09:47:43-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "16",
+    "4 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "30 large marshmallows",
+    "0.66666668653488 cup milk",
+    "0.25 cup butter",
+    "0.125 teaspoon salt",
+    "1 (12 ounce) package semisweet chocolate chips",
+    "1.5 teaspoons vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mCMp1RATIwygyMN2TcQASSW1ZKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230607-marshmallow-hot-fudge-sauce-VAT-step-01-0da82aca7e674282a133de730e12d588.jpg"
+      ],
+      "image": "assets/images/230607/step_01.webp"
+    },
+    {
+      "text": "Heat marshmallows, milk, butter, and salt in a saucepan over low heat until marshmallows melt, stirring often, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jWDF3RkpdHml5v0LBK-WLeCSqz0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230607-marshmallow-hot-fudge-sauce-VAT-step-02-3412bbdc2fee4cf7ac627f99f5325bbf.jpg"
+      ],
+      "image": "assets/images/230607/step_02.webp"
+    },
+    {
+      "text": "Add chocolate chips and vanilla extract; continue stirring until chocolate is melted, 5 minutes more. Serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/CLKhCQBWMt9B0jebf7HeVPAuJsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230607-marshmallow-hot-fudge-sauce-VAT-step-03-747516956bdc46b4b6c3606d85d82d8e.jpg"
+      ],
+      "image": "assets/images/230607/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "136 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "13 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mrIyuRRx0-0nwVo9xiGbDpGXtyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-230607-marshmallow-hot-fudge-sauce-VAT-4x3-5cb0ee2e2d3b4cc0b536b586132e2b1d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230607/hero.webp",
+    "steps": [
+      "assets/images/230607/step_01.webp",
+      "assets/images/230607/step_02.webp",
+      "assets/images/230607/step_03.webp"
+    ]
+  }
+}

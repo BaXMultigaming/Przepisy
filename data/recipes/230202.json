@@ -1,0 +1,86 @@
+{
+  "id": "230202",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230202/homemade-pancake-mix/",
+  "requested_url": "https://www.allrecipes.com/recipe/230202/homemade-pancake-mix/",
+  "title": "Homemade Pancake Mix",
+  "description": "Having pancake mix ready in your cupboard or pantry makes impromptu brunches a breeze.",
+  "authors": [
+    "deltasky"
+  ],
+  "date_published": "2020-06-18T23:52:23-04:00",
+  "date_modified": "2026-04-09T12:21:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups all-purpose flour",
+    "1.25 cups powdered milk",
+    "0.25 cup white sugar",
+    "0.25 cup baking powder",
+    "1 tablespoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Combine flour, powdered milk, sugar, baking powder, and salt in a large bowl; stir to blend. Store mixture in an airtight container and use within 8 months.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jq86lVijVrqbxCHVP6YRLhXHHb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230202homemade-pancake-mixYoly4x3-c641ec92479c45009717a521695dc45c.jpg"
+      ],
+      "image": "assets/images/230202/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1120 mg",
+    "sugarContent": "9 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "108"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/dKWGZcYX-K3AjnAEN.mp4",
+    "description": "Enjoy pancakes any time with this premade mix on hand.",
+    "duration": "PT2M4S",
+    "name": "Homemade Pancake Mix",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/dKWGZcYX/poster.jpg?width=1280",
+    "uploadDate": "2021-07-28T00:54:24-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jq86lVijVrqbxCHVP6YRLhXHHb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230202homemade-pancake-mixYoly4x3-c641ec92479c45009717a521695dc45c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230202/hero.webp",
+    "steps": [
+      "assets/images/230202/step_01.webp"
+    ]
+  }
+}

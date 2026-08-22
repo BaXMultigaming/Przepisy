@@ -1,0 +1,117 @@
+{
+  "id": "230907",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230907/southern-fried-apples/",
+  "requested_url": "https://www.allrecipes.com/recipe/230907/southern-fried-apples/",
+  "title": "Southern Fried Apples",
+  "description": "These fried apples made with just 3 ingredients are cooked in butter and sweetened with sugar and cinnamon for an easy dessert or ice cream topping.",
+  "authors": [
+    "lscrisp"
+  ],
+  "date_published": "2020-06-18T23:53:04-04:00",
+  "date_modified": "2025-10-17T15:45:32-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup butter",
+    "0.5 cup white sugar",
+    "2 tablespoons ground cinnamon",
+    "4 Granny Smith apples - peeled, cored, and sliced"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/s4PBq9CZPrQBFhsm92K1qtrL2lQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-Step-1-57a3531f4d1f4bc892bc412be4d06b54.jpg"
+      ],
+      "image": "assets/images/230907/step_01.webp"
+    },
+    {
+      "text": "Melt butter in a large skillet over medium heat. Add sugar and cinnamon; stir until sugar dissolves.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0ymOAHQzaD_NKDBQcUy6ThySPTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-Step-3-4ce76e82228d4f108e7c5d9f75480930.jpg"
+      ],
+      "image": "assets/images/230907/step_02.webp"
+    },
+    {
+      "text": "Add apples and cook until softened, 5 to 8 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/RzeBfKfxBMMt9OL9NUD3jnGHb1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-Step-4-c2b6c49f8b254384bb1f403b60e6340f.jpg"
+      ],
+      "image": "assets/images/230907/step_03.webp"
+    },
+    {
+      "text": "Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/10UHXv4hY-wRtgKNN8adjfGrQuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-4x3-4faad17732c741fc957deb7a2ef849ec.jpg"
+      ],
+      "image": "assets/images/230907/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "369 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "165 mg",
+    "sugarContent": "39 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "317"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/2Dt0Z4mG-K3AjnAEN.mp4",
+    "description": "AR_JAN_0015",
+    "duration": "PT1M19S",
+    "name": "Southern Fried Apples",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/2Dt0Z4mG/thumbnails/84NM9wi5.jpg?width=1280",
+    "uploadDate": "2021-07-03T04:04:20-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/10UHXv4hY-wRtgKNN8adjfGrQuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-230907-southern-fried-apples-DDMFS-4x3-4faad17732c741fc957deb7a2ef849ec.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230907/hero.webp",
+    "steps": [
+      "assets/images/230907/step_01.webp",
+      "assets/images/230907/step_02.webp",
+      "assets/images/230907/step_03.webp",
+      "assets/images/230907/step_04.webp"
+    ]
+  }
+}

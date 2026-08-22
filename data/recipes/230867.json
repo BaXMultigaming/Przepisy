@@ -1,0 +1,80 @@
+{
+  "id": "230867",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230867/buffalo-chicken-wing-sliders/",
+  "requested_url": "https://www.allrecipes.com/recipe/230867/buffalo-chicken-wing-sliders/",
+  "title": "Buffalo Chicken Wing Sliders",
+  "description": "This recipe made slider-size chicken burgers by combining Buffalo wings with a hamburger.",
+  "authors": [
+    "fsindoni"
+  ],
+  "date_published": "2020-03-20T02:50:13-04:00",
+  "date_modified": "2020-03-20T02:50:13-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "12",
+    "12 sliders"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground chicken",
+    "1 cup dry bread crumbs",
+    "1 egg",
+    "0.25 cup hot wing sauce",
+    "0.5 cup warm water, or as needed",
+    "12 slider-size burger buns"
+  ],
+  "steps": [
+    {
+      "text": "Mix ground chicken, bread crumbs, egg, and wing sauce together in a large bowl. Add enough water to the chicken mixture so it is a little sticky; shape into patties about 3 inches in diameter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook patties in hot skillet until burgers are hot and no longer pink in the middle, about 4 minutes per side. Serve on buns.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "173 kcal",
+    "carbohydrateContent": "166 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "230 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TOwr9Z1U7nRMhTHKCsorqcLGnis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1421645-f36aa704501044c9b95f0dbed0ffe209.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230867/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "230420",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230420/reunion-rum-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/230420/reunion-rum-punch/",
+  "title": "Reunion Rum Punch",
+  "description": "Pineapple juice and chai tea are mixed with plenty of rum and vermouth for a refreshing punch inspired by the island of Reunion.",
+  "authors": [
+    "brittneyart"
+  ],
+  "date_published": "2020-03-05T00:09:58-05:00",
+  "date_modified": "2022-09-25T20:47:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT145M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "French Inspired"
+  ],
+  "regions": [
+    "French Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "1 chai tea bag",
+    "3 tablespoons brown sugar",
+    "8 cups pineapple juice",
+    "2 cups rum, or as needed",
+    "1 cup dry vermouth (such as Martini®)",
+    "3 tablespoons vanilla-flavored syrup"
+  ],
+  "steps": [
+    {
+      "text": "Bring water to a boil in a saucepan; pour into a mug and brew chai tea for 5 minutes. Remove tea bag and mix brown sugar into the hot tea until dissolved. Allow tea to cool for about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix tea, pineapple juice, rum, vermouth, and vanilla-flavored syrup together in a large punch bowl; stir well. Chill for at least 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "279 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "10 mg",
+    "sugarContent": "29 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kF5Q1POU0FweqnYpjXlXTIrco1A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/964071-9fb99cdb855346dfa522b2b037175d36.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230420/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

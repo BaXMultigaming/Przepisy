@@ -1,0 +1,110 @@
+{
+  "id": "230642",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230642/healthy-green-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/230642/healthy-green-juice/",
+  "title": "Healthy Green Juice",
+  "description": "This green juice recipe is easy to make in a juicer in minutes for a delicious detox drink loaded with kale, cucumber, celery, apples, ginger, and lemon.",
+  "authors": [
+    "PageLeeNC"
+  ],
+  "date_published": "2013-01-02T08:16:23-05:00",
+  "date_modified": "2025-10-23T13:10:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "4 stalks celery, leaves removed",
+    "2 green apples, halved",
+    "1 cucumber",
+    "6 leaves kale",
+    "0.5 lemon, peeled",
+    "1 (1 inch) piece fresh ginger"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/S9OY3sHCpI3P-WNqKsfrJIhaXGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230642-Healthy-Green-Juice-077-step1-826fbaaa90a14d1a8ba072575f25ea20.jpg"
+      ],
+      "image": "assets/images/230642/step_01.webp"
+    },
+    {
+      "text": "Process celery, apples, cucumber, kale, lemon, and ginger through a juicer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6C0DP5KHjmI8dwaYspKhTjne-OE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230642-Healthy-Green-Juice-078-step2-5b17e72befb04087841b2d05343addc3.jpg"
+      ],
+      "image": "assets/images/230642/step_02.webp"
+    },
+    {
+      "text": "Serve immediately or store in a glass jar in the fridge for up to one day; shake before drinking.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/HLzzHgRXlA4yujAHsmFA19ejKko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230642-Healthy-Green-Juice-083-4x3-d8c13b4cb3504d44a701f8d3a2f5d24e.jpg"
+      ],
+      "image": "assets/images/230642/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "144 kcal",
+    "carbohydrateContent": "36 g",
+    "fiberContent": "8 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "95 mg",
+    "sugarContent": "18 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "105"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lm5t9SD3-ma1DlVvV.mp4",
+    "description": "This healthy juice features kale, cucumber, apples, ginger, and lemon.",
+    "duration": "PT55S",
+    "name": "Healthy Green Juice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lm5t9SD3/poster.jpg?width=1280",
+    "uploadDate": "2021-07-02T03:51:18-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HLzzHgRXlA4yujAHsmFA19ejKko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230642-Healthy-Green-Juice-083-4x3-d8c13b4cb3504d44a701f8d3a2f5d24e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230642/hero.webp",
+    "steps": [
+      "assets/images/230642/step_01.webp",
+      "assets/images/230642/step_02.webp",
+      "assets/images/230642/step_03.webp"
+    ]
+  }
+}

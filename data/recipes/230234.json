@@ -1,0 +1,89 @@
+{
+  "id": "230234",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230234/swedish-pickled-cucumbers/",
+  "requested_url": "https://www.allrecipes.com/recipe/230234/swedish-pickled-cucumbers/",
+  "title": "Swedish Pickled Cucumbers",
+  "description": "This Swedish cucumber salad is an easy and tasty dish of thinly sliced cucumber marinated in a sweet vinegar mixture for an easy appetizer or side dish.",
+  "authors": [
+    "Jill Fisher"
+  ],
+  "date_published": "2020-06-18T23:52:25-04:00",
+  "date_modified": "2023-01-16T01:36:38-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT190M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Swedish"
+  ],
+  "regions": [
+    "Swedish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cucumbers, thinly sliced",
+    "0.5 cup white vinegar",
+    "3 tablespoons white sugar",
+    "2 tablespoons water",
+    "0.25 teaspoon salt",
+    "2 tablespoons minced parsley"
+  ],
+  "steps": [
+    {
+      "text": "Put sliced cucumbers into a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir together vinegar, sugar, water, and salt in a separate bowl until sugar and salt dissolve; pour over cucumbers. Sprinkle parsley on top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Refrigerate cucumbers 3 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "29 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "75 mg",
+    "sugarContent": "6 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "26"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3rbJXvYXXwUXlhyUV7w0TMfbqNA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970103-swedish-pickled-cucumbers-Jacolyn-4x3-1-acea665c18954ec487fb511a49abacb7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230234/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

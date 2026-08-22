@@ -1,0 +1,110 @@
+{
+  "id": "230201",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/230201/baked-pears/",
+  "requested_url": "https://www.allrecipes.com/recipe/230201/baked-pears/",
+  "title": "Easy Baked Pears",
+  "description": "These delicious baked pears are easy to make with fresh cored pears filled with 4 simple ingredients: maple syrup, brown sugar, butter, and cinnamon.",
+  "authors": [
+    "pikachu"
+  ],
+  "date_published": "2020-03-05T00:09:55-05:00",
+  "date_modified": "2025-08-04T16:09:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large pears",
+    "1 teaspoon maple syrup, or to taste",
+    "2 tablespoons brown sugar",
+    "2 tablespoons butter",
+    "1 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/HCRgDTC8bx1_64i-hFMsLwP2T90=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230201-baked-pears-VAT-step-01-e011077706ff464ab56bde86d4dd0a10.jpg"
+      ],
+      "image": "assets/images/230201/step_01.webp"
+    },
+    {
+      "text": "Cut top quarter of pears off; create a well by scooping out the core, being careful not to puncture the bottom of the pear. Arrange pears in a shallow baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/s6xZcHjWC7JelgsFOZ0bkUyBkg0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230201-baked-pears-VAT-step-02-159839da17f44e44b8c88f7f26cdd887.jpg"
+      ],
+      "image": "assets/images/230201/step_02.webp"
+    },
+    {
+      "text": "Drizzle maple syrup over pears. Place 1 tablespoon brown sugar and 1 tablespoon butter in each pear; sprinkle with cinnamon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/p-oQ6htZL5Hzq63XnzWUMFGzvq0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230201-baked-pears-VAT-step-03-16a3c901e86f4171a901d1c632f8bb55.jpg"
+      ],
+      "image": "assets/images/230201/step_03.webp"
+    },
+    {
+      "text": "Bake in preheated oven until pears are easily pierced with a fork, 35 to 50 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Qz8klXo9gEmW2arqw-t1DeQq6OE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230201-baked-pears-VAT-step-04-e3f8378799bc4af3a333f3b978be3646.jpg"
+      ],
+      "image": "assets/images/230201/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "49 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "97 mg",
+    "sugarContent": "35 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jUhtzsa8PP8u4ndCbj5jaFfmvp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/230201-baked-pears-VAT-Beauty-4x3-e7131aa359494155bb30736391c3d9f0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/230201/hero.webp",
+    "steps": [
+      "assets/images/230201/step_01.webp",
+      "assets/images/230201/step_02.webp",
+      "assets/images/230201/step_03.webp",
+      "assets/images/230201/step_04.webp"
+    ]
+  }
+}
