@@ -1,0 +1,101 @@
+{
+  "id": "266603",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/266603/oat-milk/",
+  "requested_url": "https://www.allrecipes.com/recipe/266603/oat-milk/",
+  "title": "Oat Milk",
+  "description": "This vegan oat milk is a perfect solution for your coffee, cereal, or just satisfying that cookie-dunking craving.",
+  "authors": [
+    "Buckwheat Queen"
+  ],
+  "date_published": "2019-04-04T00:13:11-04:00",
+  "date_modified": "2025-02-26T15:55:53-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup quick-cooking oats",
+    "water to cover",
+    "3 cups water",
+    "2 small dates, pitted"
+  ],
+  "steps": [
+    {
+      "text": "Soak oats in enough cool water to cover them. Cover and set aside for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain the oats using a mesh colander. Combine oats, 3 cups water, and dates in a large bowl. Allow to sit undisturbed until skin on the dates softens, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer oat mixture to a blender. Pulse the mixture a few times and then leave on medium-high speed until completely smooth, about 1 minute. Drain oat milk through a nut bag or cheesecloth to remove all solids. Serve cold or warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/b6SiwrUfNnG93oeA3RtxlXjveKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-279-42bb9d4a970d4abaa34cdee4eac80afc.jpg"
+      ],
+      "image": "assets/images/266603/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "177 kcal",
+    "carbohydrateContent": "34 g",
+    "fiberContent": "5 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "13 mg",
+    "sugarContent": "6 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/rck0nSFc-K3AjnAEN.mp4",
+    "description": "Such a simple milk to make from scratch and have on hand at home. Healthy, easy, and sweetened with dates - this non-dairy milk is a winner. ",
+    "duration": "PT50S",
+    "name": "Oat Milk",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/rck0nSFc/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:36:24-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/b6SiwrUfNnG93oeA3RtxlXjveKI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-279-42bb9d4a970d4abaa34cdee4eac80afc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/266603/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/266603/step_03.webp"
+    ]
+  }
+}

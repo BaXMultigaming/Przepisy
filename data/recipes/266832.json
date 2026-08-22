@@ -1,0 +1,85 @@
+{
+  "id": "266832",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/266832/strawberries-romanoff/",
+  "requested_url": "https://www.allrecipes.com/recipe/266832/strawberries-romanoff/",
+  "title": "Strawberries Romanoff",
+  "description": "Strawberries Romanoff is essentially a fancy way of serving strawberries with whipped cream with different flavors. It is simply delicious.",
+  "authors": [
+    "steph"
+  ],
+  "date_published": "2020-06-19T00:30:56-04:00",
+  "date_modified": "2024-05-07T16:07:57-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Dessert"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup sour cream",
+    "3 tablespoons brown sugar",
+    "1 tablespoon brandy",
+    "0.5 cup heavy cream",
+    "3 tablespoons white sugar",
+    "4 cups fresh strawberries"
+  ],
+  "steps": [
+    {
+      "text": "Combine sour cream, brown sugar, and brandy in a bowl and mix to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat cream in a chilled glass or metal bowl using an electric mixer until frothy. Add white sugar gradually, continuing to beat until whipped cream is thick. Fold whipped cream into sour cream mixture and blend well. Serve with fresh strawberries.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "300 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "53 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "31 mg",
+    "sugarContent": "27 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vYB5v7Np6TvI52F4_2wp_gqH1QA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5615453_Strawberries-Romanoff-4x3-11d5687a2736413c99dcb3592ff45b13.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/266832/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

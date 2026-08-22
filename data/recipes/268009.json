@@ -1,0 +1,81 @@
+{
+  "id": "268009",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/268009/instant-pot-creamed-corn/",
+  "requested_url": "https://www.allrecipes.com/recipe/268009/instant-pot-creamed-corn/",
+  "title": "Instant Pot® Creamed Corn",
+  "description": "The use of an Instant Pot® allows you to make amazing creamed corn without anything from a can. Fresh corn is best, but canned corn works as well.",
+  "authors": [
+    "thedailygourmet"
+  ],
+  "date_published": "2020-06-19T00:32:20-04:00",
+  "date_modified": "2020-06-19T00:32:20-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 ears sweet corn, shucked and kernels cut off",
+    "4 ounces cream cheese",
+    "2 ounces milk",
+    "1 tablespoon sugar",
+    "1 pinch salt",
+    "1 pinch ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Heat a multi-functional pressure cooker (such as Instant Pot®) on the normal slow cooker function.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine corn kernels, cream cheese, and milk in the Instant Pot®. Cook until cream cheese has melted, stirring often, 5 to 8 minutes. Stir in sugar, salt, and pepper and adjust seasoning to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "197 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "143 mg",
+    "sugarContent": "7 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pQvY8MLJ_F-16QcHMSxj4F5pObU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8013446-0dc7507214be494aa30cf43c1c3da542.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/268009/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "266821",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/266821/spanish-gazpacho/",
+  "requested_url": "https://www.allrecipes.com/recipe/266821/spanish-gazpacho/",
+  "title": "Spanish Gazpacho",
+  "description": "This classic Spanish gazpacho with tomatoes, cucumber, and bell pepper is blended with olive oil to make a rich and refreshing chilled soup. Perfect for summer!",
+  "authors": [
+    "Luis Luna"
+  ],
+  "date_published": "2020-04-15T01:09:20-04:00",
+  "date_modified": "2025-01-21T18:11:49-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Spanish"
+  ],
+  "regions": [
+    "Spanish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds tomatoes, peeled and halved",
+    "1 cucumber, peeled and sliced",
+    "1 green bell pepper, sliced",
+    "0.5 onion, sliced",
+    "1.5 tablespoons red wine vinegar",
+    "1 clove garlic",
+    "salt to taste",
+    "0.25 cup extra-virgin olive oil",
+    "0.25 cup cold water, or as needed",
+    "0.5 onion, chopped",
+    "1 green bell pepper, chopped",
+    "1 cucumber, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomatoes, cucumber, bell pepper, onion, vinegar, garlic, and salt in the bowl of a food processor; pulse until blended. Pour olive oil in slowly, with the processor running, until gazpacho is smooth. Add small amounts of cold water as needed to achieve desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve gazpacho chilled with chopped onion, bell pepper, and cucumber sprinkled over each serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/wQbcOjbIeSUigMKCAHmnjBdi47s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5589803-a80da421e3cf4066a8c0274df31a0931.jpg"
+      ],
+      "image": "assets/images/266821/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "104 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "28 mg",
+    "sugarContent": "5 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "14"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Wq0IW1QC-ma1DlVvV.mp4",
+    "description": "What's better on a hot summer's day than a classic chilled gazpacho? Serve this traditional Spanish gazpacho chilled in a glass or a bowl. You can also serve in shot glasses for an easy, make-ahead summer appetizer!",
+    "duration": "PT53S",
+    "name": "Spanish Gazpacho",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Wq0IW1QC/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:26:03-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wQbcOjbIeSUigMKCAHmnjBdi47s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5589803-a80da421e3cf4066a8c0274df31a0931.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/266821/hero.webp",
+    "steps": [
+      null,
+      "assets/images/266821/step_02.webp"
+    ]
+  }
+}

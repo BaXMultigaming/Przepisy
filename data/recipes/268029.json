@@ -1,0 +1,103 @@
+{
+  "id": "268029",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/268029/chef-johns-apple-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/268029/chef-johns-apple-butter/",
+  "title": "Chef John&#39;s Apple Butter",
+  "description": "This recipe for apple butter combines chopped apples with sugar and spices in a slow cooker. Simmer all day until rich and concentrated for a fabulous fruity spread!",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2018-09-12T02:05:42-04:00",
+  "date_modified": "2026-01-06T11:50:07-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT600M",
+  "total_time": "PT615M",
+  "yield": [
+    "40",
+    "5 cups"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 pounds Granny Smith apples, cored and cut into 1-inch pieces",
+    "1.5 cups white sugar",
+    "0.5 cup brown sugar",
+    "1 teaspoon salt",
+    "2 teaspoons ground cinnamon",
+    "0.125 teaspoon freshly grated nutmeg",
+    "0.5 teaspoon ground allspice",
+    "0.25 cup apple cider vinegar",
+    "1 splash water"
+  ],
+  "steps": [
+    {
+      "text": "Place apple pieces into a large slow cooker. Add white sugar, brown sugar, salt, cinnamon, nutmeg, allspice, and vinegar. Add water and mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on High until apples are starting to soften and release liquid, 1 to 2 hours. Reduce heat to Low and cook, uncovered, until all the apple flesh is dissolved, 5 to 6 hours. Stir occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Puree using an immersion blender until smooth. Continue cooking, stirring occasionally, until darkened and thick, about 4 hours more. Pass apple butter through a strainer if desired. Seal in a glass container and refrigerate until cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/grqEaMWD7yXNOxQqgLMuI1nOOPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/268029-chef-johns-apple-butter-DDMFS-Beauty-4x3-15d774d14f294b5fa609cb5acce8d3cf.jpg"
+      ],
+      "image": "assets/images/268029/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "2 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "75 mg",
+    "sugarContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "133"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://cdn.jwplayer.com/videos/8X8A8yc7-K3AjnAEN.mp4",
+    "description": "In this video, Chef John shows you how to make apple butter. Move over, apple sauce. Apple butter is basically a spreadable apple pie filling, only better. Though cooking time is long, it's super easy and pretty hands-free.",
+    "duration": "PT7M12S",
+    "name": "Chef John's Apple Butter Recipe",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/8X8A8yc7/thumbnails/cyBf4du8.jpg?width=1280",
+    "uploadDate": "2023-04-17T14:39:41-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/grqEaMWD7yXNOxQqgLMuI1nOOPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/268029-chef-johns-apple-butter-DDMFS-Beauty-4x3-15d774d14f294b5fa609cb5acce8d3cf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/268029/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/268029/step_03.webp"
+    ]
+  }
+}

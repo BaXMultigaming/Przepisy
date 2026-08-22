@@ -1,0 +1,91 @@
+{
+  "id": "267146",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/267146/blueberry-yogurt-popsicles/",
+  "requested_url": "https://www.allrecipes.com/recipe/267146/blueberry-yogurt-popsicles/",
+  "title": "Blueberry Yogurt Popsicles",
+  "description": "This homemade blueberry yogurt popsicle recipe, made with vanilla yogurt, fresh blueberries, and sugar, makes a refreshing and colorful frozen dessert.",
+  "authors": [
+    "Magda"
+  ],
+  "date_published": "2020-06-19T00:31:12-04:00",
+  "date_modified": "2025-09-08T21:25:30-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT490M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups drinkable vanilla yogurt",
+    "2 cups fresh blueberries",
+    "0.25 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine yogurt, blueberries, and sugar in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour mixture into popsicle molds; freeze until solid, 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/C2w-uiGH6_zYuULED5zvVEeJOgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5612744-e6d487b29827402fb119b815706be410.jpg"
+      ],
+      "image": "assets/images/267146/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "48 mg",
+    "sugarContent": "26 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/NjsPfL1N-K3AjnAEN.mp4",
+    "description": "A quick blueberry popsicle made with only 3 ingredients for a healthy treat for your little ones. Grown-ups will love it, too. ",
+    "duration": "PT50S",
+    "name": "Blueberry-Yogurt Popsicles",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/NjsPfL1N/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:35:42-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/C2w-uiGH6_zYuULED5zvVEeJOgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5612744-e6d487b29827402fb119b815706be410.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/267146/hero.webp",
+    "steps": [
+      null,
+      "assets/images/267146/step_02.webp"
+    ]
+  }
+}
