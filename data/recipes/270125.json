@@ -1,0 +1,86 @@
+{
+  "id": "270125",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270125/parsnip-and-japanese-sweet-potato-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/270125/parsnip-and-japanese-sweet-potato-soup/",
+  "title": "Japanese Sweet Potato and Parsnip Soup",
+  "description": "Japanese sweet potato pairs up with parsnips and carrots to create this naturally sweet, creamy, and delicious vegetable soup.",
+  "authors": [
+    "Diana Moutsopoulos"
+  ],
+  "date_published": "2019-04-04T00:15:41-04:00",
+  "date_modified": "2023-08-23T13:17:18-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large parsnips, peeled and sliced",
+    "1 large Japanese sweet potato, peeled and cubed",
+    "3 carrots, peeled and sliced",
+    "0.5 small onion, sliced",
+    "2 cups water, or as needed",
+    "2 teaspoons chicken bouillon base",
+    "1 teaspoon ground thyme",
+    "0.5 cup whole milk",
+    "salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine parsnips, Japanese sweet potato, carrots, and onion in a saucepan. Add enough water to just cover. Place over medium heat and bring to a boil. Stir in bouillon base and thyme. Reduce heat and cook, covered, until vegetables are tender, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove pan from heat. Use an immersion blender to puree until no chunks remain and soup is smooth. Pour in milk and puree to combine. Add additional milk or water, if needed, to achieve desired consistency. Return to heat to warm through, about 5 minutes. Taste and add salt and pepper as desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "308 mg",
+    "sugarContent": "10 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/F4WW6t-jX6zm5z0LtqqPZj1qeMU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6269718-0e7de611fa694f778ec4d829c1129a5d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270125/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "269426",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/269426/eggnog-waffles/",
+  "requested_url": "https://www.allrecipes.com/recipe/269426/eggnog-waffles/",
+  "title": "Eggnog Waffles",
+  "description": "Eggnog is the star ingredient in these crispy golden waffles that are ready in under 30 minutes.",
+  "authors": [
+    "ILEAGOR"
+  ],
+  "date_published": "2018-12-07T03:50:17-05:00",
+  "date_modified": "2023-12-14T17:52:34-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 waffles"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "1 teaspoon baking powder",
+    "1 teaspoon baking soda",
+    "1 teaspoon salt",
+    "2 cups eggnog",
+    "2 eggs, beaten",
+    "4 tablespoons butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "Mix flour, baking powder, baking soda, and salt together in a bowl. Add eggnog, eggs, and butter; mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat a waffle iron according to manufacturer's instructions. Pour 1/4 of the batter into the preheated iron and cook until waffle is crisp and golden, about 5 minutes. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "537 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "199 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "1205 mg",
+    "sugarContent": "11 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sWpIYVbsTndl2RshvZk9L9fjDOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6124982-eggnog-waffles-Chef-Mo-4x3-1-fcc2de27f09b48aba254ab09c6612754.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/269426/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

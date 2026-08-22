@@ -1,0 +1,86 @@
+{
+  "id": "269425",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/269425/instant-pot-pear-applesauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/269425/instant-pot-pear-applesauce/",
+  "title": "Instant Pot® Pear-Applesauce",
+  "description": "An Instant Pot® delivers fruity pear-applesauce in just minutes, for a quick and easy sweet snack with no added sugar.",
+  "authors": [
+    "Buckwheat Queen"
+  ],
+  "date_published": "2019-07-10T03:13:00-04:00",
+  "date_modified": "2022-01-14T01:27:59-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT13M",
+  "total_time": "PT38M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Snack",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons lemon juice",
+    "2.25 pounds Golden Delicious apples",
+    "1.125 pounds red Anjou pears",
+    "0.25 cup water",
+    "1 cinnamon stick"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large bowl halfway with water. Add lemon juice and mix. Peel, core, and slice apples and pears, putting them in the lemon water to prevent browning.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain fruit; do not rinse. Place drained fruit, 1/4 cup water, and cinnamon stick in a multi-functional electric pressure cooker (such as Instant Pot®). Set the Manual mode to high pressure according to manufacturer's instructions; set timer for 3 minutes. Allow 10 to 15 minutes for pressure to build.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Release pressure using the natural-release method according to manufacturer's instructions, up to 15 minutes. Unlock lid. Remove and discard cinnamon stick. Pass the cooked fruit through a food mill; sauce will be slightly coarse. Blend fruit with an immersion blender for a smoother sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "70 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "4 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "2 mg",
+    "sugarContent": "13 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/g7L4Gs_ILqIGoBTW2hkzlfpgsIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6071587-dc6f74028708445ab97d302ed9e0e5c2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/269425/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

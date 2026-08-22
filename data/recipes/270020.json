@@ -1,0 +1,75 @@
+{
+  "id": "270020",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270020/quick-and-easy-chicken-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/270020/quick-and-easy-chicken-soup/",
+  "title": "Quick and Easy Chicken Soup",
+  "description": "For a warming weeknight meal, try this quick and easy recipe for a brothy chicken soup full of carrots, peas, and egg noodles.",
+  "authors": [
+    "Klayr Clark"
+  ],
+  "date_published": "2019-04-04T00:15:37-04:00",
+  "date_modified": "2019-04-04T00:15:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups water",
+    "3 tablespoons chicken soup base",
+    "1 pound egg noodles",
+    "1.5 pounds boneless chicken breast cut into 1-inch cubes",
+    "1.5 cups frozen peas",
+    "1 cup chopped carrot",
+    "1 tablespoon ginger",
+    "1 teaspoon ground mustard",
+    "1 teaspoon garlic salt"
+  ],
+  "steps": [
+    {
+      "text": "Combine water and soup base in a 2-quart pan and bring to a boil, about 5 minutes. Add noodles. Add chicken, peas, and carrots. Add ginger, mustard, and salt. Boil soup until noodles are tender, about 10 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "654 kcal",
+    "carbohydrateContent": "87 g",
+    "cholesterolContent": "186 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "52 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "2196 mg",
+    "sugarContent": "5 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PZ7bI8m8rjltM5Rr1gkHT5hEh4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6306116-9e6be9ca66b743cf96884ee86b39f1cc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270020/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

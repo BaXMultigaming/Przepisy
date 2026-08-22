@@ -1,0 +1,91 @@
+{
+  "id": "270534",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270534/buffalo-chicken-fritters/",
+  "requested_url": "https://www.allrecipes.com/recipe/270534/buffalo-chicken-fritters/",
+  "title": "Buffalo Chicken Fritters",
+  "description": "All the flavors of Buffalo wings are tucked into these pan-fried fritters. Drizzle with ranch dressing if you like!",
+  "authors": [
+    "Soup Loving Nicole"
+  ],
+  "date_published": "2020-03-20T02:50:30-04:00",
+  "date_modified": "2022-02-14T20:23:33-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT70M",
+  "yield": [
+    "6",
+    "6 fritters"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg",
+    "2 cups shredded cooked chicken",
+    "1 cup panko bread crumbs",
+    "0.33333334326744 cup Buffalo wing sauce",
+    "0.33333334326744 cup minced celery",
+    "0.25 cup crumbled blue cheese",
+    "0.25 cup minced carrot",
+    "0.25 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Whisk egg in a large mixing bowl. Add chicken, bread crumbs, wing sauce, celery, blue cheese, and carrot. Mix well until evenly combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Form mixture into 6 patties and place on a baking sheet. Freeze until firm, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Add fritters and cook, undisturbed, about 5 minutes. Carefully flip fritters and cook for 5 minutes more. Transfer patties to a paper towel-lined plate. Repeat with any remaining fritters.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "257 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "74 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "589 mg",
+    "sugarContent": "1 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8iQhyjCwHIxt3hDDPmBW2bc3NYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6331342-8746d49461d348ca9033a341e3a3148f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270534/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

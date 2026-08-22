@@ -1,0 +1,98 @@
+{
+  "id": "270577",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270577/beer-floats/",
+  "requested_url": "https://www.allrecipes.com/recipe/270577/beer-floats/",
+  "title": "Beer Floats",
+  "description": "Beer floats are the next best drink you&#39;ve never had. Play around with Chef John&#39;s two winning combos: stout with coffee ice cream and raspberry sour with vanilla.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-06-17T22:16:23-04:00",
+  "date_modified": "2023-01-07T23:57:26-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup chocolate stout beer",
+    "1 scoop coffee ice cream",
+    "1 pinch unsweetened cocoa powder",
+    "1 cup Belgian-style raspberry sour beer",
+    "1 scoop vanilla ice cream"
+  ],
+  "steps": [
+    {
+      "text": "Version 1: Pour stout into a British pint glass and scoop coffee ice cream on top. Garnish with a dusting of cocoa powder.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Version 2: Pour raspberry beer into a pint glass; top with vanilla ice cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add a straw to each float and serve with spoons alongside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KD9W0A9I0I2ToQUzzGwoaj8CBcs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6348105-beer-floats-Chef-John-1x1-1-14d7b7d631304810b9633437aade92f2.jpg"
+      ],
+      "image": "assets/images/270577/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "256 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "56 mg",
+    "sugarContent": "12 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/EcajUDkB-K3AjnAEN.mp4",
+    "description": "Crack open a cold…ice cream float? In this video, Chef John shows you his twist on the classic dessert with beer floats. Instead of using a soft drink, he places a scoop of ice cream into a dark stout and a fruity beer. The results are a bitter and sweet delight. The fruity beer has a higher foam ratio than the stout, so make sure to have a glass that can handle the foam. This recipe will satisfy any beer drinker who has a sweet tooth.",
+    "duration": "PT4M29S",
+    "name": "Beer Floats",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/EcajUDkB/poster.jpg?width=1280",
+    "uploadDate": "2023-03-01T15:18:38-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KD9W0A9I0I2ToQUzzGwoaj8CBcs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6348105-beer-floats-Chef-John-1x1-1-14d7b7d631304810b9633437aade92f2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270577/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/270577/step_03.webp"
+    ]
+  }
+}

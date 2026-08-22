@@ -1,0 +1,98 @@
+{
+  "id": "270102",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/270102/crispy-yuca-fries/",
+  "requested_url": "https://www.allrecipes.com/recipe/270102/crispy-yuca-fries/",
+  "title": "Crispy Yuca Fries",
+  "description": "Chef John lays down the simple steps for making crispy yuca fries that will satisfy even the staunchest french fry fanatic.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2019-01-15T02:30:28-05:00",
+  "date_modified": "2025-02-18T13:04:50-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 yuca (cassava) root",
+    "olive oil for frying"
+  ],
+  "steps": [
+    {
+      "text": "Peel most of the yuca, trimming off the tough end. Cut yuca in thirds. Stand each section on its end and carefully cut lengthwise into quarters.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place yuca into a large saucepan of cold water. Bring to a boil over high heat; reduce heat to medium and simmer until just barely tender, 5 to 6 minutes. Drain yuca on a paper towel-lined plate. Let cool to room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Add yuca and fry until golden brown and crispy, 2 to 3 minutes per side. Transfer to a paper towel-lined plate and let rest for a few minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/iTdsLns9TOGfHwkTsgqFFBXQ818=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6273048-6e5060ad651a427b911dacb0b3813553.jpg"
+      ],
+      "image": "assets/images/270102/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "223 kcal",
+    "carbohydrateContent": "39 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "2 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/TDohJQA0-K3AjnAEN.mp4",
+    "description": "Thanks to their superior fiber content and lower glycemic index, these crispy yuca fries are often presented as a healthier alternative to fried potatoes, but you might find the roles reversed.",
+    "duration": "PT6M33S",
+    "name": "Crispy Yuca Fries",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/TDohJQA0/poster.jpg?width=1280",
+    "uploadDate": "2023-04-17T16:39:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iTdsLns9TOGfHwkTsgqFFBXQ818=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6273048-6e5060ad651a427b911dacb0b3813553.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/270102/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/270102/step_03.webp"
+    ]
+  }
+}
