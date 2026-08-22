@@ -1,0 +1,91 @@
+{
+  "id": "240335",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240335/banana-and-nutella-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/240335/banana-and-nutella-french-toast/",
+  "title": "Banana and Nutella French Toast",
+  "description": "French toast is made in a chocolate milk batter and topped with bananas and Nutella for an extra breakfast or dessert treat.",
+  "authors": [
+    "Nico"
+  ],
+  "date_published": "2015-11-19T02:17:33-05:00",
+  "date_modified": "2023-01-11T16:55:53-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.25 cup chocolate-hazelnut spread (such as Nutella®)",
+    "4 slices bread",
+    "1 banana, sliced",
+    "0.25 cup chocolate milk",
+    "2 eggs, beaten",
+    "1 tablespoon vanilla extract",
+    "0.5 teaspoon ground cinnamon",
+    "2 tablespoons butter"
+  ],
+  "steps": [
+    {
+      "text": "Spread chocolate-hazelnut spread on 1 side of each slice of bread. Arrange banana slices over chocolate-hazelnut spread on 2 of the slices. Place remaining slices atop bananas to form 2 sandwiches.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk chocolate milk, eggs, vanilla extract, and cinnamon together in a bowl. Dip sandwiches in milk mixture and turn as necessary to coat completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium-low heat. Cook sandwiches in hot butter until both sides are golden brown and banana and chocolate spread have softened, 4 to 6 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "563 kcal",
+    "carbohydrateContent": "63 g",
+    "cholesterolContent": "219 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "552 mg",
+    "sugarContent": "31 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JOciQP-tlTpkDd_6v8jDFpLqo1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1930006-2ac0996496d140369af9d91ee6fdc242.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240335/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

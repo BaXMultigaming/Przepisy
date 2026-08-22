@@ -1,0 +1,99 @@
+{
+  "id": "240250",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240250/cauliflower-popcorn/",
+  "requested_url": "https://www.allrecipes.com/recipe/240250/cauliflower-popcorn/",
+  "title": "Cauliflower Popcorn",
+  "description": "Cauliflower, olive oil, and garlic salt make this quick three-ingredient, easy cauliflower &#34;popcorn&#34; recipe. It&#39;s a kid-pleasing after-school snack.",
+  "authors": [
+    "Meg Mitchell"
+  ],
+  "date_published": "2016-10-14T09:02:06-04:00",
+  "date_modified": "2025-04-23T13:20:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Snack",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "0.5 teaspoon garlic salt",
+    "1 large head cauliflower, broken into small florets"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 400 degrees F (200 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk olive oil and garlic salt together in a large bowl; add cauliflower and toss to completely coat. Spread cauliflower onto a baking sheet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until golden and tender, 15 to 18 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ZdQQGVfvxENIi_RC82NCCGIgDoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2174193-b18a0bef7b514ab8bae56c93a5c73949.jpg"
+      ],
+      "image": "assets/images/240250/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "83 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "5 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "290 mg",
+    "sugarContent": "5 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "48"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/e8i81RuS-K3AjnAEN.mp4",
+    "description": "In this video, we'll show you another way to enjoy cauliflower. We'll cut up the cauliflower into small florets, toss with olive oil, garlic salt and roast in a hot oven until golden and tender. It makes for a perfect vegetarian snack or appetizer.",
+    "duration": "PT1M5S",
+    "name": "Cauliflower Popcorn",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/e8i81RuS/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T07:38:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZdQQGVfvxENIi_RC82NCCGIgDoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2174193-b18a0bef7b514ab8bae56c93a5c73949.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240250/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/240250/step_03.webp"
+    ]
+  }
+}

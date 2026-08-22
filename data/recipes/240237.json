@@ -1,0 +1,97 @@
+{
+  "id": "240237",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240237/celery-root-puree/",
+  "requested_url": "https://www.allrecipes.com/recipe/240237/celery-root-puree/",
+  "title": "Celery Root Puree",
+  "description": "Celery root pureed with butter and a squeeze of lemon creates a pleasant side dish that is a perfect alternative to mashed potatoes.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2016-01-21T02:00:41-05:00",
+  "date_modified": "2026-04-05T08:09:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 large celery root, peeled and cut into chunks",
+    "1 lemon, juiced, divided",
+    "kosher salt to taste",
+    "0.33333334326744 cup heavy whipping cream",
+    "2 tablespoons butter",
+    "1 pinch cayenne pepper, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place celery root, 1/2 of the lemon juice, and kosher salt in a large pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until tender, 15 to 20 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend celery root, cream, and butter in a blender until smooth. Push puree into a bowl through a fine-mesh strainer with a wooden spoon or spatula until puree is completely smooth. Drizzle remaining lemon juice into puree and season with salt and cayenne pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Jl6hX3vEaxg4-dEE-KiM8IhaDeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3574639-celery-root-puree-Allrecipes-Magazine-1x1-1-ed844f6049a64eea82ff946f6a591da1.jpg"
+      ],
+      "image": "assets/images/240237/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "139 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "28 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "233 mg",
+    "sugarContent": "2 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "23"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/9Cfv6Tet-K3AjnAEN.mp4",
+    "description": "0780 Celery Root Puree",
+    "duration": "PT5M38S",
+    "name": "Chef John's Celery Root Puree",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/9Cfv6Tet/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T00:45:57-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Jl6hX3vEaxg4-dEE-KiM8IhaDeU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3574639-celery-root-puree-Allrecipes-Magazine-1x1-1-ed844f6049a64eea82ff946f6a591da1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240237/hero.webp",
+    "steps": [
+      null,
+      "assets/images/240237/step_02.webp"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "240422",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240422/polar-express-hot-chocolate/",
+  "requested_url": "https://www.allrecipes.com/recipe/240422/polar-express-hot-chocolate/",
+  "title": "Polar Express Hot Chocolate",
+  "description": "Warm up this winter with a rich cup of hot chocolate made with cream, sweetened condensed milk, and chocolate chips.",
+  "authors": [
+    "Di"
+  ],
+  "date_published": "2018-06-08T10:18:20-04:00",
+  "date_modified": "2025-12-10T16:28:54-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups milk",
+    "1 (14 ounce) can sweetened condensed milk",
+    "1.5 cups heavy whipping cream",
+    "1.5 cups bittersweet chocolate chips",
+    "1 teaspoon vanilla extract",
+    "0.125 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/Ct_-9hZArRiyPylrKEouZerrHpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240422-polar-express-hot-chocolate-DDMFS-step-01-9df96c9380044a6d812ae3f095e5b0a2.jpg"
+      ],
+      "image": "assets/images/240422/step_01.webp"
+    },
+    {
+      "text": "Combine milk, sweetened condensed milk, cream, chocolate chips, vanilla extract, and salt together in a large pot over low heat; cook, stirring constantly, until chocolate is melted, 30 to 40 minutes. Taste and add more milk to adjust flavor if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/3PefkhZ4Bsvbp6bI7HAAEr8U2t4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240422-polar-express-hot-chocolate-DDMFS-step-02-575657ad7cfb42c6a4893ba7d1afde45.jpg"
+      ],
+      "image": "assets/images/240422/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "525 kcal",
+    "carbohydrateContent": "50 g",
+    "cholesterolContent": "76 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "154 mg",
+    "sugarContent": "45 g",
+    "fatContent": "32 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qqhMXe5TndkehITg00MYGNojry4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240422-polar-express-hot-chocolate-DDMFS-beauty-4x3-4f61aaf4ddcf4b76a68a5c73ef963bf2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240422/hero.webp",
+    "steps": [
+      "assets/images/240422/step_01.webp",
+      "assets/images/240422/step_02.webp"
+    ]
+  }
+}

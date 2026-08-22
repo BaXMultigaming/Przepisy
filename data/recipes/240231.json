@@ -1,0 +1,77 @@
+{
+  "id": "240231",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240231/caesar-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/240231/caesar-salad-dressing/",
+  "title": "Caesar Salad Dressing",
+  "description": "This Caeser salad dressing is quick and easy to make in a blender with a handful of pantry ingredients like garlic, lemon juice, egg, and olive oil.",
+  "authors": [
+    "Angel Harper"
+  ],
+  "date_published": "2020-06-19T00:01:29-04:00",
+  "date_modified": "2023-10-23T13:54:55-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup olive oil",
+    "1 egg",
+    "4 teaspoons white sugar",
+    "3 cloves garlic, or more to taste",
+    "1 tablespoon lemon juice",
+    "2 teaspoons Worcestershire sauce",
+    "0.25 teaspoon prepared horseradish, or more to taste",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend together oil, egg, sugar, garlic, lemon juice, Worcestershire sauce, horseradish, salt, and black pepper in a blender until dressing is smooth. Refrigerate until chilled, at least 2 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "93 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "65 mg",
+    "sugarContent": "2 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/g9HnhbTpZJg0VQ9H_TcGEODNumU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1849577-219e1f9589cb4da8a8ac6cccd4b77cc9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240231/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

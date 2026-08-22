@@ -1,0 +1,88 @@
+{
+  "id": "240472",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240472/marias-tomato-basil-spaghetti-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/240472/marias-tomato-basil-spaghetti-sauce/",
+  "title": "Maria&#39;s Tomato-Basil Spaghetti Sauce",
+  "description": "This recipe for homemade tomato sauce is done in under one hour, making it a great option for when you need spaghetti sauce on the fly.",
+  "authors": [
+    "Cara"
+  ],
+  "date_published": "2018-06-08T10:18:25-04:00",
+  "date_modified": "2025-02-04T14:09:21-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 pounds Roma (plum) tomatoes, peeled and chopped",
+    "0.5 cup extra-virgin olive oil",
+    "1 large onion, minced",
+    "0.25 cup grated Parmesan cheese",
+    "4 sprigs fresh basil, or more to taste, chopped",
+    "3 cloves garlic, minced",
+    "2 tablespoons red wine",
+    "coarse salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Puree tomatoes in a food processor until smooth; strain through a fine-mesh sieve into a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large, deep pot over medium heat. Stir strained tomatoes, onion, Parmesan cheese, basil, garlic, and red wine together in the pot with the oil; season with salt and pepper. Bring the mixture to a boil, reduce heat to medium-low, and cook at a simmer until thickened, about 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "82 mg",
+    "sugarContent": "13 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZzNnQIbYiXuaAvpLv3Y0gIqUquk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2074946-b829fdda240146cd8d32c5df02a040f3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240472/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

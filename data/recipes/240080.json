@@ -1,0 +1,70 @@
+{
+  "id": "240080",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240080/secret-simple-hot-chocolate/",
+  "requested_url": "https://www.allrecipes.com/recipe/240080/secret-simple-hot-chocolate/",
+  "title": "Secret Simple Hot Chocolate",
+  "description": "It doesn&#39;t get more simple than milk, sugar, and chocolate syrup to make this recipe for homemade hot chocolate.",
+  "authors": [
+    "Zoe"
+  ],
+  "date_published": "2020-06-19T00:01:24-04:00",
+  "date_modified": "2022-09-28T13:43:20-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66666668653488 cup milk",
+    "0.25 cup white sugar",
+    "2 teaspoons chocolate syrup"
+  ],
+  "steps": [
+    {
+      "text": "Stir milk and sugar together in a microwave-safe glass or mug. Microwave until hot, about 2 minutes. Stir in chocolate syrup until completely incorporated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "310 kcal",
+    "carbohydrateContent": "66 g",
+    "cholesterolContent": "13 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "76 mg",
+    "sugarContent": "64 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/h7Juee5uKwa3CDKL0i6K8uLLkFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1666270-3f3bb30e6e9a407892cd5d94af666352.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240080/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "240483",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240483/arabic-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/240483/arabic-rice/",
+  "title": "Arabic Rice",
+  "description": "This casserole-style beef and rice recipe is made in a skillet and topped with toasted pine nuts and lemon juice.",
+  "authors": [
+    "Brit_abroad1969"
+  ],
+  "date_published": "2019-07-10T03:05:56-04:00",
+  "date_modified": "2022-01-14T01:21:24-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT35M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 pounds lean ground beef",
+    "3 tablespoons garlic powder",
+    "2 tablespoons ground cinnamon",
+    "1 tablespoon ground allspice",
+    "4 cups water",
+    "2 cups long-grain rice",
+    "1 teaspoon beef bouillon granules",
+    "0.25 cup pine nuts",
+    "1 squeeze lemon juice, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium heat. Break ground beef into small pieces and add to the skillet. Season beef with garlic powder, ground cinnamon, and allspice; cook and stir until beef is completely browned and crumbly, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir water, rice, and beef bouillon with the beef; bring to a simmer and cook until the rice is soft and fluffy, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a small skillet over high heat; toast pine nuts in the skillet, swirling to keep pine nuts moving, until browned, 2 to 4 minutes. Sprinkle toasted pine nuts and lemon juice over the beef and rice mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "377 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "74 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "584 mg",
+    "sugarContent": "2 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oVw6Mu0C9eb0Ne1eXJ1OI3oV2b8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1975613-81c45d396ee046f385022c4502151870.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240483/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

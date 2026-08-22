@@ -1,0 +1,99 @@
+{
+  "id": "240509",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240509/baked-chili-hot-dogs/",
+  "requested_url": "https://www.allrecipes.com/recipe/240509/baked-chili-hot-dogs/",
+  "title": "Baked Chili Hot Dogs",
+  "description": "Hot dogs in buns are topped with HORMEL® Chili with Beans and shredded Cheddar cheese then baked until piping hot.",
+  "authors": [
+    "HORMEL CHILIR"
+  ],
+  "date_published": "2014-12-04T02:00:26-05:00",
+  "date_modified": "2026-07-14T13:49:37-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 hot dogs",
+    "6 split hot dog buns",
+    "1 (15 ounce) can HORMEL® Chili With Beans",
+    "1 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients. Heat oven to 350 degrees F. Grease 9 x 13-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/cxxNlrXUYNNCPWxG51MbBfSkuMo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240509-baked-chili-hot-dogs-VAT-005-step-01-11c832d7ad9848a6a6e3a594de1425af.jpg"
+      ],
+      "image": "assets/images/240509/step_01.webp"
+    },
+    {
+      "text": "Heat hot dogs according to package directions. Arrange hot dog buns in baking dish, cut side up. Place hot dogs in buns. Top with chili. Sprinkle with cheese. Tent pan with foil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/8t1zwZZN9af91N52yyHfyj4gNqU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240509-baked-chili-hot-dogs-VAT-006-step-02-02partiallycovered-b98bf7d06a724a5bb8273dc36aa9d89d.jpg"
+      ],
+      "image": "assets/images/240509/step_02.webp"
+    },
+    {
+      "text": "Bake 15 to 20 minutes or until hot and cheese is melted.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/8CbakpkkXap9fHL-Z19VHO0emf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240509-baked-chili-hot-dogs-VAT-007-step-03-5d8c59dd54634885a4b60b45c78e9564.jpg"
+      ],
+      "image": "assets/images/240509/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "423 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "52 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1234 mg",
+    "sugarContent": "5 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "72"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5c2wh5IwEfilA1TA2YEMRJoxMl8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240509-baked-chili-hot-dogs-VAT-003-4x3-01medangle-8c44492cd0154e29a78ed59ff53f6df1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240509/hero.webp",
+    "steps": [
+      "assets/images/240509/step_01.webp",
+      "assets/images/240509/step_02.webp",
+      "assets/images/240509/step_03.webp"
+    ]
+  }
+}

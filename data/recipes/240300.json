@@ -1,0 +1,78 @@
+{
+  "id": "240300",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240300/spicy-buffalo-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/240300/spicy-buffalo-dip/",
+  "title": "Spicy Buffalo Dip",
+  "description": "Spicy Buffalo dip, made with Greek yogurt, plenty of hot sauce, and cayenne pepper, is a hot addition to the appetizer table; serve with chips and vegetables.",
+  "authors": [
+    "Michael Dixon"
+  ],
+  "date_published": "2020-06-19T00:01:34-04:00",
+  "date_modified": "2022-01-14T02:18:35-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup Greek yogurt",
+    "2 tablespoons hot sauce",
+    "1 tablespoon white sugar",
+    "1 teaspoon lemon juice",
+    "0.5 teaspoon cayenne pepper",
+    "1 pinch garlic powder",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Mix Greek yogurt, hot sauce, sugar, lemon juice, cayenne pepper, garlic powder, and salt together in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "24 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "120 mg",
+    "sugarContent": "2 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VI5x-_Vn7AQaOI9P99c7KIHc_QI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1856042-93979fe5f1d94e679a93d5eecee3c55e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240300/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

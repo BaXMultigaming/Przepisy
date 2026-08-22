@@ -1,0 +1,77 @@
+{
+  "id": "240050",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240050/habanero-simple-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/240050/habanero-simple-syrup/",
+  "title": "Habanero Simple Syrup",
+  "description": "Simple syrup infused with habanero peppers is a spicy and colorful addition to tequila-based cocktails or even lemonade.",
+  "authors": [
+    "Muffy"
+  ],
+  "date_published": "2020-06-19T00:01:22-04:00",
+  "date_modified": "2023-09-29T15:43:51-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT85M",
+  "yield": [
+    "16",
+    "8 fluid ounces"
+  ],
+  "categories": [
+    "Drink",
+    "Ingredient"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "1 cup white sugar",
+    "2 habanero peppers, quartered"
+  ],
+  "steps": [
+    {
+      "text": "Bring water to a boil in a saucepan. Slowly stir sugar into boiling water until sugar is dissolved, 2 to 3 minutes. Add habanero peppers to sugar-water mixture, reduce heat to medium-low, and simmer until syrup is thickened and pepper has slightly colored the syrup, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove saucepan from heat and let syrup cool, about 1 hour. Remove peppers from syrup and store syrup in a glass jar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "49 kcal",
+    "carbohydrateContent": "13 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/kmbgOiFg4kYpKB-mUV7PELehuZM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1938404-habanero-simple-syrup-Terry-Goff-Tripp-4x3-1-a145616c88134b8ba4da0d60afe032e4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240050/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "240111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240111/caldo-gallego/",
+  "requested_url": "https://www.allrecipes.com/recipe/240111/caldo-gallego/",
+  "title": "Caldo Gallego (Galecian Broth)",
+  "description": "Caldo gallego, a traditional Spanish soup full of turnips, turnip greens, white beans, ham, and sausage, makes a hearty and warm meal on a cold evening.",
+  "authors": [
+    "JMCCURTAIN"
+  ],
+  "date_published": "2018-02-09T10:00:46-05:00",
+  "date_modified": "2026-02-13T10:59:48-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT40M",
+  "total_time": "PT70M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "U.S.",
+    "Spanish"
+  ],
+  "regions": [
+    "U.S.",
+    "Spanish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 medium onion, minced",
+    "8 cloves garlic, minced",
+    "2 Spanish chorizo links, sliced",
+    "2 thick slices smoked ham, diced, or more to taste",
+    "3 medium potatoes, peeled and diced",
+    "2 medium turnips, peeled and diced",
+    "8 cups chicken stock",
+    "1 (15 ounce) can white cannellini beans",
+    "3 cups chopped turnip greens"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a stockpot over medium heat. Add onion and sauté until translucent, 5 to 10 minutes. Add garlic; cook and stir until fragrant, 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in chorizo and ham; cook and stir until lightly browned, 3 to 4 minutes. Add potatoes and turnips, then pour in stock and bring to a boil. Reduce the heat to medium-low, cover, and simmer until potatoes and turnips are tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Increase the heat to medium and stir in beans and greens; cook until greens are tender, at least 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "380 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "1743 mg",
+    "sugarContent": "4 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yofaF63_VLYJsYayY3QCkDZa91k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4570702-197b31c279ee44b79e49d199eb6d6bce.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240111/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

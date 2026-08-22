@@ -1,0 +1,96 @@
+{
+  "id": "240450",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240450/persian-style-pumpkin-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/240450/persian-style-pumpkin-stew/",
+  "title": "Persian-Style Pumpkin Stew",
+  "description": "This recipe adds delicious Persian flavors to a pumpkin and beef stew.",
+  "authors": [
+    "Soheila"
+  ],
+  "date_published": "2020-06-19T00:01:47-04:00",
+  "date_modified": "2020-06-19T00:01:47-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT90M",
+  "total_time": "PT110M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons vegetable oil, divided",
+    "0.5 pumpkin - peeled, seeded, and cut into 2-inch cubes",
+    "1 small onion, chopped",
+    "2 cloves garlic, minced",
+    "0.5 teaspoon ground turmeric",
+    "1 pound beef stew meat, cut into 1 inch cubes",
+    "2 cups water",
+    "0.5 teaspoon ground black pepper",
+    "12 pitted prunes",
+    "2 tablespoons vinegar",
+    "2 tablespoons sugar",
+    "2 teaspoons salt",
+    "0.5 teaspoon ground cinnamon",
+    "0.33333334326744 teaspoon saffron"
+  ],
+  "steps": [
+    {
+      "text": "Heat 1 tablespoon oil in skillet over medium high heat. Add pumpkin and saute until light golden brown, about 5 minutes",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat 2 tablespoons oil in a stock pot over medium high heat. Add onions and garlic and saute over medium-high heat until golden, about 5 minutes. Stir in tumeric. Add beef and saute until brown, about 5 minutes. Add water, salt, and pepper; bring to a boil, reduce heat, and simmer until beef is slightly tender, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir pumkin, prunes, vinegar, sugar, salt, and cinnamon to stock pot and simmer until beef and pumpkin are tender, about 45 minutes. Garnish with saffron.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "455 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "63 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1215 mg",
+    "sugarContent": "21 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FvTyzWoprQWbg67EuMYhgvoCIrA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2841290-d8a1d69e9b2e48ab950632389d8a3ef2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240450/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

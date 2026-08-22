@@ -1,0 +1,97 @@
+{
+  "id": "240419",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240419/aidan-special/",
+  "requested_url": "https://www.allrecipes.com/recipe/240419/aidan-special/",
+  "title": "Aidan Special",
+  "description": "Rye bread, Swiss cheese, bacon, tomato, and turkey are heated together in this hearty and filling sandwich perfect for cold days and evenings.",
+  "authors": [
+    "deli"
+  ],
+  "date_published": "2019-04-02T03:04:04-04:00",
+  "date_modified": "2019-04-02T03:04:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter, softened, or as needed",
+    "2 slices rye bread",
+    "4 slices Swiss cheese",
+    "2 ounces turkey breast, or more to taste",
+    "2 slices tomato",
+    "2 slices cooked bacon, or more to taste",
+    "1 ounce Russian salad dressing"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread butter on 1 side of each bread piece and place, butter-side down, into the skillet. Place 2 slices Swiss cheese on each bread slice; cook until cheese melts, 3 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place turkey and tomato slices in a separate skillet over medium heat; cook until warmed, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Layer turkey, bacon, and tomato onto 1 bread slice that will be the bottom of the sandwich. Spread Russian dressing over tomato layer; top with second bread slice creating a sandwich.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "904 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "178 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "54 g",
+    "saturatedFatContent": "30 g",
+    "sodiumContent": "1028 mg",
+    "sugarContent": "11 g",
+    "fatContent": "55 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5mLUg-9BrCZY6EWbdirq0dcDf_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1875085-00eaa48d8ee84669a5e68e8d00a06729.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240419/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

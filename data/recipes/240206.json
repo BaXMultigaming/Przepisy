@@ -1,0 +1,102 @@
+{
+  "id": "240206",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240206/simple-broccolini/",
+  "requested_url": "https://www.allrecipes.com/recipe/240206/simple-broccolini/",
+  "title": "Simple Broccolini",
+  "description": "Broccolini are blanched, then pan-fried with garlic and a squeeze of lemon juice for a vibrant side dish that&#39;s ready to serve in just 15 minutes.",
+  "authors": [
+    "JUMAHA"
+  ],
+  "date_published": "2018-06-08T10:18:00-04:00",
+  "date_modified": "2025-10-14T17:26:32-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1 bunch broccolini",
+    "2 tablespoons olive oil",
+    "1 clove garlic, minced",
+    "1 lemon wedge",
+    "1 pinch red pepper flakes",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place broccolini in a large skillet with about 2 inches of water; bring to a boil and cook until bright green, 1 to 2 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/484NOmeoeprUooEUG6zva_8KK1s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240206-simple-broccolini-step1-246-b4cc17befe2d46c7bf3908d90d98bedb.jpg"
+      ],
+      "image": "assets/images/240206/step_01.webp"
+    },
+    {
+      "text": "Heat olive oil in the same skillet over medium heat. Stir in garlic and cook until golden and fragrant, 1 to 2 minutes. Add broccolini; cook and stir until heated through, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/gvWPOSohLOMyE4EK2KHPepOKnR8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240206-simple-broccolini-step2-249-e4f0edd4e5d44e37912ba073214e8340.jpg"
+      ],
+      "image": "assets/images/240206/step_02.webp"
+    },
+    {
+      "text": "Squeeze lemon juice over broccoli and season with red pepper flakes, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/P5CSctZIFXc7GjFbk3IVsSOO_xY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/240206-simple-broccolini-step3-258-f67d37685d4d4286ae8108e0e590f3bd.jpg"
+      ],
+      "image": "assets/images/240206/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "218 kcal",
+    "carbohydrateContent": "18 g",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "145 mg",
+    "sugarContent": "5 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QXKxKm7gTvMbBNGiVC75vVydR4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2251131-simple-broccolini-naples34102-4x3-1-d75e50ea96d342eabe98854792d6dcb0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240206/hero.webp",
+    "steps": [
+      "assets/images/240206/step_01.webp",
+      "assets/images/240206/step_02.webp",
+      "assets/images/240206/step_03.webp"
+    ]
+  }
+}

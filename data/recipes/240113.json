@@ -1,0 +1,75 @@
+{
+  "id": "240113",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240113/easy-vegan-black-bean-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/240113/easy-vegan-black-bean-soup/",
+  "title": "Easy Vegan Black Bean Soup",
+  "description": "Vegan black bean soup with plenty of vegetables is a quick and easy meal to prepare for cold weeknight dinners.",
+  "authors": [
+    "rtyoumans"
+  ],
+  "date_published": "2019-04-03T23:58:48-04:00",
+  "date_modified": "2022-01-14T01:41:09-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 onion, diced",
+    "1 green bell pepper, diced",
+    "2 stalks celery, diced",
+    "1 large carrot, diced",
+    "2 cloves garlic, minced",
+    "2 (15 ounce) cans black beans, drained",
+    "1 (14.5 ounce) can diced tomatoes",
+    "1 cup water",
+    "1 teaspoon cumin"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a stockpot over medium-high heat; saute onion, green bell pepper, celery, carrot, and garlic until onion is translucent, about 5 minutes. Add black beans, diced tomatoes, water, and cumin to onion mixture; bring to a boil. Reduce heat to medium-low and simmer until flavors have combined, at least 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "306 kcal",
+    "carbohydrateContent": "46 g",
+    "fiberContent": "17 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1009 mg",
+    "sugarContent": "6 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "18"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MEoU3g1CneW_J-PXUluotSTo-Tw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1927548-31af4fb27b7c4caf8b1f76d06e4edc7b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240113/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

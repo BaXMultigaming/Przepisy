@@ -1,0 +1,82 @@
+{
+  "id": "240036",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240036/instant-swiss-mocha-bliss/",
+  "requested_url": "https://www.allrecipes.com/recipe/240036/instant-swiss-mocha-bliss/",
+  "title": "Instant Swiss Mocha Bliss",
+  "description": "This instant Swiss mocha bliss recipe is a mixture of instant flavored coffee and hot cocoa. Top with a dollop of whipped cream and a pinch of cinnamon.",
+  "authors": [
+    "Risa B"
+  ],
+  "date_published": "2020-06-19T00:01:22-04:00",
+  "date_modified": "2025-04-10T12:46:44-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 fluid ounces milk",
+    "1 tablespoon mocha-flavored instant coffee mix (such as International Coffee® Suisse Mocha)",
+    "2 teaspoons white sugar",
+    "1 teaspoon powdered chocolate drink mix (such as Nesquik®)"
+  ],
+  "steps": [
+    {
+      "text": "Place milk in a microwave-safe glass or bowl; microwave until almost boiling, about 1 minute 45 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir coffee mix, sugar, and chocolate mix together in a mug. Add hot milk; stir until mixture is dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "165 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "106 mg",
+    "sugarContent": "22 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VvZEyMKftzAVN3QUBOMOFGetlWk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1924453-357594d8e1d947d2809d2692fd66e15b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240036/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

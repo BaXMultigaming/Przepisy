@@ -1,0 +1,79 @@
+{
+  "id": "240584",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240584/quark-homemade-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/240584/quark-homemade-cheese/",
+  "title": "Quark (Homemade Cheese)",
+  "description": "Quark, a German homestyle cheese, is easy to make at home with just buttermilk and milk.",
+  "authors": [
+    "Darin R Molnar"
+  ],
+  "date_published": "2015-08-25T13:23:06-04:00",
+  "date_modified": "2026-04-09T11:56:42-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT980M",
+  "yield": [
+    "4",
+    "2 cups"
+  ],
+  "categories": [
+    "Ingredient"
+  ],
+  "cuisines": [
+    "German"
+  ],
+  "regions": [
+    "German"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "0.5 cup buttermilk"
+  ],
+  "steps": [
+    {
+      "text": "Bring milk to a simmer in a saucepan; remove from heat and cool to room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk buttermilk into milk; let sit at room temperature, 8 hours to overnight. Strain mixture through cheesecloth over a bowl in the refrigerator, 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "73 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "11 mg",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "82 mg",
+    "sugarContent": "7 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zSQ11OhsHmaGHEHlALcq7NWRG-Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2532115-quark-homemade-cheese-Darin-R.-Molnar-4x3-1-c48576932f904d26bbb6d240282b8f16.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240584/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

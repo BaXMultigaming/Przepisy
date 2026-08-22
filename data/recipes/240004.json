@@ -1,0 +1,93 @@
+{
+  "id": "240004",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240004/slow-cooker-bbq-chicken-pizza-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/240004/slow-cooker-bbq-chicken-pizza-soup/",
+  "title": "Slow Cooker BBQ Chicken Pizza Soup",
+  "description": "All the ingredients and flavor of barbeque chicken are cooked together in a slow cooker creating easy barbeque chicken soup!",
+  "authors": [
+    "My 3 boys"
+  ],
+  "date_published": "2020-03-10T02:52:20-04:00",
+  "date_modified": "2020-03-10T02:52:20-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT300M",
+  "total_time": "PT315M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 cups chicken broth",
+    "4 skinless, boneless chicken breast halves",
+    "1 (24 ounce) package frozen corn",
+    "1 red onion, diced",
+    "1.25 cups barbeque sauce",
+    "4 cloves garlic, minced",
+    "1.5 teaspoons salt",
+    "0.5 teaspoon ground black pepper",
+    "0.5 teaspoon garlic salt",
+    "0.5 cup shredded mozzarella cheese, or to taste",
+    "0.5 cup chopped fresh cilantro, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken broth, chicken, corn, onion, barbeque sauce, garlic, salt, black pepper, and garlic salt in a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on Low for 5 hours. Remove chicken from slow cooker and cut into bite-size pieces; return to slow cooker and stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Ladle soup into serving bowls and top each serving with mozzarella cheese and cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "292 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1413 mg",
+    "sugarContent": "18 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QMoALOod4r49jBJd2OfslfEIpCw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1992695-8054205568fe4e0899bc10f622376c25.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240004/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

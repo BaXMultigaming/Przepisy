@@ -1,0 +1,127 @@
+{
+  "id": "240606",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240606/persian-rice/",
+  "requested_url": "https://www.allrecipes.com/recipe/240606/persian-rice/",
+  "title": "Persian Rice",
+  "description": "Chef John&#39;s Persian rice features fluffy basmati rice flavored with butter, saffron, and cumin, topped with slices of beautiful golden crisp potatoes.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-12-09T19:52:48-05:00",
+  "date_modified": "2025-12-16T10:52:12-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT55M",
+  "total_time": "PT70M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Persian",
+    "Asian"
+  ],
+  "regions": [
+    "Persian",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "3 quarts water",
+    "3 tablespoons kosher salt",
+    "2 cups basmati rice, rinsed",
+    "2 tablespoons olive oil",
+    "1 russet potato, cut into 1/4-inch slices",
+    "1 pinch ground cumin",
+    "salt to taste",
+    "3 tablespoons butter, cut into thin slices, or to taste",
+    "1 pinch saffron threads",
+    "1.5 tablespoons hot water",
+    "1 tablespoon chopped parsley, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place water and kosher salt in a pot; bring to a boil. Add rice; cook and stir for exactly 7 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a pot over medium-high heat. Cover bottom of the pot with 1 layer of potato slices. Sprinkle cumin and salt over potatoes. Cook until potatoes are sizzling, 2 to 3 minutes; top potatoes with rice to form an even layer. Reduce heat to low and place butter slices over rice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Top the pot with a layer of clean paper towels, then place the lid over the towels. Steam until rice is fluffy, about 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grind saffron threads with a mortar and pestle. Mix crushed saffron with 1 ½ tablespoons hot water in a large bowl. Add a couple of spoonfuls of rice to saffron mixture and stir until rice is yellow.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon remaining rice into a serving bowl. Top with saffron rice and line the edges of the bowl with potatoes. Garnish with parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/xjurj3TmYEQ5MMdq8s0mGMo4658=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24606-persian-rice-mfs_149-04ba83bbdc4449f0a97767fff0172dfa.jpg"
+      ],
+      "image": "assets/images/240606/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "2223 mg",
+    "sugarContent": "0 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "102"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/BhRdV2Ev-K3AjnAEN.mp4",
+    "description": "I believe I've posted a few fool proof methods for cooking perfect rice, but this Persian version takes the grand prize, and it's not even close for second. The beauty of this method is that it doesn't rely on any specific measurements, or even exact times. This will make some of you very nervous, but just go with it.",
+    "duration": "PT6M32S",
+    "name": "Chef John's Persian Rice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/BhRdV2Ev/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T09:52:49-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xjurj3TmYEQ5MMdq8s0mGMo4658=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24606-persian-rice-mfs_149-04ba83bbdc4449f0a97767fff0172dfa.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240606/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/240606/step_05.webp"
+    ]
+  }
+}

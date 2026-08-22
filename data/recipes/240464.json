@@ -1,0 +1,103 @@
+{
+  "id": "240464",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240464/pretty-easy-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/240464/pretty-easy-chili/",
+  "title": "Pretty Easy Chili",
+  "description": "This recipe for easy slow cooker chili combines the traditional ingredients of ground beef, beans, and tomatoes for a warm and comforting meal.",
+  "authors": [
+    "Kevin Hester"
+  ],
+  "date_published": "2020-06-19T00:01:47-04:00",
+  "date_modified": "2020-06-19T00:01:47-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT365M",
+  "total_time": "PT380M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 onion, chopped",
+    "3 cloves garlic, chopped",
+    "2 (15 ounce) cans pinto beans, drained",
+    "1 (28 ounce) can whole peeled tomatoes, broken apart by hand",
+    "1 (15 ounce) can tomato sauce",
+    "1 (10.75 ounce) can tomato soup",
+    "2 tablespoons chili powder",
+    "2 tablespoons white sugar",
+    "2 tablespoons Italian seasoning",
+    "2 teaspoons garlic salt",
+    "1 pinch cracked black pepper to taste",
+    "4 fluid ounces beer"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook and stir beef, onion, and garlic in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Transfer beef mixture to a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir pinto beans, tomatoes, tomato sauce, and tomato soup into beef mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix chili powder, sugar, Italian seasoning, garlic salt, and pepper together in a bowl; stir into beef mixture. Add beer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on Low, 6 to 8 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "551 kcal",
+    "carbohydrateContent": "61 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "14 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "2706 mg",
+    "sugarContent": "22 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/utuly1nq5TGWmgnC_rdmiScWfKs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3685380-0c9031ca900e453bb0d2bf77b72fc050.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240464/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

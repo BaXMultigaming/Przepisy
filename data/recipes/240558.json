@@ -1,0 +1,79 @@
+{
+  "id": "240558",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240558/3-ingredient-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/240558/3-ingredient-pancakes/",
+  "title": "3-Ingredient Pancakes",
+  "description": "Flourless banana pancakes are held together with eggs in this quick and easy recipe for pancakes that fits into the paleo diet too!",
+  "authors": [
+    "repeatdreaming"
+  ],
+  "date_published": "2015-11-19T02:17:39-05:00",
+  "date_modified": "2015-11-19T02:17:39-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "8 mini pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large ripe banana",
+    "2 eggs",
+    "0.125 teaspoon baking powder",
+    "1 pinch ground cinnamon",
+    "2 teaspoons butter, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Mash banana in a bowl using a fork; add eggs, baking powder, and cinnamon and mix batter well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat butter in a skillet over medium heat. Spoon batter into the hot butter and cook until bubbles form and the edges are dry, 2 to 3 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "197 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "130 mg",
+    "sugarContent": "9 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "51"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/b5tuN3bDrdZ7smUH4XnIhK18apY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1903761-04884107e0524438b3fe1f8c80b2713f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240558/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

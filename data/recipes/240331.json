@@ -1,0 +1,107 @@
+{
+  "id": "240331",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240331/sandys-homemade-broccoli-and-cheddar-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/240331/sandys-homemade-broccoli-and-cheddar-soup/",
+  "title": "Sandy&#39;s Homemade Broccoli and Cheddar Soup",
+  "description": "Serve fresh broccoli and Cheddar soup in under an hour! This quick recipe is easily adaptable to suit your tastes.",
+  "authors": [
+    "Sandy Lafleur"
+  ],
+  "date_published": "2019-11-16T02:50:14-05:00",
+  "date_modified": "2026-05-01T20:03:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 tablespoons butter",
+    "0.25 small onion, chopped",
+    "2 tablespoons all-purpose flour",
+    "1 cup half-and-half",
+    "1.5 cups chicken broth",
+    "salt and ground black pepper to taste",
+    "2 cups chopped broccoli",
+    "1 carrot, chopped",
+    "1 celery stalk, chopped",
+    "1.25 cups shredded mild Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a stock pot over medium-high heat; add onion and saute until tender, 3 to 4 minutes. Whisk in flour and continue to stir until mixture turns golden brown, about 5 minutes. Slowly add half-and-half to onion mixture, stirring until mixture is smooth. Add chicken broth; season with salt and ground black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium-low and simmer mixture until thickened, about 10 minutes. Add broccoli, carrot, and celery. Simmer until vegetables are tender yet crisp, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to low. Add Cheddar cheese to soup and cook, stirring occasionally, until cheese melts, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/6cQE3yBmegK0752pqFUJ27kWhmA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4539521-99b3af51ad764304b77e28dffec3b5d5.jpg"
+      ],
+      "image": "assets/images/240331/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "345 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "85 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "823 mg",
+    "sugarContent": "3 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "809"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/OyolzVJ3-K3AjnAEN.mp4",
+    "description": "A simple and warming rendition of a popular soup. You can add more vegetables or keep it traditional, and either way it’s delicious. ",
+    "duration": "PT1M56S",
+    "name": "Sandy's Homemade Broccoli and Cheddar Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/OyolzVJ3/poster.jpg?width=1280",
+    "uploadDate": "2021-03-08T00:20:33-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6cQE3yBmegK0752pqFUJ27kWhmA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4539521-99b3af51ad764304b77e28dffec3b5d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240331/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/240331/step_03.webp"
+    ]
+  }
+}

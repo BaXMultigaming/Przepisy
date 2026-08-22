@@ -1,0 +1,111 @@
+{
+  "id": "240261",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240261/coconut-and-lime-grilled-kale/",
+  "requested_url": "https://www.allrecipes.com/recipe/240261/coconut-and-lime-grilled-kale/",
+  "title": "Coconut and Lime Grilled Kale",
+  "description": "For this recipe, marinate kale leaves in coconut milk, smoked paprika, cayenne pepper, and lime juice, then grill for a tasty, flavorful side dish.",
+  "authors": [
+    "John Wisman"
+  ],
+  "date_published": "2020-06-19T00:01:31-04:00",
+  "date_modified": "2025-08-11T13:30:55-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT255M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (13.5 ounce) cans coconut milk",
+    "2 limes, juiced",
+    "2 teaspoons smoked paprika",
+    "1 teaspoon sea salt",
+    "1 teaspoon cayenne pepper",
+    "0.5 teaspoon red pepper flakes, or to taste",
+    "2 bunches kale, leaves separated, stems discarded"
+  ],
+  "steps": [
+    {
+      "text": "Heat coconut milk in a small saucepan over low heat until lukewarm, about 5 minutes; pour into a large glass bowl. Stir in lime juice, paprika, sea salt, cayenne pepper, and pepper flakes until marinade is smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add kale to marinade; press down to ensure all leaves are covered. Cover the bowl with plastic wrap; marinate in the refrigerator for 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Remove kale from marinade and shake off excess; discard remaining marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill kale leaves, in batches, in a single layer on the preheated grill until edges are slightly crispy and centers are soft, 45 to 60 seconds per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fJBYNhUfCTIGM9cX0RaApxZr_hA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2252886-035886012e29484eb6f8c4b60094ccc8.jpg"
+      ],
+      "image": "assets/images/240261/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "337 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "5 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "24 g",
+    "sodiumContent": "375 mg",
+    "sugarContent": "0 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/5F8VaYXu-K3AjnAEN.mp4",
+    "description": "In this video, we'll show you a different way to enjoy kale. We first marinate it in coconut milk, lime juice and seasoning. Then, we grill it until the edges of the leaves crisp up and the centers become soft.",
+    "duration": "PT1M50S",
+    "name": "Coconut and Lime Grilled Kale",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/5F8VaYXu/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T09:38:43-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fJBYNhUfCTIGM9cX0RaApxZr_hA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2252886-035886012e29484eb6f8c4b60094ccc8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240261/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/240261/step_04.webp"
+    ]
+  }
+}

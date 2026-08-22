@@ -1,0 +1,103 @@
+{
+  "id": "240093",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240093/mahi-mahi-ceviche/",
+  "requested_url": "https://www.allrecipes.com/recipe/240093/mahi-mahi-ceviche/",
+  "title": "Mahi Mahi Ceviche",
+  "description": "Mahi mahi is &#34;cooked&#34; in a citrus marinade and mixed with orange, radish, cucumber, and cilantro in Chef John&#39;s recipe for mahi mahi ceviche.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-10-31T17:29:22-04:00",
+  "date_modified": "2026-05-10T00:43:05-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT90M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 pound mahi mahi fillets, diced, or more to taste",
+    "0.33333334326744 cup lime juice",
+    "0.33333334326744 cup lemon juice",
+    "1 tablespoon minced jalapeno pepper",
+    "0.5 teaspoon salt, or to taste",
+    "1 pinch dried oregano",
+    "1 pinch cayenne pepper",
+    "0.5 cup diced avocados",
+    "0.5 cup peeled and seeded diced cucumber",
+    "0.5 cup diced orange segments",
+    "0.5 cup chopped fresh chives",
+    "2 tablespoons radishes, sliced",
+    "1 tablespoon chopped cilantro",
+    "1 tablespoon olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Stir mahi mahi, lime juice, lemon juice, jalapeno pepper, salt, oregano, and cayenne pepper together in a bowl. Press down fish to completely immerse in liquid. Cover the bowl with plastic wrap and press plastic wrap down so that it is touching the fish. Refrigerate for at least 1 hour, or up to 6 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir avocado, cucumber, orange, chives, radish, cilantro, and olive oil into mahi mahi mixture until completely coated. Season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/safDOZcbWgoGs4CuBOoIo_Y69wo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-153-01c4f6d16c2f4b9c981cba11879219bc.jpg"
+      ],
+      "image": "assets/images/240093/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "117 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "247 mg",
+    "sugarContent": "2 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "29"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/UIEa48Oz-ma1DlVvV.mp4",
+    "description": "See how to make a refreshing chilled fish salad.",
+    "duration": "PT5M43S",
+    "name": "Chef John's Mahi-Mahi Ceviche",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/UIEa48Oz/poster.jpg?width=1280",
+    "uploadDate": "2021-07-22T20:25:12-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/safDOZcbWgoGs4CuBOoIo_Y69wo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-153-01c4f6d16c2f4b9c981cba11879219bc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240093/hero.webp",
+    "steps": [
+      null,
+      "assets/images/240093/step_02.webp"
+    ]
+  }
+}

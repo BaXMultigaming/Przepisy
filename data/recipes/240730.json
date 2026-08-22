@@ -1,0 +1,83 @@
+{
+  "id": "240730",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240730/virginia-eggnog/",
+  "requested_url": "https://www.allrecipes.com/recipe/240730/virginia-eggnog/",
+  "title": "Virginia Eggnog",
+  "description": "Virginia eggnog takes classic eggnog and adds whisky and rum for an extra boozy drink for the holiday season.",
+  "authors": [
+    "mckeown"
+  ],
+  "date_published": "2020-06-19T00:01:59-04:00",
+  "date_modified": "2020-06-19T00:01:59-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "24",
+    "24 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar, or more to taste",
+    "10 eggs, divided",
+    "1 quart milk",
+    "1 quart heavy whipping cream",
+    "0.25 cup rum",
+    "0.25 cup whisky"
+  ],
+  "steps": [
+    {
+      "text": "Beat sugar and egg yolks together in a bowl using an electric mixer until very light in color. Mix milk and cream into yolk mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat egg whites in a separate bowl using an electric mixer until stiff peaks form, adding more sugar, if desired. Fold egg whites into milk mixture until eggnog is smooth. Stir rum and whisky into eggnog. Refrigerate until chilled, at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "135 mg",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "61 mg",
+    "sugarContent": "10 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/k0_CpaVCJy4BNNdb0Qr-e4qeL74=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4608661-93785b3dc68d431ab7c393056a592c88.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240730/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

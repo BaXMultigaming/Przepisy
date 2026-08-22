@@ -1,0 +1,99 @@
+{
+  "id": "240400",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240400/skillet-chicken-bulgogi/",
+  "requested_url": "https://www.allrecipes.com/recipe/240400/skillet-chicken-bulgogi/",
+  "title": "Skillet Chicken Bulgogi",
+  "description": "An easy recipe for chicken bulgogi that comes together in 30 minutes. Get dinner on the table quickly with this Korean skillet dish everyone loves.",
+  "authors": [
+    "daveparks4"
+  ],
+  "date_published": "2020-03-05T00:12:47-05:00",
+  "date_modified": "2026-01-05T03:07:16-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Korean"
+  ],
+  "regions": [
+    "Korean"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.25 cup chopped onion",
+    "5 tablespoons soy sauce",
+    "2.5 tablespoons brown sugar",
+    "2 tablespoons minced garlic",
+    "2 tablespoons sesame oil",
+    "1 tablespoon sesame seeds",
+    "0.5 teaspoon cayenne",
+    "salt and ground black pepper to taste",
+    "1 pound skinless, boneless chicken breasts, cut into thin strips"
+  ],
+  "steps": [
+    {
+      "text": "Whisk onion, soy sauce, brown sugar, garlic, sesame oil, sesame seeds, cayenne pepper, salt, and black pepper together in a bowl until marinade is smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook and stir chicken and marinade together in a large skillet over medium-high heat until chicken is cooked through, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/yzU4k4oPgazTx4OLD-yEEZ4MZKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/M7014953_JD_12015-1x1-1-010c0666a1da4f48acf7cb38c72471b5.jpg"
+      ],
+      "image": "assets/images/240400/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "269 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "69 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "28 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1230 mg",
+    "sugarContent": "9 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "300"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/w1clh4SJ-K3AjnAEN.mp4",
+    "description": "Make this quick and easy meal for a tasty weeknight stir fry! Substitute the chicken for pork or tofu to make it your own!",
+    "duration": "PT1M",
+    "name": "Skillet Chicken Bulgogi ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/w1clh4SJ/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T12:32:29-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yzU4k4oPgazTx4OLD-yEEZ4MZKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/M7014953_JD_12015-1x1-1-010c0666a1da4f48acf7cb38c72471b5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240400/hero.webp",
+    "steps": [
+      null,
+      "assets/images/240400/step_02.webp"
+    ]
+  }
+}

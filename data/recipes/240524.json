@@ -1,0 +1,100 @@
+{
+  "id": "240524",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240524/puff-pastry-shells/",
+  "requested_url": "https://www.allrecipes.com/recipe/240524/puff-pastry-shells/",
+  "title": "Puff Pastry Shells",
+  "description": "Chef John&#39;s puff pastry shells are an easy and elegant way to serve savory or sweet fillings.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2014-12-01T17:19:36-05:00",
+  "date_modified": "2026-04-20T21:50:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "French Inspired"
+  ],
+  "regions": [
+    "French Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg, beaten",
+    "2 tablespoons water",
+    "4 sheets frozen puff pastry"
+  ],
+  "steps": [
+    {
+      "text": "Beat egg and water together in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut two rounds from each sheet of puff pastry using a 3-inch round cutter, forming 8 circles. Use a 2 1/2-inch round cutter to cut through 4 of the rounds. Place entire cut round on top of an un-cut round. Brush each with egg mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until puffed and golden, 20 to 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/LTCZwhIk4D0emA5sqpke5bHp4p0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2130869-puff-pastry-shells-Buckwheat-Queen-1x1-1-4b1ac792ea7f4175b9c727eb46f47a33.jpg"
+      ],
+      "image": "assets/images/240524/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "1346 kcal",
+    "carbohydrateContent": "109 g",
+    "cholesterolContent": "47 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "19 g",
+    "saturatedFatContent": "24 g",
+    "sodiumContent": "618 mg",
+    "sugarContent": "2 g",
+    "fatContent": "93 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "15"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/qm35mAza-K3AjnAEN.mp4",
+    "description": "These are fairly simple to make, and once baked the real fun begins, as they can hold so many amazing fillings, both sweet and savory. The key is making sure your puff pastry dough is very firm, and very cold, preferably still partially frozen, before you start cutting it. You want nice clean cuts, because if you mash the layers of pastry together, your shells will not rise as high, and they can also bake into some strange shapes.",
+    "duration": "PT4M38S",
+    "name": "Chef John's Puff Pastry Shells",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/qm35mAza/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T17:24:46-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LTCZwhIk4D0emA5sqpke5bHp4p0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2130869-puff-pastry-shells-Buckwheat-Queen-1x1-1-4b1ac792ea7f4175b9c727eb46f47a33.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240524/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/240524/step_03.webp"
+    ]
+  }
+}

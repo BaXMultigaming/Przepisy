@@ -1,0 +1,80 @@
+{
+  "id": "240684",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240684/secret-ingredient-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/240684/secret-ingredient-smoothie/",
+  "title": "Secret Ingredient Smoothie",
+  "description": "Romaine lettuce, milk, strawberries, and banana all blend together in this unique quick and easy smoothie.",
+  "authors": [
+    "Sugar-n-spice"
+  ],
+  "date_published": "2014-12-19T19:27:43-05:00",
+  "date_modified": "2014-12-19T19:27:44-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "2 cups"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups chopped romaine lettuce",
+    "0.33333334326744 cup milk, or more as needed",
+    "4 frozen strawberries, or more to taste",
+    "1 frozen banana, cut into chunks",
+    "0.25 teaspoon vanilla extract, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Put romaine lettuce into the bottom of a blender pitcher; add enough milk to cover completely and blend on High until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop one strawberry at a time into the blender while still running on High and allow the berry to blend completely before adding the next. Blend one banana chunk at a time into the mixture in the same manner as the strawberries. Thin the smoothie with additional milk to keep smoothie blending properly. Blend vanilla extract into the smoothie.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "200 kcal",
+    "carbohydrateContent": "42 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "49 mg",
+    "sugarContent": "24 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cxlM-1BDLzq7L0Uphgw-iJwfazg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1903751-4eafb59b898041e8ab2f770beec4b818.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240684/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

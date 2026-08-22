@@ -1,0 +1,90 @@
+{
+  "id": "240570",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240570/bacon-and-venison-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/240570/bacon-and-venison-burgers/",
+  "title": "Bacon and Venison Burgers",
+  "description": "Bacon and venison burgers with garlic are hearty and juicy sandwiches that are quick and easy to prepare.",
+  "authors": [
+    "coreyd"
+  ],
+  "date_published": "2016-06-04T10:15:29-04:00",
+  "date_modified": "2016-06-04T10:15:29-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "5",
+    "5 burgers"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound peppercorn bacon, diced",
+    "5 pounds ground venison",
+    "2 cups bread crumbs",
+    "0.5 cup Worcestershire sauce",
+    "0.25 cup evaporated milk",
+    "5 cloves garlic, minced",
+    "1 teaspoon ground cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a stainless steel bowl; add venison, bread crumbs, Worcestershire sauce, milk, garlic, and cayenne pepper. Mix venison mixture using your hands and form into 5-ounce balls. Press balls with the back of a side dish to form patties.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill patties on the preheated grill until desired doneness is reached, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "823 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "354 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "104 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1438 mg",
+    "sugarContent": "7 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/v8LxE7urHPqXMj0a1YGYjcF0NhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2398507-eddd4d348f8e4a4385dd7c5f6fc63f78.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240570/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

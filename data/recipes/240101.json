@@ -1,0 +1,82 @@
+{
+  "id": "240101",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240101/sweet-potato-breakfast-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/240101/sweet-potato-breakfast-pancakes/",
+  "title": "Sweet Potato Breakfast Pancakes",
+  "description": "Sweet potatoes make a great stand-in for pumpkin when making breakfast pancakes with fall flavors thanks to this recipe.",
+  "authors": [
+    "ReynnaRose"
+  ],
+  "date_published": "2020-03-05T00:12:41-05:00",
+  "date_modified": "2020-03-05T00:12:41-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "12 pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.5 cups baking mix (such as Bisquick ®)",
+    "3 tablespoons brown sugar",
+    "2.5 teaspoons pumpkin pie spice",
+    "1.75 cups milk",
+    "1 cup mashed sweet potatoes",
+    "2 tablespoons white vinegar",
+    "2 tablespoons vegetable oil",
+    "2 tablespoons vegetable oil, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Mix baking mix, brown sugar, and pumpkin pie spice together in a large bowl. Beat milk, mashed sweet potatoes, white vinegar, and 2 tablespoons vegetable oil together in a separate bowl until smooth; gradually beat into the dry mixture to incorporate into a batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large skillet over medium heat; add just enough oil to cover the cooking surface and let oil get hot. Pour batter onto hot skillet by 1/4 cup portion, taking care to not overcrowd the skillet. Cook pancakes until browned, 3 to 5 minutes per side. Repeat cooking steps until all batter is used.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "379 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "679 mg",
+    "sugarContent": "13 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qHyFzoA1R-jE9iIk-e3vxRU-gNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2287638-949cb45f96a64ddd896adae222ad7a87.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240101/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

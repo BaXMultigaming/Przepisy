@@ -1,0 +1,92 @@
+{
+  "id": "240611",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/240611/cinnamon-muffin-in-a-mug/",
+  "requested_url": "https://www.allrecipes.com/recipe/240611/cinnamon-muffin-in-a-mug/",
+  "title": "Cinnamon Muffin in a Mug",
+  "description": "Make a delicious breakfast cinnamon muffin in a coffee mug in the microwave in under 2 minutes!",
+  "authors": [
+    "Nana Clares Kitchen"
+  ],
+  "date_published": "2016-11-12T01:34:56-05:00",
+  "date_modified": "2016-11-12T01:34:56-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 muffin in mug"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 egg",
+    "2 tablespoons vanilla yogurt",
+    "2 tablespoons chopped walnuts",
+    "1 tablespoon all-purpose flour",
+    "1 tablespoon flax seed meal",
+    "1 tablespoon quick-cooking oats",
+    "1 tablespoon honey",
+    "2 teaspoons ground cinnamon",
+    "0.5 teaspoon baking powder"
+  ],
+  "steps": [
+    {
+      "text": "Whisk egg in a microwave-safe mug. Stir yogurt, walnuts, flour, flax, oats, honey, cinnamon, and baking powder into egg until well-combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Microwave until set, 90 to 100 seconds. Turn out over a plate to remove muffin from mug.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/uIJGnsTrr5OkosdflnMQDCrLQXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3663886-5de79f5cdbb247ae81075b78bf99d45f.jpg"
+      ],
+      "image": "assets/images/240611/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "356 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "188 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "338 mg",
+    "sugarContent": "23 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "66"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/bFx6owDE-K3AjnAEN.mp4",
+    "description": "Spiced, fragrant and warm in minutes, you’ll love having this healthy breakfast ready in minutes! Mix egg with vanilla yogurt, chopped nuts, oats, flour, honey and cinnamon for all the breakfast flavors guaranteed to wake you up to a great day. Pull your mug from the microwave in under two minutes, turn onto a plate and pair with a good cup of coffee for full-on enjoyment. ",
+    "duration": "PT51S",
+    "name": "Cinnamon Muffin in a Mug",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/bFx6owDE/poster.jpg?width=1280",
+    "uploadDate": "2021-07-27T02:33:29-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uIJGnsTrr5OkosdflnMQDCrLQXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3663886-5de79f5cdbb247ae81075b78bf99d45f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/240611/hero.webp",
+    "steps": [
+      null,
+      "assets/images/240611/step_02.webp"
+    ]
+  }
+}
