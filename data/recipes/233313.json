@@ -1,0 +1,91 @@
+{
+  "id": "233313",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233313/lemon-bbq-chicken-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/233313/lemon-bbq-chicken-salad/",
+  "title": "Lemon BBQ Chicken Salad",
+  "description": "Leftover chicken and rice are elevated into a delicious summertime salad thanks to lemon juice, olives, bacon, and barbeque sauce in this salad recipe.",
+  "authors": [
+    "Robin Whitworth"
+  ],
+  "date_published": "2019-07-10T03:04:39-04:00",
+  "date_modified": "2019-07-10T03:04:39-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT150M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups cubed cooked chicken",
+    "2 tablespoons lemon juice",
+    "2 cups cold cooked rice",
+    "1 stalk celery, sliced",
+    "0.5 cup sliced pimiento-stuffed olives",
+    "6 tablespoons crumbled cooked bacon, divided",
+    "1 cup mayonnaise",
+    "2 tablespoons barbeque sauce",
+    "0.5 teaspoon hickory-flavored liquid smoke"
+  ],
+  "steps": [
+    {
+      "text": "Mix chicken and lemon juice in a large mixing bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix rice celery, olives, and 1/4 cup bacon in a separate bowl; add to chicken and toss to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk mayonnaise, barbeque sauce, and liquid smoke together in a small bowl; pour over the chicken mixture and toss to coat. Top with remaining 2 tablespoons bacon. Cover bowl with plastic wrap and refrigerate 2 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "710 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "79 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "1093 mg",
+    "sugarContent": "3 g",
+    "fatContent": "56 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1j99YpZFAbCAGLTSZ_2ZThhO4f8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1132662-1b6c945809e2439eb4816c668b8b1f97.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233313/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

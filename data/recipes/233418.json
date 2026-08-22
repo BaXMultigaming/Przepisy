@@ -1,0 +1,68 @@
+{
+  "id": "233418",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233418/sweet-blackberry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/233418/sweet-blackberry-sauce/",
+  "title": "Sweet Blackberry Sauce",
+  "description": "This homemade blackberry sauce has a hint of blackberry schnapps and is a colorful dessert topping for ice cream or cake.",
+  "authors": [
+    "Cynthia Ross"
+  ],
+  "date_published": "2020-06-18T23:55:27-04:00",
+  "date_modified": "2022-01-14T02:18:19-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups fresh blackberries",
+    "2 tablespoons white sugar",
+    "1 fluid ounce blackberry schnapps",
+    "0.25 lemon, juiced, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place blackberries in a small saucepan; mash gently with a fork. Stir sugar, schnapps, and lemon juice into mashed blackberries; cook, stirring constantly, over medium heat until blackberries break down and mixture begins to boil, 5 to 10 minutes. Cool slightly before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "carbohydrateContent": "16 g",
+    "fiberContent": "4 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "13 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hS6jmrgI4As1sP2yHzkTEr4DG3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1028681-7a92776fe29747e88be94c22eb0da27d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233418/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

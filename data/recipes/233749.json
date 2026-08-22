@@ -1,0 +1,79 @@
+{
+  "id": "233749",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233749/blueberry-banana-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/233749/blueberry-banana-milkshake/",
+  "title": "Blueberry Banana Milkshake",
+  "description": "This banana blueberry milkshake recipe is easy to prepare and will have your whole family asking for more.",
+  "authors": [
+    "Lisa Altmiller"
+  ],
+  "date_published": "2020-06-18T23:55:39-04:00",
+  "date_modified": "2022-10-07T15:34:24-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups vanilla ice cream",
+    "1 cup milk",
+    "1.5 cups blueberries",
+    "1 banana",
+    "0.25 cup white sugar",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Place vanilla ice cream and milk in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add blueberries, banana, sugar, and vanilla extract; blend until evenly mixed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "272 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "79 mg",
+    "sugarContent": "39 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UV3BczOaG_nakU6X-PQ-T1Va4jM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3816793-b7a421daebe746cdb0d322dd3b05fb88.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233749/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

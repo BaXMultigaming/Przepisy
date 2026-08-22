@@ -1,0 +1,82 @@
+{
+  "id": "233822",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233822/almond-strawberry-chia-seed-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/233822/almond-strawberry-chia-seed-pudding/",
+  "title": "Almond Strawberry Chia Seed Pudding",
+  "description": "This is a very quick pudding recipe with chia seeds, almond milk, and fresh strawberries, requiring no cooking and no fuss!",
+  "authors": [
+    "lucky"
+  ],
+  "date_published": "2016-06-04T09:51:52-04:00",
+  "date_modified": "2026-05-13T07:11:08-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT250M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups almond milk",
+    "1 (16 ounce) package fresh strawberries, hulled",
+    "0.5 cup chia seeds",
+    "0.25 cup honey",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Puree almond milk and strawberries in a blender until smooth; pour into a bowl. Stir chia seeds, honey, and vanilla extract into the strawberry puree.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover bowl with plastic wrap and refrigerate until set, about 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "9 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "85 mg",
+    "sugarContent": "27 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "46"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/femEgu79V_erK4XU98dZK6xzRB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1117986-1c92a862a4b94b24bb26fd7e177d536a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233822/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

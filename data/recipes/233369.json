@@ -1,0 +1,84 @@
+{
+  "id": "233369",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233369/easy-cold-cucumber-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/233369/easy-cold-cucumber-soup/",
+  "title": "Easy Cold Cucumber Soup",
+  "description": "This easy cucumber soup recipe blends fresh mint, dill, and garlic with thick yogurt and sour cream for a refreshing, light, delicious summer lunch.",
+  "authors": [
+    "lreddy"
+  ],
+  "date_published": "2020-06-11T23:00:23-04:00",
+  "date_modified": "2026-06-26T12:29:17-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT75M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large cucumbers - peeled, seeded, and diced",
+    "2 cups vegetable broth",
+    "1.3333333730698 cups sour cream",
+    "1.3333333730698 cups plain yogurt",
+    "1 clove garlic, minced",
+    "0.5 cup chopped fresh mint",
+    "0.5 cup chopped fresh dill"
+  ],
+  "steps": [
+    {
+      "text": "Combine cucumbers, broth, sour cream, yogurt, and garlic in a large bowl; blend with an immersion blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add mint and dill; blend to combine. Refrigerate until chilled, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "251 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "333 mg",
+    "sugarContent": "7 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XQIVb3ONZrAZpe1Vjo8TFdtsiMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1140093-29f1ad9de22442a6b66e44215acb8453.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233369/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

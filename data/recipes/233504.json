@@ -1,0 +1,70 @@
+{
+  "id": "233504",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233504/coffee-creamer/",
+  "requested_url": "https://www.allrecipes.com/recipe/233504/coffee-creamer/",
+  "title": "Coffee Creamer",
+  "description": "Use this recipe to turn milk and water into homemade coffee creamer with powdered milk, sugar, and vanilla extract.",
+  "authors": [
+    "jennyrose81"
+  ],
+  "date_published": "2020-06-18T23:55:31-04:00",
+  "date_modified": "2022-01-14T11:50:31-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "22"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup powdered milk",
+    "0.66666668653488 cup white sugar",
+    "0.33333334326744 cup boiling water",
+    "1 tablespoon vanilla extract",
+    "0.66666668653488 cup milk, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine powdered milk, sugar, boiling water, and vanilla extract in a blender and blend until smooth; add milk. Transfer creamer to a container with a tight seal and keep refrigerated.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "58 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "6 mg",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "25 mg",
+    "sugarContent": "9 g",
+    "fatContent": "2 g",
+    "servingSize": "2 2/3 cup",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/24X-PtMK06xNYvE8Kb8za1TZZZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1039932-2a71a7caf77c40efa4eadbe4e272fa69.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233504/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

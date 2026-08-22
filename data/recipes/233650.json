@@ -1,0 +1,78 @@
+{
+  "id": "233650",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233650/quick-avocado-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/233650/quick-avocado-salad/",
+  "title": "Quick Avocado Salad",
+  "description": "This green salad uses fresh avocado slices, white onion, red onion, and bacon bits.",
+  "authors": [
+    "Audrey"
+  ],
+  "date_published": "2020-02-01T02:51:25-05:00",
+  "date_modified": "2025-02-03T10:06:40-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups chopped romaine lettuce",
+    "1 green bell pepper, chopped",
+    "1 red onion, chopped",
+    "1 white onion, chopped",
+    "2 tablespoons bacon bits",
+    "2 avocados - peeled, pitted, and sliced",
+    "0.5 lime, juiced",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss lettuce, bell pepper, red onion, white onion, and bacon bits together in a bowl; top with avocado. Drizzle lime juice over the salad and toss gently to coat with the juice. Season salad with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "85 mg",
+    "sugarContent": "3 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/BIMX_PChQD0xvRn4hLsaPyv9PH4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1124818-156e56b4500b4a3aae1eabe5004850c9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233650/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

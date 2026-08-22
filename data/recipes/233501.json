@@ -1,0 +1,87 @@
+{
+  "id": "233501",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233501/turkey-sausage-barley-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/233501/turkey-sausage-barley-soup/",
+  "title": "Turkey Sausage Barley Soup",
+  "description": "Turkey sausage, spinach, and barley are a perfect trio for this delicious soup recipe.",
+  "authors": [
+    "Juli Carvi"
+  ],
+  "date_published": "2018-10-04T09:04:14-04:00",
+  "date_modified": "2025-04-07T01:07:09-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT90M",
+  "total_time": "PT105M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 large onion, diced",
+    "0.75 pound bulk turkey sausage",
+    "1 clove garlic, crushed",
+    "1 (32 fluid ounce) container chicken stock",
+    "6 ounces frozen chopped spinach",
+    "2 teaspoons kosher salt",
+    "ground black pepper to taste",
+    "0.33333334326744 cup barley"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large pot over medium heat. Cook and stir onion in hot oil until soft, about 5 minutes. Add turkey sausage and garlic, breaking sausage into small pieces with a wooden spoon; cook and stir until sausage is browned, about 5 minutes. Pour chicken stock over the sausage mixture. Stir spinach into broth; bring to a simmer and season with kosher salt and black pepper. Bring the soup to a boil, reduce heat to medium-low, and cook at a simmer for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir barley into the soup and continue to cook until the barley is tender, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "175 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "43 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1587 mg",
+    "sugarContent": "2 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7WS6yT3bv28TjVNczpKjFiMg6_g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2802165-5cbfbf75f2514fd597040944716c3e29.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233501/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

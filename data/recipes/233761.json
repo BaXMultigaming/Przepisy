@@ -1,0 +1,79 @@
+{
+  "id": "233761",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233761/cucumber-soup-with-tomatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/233761/cucumber-soup-with-tomatoes/",
+  "title": "Cucumber Soup with Tomatoes",
+  "description": "This five-ingredient recipe for cucumber soup with tomatoes is a quick and refreshing summertime lunch or dinner.",
+  "authors": [
+    "JRELERJR"
+  ],
+  "date_published": "2013-08-09T04:34:05-04:00",
+  "date_modified": "2022-01-14T01:24:54-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cucumbers - peeled, quartered, and seeded",
+    "1 (14.5 ounce) can chicken broth",
+    "1 cup chopped tomato",
+    "0.25 cup fresh lime juice",
+    "0.125 teaspoon cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place 2 cucumbers in a blender; pour in chicken stock. Blend cucumber mixture until smooth and pureed; pour cucumber puree into a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Chop the remaining 2 cucumbers. Stir chopped cucumbers, tomato, lime juice, and cayenne pepper into pureed cucumber until well mixed. Refrigerate until chilled, at least 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "442 mg",
+    "sugarContent": "2 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hZ8OsgFNNfhZ8UoANu5EE5Ck1oE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2483304-65759cb72ea94ae8b3445f782b48b83b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233761/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "233300",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233300/easy-mexican-goulash/",
+  "requested_url": "https://www.allrecipes.com/recipe/233300/easy-mexican-goulash/",
+  "title": "Easy Mexican Goulash",
+  "description": "Ground beef simmers in an easy, taco-spiced tomato sauce in this quick macaroni dinner.",
+  "authors": [
+    "Cacki"
+  ],
+  "date_published": "2020-03-10T02:52:06-04:00",
+  "date_modified": "2026-03-19T06:28:40-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 small onion, chopped fine",
+    "0.25 cup finely chopped green bell pepper",
+    "1 tablespoon Worcestershire sauce",
+    "1 (10 ounce) can diced tomatoes with green chile peppers",
+    "1 (9 ounce) package frozen corn",
+    "0.5 cup medium salsa",
+    "2 tablespoons taco seasoning mix",
+    "1 (8 ounce) package elbow macaroni"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook and stir beef, onion, bell pepper, and Worcestershire sauce in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease. Add tomatoes, corn, salsa, and taco seasoning. Cover and simmer while preparing macaroni.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until cooked through but firm to the bite, 8 minutes. Drain. Stir macaroni into beef mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "530 kcal",
+    "carbohydrateContent": "66 g",
+    "cholesterolContent": "79 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "921 mg",
+    "sugarContent": "7 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "83"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cgGX2CMpFPi3YwJHTHb9ReYunT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1448062-easy-mexican-goulash-Rock_lobster-4x3-1-5eefe870578d40a39e286504123bf459.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233300/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

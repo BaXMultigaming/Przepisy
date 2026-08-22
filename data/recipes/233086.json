@@ -1,0 +1,76 @@
+{
+  "id": "233086",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233086/ranchy-fruit-and-nut-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/233086/ranchy-fruit-and-nut-salad/",
+  "title": "Ranchy Fruit and Nut Salad",
+  "description": "Nuts, seeds, and dried fruit are tossed with mixed greens and ranch dressing for a simple and tasty salad perfect for summer picnics.",
+  "authors": [
+    "Jason Melo Hall"
+  ],
+  "date_published": "2016-06-04T10:08:40-04:00",
+  "date_modified": "2016-06-04T10:08:40-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups mixed salad greens",
+    "0.25 cup ranch dressing",
+    "0.75 cup diced tomato",
+    "0.75 cup dried cranberries",
+    "0.5 cup sunflower seeds",
+    "0.33333334326744 cup almonds",
+    "2 tablespoons flax seeds",
+    "0.33333334326744 teaspoon sea salt",
+    "0.25 teaspoon chopped garlic",
+    "2 tablespoons grated Parmesan cheese, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mix salad greens and ranch dressing together in a bowl until evenly coated. Add tomato, cranberries, sunflower seeds, almonds, flax seeds, sea salt, and garlic; mix well. Top with Parmesan cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "184 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "170 mg",
+    "sugarContent": "9 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/P8pSF7rNG0xsaJhsDtt768cH4s0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2279729-9c0ea4fa852d4e70a79a7b06af8e65a9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233086/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

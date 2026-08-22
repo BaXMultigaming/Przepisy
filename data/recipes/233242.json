@@ -1,0 +1,91 @@
+{
+  "id": "233242",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233242/cranberry-fluff/",
+  "requested_url": "https://www.allrecipes.com/recipe/233242/cranberry-fluff/",
+  "title": "Cranberry Fluff",
+  "description": "Delicious, quick, and easy salad with ground cranberries, diced apple, grapes, and walnuts.",
+  "authors": [
+    "Doty"
+  ],
+  "date_published": "2020-06-18T23:55:18-04:00",
+  "date_modified": "2022-01-28T12:52:32-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT260M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Side Dish",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups miniature marshmallows",
+    "2 cups ground cranberries",
+    "0.75 cup white sugar",
+    "2 cups diced apple",
+    "0.5 cup seedless grapes, halved",
+    "0.5 cup chopped walnuts",
+    "0.25 teaspoon salt",
+    "0.5 cup heavy whipping cream"
+  ],
+  "steps": [
+    {
+      "text": "Stir marshmallows, cranberries, and sugar together in a saucepan over low heat; cook and stir until the marshmallows melt completely, about 15 minutes. Transfer marshmallow mixture to a bowl and refrigerate 4 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir apples, grapes, walnuts, and salt into the marshmallow mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat whipping cream in a chilled bowl using an electric mixer until stiff peaks form; fold into the marshmallow mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "275 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "103 mg",
+    "sugarContent": "36 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5XnA1zuATG0t7UVH3N5jsvrJgVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1971302-f46c3eac111843f681e893dba4343e05.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233242/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "233978",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233978/breakfast-sweet-tooth/",
+  "requested_url": "https://www.allrecipes.com/recipe/233978/breakfast-sweet-tooth/",
+  "title": "Breakfast Sweet Tooth",
+  "description": "Raw egg, milk, cinnamon, sugar, and vanilla blend for a protein-packed and slightly sweet morning beverage, perfect for your back-to-school routine.",
+  "authors": [
+    "Alex"
+  ],
+  "date_published": "2020-06-18T23:55:50-04:00",
+  "date_modified": "2020-06-18T23:55:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1 egg",
+    "1 tablespoon white sugar",
+    "1 teaspoon ground cinnamon",
+    "0.5 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Blend milk, egg, sugar, cinnamon, and vanilla extract in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "127 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "103 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "85 mg",
+    "sugarContent": "12 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/F0X7K6wQj_noy_0_6GQpO0Uf9rw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2572766-e86b8e7496c24036867cb25a04b9d014.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233978/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

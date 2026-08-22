@@ -1,0 +1,92 @@
+{
+  "id": "233287",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233287/oven-baked-omelet/",
+  "requested_url": "https://www.allrecipes.com/recipe/233287/oven-baked-omelet/",
+  "title": "Oven Baked Omelet",
+  "description": "Make an omelet in the oven with this perfectly puffy recipe made with sour cream and milk. This is a great dish to make when cooking for several people!",
+  "authors": [
+    "sarigal"
+  ],
+  "date_published": "2018-06-08T10:09:11-04:00",
+  "date_modified": "2026-01-06T11:13:33-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon butter",
+    "9 large eggs",
+    "0.5 cup sour cream",
+    "0.5 cup milk",
+    "1 teaspoon salt",
+    "2 green onions, chopped",
+    "0.25 cup shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease an 8x8-inch baking dish with butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat eggs, sour cream, milk, and salt in a bowl until blended. Stir in green onions. Pour the mixture into the prepared baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until set, 25 to 30 minutes. Sprinkle Cheddar cheese over eggs and continue baking until cheese is melted, 2 to 3 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "296 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "546 mg",
+    "sugarContent": "2 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "223"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/T6KR5SrQkkPVfKnZLVfi5Ct2PsI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2060670-oven-baked-omelet-naples34102-4x3-1-6065512bc736416c8840fdea3fc0ffa5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233287/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

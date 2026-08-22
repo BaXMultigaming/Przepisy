@@ -1,0 +1,89 @@
+{
+  "id": "233925",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233925/chicken-and-brown-rice-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/233925/chicken-and-brown-rice-soup/",
+  "title": "Chicken and Brown Rice Soup",
+  "description": "This chicken and brown rice soup is easy to prepare and loaded with black beans and an assortment of vegetables for a warm, comforting, and hearty meal.",
+  "authors": [
+    "grayartist"
+  ],
+  "date_published": "2018-06-08T10:09:49-04:00",
+  "date_modified": "2024-01-13T06:41:02-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT105M",
+  "total_time": "PT125M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 cups chicken broth",
+    "2 skinless, boneless chicken breast halves",
+    "1 cup diced celery",
+    "1 cup diced onion",
+    "0.25 cup diced carrots",
+    "0.25 cup corn",
+    "0.25 cup drained and rinsed black beans",
+    "1 teaspoon dried sage",
+    "1 teaspoon ground black pepper",
+    "1 teaspoon salt",
+    "1 bay leaf",
+    "0.75 cup brown rice"
+  ],
+  "steps": [
+    {
+      "text": "Bring chicken broth to a boil in a large pot. Add chicken breasts and boil until no longer pink in the center, about 20 minutes. Remove chicken from broth with a slotted spoon; shred with a fork.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir shredded chicken back into broth. Add celery, onion, carrots, corn, black beans, sage, pepper, salt, and bay leaf. Cook until vegetables are slightly softened and flavors of soup have blended, about 20 minutes. Add brown rice and simmer until tender, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "108 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "878 mg",
+    "sugarContent": "3 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "51"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Y348fBgfqfHBl_oF9z_M2XUMtcM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9017398-c59577c9d61b4542831ece0a80f0c1f1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233925/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

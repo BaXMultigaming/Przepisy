@@ -1,0 +1,75 @@
+{
+  "id": "233901",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233901/tor-tunas/",
+  "requested_url": "https://www.allrecipes.com/recipe/233901/tor-tunas/",
+  "title": "Tor-Tunas",
+  "description": "Tuna salad is rolled inside a tortilla, creating a kid-pleasing &#39;tor-tuna&#39; that is perfect for lunch boxes or on-the-go eating.",
+  "authors": [
+    "bizycooker"
+  ],
+  "date_published": "2019-07-10T03:04:48-04:00",
+  "date_modified": "2019-07-10T03:04:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (5 ounce) cans tuna, drained",
+    "3 tablespoons mayonnaise",
+    "1.5 tablespoons pickle relish",
+    "1 tablespoon chopped onion",
+    "1 tablespoon chopped celery",
+    "1 teaspoon lemon juice, or to taste",
+    "1 pinch garlic salt, or to taste",
+    "4 leaves lettuce",
+    "4 (8 inch) flour tortillas, warmed"
+  ],
+  "steps": [
+    {
+      "text": "Mix tuna, mayonnaise, pickle relish, onion, celery, lemon juice, and garlic salt together in a bowl. Lay 1 lettuce leaf on each tortilla. Spoon tuna mixture in a line across the middle of each tortilla. Fold opposing edges of the tortilla to overlap the filling. Roll 1 of the opposing edges around the filling in a burrito-style.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "455 mg",
+    "sugarContent": "2 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/k_uw_QB6Of-ljpTtOg_Covy7WAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1109911-a3807ad6356344679b8e6570e05fc885.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233901/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

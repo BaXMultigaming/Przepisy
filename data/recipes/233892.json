@@ -1,0 +1,118 @@
+{
+  "id": "233892",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233892/simple-watermelon-sorbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/233892/simple-watermelon-sorbet/",
+  "title": "Watermelon Sorbet",
+  "description": "An easy watermelon sorbet recipe made by freezing pureed watermelon, sugar, and lemon juice until icy cold for a sweet and refreshing summer dessert.",
+  "authors": [
+    "CookinginFL"
+  ],
+  "date_published": "2020-06-19T21:50:47-04:00",
+  "date_modified": "2026-02-14T15:05:20-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT5M",
+  "total_time": "PT60M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "0.5 cup water",
+    "0.25 cup lemon juice",
+    "3 cups cubed seeded watermelon"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/lxjkSMZvv9CyPTFjRLiXOwW2Wsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/233892-watermelon-sorbet-VAT-005-step-01-8991ae9b01ea48dca79298c0a0d47d1c.jpg"
+      ],
+      "image": "assets/images/233892/step_01.webp"
+    },
+    {
+      "text": "Combine sugar, water, and lemon juice in a saucepan over medium heat; cook and stir until sugar is dissolved, about 5 minutes. Remove from heat and refrigerate until cooled, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/kcYNq6gul9Wl3xqjVXLwAV7lG0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/233892-watermelon-sorbet-VAT-006-step-02-48fa475a8beb4a7788f9b81686adc50d.jpg"
+      ],
+      "image": "assets/images/233892/step_02.webp"
+    },
+    {
+      "text": "Blend watermelon in a blender or food processor until pureed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UQRMvhdm5t8XYx-mfIDYYTJcyPA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/233892-watermelon-sorbet-VAT-007-step-03-cb891f8651184f7887eee2e47db0ddd2.jpg"
+      ],
+      "image": "assets/images/233892/step_03.webp"
+    },
+    {
+      "text": "Stir pureed watermelon into sugar mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ITAgIbXN_aJi9wv4YM8MYxJboT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/233892-watermelon-sorbet-VAT-008-step-04-f4b00d478f2e4b2e9c2b8830f87cd327.jpg"
+      ],
+      "image": "assets/images/233892/step_04.webp"
+    },
+    {
+      "text": "Transfer watermelon mixture to an ice cream maker and freeze according to manufacturer's instructions, about 20 minutes. Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/t5pBwFeV_Qt8G8OEad5_jZsnLQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/233892-watermelon-sorbet-VAT-009-step-05-caf06b22218642e1ae7df60482cb697e.jpg"
+      ],
+      "image": "assets/images/233892/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "116 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "29 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "20"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UlTqqNxnFugjt0ARL9ec3mr8Rng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/233892-watermelon-sorbet-VAT-001-4x3-a1fe23b276e4496aabc2e9a41897f829.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233892/hero.webp",
+    "steps": [
+      "assets/images/233892/step_01.webp",
+      "assets/images/233892/step_02.webp",
+      "assets/images/233892/step_03.webp",
+      "assets/images/233892/step_04.webp",
+      "assets/images/233892/step_05.webp"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "233430",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233430/spiced-lemonade-concentrate/",
+  "requested_url": "https://www.allrecipes.com/recipe/233430/spiced-lemonade-concentrate/",
+  "title": "Spiced Lemonade Concentrate",
+  "description": "Use cinnamon and cloves to add spice to a warm-weather favorite in this lemonade recipe.",
+  "authors": [
+    "Turtle"
+  ],
+  "date_published": "2020-06-18T23:55:28-04:00",
+  "date_modified": "2022-01-14T01:27:10-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT45M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "1 cup white sugar",
+    "1 cinnamon stick",
+    "0.5 teaspoon whole cloves",
+    "1 lemon, juiced and zested",
+    "3 lemon, juiced"
+  ],
+  "steps": [
+    {
+      "text": "Combine water, sugar, cinnamon stick, cloves, and lemon zest in a saucepan; cook and stir over medium heat until just boiling, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium-low and continue to cook until reduced to a thick syrup, 10 to 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir lemon juice into the syrup; bring to a boil and cook 1 to 2 minutes more; strain into a bowl and refrigerate until chilled.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "107 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "25 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JIwfzRS-qF0Nt5hGgX-kXZogecA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1032580-6111e2dc2bd441669c915453bca8b433.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233430/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

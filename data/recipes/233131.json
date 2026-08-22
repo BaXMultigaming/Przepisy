@@ -1,0 +1,82 @@
+{
+  "id": "233131",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233131/pork-rites-taverns/",
+  "requested_url": "https://www.allrecipes.com/recipe/233131/pork-rites-taverns/",
+  "title": "Pork Rites (Taverns)",
+  "description": "This take on sloppy joes uses ground pork in place of the beef for a slight variation on a classic American dish.",
+  "authors": [
+    "jodygreiner"
+  ],
+  "date_published": "2020-03-05T00:10:44-05:00",
+  "date_modified": "2020-03-05T00:10:44-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "12 sandwiches"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds ground pork",
+    "1 cup ketchup",
+    "0.5 cup water",
+    "2 tablespoons vinegar",
+    "1 tablespoon brown sugar",
+    "1 teaspoon dry mustard",
+    "1 teaspoon salt",
+    "12 hamburger buns"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large skillet over medium-high heat. Cook and stir ground pork in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir ketchup, water, vinegar, brown sugar, dry mustard, and salt into the ground beef; bring to a simmer and cook for 20 minutes. Serve on hamburger buns.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "303 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "49 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "696 mg",
+    "sugarContent": "6 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WcUfLcM3L7SVqQd5QlfVOD8OKfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1114722-67433bb24042411199db6085253081cb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233131/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

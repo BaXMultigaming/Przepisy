@@ -1,0 +1,108 @@
+{
+  "id": "233904",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/233904/shrimp-orzo-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/233904/shrimp-orzo-pesto/",
+  "title": "Shrimp Orzo Pesto",
+  "description": "Orzo is tossed with pesto, shrimp, and plenty of seasoning creating a quick Italian-inspired meal perfect for weeknights.",
+  "authors": [
+    "M Kertello"
+  ],
+  "date_published": "2018-06-08T10:09:48-04:00",
+  "date_modified": "2025-01-02T11:50:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "3"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 ounces orzo pasta",
+    "1 tablespoon pesto, divided",
+    "3 tablespoons extra-virgin olive oil, divided",
+    "2 cups frozen cooked shrimp, thawed",
+    "0.5 cup diced red bell pepper",
+    "1 teaspoon capers",
+    "0.25 teaspoon dried oregano",
+    "0.25 teaspoon garlic powder",
+    "0.25 teaspoon red pepper flakes",
+    "salt and ground black pepper to taste",
+    "0.25 cup grated Parmesan cheese",
+    "1 tablespoon olive oil, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook orzo in boiling water, occasionally stirring until cooked through but firm to the bite, about 11 minutes. Drain and transfer to a bowl; mix 2 teaspoons pesto and 2 tablespoons extra-virgin olive oil into orzo.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat remaining tablespoon extra-virgin olive oil in a skillet; cook and stir shrimp, red bell pepper, and capers in hot oil until shrimp is heated through, 3 to 5 minutes. Stir remaining teaspoon pesto, oregano, garlic powder, red pepper flakes, salt, and pepper into shrimp mixture; cook and stir until combined, 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix orzo into shrimp mixture; sprinkle with Parmesan cheese and drizzle with olive oil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/STgaTbKvK8FCA8sMZqivh0hkZJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5339125-shrimp-orzo-pesto-Stephenie-Labandz-1x1-1-65f40cb044474ed58cfd9bb4d205ffd7.jpg"
+      ],
+      "image": "assets/images/233904/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "585 kcal",
+    "carbohydrateContent": "59 g",
+    "cholesterolContent": "174 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "366 mg",
+    "sugarContent": "4 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "33"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/RbfOy4UX-K3AjnAEN.mp4",
+    "description": "This is one of my finest creations, made much easier by the frozen pre-cooked shrimp!\n",
+    "duration": "PT1M3S",
+    "name": "How to Make Shrimp Orzo Pesto",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/RbfOy4UX/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:44:58-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/STgaTbKvK8FCA8sMZqivh0hkZJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5339125-shrimp-orzo-pesto-Stephenie-Labandz-1x1-1-65f40cb044474ed58cfd9bb4d205ffd7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/233904/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/233904/step_03.webp"
+    ]
+  }
+}
