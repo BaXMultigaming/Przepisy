@@ -1,0 +1,118 @@
+{
+  "id": "210084",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/210084/chocolate-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/210084/chocolate-syrup/",
+  "title": "Homemade Chocolate Syrup",
+  "description": "Make your own chocolate syrup with this quick, simple recipe that tastes better than store-bought. Use it for chocolate milk or your favorite dessert.",
+  "authors": [
+    "Zen K"
+  ],
+  "date_published": "2020-06-18T23:40:41-04:00",
+  "date_modified": "2025-10-22T12:39:40-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "16"
+  ],
+  "categories": [
+    "Dessert",
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups water",
+    "1.5 cups white sugar",
+    "1 cup cocoa powder",
+    "1 dash salt",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/V1rSWn3FAHs9ZrFpbyuTljsPRBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-210084-homemade-chocolate-syrup-DDMFS-4x3-step-01-a8730d10a5e4474e9de0141b8b20e549.jpg"
+      ],
+      "image": "assets/images/210084/step_01.webp"
+    },
+    {
+      "text": "Combine water, sugar, cocoa powder, and salt together in a saucepan over low heat; whisk constantly until the mixture thickens and begins to simmer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jJtyXzaEsZ_nmR1PlQnFAqb0RhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-210084-homemade-chocolate-syrup-DDMFS-4x3-step-02-04c4507bf02f447a81e89b80715cbe92.jpg"
+      ],
+      "image": "assets/images/210084/step_02.webp"
+    },
+    {
+      "text": "Remove from heat and stir in vanilla",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YQKiZQyfYgce_7ILQrTxtI0XiWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-210084-homemade-chocolate-syrup-DDMFS-4x3-step-04-1df6b1d288ef46c4bd169557d9409829.jpg"
+      ],
+      "image": "assets/images/210084/step_03.webp"
+    },
+    {
+      "text": "Serve warm or cover and refrigerate until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/9v5REWmDDFi5sh6VjppTACeA_AI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-210084-homemade-chocolate-syrup-DDMFS-4x3-hero-d50d8bbbde9d473ab79160fedcf0d334.jpg"
+      ],
+      "image": "assets/images/210084/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "85 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "26 mg",
+    "sugarContent": "19 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "636"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/awvrgJQo-K3AjnAEN.mp4",
+    "description": "Rich, sweet and full of chocolatey flavor, this delicious homemade sauce thickens as it chills. Replace the fructose syrup store brand syrup with your own decadent mix and make ordinary ol’ ice cream into the awesome sundae it was meant to be! Also tasty swirled into milk or as a decadent dip for brownies and cookies!",
+    "duration": "PT51S",
+    "name": "Chocolate Syrup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/awvrgJQo/thumbnails/XLYzv2QC.jpg?width=1280",
+    "uploadDate": "2021-07-13T02:24:58-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9v5REWmDDFi5sh6VjppTACeA_AI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-210084-homemade-chocolate-syrup-DDMFS-4x3-hero-d50d8bbbde9d473ab79160fedcf0d334.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/210084/hero.webp",
+    "steps": [
+      "assets/images/210084/step_01.webp",
+      "assets/images/210084/step_02.webp",
+      "assets/images/210084/step_03.webp",
+      "assets/images/210084/step_04.webp"
+    ]
+  }
+}

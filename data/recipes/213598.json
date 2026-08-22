@@ -1,0 +1,84 @@
+{
+  "id": "213598",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/213598/brown-rice-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/213598/brown-rice-pudding/",
+  "title": "Brown Rice Pudding",
+  "description": "This rice pudding is made with brown rice and heavy cream with the optional addition of raisins.",
+  "authors": [
+    "HeidiLB"
+  ],
+  "date_published": "2020-06-18T23:41:45-04:00",
+  "date_modified": "2020-06-18T23:41:45-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT100M",
+  "total_time": "PT110M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups heavy cream",
+    "1.25 cups water",
+    "0.5 cup short-grain brown rice",
+    "0.25 teaspoon salt",
+    "0.5 cup raisins",
+    "3 egg yolks",
+    "0.25 cup white sugar",
+    "0.5 teaspoon ground cinnamon",
+    "1 tablespoon butter, softened",
+    "2 teaspoons vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Bring the heavy cream, water, brown rice, and salt to a boil in a pot; reduce heat to low, cover, and simmer until the liquid is completely absorbed, about 80 minutes. Fold the raisins into the mixture and continue cooking until the raisins plump, about 10 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk the egg yolks, sugar, and cinnamon together in a bowl; slowly pour into the pot with the rice while stirring. Cook and stir until the mixture thickens, about 6 minutes. Remove from heat and stir in the butter and vanilla extract.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "517 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "284 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "24 g",
+    "sodiumContent": "211 mg",
+    "sugarContent": "25 g",
+    "fatContent": "40 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/f6VWW98fP6dOhrzCo-RoJ5r5Mbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/724515-9e419885500b476a97cc6c061ee73f23.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/213598/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

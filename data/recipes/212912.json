@@ -1,0 +1,98 @@
+{
+  "id": "212912",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/212912/beef-nilaga/",
+  "requested_url": "https://www.allrecipes.com/recipe/212912/beef-nilaga/",
+  "title": "Beef Nilaga",
+  "description": "Nilaga is a Filipino stew with meat and vegetables. This version features beef short ribs cooked with potatoes and chayote squash in a savory broth.",
+  "authors": [
+    "lola"
+  ],
+  "date_published": "2019-04-03T23:48:23-04:00",
+  "date_modified": "2024-11-22T18:06:23-05:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT100M",
+  "total_time": "PT130M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Soup"
+  ],
+  "cuisines": [
+    "Filipino",
+    "Asian"
+  ],
+  "regions": [
+    "Filipino",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4.5 pounds beef short ribs",
+    "1 quart water",
+    "2 onions, chopped",
+    "1 tablespoon black peppercorns, crushed",
+    "2 beef bouillon cubes",
+    "2 potatoes, quartered",
+    "1 chayote squash, peeled and quartered",
+    "2 carrots, cut in chunks",
+    "2 stalks celery, quartered",
+    "salt to taste",
+    "0.25 head cabbage, cut into wedges"
+  ],
+  "steps": [
+    {
+      "text": "Place short ribs into a large pot with enough water to cover. Bring to a boil over high heat, then boil for 5 minutes; the ribs will not be fully cooked. Drain and discard cooking water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Return ribs to the pot. Pour in 1 quart water, then add onions, peppercorns, and bouillon cubes. Bring to a boil, then cover, reduce the heat, and simmer for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Skim any fat floating on the surface. Stir in potatoes, chayote squash, carrots, and celery. Cover and simmer until potatoes are tender, about 20 minutes. Season with salt, then add cabbage and cook for 5 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "983 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "168 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "43 g",
+    "saturatedFatContent": "32 g",
+    "sodiumContent": "491 mg",
+    "sugarContent": "9 g",
+    "fatContent": "75 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Tz1LkqmxTV3tIhFD-MwJpzzCMQk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/809737-0f9b9aadb73a47509dbcff04a4443b00.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/212912/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "213708",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/213708/spicy-avocado-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/213708/spicy-avocado-sauce/",
+  "title": "Spicy Avocado Sauce",
+  "description": "This sauce is made of avocado, tomatillo, serrano peppers, and cilantro.",
+  "authors": [
+    "gem"
+  ],
+  "date_published": "2020-02-01T02:51:05-05:00",
+  "date_modified": "2024-12-29T12:16:21-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 fresh tomatillos, husks removed",
+    "4 serrano chile peppers, or to taste",
+    "2 tablespoons chopped fresh cilantro",
+    "1 ripe avocado - peeled, pitted, and quartered",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend tomatillos, serrano chile peppers, and cilantro in a blender until smooth. Add 1 avocado quarter and continue blending until avocado is fully incorporated into mixture; repeat with each piece of avocado. Season with salt; continue processing until smooth. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "2 g",
+    "fatContent": "5 g",
+    "servingSize": "1 1/2 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xY7HuxgmDQlb5zueb7Hyo68TuQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042854-d300152f8a7842e1a58946c59bfa6330.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/213708/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

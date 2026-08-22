@@ -1,0 +1,84 @@
+{
+  "id": "213113",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/213113/rose-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/213113/rose-ice-cream/",
+  "title": "Rose Ice Cream",
+  "description": "Rose syrup, saffron, cardamom, and pistachios turn a plain carton of vanilla ice cream into an inspired dessert.",
+  "authors": [
+    "BigSrisFood"
+  ],
+  "date_published": "2020-06-18T23:41:30-04:00",
+  "date_modified": "2020-06-18T23:41:30-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT140M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Indian Inspired"
+  ],
+  "regions": [
+    "Indian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pinch saffron",
+    "2 tablespoons warm milk",
+    "1.5 quarts vanilla ice cream, softened",
+    "1.5 tablespoons rose syrup",
+    "0.5 teaspoon ground cardamom",
+    "0.25 cup chopped pistachio nuts"
+  ],
+  "steps": [
+    {
+      "text": "Add the saffron to the warm milk and set aside for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine the softened ice cream, saffron with milk, rose syrup, cardamom, and pistachios in a large bowl. Stir until the ice cream is smooth and pink in color. Scoop the ice cream back into the container and freeze 2 hours, or until ready to eat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "230 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "44 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "100 mg",
+    "sugarContent": "23 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mNesvUJDKyFE14hNoCXN31vTAVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3440359-1c1429e6e06a4541accb0b1fae784bcf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/213113/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

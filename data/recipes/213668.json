@@ -1,0 +1,109 @@
+{
+  "id": "213668",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/213668/slow-cooker-bbq-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/213668/slow-cooker-bbq-chicken/",
+  "title": "Slow Cooker BBQ Chicken",
+  "description": "This slow cooker pulled chicken recipe features a from-scratch barbecue sauce sweetened with maple syrup for delicious shredded meat sandwiches.",
+  "authors": [
+    "SHELDAWG"
+  ],
+  "date_published": "2019-07-10T03:02:08-04:00",
+  "date_modified": "2023-04-02T13:44:39-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT390M",
+  "total_time": "PT395M",
+  "yield": [
+    "8",
+    "8 sandwiches"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large skinless, boneless chicken breast halves",
+    "1 cup ketchup",
+    "0.5 cup maple syrup",
+    "2 tablespoons mustard",
+    "2 tablespoons Worcestershire sauce",
+    "2 teaspoons lemon juice",
+    "0.5 teaspoon chili powder",
+    "0.25 teaspoon garlic powder",
+    "0.125 teaspoon cayenne pepper",
+    "2 dashes hot pepper sauce, or to taste",
+    "8 sandwich rolls, split"
+  ],
+  "steps": [
+    {
+      "text": "Place chicken breasts into the bottom of a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a bowl, stir together ketchup, maple syrup, mustard, Worcestershire sauce, lemon juice, chili powder, garlic powder, cayenne pepper, and hot sauce until mixture is well blended. Pour over chicken.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on Low for 6 hours. Shred chicken with 2 forks, then cook for 30 more minutes. Serve shredded chicken and sauce spooned into sandwich rolls.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/aaa8OzJFrE6jG6Qs58LSUIQKTlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/670665-6c296a286f494299a3d9ecf850ebedcb.jpg"
+      ],
+      "image": "assets/images/213668/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "589 kcal",
+    "carbohydrateContent": "90 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1234 mg",
+    "sugarContent": "24 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "471"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Kvxnuhxm-ma1DlVvV.mp4",
+    "description": "Shredded slow-simmered chicken in a homemade barbecue sauce.",
+    "duration": "PT2M16S",
+    "name": "Slow Cooker BBQ Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Kvxnuhxm/poster.jpg?width=1280",
+    "uploadDate": "2021-07-11T00:38:40-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aaa8OzJFrE6jG6Qs58LSUIQKTlk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/670665-6c296a286f494299a3d9ecf850ebedcb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/213668/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/213668/step_03.webp"
+    ]
+  }
+}

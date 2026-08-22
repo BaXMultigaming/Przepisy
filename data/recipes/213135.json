@@ -1,0 +1,69 @@
+{
+  "id": "213135",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/213135/butterbeer/",
+  "requested_url": "https://www.allrecipes.com/recipe/213135/butterbeer/",
+  "title": "Butterbeer",
+  "description": "When your little wizards get home from Hogwarts, give them this hot soft drink-based Butterbeer as a treat.",
+  "authors": [
+    "Kytchyn Wytch"
+  ],
+  "date_published": "2020-03-05T00:07:06-05:00",
+  "date_modified": "2020-03-05T00:07:06-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT1M",
+  "total_time": "PT6M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups ginger ale",
+    "1 teaspoon butter",
+    "1 tablespoon brown sugar",
+    "0.25 teaspoon cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Place the ginger ale in a 2-cup microwave-safe measuring cup, and microwave on high until the soda is hot but not boiling, 1 to 2 minutes. Gently stir in the butter to melt, then stir in the brown sugar and cinnamon. Don't stir too vigorously to avoid the soda fizzing up. Pour the drink into mugs, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "131 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "46 mg",
+    "sugarContent": "28 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cJO2tMU03gT_uy_wW0ERmsBpfvc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2502053-38da5ac13b87406d8f05ccf6cce2b1ca.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/213135/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

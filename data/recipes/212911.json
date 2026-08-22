@@ -1,0 +1,125 @@
+{
+  "id": "212911",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/212911/filipino-beef-steak/",
+  "requested_url": "https://www.allrecipes.com/recipe/212911/filipino-beef-steak/",
+  "title": "Filipino Beef Steak",
+  "description": "This beef steak is a quick and easy Filipino dish with meat marinated in lemon juice and soy sauce, pan-fried, and served with fried onion and garlic.",
+  "authors": [
+    "lola"
+  ],
+  "date_published": "2020-06-18T23:41:12-04:00",
+  "date_modified": "2025-12-15T16:12:58-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT85M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Filipino",
+    "Asian"
+  ],
+  "regions": [
+    "Filipino",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "4 pounds New York strip steak, sliced thin",
+    "1 lemon, juiced",
+    "3 tablespoons soy sauce",
+    "1 teaspoon white sugar",
+    "salt and pepper to taste",
+    "1 tablespoon cornstarch",
+    "0.25 cup vegetable oil",
+    "3 tablespoons olive oil",
+    "1 onion, chopped",
+    "2 cloves garlic, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Place sliced beef in a large bowl. Whisk together lemon juice, soy sauce, sugar, salt, and pepper in a small bowl; pour over beef and toss to coat. Stir in cornstarch. Cover and refrigerate for 1 hour to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/AnlfgPEO0kUE8KeHjtfpCAf5b0g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212911-filipino-beef-steak-ddmfs-Step1-0270-42a71aeb6a2344ec9a5872020608f8f5.jpg"
+      ],
+      "image": "assets/images/212911/step_01.webp"
+    },
+    {
+      "text": "Heat vegetable oil in a large skillet over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove beef slices from marinade, shaking to remove any excess liquid. Discard marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Working in batches, fry beef slices in hot oil until they start to firm and are reddish-pink and juicy in the center, 2 to 4 minutes per side. Transfer beef slices to a serving platter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/4Y55zma74QhVJw_0NKRWpNv5ws0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212911-filipino-beef-steak-ddmfs-Step3-0277-6d939ae61b214e1ebf7036b3c4a1b6dd.jpg"
+      ],
+      "image": "assets/images/212911/step_04.webp"
+    },
+    {
+      "text": "Heat olive oil in a small skillet over medium heat. Cook and stir onion and garlic in hot oil until onion is golden brown, 5 to 7 minutes; spoon over beef slices.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/PgGXKhvTeAOqJZV02jgajxP9Fbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212911-filipino-beef-steak-ddmfs-Step4-0280-94162032c1c5401baa6ad7b6a6bcb858.jpg"
+      ],
+      "image": "assets/images/212911/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "639 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "143 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "48 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "381 mg",
+    "sugarContent": "1 g",
+    "fatContent": "47 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/btUERcJpWP1SuxDjzIKqsfw31wk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212911-filipino-beef-steak-ddmfs-3X4-0284-ac57852ee0d54c8e875846c096effb3c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/212911/hero.webp",
+    "steps": [
+      "assets/images/212911/step_01.webp",
+      null,
+      null,
+      "assets/images/212911/step_04.webp",
+      "assets/images/212911/step_05.webp"
+    ]
+  }
+}

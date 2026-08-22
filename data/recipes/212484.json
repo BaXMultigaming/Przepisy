@@ -1,0 +1,106 @@
+{
+  "id": "212484",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/212484/sweet-potato-puff/",
+  "requested_url": "https://www.allrecipes.com/recipe/212484/sweet-potato-puff/",
+  "title": "Sweet Potato Puff",
+  "description": "A sweet and creamy baked casserole of sweet potatoes with raisins and walnuts gets a fluffy topping of meringue instead of marshmallows.",
+  "authors": [
+    "Dan"
+  ],
+  "date_published": "2020-06-18T23:40:54-04:00",
+  "date_modified": "2020-06-18T23:40:54-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT30M",
+  "total_time": "PT80M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 cups peeled, cubed sweet potatoes",
+    "4 eggs, separated",
+    "0.25 cup butter, softened",
+    "0.25 teaspoon salt",
+    "0.25 cup raisins",
+    "0.25 cup coarsely chopped walnuts",
+    "0.25 cup sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place the cubed sweet potatoes into a large pot and cover with water. Bring to a boil, then reduce heat to medium-low, and simmer until tender, about 30 minutes. Drain and let cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9x9 inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the cooked sweet potatoes, egg yolks, butter, and salt into the work bowl of an electric mixer, and beat on high speed until the sweet potatoes are creamy and smooth, 3 to 5 minutes. Spoon the sweet potato mixture into the prepared baking dish, and level the top with a spoon. Sprinkle raisins and walnuts over the top of the casserole, and lightly press them into the surface of the sweet potatoes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a mixing bowl, beat the egg whites until foamy, about 1 minute. Gradually pour in the sugar and continue beating until the meringue is glossy and holds soft peaks, 2 to 3 more minutes. Spread the meringue over the casserole.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until the casserole is hot and the meringue is lightly browned, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "236 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "108 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "204 mg",
+    "sugarContent": "14 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XETGhId8PmcTChOAC8ixxfwM3ao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/516149-86ee8d0970194521a4a1711938faf183.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/212484/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

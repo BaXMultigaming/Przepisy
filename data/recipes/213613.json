@@ -1,0 +1,87 @@
+{
+  "id": "213613",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/213613/pickled-veggie-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/213613/pickled-veggie-salad/",
+  "title": "Pickled Veggie Salad",
+  "description": "This tangy vegetable slaw will brighten up any dish.",
+  "authors": [
+    "JARRIE"
+  ],
+  "date_published": "2020-02-01T02:51:05-05:00",
+  "date_modified": "2020-02-01T02:51:05-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT5M",
+  "total_time": "PT150M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup olive oil",
+    "0.25 cup sesame seeds",
+    "0.5 cup white vinegar",
+    "0.33333334326744 cup teriyaki sauce",
+    "0.5 teaspoon black pepper",
+    "1 teaspoon crushed red pepper flakes",
+    "0.25 teaspoon minced fresh ginger root",
+    "4 teaspoons granular no-calorie sucralose sweetener (such as Splenda®)",
+    "3 stalks celery",
+    "4 green onions, chopped",
+    "2 carrots, cut into matchsticks",
+    "1 yellow bell pepper, sliced",
+    "1 small cucumber, sliced",
+    "1 small white onion, sliced"
+  ],
+  "steps": [
+    {
+      "text": "Heat the olive oil in a small saucepan over medium heat. Stir in the sesame seeds, and cook until lightly browned, about 3 minutes. Scrape into a metal mixing bowl, and cool to room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk the vinegar, teriyaki sauce, black pepper, red pepper flakes, ginger root, and sweetener into the sesame seed mixture. Stir in the celery, green onions, carrots, bell pepper, cucumber, and onion into the sesame dressing until evenly coated. Cover and refrigerate until cold before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "96 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "388 mg",
+    "sugarContent": "3 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jTKCVCWUEnhCEZO6AysQO5_W5RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/651104-d212b0646e1f413da3a85821c7aad55c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/213613/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

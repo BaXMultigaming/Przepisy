@@ -1,0 +1,114 @@
+{
+  "id": "211190",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/211190/asian-grilled-chicken/",
+  "requested_url": "https://www.allrecipes.com/recipe/211190/asian-grilled-chicken/",
+  "title": "Asian Grilled Chicken",
+  "description": "The flavorful marinade for these grilled chicken thighs is a little sweet, a little salty, and a little tangy, with a hint of spice from Asian chili sauce, curry, and garlic.",
+  "authors": [
+    "LoreleiLee"
+  ],
+  "date_published": "2020-03-05T00:06:56-05:00",
+  "date_modified": "2026-04-17T07:32:05-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT280M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Asian"
+  ],
+  "regions": [
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup soy sauce",
+    "0.33333334326744 cup brown sugar",
+    "2 tablespoons lime juice",
+    "2 tablespoons orange juice",
+    "1 tablespoon Thai-style sweet chili sauce",
+    "1 teaspoon chile-garlic sauce (such as Sriracha®)",
+    "3 cloves garlic, minced",
+    "0.25 teaspoon curry powder",
+    "4 skinless, boneless chicken thighs"
+  ],
+  "steps": [
+    {
+      "text": "Place the soy sauce, brown sugar, lime juice, orange juice, sweet chili sauce, chili-garlic sauce, garlic, and curry powder in a large plastic zipper bag. Seal and knead the bag with your fingers to mix all the ingredients and dissolve the sugar. Place the chicken thighs into the marinade, squeeze out the air from the bag, zip the bag closed, and refrigerate for 4 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium-low heat; lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the chicken from the bag, pour the excess marinade into a small saucepan, and bring to a full boil for about 1 minute to sterilize the marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill the chicken thighs until they are no longer pink in the middle and show grill marks, about 25 minutes, basting them generously with the sterilized marinade as they grill.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/e9MWmiQSmjKbfdEd_fk66QEmSJU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8065907-asian-grilled-chicken-Fazioli-1x1-1-ff15279abafc4e919abea0f46d35e5c4.jpg"
+      ],
+      "image": "assets/images/211190/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "72 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1372 mg",
+    "sugarContent": "20 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "244"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/UzWDFYtC-K3AjnAEN.mp4",
+    "description": "See how to make a quick-and-easy marinade for tender grilled chicken thighs.",
+    "duration": "PT2M25S",
+    "name": "Asian Grilled Chicken",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/UzWDFYtC/poster.jpg?width=1280",
+    "uploadDate": "2021-07-20T14:30:05-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/e9MWmiQSmjKbfdEd_fk66QEmSJU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8065907-asian-grilled-chicken-Fazioli-1x1-1-ff15279abafc4e919abea0f46d35e5c4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/211190/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/211190/step_04.webp"
+    ]
+  }
+}

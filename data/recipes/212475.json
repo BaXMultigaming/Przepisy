@@ -1,0 +1,87 @@
+{
+  "id": "212475",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/212475/delicious-cranberry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/212475/delicious-cranberry-sauce/",
+  "title": "Delicious Cranberry Sauce",
+  "description": "Here&#39;s an easy cranberry sauce that anyone can make, with a hint of orange and some complexity from brown sugar and cinnamon.",
+  "authors": [
+    "Liz"
+  ],
+  "date_published": "2020-06-18T23:40:54-04:00",
+  "date_modified": "2022-01-14T01:22:53-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT55M",
+  "yield": [
+    "9",
+    "3 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup white sugar",
+    "0.5 cup brown sugar",
+    "0.5 cup orange juice",
+    "0.5 cup water",
+    "0.25 teaspoon ground cinnamon",
+    "1 (12 ounce) package fresh or frozen cranberries"
+  ],
+  "steps": [
+    {
+      "text": "Place the sugars, orange juice, water, and cinnamon in a heavy saucepan, and stir to dissolve the sugar. Add the cranberries and bring the mixture to a boil. Cook over medium heat until the berries pop, about 10 minutes. Mash the mixture with a spoon to pop any unpopped berries and help thicken the sauce, if desired, and reduce heat to low and simmer until the sauce is the desired thickness, up to 10 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from the heat, pour the sauce into a bowl, and chill until serving time. Sauce will thicken as it cools.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1r4ll-1kuwYDFqunrLilGWGclw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7622501-8c3933e6ea8349d8aee70e3c6b607ccf.jpg"
+      ],
+      "image": "assets/images/212475/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "113 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "2 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "26 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "79"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/iV7igwh2-K3AjnAEN.mp4",
+    "description": "Here's a classic cranberry sauce for your holiday dinner!",
+    "duration": "PT49S",
+    "name": "Delicious Cranberry Sauce ",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/iV7igwh2/poster.jpg?width=1280",
+    "uploadDate": "2021-07-27T04:01:22-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1r4ll-1kuwYDFqunrLilGWGclw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7622501-8c3933e6ea8349d8aee70e3c6b607ccf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/212475/hero.webp",
+    "steps": [
+      null,
+      "assets/images/212475/step_02.webp"
+    ]
+  }
+}
