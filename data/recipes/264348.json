@@ -1,0 +1,85 @@
+{
+  "id": "264348",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/264348/honey-cinnamon-tahini-spread/",
+  "requested_url": "https://www.allrecipes.com/recipe/264348/honey-cinnamon-tahini-spread/",
+  "title": "Tahini Honey Spread",
+  "description": "Tahini honey spread requires just two main ingredients but is a deliciously different way to enjoy your morning toast. Common in Greece, cinnamon is optional but a great addition!",
+  "authors": [
+    "Diana Moutsopoulos"
+  ],
+  "date_published": "2018-05-30T00:28:53-04:00",
+  "date_modified": "2023-03-27T18:20:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Snack"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.875 cup tahini",
+    "0.33333334326744 cup honey, or more to taste",
+    "1 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Combine tahini, honey, and cinnamon in a bowl. Stir until well combined. Taste and add more honey if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/VasIvZXOcOIvj8vjgpKdGdgK398=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tahini-honey-toast-a1b55fc5c7474e4db6b2302ee517b768.jpg"
+      ],
+      "image": "assets/images/264348/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "108 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "0 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "8 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/OAi4c2wn-K3AjnAEN.mp4",
+    "description": "Spread this tahini on your morning toast for a sweet but sustaining breakfast. The cinnamon can be left out, but it's a delicious addition that gives the spread a special taste.",
+    "duration": "PT43S",
+    "name": "Honey-Cinnamon Tahini Spread",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/OAi4c2wn/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T07:37:53-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VasIvZXOcOIvj8vjgpKdGdgK398=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tahini-honey-toast-a1b55fc5c7474e4db6b2302ee517b768.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/264348/hero.webp",
+    "steps": [
+      "assets/images/264348/step_01.webp"
+    ]
+  }
+}

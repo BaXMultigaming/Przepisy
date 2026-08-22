@@ -1,0 +1,80 @@
+{
+  "id": "264818",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/264818/brown-sugar-coconut-latte/",
+  "requested_url": "https://www.allrecipes.com/recipe/264818/brown-sugar-coconut-latte/",
+  "title": "Brown Sugar Coconut Latte",
+  "description": "This latte is made with 2 types of coconut milk, coconut oil, coconut extract, and brown sugar for the die-hard coconut fan.",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2020-03-05T00:17:48-05:00",
+  "date_modified": "2022-01-04T08:12:34-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup canned coconut milk",
+    "0.5 cup unsweetened coconut milk beverage (such as Silk®)",
+    "1 tablespoon brown sugar",
+    "0.5 teaspoon coconut oil",
+    "0.25 teaspoon coconut extract",
+    "1 cup strong brewed coffee"
+  ],
+  "steps": [
+    {
+      "text": "Combine canned coconut milk, coconut milk beverage, brown sugar, coconut oil, and coconut extract in a saucepan. Heat over low heat until hot. Use an immersion blender to froth milk mixture until foamy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour coconut milk mixture into a large mug, holding foam back with the back of a spoon. Pour in coffee and add foam on top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "464 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "38 g",
+    "sodiumContent": "34 mg",
+    "sugarContent": "13 g",
+    "fatContent": "43 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sY8N7ZBz96lFYpug1169qveXUsk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5407504-cc4f8c3f6bb2470a87db994d16396bd0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/264818/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

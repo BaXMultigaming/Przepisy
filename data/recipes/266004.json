@@ -1,0 +1,87 @@
+{
+  "id": "266004",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/266004/homemade-hot-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/266004/homemade-hot-sauce/",
+  "title": "Homemade Hot Sauce",
+  "description": "Want to try your hand at creating a homemade hot sauce that tastes like Cholula? This basic recipe, including vinegar, dried peppers, and salt, is it.",
+  "authors": [
+    "Wolfehaus"
+  ],
+  "date_published": "2019-04-04T00:12:56-04:00",
+  "date_modified": "2025-04-07T12:45:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "yield": [
+    "16",
+    "2 cups"
+  ],
+  "categories": [
+    "Condiment",
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "1 cup white vinegar",
+    "9 dried pequin peppers, seeded",
+    "6 cloves garlic, minced",
+    "4 dried arbol peppers, seeded",
+    "2 tablespoons ground paprika",
+    "1 tablespoon onion flakes",
+    "1 teaspoon salt",
+    "2 tablespoons cold water",
+    "0.25 teaspoon xanthan gum"
+  ],
+  "steps": [
+    {
+      "text": "Combine 1 cup water, vinegar, pequin peppers, garlic, arbol peppers, paprika, onion flakes, and salt in a small saucepan over medium heat; attach a thermometer to the saucepan. Cook until pepper mixture reaches and maintains 180 degrees F (82 degrees C) for 10 minutes; transfer to a blender and blend until smooth. Cool in the blender until room temperature, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine 2 tablespoons cold water and xanthan gum in a small bowl; add to pepper mixture and blend 30 seconds. Transfer hot sauce to a sterilized airtight bottle. Store in the refrigerator for up to 9 months.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "31 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "151 mg",
+    "sugarContent": "0 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4Nhuz9lIM6i_OJF74ro6sDYyDT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8688811-32c393b95e3d430fbe87f40305a90390.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/266004/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "264880",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/264880/vanilla-chia-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/264880/vanilla-chia-pudding/",
+  "title": "Vanilla Chia Pudding",
+  "description": "This simple chia pudding is prepared in minutes but then has to sit in the fridge overnight. A great healthier dessert with very little sugar to make in advance.",
+  "authors": [
+    "Fiona Taylor"
+  ],
+  "date_published": "2020-06-19T00:29:11-04:00",
+  "date_modified": "2021-09-15T14:36:25-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT495M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups milk",
+    "0.66666668653488 cup chia seeds",
+    "1 tablespoon vanilla extract",
+    "1 tablespoon white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, chia seeds, vanilla extract, and sugar in a bowl. Let sit at room temperature for 10 minutes. Cover and refrigerate at least 8 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "181 kcal",
+    "carbohydrateContent": "18 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "54 mg",
+    "sugarContent": "9 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "9"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DYjntz18ktUUDSe_S3qun-feqCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5442992-9bc1ab420418435ca1b6006ce5084dd5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/264880/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

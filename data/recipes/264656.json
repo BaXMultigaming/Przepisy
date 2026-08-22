@@ -1,0 +1,81 @@
+{
+  "id": "264656",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/264656/chocolate-peanut-butter-energy-balls/",
+  "requested_url": "https://www.allrecipes.com/recipe/264656/chocolate-peanut-butter-energy-balls/",
+  "title": "Chocolate Peanut Butter Energy Balls",
+  "description": "These no-bake energy balls are made with oats, peanut butter, coconut, chocolate chips, and cranberries. They make an excellent pre-workout snack.",
+  "authors": [
+    "Dylan Kitz"
+  ],
+  "date_published": "2018-05-20T01:38:31-04:00",
+  "date_modified": "2018-05-20T01:38:31-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "34",
+    "34 energy balls"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups quick cooking oats",
+    "2.5 cups natural peanut butter",
+    "2 cups dry unsweetened shredded coconut",
+    "1 cup chocolate chips",
+    "1 cup dried cranberries",
+    "1 cup almond milk",
+    "0.5 cup honey, melted"
+  ],
+  "steps": [
+    {
+      "text": "Combine oats, peanut butter, shredded coconut, chocolate chips, cranberries, almond milk, and honey in a bowl and mix thoroughly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Roll mixture into bite-size balls and arrange on a baking sheet. Refrigerate until set, at least 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "240 kcal",
+    "carbohydrateContent": "22 g",
+    "fiberContent": "4 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "58 mg",
+    "sugarContent": "11 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1fvNTwaXA2kUdkHr0VWbrGw-LZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5388164-ebf6adbe25204d03a833e16b2b3731ab.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/264656/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

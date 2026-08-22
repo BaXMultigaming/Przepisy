@@ -1,0 +1,88 @@
+{
+  "id": "265400",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/265400/easy-baked-fish-with-lemon/",
+  "requested_url": "https://www.allrecipes.com/recipe/265400/easy-baked-fish-with-lemon/",
+  "title": "Easy Baked Fish with Lemon",
+  "description": "You can use any kind of fish fillet for this quick-and-easy recipe. The fish is covered with seasoned bread crumbs, butter, parsley, and lemon zest and baked in the oven.",
+  "authors": [
+    "JONILEWIS"
+  ],
+  "date_published": "2018-12-08T01:40:22-05:00",
+  "date_modified": "2023-02-24T18:12:51-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 serving cooking spray",
+    "2 pounds tilapia fillets, cut into serving-sized pieces",
+    "1 cup dry seasoned bread crumbs",
+    "2 tablespoons dried parsley",
+    "2 teaspoons lemon zest",
+    "0.5 teaspoon garlic powder",
+    "0.25 cup melted butter"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Spray a baking dish with cooking spray.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place tilapia pieces into the prepared baking dish. Combine bread crumbs, parsley, lemon zest, and garlic powder in a small bowl. Mix in melted butter and sprinkle mixture over fish fillets.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until tilapia flakes easily with a fork, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "439 kcal",
+    "carbohydrateContent": "20 g",
+    "cholesterolContent": "114 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "51 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "384 mg",
+    "sugarContent": "2 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LfnDFWbl08neKZZzCp5BGHteKO4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5577956-easy-baked-fish-with-lemon-lutzflcat-4x3-1-2000-86d7435af2e74398bce8a1dd317b8288.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/265400/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
