@@ -1,0 +1,81 @@
+{
+  "id": "218182",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218182/saralees-beet-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/218182/saralees-beet-salad/",
+  "title": "SARALEE&#39;S Beet Salad",
+  "description": "A simple and refreshing salad of shredded beets and chopped onion is mixed with the simplest sweet and tangy dressing, then served chilled.",
+  "authors": [
+    "SARALEE"
+  ],
+  "date_published": "2020-06-18T23:45:03-04:00",
+  "date_modified": "2025-04-26T22:43:45-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT45M",
+  "total_time": "PT85M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 red beets",
+    "1 onion, chopped",
+    "salt and ground black pepper to taste",
+    "1 tablespoon distilled white vinegar",
+    "1.5 teaspoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place the beets into a saucepan, cover with water, and bring to a boil. Reduce heat to medium-low, and gently boil the beets until tender, about 45 minutes. Remove from heat, allow the beets to cool, and peel. Shred the beets using a box grater.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a salad bowl, mix the onion, salt, black pepper, vinegar, and sugar together lightly until thoroughly combined and the sugar has dissolved; mix in beets, chill, and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "35 kcal",
+    "carbohydrateContent": "8 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "33 mg",
+    "sugarContent": "6 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xCTCRsBg2H0eDYFv6mzQFvabWTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/805108-844732a8fb4344859a1565e04b0ed045.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218182/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

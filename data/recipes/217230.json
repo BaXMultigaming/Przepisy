@@ -1,0 +1,72 @@
+{
+  "id": "217230",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/217230/boulevardier-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/217230/boulevardier-cocktail/",
+  "title": "Boulevardier Cocktail",
+  "description": "Bourbon, orange apertif, and sweet vermouth are stirred together to make the Boulevardier cocktail, perfect for fans of whiskey and Negroni.",
+  "authors": [
+    "Lorem Ipsum"
+  ],
+  "date_published": "2017-09-11T19:24:24-04:00",
+  "date_modified": "2024-11-27T19:32:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice",
+    "1.5 fluid ounces bourbon whiskey",
+    "1 fluid ounce sweet vermouth",
+    "1 fluid ounce bitter orange aperitif (such as Campari®)",
+    "1 twist lemon"
+  ],
+  "steps": [
+    {
+      "text": "Fill a cocktail shaker with ice; add whiskey, sweet vermouth, and Campari. Stir and strain into a chilled martini glass; garnish with lemon twist.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "27 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FZyVwlG4FW1xTQR5MOAprHvgips=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/217230boulevardier-cocktailCookingwithShelia4x3-b5f53b00f671443c82d8a94f27a51a50.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/217230/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

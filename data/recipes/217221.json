@@ -1,0 +1,71 @@
+{
+  "id": "217221",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/217221/monte-carlo-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/217221/monte-carlo-cocktail/",
+  "title": "Monte Carlo Cocktail",
+  "description": "The Monte Carlo cocktail is similar to a Manhattan, but Benedictine replaces sweet vermouth and Peychaud&#39;s® bitters replaces Angostura®.",
+  "authors": [
+    "Lorem Ipsum"
+  ],
+  "date_published": "2017-10-14T01:40:30-04:00",
+  "date_modified": "2025-01-02T13:25:43-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice",
+    "2 fluid ounces rye whiskey",
+    "0.75 fluid ounce Benedictine liqueur",
+    "2 dashes aromatic bitters (such as Peychaud's®",
+    "1 maraschino cherry"
+  ],
+  "steps": [
+    {
+      "text": "Fill a cocktail shaker with ice. Pour in whiskey and Benedictine. Shake in bitters. Cover and shake well. Strain into a chilled glass. Garnish with maraschino cherry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "0 g",
+    "sodiumContent": "8 mg",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yDYt9QvVrzRz0LzP2Irp-Ee41O4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5990112-monte-carlo-cocktail-Diana-Moutsopoulos-4x3-1-9258774a472e4056af14558b6f3bf91a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/217221/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

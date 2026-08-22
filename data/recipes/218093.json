@@ -1,0 +1,104 @@
+{
+  "id": "218093",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218093/heathers-grilled-salmon/",
+  "requested_url": "https://www.allrecipes.com/recipe/218093/heathers-grilled-salmon/",
+  "title": "Heather&#39;s Grilled Salmon",
+  "description": "A simple marinade of brown sugar and soy sauce is jazzed up with the addition of lemon pepper and some dried herbs. Grilled salmon never tasted so good!",
+  "authors": [
+    "Heather Waldron"
+  ],
+  "date_published": "2020-03-05T00:08:06-05:00",
+  "date_modified": "2022-12-14T13:03:37-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT80M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.25 cup brown sugar",
+    "0.25 cup olive oil",
+    "0.25 cup soy sauce",
+    "2 teaspoons lemon pepper",
+    "1 teaspoon dried thyme",
+    "1 teaspoon dried basil",
+    "1 teaspoon dried parsley",
+    "0.5 teaspoon garlic powder",
+    "4 (6 ounce) salmon fillets"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together the brown sugar, olive oil, soy sauce, lemon pepper, thyme, basil, parsley, and garlic powder in a bowl, and pour into a resealable plastic bag. Add the salmon fillets, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 1 hour, turning occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat, and lightly oil the grate. Remove the salmon from the marinade, and shake off excess. Discard the remaining marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill the salmon on the preheated grill until browned and the fish flakes easily with a fork, about 5 minutes on each side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/lwgYf3dRsPRJbUCH4ZClP63smeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2430433-heathers-grilled-salmon-Rock_lobster-1x1-1-c31ec9a9161f49cca8f6d860287b5ed0.jpg"
+      ],
+      "image": "assets/images/218093/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "380 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "88 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "35 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "1251 mg",
+    "sugarContent": "14 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "726"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/MaEZF40p-ma1DlVvV.mp4",
+    "description": "Grilled salmon is treated to a simple and flavorful marinade.",
+    "duration": "PT2M39S",
+    "name": "Heather's Grilled Salmon",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/MaEZF40p/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T02:27:15-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lwgYf3dRsPRJbUCH4ZClP63smeY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2430433-heathers-grilled-salmon-Rock_lobster-1x1-1-c31ec9a9161f49cca8f6d860287b5ed0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218093/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/218093/step_03.webp"
+    ]
+  }
+}

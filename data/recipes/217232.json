@@ -1,0 +1,74 @@
+{
+  "id": "217232",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/217232/john-collins-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/217232/john-collins-cocktail/",
+  "title": "John Collins Cocktail",
+  "description": "John Collins seizes the spotlight from his more famous brother, Tom, in this quick and easy, super refreshing carbonated whiskey cocktail!",
+  "authors": [
+    "Lorem Ipsum"
+  ],
+  "date_published": "2020-06-18T23:44:31-04:00",
+  "date_modified": "2024-12-20T14:56:27-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 drink"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice",
+    "2 fluid ounces bourbon whiskey",
+    "1 tablespoon fresh lemon juice",
+    "1 teaspoon white sugar",
+    "0.25 cup club soda, or as needed",
+    "1 slice lemon"
+  ],
+  "steps": [
+    {
+      "text": "Fill a chilled cocktail glass with ice; add whiskey and lemon juice. Stir in sugar until dissolved. Top off with club soda. Garnish with lemon slice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "162 kcal",
+    "carbohydrateContent": "7 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UbtxS__8GhQkEp_8hH_4pl5HPUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8069892-15ee39c47d1f42bda41f74143394eabe.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/217232/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

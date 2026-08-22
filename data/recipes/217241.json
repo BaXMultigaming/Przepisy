@@ -1,0 +1,73 @@
+{
+  "id": "217241",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/217241/algonquin-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/217241/algonquin-cocktail/",
+  "title": "Algonquin Cocktail",
+  "description": "The Algonquin is a Manhattan hotel where you might sip fancy rye whiskey cocktails; this recipe includes pineapple juice and orange bitters.",
+  "authors": [
+    "Lorem Ipsum"
+  ],
+  "date_published": "2017-09-11T19:25:07-04:00",
+  "date_modified": "2025-04-02T15:57:14-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice",
+    "2 fluid ounces rye whiskey",
+    "1 fluid ounce pineapple juice",
+    "1 fluid ounce sweet vermouth",
+    "2 dashes orange bitters"
+  ],
+  "steps": [
+    {
+      "text": "Put ice in a cocktail shaker. Add whiskey, pineapple juice, vermouth, and bitters; stir to combine. Strain into a chilled glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "11 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/iMYEYxlaVTq9Frsl_4i0hvJvCDQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7856935-fb798eee1b614dd7a22b88afe82f976f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/217241/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

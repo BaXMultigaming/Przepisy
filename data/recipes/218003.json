@@ -1,0 +1,82 @@
+{
+  "id": "218003",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218003/quick-strawberry-shortcake/",
+  "requested_url": "https://www.allrecipes.com/recipe/218003/quick-strawberry-shortcake/",
+  "title": "Quick Strawberry Shortcake",
+  "description": "This quick strawberry shortcake recipe is truly quick, easy, and delicious. It uses condensed milk, whipped cream, and shortcake cups to save time.",
+  "authors": [
+    "STARBUCKJB"
+  ],
+  "date_published": "2020-06-18T23:44:54-04:00",
+  "date_modified": "2025-07-29T08:54:33-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pints ripe strawberries, hulled and chopped",
+    "2 tablespoons white sugar",
+    "1 cup sweetened condensed milk",
+    "5 prepared strawberry shortcake cups",
+    "1 cup whipping cream, whipped"
+  ],
+  "steps": [
+    {
+      "text": "Place strawberries and sugar in a bowl; stir in condensed milk and mash with a fork until juicy. Cover the bowl; refrigerate 30 to 60 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place each shortcake cup on a dessert plate; top with strawberries and juice. Top with whipped cream; serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "518 kcal",
+    "carbohydrateContent": "70 g",
+    "cholesterolContent": "119 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "175 mg",
+    "sugarContent": "57 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uSjcyq3j7M30711z0jCgZK_ySJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8229097-eacad273e5194a1593e67430593c94bc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218003/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "217028",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/217028/tomato-welsh-rarebit/",
+  "requested_url": "https://www.allrecipes.com/recipe/217028/tomato-welsh-rarebit/",
+  "title": "Tomato Welsh Rarebit",
+  "description": "A creamy tomato version of the classic Welsh rarebit.",
+  "authors": [
+    "Hannah"
+  ],
+  "date_published": "2012-12-20T02:02:19-05:00",
+  "date_modified": "2023-02-19T19:55:57-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "0.5 cup all-purpose flour",
+    "0.5 cup milk, plus more if needed",
+    "1 (10.75 ounce) can condensed tomato soup",
+    "0.75 cup cubed Cheddar cheese",
+    "0.5 teaspoon dry mustard powder",
+    "1 dash Worcestershire sauce",
+    "1 pinch ground paprika"
+  ],
+  "steps": [
+    {
+      "text": "Melt the butter in a saucepan over low heat, then whisk in the flour to form a thick paste. Slowly whisk in the milk until the mixture resembles a thick sauce. Stir in the tomato soup, Cheddar cheese, mustard, Worcestershire sauce, and paprika until heated through, about 10 minutes. Add more milk if the soup becomes too thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "360 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "58 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "816 mg",
+    "sugarContent": "10 g",
+    "fatContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ueL69h8i_agnXJskiOhzWFjnugI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/217028-Tomato-Welsh-Rarebit-4x3-1-d130758263ed4cdabee63cd60fe0c1ff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/217028/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

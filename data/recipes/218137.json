@@ -1,0 +1,83 @@
+{
+  "id": "218137",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218137/smoky-scrambled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/218137/smoky-scrambled-eggs/",
+  "title": "Smoky Scrambled Eggs",
+  "description": "Easy scrambled eggs get jazzed up with dill weed, bell pepper, onion, ham, and a touch of mayonnaise and half-and-half.",
+  "authors": [
+    "Carnivore"
+  ],
+  "date_published": "2020-03-31T00:50:29-04:00",
+  "date_modified": "2020-03-31T00:50:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT25M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 teaspoons mayonnaise",
+    "1.5 teaspoons half-and-half cream",
+    "6 eggs",
+    "0.5 teaspoon dried dill weed",
+    "0.75 teaspoon garlic powder",
+    "1 tablespoon bacon drippings",
+    "1.5 tablespoons red bell pepper, chopped",
+    "1.5 tablespoons finely chopped ham",
+    "1.5 tablespoons finely chopped sweet onion"
+  ],
+  "steps": [
+    {
+      "text": "Whisk together the mayonnaise and half-and-half in a large bowl until smooth, then whisk in the eggs, dill weed, and garlic powder. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat the bacon drippings in a large skillet over medium heat. Stir in the red bell pepper; cook and stir until the bell pepper begins to soften, about 2 minutes. Stir in the ham and onion. Continue cooking and stirring until the onion is translucent and softened, about 5 minutes more. Pour in the egg mixture. Cook and stir until the eggs are set, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "180 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "376 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "210 mg",
+    "sugarContent": "1 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aDOmr4izu5m49XTW9DdrXZTWb5I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/656274-bd62c0dc6d9c47b5a8bc3103a4243401.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218137/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

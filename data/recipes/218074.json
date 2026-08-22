@@ -1,0 +1,92 @@
+{
+  "id": "218074",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/218074/basil-garlic-grilled-pork-chops/",
+  "requested_url": "https://www.allrecipes.com/recipe/218074/basil-garlic-grilled-pork-chops/",
+  "title": "Basil Garlic Grilled Pork Chops",
+  "description": "These basil pork chops are thick, juicy, and coated in a simple lime juice, fresh basil, and fresh garlic marinade. Everyone will love these!",
+  "authors": [
+    "Gina-Li"
+  ],
+  "date_published": "2018-06-08T09:58:37-04:00",
+  "date_modified": "2026-08-12T11:59:17-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT50M",
+  "yield": [
+    "4",
+    "4 pork chops"
+  ],
+  "categories": [
+    "Dinner",
+    "Entree"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 (8 ounce) pork chops",
+    "1 lime, juiced",
+    "4 cloves garlic, minced",
+    "0.25 cup chopped fresh basil",
+    "salt and black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss pork chops with lime juice in a bowl until evenly covered. Toss with garlic and basil. Season chops to taste with salt and pepper. Set aside to marinate for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat, and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook pork chops on the preheated grill until no longer pink in the center, 5 to 10 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "324 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "131 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "50 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "83 mg",
+    "sugarContent": "0 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "194"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ACQlMrIG9_Cr3NVTgu6E1lAKOb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/668521-386b6421082c49db9258145cd7fcf509.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/218074/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "217412",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/217412/slow-cooker-beef-barbacoa/",
+  "requested_url": "https://www.allrecipes.com/recipe/217412/slow-cooker-beef-barbacoa/",
+  "title": "Slow Cooker Beef Barbacoa",
+  "description": "This Mexican-style shredded beef is made in the slow cooker until very tender. Wrap some in a flour tortilla for an easy meal.",
+  "authors": [
+    "lizbot1"
+  ],
+  "date_published": "2019-04-02T02:54:59-04:00",
+  "date_modified": "2026-04-28T12:36:12-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT360M",
+  "total_time": "PT390M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds boneless beef chuck roast",
+    "1 onion, chopped",
+    "3 bay leaves",
+    "0.5 teaspoon ground black pepper, or to taste",
+    "2 tablespoons garlic powder",
+    "0.25 cup distilled white vinegar",
+    "1 (14 ounce) can tomato sauce",
+    "0.25 cup chili powder",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place roast, onion, bay leaves, black pepper, garlic powder, and vinegar in a slow cooker; cover ingredients completely with water. Cover and cook on High setting until meat is very tender and falling apart, about 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove meat from the slow cooker and discard liquids. Return meat to slow cooker; shred with fork and knife. Stir tomato sauce, chili powder, and salt into the shredded meat. Cover the cooker, and cook meat and sauce on High for an additional 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "292 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "77 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "350 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "117"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2zhwkrXmeBa8EJm5pa2_L315RFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2530987-slow-cooker-beef-barbacoa-Rock_lobster-4x3-1-d68a81a2fe2c4d3382e8b2b20ee72a4c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/217412/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

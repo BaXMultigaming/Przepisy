@@ -1,0 +1,75 @@
+{
+  "id": "217216",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/217216/vieux-carre-cocktail/",
+  "requested_url": "https://www.allrecipes.com/recipe/217216/vieux-carre-cocktail/",
+  "title": "Vieux Carre Cocktail",
+  "description": "A complex, complex rye whiskey and cognac cocktail named after a hotel in the Old Quarter of New Orleans.",
+  "authors": [
+    "Lorem Ipsum"
+  ],
+  "date_published": "2017-07-27T09:00:43-04:00",
+  "date_modified": "2023-10-25T09:17:41-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Cocktail"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "regions": [
+    "Southern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups ice",
+    "1 fluid ounce rye whiskey",
+    "1 fluid ounce cognac",
+    "1 ounce sweet vermouth",
+    "0.125 ounce Benedictine® liqueur",
+    "1 dash Angostura bitters",
+    "1 dash Peychaud bitters",
+    "1 lemon twist"
+  ],
+  "steps": [
+    {
+      "text": "Put ice in a cocktail glass. Pour in rye, cognac, vermouth, and Benedictine. Shake in Angostura and Peychaud's bitters. Stir, then strain into a short cocktail glass, and garnish with a twist of lemon peel.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "230 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xp6b0kYgWWWgkDLumm2CVVzpdwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1808109-4fde440ed53442ed8204a999f4bdf72a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/217216/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "216933",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/216933/apple-and-brown-sugar-corned-beef/",
+  "requested_url": "https://www.allrecipes.com/recipe/216933/apple-and-brown-sugar-corned-beef/",
+  "title": "Apple and Brown Sugar Corned Beef",
+  "description": "This brown sugar corned beef features brisket, potatoes, carrots, and cabbage simmered in a slow cooker with apple juice, brown sugar, and mustard.",
+  "authors": [
+    "tonmeilleurami"
+  ],
+  "date_published": "2020-03-05T00:07:55-05:00",
+  "date_modified": "2026-06-25T09:45:27-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT240M",
+  "total_time": "PT255M",
+  "yield": [
+    "10",
+    "2 briskets"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups apple juice",
+    "0.5 cup brown sugar",
+    "1 tablespoon prepared mustard",
+    "2 (3 pound) corned beef briskets with spice packets",
+    "20 small red potatoes, scrubbed",
+    "1 head cabbage, cored and cut into large chunks",
+    "2 onions, cut into 8 wedges",
+    "4 carrots, cut into chunks"
+  ],
+  "steps": [
+    {
+      "text": "Pour apple juice into a large slow cooker. Mix in brown sugar and mustard, stirring until brown sugar has dissolved. Mix in the contents of the spice packets, then lay briskets into apple juice mixture. Top with potatoes, cabbage chunks, onions, and carrots, then push vegetables into liquid.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on High for 4 to 5 hours or on Low for 8 to 10 hours, until corned beef is very tender. Slice the meat thinly across the grain and serve with the vegetables.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "672 kcal",
+    "carbohydrateContent": "87 g",
+    "cholesterolContent": "117 mg",
+    "fiberContent": "11 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1438 mg",
+    "sugarContent": "28 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "202"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l4XLAoivF13GCFDcFdpPBRKlLjw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1387771-476296d1841440ae8ce34ff8aab7f630.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/216933/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
