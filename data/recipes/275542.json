@@ -1,0 +1,80 @@
+{
+  "id": "275542",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/275542/quick-pizza-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/275542/quick-pizza-sauce/",
+  "title": "Quick Pizza Sauce",
+  "description": "This quick and easy pizza sauce takes just 20 minutes to prepare and is full of Italian-inspired flavor that will complement any toppings perfectly!",
+  "authors": [
+    "Holly"
+  ],
+  "date_published": "2019-08-30T08:21:07-04:00",
+  "date_modified": "2021-06-23T16:45:58-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons olive oil",
+    "0.25 cup onion, diced",
+    "1 clove garlic, diced, or more to taste",
+    "1 teaspoon Italian seasoning, or to taste",
+    "0.25 teaspoon crushed red pepper flakes, or to taste",
+    "1 splash red wine",
+    "1 (8 ounce) can tomato sauce"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a small pot over medium-high heat. Saute onion, garlic, Italian seasoning, and red pepper flakes in the hot oil until onions start to soften, about 5 minutes. Add a splash of red wine; stir for a few seconds. Add tomato sauce and stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to low and let simmer for 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "22 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "147 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SSKYlo2rMgfz_Zegmsd40r21iLQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9264128-56bfb100920442949105bf038732483b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/275542/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

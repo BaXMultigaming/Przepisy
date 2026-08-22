@@ -1,0 +1,103 @@
+{
+  "id": "275636",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/275636/fresh-basil-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/275636/fresh-basil-pesto/",
+  "title": "Fresh Basil Pesto",
+  "description": "This basil pesto recipe with fresh basil, toasted pine nuts, Pecorino, garlic, and lemon makes a bright and nutty pasta sauce or topping for pizza.",
+  "authors": [
+    "Klantz"
+  ],
+  "date_published": "2019-08-30T18:03:33-04:00",
+  "date_modified": "2025-12-22T14:50:16-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "1 cup pesto"
+  ],
+  "categories": [
+    "Sauce",
+    "Condiment"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups packed fresh basil",
+    "0.5 cup extra-virgin olive oil",
+    "0.25 cup toasted pine nuts",
+    "3 cloves garlic, peeled",
+    "0.5 cup freshly grated Pecorino Romano cheese",
+    "1 dash fresh lemon juice",
+    "kosher salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/iagYE8VIEHWqSYbO8F7fxFl5IF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/275636-Fresh-Basil-Pesto-DDMFS-Step-01-2e28b9b9946e42979fd279d2590151c5.jpg"
+      ],
+      "image": "assets/images/275636/step_01.webp"
+    },
+    {
+      "text": "Combine basil leaves, oil, pine nuts, and garlic in a food processor or blender; purée until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/nfYJ6YoII5c5guAoM5ll7dzBDzc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/275636-Fresh-Basil-Pesto-DDMFS-Step-02-80cf5efa6589412facd4a251d489db43.jpg"
+      ],
+      "image": "assets/images/275636/step_02.webp"
+    },
+    {
+      "text": "Stir in Pecorino Romano cheese; season to taste with lemon juice, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/9w6Ltb3uoO0L66kX6vjMMNOFYXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/275636-Fresh-Basil-Pesto-DDMFS-Step-04-c2e64260b7ba42888f747332902a691e.jpg"
+      ],
+      "image": "assets/images/275636/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "171 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "74 mg",
+    "sugarContent": "0 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HbtgOMS3wXRaj4Qxqkx1YAcYLN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/275636-Fresh-Basil-Pesto-DDMFS-4x3-615a63349d0c41d2b3a82fedcb03738e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/275636/hero.webp",
+    "steps": [
+      "assets/images/275636/step_01.webp",
+      "assets/images/275636/step_02.webp",
+      "assets/images/275636/step_03.webp"
+    ]
+  }
+}
