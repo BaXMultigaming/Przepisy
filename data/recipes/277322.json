@@ -1,0 +1,95 @@
+{
+  "id": "277322",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/277322/instant-pot-cabbage-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/277322/instant-pot-cabbage-soup/",
+  "title": "Instant Pot® Cabbage Soup",
+  "description": "This beefy cabbage soup with tomatoes and kidney beans is prepared using an Instant Pot® but it can also be made in a slow cooker.",
+  "authors": [
+    "the bug"
+  ],
+  "date_published": "2020-06-19T00:43:12-04:00",
+  "date_modified": "2020-06-19T00:43:12-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground sirloin",
+    "1 onion, diced",
+    "1 small bell pepper, diced",
+    "1 pound diced cabbage",
+    "1 (15.5 ounce) can kidney beans, drained",
+    "1 (14.5 ounce) can diced petite-cut tomatoes",
+    "0.25 cup Worcestershire sauce",
+    "3 tablespoons ketchup",
+    "1 tablespoon white sugar",
+    "1 tablespoon ground black pepper",
+    "1 tablespoon ground thyme",
+    "1 tablespoon beef base (such as Better than Bouillon®)",
+    "1 teaspoon dried rosemary",
+    "1 pinch cayenne pepper",
+    "2 cups water"
+  ],
+  "steps": [
+    {
+      "text": "Turn on a multi-functional pressure cooker (such as Instant Pot®) and select Saute function. Add ground sirloin, onion, and bell pepper. Cook and stir until meat is browned, about 5 minutes. Add cabbage, kidney beans, diced tomatoes, Worcestershire sauce, ketchup, sugar, black pepper, thyme, beef base, rosemary, and cayenne pepper. Pour in water and mix to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Close and lock the lid. Select high pressure according to manufacturer's instructions; set timer for 20 minutes. Allow 10 to 15 minutes for pressure to build.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Release pressure using the natural-release method according to manufacturer's instructions, 10 to 40 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "208 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "36 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "773 mg",
+    "sugarContent": "8 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lObQ-Jk5gBmBPGSXJxkutpHZGGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7523288-4c3a4d0ed7314586aec98d00ef8513f7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/277322/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

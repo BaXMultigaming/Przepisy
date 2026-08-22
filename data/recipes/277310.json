@@ -1,0 +1,88 @@
+{
+  "id": "277310",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/277310/stuffed-cabbage-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/277310/stuffed-cabbage-soup/",
+  "title": "Stuffed Cabbage Soup",
+  "description": "This stuffed cabbage soup is easily prepared in one pot for a new, easy version of the hearty classic dish that&#39;s just as flavorful.",
+  "authors": [
+    "Bethany92"
+  ],
+  "date_published": "2020-03-05T00:21:03-05:00",
+  "date_modified": "2026-02-27T18:17:43-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT60M",
+  "total_time": "PT70M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1 pound ground beef",
+    "1 (14 ounce) package classic coleslaw mix",
+    "1 large onion, chopped",
+    "2 (14 ounce) cans beef broth",
+    "1 (28 ounce) can crushed tomatoes in puree",
+    "1 cup water",
+    "0.5 cup light brown sugar",
+    "1 tablespoon fresh lemon juice",
+    "1 teaspoon salt",
+    "0.33333334326744 cup long-grain rice"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Add coleslaw mix and onion; cook for 4 minutes. Add broth, tomatoes, water, brown sugar, lemon juice, and salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring mixture to a boil, add rice, and reduce heat to medium-low. Cover and let simmer until rice is tender, about 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "283 kcal",
+    "carbohydrateContent": "35 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "794 mg",
+    "sugarContent": "14 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "57"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jbjfZEfu8LO42c6qoAXNqKS2kUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Stuffed-Cabbage-Soup-2000-3e8842681a5042c0a2d5471afc4a2eb4.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/277310/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
