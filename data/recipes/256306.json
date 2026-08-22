@@ -1,0 +1,93 @@
+{
+  "id": "256306",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256306/mexican-hash/",
+  "requested_url": "https://www.allrecipes.com/recipe/256306/mexican-hash/",
+  "title": "Mexican Hash",
+  "description": "Here’s a Mexican-inspired variation on the traditional corned beef breakfast hash. Chorizo, diced tomatoes, cilantro, and avocado add color and flavor to create a delicious one-pan meal.",
+  "authors": [
+    "Ramona Cruz-Peters"
+  ],
+  "date_published": "2020-04-15T21:02:33-04:00",
+  "date_modified": "2026-07-30T10:13:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT25M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 ounces uncooked chorizo sausage",
+    "0.25 cup chopped onion",
+    "2 teaspoons vegetable oil",
+    "1 (16 ounce) package frozen diced hash brown potatoes",
+    "0.5 teaspoon seasoning salt",
+    "1 (14.5 ounce) can Hunt's® Diced Tomatoes, drained",
+    "1 avocado, cubed",
+    "2 tablespoons coarsely chopped cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Heat a skillet over medium-high heat. Cook and stir chorizo in the hot skillet until brown and crumbly, about 3 minutes. Add onion and cook, stirring frequently, until onion is translucent, about 3 minutes. Transfer chorizo-onion mixture to a plate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour oil into the same skillet over medium-high heat. Add frozen potatoes and seasoning salt; toss to coat potatoes in oil, then cook, stirring occasionally, until potatoes are browned and crispy, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add diced tomatoes and chorizo-onion mixture to the skillet; stir gently to mix evenly. Cook for 4 minutes, stirring once halfway. Serve topped with avocado and cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "599 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "75 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "25 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "1528 mg",
+    "sugarContent": "4 g",
+    "fatContent": "49 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6ZbTNpigh9gDmN_doZXWQIrPPnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/256306-mexican-hash-4x3-ea7194e395e34ada9378707e4b793da1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256306/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

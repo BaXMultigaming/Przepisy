@@ -1,0 +1,79 @@
+{
+  "id": "256580",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256580/banana-chocolate-walnut-frozen-yogurt/",
+  "requested_url": "https://www.allrecipes.com/recipe/256580/banana-chocolate-walnut-frozen-yogurt/",
+  "title": "Banana Chocolate Walnut Frozen Yogurt",
+  "description": "This homemade frozen yogurt inspired by the flavors of Chunky Monkey® is made with Greek yogurt, bananas, chocolate chips, and walnuts.",
+  "authors": [
+    "COWEN1"
+  ],
+  "date_published": "2020-06-19T00:19:22-04:00",
+  "date_modified": "2020-06-19T00:19:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "2 quarts"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups Greek yogurt",
+    "3 large ripe bananas, peeled and frozen",
+    "1 cup white sugar",
+    "0.75 cup chopped walnuts",
+    "0.75 cup mini chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Combine Greek yogurt, frozen bananas, and sugar in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour yogurt mixture into an ice cream maker. Freeze according to manufacturer's instructions until yogurt is the texture of soft-serve ice cream, about 15 minutes. Stir in walnuts and chocolate chips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "422 kcal",
+    "carbohydrateContent": "52 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "68 mg",
+    "sugarContent": "44 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jdZLD7wScdYAhdMaR3Am0CIDOT4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4450533-b898d73a76854700afcfcef9096ec8b4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256580/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

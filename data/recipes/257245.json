@@ -1,0 +1,88 @@
+{
+  "id": "257245",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/257245/portuguese-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/257245/portuguese-shrimp/",
+  "title": "Portuguese Shrimp",
+  "description": "Shrimp is simmered in ale with Portuguese pimenta, parsley, and paprika in this flavorful dish that&#39;s simple enough for a weeknight.",
+  "authors": [
+    "Dave"
+  ],
+  "date_published": "2017-02-23T00:43:15-05:00",
+  "date_modified": "2026-06-18T11:14:40-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Portuguese"
+  ],
+  "regions": [
+    "Portuguese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon extra-virgin olive oil, or more as needed",
+    "1 onion, chopped",
+    "3 cloves garlic, minced",
+    "5 sprigs parsley, stemmed and chopped",
+    "2 teaspoons tomato paste",
+    "2 teaspoons Portuguese hot pepper sauce (pimenta)",
+    "1 cube chicken bouillon",
+    "1 teaspoon ground paprika",
+    "1 (12 fluid ounce) can ale, divided",
+    "2 pounds unpeeled large shrimp, deveined",
+    "1 teaspoon kosher salt"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium heat. Add onion and garlic; cook and stir until softened, about 5 minutes. Stir in parsley, tomato paste, hot pepper sauce, chicken bouillon, and paprika. Pour in 1/2 the ale; simmer until flavors combine, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour remaining 1/2 ale into skillet; add shrimp. Season with salt. Cook until shrimp absorbs liquid and turns pink, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "147 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "173 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "614 mg",
+    "sugarContent": "3 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9Is8MtdNY0228L5rV-g3PxGzREw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4480381-cb5a62122cad4637b900e8f04168e24b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/257245/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "256604",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256604/magic-bullet-banana-chocolate-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/256604/magic-bullet-banana-chocolate-milkshake/",
+  "title": "Magic Bullet® Banana Chocolate Milkshake",
+  "description": "This chocolate ice cream-based milkshake with a nice light banana flavor can be whipped up in your Magic Bullet® in five minutes or less.",
+  "authors": [
+    "Shari"
+  ],
+  "date_published": "2020-06-19T00:19:24-04:00",
+  "date_modified": "2022-01-14T11:50:33-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 18-ounce shake"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 scoops chocolate ice cream (such as Nestle® Real Dairy)",
+    "0.5 cup milk",
+    "0.5 banana",
+    "4 ice cubes",
+    "0.5 teaspoon white sugar",
+    "0.125 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine chocolate ice cream, milk, banana, ice cubes, sugar, and vanilla extract in a Magic Bullet® party mug. Blend until smooth, 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/V80tO5dgXUXEW1bZBuuXpVZXYe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457757-1dbe6e49cc4f4a7a8ab8d1426447c1b9.jpg"
+      ],
+      "image": "assets/images/256604/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "350 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "46 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "133 mg",
+    "sugarContent": "42 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/j91DEdPy-K3AjnAEN.mp4",
+    "description": "A fluffy, soft, and flaky delight to have with breakfast. Spread on jam, butter, honey, (or all three!) for a tasty addition to many meals. ",
+    "duration": "PT1M24S",
+    "name": "Greg's Southern Biscuits",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/j91DEdPy/poster.jpg?width=1280",
+    "uploadDate": "2021-07-11T07:44:39-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/V80tO5dgXUXEW1bZBuuXpVZXYe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457757-1dbe6e49cc4f4a7a8ab8d1426447c1b9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256604/hero.webp",
+    "steps": [
+      "assets/images/256604/step_01.webp"
+    ]
+  }
+}

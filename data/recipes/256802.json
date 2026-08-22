@@ -1,0 +1,81 @@
+{
+  "id": "256802",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256802/cincinnati-chili-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/256802/cincinnati-chili-dip/",
+  "title": "Cincinnati Chili Dip",
+  "description": "This warm dip inspired by Cincinnati chili features ground beef, chili seasoning mix, cinnamon, tomato sauce, and a Cheddar cheese topping.",
+  "authors": [
+    "McCormick Spice"
+  ],
+  "date_published": "2017-01-11T01:21:43-05:00",
+  "date_modified": "2022-01-14T02:15:31-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "26"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound lean ground beef",
+    "1 (1.25 ounce) package McCormick® Chili Seasoning",
+    "1 teaspoon McCormick® Ground Cinnamon",
+    "1 (15 ounce) can tomato sauce",
+    "0.5 cup shredded Cheddar cheese",
+    "0.25 cup chopped onion"
+  ],
+  "steps": [
+    {
+      "text": "Brown ground beef in large skillet on medium-high heat until beef is no longer pink, about 5 minutes. Drain fat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir tomato sauce, chili seasoning, and cinnamon into the skillet. Bring to boil. Reduce heat to low; simmer 10 minutes. Sprinkle with Cheddar cheese and onion.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "51 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "156 mg",
+    "sugarContent": "1 g",
+    "fatContent": "3 g",
+    "servingSize": "3 -1/4 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aWDLRaq4vyPGHzvp13AmOmINBko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4462899-79d2ed427377431ca03db2f9ba87ddf6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256802/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

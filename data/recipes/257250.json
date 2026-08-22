@@ -1,0 +1,82 @@
+{
+  "id": "257250",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/257250/easy-strawberry-cream-cheese-frosting/",
+  "requested_url": "https://www.allrecipes.com/recipe/257250/easy-strawberry-cream-cheese-frosting/",
+  "title": "Easy Strawberry Cream Cheese Frosting",
+  "description": "Pureed fresh strawberries give this cream cheese frosting an appetizing pink color and taste that will complement any white or lemon cake.",
+  "authors": [
+    "erinwilson311"
+  ],
+  "date_published": "2017-02-23T00:50:44-05:00",
+  "date_modified": "2023-09-13T11:58:01-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "10",
+    "3 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pint fresh strawberries, sliced",
+    "1 (8 ounce) package cream cheese (such as Philadelphia®), softened",
+    "0.5 cup butter, softened",
+    "1 teaspoon vanilla extract",
+    "2 cups confectioners' sugar, sifted"
+  ],
+  "steps": [
+    {
+      "text": "Puree strawberries in a blender or food processor until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine cream cheese and butter in a large bowl; beat with an electric mixer until creamy and smooth. Blend in vanilla extract. Gradually beat in confectioners' sugar until smooth. Fold in strawberry puree until frosting is desired flavor and consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "259 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "49 mg",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "132 mg",
+    "sugarContent": "25 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.1",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UpCqqYrTVY6HVooZcjuIqQ6EBNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5643026-72815fe4a33f4fd2bd3324daaba0a0fc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/257250/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

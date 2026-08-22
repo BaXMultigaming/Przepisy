@@ -1,0 +1,84 @@
+{
+  "id": "256561",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256561/carrot-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/256561/carrot-banana-smoothie/",
+  "title": "Carrot-Banana Smoothie",
+  "description": "Carrots, banana, red bell pepper, and cucumbers are blended with grapefruit juice in this refreshing, on-the-go smoothie ready in 15 minutes.",
+  "authors": [
+    "minecraftcupcakez"
+  ],
+  "date_published": "2016-12-16T03:38:31-05:00",
+  "date_modified": "2025-02-03T10:02:08-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana",
+    "1 cup chopped cucumbers",
+    "0.66666668653488 cup chopped red bell pepper",
+    "0.5 cup ruby-red grapefruit juice",
+    "0.5 cup chopped carrots",
+    "ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Combine banana, cucumbers, red bell pepper, grapefruit juice, and carrots in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill a glass with ice and pour smoothie over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "115 kcal",
+    "carbohydrateContent": "28 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "30 mg",
+    "sugarContent": "12 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5YB1JfujsA0ioWLg9OD9QNFzRLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4379306-41aa01c9a50c4125878274398338e730.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256561/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

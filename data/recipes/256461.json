@@ -1,0 +1,80 @@
+{
+  "id": "256461",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256461/mocha-coco-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/256461/mocha-coco-smoothie/",
+  "title": "Mocha-Coco Smoothie",
+  "description": "Give your morning smoothie a caffeinated boost with fresh brewed coffee.",
+  "authors": [
+    "In The Raw"
+  ],
+  "date_published": "2016-12-08T23:23:46-05:00",
+  "date_modified": "2017-10-23T20:49:40-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT240M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups brewed coffee, chilled",
+    "1 large frozen banana",
+    "0.5 cup unsweetened coconut or almond creamer",
+    "2 tablespoons coconut oil",
+    "2 tablespoons cocoa powder",
+    "2 (1 gram) packets Stevia In The Raw®"
+  ],
+  "steps": [
+    {
+      "text": "Fill an ice cube tray with coffee and freeze 4 hours or until completely frozen. Reserve remaining chilled coffee.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a blender, place 1 cup coffee ice cubes along with 3/4 cup chilled coffee, banana, creamer, coconut oil, cocoa powder, and Stevia In The Raw. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "35 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "8 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XLdfLyLIRITLn6a4khmpbC4iSWw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4301785-417ae751092e496b8a5e24eb9d699fb9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256461/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

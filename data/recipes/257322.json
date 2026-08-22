@@ -1,0 +1,111 @@
+{
+  "id": "257322",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/257322/chef-johns-picadillo/",
+  "requested_url": "https://www.allrecipes.com/recipe/257322/chef-johns-picadillo/",
+  "title": "Chef John&#39;s Picadillo",
+  "description": "A Cuban creation, picadillo is one of the world&#39;s great ground meat dishes. Chef John uses beef in his recipe, but you can add pork and/or chorizo.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2017-02-28T01:43:31-05:00",
+  "date_modified": "2026-06-02T08:40:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT45M",
+  "total_time": "PT55M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Cuban"
+  ],
+  "regions": [
+    "Cuban"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 teaspoons olive oil",
+    "1.5 pounds ground beef (85% lean)",
+    "1 cup diced yellow onions",
+    "1 teaspoon salt, plus more to taste",
+    "2 bay leaves",
+    "2 teaspoons cumin",
+    "0.5 teaspoon freshly ground black pepper",
+    "0.5 teaspoon ground cinnamon",
+    "0.25 teaspoon cayenne pepper",
+    "4 cloves garlic, minced",
+    "3 cups crushed tomatoes",
+    "0.25 cup water",
+    "3 tablespoons red-wine vinegar",
+    "0.25 cup currants or raisins",
+    "0.5 cup sliced pimiento-stuffed green olives, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Add ground beef; cook, breaking up beef into small pieces with a spoon or spatula until completely loses its pink color, 8 to 10 minutes. Add onion and salt; cook until onion turns translucent, about 5 minutes. Add bay leaves, cumin, black pepper, cinnamon, and cayenne pepper; cook 2 minutes. Add garlic; cook 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in crushed tomatoes, water, and red wine vinegar; cook and deglaze by scraping the browned bits of food off the bottom of the pan with a wooden spoon, about 3 minutes. Add currants; bring back to a simmer. Reduce heat to medium-low, cover, and cook until beef is tender, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gently stir in olives; cover and cook 10 to 15 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YrWOsT8sK-AZV9UB6A-c2jPj0z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4481898-1d7ec1654aaa4f3da04b53000c1c0128.jpg"
+      ],
+      "image": "assets/images/257322/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "485 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "111 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "37 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "1510 mg",
+    "sugarContent": "8 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "68"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/nYgM1oWA-K3AjnAEN.mp4",
+    "description": "Chef John’s delicious version of the Cuban comfort food. Crumble ground beef in olive oil over heat, then add onions, salt, black pepper, cumin, cinnamon, bay leaves, cayenne. Add some garlic to the intensely spiced beef, then de-glaze with red wine vinegar and crushed tomatoes. Simmer with currants until meat is tender. Stir in sliced pimiento-stuffed green olives and simmer until all flavors intermingle and serve with white rice in a big bowl of sweet, spicy and vinegary happy, warm comfort.",
+    "duration": "PT6M40S",
+    "name": "Chef John's Picadillo",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/nYgM1oWA/poster.jpg?width=1280",
+    "uploadDate": "2021-07-14T17:39:45-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YrWOsT8sK-AZV9UB6A-c2jPj0z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4481898-1d7ec1654aaa4f3da04b53000c1c0128.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/257322/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/257322/step_03.webp"
+    ]
+  }
+}

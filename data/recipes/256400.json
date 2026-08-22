@@ -1,0 +1,101 @@
+{
+  "id": "256400",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/256400/quick-chocolate-chip-cookie-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/256400/quick-chocolate-chip-cookie-cake/",
+  "title": "Quick Chocolate Chip Cookie Cake",
+  "description": "This chocolate chip cookie cake is quick and easy to prepare using cake mix, eggs, butter, and chocolate chips; serve at your next party!",
+  "authors": [
+    "workforwine"
+  ],
+  "date_published": "2016-12-08T23:59:17-05:00",
+  "date_modified": "2022-10-12T09:11:22-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "12",
+    "1 9x13-inch dish"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15.25 ounce) package yellow cake mix",
+    "2 cups mini chocolate chips",
+    "2 eggs, beaten",
+    "5 tablespoons butter, melted"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix cake mix, chocolate chips, eggs, and butter together in a bowl until just mixed; spread mixture into the prepared baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1n73vW2TKShMLl6AJLiA5HCpO08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-16-7c69066e67a24a50958e9aacbbe8bc2c.jpg"
+      ],
+      "image": "assets/images/256400/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "348 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "44 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "285 mg",
+    "sugarContent": "31 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "12"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/JQhlyVD0-K3AjnAEN.mp4",
+    "description": "A very quick and tasty dessert.",
+    "duration": "PT54S",
+    "name": "How to Make Quick Chocolate Chip Cookie Cake",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/JQhlyVD0/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:20:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1n73vW2TKShMLl6AJLiA5HCpO08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-16-7c69066e67a24a50958e9aacbbe8bc2c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/256400/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/256400/step_03.webp"
+    ]
+  }
+}
