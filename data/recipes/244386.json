@@ -1,0 +1,93 @@
+{
+  "id": "244386",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244386/backyard-berry-bowl/",
+  "requested_url": "https://www.allrecipes.com/recipe/244386/backyard-berry-bowl/",
+  "title": "Backyard Berry Bowl",
+  "description": "A berry smoothie is topped with more berries, banana, and granola in this quick and easy smoothie bowl.",
+  "authors": [
+    "Lindsay"
+  ],
+  "date_published": "2020-01-23T01:41:42-05:00",
+  "date_modified": "2022-04-09T00:53:01-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 bowls"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup ice cubes, or as needed",
+    "1 cup strawberries, divided",
+    "2 bananas, sliced, divided",
+    "0.5 cup blackberries",
+    "0.25 cup apple juice",
+    "0.5 cup blueberries",
+    "0.5 cup granola",
+    "1 teaspoon honey, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend ice, 1/2 cup strawberries, 1 banana, blackberries, and apple juice together in a blender until smooth, adding more ice depending on your desired consistency. Pour smoothie into a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Top smoothie with remaining strawberries, remaining banana, blueberries, and granola. Drizzle honey over the top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/juT_7ieVopxj9Vciacq5StTBOPg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4463260-705c42d408a243d396968c472b04011c.jpg"
+      ],
+      "image": "assets/images/244386/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "341 kcal",
+    "carbohydrateContent": "65 g",
+    "fiberContent": "10 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "15 mg",
+    "sugarContent": "36 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/EBV0wxit-K3AjnAEN.mp4",
+    "description": "This is a delicious and healthy smoothie bowl made with strawberries, bananas, and blackberries. Topped with granola and honey you can't ask for a better start into your day!",
+    "duration": "PT55S",
+    "name": "Backyard Berry Bowl",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/EBV0wxit/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:40:04-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/juT_7ieVopxj9Vciacq5StTBOPg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4463260-705c42d408a243d396968c472b04011c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244386/hero.webp",
+    "steps": [
+      null,
+      "assets/images/244386/step_02.webp"
+    ]
+  }
+}

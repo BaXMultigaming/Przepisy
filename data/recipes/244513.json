@@ -1,0 +1,74 @@
+{
+  "id": "244513",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244513/carrot-and-apple-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/244513/carrot-and-apple-juice/",
+  "title": "Carrot and Apple Juice",
+  "description": "Fresh carrot and apple juice with a hint of ginger is a refreshing and colorful way to start the day.",
+  "authors": [
+    "xprincessx"
+  ],
+  "date_published": "2015-07-09T15:33:55-04:00",
+  "date_modified": "2026-04-22T20:54:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 glass"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 carrots, trimmed",
+    "2 apples, quartered",
+    "2 stalks celery",
+    "1 (1/2 inch) piece fresh ginger"
+  ],
+  "steps": [
+    {
+      "text": "Run carrots, apples, and celery through a juicer (alternating carrot, apple, and celery) according to manufacturer's instructions. Add ginger to juicer and process.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "277 kcal",
+    "carbohydrateContent": "69 g",
+    "fiberContent": "16 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "266 mg",
+    "sugarContent": "44 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3bpzC9hrO7e3SQiSZWcxiL6I3HU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2891296-carrot-and-apple-juice-Jenny-Aleman-de-Bolanos-4x3-1-9430ee45466f4201b55278ed8ca59a43.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244513/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

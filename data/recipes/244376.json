@@ -1,0 +1,97 @@
+{
+  "id": "244376",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244376/coffee-gelato/",
+  "requested_url": "https://www.allrecipes.com/recipe/244376/coffee-gelato/",
+  "title": "Coffee Gelato",
+  "description": "This Italian-style coffee gelato is a blend of ground coffee, cream, milk, and sugar to make a sweet frozen treat for coffee lovers.",
+  "authors": [
+    "jwinthrop"
+  ],
+  "date_published": "2020-06-19T00:03:20-04:00",
+  "date_modified": "2025-07-18T06:21:22-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT60M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups whole milk",
+    "1.5 cups light cream",
+    "1 cup white sugar",
+    "2 tablespoons ground coffee",
+    "1 cup water"
+  ],
+  "steps": [
+    {
+      "text": "Mix milk, cream, and sugar together in a large bowl. Refrigerate to let sugar dissolve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, brew coffee grounds with water in a coffee maker or French press. Refrigerate coffee until completely cooled, at least 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat milk mixture using an electric mixture until slightly thickened to the consistency of buttermilk. Stir coffee into milk mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour mixture into an ice cream maker and freeze according to manufacturer’s instructions, 20 to 30 minutes. Serve or transfer to an airtight container and store in the freezer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "284 kcal",
+    "carbohydrateContent": "39 g",
+    "cholesterolContent": "46 mg",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "51 mg",
+    "sugarContent": "36 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HHThCYktM6QfYg2kkDvQizyBrXc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4563265-d3d0ec39c7a7400cb07fb5aa36c9ec1a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244376/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

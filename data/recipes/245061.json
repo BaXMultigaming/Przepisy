@@ -1,0 +1,77 @@
+{
+  "id": "245061",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245061/healthy-chocolate-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/245061/healthy-chocolate-smoothie/",
+  "title": "Healthy Chocolate Smoothie",
+  "description": "This chocolate smoothie uses bananas, peanut butter, milk, vanilla, and cocoa for a healthy, kid-friendly beverage perfect for breakfast or a snack.",
+  "authors": [
+    "Chaya"
+  ],
+  "date_published": "2015-10-02T20:06:12-04:00",
+  "date_modified": "2026-03-02T14:34:39-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 very ripe bananas",
+    "1 cup milk",
+    "6 ice cubes",
+    "1.5 tablespoons unsweetened cocoa powder",
+    "1 tablespoon peanut butter",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine bananas, milk, ice cubes, cocoa powder, peanut butter, and vanilla in a blender; blend on high speed until smooth. Pour into 2 glasses.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "229 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "92 mg",
+    "sugarContent": "21 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "27"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MMSiRIHhQhOeYGV-cFsMnlCP4XM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8001597-2c200d7af80d4b06a73c488b9b2ab507.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245061/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

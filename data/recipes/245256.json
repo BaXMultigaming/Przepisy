@@ -1,0 +1,100 @@
+{
+  "id": "245256",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245256/skinny-cream-of-mushroom-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/245256/skinny-cream-of-mushroom-soup/",
+  "title": "Skinny Cream of Mushroom Soup",
+  "description": "This easy, low-calorie potato mushroom soup is great for weeknights. It can be made ahead of time or personalized with other herbs and spices.",
+  "authors": [
+    "yajuwen"
+  ],
+  "date_published": "2019-04-04T00:00:28-04:00",
+  "date_modified": "2025-02-18T15:48:58-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 slices bacon, chopped",
+    "1 cup peeled and cubed potatoes",
+    "0.33333334326744 cup chopped onion",
+    "1 cup chopped assorted mushrooms",
+    "1 teaspoon garlic powder",
+    "0.5 teaspoon onion powder",
+    "1.5 cups water",
+    "0.5 cup milk",
+    "1 sprig fresh thyme",
+    "1.5 tablespoons all-purpose flour",
+    "salt and coarsely ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Fry bacon in a stockpot over medium heat until it is semi-crispy, about 5 minutes. Stir in potatoes and onion and cook until onion is translucent, about 5 minutes. Mix in mushrooms, garlic powder, and onion powder; cook and stir until mushrooms have softened, about 5 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour water and milk over mushroom mixture, add thyme and flour, and bring to a boil. Boil until potatoes are very soft, adding water as needed, about 20 minutes. Crush some of the potatoes with a wooden spoon to reach a creamier consistency. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/dRgeGq2dL6RMi0oB_t4jPnsrPqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2738017-c5c475aa21ff44be8d2f2bb334d748e1.jpg"
+      ],
+      "image": "assets/images/245256/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "188 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "325 mg",
+    "sugarContent": "6 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "25"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/uBJvYAZL-K3AjnAEN.mp4",
+    "description": "Mushrooms give such depth of flavor for a savory and satisfying soup. Pair this with toasted and buttered bread for a heart-warming meal.",
+    "duration": "PT1M19S",
+    "name": "Skinny Cream of Mushroom Soup",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/uBJvYAZL/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T07:54:36-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dRgeGq2dL6RMi0oB_t4jPnsrPqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2738017-c5c475aa21ff44be8d2f2bb334d748e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245256/hero.webp",
+    "steps": [
+      null,
+      "assets/images/245256/step_02.webp"
+    ]
+  }
+}

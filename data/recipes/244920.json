@@ -1,0 +1,85 @@
+{
+  "id": "244920",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244920/southern-coffee-punch/",
+  "requested_url": "https://www.allrecipes.com/recipe/244920/southern-coffee-punch/",
+  "title": "Southern Coffee Punch",
+  "description": "Coffee and ice cream are mixed together forming a Southern coffee punch that is a coffee lover’s dream come true.",
+  "authors": [
+    "Esther Loveall Saunders"
+  ],
+  "date_published": "2020-06-19T00:03:40-04:00",
+  "date_modified": "2026-08-05T10:58:29-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT40M",
+  "yield": [
+    "20",
+    "1 large punch bowl"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups boiling water",
+    "1 cup white sugar",
+    "1 (2 ounce) jar instant coffee granules (such as Nescafe®)",
+    "1 gallon 2% milk",
+    "0.5 gallon vanilla ice cream",
+    "0.5 gallon chocolate ice cream"
+  ],
+  "steps": [
+    {
+      "text": "Stir boiling water, sugar, and instant coffee together in a bowl until dissolved; cool in refrigerator, 30 minutes to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour coffee mixture into a punch bowl; add milk, vanilla ice cream, and chocolate ice cream. Stir until ice cream begins to melt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "363 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "164 mg",
+    "sugarContent": "44 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dVpqiF9SLlSXk9zAwXQLGODP8f4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9348496-15c5f53ee1fc464e857ff6362aa1d972.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244920/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

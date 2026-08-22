@@ -1,0 +1,128 @@
+{
+  "id": "245362",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245362/chef-johns-shakshuka/",
+  "requested_url": "https://www.allrecipes.com/recipe/245362/chef-johns-shakshuka/",
+  "title": "Chef John&#39;s Shakshuka",
+  "description": "This shakshuka recipe makes a spicy tomato and bell pepper sauce simmered with soft-poached eggs on top for a delicious breakfast or anytime meal.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2019-10-10T00:52:16-04:00",
+  "date_modified": "2026-04-15T03:26:44-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT35M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Middle Eastern"
+  ],
+  "regions": [
+    "Middle Eastern"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "1 large onion, diced",
+    "0.5 cup sliced fresh mushrooms",
+    "1 teaspoon salt, or more to taste",
+    "1 cup diced red bell pepper",
+    "1 jalapeno pepper, seeded and sliced",
+    "1 teaspoon cumin",
+    "0.5 teaspoon paprika",
+    "0.5 teaspoon ground turmeric",
+    "0.5 teaspoon freshly ground black pepper, plus more to taste",
+    "0.25 teaspoon cayenne pepper",
+    "1 (28 ounce) can crushed San Marzano tomatoes, or other high-quality plum tomatoes",
+    "0.5 cup water, or more as needed",
+    "6 large eggs",
+    "2 tablespoons crumbled feta cheese",
+    "2 tablespoons chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large, heavy skillet over medium-high heat. Add onion and mushrooms; season with salt. Cook and stir until mushrooms release all of their liquid and start to brown, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add bell pepper and jalapeño pepper. Cook and stir until peppers begin to soften, about 5 minutes. Season with cumin, paprika, turmeric, black pepper, and cayenne. Cook and stir to blend the flavors, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in tomatoes and water. Reduce heat to medium. Simmer uncovered, stirring occasionally, until vegetables are softened and sweet, 15 to 20 minutes. Add more water if sauce becomes too thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Use a large spoon to make a depression in sauce for each egg. Crack an egg into a small ramekin and slide gently into an indentation; repeat with remaining eggs. Season eggs with salt and pepper. Cover and cook until eggs reach desired doneness.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Top with feta cheese and parsley to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/34V2oRs9SeuyXv_uV_4SjekGi2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245362-Chef-Johns-Shakshukai-DDMFS-1x1-1-9b8332eb939f40dea0c7739c5d1c44c4.jpg"
+      ],
+      "image": "assets/images/245362/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "185 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "189 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "670 mg",
+    "sugarContent": "3 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "293"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/GEhfhvRg-K3AjnAEN.mp4",
+    "description": "In this video, Chef John shows you how to make Shakshuka, a North African one-dish-meal that’s quick to make and quick to disappear! Veggies are sauteed and seasoned with bright spices and then simmered in a tomato sauce. The showstopper of this dish is the eggs that are added and cooked right in the sauce. Grab a slice of crusty toast and dig in! ",
+    "duration": "PT8M12S",
+    "name": "Chef John's Shakshuka",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/GEhfhvRg/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:38:21-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/34V2oRs9SeuyXv_uV_4SjekGi2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245362-Chef-Johns-Shakshukai-DDMFS-1x1-1-9b8332eb939f40dea0c7739c5d1c44c4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245362/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/245362/step_05.webp"
+    ]
+  }
+}

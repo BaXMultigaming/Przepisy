@@ -1,0 +1,83 @@
+{
+  "id": "245303",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245303/sweet-coconut-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/245303/sweet-coconut-oatmeal/",
+  "title": "Sweet Coconut Oatmeal",
+  "description": "In this quick and easy recipe, oats are cooked in coconut milk for an fresh spin on classic breakfast oatmeal.",
+  "authors": [
+    "dalliance"
+  ],
+  "date_published": "2020-03-05T00:13:41-05:00",
+  "date_modified": "2026-04-20T13:38:10-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (14 ounce) can coconut milk",
+    "1 cup rolled oats",
+    "2 tablespoons honey",
+    "0.25 cup coconut flakes",
+    "2 tablespoons brown sugar, or more to taste",
+    "1 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Bring coconut milk to a gentle boil in a small saucepan over medium-low heat. Stir in oats and honey; lower heat and simmer until milk has mostly been absorbed, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Sprinkle coconut flakes, brown sugar, and cinnamon into oatmeal. Cook until oats are creamy and flavors are combined, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "490 kcal",
+    "carbohydrateContent": "45 g",
+    "fiberContent": "6 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "30 g",
+    "sodiumContent": "25 mg",
+    "sugarContent": "21 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8r8jAi-bvAAsZUqTgygIXP8eYTk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2786416-sweet-coconut-oatmeal-France-C-4x3-1-6db416f594384e0a9ecc5d6936a166d3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245303/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

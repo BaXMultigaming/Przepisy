@@ -1,0 +1,107 @@
+{
+  "id": "244389",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244389/avocado-breakfast-bowl/",
+  "requested_url": "https://www.allrecipes.com/recipe/244389/avocado-breakfast-bowl/",
+  "title": "Avocado Breakfast Bowl",
+  "description": "Quinoa, eggs, avocado, and feta cheese are layered together in this quick and easy avocado breakfast bowl.",
+  "authors": [
+    "Alisha"
+  ],
+  "date_published": "2019-05-07T21:40:12-04:00",
+  "date_modified": "2026-08-03T11:59:59-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.5 cup water",
+    "0.25 cup red quinoa",
+    "1.5 teaspoons olive oil",
+    "2 eggs",
+    "1 pinch salt and ground black pepper to taste",
+    "0.25 teaspoon seasoned salt",
+    "0.25 teaspoon ground black pepper",
+    "1 avocado, diced",
+    "2 tablespoons crumbled feta cheese"
+  ],
+  "steps": [
+    {
+      "text": "Stir water and quinoa together in a rice cooker; cook until quinoa is tender, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a skillet over medium heat and cook eggs to desired doneness; season with seasoned salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine quinoa and eggs in a bowl; top with avocado and feta cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/q-vz2xlW1inCedI8P6WNVrhG9L0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244389-avocado-breakfast-bowl-DDMFS-1x1-1-d839dfbb185a457bbecfd8116720acea.jpg"
+      ],
+      "image": "assets/images/244389/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "372 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "194 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "379 mg",
+    "sugarContent": "1 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "121"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/C6nA23td-K3AjnAEN.mp4",
+    "description": "Get the rice cooker going first thing while you get ready for work and your quinoa will be waiting for you to top it with all sorts of good yummy ingredients, including eggs, avocado and feta cheese. Add some seasoning and you’ve got the day started out right! And no need to restrict this tasty number to breakfast . . . it’s delicious any time of day.",
+    "duration": "PT49S",
+    "name": "Avocado Breakfast Bowl",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/C6nA23td/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:38:33-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/q-vz2xlW1inCedI8P6WNVrhG9L0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244389-avocado-breakfast-bowl-DDMFS-1x1-1-d839dfbb185a457bbecfd8116720acea.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244389/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/244389/step_03.webp"
+    ]
+  }
+}

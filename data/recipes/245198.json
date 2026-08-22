@@ -1,0 +1,82 @@
+{
+  "id": "245198",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245198/banana-coconut-smoothie-bowl/",
+  "requested_url": "https://www.allrecipes.com/recipe/245198/banana-coconut-smoothie-bowl/",
+  "title": "Banana Coconut Smoothie Bowl",
+  "description": "This banana and peach smoothie is topped with coconut, almonds, and raisins creating a paleo-friendly smoothie bowl for a quick breakfast.",
+  "authors": [
+    "Alli Shircliff"
+  ],
+  "date_published": "2019-04-04T00:00:26-04:00",
+  "date_modified": "2022-04-09T00:50:54-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "1",
+    "1 smoothie bowl"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 banana, divided",
+    "0.5 cup frozen peach slices",
+    "2 tablespoons unsweetened applesauce",
+    "2 tablespoons water",
+    "2 teaspoons coconut oil",
+    "1 tablespoon shredded unsweetened coconut",
+    "1 tablespoon sliced almonds",
+    "1 tablespoon raisins"
+  ],
+  "steps": [
+    {
+      "text": "Blend 1/2 banana, peaches, applesauce, water, and coconut oil together in a blender until smooth; pour into a serving bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Slice remaining half banana and arrange on top of smoothie. Add shredded coconut, almonds, and raisins.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "317 kcal",
+    "carbohydrateContent": "45 g",
+    "fiberContent": "5 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "28 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TNzk_yL37DvzMAiJyHT6TafycHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2943686-466d2e7ef03a4c97b49427aa28519b66.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245198/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

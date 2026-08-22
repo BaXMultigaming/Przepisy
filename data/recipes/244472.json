@@ -1,0 +1,111 @@
+{
+  "id": "244472",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244472/mocha-semifreddo/",
+  "requested_url": "https://www.allrecipes.com/recipe/244472/mocha-semifreddo/",
+  "title": "Mocha Semifreddo",
+  "description": "Chef John uses a few shortcuts for his mocha semifreddo, but you still get an rich, custard-style ice cream without having to use a machine.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-06-19T00:03:24-04:00",
+  "date_modified": "2020-06-19T00:03:24-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT4M",
+  "total_time": "PT498M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Snack",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large eggs",
+    "2 tablespoons white sugar",
+    "1 tablespoon coffee-flavored liqueur (such as Kahlua®)",
+    "1.5 teaspoons instant coffee granules",
+    "1 teaspoon unsweetened cocoa powder",
+    "0.25 cup ice cold heavy whipping cream",
+    "1 tablespoon white sugar",
+    "1 teaspoon whipped cream for garnish",
+    "1 pinch unsweetened cocoa powder for dusting"
+  ],
+  "steps": [
+    {
+      "text": "Whisk eggs, sugar, coffee-flavored liqueur, instant coffee, and 1 teaspoon cocoa powder together in a metal bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bowl over low heat on the stove (holding bowl with a dishtowel) and continue whisking until mixture thickens, 4 to 6 minutes. Whisk continually to prevent eggs from scrambling. Remove bowl from heat and let mixture cool completely. (You can set the bowl on ice water to speed this up.)",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk ice-cold heavy cream and sugar together in a chilled bowl until stiff peaks form, 3 to 4 minutes. Add cooled egg-coffee mixture to the whipped cream. Stir with a spatula until just combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer mixture to serving cups. Wrap cups in plastic wrap and freeze until firm, 8 hours or overnight. Garnish with whipped cream and a dusting of cocoa powder.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/-ceJVgJ7qtNVu0kpb9JBZSwv328=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2400302-438fad5bb8d94b97a5d04889606b2dab.jpg"
+      ],
+      "image": "assets/images/244472/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "279 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "227 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "83 mg",
+    "sugarContent": "22 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "9"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/eFClW46g-K3AjnAEN.mp4",
+    "description": "In this video, Chef John shows you how to make a frozen Italian dessert that’s light, yet luxurious and creamy. You won’t even need an ice cream machine. This chocolate and coffee flavored semifreddo is a breeze to put together. The hardest part will be waiting until it freezes overnight. ",
+    "duration": "PT6M21S",
+    "name": "Chef John's Mocha Semifreddo",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/eFClW46g/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T10:32:42-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-ceJVgJ7qtNVu0kpb9JBZSwv328=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2400302-438fad5bb8d94b97a5d04889606b2dab.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244472/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/244472/step_04.webp"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "244825",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244825/green-smoothie-bowl/",
+  "requested_url": "https://www.allrecipes.com/recipe/244825/green-smoothie-bowl/",
+  "title": "Green Smoothie Bowl",
+  "description": "A spinach and banana smoothie is topped with berries, chia seeds, almonds, and coconut in this colorful and hearty green smoothie bowl.",
+  "authors": [
+    "Lindsey"
+  ],
+  "date_published": "2016-06-30T09:07:39-04:00",
+  "date_modified": "2026-02-02T11:24:48-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups fresh spinach",
+    "1 banana",
+    "0.5 (14 ounce) can coconut milk",
+    "0.5 cup frozen mango chunks",
+    "0.5 cup coconut water",
+    "0.33333334326744 cup fresh raspberries",
+    "0.25 cup fresh blueberries",
+    "2 tablespoons granola",
+    "1 tablespoon coconut flakes",
+    "0.25 teaspoon sliced almonds",
+    "0.25 teaspoon chia seeds"
+  ],
+  "steps": [
+    {
+      "text": "Blend spinach, banana, coconut milk, mango, and coconut water in a blender until smooth. Pour smoothie into a bowl and top with raspberries, blueberries, granola, coconut flakes, almonds, and chia seeds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "374 kcal",
+    "carbohydrateContent": "37 g",
+    "fiberContent": "8 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "116 mg",
+    "sugarContent": "18 g",
+    "fatContent": "26 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TaYaL6WDEHOCOYxYszmlIzQBWJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2606226-c7592cd07d2b46d986193798377f8744.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244825/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

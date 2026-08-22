@@ -1,0 +1,83 @@
+{
+  "id": "245208",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245208/blueberry-smoothie-bowl/",
+  "requested_url": "https://www.allrecipes.com/recipe/245208/blueberry-smoothie-bowl/",
+  "title": "Blueberry Smoothie Bowl",
+  "description": "A blueberry and banana smoothie is topped with coconut and almonds in this quick and easy blueberry smoothie bowl recipe.",
+  "authors": [
+    "Alli Shircliff"
+  ],
+  "date_published": "2019-04-04T00:00:27-04:00",
+  "date_modified": "2022-11-16T20:28:21-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 smoothie bowl"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup frozen blueberries",
+    "0.5 banana",
+    "2 tablespoons water",
+    "1 tablespoon cashew butter",
+    "1 teaspoon vanilla extract",
+    "0.5 banana, sliced",
+    "1 tablespoon sliced almonds",
+    "1 tablespoon unsweetened shredded coconut"
+  ],
+  "steps": [
+    {
+      "text": "Blend blueberries, 1/2 banana, water, cashew butter, and vanilla extract together in a blender until smooth; pour into a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Top smoothie with sliced banana, almonds, and coconut.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "368 kcal",
+    "carbohydrateContent": "55 g",
+    "fiberContent": "8 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "30 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "23"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jLX84OUxNApLicfWPAjjEN_stY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2969063-blueberry-smoothie-bowl-Buckwheat-Queen-4x3-1-98e584ddbfa14c7ca3ad34b4ab0ff286.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245208/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

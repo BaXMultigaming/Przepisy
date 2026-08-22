@@ -1,0 +1,75 @@
+{
+  "id": "245065",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245065/rainbow-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/245065/rainbow-juice/",
+  "title": "Rainbow Juice",
+  "description": "Fresh homemade juice made with fruits and vegetables that represent all the colors of the rainbow is a great way to get a serving of fruits and vegetables.",
+  "authors": [
+    "Chef Jombus"
+  ],
+  "date_published": "2016-06-30T09:08:07-04:00",
+  "date_modified": "2025-06-04T17:11:16-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 small beets, peeled",
+    "2 carrots",
+    "2 oranges, peeled",
+    "1 cup fresh spinach",
+    "0.25 cup fresh blueberries, or more to taste",
+    "1 (1 inch) piece fresh ginger, peeled"
+  ],
+  "steps": [
+    {
+      "text": "Run beets, carrots, oranges, spinach, blueberries, and ginger through a juicer according to manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "carbohydrateContent": "32 g",
+    "fiberContent": "9 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "210 mg",
+    "sugarContent": "18 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/W1haW9rC3GPMAKvhV0K0rOLPJYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4484533-e238c789138a4ffb9207e5b1050437d3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245065/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

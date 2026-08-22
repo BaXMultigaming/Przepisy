@@ -1,0 +1,111 @@
+{
+  "id": "244959",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244959/chocolate-banana-peanut-butter-protein-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/244959/chocolate-banana-peanut-butter-protein-shake/",
+  "title": "Chocolate Banana Peanut Butter Protein Shake",
+  "description": "This chocolate protein shake is creamy, filling, and quickly made in a blender with banana, protein powder, peanut butter, cocoa powder, and honey.",
+  "authors": [
+    "magmotif"
+  ],
+  "date_published": "2016-06-04T09:58:16-04:00",
+  "date_modified": "2025-10-29T13:58:01-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 ice cubes",
+    "1 cup milk",
+    "1 banana",
+    "1 scoop chocolate-flavored protein powder",
+    "2 tablespoons peanut butter",
+    "1 tablespoon honey",
+    "1 teaspoon unsweetened cocoa powder, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/urKo8hdLxEWomJHGNjbEW6yHIC0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244959-chocolate-banana-peanut-butter-protein-shake-step-01-028-dd405870391d4a38b48476bc7fb3c6ad.jpg"
+      ],
+      "image": "assets/images/244959/step_01.webp"
+    },
+    {
+      "text": "Blend ice cubes, milk, banana, protein powder, peanut butter, honey, and cocoa powder together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/HjDRZRBY-EmrH87Ah9QQryglE2k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244959-chocolate-banana-peanut-butter-protein-shake-step-02-029-30ee530f65ce4d89bb345fbd190de201.jpg"
+      ],
+      "image": "assets/images/244959/step_02.webp"
+    },
+    {
+      "text": "Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/NwLbRiSupPakbLSJGvGibLhnwPM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244959-chocolate-banana-peanut-butter-protein-shake-3x4-044-ce279282e3904379bdb3d26aaa9f525b.jpg"
+      ],
+      "image": "assets/images/244959/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "561 kcal",
+    "carbohydrateContent": "67 g",
+    "cholesterolContent": "60 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "31 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "341 mg",
+    "sugarContent": "46 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "108"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Um1gO6mj-K3AjnAEN.mp4",
+    "description": "In this video, learn how to make a chocolate banana peanut butter protein shake. This smoothie has tons of flavor and is loaded with nutrients. Make one before a workout to get what your body needs to succeed, or make one in the morning to start the workday off right. Fortunately, making it could not be more simple, just blend ice cubes, milk, banana, protein powder, peanut butter, honey, and cocoa powder together until the ingredients are smooth.",
+    "duration": "PT44S",
+    "name": "How to Make Chocolate Banana Peanut Butter Protein Shakes",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Um1gO6mj/poster.jpg?width=1280",
+    "uploadDate": "2023-02-13T12:48:03-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NwLbRiSupPakbLSJGvGibLhnwPM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244959-chocolate-banana-peanut-butter-protein-shake-3x4-044-ce279282e3904379bdb3d26aaa9f525b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244959/hero.webp",
+    "steps": [
+      "assets/images/244959/step_01.webp",
+      "assets/images/244959/step_02.webp",
+      "assets/images/244959/step_03.webp"
+    ]
+  }
+}
