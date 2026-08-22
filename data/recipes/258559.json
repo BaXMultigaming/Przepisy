@@ -1,0 +1,80 @@
+{
+  "id": "258559",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/258559/quick-tomatillo-guacamole/",
+  "requested_url": "https://www.allrecipes.com/recipe/258559/quick-tomatillo-guacamole/",
+  "title": "Quick Tomatillo Guacamole",
+  "description": "Tangy, spicy, creamy, and delicious, this variation on guacamole including tomatillo may very well change the way you eat guacamole forever.",
+  "authors": [
+    "Jill Garcia Schmidt"
+  ],
+  "date_published": "2020-02-01T02:51:55-05:00",
+  "date_modified": "2025-05-02T11:54:24-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "Tex-Mex",
+    "Mexican"
+  ],
+  "regions": [
+    "Tex-Mex",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 avocado, chopped",
+    "1 large tomatillo, husked and chopped",
+    "0.5 white onion, roughly chopped",
+    "1 jalapeno pepper, seeded and chopped, or more to taste",
+    "1 clove garlic, chopped, or more to taste",
+    "1 lime, juiced",
+    "2 tablespoons chopped fresh cilantro",
+    "0.5 teaspoon ground cumin",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place avocado, tomatillo, onion, jalapeno, garlic, lime juice, cilantro, cumin, salt, and pepper in a blender; blend until smooth, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "11 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "21 mg",
+    "sugarContent": "1 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wWyXLVOzR3tqxZMVfnshL9pmVeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4530751-ef94e8f2788a4a948550cb108991c6af.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/258559/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

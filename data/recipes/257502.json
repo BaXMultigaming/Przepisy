@@ -1,0 +1,77 @@
+{
+  "id": "257502",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/257502/shiraz-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/257502/shiraz-salad/",
+  "title": "Shiraz Salad",
+  "description": "Shiraz salad, a fresh mix of cucumber, tomato, onion, mint, and lemon juice, is a side dish served with almost every Persian meal.",
+  "authors": [
+    "Marianne"
+  ],
+  "date_published": "2019-07-10T03:10:45-04:00",
+  "date_modified": "2025-04-06T16:51:48-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Persian",
+    "American"
+  ],
+  "regions": [
+    "Persian",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 small cucumbers, diced",
+    "1 tomato, diced",
+    "1 onion, diced",
+    "2 tablespoons lemon juice",
+    "1 teaspoon chopped fresh mint",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mix cucumbers, tomato, onion, lemon juice, mint, salt, and pepper together in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "61 kcal",
+    "carbohydrateContent": "15 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "86 mg",
+    "sugarContent": "7 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0Wo91QsClAWgrs-yFVnKNzBRKPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4501767-57ed5c095f454719ba0169188adbe3ba.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/257502/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "258305",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/258305/island-greens-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/258305/island-greens-smoothie/",
+  "title": "Island Greens Smoothie",
+  "description": "This quick green smoothie provides what you need for a fruity, veggie snack--with spinach, banana, pineapple, and almondmilk.",
+  "authors": [
+    "Almond Breeze"
+  ],
+  "date_published": "2017-05-23T01:49:23-04:00",
+  "date_modified": "2022-05-24T16:50:44-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup baby spinach leaves",
+    "1 banana, cut into chunks",
+    "0.5 cup pineapple chunks",
+    "0.75 cup Almond Breeze Original or Unsweetened Original almondmilk"
+  ],
+  "steps": [
+    {
+      "text": "Place all ingredients into blender and blend on high until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130 kcal",
+    "carbohydrateContent": "28 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "123 mg",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rxogcml16eaXELr6jPjgDzl2pkY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Island-Greens-Smoothie-59e40d873a7d4ed4b41f218f80e154bf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/258305/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

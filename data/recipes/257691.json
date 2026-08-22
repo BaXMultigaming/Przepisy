@@ -1,0 +1,79 @@
+{
+  "id": "257691",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/257691/pineapple-bbq-pulled-pork/",
+  "requested_url": "https://www.allrecipes.com/recipe/257691/pineapple-bbq-pulled-pork/",
+  "title": "Pineapple BBQ Pulled Pork",
+  "description": "Pulled pork made with pineapple and barbeque sauce in the slow cooker is an easy meal to prepare using 5 simple ingredients.",
+  "authors": [
+    "Lea Speer"
+  ],
+  "date_published": "2017-12-02T10:00:56-05:00",
+  "date_modified": "2017-12-02T10:00:56-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT360M",
+  "total_time": "PT370M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 pounds pork shoulder, trimmed of excess fat",
+    "1 cup chicken broth",
+    "1 (18 ounce) bottle honey barbeque sauce",
+    "1 onion, chopped",
+    "1 cup chopped fresh pineapple"
+  ],
+  "steps": [
+    {
+      "text": "Place pork shoulder and chicken broth in a slow cooker.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on Low for 5 to 7 hours. Drain all the liquid from the slow cooker and shred pork with fork. Mix barbeque sauce, onion, and pineapple into shredded pork. Continue cooking 1 to 1 1/2 hours more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "439 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "90 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "1081 mg",
+    "sugarContent": "31 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/woP8ceka4M8BR_3eoQ6bRqBYZz0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7020565-ebc4231463574dfe9769d9a13c50f88e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/257691/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

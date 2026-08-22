@@ -1,0 +1,83 @@
+{
+  "id": "258480",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/258480/rebuilt-orange-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/258480/rebuilt-orange-cream/",
+  "title": "Rebuilt Orange Cream",
+  "description": "Try this kid-friendly makeover milkshake: a milky orange-vanilla mix sits between vanilla ice cream in a mug, topped with whipped cream.",
+  "authors": [
+    "JuniorChefReinert"
+  ],
+  "date_published": "2020-06-19T00:21:43-04:00",
+  "date_modified": "2020-06-19T00:21:43-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup milk",
+    "1 cup water",
+    "1 cup white sugar",
+    "1 (6 ounce) can frozen orange juice concentrate",
+    "1 teaspoon vanilla extract",
+    "7 ice cubes",
+    "2 cups vanilla ice cream, or to taste",
+    "0.25 cup whipped cream, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk, water, sugar, orange juice concentrate, and vanilla extract in a blender. Cover with ice cubes and blend orange mixture on Low, gradually increasing to High, until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the bottom of a mug with vanilla ice cream. Pour in orange mixture; top with remaining ice cream and whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454 kcal",
+    "carbohydrateContent": "89 g",
+    "cholesterolContent": "37 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "87 mg",
+    "sugarContent": "87 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ySY2n3IynKdpMEFANCTzq9TiGC8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6804148-e404d60c10ef47fd8c4e7c767cb6a559.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/258480/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

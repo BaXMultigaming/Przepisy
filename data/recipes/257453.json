@@ -1,0 +1,83 @@
+{
+  "id": "257453",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/257453/simply-seared-scallops/",
+  "requested_url": "https://www.allrecipes.com/recipe/257453/simply-seared-scallops/",
+  "title": "Simply Seared Scallops",
+  "description": "This simple recipe, ready in 10 minutes or less, uses minimal ingredients in order to highlight the delicious flavor of sea scallops.",
+  "authors": [
+    "Stephanie Karek"
+  ],
+  "date_published": "2019-07-10T03:10:43-04:00",
+  "date_modified": "2025-12-21T22:59:27-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT4M",
+  "total_time": "PT9M",
+  "yield": [
+    "3",
+    "12 scallops"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 sea scallops, tough muscles removed",
+    "0.5 lemon, juiced",
+    "sea salt and ground black pepper to taste",
+    "1 tablespoon olive oil",
+    "1 teaspoon butter",
+    "1 teaspoon lemon zest"
+  ],
+  "steps": [
+    {
+      "text": "Pat sea scallops dry with paper towels. Season with some lemon juice, salt, and pepper on one side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil and butter in a skillet over high heat. Place scallops in the skillet seasoned-side down. Cook until browned on the bottom, about 2 minutes. Season with remaining lemon juice, salt, and pepper; flip. Continue cooking until opaque, about 2 minutes more. Garnish with lemon zest.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "170 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "320 mg",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "22"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/sWaHKZCJINHOeMiWnt7h56NbYWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7275018-39183dc72f8d403aa3a236f3f696f055.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/257453/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

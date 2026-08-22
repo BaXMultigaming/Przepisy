@@ -1,0 +1,88 @@
+{
+  "id": "258097",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/258097/healthy-breakfast-sandwich/",
+  "requested_url": "https://www.allrecipes.com/recipe/258097/healthy-breakfast-sandwich/",
+  "title": "Healthy Breakfast Sandwich",
+  "description": "Toasted whole wheat English muffins with cooked egg whites, spinach, and tomato slices make a quick and healthy breakfast sandwich.",
+  "authors": [
+    "Molly"
+  ],
+  "date_published": "2017-05-06T00:22:53-04:00",
+  "date_modified": "2022-01-14T13:49:13-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 sandwiches"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.75 cup liquid egg whites",
+    "2 whole-wheat English muffins, split",
+    "0.5 cup baby spinach leaves",
+    "2 slices fresh tomato"
+  ],
+  "steps": [
+    {
+      "text": "Cook egg whites in a nonstick skillet over medium heat until opaque, about 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toast English muffins. Divide cooked egg whites between 2 muffin bottoms. Top with spinach, 1 tomato slice, and muffin tops.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/klG5y-G6-2TVQxWRbfnnZtuzKmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4530229-e1039861e1b94828bc97c3de49566590.jpg"
+      ],
+      "image": "assets/images/258097/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "186 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "5 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "474 mg",
+    "sugarContent": "7 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "7"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/k9zRzWgc-K3AjnAEN.mp4",
+    "description": "This healthy breakfast sandwich recipe makes for a quick and easy breakfast made with whole grain muffins, egg whites, spinach, and fresh tomato.",
+    "duration": "PT1M4S",
+    "name": "How to Make a Healthy Breakfast Sandwich",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/k9zRzWgc/poster.jpg?width=1280",
+    "uploadDate": "2022-02-01T13:16:28-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/klG5y-G6-2TVQxWRbfnnZtuzKmw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4530229-e1039861e1b94828bc97c3de49566590.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/258097/hero.webp",
+    "steps": [
+      null,
+      "assets/images/258097/step_02.webp"
+    ]
+  }
+}

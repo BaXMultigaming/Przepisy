@@ -1,0 +1,70 @@
+{
+  "id": "258170",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/258170/easy-white-chocolate-ganache/",
+  "requested_url": "https://www.allrecipes.com/recipe/258170/easy-white-chocolate-ganache/",
+  "title": "Easy White Chocolate Ganache",
+  "description": "This easy white chocolate ganache is made with just two ingredients: heavy cream and white chocolate chips. Pour over a cake or use it for dipping!",
+  "authors": [
+    "chelle"
+  ],
+  "date_published": "2017-05-10T22:03:07-04:00",
+  "date_modified": "2023-04-20T15:07:37-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT25M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup heavy whipping cream",
+    "1 cup white chocolate chips"
+  ],
+  "steps": [
+    {
+      "text": "Heat heavy cream in a saucepan over medium heat until just boiling. Remove from the heat and add white chocolate chips. Whisk gently until chips are melted and fully incorporated. Let cool until slightly thickened, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "178 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "25 mg",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "29 mg",
+    "sugarContent": "13 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.3",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wg7NmBvdDw5MloVFSYzxp_rv_6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4514874-easy-white-chocolate-ganache-Yoly-4x3-1-ceafcef9f782436bba78807e6fd91129.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/258170/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

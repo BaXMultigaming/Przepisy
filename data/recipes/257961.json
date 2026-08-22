@@ -1,0 +1,84 @@
+{
+  "id": "257961",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/257961/neeps-and-tatties/",
+  "requested_url": "https://www.allrecipes.com/recipe/257961/neeps-and-tatties/",
+  "title": "Neeps and Tatties",
+  "description": "Neeps and tatties, a traditional Scottish side dish of mashed potatoes and swede (rutabaga), goes well with haggis or a beef roast.",
+  "authors": [
+    "wsf"
+  ],
+  "date_published": "2018-06-08T10:43:09-04:00",
+  "date_modified": "2026-03-02T21:30:02-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT20M",
+  "total_time": "PT45M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Scottish"
+  ],
+  "regions": [
+    "Scottish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds russet potatoes, peeled and cubed",
+    "2 pounds swede (rutabaga), peeled and cubed",
+    "0.25 cup butter, softened",
+    "1 teaspoon mustard powder",
+    "1 bunch scallions, finely chopped",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes and swede in a large pot; cover with water. Bring to a boil and cook until tender, about 15 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mash butter and mustard powder into potatoes and swede until well incorporated. Stir in scallions, salt, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "190 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "94 mg",
+    "sugarContent": "8 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8Bp6LYVOp9xVH-d0z7-OTDdpATk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4509110-neeps-and-tatties-Bren-4x3-1-486f3cb496d048d4b1041aca7c19b217.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/257961/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

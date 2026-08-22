@@ -1,0 +1,91 @@
+{
+  "id": "257582",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/257582/pretzel-broomstick/",
+  "requested_url": "https://www.allrecipes.com/recipe/257582/pretzel-broomstick/",
+  "title": "Pretzel Broomstick",
+  "description": "String cheese, pretzel sticks, and spinach come together to make pretzel broomsticks, a clever snack the whole family will love on Halloween.",
+  "authors": [
+    "medoDIYstuffs"
+  ],
+  "date_published": "2018-10-24T00:17:36-04:00",
+  "date_modified": "2023-04-05T14:01:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 string cheese sticks, or more as needed",
+    "12 pretzel sticks",
+    "1 leaf fresh spinach, cut into strips, or more as needed"
+  ],
+  "steps": [
+    {
+      "text": "Cut each string cheese stick into thirds. Snip the ends of each third into thin strings to look like a broom.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place a pretzel stick into each piece of string cheese to create the broom handle. Tie a spinach strip around the cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7t3BEUsIF6nxMjh-P3DEA9QpPHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4496844-16a0c96206474ae49581a8eb0a2250d7.jpg"
+      ],
+      "image": "assets/images/257582/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84 kcal",
+    "carbohydrateContent": "12 g",
+    "cholesterolContent": "7 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "338 mg",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "10"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/GdXY1Qkd-K3AjnAEN.mp4",
+    "description": "Turn your plate of hors d'oeuvres a little spooky with these broomsticks and your next bite will take flight!",
+    "duration": "PT27S",
+    "name": "Pretzel Broomsticks",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/GdXY1Qkd/poster.jpg?width=1280",
+    "uploadDate": "2021-07-13T20:50:07-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7t3BEUsIF6nxMjh-P3DEA9QpPHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4496844-16a0c96206474ae49581a8eb0a2250d7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/257582/hero.webp",
+    "steps": [
+      null,
+      "assets/images/257582/step_02.webp"
+    ]
+  }
+}
