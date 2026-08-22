@@ -1,0 +1,88 @@
+{
+  "id": "242099",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242099/vegetarian-fried-feta-rice-by-andie/",
+  "requested_url": "https://www.allrecipes.com/recipe/242099/vegetarian-fried-feta-rice-by-andie/",
+  "title": "Vegetarian Fried Feta Rice by Andie",
+  "description": "Brown rice, feta cheese, and green beans are all you need to make this delicious vegetarian fried rice dish.",
+  "authors": [
+    "Charley"
+  ],
+  "date_published": "2019-09-07T00:50:02-04:00",
+  "date_modified": "2022-01-14T01:27:31-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cup brown rice",
+    "3 cups frozen green beans",
+    "3 tablespoons olive oil, or more as needed",
+    "2 tablespoons crumbled feta cheese, or to taste",
+    "1 pinch ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring water and brown rice to a boil in a saucepan; cook until rice has softened, 15 to 20 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add green beans, cover, and steam until tender, 2 to 6 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a large skillet over medium-high heat. Saute green beans and rice in hot oil until lightly crisped, 5 to 10 minutes. Stir in feta cheese; drizzle olive oil over the top and season with black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "203 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "3 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "39 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/oEuCJXCBzAqc3ckMb6qnWzDA7qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2269149-3803468fe06d413ca7e9b0043093647c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242099/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

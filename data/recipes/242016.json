@@ -1,0 +1,83 @@
+{
+  "id": "242016",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242016/crunchy-pineapple-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/242016/crunchy-pineapple-smoothie/",
+  "title": "Crunchy Pineapple Smoothie",
+  "description": "Pineapple, oranges, and kiwi fruit are blended with green tea and Greek yogurt creating a creamy and fruit-filled smoothie for an on-the-go breakfast.",
+  "authors": [
+    "Alexandria Sanders"
+  ],
+  "date_published": "2019-04-03T23:59:38-04:00",
+  "date_modified": "2019-04-03T23:59:38-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup boiling water",
+    "1 (2 g) bag green tea bag",
+    "1 large orange, peeled",
+    "1 cup pineapple chunks",
+    "1 kiwi fruit, peeled",
+    "3 tablespoons non-fat Greek yogurt"
+  ],
+  "steps": [
+    {
+      "text": "Place boiling water in a bowl and add green tea; allow to steep for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Blend orange, pineapple, and kiwi fruit together in a blender. Remove tea bag from tea and add tea to orange mixture; blend. Add yogurt and blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "101 kcal",
+    "carbohydrateContent": "24 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "21 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QEpZyvQURQS-cbvsbIeNCvyy6eI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2219145-1f38fd73bd4e4ebba8e8fd2feb9b21c7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242016/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

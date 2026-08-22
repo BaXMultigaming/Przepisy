@@ -1,0 +1,91 @@
+{
+  "id": "242222",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242222/pesto-zoodles/",
+  "requested_url": "https://www.allrecipes.com/recipe/242222/pesto-zoodles/",
+  "title": "Pesto Zoodles",
+  "description": "Zucchini noodles, also known as zoodles, are tossed with pesto, white Cheddar cheese, and garbanzo beans for a satisfying grain-free meal.",
+  "authors": [
+    "Alli Shircliff"
+  ],
+  "date_published": "2018-06-08T10:20:56-04:00",
+  "date_modified": "2025-02-05T13:46:39-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "4 small zucchini, cut into noodle-shape strands",
+    "0.5 cup drained and rinsed canned garbanzo beans (chickpeas)",
+    "3 tablespoons pesto, or to taste",
+    "salt and ground black pepper to taste",
+    "2 tablespoons shredded white Cheddar cheese, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium heat. Cook and stir zucchini in hot oil until tender and liquid has evaporated, 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir garbanzo beans and pesto into zucchini; lower heat to medium-low. Cook and stir until garbanzo beans are warm and zucchini is evenly coated, about 5 minutes. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer zucchini mixture to serving bowls and top with white Cheddar cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "319 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "511 mg",
+    "sugarContent": "4 g",
+    "fatContent": "21 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "66"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aT3z6vIn0A-bVb6EyEEI_gKEB24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4403291-818d26229a19431aa65c2b1d608dca01.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242222/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

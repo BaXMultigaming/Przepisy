@@ -1,0 +1,79 @@
+{
+  "id": "242304",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242304/israeli-tomato-and-cucumber-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/242304/israeli-tomato-and-cucumber-salad/",
+  "title": "Israeli Tomato and Cucumber Salad",
+  "description": "This Israeli tomato and cucumber salad recipe combines tomatoes, cucumbers, onions, parsley, mint leaves, and garlic with lemon juice and olive oil.",
+  "authors": [
+    "mimitomany"
+  ],
+  "date_published": "2019-07-10T03:06:18-04:00",
+  "date_modified": "2025-04-23T11:09:37-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "Israeli"
+  ],
+  "regions": [
+    "Israeli"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 English cucumbers, diced",
+    "4 Roma (plum) tomatoes, seeded and diced",
+    "1 red bell pepper, seeded and diced",
+    "1 cup chopped fresh parsley",
+    "0.5 purple onion, diced",
+    "3 tablespoons chopped fresh mint",
+    "2 tablespoons chopped garlic",
+    "0.5 cup olive oil",
+    "2 tablespoons fresh lemon juice",
+    "1 tablespoon kosher salt",
+    "1 tablespoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Toss cucumbers, tomatoes, bell pepper, parsley, onion, mint, and garlic together in a bowl. Drizzle olive oil and lemon juice over salad; toss to coat. Season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "208 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "973 mg",
+    "sugarContent": "5 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "60"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cLbrpthaN0n6XdrDXd6IzZpLdrM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2271347_Israeli-Tomato-and-Cucumber-Salad-4x3-3cffd467983a49398acad97b0ea7935f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242304/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

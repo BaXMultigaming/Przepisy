@@ -1,0 +1,87 @@
+{
+  "id": "241872",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241872/sriracha-aioli/",
+  "requested_url": "https://www.allrecipes.com/recipe/241872/sriracha-aioli/",
+  "title": "Sriracha Aioli",
+  "description": "Sriracha aioli is a deliciously creamy and spicy dipping sauce that&#39;s easy to make with just 3 ingredients: mayo, Sriracha, and lime juice.",
+  "authors": [
+    "KGABELE"
+  ],
+  "date_published": "2015-03-25T19:43:44-04:00",
+  "date_modified": "2026-01-22T17:57:18-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Asian"
+  ],
+  "regions": [
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mayonnaise",
+    "2 tablespoons Sriracha hot sauce",
+    "1 lime, juiced"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/7kts_C7v_jVVCVfcP9DYwvTcfTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-241872-sriracha-aioli-VAT-step-01-aa5dc484109b45fd9ffd9ad8c1c9df77.jpg"
+      ],
+      "image": "assets/images/241872/step_01.webp"
+    },
+    {
+      "text": "Stir mayonnaise and Sriracha together in a bowl until the color is consistent; add lime juice and stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/nddaHT0_CZ_LtSy1YOM8bOq4Vx4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-241872-sriracha-aioli-VAT-step-02-a6fe8bf5983345b78d20eaf985ceaee2.jpg"
+      ],
+      "image": "assets/images/241872/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "160 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "252 mg",
+    "sugarContent": "0 g",
+    "fatContent": "18 g",
+    "servingSize": "1 1/4 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "61"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uWrkqbGfLNnMl7sfZn-9eptXulE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-241872-sriracha-aioli-VAT-hero-04-4x3-4f2331b3633f42a382a4d1de21ceb938.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241872/hero.webp",
+    "steps": [
+      "assets/images/241872/step_01.webp",
+      "assets/images/241872/step_02.webp"
+    ]
+  }
+}

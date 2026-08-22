@@ -1,0 +1,84 @@
+{
+  "id": "242011",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242011/soy-glaze/",
+  "requested_url": "https://www.allrecipes.com/recipe/242011/soy-glaze/",
+  "title": "Soy Glaze",
+  "description": "This soy glaze made with brown sugar, soy sauce, ginger, and vinegar is a simple way to add sweet, savory umami flavor to grilled meats and seafood.",
+  "authors": [
+    "Jack"
+  ],
+  "date_published": "2020-06-19T00:02:44-04:00",
+  "date_modified": "2025-11-21T12:03:59-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT95M",
+  "yield": [
+    "6",
+    "1 cup"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "Asian Inspired",
+    "American"
+  ],
+  "regions": [
+    "Asian Inspired",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66666668653488 cup brown sugar",
+    "0.5 cup low-sodium soy sauce",
+    "0.33333334326744 cup white sugar",
+    "0.25 cup water",
+    "2 tablespoons white wine vinegar",
+    "2 tablespoons rice vinegar",
+    "0.5 teaspoon ground ginger"
+  ],
+  "steps": [
+    {
+      "text": "Mix brown sugar, soy sauce, white sugar, water, white wine vinegar, rice vinegar, and ground ginger in a saucepan; bring to a boil. Reduce heat to medium-low and cook until reduced by half, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Let glaze cool until thickened, at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "117 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "758 mg",
+    "sugarContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "41"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/z0Se0ubnvbXBSnjr2tnlN7jw3WE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5200767-soy-glaze-Jenny-Lawrence-4x3-1-c4af9fec6d664b398748118934e187e0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242011/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

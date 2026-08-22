@@ -1,0 +1,88 @@
+{
+  "id": "244222",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244222/crispy-baked-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/244222/crispy-baked-oatmeal/",
+  "title": "Crispy Baked Oatmeal",
+  "description": "Oats, brown sugar, and cinnamon are baked for 20 minutes in this quick and easy, crispy baked oats recipe that is great for busy mornings.",
+  "authors": [
+    "Marsha"
+  ],
+  "date_published": "2020-03-05T00:13:24-05:00",
+  "date_modified": "2023-01-11T22:26:48-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "0.5 cup vegetable oil",
+    "0.33333334326744 cup packed brown sugar",
+    "3 cups old-fashioned oats",
+    "1 tablespoon baking powder",
+    "0.75 teaspoon ground cinnamon",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease an 8-inch square baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk eggs, oil, and brown sugar together in a bowl until brown sugar is dissolved. Combine oats, baking powder, cinnamon, and salt in a separate bowl; stir into egg mixture just until moistened. Spoon the oat mixture into the prepared baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until edges are golden brown, 20 to 25 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "386 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "62 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "467 mg",
+    "sugarContent": "12 g",
+    "fatContent": "23 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "19"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OZYSQPf71JEBS70PzYyrCsObEkM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2350026-crispy-baked-oatmeal-Marianne-4x3-1-a6c3192c33c047ac9850b2990a5b10f6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244222/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "242220",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242220/strawberry-kiwi-slush/",
+  "requested_url": "https://www.allrecipes.com/recipe/242220/strawberry-kiwi-slush/",
+  "title": "Strawberry Kiwi Slush",
+  "description": "This delicious strawberry kiwi slush recipe is made with grape juice, water, and lemon juice. A perfect alternative to smoothies or other dairy desserts.",
+  "authors": [
+    "GoodCook"
+  ],
+  "date_published": "2020-06-19T00:03:00-04:00",
+  "date_modified": "2025-08-18T21:47:24-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "3",
+    "3 cups"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups crushed ice",
+    "0.75 pint fresh strawberries, hulled",
+    "0.75 cup grape juice (such as Welch's®)",
+    "1 large kiwi fruit, peeled",
+    "0.25 cup water",
+    "0.25 cup lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Combine ice, strawberries, grape juice, kiwi, water, and lemon juice in a blender; blend until reaches an even slushy consistency, 25 to 35 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "91 kcal",
+    "carbohydrateContent": "23 g",
+    "fiberContent": "3 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "5 mg",
+    "sugarContent": "17 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SFfoRk80b4GJhQwMSSovnmbaC6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2266989-fa173eb6084e454d8dfc157fe55a4a72.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242220/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "242028",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242028/green-tea-yogurt/",
+  "requested_url": "https://www.allrecipes.com/recipe/242028/green-tea-yogurt/",
+  "title": "Green Tea Yogurt",
+  "description": "Stir matcha green tea powder into vanilla yogurt for a colorful and earthy way to enjoy yogurt; serve with granola and fresh fruit.",
+  "authors": [
+    "eacevedo"
+  ],
+  "date_published": "2015-04-10T19:12:15-04:00",
+  "date_modified": "2015-04-10T19:12:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cup"
+  ],
+  "categories": [
+    "Breakfast",
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) container low-fat French vanilla yogurt",
+    "1 teaspoon matcha green tea powder"
+  ],
+  "steps": [
+    {
+      "text": "Place yogurt in a bowl. Sift matcha powder over yogurt and whisk until evenly blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "11 mg",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "150 mg",
+    "sugarContent": "31 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rnPZHcn1iffZ0oZ8D3kHWtSaZ1Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2629827-bbdb62127e684b39accd1dc3e93c5f33.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242028/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

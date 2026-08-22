@@ -1,0 +1,73 @@
+{
+  "id": "242100",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242100/eggs-n-fries/",
+  "requested_url": "https://www.allrecipes.com/recipe/242100/eggs-n-fries/",
+  "title": "Eggs n&#39; Fries",
+  "description": "Grandma&#39;s secret recipe for breakfast eggs is out, and it&#39;s delicious! It&#39;s an egg scramble made with French fries.",
+  "authors": [
+    "Chelsea Goldman"
+  ],
+  "date_published": "2018-06-08T10:20:47-04:00",
+  "date_modified": "2026-05-28T13:30:48-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon butter, or to taste",
+    "0.25 cup frozen French fries, or to taste",
+    "2 eggs, beaten",
+    "1 pinch salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a skillet over medium heat. Add French fries; cook and stir until browned and hot, 3 to 5 minutes. Add eggs and season with salt and pepper; cook and stir until scrambled and set, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "212 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "383 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "399 mg",
+    "sugarContent": "1 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RIgccjx9EInMmb1FP5OZtAblhX0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2217331-b4dbd7eb084a48e2b229b3f1fdb13d78.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242100/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

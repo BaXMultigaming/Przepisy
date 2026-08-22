@@ -1,0 +1,81 @@
+{
+  "id": "242252",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242252/secret-salsa/",
+  "requested_url": "https://www.allrecipes.com/recipe/242252/secret-salsa/",
+  "title": "Secret Salsa",
+  "description": "You&#39;ll never guess what the secret ingredient is in this sweet and spicy pico de gallo-style salsa: tequila!",
+  "authors": [
+    "Neicie"
+  ],
+  "date_published": "2018-06-08T10:20:59-04:00",
+  "date_modified": "2022-01-14T02:14:47-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT20M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup chopped fresh parsley",
+    "0.25 cup chopped fresh cilantro",
+    "1 lime, juiced",
+    "2 teaspoons salt",
+    "0.5 teaspoon garlic powder",
+    "0.5 teaspoon chili powder",
+    "0.5 teaspoon ground black pepper",
+    "0.5 teaspoon tequila",
+    "6 large tomatoes, chopped",
+    "1 small onion, diced",
+    "1 green bell pepper, diced"
+  ],
+  "steps": [
+    {
+      "text": "Mix parsley, cilantro, lime juice, salt, garlic powder, chili powder, black pepper, and tequila together in a bowl. Add tomatoes, onion, and green bell peppers and toss to coat. Refrigerate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "24 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "395 mg",
+    "sugarContent": "3 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gN_2xwoU5qBJFmPvLNvfMfJLL2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2233715-8c09769133464ceab7e878723329be44.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242252/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

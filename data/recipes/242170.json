@@ -1,0 +1,77 @@
+{
+  "id": "242170",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242170/ez-red-pesto-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/242170/ez-red-pesto-sauce/",
+  "title": "Red Pesto Sauce",
+  "description": "Red pesto, made with sun-dried tomatoes, Parmesan cheese, basil, pine nuts, and garlic, makes a quick and delicious sauce for pasta or chicken.",
+  "authors": [
+    "wims recipes"
+  ],
+  "date_published": "2019-07-10T03:06:15-04:00",
+  "date_modified": "2024-11-27T15:37:24-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "regions": [
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups fresh basil leaves",
+    "1 cup sun-dried tomatoes, or to taste",
+    "1 cup grated Parmesan cheese",
+    "0.66666668653488 cup olive oil",
+    "0.5 cup pine nuts",
+    "1 clove garlic, minced",
+    "0.5 lemon, juiced",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend basil leaves, sun-dried tomatoes, Parmesan cheese, olive oil, pine nuts, and garlic together in a blender until a smooth paste forms. Stir in lemon juice; season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "282 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "210 mg",
+    "sugarContent": "0 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8YCkN2k4cM8LhUhdfbuOZMLSS6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3329260-94e9d2314cb8405191f3a40f9d7364c5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242170/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

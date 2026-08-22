@@ -1,0 +1,79 @@
+{
+  "id": "242198",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242198/healthy-blueberry-breakfast-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/242198/healthy-blueberry-breakfast-smoothie/",
+  "title": "Healthy Blueberry Breakfast Smoothie",
+  "description": "Wondering what to eat for your on-the-go breakfast? Make this healthy and delicious blueberry breakfast smoothie.",
+  "authors": [
+    "Lisa Marie"
+  ],
+  "date_published": "2020-06-19T00:03:00-04:00",
+  "date_modified": "2026-06-16T15:10:26-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup fresh blueberries",
+    "0.5 cup Greek yogurt",
+    "0.25 cup orange juice",
+    "1 tablespoon white sugar, or to taste",
+    "0.25 teaspoon vanilla extract",
+    "1 pinch ground cinnamon, or to taste",
+    "3 ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Blend blueberries, yogurt, orange juice, sugar, vanilla extract, and cinnamon together in a blender on low speed for 30 seconds; increase speed to high and blend until smooth, about 2 minutes. Add ice and blend on high until smooth, about 1 minute more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "295 kcal",
+    "carbohydrateContent": "45 g",
+    "cholesterolContent": "23 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "69 mg",
+    "sugarContent": "36 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "78"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l51leHv9n80IEis8_iv0uGNcwPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2271701-healthy-blueberry-breakfast-smoothie-France-C-4x3-1-404b25a22de74d35a90f4bb95f5c7c15.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242198/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

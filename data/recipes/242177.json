@@ -1,0 +1,77 @@
+{
+  "id": "242177",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242177/watermelon-fizz/",
+  "requested_url": "https://www.allrecipes.com/recipe/242177/watermelon-fizz/",
+  "title": "Watermelon Fizz",
+  "description": "Fresh watermelon, coconut water, and stevia are blended together and poured over ice in this refreshing summer mocktail.",
+  "authors": [
+    "Christian Sidiangco"
+  ],
+  "date_published": "2020-06-19T21:50:51-04:00",
+  "date_modified": "2020-06-19T21:50:51-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 drink"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup coconut water",
+    "0.5 cup watermelon puree",
+    "1 teaspoon stevia",
+    "0.5 cup ice cubes, or as desired"
+  ],
+  "steps": [
+    {
+      "text": "Blend coconut water, watermelon, and stevia together in a blender until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill a cocktail shaker with ice; add watermelon mixture. Cover shaker and shake until chilled; pour into a poco grande glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "253 mg",
+    "sugarContent": "7 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "2.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UbvM3hBMpiAv4muv9A56NJxR5A0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2316582-3667e52191394c819c70106c34ffc005.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242177/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "242424",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242424/strawberry-cake-mix-brownies/",
+  "requested_url": "https://www.allrecipes.com/recipe/242424/strawberry-cake-mix-brownies/",
+  "title": "Strawberry Cake Mix Brownies",
+  "description": "Strawberry brownies made with strawberry cake mix and butterscotch chips are a quick and easy way to make fruity brownies.",
+  "authors": [
+    "Crazy About Cooking"
+  ],
+  "date_published": "2020-03-05T00:13:21-05:00",
+  "date_modified": "2022-01-14T01:28:32-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "12",
+    "12 squares"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (18.25 ounce) package strawberry cake mix",
+    "0.5 (11 ounce) package butterscotch chips",
+    "2 eggs",
+    "0.25 cup brown sugar",
+    "0.25 cup butter, softened",
+    "0.25 cup water"
+  ],
+  "steps": [
+    {
+      "text": "Preheat oven to 375 degrees F (190 degrees C). Grease a 9x13-inch baking pan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix cake mix, butterscotch chips, eggs, brown sugar, butter, and water together in a bowl; pour into the prepared baking dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until edges begin to pull away from sides of pan, 25 to 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "298 kcal",
+    "carbohydrateContent": "46 g",
+    "cholesterolContent": "41 mg",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "321 mg",
+    "sugarContent": "31 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nh-Dk_Oo4igefZDWsrpWpLFopgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4461179-9bc15773668a43d1b02ed7bfc1676a26.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242424/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

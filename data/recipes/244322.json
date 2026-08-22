@@ -1,0 +1,82 @@
+{
+  "id": "244322",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244322/lemon-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/244322/lemon-cheese/",
+  "title": "Lemon Cheese",
+  "description": "This luscious lemon curd is from an old family recipe. It freezes well and is wonderful to spread on toast or crackers or add to cooked tart shells.",
+  "authors": [
+    "Phoebe"
+  ],
+  "date_published": "2020-06-19T00:03:19-04:00",
+  "date_modified": "2024-08-14T17:01:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "20",
+    "2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Canadian"
+  ],
+  "regions": [
+    "Canadian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 lemons",
+    "0.33333334326744 pound butter",
+    "1.75 cups white sugar",
+    "5 eggs, beaten"
+  ],
+  "steps": [
+    {
+      "text": "Grate zest of 2 lemons; squeeze juice from 3 lemons.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter with sugar over very low heat in a double boiler; slowly pour in beaten eggs and lemon juice. Stir lemon zest into butter mixture; stir constantly until mixture is thickened. Remove from heat to cool completely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "143 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "63 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "62 mg",
+    "sugarContent": "18 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/XIbqLVumV_C7iiS58wD-Z5rK9V8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2899666-1ccbe99845f8466f9dd7ba0bdd3a8e06.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244322/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

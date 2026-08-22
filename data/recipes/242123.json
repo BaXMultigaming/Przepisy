@@ -1,0 +1,79 @@
+{
+  "id": "242123",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242123/gochujang-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/242123/gochujang-sauce/",
+  "title": "Gochujang Sauce",
+  "description": "This gochujang sauce, made with chile paste, soy sauce, sesame seeds, garlic, and a little sugar, can be used in dipping sauces, soups, or marinades.",
+  "authors": [
+    "Katie Paulson"
+  ],
+  "date_published": "2020-06-19T00:02:56-04:00",
+  "date_modified": "2026-01-05T01:46:38-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "U.S.",
+    "Korean"
+  ],
+  "regions": [
+    "U.S.",
+    "Korean"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons gochujang (Korean chile paste)",
+    "2 tablespoons diagonally sliced green onions",
+    "1 tablespoon soy sauce",
+    "1 tablespoon rice vinegar",
+    "2 cloves garlic, minced",
+    "2 teaspoons toasted sesame seeds",
+    "2 teaspoons white sugar",
+    "2 teaspoons grated ginger",
+    "1 teaspoon sesame oil"
+  ],
+  "steps": [
+    {
+      "text": "Whisk chile paste, green onions, soy sauce, vinegar, garlic, sesame seeds, sugar, ginger, and sesame oil together in a bowl until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "39 kcal",
+    "carbohydrateContent": "4 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "544 mg",
+    "sugarContent": "2 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/a0xTmPXCYR9cgX6ARig_gaN2O2g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6559395-fa0a0577e9ba4c2a8d733acdb9cbdcf3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242123/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

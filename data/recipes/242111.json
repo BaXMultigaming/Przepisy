@@ -1,0 +1,91 @@
+{
+  "id": "242111",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242111/mexican-quinoa-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/242111/mexican-quinoa-salad/",
+  "title": "Mexican Quinoa Salad",
+  "description": "This recipe for Mexican quinoa salad is quick and easy and makes for a delicious and fresh dish with a little kick!",
+  "authors": [
+    "The Lazy Gourmet"
+  ],
+  "date_published": "2020-03-10T02:52:24-04:00",
+  "date_modified": "2020-03-10T02:52:24-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can black beans, drained and rinsed",
+    "1.5 cups cooked quinoa",
+    "1 cup frozen corn",
+    "1 red bell pepper, diced",
+    "0.5 cup chopped green onion",
+    "0.5 cup finely chopped cilantro, plus more for garnish",
+    "1 teaspoon minced garlic",
+    "0.5 cup olive oil",
+    "1 lime, juiced",
+    "2 tablespoons honey",
+    "6 pickled jalapeno pepper slices, chopped",
+    "0.25 teaspoon dry mustard",
+    "0.25 teaspoon paprika"
+  ],
+  "steps": [
+    {
+      "text": "Stir black beans, quinoa, corn, red bell pepper, green onion, cilantro, and garlic together in a large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk olive oil, lime juice, honey, jalapeno, mustard, and paprika together in a bowl until dressing is smooth and creamy. Pour dressing over quinoa mixture and toss to coat. Garnish with cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "508 kcal",
+    "carbohydrateContent": "54 g",
+    "fiberContent": "12 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "447 mg",
+    "sugarContent": "12 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9-tCBQ40DMjScbvG-6qwkhxB1Is=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2315734-6ef54829ed7746feaaa214a5f104522a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242111/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

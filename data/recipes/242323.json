@@ -1,0 +1,89 @@
+{
+  "id": "242323",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242323/broccoli-and-bacon-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/242323/broccoli-and-bacon-salad/",
+  "title": "Broccoli and Bacon Salad",
+  "description": "Broccoli bacon salad with sunflower seeds is dressed in a tangy dressing with a little less mayonnaise than the traditional recipe for broccoli salad.",
+  "authors": [
+    "Diana Bull"
+  ],
+  "date_published": "2020-06-19T00:03:06-04:00",
+  "date_modified": "2020-06-19T00:03:06-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT10M",
+  "total_time": "PT25M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound bacon",
+    "2 heads broccoli, cut into florets",
+    "1 cup sunflower seeds",
+    "0.5 cup chopped green onions",
+    "0.5 cup mayonnaise",
+    "6 tablespoons apple cider vinegar",
+    "0.25 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Tear bacon into small pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine broccoli, bacon, sunflower seeds, and green onions in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk mayonnaise, vinegar, and sugar together in a bowl; pour over broccoli mixture and toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "359 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "26 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "536 mg",
+    "sugarContent": "8 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dzIJDBxnGEz20zqV38OZFQ0navg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2323068-692387e798ce4305a6c9a25e997aaf41.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242323/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "242513",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242513/decadent-green-tea-slushie/",
+  "requested_url": "https://www.allrecipes.com/recipe/242513/decadent-green-tea-slushie/",
+  "title": "Decadent Green Tea Slushie",
+  "description": "Green tea is made into ice cubes and blended with yogurt and sugar creating a creamy and decadent green tea slushie for a fun treat.",
+  "authors": [
+    "hondafifi"
+  ],
+  "date_published": "2020-06-19T00:03:13-04:00",
+  "date_modified": "2020-06-19T00:03:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT280M",
+  "yield": [
+    "1",
+    "1 slushie"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups boiling water",
+    "1 tablespoon jasmine green tea",
+    "0.33333334326744 cup yogurt",
+    "0.25 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine boiling water and green tea in a tea pot; cover pot and steep tea, at least 30 minutes. Strain tea and pour into ice cube trays; freeze until solid, 4 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Put 6 green tea ice cubes in a blender; pulse until mostly crushed. Add yogurt and sugar and blend until desired consistency is reached.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "5 mg",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "71 mg",
+    "sugarContent": "56 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1gq8owK7V6qzquFzf_KEahHor7Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2650667-e9726d2f941244b5a40470d24666f201.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242513/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

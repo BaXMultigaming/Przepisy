@@ -1,0 +1,84 @@
+{
+  "id": "244169",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244169/deluxe-garlic-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/244169/deluxe-garlic-green-beans/",
+  "title": "Deluxe Garlic Green Beans",
+  "description": "Green beans are steamed in the microwave, dressed with a few simple ingredients, and ready to serve in just a few minutes.",
+  "authors": [
+    "Chelsey Carr"
+  ],
+  "date_published": "2019-04-03T23:59:56-04:00",
+  "date_modified": "2022-01-14T12:00:13-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Canadian"
+  ],
+  "regions": [
+    "Canadian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 pound fresh green beans, trimmed",
+    "0.25 cup water",
+    "1 tablespoon butter",
+    "1 tablespoon minced garlic",
+    "1 tablespoon chicken bouillon granules"
+  ],
+  "steps": [
+    {
+      "text": "Place green beans and water in a microwave-safe bowl; cook in the microwave on high until tender, about 5 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir butter, garlic, and chicken bouillon into beans until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "50 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "8 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "306 mg",
+    "sugarContent": "1 g",
+    "fatContent": "3 g",
+    "servingSize": "1 /2 pound",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WGnPZ83Gfx9c-_WcjwKGeeuIVeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5391446-300debc2b5804beca4e3dfe2b7689062.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244169/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

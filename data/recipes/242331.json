@@ -1,0 +1,86 @@
+{
+  "id": "242331",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242331/nutella-coffee-shake/",
+  "requested_url": "https://www.allrecipes.com/recipe/242331/nutella-coffee-shake/",
+  "title": "Nutella Coffee Shake",
+  "description": "Nutella and instant coffee are blended with milk and vanilla extract creating a creamy and rich milkshake.",
+  "authors": [
+    "Laura Amanda"
+  ],
+  "date_published": "2020-06-19T00:03:06-04:00",
+  "date_modified": "2025-08-08T10:49:34-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups ice cubes",
+    "1.5 cups milk",
+    "3 tablespoons white sugar",
+    "2 tablespoons chocolate-hazelnut spread (such as Nutella®)",
+    "4 teaspoons instant coffee granules",
+    "1 tablespoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Blend ice, milk, sugar, chocolate-hazelnut spread, instant coffee, and vanilla extract together in a blender until desired consistency is reached, about 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0r8lgxZikryGJYnl7FAkZM3H_NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2279831-nutella-coffee-shake-Diana-Mc-1x1-1-d12f6a9b398b4b66b51a7e35a5bf9779.jpg"
+      ],
+      "image": "assets/images/242331/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "267 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "15 mg",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "91 mg",
+    "sugarContent": "37 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "53"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Tfi2KDAB-K3AjnAEN.mp4",
+    "description": "In this video, we'll show you how to make an irresistible shake with chocolate hazelnut spread, milk, and coffee. It's so good, you might want to have it as dessert in place of chocolate cake. We won't judge!",
+    "duration": "PT59S",
+    "name": "Nutella ® Coffee Shake",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Tfi2KDAB/poster.jpg?width=1280",
+    "uploadDate": "2021-07-28T13:00:27-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0r8lgxZikryGJYnl7FAkZM3H_NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2279831-nutella-coffee-shake-Diana-Mc-1x1-1-d12f6a9b398b4b66b51a7e35a5bf9779.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242331/hero.webp",
+    "steps": [
+      "assets/images/242331/step_01.webp"
+    ]
+  }
+}

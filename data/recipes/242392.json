@@ -1,0 +1,75 @@
+{
+  "id": "242392",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242392/raspberry-filling/",
+  "requested_url": "https://www.allrecipes.com/recipe/242392/raspberry-filling/",
+  "title": "Raspberry Filling",
+  "description": "Raspberries, sugar, and a touch of lemon juice are simmered together in this quick and easy recipe for raspberry filling.",
+  "authors": [
+    "Alisa Provost"
+  ],
+  "date_published": "2020-06-19T00:03:09-04:00",
+  "date_modified": "2022-10-03T13:40:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT60M",
+  "yield": [
+    "12",
+    "12 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups raspberries",
+    "0.75 cup white sugar",
+    "1 cup water, divided",
+    "1.5 teaspoons lemon juice",
+    "2 tablespoons cornstarch"
+  ],
+  "steps": [
+    {
+      "text": "Combine raspberries, sugar, 3/4 cup water, and lemon juice in a saucepan; bring to a boil. Reduce heat to medium-low and simmer until reduced, 15 to 20 minutes. Remove saucepan from heat and strain through a fine-mesh strainer into a bowl. Pour mixture back into the saucepan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix remaining water and cornstarch together in a bowl until dissolved; add to raspberry mixture. Bring mixture to a boil; cook, stirring occasionally, until thickened, about 5 minutes. Cool filling in refrigerator, at least 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "74 kcal",
+    "carbohydrateContent": "19 g",
+    "fiberContent": "3 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "15 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "32"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/b9zU1UwJZCFlIA2heLjXQYSdoTs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3888926-92495afc51c7475892c2acb9fc388965.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242392/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

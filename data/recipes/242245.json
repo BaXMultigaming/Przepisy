@@ -1,0 +1,82 @@
+{
+  "id": "242245",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242245/zucchini-with-egg/",
+  "requested_url": "https://www.allrecipes.com/recipe/242245/zucchini-with-egg/",
+  "title": "Zucchini with Egg",
+  "description": "Sautéed zucchini is cooked with scrambled eggs and just a few pantry ingredients for an easy breakfast recipe. It&#39;s on the table in less than 30 minutes.",
+  "authors": [
+    "Kristy"
+  ],
+  "date_published": "2020-06-19T00:03:03-04:00",
+  "date_modified": "2025-05-20T18:08:57-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 tablespoons olive oil",
+    "2 large zucchini, cut into large chunks",
+    "salt and ground black pepper to taste",
+    "2 large eggs",
+    "1 teaspoon water, or as desired"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a skillet over medium-high heat; sauté zucchini until tender, about 10 minutes. Season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat eggs in a bowl with a fork; add water and beat until evenly combined. Pour eggs over zucchini; cook and stir until eggs are scrambled and no longer runny, about 5 minutes. Season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "213 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "186 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "180 mg",
+    "sugarContent": "6 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7XqGtGl7JNBmYY1gf3i-aDAO5ws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2390783-ed153dc0d7cd4a1994bb58ac543594cc.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242245/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

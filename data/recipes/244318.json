@@ -1,0 +1,83 @@
+{
+  "id": "244318",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244318/chai-limeade/",
+  "requested_url": "https://www.allrecipes.com/recipe/244318/chai-limeade/",
+  "title": "Chai Limeade",
+  "description": "Chai tea, lime juice, and lime zest come together in this refreshing chai limeade perfect for hot summer days.",
+  "authors": [
+    "MitchJGray"
+  ],
+  "date_published": "2020-06-19T00:03:18-04:00",
+  "date_modified": "2025-04-24T14:11:09-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "1 pitcher"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups boiling water",
+    "3 chai tea bags, or more to taste",
+    "10 limes, juiced",
+    "1 lime, zested",
+    "4 cups ice, or as desired",
+    "water, or as needed",
+    "0.25 cup white sugar, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Pour boiling water into a mug and add chai. Allow tea to steep for at least 5 minutes. Remove tea bags.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine lime juice and lime zest in a pitcher; add enough ice to fill pitcher halfway. Slowly pour chai tea over ice; stir. Add enough water to fill pitcher; stir in sugar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "50 kcal",
+    "carbohydrateContent": "14 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZFVg06nQ6vLoGRqxUAfIMvI3OXk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2342501-d9b246f9eea04f879900889490804ed6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244318/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

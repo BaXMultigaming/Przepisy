@@ -1,0 +1,83 @@
+{
+  "id": "244248",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/244248/salt-and-vinegar-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/244248/salt-and-vinegar-potatoes/",
+  "title": "Salt and Vinegar Potatoes",
+  "description": "Salt and vinegar potatoes are a similar version of the salt and vinegar potato chips, cooked on the stovetop.",
+  "authors": [
+    "ahmom"
+  ],
+  "date_published": "2018-06-08T10:21:26-04:00",
+  "date_modified": "2025-04-13T17:26:36-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 large potatoes, sliced",
+    "1 cup vinegar, or as needed",
+    "1 tablespoon butter, or as needed",
+    "salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a pot and pour in enough vinegar to cover; bring to a boil. Reduce heat to medium-low and simmer until tender, about 15 minutes. Drain well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat butter in a large skillet over medium heat. Cook and stir potatoes in melted butter until crunchy and brown, 5 to 10 minutes; season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "337 kcal",
+    "carbohydrateContent": "65 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "141 mg",
+    "sugarContent": "3 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TFxzKokV8GmDLhYFfkEbkRh38x4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2378537-25a49db5bb924813aa027c71cc5e3330.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/244248/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

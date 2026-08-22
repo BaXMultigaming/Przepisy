@@ -1,0 +1,88 @@
+{
+  "id": "242412",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242412/spicy-chicken-noodle-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/242412/spicy-chicken-noodle-soup/",
+  "title": "Spicy Chicken Noodle Soup",
+  "description": "This simple, quick one-pot chicken vegetable noodle soup is too easy to taste this amazing.",
+  "authors": [
+    "Islandartist"
+  ],
+  "date_published": "2020-03-10T02:52:24-04:00",
+  "date_modified": "2022-01-14T11:58:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "8 cups"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "Canadian"
+  ],
+  "regions": [
+    "Canadian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 skinless, boneless chicken breast halves, diced",
+    "2 cloves garlic, minced",
+    "6 cups vegetable broth",
+    "3 carrots, sliced",
+    "0.5 cup frozen corn",
+    "1 (8 ounce) package dried thin rice noodles",
+    "1 red bell pepper, diced",
+    "1 teaspoon dried basil",
+    "0.5 teaspoon chili pepper flakes, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook and stir chicken in a large pot over medium heat until lightly browned, about 5 minutes; stir in garlic and cook until fragrant, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir vegetable broth, carrots, and corn into chicken mixture; bring to a boil. Stir rice noodles, red pepper, basil, and chili flakes into chicken mixture; reduce heat and simmer until noodles are tender, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "179 kcal",
+    "carbohydrateContent": "33 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "425 mg",
+    "sugarContent": "4 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yWEBxkZFXh2h2VXQ-NmFS1H9OvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2690401-fd42758a512644b19b9d6981a258042b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242412/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

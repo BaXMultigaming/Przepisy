@@ -1,0 +1,81 @@
+{
+  "id": "241997",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/241997/easy-strawberry-shortcake/",
+  "requested_url": "https://www.allrecipes.com/recipe/241997/easy-strawberry-shortcake/",
+  "title": "Easy Strawberry Shortcake",
+  "description": "This strawberry shortcake is super quick to make using just 4 ingredients, including fresh strawberries and store-bought cake for a delicious summer treat.",
+  "authors": [
+    "Amy Trombley"
+  ],
+  "date_published": "2020-06-19T00:02:44-04:00",
+  "date_modified": "2026-06-12T11:04:16-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 quart fresh strawberries, sliced",
+    "0.25 cup white sugar",
+    "1 (12 ounce) package prepared sponge cake dessert cups",
+    "1 (7 ounce) can whipped cream, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place strawberries in a bowl; add sugar and stir to coat. Cover and refrigerate until sugar has dissolved, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place 1 dessert cup in each serving bowl and smother with sweetened strawberries. Top each with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "311 kcal",
+    "carbohydrateContent": "55 g",
+    "cholesterolContent": "82 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "180 mg",
+    "sugarContent": "37 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "34"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JRdONKQO3jNdUX-06kJg55pF8gA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241997-easy-strawberry-shortcake-PICS-Beauty-4x3-b1687e0c2b82442cb9474e08778e6099.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/241997/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

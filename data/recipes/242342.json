@@ -1,0 +1,112 @@
+{
+  "id": "242342",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242342/fiesta-slow-cooker-shredded-chicken-tacos/",
+  "requested_url": "https://www.allrecipes.com/recipe/242342/fiesta-slow-cooker-shredded-chicken-tacos/",
+  "title": "Slow Cooker Chicken Tacos",
+  "description": "These slow cooker chicken tacos are incredibly easy to make with chicken breasts, taco seasoning, and broth for tender and delicious shredded chicken.",
+  "authors": [
+    "Ashlie Boucher"
+  ],
+  "date_published": "2020-02-26T00:51:47-05:00",
+  "date_modified": "2026-03-03T18:38:56-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT360M",
+  "total_time": "PT370M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup chicken broth",
+    "3 tablespoons taco seasoning mix",
+    "1 pound skinless, boneless chicken breasts"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0IsFQaylkxDjApvg9pB2Njeysso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242342-fiesta-slow-cooker-shredded-chicken-tacos-ddmfs-Step1-0884-aa715f3f74c24cfeac37fa57c8e25d14.jpg"
+      ],
+      "image": "assets/images/242342/step_01.webp"
+    },
+    {
+      "text": "Combine chicken broth and taco seasoning mix in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place chicken in a slow cooker. Pour chicken broth mixture over chicken.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UEI9x-GTUDobEciJBALb1CGHbNU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242342-fiesta-slow-cooker-shredded-chicken-tacos-ddmfs-Step2-0886-e7190f16a3044bd8850f3b1278d7abac.jpg"
+      ],
+      "image": "assets/images/242342/step_03.webp"
+    },
+    {
+      "text": "Cover slow cooker. Cook on Low for 6 to 8 hours. Shred chicken with two forks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UuPQ632-v8TVuGv3kH7buxuO_mw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242342-fiesta-slow-cooker-shredded-chicken-tacos-ddmfs-3X2-0902-775cf5010b5b46cdbdf2ca50993628a9.jpg"
+      ],
+      "image": "assets/images/242342/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "71 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "30 mg",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "415 mg",
+    "sugarContent": "1 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "195"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/IFvlTRwx-K3AjnAEN.mp4",
+    "description": "The slow cooker does it all for these delicious chicken tacos! Mix together chicken broth and taco seasoning, place chicken breasts in slow cooker and cook for 6-8 hours. All you have to do is shred the meat after, and add all the toppings of your choosing! Serve with a side of rice! ",
+    "duration": "PT41S",
+    "name": "Fiesta Slow Cooker Shredded Chicken Tacos",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/IFvlTRwx/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:24:26-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/UuPQ632-v8TVuGv3kH7buxuO_mw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242342-fiesta-slow-cooker-shredded-chicken-tacos-ddmfs-3X2-0902-775cf5010b5b46cdbdf2ca50993628a9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242342/hero.webp",
+    "steps": [
+      "assets/images/242342/step_01.webp",
+      null,
+      "assets/images/242342/step_03.webp",
+      "assets/images/242342/step_04.webp"
+    ]
+  }
+}

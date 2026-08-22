@@ -1,0 +1,101 @@
+{
+  "id": "242205",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/242205/spelt-pizza-dough/",
+  "requested_url": "https://www.allrecipes.com/recipe/242205/spelt-pizza-dough/",
+  "title": "Spelt Pizza Dough",
+  "description": "Try Chef John’s spelt pizza dough recipe for a delightful alternative to traditional pizza dough that’s high in protein with a deliciously nutty flavor.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2015-04-13T18:21:39-04:00",
+  "date_modified": "2026-07-30T16:12:15-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT160M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Ingredient"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups sprouted spelt flour, or as needed, divided",
+    "1 cup warm water (100 to 105 degrees F/38 to 41 degrees C)",
+    "2 teaspoons honey",
+    "1 (.25 ounce) package active dry yeast",
+    "1 tablespoon extra-virgin olive oil, plus more for drizzling",
+    "1 teaspoon kosher salt"
+  ],
+  "steps": [
+    {
+      "text": "Whisk 1 cup flour, water, honey, and yeast together in a bowl. Let stand until yeast softens and mixture is bubbly, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir remaining 2 cups flour, olive oil, and salt into yeast mixture. Beat in a stand mixer fitted with a dough hook attachment, adding more flour as necessary, until a soft and tacky dough forms, 3 to 4 minutes. Place dough into an oiled mixing bowl, cover the bowl with a plate, and let rise until doubled in volume, 90 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Punch dough down and transfer to a lightly floured work surface. Divide into four equal balls. Cover each ball and let rest until dough rises slightly, 30 to 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/nCPQyqgsxR9BKOHH7vlegf5MFc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242205-spelt-pizza-dough-chef-john-4x3-616dcb11bae84e45a863b83cce198641.jpg"
+      ],
+      "image": "assets/images/242205/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "347 kcal",
+    "carbohydrateContent": "67 g",
+    "fiberContent": "3 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "486 mg",
+    "sugarContent": "6 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "31"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/wYfNiNt2-K3AjnAEN.mp4",
+    "description": "In this video, Chef John shows you how to make spelt pizza dough. This gluten-free recipe uses spelt flour, yeast, a little bit of honey, salt and olive oil to create a smooth, tender and light crust. Plus he'll show you a game changing way to cook your pizza, and you'll never look back!",
+    "duration": "PT7M24S",
+    "name": "Chef John's Spelt Pizza Dough",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/wYfNiNt2/poster.jpg?width=1280",
+    "uploadDate": "2021-07-17T19:54:40-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/nCPQyqgsxR9BKOHH7vlegf5MFc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/242205-spelt-pizza-dough-chef-john-4x3-616dcb11bae84e45a863b83cce198641.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/242205/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/242205/step_03.webp"
+    ]
+  }
+}
