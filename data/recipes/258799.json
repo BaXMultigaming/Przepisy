@@ -1,0 +1,95 @@
+{
+  "id": "258799",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/258799/turmeric-coffee-latte/",
+  "requested_url": "https://www.allrecipes.com/recipe/258799/turmeric-coffee-latte/",
+  "title": "Turmeric Coffee Latte",
+  "description": "Coconut milk is spiced with turmeric and ginger, frothed, and layered over espresso to create a dairy-free latte that will warm you up!",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2017-11-14T10:01:36-05:00",
+  "date_modified": "2026-05-18T12:19:05-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Coffee"
+  ],
+  "cuisines": [
+    "Asian",
+    "American"
+  ],
+  "regions": [
+    "Asian",
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup coconut milk",
+    "1 teaspoon vanilla extract",
+    "2 packets stevia sweetener (such as Truvia®)",
+    "0.5 teaspoon ground turmeric",
+    "0.25 teaspoon ground ginger",
+    "0.25 teaspoon ground cinnamon",
+    "1 fluid ounce brewed espresso"
+  ],
+  "steps": [
+    {
+      "text": "Combine coconut milk, vanilla extract, stevia sweetener, turmeric, ginger, and cinnamon in a saucepan. Heat over medium heat until warm, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the saucepan from heat. Blend until frothy using an immersion blender.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour espresso into a serving mug. Top off with frothed milk mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "234 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "21 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "0 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PltdEZDsx2FQCBSK16bkYyef6B0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4996184-turmeric-coffee-latte-Yoly-4x3-1-b46c3c5245604796b55736c130ef93ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/258799/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

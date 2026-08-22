@@ -1,0 +1,85 @@
+{
+  "id": "259285",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/259285/fajita-buddha-bowl/",
+  "requested_url": "https://www.allrecipes.com/recipe/259285/fajita-buddha-bowl/",
+  "title": "Fajita Buddha Bowl",
+  "description": "Frozen corn and bell peppers meet with precooked brown rice and refried beans for a quick, tasty fajita version of the classic Buddha bowl.",
+  "authors": [
+    "Manda"
+  ],
+  "date_published": "2020-03-10T02:52:42-04:00",
+  "date_modified": "2025-05-01T17:21:58-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon coconut oil",
+    "1 cup frozen bell peppers",
+    "1 cup frozen corn",
+    "salt and ground black pepper to taste",
+    "2 cups refried beans",
+    "2 cups cooked brown rice",
+    "0.25 cup guacamole"
+  ],
+  "steps": [
+    {
+      "text": "Heat coconut oil in a skillet over medium heat; add frozen bell peppers, frozen corn, salt, and black pepper. Cook and stir until heated through, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide refried beans, brown rice, and bell pepper-corn mixture evenly between 2 bowls. Top each with 2 tablespoons of guacamole.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "604 kcal",
+    "carbohydrateContent": "109 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "22 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "844 mg",
+    "sugarContent": "3 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jhUUbI3nwwZBcvs75mv6i2mn4fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4585415-859c778571b04bda941f0e070276354d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/259285/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

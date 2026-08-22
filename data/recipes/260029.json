@@ -1,0 +1,71 @@
+{
+  "id": "260029",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260029/easy-blended-mocha/",
+  "requested_url": "https://www.allrecipes.com/recipe/260029/easy-blended-mocha/",
+  "title": "Easy Blended Mocha",
+  "description": "Take cold brew to the next level and blend it with sweetened condensed milk, ice, and a touch of cocoa powder to make an easy blended mocha.",
+  "authors": [
+    "MoreCook"
+  ],
+  "date_published": "2019-04-04T00:09:36-04:00",
+  "date_modified": "2022-08-22T14:45:23-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup ice cubes",
+    "1 cup cold coffee",
+    "2 teaspoons unsweetened cocoa powder",
+    "1 cup cold water",
+    "0.75 cup sweetened condensed milk"
+  ],
+  "steps": [
+    {
+      "text": "Place ice, coffee, and cocoa powder in a blender; blend until no big ice chunks remain. Add water and sweetened condensed milk; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "374 kcal",
+    "carbohydrateContent": "64 g",
+    "cholesterolContent": "39 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "156 mg",
+    "sugarContent": "63 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KwxHsXlNXvCw9KrTriPffd642eo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4557976-a243be35034b4a7abdc21ce5a581eae6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260029/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

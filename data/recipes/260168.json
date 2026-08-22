@@ -1,0 +1,75 @@
+{
+  "id": "260168",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260168/watermelon-refreshing-green-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/260168/watermelon-refreshing-green-smoothie/",
+  "title": "Watermelon Refreshing Green Smoothie",
+  "description": "Start your day with this watermelon spinach smoothie, a perfect combination of fruits and vegetables, ideal for a quick breakfast or snack!",
+  "authors": [
+    "Victoria Dus"
+  ],
+  "date_published": "2020-06-19T21:51:04-04:00",
+  "date_modified": "2023-09-17T08:43:37-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups diced watermelon",
+    "0.5 cup fresh spinach",
+    "0.25 cup broccoli florets",
+    "0.25 cucumber, sliced",
+    "0.5 apple - peeled, cored, and diced, or more to taste",
+    "1 stalk celery, coarsely chopped"
+  ],
+  "steps": [
+    {
+      "text": "Place watermelon in a blender; mix until liquefied. Add spinach, broccoli, cucumber, apple, and celery; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "64 kcal",
+    "carbohydrateContent": "15 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "54 mg",
+    "sugarContent": "9 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eB_8xaJh3PsQW1EPhlztTLcV8uA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4557106-995357ca9f934d29992b77026b518cfb.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260168/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

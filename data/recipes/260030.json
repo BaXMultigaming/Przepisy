@@ -1,0 +1,88 @@
+{
+  "id": "260030",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260030/grilled-hot-wings/",
+  "requested_url": "https://www.allrecipes.com/recipe/260030/grilled-hot-wings/",
+  "title": "Grilled Hot Wings",
+  "description": "A marinade of sriracha sauce, paprika, and habanero peppers, tamed with butter, is the secret to this grilled hot-wing-style chicken recipe.",
+  "authors": [
+    "David Vincent"
+  ],
+  "date_published": "2017-08-31T20:00:42-04:00",
+  "date_modified": "2017-08-31T20:00:42-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT260M",
+  "yield": [
+    "4",
+    "4 chicken breasts"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 (6 ounce) chicken breasts",
+    "0.5 (17 ounce) bottle sriracha sauce",
+    "1.5 tablespoons grated habanero peppers, or to taste",
+    "1 tablespoon butter, melted",
+    "1 dash ground paprika",
+    "1 dash ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken, sriracha sauce, habanero peppers, butter, paprika, and black pepper together in a resealable container. Marinate in the refrigerator, 4 to 5 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat grill for high heat and lightly oil the grate. Lay a sheet of aluminum foil over the grill and cut slits into it.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the marinated chicken on the aluminum-foil lined grill. Cook until no longer pink in the center and the juices run clear, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "243 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "105 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "36 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "2496 mg",
+    "sugarContent": "0 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/NvSc8z759Y-vCudEZQSxEVVTNW8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5270510-0e597031f1ed4e10865b5e8ee1b7d6ee.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260030/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

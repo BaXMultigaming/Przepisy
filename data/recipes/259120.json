@@ -1,0 +1,85 @@
+{
+  "id": "259120",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/259120/mushroom-scallion-and-cheese-omelet/",
+  "requested_url": "https://www.allrecipes.com/recipe/259120/mushroom-scallion-and-cheese-omelet/",
+  "title": "Mushroom, Scallion, and Cheese Omelet",
+  "description": "For a protein-packed breakfast, make this quick and easy omelet that has mushrooms, green onions, and a generous helping of Cheddar cheese.",
+  "authors": [
+    "Rosa I"
+  ],
+  "date_published": "2018-06-08T10:44:07-04:00",
+  "date_modified": "2026-03-13T21:30:50-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT9M",
+  "total_time": "PT19M",
+  "yield": [
+    "1",
+    "1 omelet"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs",
+    "1 tablespoon milk",
+    "salt and ground black pepper to taste",
+    "1 teaspoon coconut oil",
+    "2 mushrooms, chopped",
+    "1 green onions (green parts only), minced",
+    "1 tablespoon shredded Cheddar cheese, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Beat eggs together with milk, salt, and pepper in a bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a skillet over medium heat. Add mushrooms; cook and stir until softened, about 5 minutes. Mix in green onions; cook until slightly softened, about 1 minute. Pour in the beaten eggs. Cook and stir until the edges harden, 2 to 3 minutes. Flip and sprinkle Cheddar cheese on top. Cook until egg is set and cheese is melted, 1 to 2 minutes. Fold omelet in half; top with more Cheddar cheese.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "213 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "336 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "334 mg",
+    "sugarContent": "2 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/9XiqhGVYfnFUyarPgCyZZJfcCgo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4542975-mushroom-scallion-and-cheese-omelet-Christina-4x3-1-c406d4f9d7d14db4802a8bbd09113bf6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/259120/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

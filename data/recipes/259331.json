@@ -1,0 +1,67 @@
+{
+  "id": "259331",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/259331/vegan-mayo/",
+  "requested_url": "https://www.allrecipes.com/recipe/259331/vegan-mayo/",
+  "title": "Vegan Mayo",
+  "description": "This vegan mayo with soy milk, Dijon mustard, apple cider vinegar, and sea salt tastes great as a dip with raw veggies or spread on bread.",
+  "authors": [
+    "Allrecipes Member"
+  ],
+  "date_published": "2018-06-08T10:44:18-04:00",
+  "date_modified": "2023-02-09T22:32:15-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "35",
+    "2 cups"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup soy milk",
+    "1 tablespoon apple cider vinegar",
+    "0.5 tablespoon Dijon mustard",
+    "1 teaspoon sea salt, or to taste",
+    "1.5 cups sunflower oil, or more as needed"
+  ],
+  "steps": [
+    {
+      "text": "Combine soy milk, apple cider vinegar, Dijon mustard, and sea salt in a blender; blend until smooth. Slowly add oil in a thin steady stream while the blender is running until mayonnaise is thick, but still runny.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "87 kcal",
+    "carbohydrateContent": "1 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "75 mg",
+    "sugarContent": "0 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/c3hNH6ez8UxcPYOKVs6vLERLwzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4543084-vegan-mayo-Rita-4x3-1-6bb3b9b7bb4d4599a8aa69959531d6b5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/259331/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

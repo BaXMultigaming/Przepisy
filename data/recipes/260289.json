@@ -1,0 +1,81 @@
+{
+  "id": "260289",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/260289/vegetarian-chickpea-tacos/",
+  "requested_url": "https://www.allrecipes.com/recipe/260289/vegetarian-chickpea-tacos/",
+  "title": "Vegetarian Chickpea Tacos",
+  "description": "Vegan tacos could not be any simpler than these, made with a quick and easy seasoned chickpea filling and ready for any toppings you choose.",
+  "authors": [
+    "Dana D"
+  ],
+  "date_published": "2020-02-26T00:52:01-05:00",
+  "date_modified": "2026-05-14T22:18:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "8 tacos"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (15 ounce) cans chickpeas, drained and rinsed",
+    "0.75 cup water",
+    "1 (1 ounce) package taco seasoning mix (such as Taco Bell®)",
+    "8 taco shells"
+  ],
+  "steps": [
+    {
+      "text": "Place chickpeas in a saucepan over medium heat. Add water and taco seasoning. Cook and stir until thoroughly heated, 5 to 7 minutes. Remove from heat. Mash mixture to crush chickpeas.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide chickpea filling evenly among taco shells.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "331 kcal",
+    "carbohydrateContent": "55 g",
+    "fiberContent": "8 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1054 mg",
+    "sugarContent": "2 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "15"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yXuj4nsoA0Ujua1PkKhDIqB0nJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4563061-vegetarian-chickpea-tacos-Buckwheat-Queen-4x3-1-c74fa3347e6840adbfc6b4acc8c7187e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/260289/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

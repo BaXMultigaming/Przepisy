@@ -1,0 +1,74 @@
+{
+  "id": "259032",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/259032/serenas-strawberry-lassi/",
+  "requested_url": "https://www.allrecipes.com/recipe/259032/serenas-strawberry-lassi/",
+  "title": "Serena&#39;s Strawberry Lassi",
+  "description": "This is an absolutely delicious, refreshing Indian yogurt drink with fresh strawberries. It is so tasty that it is almost like a dessert.",
+  "authors": [
+    "Serena"
+  ],
+  "date_published": "2020-06-19T00:23:14-04:00",
+  "date_modified": "2020-06-19T00:23:14-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Indian"
+  ],
+  "regions": [
+    "Indian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups plain whole-milk yogurt",
+    "2 cups strawberries",
+    "1 cup ice",
+    "0.5 cup white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Combine yogurt, strawberries, ice, and sugar in a blender. Blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "394 kcal",
+    "carbohydrateContent": "78 g",
+    "cholesterolContent": "15 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "173 mg",
+    "sugarContent": "74 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lH6CcgiJq_DWs0KsIXOnfKyafGE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4537180-65b1924fdd5a4976a8a3faa1d695465d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/259032/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
