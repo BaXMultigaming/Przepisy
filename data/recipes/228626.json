@@ -1,0 +1,106 @@
+{
+  "id": "228626",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228626/paleo-coconut-curry-stir-fry/",
+  "requested_url": "https://www.allrecipes.com/recipe/228626/paleo-coconut-curry-stir-fry/",
+  "title": "Paleo Coconut Curry Stir Fry",
+  "description": "This paleo-style stir fry uses coconut milk and curry powder. Try it with shrimp!",
+  "authors": [
+    "Chris Denzer"
+  ],
+  "date_published": "2020-06-18T23:51:00-04:00",
+  "date_modified": "2020-06-18T23:51:00-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT20M",
+  "total_time": "PT35M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups coconut milk",
+    "1 tablespoon minced ginger",
+    "1 tablespoon lime juice",
+    "1 tablespoon fish sauce",
+    "1 teaspoon oyster sauce",
+    "2 teaspoons minced garlic",
+    "0.5 teaspoon chile-garlic sauce (such as Sriracha®)",
+    "2 tablespoons white sugar or sugar substitute",
+    "1 tablespoon avocado oil",
+    "1 pound chicken breast, cut into bite-sized pieces",
+    "0.5 onion, sliced",
+    "1.5 teaspoons curry powder",
+    "2 cups broccoli florets"
+  ],
+  "steps": [
+    {
+      "text": "Mix coconut milk, ginger, lime juice, fish sauce, oyster sauce, garlic, chile-garlic sauce, and sugar together in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat avocado oil in a large skillet or wok over medium-high heat. Stir-fry chicken in the hot oil until no longer pink, 8 to 10 minutes. Remove from wok and keep warm. Leave remaining avocado oil in skillet.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir onion and curry powder into hot oil in skillet; cook 2 minutes. Stir in broccoli; stir-fry 3 minutes. Add coconut milk mixture and bring to a boil. Reduce heat to medium and simmer sauce and vegetables for 3 minutes. Return chicken to skillet; cover and cook until chicken has heated through and vegetables are tender, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/45DGBYI6bmR9UpOdxAKzbH0bImA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2156616-ed89eba1f37a4d7085d62fa815c782f5.jpg"
+      ],
+      "image": "assets/images/228626/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "372 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "59 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "26 g",
+    "saturatedFatContent": "17 g",
+    "sodiumContent": "387 mg",
+    "sugarContent": "9 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "49"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/uvlJAU4b-K3AjnAEN.mp4",
+    "description": "Dress up that chicken and broccoli stir fry with a flavorful infusion of lime, ginger, fish and oyster sauces, garlic and curry. All the flavors nestle into a luxurious coconut milk sauce to elevate an ordinary stir fry into a meal that’s really something special. Tastes great . . . and it’s good for you, too!",
+    "duration": "PT2M31S",
+    "name": "Paleo Coconut Curry",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/uvlJAU4b/poster.jpg?width=1280",
+    "uploadDate": "2023-02-03T15:29:39-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/45DGBYI6bmR9UpOdxAKzbH0bImA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2156616-ed89eba1f37a4d7085d62fa815c782f5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228626/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/228626/step_03.webp"
+    ]
+  }
+}

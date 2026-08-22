@@ -1,0 +1,83 @@
+{
+  "id": "228901",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228901/carrot-and-orange-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/228901/carrot-and-orange-juice/",
+  "title": "Carrot and Orange Juice",
+  "description": "This quick, fresh, and delicious juice is loaded with carrots and oranges, and is a great way to start off your day!",
+  "authors": [
+    "newday2d"
+  ],
+  "date_published": "2013-04-26T20:02:34-04:00",
+  "date_modified": "2026-03-03T15:04:41-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "32 oz"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds organic carrots, trimmed and scrubbed",
+    "8 organic oranges, peeled"
+  ],
+  "steps": [
+    {
+      "text": "Press carrots and oranges through a juicer and into a large glass.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0Ls8qBou9TiqW4cB7k-H1MNtKr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228901-carrot-and-orange-juice-pics-beauty-4x3-8238-d5a280107e4949058f202f85f6e0e811.jpg"
+      ],
+      "image": "assets/images/228901/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "183 kcal",
+    "carbohydrateContent": "44 g",
+    "fiberContent": "11 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "157 mg",
+    "sugarContent": "29 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "32"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Fp0wgyZg-ma1DlVvV.mp4",
+    "description": "0010 Carrot and Orange Juice - APPROVED",
+    "duration": "PT51S",
+    "name": "Carrot and Orange",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Fp0wgyZg/poster.jpg?width=1280",
+    "uploadDate": "2021-07-07T06:19:35-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0Ls8qBou9TiqW4cB7k-H1MNtKr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228901-carrot-and-orange-juice-pics-beauty-4x3-8238-d5a280107e4949058f202f85f6e0e811.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228901/hero.webp",
+    "steps": [
+      "assets/images/228901/step_01.webp"
+    ]
+  }
+}

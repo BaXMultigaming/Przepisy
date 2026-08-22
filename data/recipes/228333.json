@@ -1,0 +1,95 @@
+{
+  "id": "228333",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228333/cuban-inspired-millet/",
+  "requested_url": "https://www.allrecipes.com/recipe/228333/cuban-inspired-millet/",
+  "title": "Cuban Inspired Millet",
+  "description": "Millet is toasted and simmered with onions and carrots for a savory Cuban-inspired side dish.",
+  "authors": [
+    "asjlachuk"
+  ],
+  "date_published": "2020-03-09T22:51:47-04:00",
+  "date_modified": "2026-05-19T11:30:22-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT35M",
+  "total_time": "PT55M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Cuban"
+  ],
+  "regions": [
+    "Cuban"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 carrot, chopped",
+    "2 cloves garlic, crushed",
+    "1 tablespoon olive oil",
+    "1 onion, chopped",
+    "1 green bell pepper, chopped",
+    "1 cup millet",
+    "2 cups vegetable broth",
+    "salt and ground black pepper to taste",
+    "0.25 cup chopped fresh cilantro, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend carrot and garlic in a food processor until finely chopped.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat olive oil in a pot over medium heat; cook and stir carrot mixture, onion, and green bell pepper until softened, about 10 minutes. Add millet; stir until fragrant and toasted, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour vegetable broth into millet mixture; season with salt and black pepper. Reduce heat and simmer until all the broth is absorbed and millet is tender, about 20 minutes. Stir in cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "130 kcal",
+    "carbohydrateContent": "23 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "123 mg",
+    "sugarContent": "2 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5o8qMRnVjqRbJTj5noq3TXRVEt4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1090002-cuban-inspired-millet-mexangel12msncom-4x3-1-24e2e6bd23264f67b5972f41d05ac293.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228333/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

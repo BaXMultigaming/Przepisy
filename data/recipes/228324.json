@@ -1,0 +1,73 @@
+{
+  "id": "228324",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228324/oreo-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/228324/oreo-milkshake/",
+  "title": "Oreo Milkshake",
+  "description": "A deliciously creamy Oreo milkshake made by blending milk, ice cream, and cookies together for a kid-pleasing chilled drink that’s ready in minutes.",
+  "authors": [
+    "Annette Wegrzyn"
+  ],
+  "date_published": "2017-03-07T10:01:10-05:00",
+  "date_modified": "2026-07-31T10:33:51-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 chocolate sandwich cookies (such as Oreo®)",
+    "3 scoops vanilla ice cream",
+    "0.75 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Blend chocolate sandwich cookies, ice cream, and milk together in a blender until smooth. Pour into 2 glasses.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "721 kcal",
+    "carbohydrateContent": "91 g",
+    "cholesterolContent": "51 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "425 mg",
+    "sugarContent": "58 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "84"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xQhEJQESU0IN4y0aDX0wXeRUmdg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228324-oreo-milkshake-VAT-Beauty-4x3-fb59f97647f043adaa25d85ed99cd09d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228324/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

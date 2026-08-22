@@ -1,0 +1,88 @@
+{
+  "id": "228514",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228514/cream-of-carrot-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/228514/cream-of-carrot-soup/",
+  "title": "Cream of Carrot Soup",
+  "description": "This cream of carrot soup features sweet carrots, heavy cream, and a bit of ginger for flavor, puréed into the most warming bowl of comfort ever!",
+  "authors": [
+    "Miss Tyckle"
+  ],
+  "date_published": "2019-04-02T02:58:25-04:00",
+  "date_modified": "2025-12-18T20:55:41-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT75M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup butter, cubed",
+    "2.5 cups sliced carrots",
+    "1 large potato, peeled and cubed",
+    "1 cup chopped onion",
+    "1 stalk celery, chopped",
+    "3 cups chicken broth",
+    "1 teaspoon ground ginger",
+    "0.5 cup heavy whipping cream",
+    "1 teaspoon curry powder",
+    "0.5 teaspoon salt",
+    "0.125 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a Dutch oven over medium heat. Add carrots, potato, onion, and celery, then stir in chicken broth and ginger. Cover and cook, stirring occasionally, until vegetables are tender, about 30 minutes. Uncover and cool for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer soup in batches to a food processor; blend until smooth. Return soup to the Dutch oven and stir in cream, curry powder, salt, and pepper. Cook over low heat until heated through, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "586 mg",
+    "sugarContent": "4 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "319"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JwkMn1t6LtiytX_oNrezjbBmhv4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228514cream-of-carrot-soupReneePaj-846b5ce2d9c14e26b78dc1856f7e34d3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228514/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

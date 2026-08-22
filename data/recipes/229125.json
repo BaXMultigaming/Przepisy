@@ -1,0 +1,84 @@
+{
+  "id": "229125",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229125/lemon-herb-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/229125/lemon-herb-butter/",
+  "title": "Lemon Herb Butter",
+  "description": "Unsalted butter combined with lemon zest, rosemary, thyme, and sage makes a nice lemon herb butter spread for rolls or a flavorful ingredient for cooking.",
+  "authors": [
+    "Karin Landers"
+  ],
+  "date_published": "2019-07-10T03:03:52-04:00",
+  "date_modified": "2026-05-12T13:51:23-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup unsalted butter at room temperature",
+    "2 tablespoons lemon zest",
+    "1 teaspoon fresh lemon juice",
+    "0.5 teaspoon finely chopped fresh rosemary",
+    "0.5 teaspoon finely chopped fresh thyme",
+    "0.5 teaspoon finely chopped fresh sage",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Mash butter in a bowl until smooth and creamy.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix lemon zest, lemon juice, rosemary, thyme, sage, salt, and black pepper into butter until thoroughly combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "82 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "24 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "17 mg",
+    "sugarContent": "0 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/RMQKLaVzCFVtqqLzJ9yHCMQ-kMk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9232748-7d145cc61ac2487cb534f367d05babf0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229125/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

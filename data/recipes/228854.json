@@ -1,0 +1,73 @@
+{
+  "id": "228854",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228854/all-fruit-smoothies/",
+  "requested_url": "https://www.allrecipes.com/recipe/228854/all-fruit-smoothies/",
+  "title": "All-Fruit Smoothies",
+  "description": "There&#39;s nothing in this smoothie except pineapple juice, banana, and frozen strawberries and blueberries. It&#39;s smooth, frosty, and dairy-free.",
+  "authors": [
+    "SDONEILL"
+  ],
+  "date_published": "2020-06-18T23:51:08-04:00",
+  "date_modified": "2026-06-04T12:09:45-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup pineapple juice",
+    "1 large banana, cut into chunks",
+    "1 cup frozen strawberries",
+    "1 cup frozen blueberries"
+  ],
+  "steps": [
+    {
+      "text": "Pour pineapple juice into a blender and add banana, strawberries, and blueberries. Cover and blend until smooth, about 1 minute. Pour into 2 glasses.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "205 kcal",
+    "carbohydrateContent": "51 g",
+    "fiberContent": "6 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "6 mg",
+    "sugarContent": "32 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "70"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1K6wdTTbXPv4sC8Kw3lFrZRRJXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8145176-ee5789a9c4b34078b5f558bd54deafab.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228854/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

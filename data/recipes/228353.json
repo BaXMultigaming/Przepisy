@@ -1,0 +1,82 @@
+{
+  "id": "228353",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228353/orangeade/",
+  "requested_url": "https://www.allrecipes.com/recipe/228353/orangeade/",
+  "title": "Orangeade",
+  "description": "A refreshing &#39;ade&#39; made with fresh-squeezed orange juice as well as lemon.",
+  "authors": [
+    "couldbeanyone"
+  ],
+  "date_published": "2020-06-18T23:50:50-04:00",
+  "date_modified": "2026-04-18T09:21:18-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "10 cups"
+  ],
+  "categories": [
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1.5 cups white sugar",
+    "6 cups water",
+    "1.5 cups freshly squeezed orange juice",
+    "0.33333334326744 cup freshly squeezed lemon juice"
+  ],
+  "steps": [
+    {
+      "text": "Bring 2 cups water and sugar to a boil in a small saucepan; cook at a boil for 3 minutes, stirring to dissolve sugar, and creating a simple syrup.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine simple syrup, 6 cups water, orange juice, and lemon juice in a large pitcher; refrigerate until cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "169 kcal",
+    "carbohydrateContent": "43 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "8 mg",
+    "sugarContent": "42 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "31"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aaltSEcUEaUyWx8KZh9uHJQQ4hY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/874219-e34439f1db22450f99e2eb8f95b24907.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228353/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

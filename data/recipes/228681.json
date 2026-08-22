@@ -1,0 +1,75 @@
+{
+  "id": "228681",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228681/fresh-fruit-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/228681/fresh-fruit-salad/",
+  "title": "Fresh Fruit Salad",
+  "description": "This is a simple fruit salad with fresh berries, mango, banana, and orange. Add yogurt and maple syrup for extra flavor.",
+  "authors": [
+    "Patricia OHara"
+  ],
+  "date_published": "2020-06-18T23:51:03-04:00",
+  "date_modified": "2022-01-28T13:12:35-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 small orange, peeled and diced",
+    "0.5 mango, diced",
+    "0.5 cup fresh blueberries",
+    "0.5 cup fresh strawberries, sliced",
+    "0.5 cup fresh raspberries",
+    "0.5 small banana, sliced",
+    "2 tablespoons plain yogurt",
+    "1 tablespoon maple syrup",
+    "1 pinch white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Toss orange, mango, blueberries, strawberries, raspberries, and banana in a large bowl. Stir yogurt and syrup into the mixture to coat evenly. Sprinkle sugar over the salad; stir to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "156 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "6 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "14 mg",
+    "sugarContent": "28 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Oei8FzMb5qHnl4UtDjLia5abDEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970419-ad2ca36407714dd0ad9d12edfe040335.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228681/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

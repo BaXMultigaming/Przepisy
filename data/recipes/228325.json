@@ -1,0 +1,72 @@
+{
+  "id": "228325",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228325/oreo-vanilla-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/228325/oreo-vanilla-milkshake/",
+  "title": "Oreo Vanilla Milkshake",
+  "description": "This double vanilla milkshake is loaded with chocolate sandwich cookies for a sweet treat on a hot summer day.",
+  "authors": [
+    "klo1175"
+  ],
+  "date_published": "2019-07-31T23:10:39-04:00",
+  "date_modified": "2023-02-17T05:54:04-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 scoops vanilla ice cream",
+    "1 cup milk",
+    "1 teaspoon pure vanilla extract",
+    "4 chocolate sandwich cookies (such as Oreo®)",
+    "0.25 cup whipped cream"
+  ],
+  "steps": [
+    {
+      "text": "Blend ice cream, milk, vanilla extract, and chocolate sandwich cookies in a blender until smooth. Pour into 2 glasses and top with whipped cream.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "222 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "25 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "173 mg",
+    "sugarContent": "19 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "33"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zweurJwe5vNIX56rd2LPe_ssfqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8158699-fa6faeadb6474af59b023798aa2945d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228325/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "228912",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228912/japanese-salad-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/228912/japanese-salad-dressing/",
+  "title": "Japanese Salad Dressing",
+  "description": "Ginger, celery, and onion are pureed into a mixture of soy sauce, lime juice, and ketchup in this salad dressing recipe.",
+  "authors": [
+    "Sheri Campbell Gongaware"
+  ],
+  "date_published": "2020-06-18T23:51:14-04:00",
+  "date_modified": "2022-01-14T02:15:21-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "5"
+  ],
+  "categories": [],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons minced fresh ginger root",
+    "0.33333334326744 cup minced onion",
+    "0.25 cup minced celery",
+    "0.25 cup low-sodium soy sauce",
+    "0.5 lime, juiced",
+    "1 tablespoon white sugar",
+    "1 tablespoon ketchup",
+    "0.25 teaspoon ground black pepper",
+    "0.5 cup vegetable oil"
+  ],
+  "steps": [
+    {
+      "text": "Pulse ginger, onion, and celery in a food processor until thoroughly combined. Scrape down sides of food processor with a spatula. Add soy sauce, lime juice, sugar, ketchup, and pepper; process until combined, 10 to 20 seconds. Stream oil in a thin stream into the mixture with the processor running; process until well blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "220 kcal",
+    "carbohydrateContent": "6 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "464 mg",
+    "sugarContent": "4 g",
+    "fatContent": "22 g",
+    "servingSize": "1 1/4 cup",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "35"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/i64px5knQZ9GsZfgK1Kn3k9uhg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1875019-b532e0541cba42179597409f2e8c5cba.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228912/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

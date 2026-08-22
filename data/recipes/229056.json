@@ -1,0 +1,79 @@
+{
+  "id": "229056",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/229056/frozen-strawberry-yogurt/",
+  "requested_url": "https://www.allrecipes.com/recipe/229056/frozen-strawberry-yogurt/",
+  "title": "Frozen Strawberry Yogurt",
+  "description": "Creamy smooth frozen yogurt gets a little richer with the addition of half-and-half. Ripe summer strawberries are sure to make this a family favorite.",
+  "authors": [
+    "JENHYBR"
+  ],
+  "date_published": "2020-06-18T23:51:27-04:00",
+  "date_modified": "2020-06-18T23:51:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT190M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound fresh strawberries",
+    "0.75 cup white sugar",
+    "1 tablespoon vanilla extract",
+    "0.25 cup half-and-half",
+    "1 (32 ounce) container plain yogurt"
+  ],
+  "steps": [
+    {
+      "text": "Place strawberries, sugar, vanilla extract, and half-and-half in a blender; puree until smooth. Add yogurt (see Cook's Note) and pulse until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour the mixture into an ice cream maker and freeze according to manufacturer's instructions. Transfer frozen yogurt to a lidded plastic container. Cover surface with plastic wrap and seal. For best results, let it ripen in the freezer for at least 2 hours or overnight before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "177 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "10 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "83 mg",
+    "sugarContent": "30 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dwrq_Oa-pybuTbj3X1QUHVImZOw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/995197-8a96e0dbebb944c0bc9fd35e0de3fd89.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/229056/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

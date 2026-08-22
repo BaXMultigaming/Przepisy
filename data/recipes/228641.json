@@ -1,0 +1,104 @@
+{
+  "id": "228641",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228641/chef-johns-popovers/",
+  "requested_url": "https://www.allrecipes.com/recipe/228641/chef-johns-popovers/",
+  "title": "Chef John&#39;s Popovers",
+  "description": "This popover recipe breaks from tradition and places popovers in a cold oven, then bakes them at a high temperature until tall, fluffy, and crispy.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2012-08-20T16:54:17-04:00",
+  "date_modified": "2025-03-13T11:21:30-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT40M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "cooking spray",
+    "2 large eggs",
+    "1 cup milk",
+    "1 cup all-purpose flour",
+    "0.5 teaspoon salt",
+    "1 pinch cayenne pepper",
+    "2 tablespoons shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Grease a 6-tin muffin pan with butter and cooking spray.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk eggs, milk, flour, salt, and cayenne pepper together in a medium bowl until smooth. Pour batter into each muffin tin, filling to about 3/4 of the way up the sides. Sprinkle about 1 teaspoon of grated Cheddar cheese atop each popover.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place pan in a cold oven. Heat to 450 degrees F (230 degrees C) and bake until puffed and well-browned, without peeking, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/5RZsVAsJktG2Rw8D3BkVL8au3AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1600997-8ca0c91ffd7b4ea695ed9ff905b9896b.jpg"
+      ],
+      "image": "assets/images/228641/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "55 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "199 mg",
+    "sugarContent": "2 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "89"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/Hip0bXve-ma1DlVvV.mp4",
+    "description": "0072",
+    "duration": "PT4M14S",
+    "name": "Chef John's Popovers",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/Hip0bXve/poster.jpg?width=1280",
+    "uploadDate": "2021-07-16T06:02:50-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/5RZsVAsJktG2Rw8D3BkVL8au3AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1600997-8ca0c91ffd7b4ea695ed9ff905b9896b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228641/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/228641/step_03.webp"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "228474",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228474/rice-cooker-rice-pudding/",
+  "requested_url": "https://www.allrecipes.com/recipe/228474/rice-cooker-rice-pudding/",
+  "title": "Rice Cooker Rice Pudding",
+  "description": "Cook rice pudding in a rice cooker in under 30 minutes with four simple ingredients: milk, rice, sugar, and cinnamon, then chill and serve it cold.",
+  "authors": [
+    "ASTROPHE"
+  ],
+  "date_published": "2020-06-18T23:50:53-04:00",
+  "date_modified": "2023-04-21T10:23:43-04:00",
+  "prep_time": null,
+  "cook_time": "PT20M",
+  "total_time": "PT110M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 cups skim milk, divided",
+    "2 cups short-grain white rice",
+    "1 cup white sugar",
+    "0.5 teaspoon ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Stir 5 1/2 cups milk, rice, sugar, and cinnamon together in a rice cooker. Cover and cook for one cycle until tender and creamy, about 20 minutes. Stir in remaining 2 1/2 cups milk.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer to a bowl and let cool to room temperature, about 30 minutes. Cover and refrigerate for 1 to 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "310 kcal",
+    "carbohydrateContent": "66 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "103 mg",
+    "sugarContent": "37 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.2",
+    "ratingCount": "51"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7IjUy0bol7d9ajYjM9d56-0GRBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/969229-rice-cooker-rice-pudding-Sugarplum-4x3-1-378e2396e8344dd18d63e5684f0cf613.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228474/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

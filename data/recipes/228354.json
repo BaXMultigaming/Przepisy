@@ -1,0 +1,111 @@
+{
+  "id": "228354",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/228354/zesty-lemon-apple-juice/",
+  "requested_url": "https://www.allrecipes.com/recipe/228354/zesty-lemon-apple-juice/",
+  "title": "Zesty Lemon Apple Juice",
+  "description": "A nice, light drink to make with your juicer with lemon, cucumber, and apple.",
+  "authors": [
+    "MVezza"
+  ],
+  "date_published": "2019-07-10T03:03:44-04:00",
+  "date_modified": "2022-09-13T14:27:35-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup cool water",
+    "1 cucumber, halved",
+    "2 green apples, quartered",
+    "1 lemon, halved"
+  ],
+  "steps": [
+    {
+      "text": "Pour water into a glass and place beneath the spigot of a juicer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Process cucumber, waiting about 20 seconds between halves.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Process apples, waiting about 20 seconds between quarters.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Juice lemon halves.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir juice vigorously to blend.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/fF9J1wYXnQa9ePUEEMAaTMOcJdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1105872-1ef2b8527c34424ab0957a87b56546f8.jpg"
+      ],
+      "image": "assets/images/228354/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "164 kcal",
+    "carbohydrateContent": "44 g",
+    "fiberContent": "7 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "12 mg",
+    "sugarContent": "33 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "8"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/B0vveJzq-ma1DlVvV.mp4",
+    "description": "0006 Zesty Lemon Apple Juice - APPROVED",
+    "duration": "PT47S",
+    "name": "Zesty Lemon Apple Juice",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/B0vveJzq/poster.jpg?width=1280",
+    "uploadDate": "2021-07-19T22:21:12-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/fF9J1wYXnQa9ePUEEMAaTMOcJdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1105872-1ef2b8527c34424ab0957a87b56546f8.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/228354/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/228354/step_05.webp"
+    ]
+  }
+}
