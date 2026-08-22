@@ -1,0 +1,98 @@
+{
+  "id": "232500",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232500/chicken-wing-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/232500/chicken-wing-soup/",
+  "title": "Chicken Wing Soup",
+  "description": "This spicy, cheesy chicken soup is a quick and easy crowd-pleaser.",
+  "authors": [
+    "Gaiden5"
+  ],
+  "date_published": "2020-01-02T19:50:31-05:00",
+  "date_modified": "2022-01-14T01:26:51-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (12 ounce) cans chicken chunks, drained",
+    "0.5 cup hot sauce",
+    "0.25 cup butter",
+    "2 small onions, diced",
+    "5 stalks celery, diced",
+    "2 cups water",
+    "0.75 cup all-purpose flour",
+    "0.75 cup milk",
+    "2 cubes chicken bouillon",
+    "6 ounces processed cheese (such as Velveeta®), cubed"
+  ],
+  "steps": [
+    {
+      "text": "Shred chicken with a fork in a bowl and add hot sauce; stir to combine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a small skillet over medium heat; cook and stir onions and celery in melted butter until tender, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix water, flour, milk, and chicken bouillon in a large pot until smooth. Add processed cheese, shredded chicken, and onion mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat soup over low heat until cheese is melted, about 30 minutes. Stir often.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "439 kcal",
+    "carbohydrateContent": "19 g",
+    "cholesterolContent": "116 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "33 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1845 mg",
+    "sugarContent": "5 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6pTDiRX-669VHvnpVlsdnrJcCtU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1011212-01984b708d3f4886b3fe94bd72f538a1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232500/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

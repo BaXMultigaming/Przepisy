@@ -1,0 +1,83 @@
+{
+  "id": "232556",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232556/arroz-con-leche-ice-pops/",
+  "requested_url": "https://www.allrecipes.com/recipe/232556/arroz-con-leche-ice-pops/",
+  "title": "Arroz Con Leche Ice Pops",
+  "description": "Mexican-inspired ice pops made with rice and sweetened milk are a delightful treat on a hot summer evening.",
+  "authors": [
+    "Charlie cheesecake"
+  ],
+  "date_published": "2020-06-18T23:54:45-04:00",
+  "date_modified": "2020-06-18T23:54:45-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT150M",
+  "yield": [
+    "10",
+    "10 ice pops"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "1 cup white rice",
+    "1 cup white sugar",
+    "1 cup sweetened condensed milk",
+    "1 cup milk"
+  ],
+  "steps": [
+    {
+      "text": "Bring water, rice, and sugar to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until the rice is tender and the liquid has been absorbed, 15 to 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix cooked rice, sweetened condensed milk, and milk in a large bowl. Fill ice pop molds with mixture. Freeze until solid, at least 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "255 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "51 mg",
+    "sugarContent": "38 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SDZSvdwiNqTknbgk5fkRGYiCNIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5409236-4cd1860a22484d74a9a567914a83fdd5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232556/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

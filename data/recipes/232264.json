@@ -1,0 +1,113 @@
+{
+  "id": "232264",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232264/yummy-summer-pea-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/232264/yummy-summer-pea-salad/",
+  "title": "Yummy Summer Pea Salad",
+  "description": "This yummy summer pea salad recipe uses frozen peas, Cheddar cheese, golden raisins, and bacon to make a quick and tasty pea salad perfect for summer.",
+  "authors": [
+    "TabbyKat"
+  ],
+  "date_published": "2020-06-18T23:54:10-04:00",
+  "date_modified": "2025-07-22T08:18:14-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "10"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound cooked bacon, chopped",
+    "2 (6 ounce) packages frozen peas, thawed",
+    "1 cup golden raisins",
+    "1 (8 ounce) package shredded Cheddar cheese",
+    "1 sweet onion, chopped",
+    "0.5 cup sunflower seeds",
+    "1 cup mayonnaise",
+    "2 tablespoons wine vinegar",
+    "0.25 teaspoon white sugar, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Toss bacon, peas, raisins, Cheddar cheese, onion, and sunflower seeds together in a bowl until well combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk mayonnaise, vinegar, and sugar together in a small bowl until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour dressing over salad; toss to coat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the bowl; refrigerate until chilled, about 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ujGlU7hZRL6cZEQgIcmvNbD6vrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pea-salad-ce0c021092f94acc9b4ec97fe3cef624.jpeg"
+      ],
+      "image": "assets/images/232264/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "454 kcal",
+    "carbohydrateContent": "22 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "15 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "650 mg",
+    "sugarContent": "13 g",
+    "fatContent": "35 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "51"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/P7xduZPC-K3AjnAEN.mp4",
+    "description": "Yummy summer salad with frozen peas, cooked bacon, raisins, shredded cheddar cheese, sweet onion, and sunflower seeds with a dressing made with mayonnaise, red wine vinegar, and white sugar.",
+    "duration": "PT1M19S",
+    "name": "How to Make Yummy Summer Pea Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/P7xduZPC/poster.jpg?width=1280",
+    "uploadDate": "2022-05-17T15:23:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ujGlU7hZRL6cZEQgIcmvNbD6vrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pea-salad-ce0c021092f94acc9b4ec97fe3cef624.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/232264/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/232264/step_04.webp"
+    ]
+  }
+}

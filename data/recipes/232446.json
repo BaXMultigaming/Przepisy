@@ -1,0 +1,75 @@
+{
+  "id": "232446",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232446/paloma/",
+  "requested_url": "https://www.allrecipes.com/recipe/232446/paloma/",
+  "title": "Paloma",
+  "description": "Paloma is a Mexican cocktail made with tequila, lime, and grapefruit soda served over ice for a cool and refreshing holiday drink.",
+  "authors": [
+    "shasty"
+  ],
+  "date_published": "2018-06-08T10:08:29-04:00",
+  "date_modified": "2026-03-24T01:40:44-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 cocktail"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 fluid ounces tequila",
+    "1.5 tablespoons lime juice",
+    "1 pinch salt",
+    "3 cubes ice, or as desired",
+    "6 fluid ounces diet grapefruit soda"
+  ],
+  "steps": [
+    {
+      "text": "Combine the tequila, lime juice, and salt in a tall glass. Add ice, top off with diet grapefruit soda, and stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "2 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "29 mg",
+    "sugarContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "14"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0bbOFaZAOt8ETuqAxp_WkWlyOZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/232446palomaYoly4x3-648a5159af4f432389407a162d59b279.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232446/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

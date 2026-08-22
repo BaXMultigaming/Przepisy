@@ -1,0 +1,86 @@
+{
+  "id": "232285",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232285/vegan-gravy/",
+  "requested_url": "https://www.allrecipes.com/recipe/232285/vegan-gravy/",
+  "title": "Vegan Gravy",
+  "description": "This vegan gravy is made with vegetable broth, tamari, soy milk, and nutritional yeast for a deliciously creamy brown gravy everyone can enjoy!",
+  "authors": [
+    "Vegan Fatty"
+  ],
+  "date_published": "2020-03-09T22:51:57-04:00",
+  "date_modified": "2025-02-12T00:37:59-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.25 cup canola oil",
+    "0.33333334326744 cup all-purpose flour",
+    "0.25 cup vegetable broth",
+    "3 tablespoons tamari sauce",
+    "2 cups soy milk",
+    "2 tablespoons nutritional yeast",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a skillet over medium heat. Whisk flour, vegetable broth, and tamari into hot oil; cook and stir until there are no lumps and mixture becomes paste-like, about 5 minutes. Pour soy milk into the skillet; cook and stir until mixture thickens, about 5 minutes more. Add yeast and black pepper; stir well and serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/lV8OLpMd7peMdhjLIwWlDouCDsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5825152-5c62b98c1c6c44dba9f7a976c6e2dfb9.jpg"
+      ],
+      "image": "assets/images/232285/step_01.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 kcal",
+    "carbohydrateContent": "18 g",
+    "fiberContent": "2 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "846 mg",
+    "sugarContent": "5 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "14"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/utxXH5DI-K3AjnAEN.mp4",
+    "description": "See how to make vegan gravy from scratch.",
+    "duration": "PT1M36S",
+    "name": "Vegan Gravy",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/utxXH5DI/poster.jpg?width=1280",
+    "uploadDate": "2020-12-03T10:25:57-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/lV8OLpMd7peMdhjLIwWlDouCDsM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5825152-5c62b98c1c6c44dba9f7a976c6e2dfb9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232285/hero.webp",
+    "steps": [
+      "assets/images/232285/step_01.webp"
+    ]
+  }
+}

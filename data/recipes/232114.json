@@ -1,0 +1,85 @@
+{
+  "id": "232114",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232114/white-peach-sorbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/232114/white-peach-sorbet/",
+  "title": "White Peach Sorbet",
+  "description": "Sweet, aromatic white peaches make a refreshing sorbet recipe that&#39;s not too sweet. Use fruit at its peak of ripeness for the best flavor and sweetness.",
+  "authors": [
+    "Venus Zayas"
+  ],
+  "date_published": "2020-06-18T23:53:56-04:00",
+  "date_modified": "2025-07-21T21:06:13-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT90M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 ripe white peaches",
+    "2 teaspoons lemon juice",
+    "2 teaspoons white sugar, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Peel peaches, leaving some skin to add texture and color; cut peaches into chunks. Place peaches in a large bowl. Discard pits.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add lemon juice to peaches; purée with an immersion blender until smooth. Add sugar; purée. Taste to check sweetness level; adjust as desired. Chill peach mixture in the refrigerator for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour chilled peach mixture into an ice cream maker and freeze according to manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "38 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sugarContent": "8 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TThojgqxI5E4W5ZanhQ36eMCrr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1032361-0b21f29d714b494b899788e47c2c861c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232114/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

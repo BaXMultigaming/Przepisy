@@ -1,0 +1,73 @@
+{
+  "id": "232619",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232619/champagne-julep/",
+  "requested_url": "https://www.allrecipes.com/recipe/232619/champagne-julep/",
+  "title": "Champagne Julep",
+  "description": "A mint julep where cognac and sparkling wine are swapped in for the traditional bourbon is a refreshing cocktail for derby day.",
+  "authors": [
+    "Lorem Ipsum"
+  ],
+  "date_published": "2020-06-18T23:54:51-04:00",
+  "date_modified": "2025-02-04T18:38:53-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 julep"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 fresh mint leaves",
+    "1 teaspoon white sugar",
+    "1 tablespoon warm water",
+    "0.5 cup crushed ice, or as needed",
+    "2 fluid ounces cognac",
+    "2 fluid ounces chilled dry sparkling wine, or as needed"
+  ],
+  "steps": [
+    {
+      "text": "Place mint leaves in a tall cocktail glass. Add sugar and warm water; muddle gently. Add crushed ice. Pour in cognac; stir. Top with sparkling wine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "271 kcal",
+    "carbohydrateContent": "6 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KXfs3nD5AW6TI76zdOS3nXXBHjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/232619champagne-julepFranceC4x3-e956ecae29504c3fb9e0afaa13f46e84.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232619/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

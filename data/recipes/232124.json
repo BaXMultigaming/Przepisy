@@ -1,0 +1,82 @@
+{
+  "id": "232124",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232124/pico-de-gallo-de-alicia/",
+  "requested_url": "https://www.allrecipes.com/recipe/232124/pico-de-gallo-de-alicia/",
+  "title": "Pico De Gallo de Alicia",
+  "description": "This recipe for pico de gallo de Alicia is for tomato salsa with red onion, cilantro, garlic, and lime juice. Liberal use of jalapeños bring the heat.",
+  "authors": [
+    "bjr6350"
+  ],
+  "date_published": "2016-06-04T10:08:54-04:00",
+  "date_modified": "2025-07-21T22:38:59-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT260M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tomatoes, diced",
+    "1 red onion, finely chopped",
+    "2 jalapeno peppers, seeded and chopped",
+    "2 sprigs cilantro, finely chopped",
+    "1 clove garlic, pressed",
+    "0.5 small lime, juiced",
+    "1 teaspoon garlic salt, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomatoes, red onion, jalapeños, cilantro, garlic, and lime juice in a bowl; season with garlic salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the bowl with plastic wrap; refrigerate for at least 4 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "20 kcal",
+    "carbohydrateContent": "5 g",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "sodiumContent": "306 mg",
+    "sugarContent": "2 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "37"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LmWbL9dD2JTvzpnRlxIQtDfstVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9180258-0fbe84eefb0640deab9dfbfdd4d5e9f7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232124/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

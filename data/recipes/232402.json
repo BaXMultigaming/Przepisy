@@ -1,0 +1,96 @@
+{
+  "id": "232402",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232402/creamy-chicken-and-noodles/",
+  "requested_url": "https://www.allrecipes.com/recipe/232402/creamy-chicken-and-noodles/",
+  "title": "Creamy Chicken and Noodles",
+  "description": "Chicken in a creamy sour cream sauce served with cooked egg noodles is a warming and comforting dish to serve your family; using cooked rotisserie chicken makes it quick.",
+  "authors": [
+    "OMARILYN"
+  ],
+  "date_published": "2018-06-08T10:08:26-04:00",
+  "date_modified": "2024-12-29T11:46:12-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT20M",
+  "total_time": "PT45M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package egg noodles",
+    "0.25 cup butter",
+    "0.25 cup chopped onion",
+    "1 tablespoon minced garlic",
+    "1 cup milk",
+    "1 cup half-and-half",
+    "6 tablespoons all-purpose flour",
+    "30 ounces chicken broth",
+    "1 (3 pound) rotisserie chicken, bones removed and meat cut into bite-size pieces",
+    "1 cup sour cream",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook egg noodles in boiling water, stirring occasionally, until cooked through but firm to the bite, 7 to 9 minutes. Drain and transfer to a large serving bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium heat; cook and stir onion and garlic in hot butter until onion is translucent, about 5 minutes. Place milk, half-and-half, and flour into a jar with a lid and shake until flour well combined. Pour mixture into the skillet and whisk until smooth and thick, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Gradually whisk in chicken broth; bring to a simmer while whisking constantly. Stir cooked chicken and sour cream into sauce; season with salt and black pepper. Add cooked noodles; stir until combined.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "829 kcal",
+    "carbohydrateContent": "60 g",
+    "cholesterolContent": "225 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "49 g",
+    "saturatedFatContent": "19 g",
+    "sodiumContent": "911 mg",
+    "sugarContent": "4 g",
+    "fatContent": "43 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "36"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/_6KQfhqfg0pM_yh_bepeltxF_ks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6950693-c990989782b343348230c3aa17c18fbd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232402/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

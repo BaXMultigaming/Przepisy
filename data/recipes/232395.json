@@ -1,0 +1,107 @@
+{
+  "id": "232395",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232395/chef-johns-creamy-blue-cheese-dressing/",
+  "requested_url": "https://www.allrecipes.com/recipe/232395/chef-johns-creamy-blue-cheese-dressing/",
+  "title": "Chef John’s Creamy Blue Cheese Dressing",
+  "description": "This clever recipe for blue cheese dressing uses a wedge of frozen blue cheese and a cheese grater to guarantee blue cheesy flavor in every bite!",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2013-04-18T19:28:24-04:00",
+  "date_modified": "2026-08-06T18:39:01-04:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT200M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Condiment"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mayonnaise",
+    "1 cup sour cream",
+    "0.75 cup buttermilk",
+    "1 teaspoon crushed garlic",
+    "0.5 teaspoon ground black pepper",
+    "0.5 teaspoon dry mustard",
+    "0.5 teaspoon salt, or to taste",
+    "0.5 teaspoon white sugar",
+    "1 pinch cayenne pepper, or to taste",
+    "1 teaspoon Worcestershire sauce",
+    "4 ounces frozen blue cheese, grated"
+  ],
+  "steps": [
+    {
+      "text": "Place mayonnaise, sour cream, and buttermilk in a bowl. Add garlic, black pepper, dry mustard, salt, sugar, cayenne, and Worcestershire sauce. Whisk together thoroughly.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix grated blue cheese into the cream base a little at a time to ensure it is evenly incorporated and doesn’t clump.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover the bowl with plastic wrap and refrigerate for at least 3 hours (preferably overnight) to consolidate the flavors.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/cYm14txC3_a5Q9kOgvuTwe_M5uY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1013107-9660b2e9315945c0a5a3e1e1e7ef94d6.jpg"
+      ],
+      "image": "assets/images/232395/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "23 mg",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "364 mg",
+    "sugarContent": "1 g",
+    "fatContent": "22 g",
+    "servingSize": "3 1/4 cups",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "142"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/ezydqGjU-ma1DlVvV.mp4",
+    "description": "0002",
+    "duration": "PT4M45S",
+    "name": "How to Make Blue Cheese Dressing",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/ezydqGjU/poster.jpg?width=1280",
+    "uploadDate": "2021-07-18T03:56:34-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cYm14txC3_a5Q9kOgvuTwe_M5uY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1013107-9660b2e9315945c0a5a3e1e1e7ef94d6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232395/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/232395/step_03.webp"
+    ]
+  }
+}

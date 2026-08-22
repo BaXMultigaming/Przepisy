@@ -1,0 +1,87 @@
+{
+  "id": "232453",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232453/mexican-quinoa/",
+  "requested_url": "https://www.allrecipes.com/recipe/232453/mexican-quinoa/",
+  "title": "Mexican Quinoa",
+  "description": "Use quinoa instead of rice to make a flavorful, spicy Mexican-style side dish that’s light and healthy. It’s perfect for the gluten-free diet.",
+  "authors": [
+    "Occasional Cooker"
+  ],
+  "date_published": "2020-02-26T00:51:22-05:00",
+  "date_modified": "2026-08-20T13:50:55-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT20M",
+  "total_time": "PT40M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "1 cup quinoa, rinsed",
+    "1 small onion, chopped",
+    "2 cloves garlic, minced",
+    "1 jalapeno pepper, seeded and chopped",
+    "1 (10 ounce) can diced tomatoes with green chile peppers (such as RO*TEL®)",
+    "1 envelope gluten-free taco seasoning mix",
+    "2 cups low-sodium chicken broth",
+    "0.25 cup chopped fresh cilantro"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large skillet over medium heat; cook and stir quinoa and onion in hot oil until onion is translucent, about 5 minutes. Add garlic and jalapeño pepper to quinoa mixture and cook until garlic is fragrant and slightly softened, 1 or 2 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix undrained can of diced tomatoes with green chile peppers, taco seasoning mix, and chicken broth into quinoa mixture. Bring to a boil, reduce heat to medium-low, and simmer until liquid has been absorbed, 15 to 20 minutes. Stir in cilantro.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "244 kcal",
+    "carbohydrateContent": "38 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "986 mg",
+    "sugarContent": "3 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "178"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uY53k0NWpsurNOaOp04WBsQE9Ps=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1010900-mexican-quinoa-sueb-4x3-1-8d80361c9a4c42158820ddef27cb2318.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232453/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "232903",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232903/peach-banana-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/232903/peach-banana-smoothie/",
+  "title": "Peach Smoothie",
+  "description": "This easy peach smoothie recipe combines canned peaches, plain yogurt, bananas, and orange juice to create a smooth and delicious drink in just minutes.",
+  "authors": [
+    "young"
+  ],
+  "date_published": "2020-06-18T23:55:02-04:00",
+  "date_modified": "2026-07-07T21:32:19-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15.25 ounce) can peaches",
+    "2 bananas, sliced",
+    "1 cup plain yogurt",
+    "0.25 cup orange juice",
+    "0.25 cup white sugar, or to taste",
+    "2 cubes ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine peaches, bananas, yogurt, orange juice, sugar, and ice in a blender; blend on high speed until ice is crushed and smoothie reaches desired consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "194 kcal",
+    "carbohydrateContent": "44 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "48 mg",
+    "sugarContent": "36 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yZAFM4KKtttZjdBEScqeW_I3q44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1115853-f61b636e115c4f31a46b8e1be44435ca.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232903/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "232597",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232597/savory-chicken-brine/",
+  "requested_url": "https://www.allrecipes.com/recipe/232597/savory-chicken-brine/",
+  "title": "Savory Chicken Brine",
+  "description": "Brining a chicken with soy sauce makes a juicier and more flavorful chicken. Great for baked, grilled or fried chicken.",
+  "authors": [
+    "Kikkoman"
+  ],
+  "date_published": "2020-06-18T23:54:51-04:00",
+  "date_modified": "2022-07-18T20:35:48-04:00",
+  "prep_time": "PT255M",
+  "cook_time": "PT45M",
+  "total_time": "PT300M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (5 pound) whole chicken",
+    "1 gallon cold water",
+    "1 tablespoon dried sage",
+    "1 tablespoon dried celery seed",
+    "0.5 tablespoon dried thyme",
+    "0.75 cup kosher salt",
+    "0.75 cup sugar",
+    "0.75 cup Kikkoman Soy Sauce",
+    "2 tablespoons seasoned salt"
+  ],
+  "steps": [
+    {
+      "text": "Remove giblets from chicken cavity, rinse chicken inside and out.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "In a large stock pot or container, mix water, sage, celery seed, thyme, salt, sugar and soy sauce to create brine. Stir well until the sugar and salt are dissolved. Place the chicken in the brine, cover and refrigerate for at least 4 hours or overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove chicken from the brine and rinse well inside and out. Sprinkle with 2 tablespoons of seasoned salt. Bake the chicken at 400 degrees F for 45 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "626 kcal",
+    "carbohydrateContent": "27 g",
+    "cholesterolContent": "228 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "61 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "14333 mg",
+    "sugarContent": "25 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "13"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VWnGH2pHypd5bPVTymhNtEoHA64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1010460-f2565323477d47d6a6f3cc385e2f4c13.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232597/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

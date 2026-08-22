@@ -1,0 +1,88 @@
+{
+  "id": "232334",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232334/homemade-pesto/",
+  "requested_url": "https://www.allrecipes.com/recipe/232334/homemade-pesto/",
+  "title": "Homemade Pesto",
+  "description": "The classic basil pesto sauce made with pine nuts or walnuts, lots of fresh basil, and real Parmigiano-Reggiano cheese will add flavor to anything to combine it with, from pasta to pizza to spaghetti sauce.",
+  "authors": [
+    "Peggy"
+  ],
+  "date_published": "2019-07-10T03:04:27-04:00",
+  "date_modified": "2025-01-25T12:24:54-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "regions": [
+    "Italian Inspired",
+    "Italian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups packed fresh basil leaves",
+    "0.25 cup Italian parsley",
+    "2 cloves garlic, peeled and lightly crushed",
+    "1 cup pine nuts",
+    "1.5 cups shredded Parmigiano-Reggiano cheese",
+    "1 tablespoon fresh lemon juice",
+    "0.5 cup extra-virgin olive oil, or more as needed",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place basil, Italian parsley, and garlic into a food processor, pulse several times to combine, and process until basil is finely chopped, about 30 seconds. Add pine nuts to basil mixture; process until finely chopped, 30 more seconds. Process Parmigiano-Reggiano cheese into mixture until finely ground.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix lemon juice into mixture with the machine running; slowly drizzle olive oil into pesto in the running machine until incorporated and pesto is thoroughly combined. Turn off machine and season pesto to taste with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "389 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "343 mg",
+    "sugarContent": "1 g",
+    "fatContent": "36 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "52"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-lc7zdyBEnDK1-5HINxQ8RIAjFM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042571-d480bef85ddc4e1ea6134f431ba50283.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232334/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

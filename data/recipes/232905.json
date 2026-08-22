@@ -1,0 +1,84 @@
+{
+  "id": "232905",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232905/spring-tea-strawberry-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/232905/spring-tea-strawberry-soup/",
+  "title": "Spring Tea Strawberry Soup",
+  "description": "This spring tea strawberry soup recipe blends strawberries, sour cream, sugar, and half-and-half for a fruity and refreshing fruit soup for a tea party.",
+  "authors": [
+    "Paula"
+  ],
+  "date_published": "2020-06-18T23:55:02-04:00",
+  "date_modified": "2025-07-22T20:15:48-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "8",
+    "4 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups sliced strawberries",
+    "1 cup sour cream",
+    "1 cup half and half",
+    "0.25 cup white sugar",
+    "0.5 teaspoon vanilla extract",
+    "8 whole strawberries"
+  ],
+  "steps": [
+    {
+      "text": "Combine strawberries, sour cream, half-and-half, sugar, and vanilla in a blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide soup among 8 chilled bowls; top each serving with a whole strawberry.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "145 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "24 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "28 mg",
+    "sugarContent": "9 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4F3QXdoCNS3wVndTzOuNFWfFE58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Spring-Tea-Strawberry-Soup-4x3-1-2000-6541bef60ba3471ab59d9bf5ec4df089.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232905/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

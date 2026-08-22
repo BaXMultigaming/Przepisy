@@ -1,0 +1,91 @@
+{
+  "id": "232128",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232128/salty-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/232128/salty-pancakes/",
+  "title": "Salty Pancakes",
+  "description": "Thin, savory, salty pancakes are perfect for wrapping veggies, ham, and cheese for an on-the-go breakfast wrap.",
+  "authors": [
+    "Shawn Harquail"
+  ],
+  "date_published": "2019-04-03T23:55:04-04:00",
+  "date_modified": "2024-07-22T20:47:08-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT5M",
+  "total_time": "PT80M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.66666668653488 cup water",
+    "0.66666668653488 cup milk",
+    "2 eggs",
+    "1 tablespoon vegetable oil",
+    "0.33333334326744 teaspoon salt",
+    "0.75 cup all-purpose flour"
+  ],
+  "steps": [
+    {
+      "text": "Whisk water, milk, eggs, vegetable oil, and salt together in a bowl. Slowly whisk flour into wet ingredients until incorporated. Let batter rest for 1 hour; stir again.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a lightly oiled griddle over medium-high heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drop batter by large spoonfuls onto the preheated griddle and cook until bubbles form and edges are dry, 2 to 4 minutes. Flip and cook until browned on the other side, 2 to 4 more minutes. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "86 kcal",
+    "carbohydrateContent": "10 g",
+    "cholesterolContent": "48 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "124 mg",
+    "sugarContent": "1 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cerqRrjKuV3q6TVxREh9Odj8ETo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1065787-d2972a854be8489c957abb1d2a428469.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232128/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

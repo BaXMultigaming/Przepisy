@@ -1,0 +1,85 @@
+{
+  "id": "232717",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/232717/fiesta-onions/",
+  "requested_url": "https://www.allrecipes.com/recipe/232717/fiesta-onions/",
+  "title": "Fiesta Onions",
+  "description": "This is a great salad for onion lovers!",
+  "authors": [
+    "mitch"
+  ],
+  "date_published": "2020-06-18T23:54:53-04:00",
+  "date_modified": "2025-03-01T10:47:31-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT310M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup white vinegar",
+    "0.5 cup water",
+    "0.75 cup white sugar",
+    "6 Spanish onions, thinly sliced",
+    "0.75 cup mayonnaise",
+    "1 tablespoon celery seed",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine vinegar and water in a large bowl. Whisk sugar into the vinegar mixture until dissolved. Add onion slices and marinate at least 3 hours; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk mayonnaise, celery seed, salt, and pepper together in a separate bowl; add to drained onion slices and fold to coat. Marinate at least 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "208 kcal",
+    "carbohydrateContent": "23 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "98 mg",
+    "sugarContent": "18 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1kFh5j70GYhIys9fK_14nu6VrL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1123779-9fcdb705b9cd44b3b222767018f45d89.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/232717/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
