@@ -1,0 +1,97 @@
+{
+  "id": "180300",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/180300/fruity-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/180300/fruity-chili/",
+  "title": "Fruity Chili Recipe",
+  "description": "This unique chili recipe is sweetened with banana peppers, apples, and peaches.",
+  "authors": [
+    "Melis72581"
+  ],
+  "date_published": "2020-06-18T23:38:10-04:00",
+  "date_modified": "2025-01-13T14:56:50-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT35M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "U.S."
+  ],
+  "regions": [
+    "U.S."
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (14 ounce) cans tomato sauce",
+    "2 (15 ounce) cans kidney beans, rinsed and drained",
+    "2 tablespoons chili powder",
+    "1 tablespoon white sugar",
+    "1 pinch cayenne pepper",
+    "1 pound ground beef",
+    "1 teaspoon cooking oil",
+    "0.5 red onion, chopped",
+    "1 banana pepper, chopped",
+    "1 apple - peeled, cored, and chopped",
+    "1 peach - peeled, pitted, and chopped"
+  ],
+  "steps": [
+    {
+      "text": "Combine tomato sauce, kidney beans, 2 tablespoons chili powder, 1 tablespoon sugar, and 1⁄8 teaspoon cayenne pepper in a large saucepan; bring to a simmer over low heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place a large skillet over medium-high heat; place ground beef in the skillet; season with remaining 2 tablespoons chili powder, 1 tablespoon sugar, and 1⁄8 teaspoon cayenne pepper; cook until brown; add to sauce mixture.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a small skillet over medium-high heat; cook onion in oil until slightly browned; add to sauce mixture, along with apple, peach, and banana pepper. Allow to simmer another 1 to 2 minutes until hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "259 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "17 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "820 mg",
+    "sugarContent": "10 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/401HYYHG_CAf1f0PsPkerZCcRQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1108157-0fb550d00871486a8b9959ed75915cd0.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/180300/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

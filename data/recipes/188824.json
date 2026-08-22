@@ -1,0 +1,95 @@
+{
+  "id": "188824",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/188824/cheesy-sausage-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/188824/cheesy-sausage-pasta/",
+  "title": "Cheesy Sausage Pasta",
+  "description": "This deliciously cheesy sausage pasta dish has a rich and creamy tomato-based sauce — it might just become your favorite macaroni recipe!",
+  "authors": [
+    "DoughertyDA"
+  ],
+  "date_published": "2019-04-02T02:51:40-04:00",
+  "date_modified": "2026-07-27T22:32:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT25M",
+  "total_time": "PT35M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) package uncooked pasta shells",
+    "1 tablespoon vegetable oil",
+    "0.5 tablespoon finely minced onion",
+    "1 orange bell pepper, thinly sliced",
+    "1 teaspoon minced garlic",
+    "1 pound bulk Italian sausage",
+    "1 (14.5 ounce) can stewed tomatoes",
+    "1 cup heavy cream",
+    "1 cup grated Parmesan cheese",
+    "1 tablespoon chopped fresh parsley"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Stir in pasta and return to a boil. Cook, stirring occasionally, until cooked through but still firm to the bite, about 13 minutes; drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Meanwhile, heat vegetable oil in a large skillet over medium-high heat. Add onion, orange pepper, and garlic; cook and stir until tender, about 5 minutes. Stir in Italian sausage; cook and stir until browned and cooked through, about 8 minutes. Stir in undrained tomatoes and heavy cream; reduce heat to medium-low and cook 5 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix pasta into sauce; stir in the Parmesan cheese and garnish with fresh parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "514 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "72 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "13 g",
+    "sodiumContent": "752 mg",
+    "sugarContent": "5 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "221"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HWrd5tXg39fPwh_1wRLdkkKWCCY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2143564-cheesy-sausage-pasta-Mia-Poulsen-4x3-1-e6000f9344344574a020dedbab54efe5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/188824/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

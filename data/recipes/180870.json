@@ -1,0 +1,86 @@
+{
+  "id": "180870",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/180870/broccoli-cashew-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/180870/broccoli-cashew-salad/",
+  "title": "Broccoli Cashew Salad",
+  "description": "The classic broccoli salad is made with with red onion, bacon and cashews. This is perfect for a party or potluck.",
+  "authors": [
+    "tignor"
+  ],
+  "date_published": "2020-06-18T23:38:15-04:00",
+  "date_modified": "2026-05-12T13:23:53-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT15M",
+  "total_time": "PT155M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound bacon",
+    "1 cup mayonnaise",
+    "2 teaspoons cider vinegar",
+    "0.5 cup white sugar",
+    "2 pounds fresh broccoli, broken into florets",
+    "0.5 cup raisins",
+    "1 cup roasted cashews",
+    "0.25 red onion, finely chopped"
+  ],
+  "steps": [
+    {
+      "text": "Place the bacon in a large, deep skillet, and cook over medium-high heat, turning occasionally, until evenly browned and crisp, about 10 minutes. Drain the bacon slices on a paper towel-lined plate. Cool bacon and crumble into pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk together the mayonnaise, cider vinegar, and sugar in a mixing bowl until the sugar has dissolved. Add the broccoli, raisins, cashews, onion, and crumbled bacon. Stir until evenly coated. Cover and refrigerate the salad for at least 2 hours. Let stand at room temperature 15 to 20 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "512 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "31 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "735 mg",
+    "sugarContent": "21 g",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "50"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/N9gdcxb2TYgopnL9GBa2kCM_hhs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3847204-broccoli-cashew-salad-Anavah-Glazer-4x3-1-61615c573b3f4fd89c1a64282a0e6c8d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/180870/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

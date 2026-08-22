@@ -1,0 +1,89 @@
+{
+  "id": "182112",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/182112/carrot-potato-and-cabbage-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/182112/carrot-potato-and-cabbage-soup/",
+  "title": "Carrot, Potato, and Cabbage Soup",
+  "description": "This hearty carrot, potato, and cabbage soup with onion, garlic, and savory seasonings is quick and simple to prepare. Make a big batch to freeze.",
+  "authors": [
+    "Dan Ladouceur"
+  ],
+  "date_published": "2019-04-02T02:51:23-04:00",
+  "date_modified": "2026-06-04T13:11:21-04:00",
+  "prep_time": "PT30M",
+  "cook_time": "PT20M",
+  "total_time": "PT50M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large carrots, thinly sliced",
+    "2 large potatoes, thinly sliced",
+    "1 large onion, thinly sliced",
+    "0.25 medium head green cabbage, thinly sliced",
+    "2 cloves garlic, smashed",
+    "6 cups chicken stock",
+    "1 tablespoon olive oil",
+    "1 teaspoon salt",
+    "1 teaspoon dried parsley",
+    "0.25 teaspoon dried thyme",
+    "0.25 teaspoon dried basil",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine carrots, potatoes, onion, cabbage, and garlic in a stockpot over medium-high heat. Pour in chicken stock and olive oil, then season with salt, parsley, thyme, basil, and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring to a simmer and cook until carrots are tender, about 20 minutes. Transfer to a blender in small batches and blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "161 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "1 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1196 mg",
+    "sugarContent": "5 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "458"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/FSbHklzh9k8QH7RDGhG_SfGOULQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/182112-carrot-potato-and-cabbage-soup-VAT-Beauty-4x3-a7d380db01f6498f8ff843513724b046.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/182112/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

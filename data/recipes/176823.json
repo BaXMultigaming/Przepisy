@@ -1,0 +1,86 @@
+{
+  "id": "176823",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/176823/macaroni-and-tomatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/176823/macaroni-and-tomatoes/",
+  "title": "Macaroni and Tomatoes",
+  "description": "This is a delicious side dish to add to about anything.",
+  "authors": [
+    "KThomas"
+  ],
+  "date_published": "2020-06-18T23:37:40-04:00",
+  "date_modified": "2026-03-16T08:25:37-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (8 ounce) package macaroni",
+    "1 tablespoon butter",
+    "1 teaspoon bacon grease",
+    "1 (8 ounce) can tomato sauce",
+    "1 (14.5 ounce) can chopped stewed tomatoes, with juice",
+    "0.5 teaspoon white sugar",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Once the water is boiling, stir in the macaroni, and return to a boil. Cook the pasta uncovered, stirring occasionally, until the pasta has cooked through, but is still firm to the bite, about 8 minutes. Drain well in a colander set in the sink.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour the macaroni into a saucepan and place over medium heat; stir in the butter, bacon grease, tomato sauce, stewed tomatoes with juice, and sugar; season with salt and pepper. Stir while cooking until butter and bacon grease has melted and incorporated completely, 5 to 10 minutes; remove from heat, cover, and allow to sit about 20 minutes before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "191 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "362 mg",
+    "sugarContent": "5 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "78"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/HVs1sZSsu9J05RLmSwG4L_NIMf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Macaroni-and-Tomatoes-lutzflcat-2000-d369319791a64585ad1e00ea459957b0.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/176823/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

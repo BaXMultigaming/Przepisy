@@ -1,0 +1,103 @@
+{
+  "id": "180917",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/180917/tom-and-jerry-batter/",
+  "requested_url": "https://www.allrecipes.com/recipe/180917/tom-and-jerry-batter/",
+  "title": "Tom and Jerry Batter",
+  "description": "This Tom and Jerry batter recipe is a sweet, frothy vintage topping made with beaten raw eggs, sugar, vanilla, and warm spices for a festive favorite.",
+  "authors": [
+    "drea"
+  ],
+  "date_published": "2019-04-02T02:51:20-04:00",
+  "date_modified": "2026-02-18T09:28:18-05:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "72",
+    "12 cups"
+  ],
+  "categories": [
+    "Beverage",
+    "Ingredient"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 large eggs, separated, divided",
+    "0.5 teaspoon salt",
+    "3 pounds confectioners' sugar",
+    "1 pound butter, room temperature",
+    "1 teaspoon vanilla extract",
+    "1 teaspoon ground nutmeg",
+    "1 teaspoon ground cloves",
+    "1 teaspoon ground allspice"
+  ],
+  "steps": [
+    {
+      "text": "Beat egg whites and salt in a large bowl until stiff peaks form. Lift beater straight up: egg whites should form stiff peaks that hold their shape.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/tkOV9CemYihydkdE2Vb_CWDD6oE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/180917-tom-and-jerry-step-01-5-acc76c220a464d128d47fa6638edd07a.jpg"
+      ],
+      "image": "assets/images/180917/step_01.webp"
+    },
+    {
+      "text": "Beat egg yolks in a separate large bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/dzDn17bJPUllOXOVzeTCWJwObcg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/180917-tom-and-jerry-step-02-1-844ac10a09fa4004b0f4e27b06aedc79.jpg"
+      ],
+      "image": "assets/images/180917/step_02.webp"
+    },
+    {
+      "text": "Beat confectioners' sugar and butter together in a third large bowl until light and fluffy; beat in egg yolks and vanilla. Stir in nutmeg, cloves, allspice, and egg whites until well blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/KBo_lmFYClesSRKgOCmpQzz87Fo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/180917-tom-and-jerry-step-05-cfc50f599d74406e8ca7e64bf6a1df30.jpg"
+      ],
+      "image": "assets/images/180917/step_03.webp"
+    },
+    {
+      "text": "Scoop batter onto drink of choice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/89-nTKs4pIfICxz41YAs-JMseTk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/180917-tom-and-jerry-step-06-1-7e632cc014034dd881984c59b6252f1a.jpg"
+      ],
+      "image": "assets/images/180917/step_04.webp"
+    }
+  ],
+  "nutrition": null,
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "85"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/7GYlfqfrV5mw9MDEkuoYncDiB-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/180917-tom-and-jerry-vat-05-4x3-LSH-eed57ca5b2ae4e74ae771fe6c1e389d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/180917/hero.webp",
+    "steps": [
+      "assets/images/180917/step_01.webp",
+      "assets/images/180917/step_02.webp",
+      "assets/images/180917/step_03.webp",
+      "assets/images/180917/step_04.webp"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "180107",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/180107/creamy-black-bean-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/180107/creamy-black-bean-dip/",
+  "title": "Creamy Black Bean Dip",
+  "description": "This lightly-flavored bean dip is a great appetizer. It is quick and easy to make. Serve with tortilla chips.",
+  "authors": [
+    "afb"
+  ],
+  "date_published": "2019-04-02T02:51:15-04:00",
+  "date_modified": "2022-07-26T12:12:14-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "6",
+    "2 cups"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15.5 ounce) can black beans, rinsed and drained",
+    "2.5 teaspoons balsamic vinegar",
+    "1.5 tablespoons ketchup",
+    "0.5 teaspoon apple cider vinegar",
+    "0.5 teaspoon salt",
+    "0.25 teaspoon onion powder",
+    "0.25 teaspoon chili powder"
+  ],
+  "steps": [
+    {
+      "text": "Combine the black beans, balsamic vinegar, ketchup, apple cider vinegar, salt, onion powder, and chili powder in a food processor; pulse until creamy. Serve at room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "72 kcal",
+    "carbohydrateContent": "14 g",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "518 mg",
+    "sugarContent": "1 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "ratingCount": "62"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QsrlGC1_xt1aQHFzG5AXAGW-3Fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Creamy-Black-Bean-Dip-Chef-Mo-4x3-1-2000-c2033171aaef433d9a4c9fa2cbc72a48.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/180107/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

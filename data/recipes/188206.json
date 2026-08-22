@@ -1,0 +1,84 @@
+{
+  "id": "188206",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/188206/cauliflower-side-dish/",
+  "requested_url": "https://www.allrecipes.com/recipe/188206/cauliflower-side-dish/",
+  "title": "Cauliflower Side Dish",
+  "description": "Make this recipe with just cauliflower, onion, Italian-seasoned bread crumbs, and butter for a quick and easy side dish.",
+  "authors": [
+    "ChristinaB"
+  ],
+  "date_published": "2019-04-02T02:51:37-04:00",
+  "date_modified": "2024-11-28T11:58:15-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 head cauliflower, quartered",
+    "1 tablespoon butter",
+    "1 cup minced onion",
+    "3 tablespoons butter",
+    "0.5 cup Italian-seasoned dry bread crumbs",
+    "salt and black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place the cauliflower into a large pot and cover with water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until fork-tender, 5 to 7 minutes. Drain and allow to steam dry for a minute or two; chop into bite-size pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt 1 tablespoon butter in a skillet over medium-high heat. Cook the onion in the butter until the onion is browned, about 5 minutes. Add 3 tablespoons of butter and cook until the butter is melted. Stir in the bread crumbs and cook until the mixture bubbles. Mix the cauliflower into the skillet and cook until the cauliflower is warm, 3 to 5 minutes. Season with salt and black pepper; serve hot.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "138 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "150 mg",
+    "sugarContent": "4 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "ratingCount": "75"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/z2Ji00W1BF-q2_hxr4Jgb2tp9Sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5599073-704dad60c443475f917fd46cdcbdaf3e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/188206/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

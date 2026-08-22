@@ -1,0 +1,81 @@
+{
+  "id": "187850",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/187850/egg-in-a-hole/",
+  "requested_url": "https://www.allrecipes.com/recipe/187850/egg-in-a-hole/",
+  "title": "Egg in a Hole",
+  "description": "Egg in a hole makes a hearty breakfast that’s ready to eat in 5 minutes. A runny yolk egg cooked in the center of a piece of toast… Delicious!",
+  "authors": [
+    "rosburn"
+  ],
+  "date_published": "2019-04-02T02:51:37-04:00",
+  "date_modified": "2026-08-05T13:43:50-04:00",
+  "prep_time": null,
+  "cook_time": "PT5M",
+  "total_time": "PT5M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 teaspoons bacon grease",
+    "1 slice bread",
+    "1 egg",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt bacon grease in a nonstick pan over low heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cut a 2-inch hole in the center of bread slice; place in the hot skillet and cook until lightly toasted, about 2 minutes. Flip bread and crack egg into the hole; season with salt and pepper. Continue to cook until egg is cooked and mostly firm; flip again and cook 1 minute more. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "208 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "285 mg",
+    "sugarContent": "2 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "373"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rsFlemL4CNFhWshOMFW9MHga7ks=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/187850-egg-in-a-hole-VAT-Beauty-4x3-91ba764cfc1f4a10a507a685fdbc3c10.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/187850/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

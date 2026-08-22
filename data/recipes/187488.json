@@ -1,0 +1,82 @@
+{
+  "id": "187488",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/187488/apricot-oat-bread/",
+  "requested_url": "https://www.allrecipes.com/recipe/187488/apricot-oat-bread/",
+  "title": "Apricot Oat Bread",
+  "description": "This bread machine recipe is sweetened with dried apricots and honey.",
+  "authors": [
+    "Kristen Mango"
+  ],
+  "date_published": "2020-06-18T23:38:58-04:00",
+  "date_modified": "2020-06-18T23:38:58-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT30M",
+  "total_time": "PT85M",
+  "yield": [
+    "12",
+    "1 loaf"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4.25 cups bread flour",
+    "0.66666668653488 cup rolled oats",
+    "1 tablespoon white sugar",
+    "2 teaspoons active dry yeast",
+    "1.5 teaspoons salt",
+    "1 teaspoon ground cinnamon",
+    "2 tablespoons butter, cut up",
+    "1.6666666269302 cups orange juice",
+    "0.5 cup diced dried apricots",
+    "2 tablespoons honey, warmed"
+  ],
+  "steps": [
+    {
+      "text": "Place bread ingredients in the pan of the bread machine in the order recommended by the manufacturer; add the dried apricots just before the knead cycle ends.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the bread promptly from the machine when it's finished, and glaze with the warmed honey. Allow to cool completely before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "80 kcal",
+    "carbohydrateContent": "14 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "306 mg",
+    "sugarContent": "10 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "17"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZC-M8MLsROBpicYiOAEIShqYsxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/234198-7cdb2668f41949b69862d4189b42e360.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/187488/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

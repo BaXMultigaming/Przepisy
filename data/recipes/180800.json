@@ -1,0 +1,67 @@
+{
+  "id": "180800",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/180800/freddie-bartholomew/",
+  "requested_url": "https://www.allrecipes.com/recipe/180800/freddie-bartholomew/",
+  "title": "Freddie Bartholomew",
+  "description": "Named after the British child actor. A yummy mocktail.",
+  "authors": [
+    "Ty"
+  ],
+  "date_published": "2020-06-18T23:38:15-04:00",
+  "date_modified": "2020-06-18T23:38:15-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 mocktail"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 dash sweetened lime juice (such as Rose's®)",
+    "0.5 cup ice cubes",
+    "0.5 (12 fluid ounce) can or bottle ginger ale",
+    "1 twist lime"
+  ],
+  "steps": [
+    {
+      "text": "Pour a dash of sweetened lime juice into a cocktail glass over ice, then pour in the ginger ale. Garnish with a twist of lime to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "66 kcal",
+    "carbohydrateContent": "17 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "21 mg",
+    "sugarContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/GYCKt2K1VZns-k8znwI0u24l25E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/682682-0e952962fa664f009751572297764d3a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/180800/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
