@@ -1,0 +1,108 @@
+{
+  "id": "263880",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/263880/bacon-okonomiyaki/",
+  "requested_url": "https://www.allrecipes.com/recipe/263880/bacon-okonomiyaki/",
+  "title": "Bacon Okonomiyaki",
+  "description": "Introduce bacon to your okonomiyaki recipe for a savory Japanese pancake loaded with cabbage, eggs, and soba noodles. Customize it to your liking.",
+  "authors": [
+    "whitney"
+  ],
+  "date_published": "2019-04-04T00:11:53-04:00",
+  "date_modified": "2025-05-20T11:25:41-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT50M",
+  "total_time": "PT60M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American",
+    "Japanese",
+    "Asian"
+  ],
+  "regions": [
+    "American",
+    "Japanese",
+    "Asian"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "0.5 cup water",
+    "0.5 cup all-purpose flour",
+    "2 teaspoons soy sauce",
+    "1 teaspoon baking powder",
+    "1 teaspoon salt",
+    "3 tablespoons vegetable oil",
+    "1 onion, diced",
+    "2 cups shredded cabbage",
+    "1 (8 ounce) package dried soba noodles",
+    "1 (8 ounce) package bacon, chopped"
+  ],
+  "steps": [
+    {
+      "text": "Whisk eggs, water, flour, soy sauce, baking powder, and salt together in a bowl; set batter aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a sauté pan over medium heat. Add onion; cook until soft and translucent, about 5 minutes. Stir onion into batter. Add cabbage to the same pan; cook until slightly wilted, 5 to 7 minutes. Stir cabbage into batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fill a large pot with water and bring to a boil. Cook soba noodles in boiling water, stirring occasionally, until tender yet firm to the bite, 5 to 7 minutes. Drain and cut noodles into shorter pieces; stir into batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook ¼ cup bacon in a skillet over medium-high heat until starting to crisp, 2 to 3 minutes; arrange in a small circle in middle of the skillet. Add 1 cup batter to the skillet on top bacon; cook until brown and crispy, flipping pancake halfway and pressing down with a spatula, about 5 minutes per side. Repeat with remaining bacon and batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "531 kcal",
+    "carbohydrateContent": "60 g",
+    "cholesterolContent": "206 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1808 mg",
+    "sugarContent": "3 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Ug2-E-nJ4fKPAiJh1cE0qj2Za7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5252699-e0156f58d35c420ea57a89e4e47724a3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/263880/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "263750",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/263750/flaming-greek-cheese-saganaki/",
+  "requested_url": "https://www.allrecipes.com/recipe/263750/flaming-greek-cheese-saganaki/",
+  "title": "Saganaki (Flaming Greek Cheese)",
+  "description": "Saganaki is a Greek appetizer made with fried kasseri cheese. Chef John&#39;s recipe includes flambéing the cheese for a show-stopping presentation!",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2018-04-07T02:37:59-04:00",
+  "date_modified": "2026-03-16T21:10:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner",
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Greek Inspired"
+  ],
+  "regions": [
+    "Greek Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (4 ounce) package kasseri cheese",
+    "1 tablespoon water, or as needed",
+    "0.25 cup all-purpose flour, or as needed",
+    "1 tablespoon olive oil",
+    "2 tablespoons brandy, at room temperature",
+    "0.5 lemon, or to taste",
+    "1 tablespoon freshly chopped Italian parsley"
+  ],
+  "steps": [
+    {
+      "text": "Brush each side of kasseri cheese with water; dredge both sides in flour, making sure the surface is completely covered.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat a well-seasoned cast iron skillet on medium-high heat until smoking; pour in olive oil. Carefully place floured cheese in hot oil and cook until cheese begins to ooze and a golden-brown crust forms, about 2 minutes. Quickly flip cheese over with a spatula. Fry until the bottom is golden brown, about 30 seconds more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from the heat and place skillet onto a napkin-lined plate. Pour brandy into the skillet over the cheese. Light the brandy using a fireplace lighter. Squeeze some lemon juice on top to extinguish the last few flames and garnish with parsley.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/ZAmLsgrAcgBLwJSUhWmxGkiv-4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-332-b07aa3c230c547f6941acf8092e9b55c.jpg"
+      ],
+      "image": "assets/images/263750/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "391 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "61 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "11 g",
+    "sodiumContent": "544 mg",
+    "sugarContent": "0 g",
+    "fatContent": "25 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "25"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/NKFikHJC-K3AjnAEN.mp4",
+    "description": "Saganaki is a Greek appetizer made with fried kasseri cheese. The ritual of adding brandy and flambéing the cheese was started by restaurateurs in Chicago.",
+    "duration": "PT6M59S",
+    "name": "Flaming Greek Cheese (Saganaki)",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/NKFikHJC/poster.jpg?width=1280",
+    "uploadDate": "2023-04-17T16:44:30-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZAmLsgrAcgBLwJSUhWmxGkiv-4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-332-b07aa3c230c547f6941acf8092e9b55c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/263750/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/263750/step_03.webp"
+    ]
+  }
+}

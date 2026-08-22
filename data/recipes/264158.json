@@ -1,0 +1,85 @@
+{
+  "id": "264158",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/264158/sweet-beet-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/264158/sweet-beet-smoothie/",
+  "title": "Beet Smoothie",
+  "description": "This beet smoothie is a delicious blend of avocado, banana, fresh pineapple, apple, and beets for a naturally sweet, colorful, and refreshing drink.",
+  "authors": [
+    "Brandy"
+  ],
+  "date_published": "2020-06-25T02:50:44-04:00",
+  "date_modified": "2024-11-26T02:26:00-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 smoothies"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 medium beets, scrubbed",
+    "1 green apple",
+    "1 avocado, peeled and pitted",
+    "0.75 cup fresh pineapple chunks",
+    "1 banana, peeled",
+    "ice cubes"
+  ],
+  "steps": [
+    {
+      "text": "Juice beets and green apples, including peels, in an electric juicer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine apple-beet juice, avocado, pineapple, banana, and ice in a high-speed blender; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "310 kcal",
+    "carbohydrateContent": "47 g",
+    "fiberContent": "13 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "76 mg",
+    "sugarContent": "27 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/vNt7YBNGhEutp8Cs1wd2kh9NIDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8148686-eb6a0058587e4a4092081da4ec68a158.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/264158/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

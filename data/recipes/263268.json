@@ -1,0 +1,82 @@
+{
+  "id": "263268",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/263268/breakfast-polenta-porridge/",
+  "requested_url": "https://www.allrecipes.com/recipe/263268/breakfast-polenta-porridge/",
+  "title": "Breakfast Polenta Porridge",
+  "description": "This vegan porridge is made with almond milk; polenta and almond meal replace the traditional grains and keep it gluten free.",
+  "authors": [
+    "EVELLINGSON"
+  ],
+  "date_published": "2020-03-05T00:17:30-05:00",
+  "date_modified": "2020-03-05T00:17:30-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups water",
+    "2 cups almond milk",
+    "0.75 cup dry polenta",
+    "0.25 cup almond meal",
+    "1 tablespoon brown sugar",
+    "1 teaspoon vanilla extract",
+    "1 cup mixed berries, sliced",
+    "2 pinches ground cinnamon"
+  ],
+  "steps": [
+    {
+      "text": "Bring water and almond milk to a boil in a medium saucepan. Add polenta and almond meal in a steady stream, whisking constantly to prevent lumps. Reduce heat to low and stir porridge frequently until thick, about 15 minutes. Stir in brown sugar and vanilla extract.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Ladle porridge into bowls and top with berries and a dash of cinnamon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "465 kcal",
+    "carbohydrateContent": "72 g",
+    "cholesterolContent": "5 mg",
+    "fiberContent": "9 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "725 mg",
+    "sugarContent": "22 g",
+    "fatContent": "15 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/gkCP94gcJp60o-nnLosO8qCHP-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/644020-cc1c66e956174276a293599817e8cba1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/263268/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

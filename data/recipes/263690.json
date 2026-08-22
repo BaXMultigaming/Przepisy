@@ -1,0 +1,113 @@
+{
+  "id": "263690",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/263690/easy-chicken-yakitori/",
+  "requested_url": "https://www.allrecipes.com/recipe/263690/easy-chicken-yakitori/",
+  "title": "Easy Chicken Yakitori",
+  "description": "Yakitori is the Japanese name for skewered chicken that is grilled and basted with a sweet and salty sauce of sake, soy sauce, mirin, and sugar.",
+  "authors": [
+    "ChefJackie"
+  ],
+  "date_published": "2020-06-19T00:27:36-04:00",
+  "date_modified": "2026-04-10T23:08:49-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Japanese"
+  ],
+  "regions": [
+    "Japanese"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "10 wooden skewers",
+    "4 skinless, boneless chicken thighs, cut into 1-inch cubes",
+    "4 scallions, sliced into 1-inch pieces",
+    "0.5 cup sake",
+    "0.5 cup soy sauce",
+    "3 tablespoons mirin",
+    "2 tablespoons white sugar",
+    "1 teaspoon vegetable oil, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Soak 10 wooden skewers in cold water for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Thread chicken pieces onto the soaked skewers, alternating with scallions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine sake, soy sauce, mirin, and sugar in a small saucepan and bring to a boil. Reduce heat and simmer for 5 minutes. Reserve 1/2 of the sauce for dipping.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a grill pan over high heat and lightly brush with vegetable oil. Add skewers and cook until chicken is no longer pink in the center, basting frequently with 1/2 of the sauce, 7 to 10 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/0gPPG_E82p9AtuJAEc0b-aCoSxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5290537-4fed39fa6c774f33aa77b5c23aff196e.jpg"
+      ],
+      "image": "assets/images/263690/step_04.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "276 kcal",
+    "carbohydrateContent": "15 g",
+    "cholesterolContent": "70 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "22 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "1871 mg",
+    "sugarContent": "12 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "10"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/IqyMCInZ-K3AjnAEN.mp4",
+    "description": "Chicken yakitori is an easy Japanese dish to make at home. Serve as an appetizer or with white rice and sake for a simple but special meal.",
+    "duration": "PT1M26S",
+    "name": "Easy Chicken Yakitori",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/IqyMCInZ/poster.jpg?width=1280",
+    "uploadDate": "2020-10-21T04:43:26-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0gPPG_E82p9AtuJAEc0b-aCoSxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5290537-4fed39fa6c774f33aa77b5c23aff196e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/263690/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      "assets/images/263690/step_04.webp"
+    ]
+  }
+}

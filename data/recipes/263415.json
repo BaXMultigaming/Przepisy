@@ -1,0 +1,80 @@
+{
+  "id": "263415",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/263415/easy-garlic-fried-shrimp/",
+  "requested_url": "https://www.allrecipes.com/recipe/263415/easy-garlic-fried-shrimp/",
+  "title": "Easy Garlic Fried Shrimp",
+  "description": "This is a super-quick and easy recipe for sauteed shrimp. Cook them for a few minutes on high heat, so they stay tender.",
+  "authors": [
+    "Nora"
+  ],
+  "date_published": "2020-06-19T00:27:27-04:00",
+  "date_modified": "2022-08-22T14:46:19-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons soy sauce",
+    "2 tablespoons water",
+    "1 teaspoon white sugar",
+    "3 tablespoons vegetable oil",
+    "5 cloves garlic, minced",
+    "1.25 pounds large shrimp, peeled and deveined"
+  ],
+  "steps": [
+    {
+      "text": "Stir together soy sauce, water, and sugar in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a large skillet over medium heat and cook garlic until lightly browned. Add shrimp in one layer and pour soy sauce mixture on top. Cook until shrimp are pink, 2 to 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "214 kcal",
+    "carbohydrateContent": "3 g",
+    "cholesterolContent": "216 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "700 mg",
+    "sugarContent": "1 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KkS61KEilOsS7oAqXA41GI-VH9U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5261921-5aa13ffbbdc0429b91bbd34d77af6a9f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/263415/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

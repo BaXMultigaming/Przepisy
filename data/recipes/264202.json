@@ -1,0 +1,88 @@
+{
+  "id": "264202",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/264202/horseradish-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/264202/horseradish-potato-salad/",
+  "title": "Horseradish Potato Salad",
+  "description": "This creamy potato, bacon, and egg salad gets an added zip from the prepared horseradish in the dressing.",
+  "authors": [
+    "jandeli"
+  ],
+  "date_published": "2020-06-19T00:28:06-04:00",
+  "date_modified": "2022-08-22T14:02:56-04:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT25M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds red potatoes, scrubbed and cubed",
+    "0.75 cup sour cream",
+    "0.5 cup mayonnaise",
+    "0.5 small red onion, chopped",
+    "1 rib celery, finely chopped",
+    "3 tablespoons white vinegar",
+    "2 tablespoons prepared horseradish",
+    "1 tablespoon dried parsley",
+    "1 teaspoon dried dill weed",
+    "1 teaspoon white sugar",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground black pepper",
+    "4 hard-cooked eggs, chopped",
+    "4 slices cooked bacon, crumbled"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain and cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix sour cream, mayonnaise, red onion, celery, vinegar, horseradish, parsley, dill, sugar, salt, and pepper together in a large bowl. Stir in cooled potatoes. Fold in eggs and bacon. Cover and chill until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "161 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "381 mg",
+    "sugarContent": "2 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "11"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wwONj62PNW4NoEncf6N36bX9JMU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5356457-b7db53b36ac5456aa014fc103a5ce578.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/264202/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
