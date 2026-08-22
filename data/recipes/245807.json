@@ -1,0 +1,82 @@
+{
+  "id": "245807",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245807/refreshing-coconut-lime-sorbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/245807/refreshing-coconut-lime-sorbet/",
+  "title": "Refreshing Coconut Lime Sorbet",
+  "description": "This coconut lime sorbet recipe is made with coconut cream, coconut water, coconut extract, and fresh lime juice and zest. The recipe yields three cups.",
+  "authors": [
+    "drewface"
+  ],
+  "date_published": "2016-01-06T17:26:45-05:00",
+  "date_modified": "2025-05-28T10:18:28-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT180M",
+  "yield": [
+    "10",
+    "3 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) can coconut cream",
+    "0.75 cup coconut water",
+    "0.5 cup lime juice",
+    "1 tablespoon lime zest",
+    "0.5 teaspoon coconut extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine coconut cream, coconut water, lime juice, lime zest, and coconut extract in a bowl. Cover with plastic wrap; chill in the refrigerator until flavors combine, at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour coconut mixture into an ice cream maker and freeze according to manufacturer's instructions. Transfer to an airtight container and freeze until firm, about 1 ½ hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "194 kcal",
+    "carbohydrateContent": "30 g",
+    "fiberContent": "0 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "38 mg",
+    "sugarContent": "27 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/DEHiQswY9a50nNvZArbtvHRxqZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3400216-408b30985aa14ec1ba1f1f1f7be27fd9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245807/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

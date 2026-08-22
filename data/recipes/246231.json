@@ -1,0 +1,94 @@
+{
+  "id": "246231",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246231/baked-banana-fritters/",
+  "requested_url": "https://www.allrecipes.com/recipe/246231/baked-banana-fritters/",
+  "title": "Baked Banana Fritters",
+  "description": "Baked banana fritters are breaded with bread crumbs, coconut, sugar, and cinnamon. These quick and easy banana fritters are a sweet, delicious treat.",
+  "authors": [
+    "Butler"
+  ],
+  "date_published": "2020-06-19T00:05:44-04:00",
+  "date_modified": "2024-12-16T10:01:08-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "4",
+    "10 fritters"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack",
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.33333334326744 cup dry bread crumbs",
+    "2 tablespoons dry shredded coconut",
+    "1 teaspoon white sugar",
+    "0.25 teaspoon ground cinnamon",
+    "1 egg white",
+    "2 bananas, cut into bite-size pieces"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine bread crumbs, coconut, sugar, and cinnamon in a bowl. Beat egg white in a small bowl until frothy. Dip 1 banana piece into beaten egg white; press into bread crumb mixture to coat. Place breaded banana piece, unstacked, on the prepared baking sheet. Repeat with remaining banana pieces.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until golden brown, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "112 kcal",
+    "carbohydrateContent": "21 g",
+    "fiberContent": "3 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "81 mg",
+    "sugarContent": "8 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/C5SBW3GGJ8wD1CPWo8MoMXSFdKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4933366-a05adca75fde40f3a5d264c87fab5e3c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246231/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

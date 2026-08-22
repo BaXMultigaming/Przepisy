@@ -1,0 +1,99 @@
+{
+  "id": "245899",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245899/savory-parmesan-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/245899/savory-parmesan-french-toast/",
+  "title": "Savory Parmesan French Toast",
+  "description": "Savory French toast made with whole wheat bread, eggs, milk, Parmesan, and pepper. A tasty recipe for a quick and easy cheesy take on French toast.",
+  "authors": [
+    "jhun"
+  ],
+  "date_published": "2019-04-02T03:06:02-04:00",
+  "date_modified": "2026-04-06T22:34:05-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "0.33333334326744 cup grated Parmesan cheese",
+    "0.25 cup milk",
+    "ground black pepper to taste",
+    "1 tablespoon butter, plus more as needed",
+    "4 slices whole wheat bread"
+  ],
+  "steps": [
+    {
+      "text": "Whisk eggs, Parmesan cheese, milk, and black pepper in a shallow bowl until light and fluffy, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a large skillet over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Dip both sides of each slice of bread in egg mixture; place bread in hot butter in the skillet. Cook until golden brown, 2 to 3 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer to a warmed plate and dot with butter to serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "204 kcal",
+    "carbohydrateContent": "13 g",
+    "cholesterolContent": "201 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "333 mg",
+    "sugarContent": "3 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mz5f_ZCZUva3Zh09heSou-bg9mk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3150135-0a1e80d9166844b9814e7e2cf289a529.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245899/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

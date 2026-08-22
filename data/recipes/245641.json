@@ -1,0 +1,70 @@
+{
+  "id": "245641",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245641/vanilla-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/245641/vanilla-syrup/",
+  "title": "Vanilla Syrup",
+  "description": "This simple, versatile vanilla syrup is made from real vanilla bean and makes a delicious addition to coffees, sodas, or cocktails.",
+  "authors": [
+    "skater girl"
+  ],
+  "date_published": "2020-06-19T00:04:10-04:00",
+  "date_modified": "2023-02-10T10:23:23-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "20",
+    "1 pint"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups white sugar",
+    "2 cups water, divided",
+    "0.25 vanilla bean"
+  ],
+  "steps": [
+    {
+      "text": "Microwave vanilla bean and 2 teaspoons water in a small microwave-safe bowl until softened, about 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bring sugar and remaining water to a boil in a saucepan. Split vanilla bean lengthwise on a work surface; scrape out seeds with the back of a knife. Add seeds and pod to saucepan; boil until syrup is thickened slightly, about 2 minutes. Remove from heat and cool to room temperature.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "78 kcal",
+    "carbohydrateContent": "20 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "20 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CPLCjsX5h30bdEtrpWSy6voB0ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3219141-b1f82c6f7bf048e889f66f4e79348b3b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245641/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

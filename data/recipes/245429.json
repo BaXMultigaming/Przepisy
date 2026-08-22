@@ -1,0 +1,102 @@
+{
+  "id": "245429",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245429/no-bake-energy-balls/",
+  "requested_url": "https://www.allrecipes.com/recipe/245429/no-bake-energy-balls/",
+  "title": "Energy Balls",
+  "description": "Energy balls are easy to make with oats, nutritious seeds, peanut butter, and chocolate chips for a fantastic on-the-go breakfast or healthier snack.",
+  "authors": [
+    "Kayla Janis"
+  ],
+  "date_published": "2016-06-04T10:15:03-04:00",
+  "date_modified": "2026-03-05T02:55:01-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT40M",
+  "yield": [
+    "20",
+    "20 energy balls"
+  ],
+  "categories": [
+    "Snack",
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup old-fashioned oats",
+    "0.5 cup peanut butter",
+    "0.5 cup ground flax seed",
+    "0.5 cup chocolate chips",
+    "0.33333334326744 cup honey",
+    "1 tablespoon chia seeds",
+    "1 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/wXOk15mliDkXXwfhYp85yoWMMHI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245429-No-Bake-energy-Balls-DDMFS-Step-1-0699-6d2e6b20127742efa56658d1e771347c.jpg"
+      ],
+      "image": "assets/images/245429/step_01.webp"
+    },
+    {
+      "text": "Combine oats, peanut butter, ground flaxseed, chocolate chips, honey, chia seeds, and vanilla extract together in a bowl. Cover and chill the dough in the refrigerator for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/yGi9Q2mu_wP-0yjWkesUnBdI6sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245429-No-Bake-energy-Balls-DDMFS-Step-4-0704-9cd6bf7fa68c4481ae7b1d05a4bc6341.jpg"
+      ],
+      "image": "assets/images/245429/step_02.webp"
+    },
+    {
+      "text": "Remove chilled dough from the refrigerator; roll into twenty 1-inch diameter balls.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/VwRNOZFJbiRqx5xPWxSbjfACmUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245429-No-Bake-energy-Balls-DDMFS-Step-5-0707-bac3c3e5043849ffa93a5616718daa01.jpg"
+      ],
+      "image": "assets/images/245429/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "114 kcal",
+    "carbohydrateContent": "13 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "32 mg",
+    "sugarContent": "8 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "237"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pqqG9jSGr598mH612nt0P5DRkC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245429-No-Bake-energy-Balls-DDMFS-3x4-0713-7f66685fb8334399afbc7ad1b0b3d401.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245429/hero.webp",
+    "steps": [
+      "assets/images/245429/step_01.webp",
+      "assets/images/245429/step_02.webp",
+      "assets/images/245429/step_03.webp"
+    ]
+  }
+}

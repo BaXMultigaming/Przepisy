@@ -1,0 +1,93 @@
+{
+  "id": "245900",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245900/savory-southwestern-waffles/",
+  "requested_url": "https://www.allrecipes.com/recipe/245900/savory-southwestern-waffles/",
+  "title": "Savory Southwestern Waffles",
+  "description": "Corn and green chile peppers make these quick and easy Southwestern waffles a spicy and savory treat fit for either breakfast or dinner.",
+  "authors": [
+    "Medea Wolff"
+  ],
+  "date_published": "2020-03-10T02:52:28-04:00",
+  "date_modified": "2020-03-10T02:52:28-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT3M",
+  "total_time": "PT13M",
+  "yield": [
+    "10",
+    "10 waffles"
+  ],
+  "categories": [
+    "Dinner",
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 eggs, separated",
+    "1.75 cups warm milk",
+    "0.33333334326744 cup butter, melted",
+    "2 tablespoons honey",
+    "1.25 cups cornmeal",
+    "1 cup all-purpose flour",
+    "4 teaspoons baking powder",
+    "2 teaspoons salt",
+    "0.5 cup corn",
+    "2 green chile peppers, seeded and minced, or more to taste"
+  ],
+  "steps": [
+    {
+      "text": "Preheat waffle iron according to manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat egg whites in a large bowl until fluffy. Fold in milk, butter, and honey. Add cornmeal, flour, baking powder, and salt, stirring slowly until batter is smooth. Fold in corn and green chile peppers.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Scoop some batter onto waffle iron; cook until golden brown and crisp or until waffle iron stops steaming, 3 to 4 minutes. Repeat with remaining batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "32 g",
+    "cholesterolContent": "57 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "738 mg",
+    "sugarContent": "7 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/3jCraZnzaWGdqgO_WhUEcrJTn6s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3169768-ef074863ccb84e6cb375af2fce9447c2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245900/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

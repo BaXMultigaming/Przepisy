@@ -1,0 +1,75 @@
+{
+  "id": "246246",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246246/simple-savory-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/246246/simple-savory-oatmeal/",
+  "title": "Simple Savory Oatmeal",
+  "description": "Bacon and Creole seasoning blend flavor this savory version of oatmeal; a hearty, nutritious breakfast ready in 5 minutes in your microwave.",
+  "authors": [
+    "dorkbean"
+  ],
+  "date_published": "2019-04-04T00:01:03-04:00",
+  "date_modified": "2026-04-24T12:25:28-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 cup"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "0.5 cup rolled oats",
+    "1 tablespoon cooked real bacon bits",
+    "1 teaspoon butter",
+    "0.5 teaspoon Creole seasoning (such as Tony Cachere's®)"
+  ],
+  "steps": [
+    {
+      "text": "Place water and oats in a microwave-safe bowl. Cook at 50% power, stirring half way through cooking, until oats are softened, 3 to 5 minutes. Stir in butter until melted. Stir in bacon bits and Creole seasoning until evenly distributed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "218 kcal",
+    "carbohydrateContent": "28 g",
+    "cholesterolContent": "16 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "495 mg",
+    "sugarContent": "0 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PsW7jDGzheehbWK7A8baLmwoCUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3315756-simple-savory-oatmeal-France-C-4x3-1-06b5306222f94f9fa673f9d2815dd6ae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246246/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

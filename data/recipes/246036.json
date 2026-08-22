@@ -1,0 +1,71 @@
+{
+  "id": "246036",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246036/cocoa-tea-mix-recipe/",
+  "requested_url": "https://www.allrecipes.com/recipe/246036/cocoa-tea-mix-recipe/",
+  "title": "Cocoa Tea Mix Recipe",
+  "description": "Hot cocoa mix and milk are stirred into freshly brewed tea for a unique, comforting drink with earthy sweetness.",
+  "authors": [
+    "Morgan13"
+  ],
+  "date_published": "2020-06-19T00:05:03-04:00",
+  "date_modified": "2020-06-19T00:05:03-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups boiling water",
+    "1 Earl Grey tea bag",
+    "3 tablespoons milk",
+    "1.5 tablespoons hot cocoa mix",
+    "2 teaspoons white sugar"
+  ],
+  "steps": [
+    {
+      "text": "Pour boiling water into a mug and steep tea bag, about 2 minutes. Remove tea bag; add milk, hot cocoa mix, and sugar. Stir until well-blended, about 20 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "103 kcal",
+    "carbohydrateContent": "21 g",
+    "cholesterolContent": "4 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "90 mg",
+    "sugarContent": "18 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.2",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QZBxmrjOlUJ2o4w0d5B2JLFazV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3311210-19196f703cbe42078eeb94a15313e2e1.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246036/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

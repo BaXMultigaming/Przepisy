@@ -1,0 +1,78 @@
+{
+  "id": "246224",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/246224/chicken-sweet-potato-and-spinach-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/246224/chicken-sweet-potato-and-spinach-soup/",
+  "title": "Chicken, Sweet Potato and Spinach Soup",
+  "description": "This chicken, sweet potato, and spinach soup recipe is a deceptively simple chicken broth-based soup with sweet potato, spinach, garlic, and chicken.",
+  "authors": [
+    "tellinglaurel"
+  ],
+  "date_published": "2018-06-08T10:25:49-04:00",
+  "date_modified": "2025-01-27T15:26:25-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "6",
+    "1 1/2 quarts"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch",
+    "Soup"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 sweet potato, peeled and cubed",
+    "3 (14.5 ounce) cans chicken stock",
+    "3 cups fresh baby spinach leaves",
+    "1 cup cooked roast chicken meat",
+    "1 clove garlic, minced",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Cook sweet potato in chicken stock in a stockpot over high heat until sweet potato is soft enough to pierce with a fork, about 10 minutes. Stir in spinach, chicken, and garlic; simmer until spinach is wilted and broth is reduced slightly, 10 to 15 minutes more. Season with salt and black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "84 kcal",
+    "carbohydrateContent": "6 g",
+    "cholesterolContent": "19 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "687 mg",
+    "sugarContent": "2 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/cwQtalk6h2mrm6ycK6S06-IbUuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3979023-e51a34c10e214f539fed20cdf29e56b3.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/246224/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

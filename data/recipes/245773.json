@@ -1,0 +1,82 @@
+{
+  "id": "245773",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/245773/breakfast-rice-from-japan/",
+  "requested_url": "https://www.allrecipes.com/recipe/245773/breakfast-rice-from-japan/",
+  "title": "Breakfast Rice from Japan",
+  "description": "This breakfast rice recipe combines leftover white or brown rice with scrambled egg and soy sauce for a deliciously crispy and filling breakfast.",
+  "authors": [
+    "caquilter"
+  ],
+  "date_published": "2019-04-02T03:05:56-04:00",
+  "date_modified": "2026-06-23T12:15:34-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Asian Inspired"
+  ],
+  "regions": [
+    "Asian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon vegetable oil",
+    "1 cup cold cooked rice, or more to taste",
+    "1 egg, or more to taste",
+    "2 green onions, sliced, or more to taste",
+    "2 teaspoons soy sauce, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large skillet over medium-high heat. Spread rice in a flat layer in hot oil; cook until crispy on the bottom, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir egg into rice until scrambled, about 2 minutes more. Sprinkle green onions on top and season with soy sauce.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "332 kcal",
+    "carbohydrateContent": "48 g",
+    "cholesterolContent": "186 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "674 mg",
+    "sugarContent": "1 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "65"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/TWpYNDueG5AWyU9U-peh-iO0v48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245773-breakfast-rice-from-japan-VAT-Beauty-4x3-3166331ab1f448169eb41db5659d10bd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/245773/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
