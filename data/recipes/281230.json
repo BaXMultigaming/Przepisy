@@ -1,0 +1,91 @@
+{
+  "id": "281230",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/281230/pasta-with-ricotta-and-turmeric/",
+  "requested_url": "https://www.allrecipes.com/recipe/281230/pasta-with-ricotta-and-turmeric/",
+  "title": "Pasta with Ricotta and Turmeric",
+  "description": "While fusilloni pasta cooks, whip up a quick sauce made with creamy fresh ricotta, ground turmeric, and a touch of pepper.",
+  "authors": [
+    "Buckwheat Queen"
+  ],
+  "date_published": "2020-08-10T17:02:04-04:00",
+  "date_modified": "2020-08-10T17:02:04-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Italian Inspired"
+  ],
+  "regions": [
+    "Italian Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 ounces fusilloni pasta",
+    "1 cup ricotta cheese, drained",
+    "0.25 cup finely grated Grana Padano cheese",
+    "1 teaspoon ground turmeric",
+    "0.5 teaspoon ground black pepper",
+    "1 pinch salt to taste"
+  ],
+  "steps": [
+    {
+      "text": "Bring a large pot of lightly salted water to a boil. Cook fusilloni in the boiling water, stirring occasionally, until tender yet firm to the bite, about 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Whisk ricotta, grated Grana padano, turmeric, and black pepper together in a bowl. Stir in enough pasta water to give the sauce a creamy consistency.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain the pasta, reserving a bit more pasta water. Fold the pasta into the sauce, adding a bit of pasta water if necessary. Season with salt.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "488 kcal",
+    "carbohydrateContent": "68 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "283 mg",
+    "sugarContent": "3 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Uz9QWfqxiDe5PTsxyvAYXfp4ZkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8442355-3da5e9824bf54e7796311ef0fd2f3e62.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/281230/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

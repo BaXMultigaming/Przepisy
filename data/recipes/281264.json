@@ -1,0 +1,95 @@
+{
+  "id": "281264",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/281264/glazed-salmon/",
+  "requested_url": "https://www.allrecipes.com/recipe/281264/glazed-salmon/",
+  "title": "Glazed Salmon",
+  "description": "This is a very quick and easy recipe for grilled salmon fillets, glazed with brown sugar, apple cider vinegar, and Dijon mustard.",
+  "authors": [
+    "Kim"
+  ],
+  "date_published": "2020-03-22T19:24:39-04:00",
+  "date_modified": "2020-03-22T19:24:39-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT70M",
+  "yield": [
+    "6",
+    "6 salmon fillets"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons dark brown sugar",
+    "2 tablespoons apple cider vinegar",
+    "2 tablespoons olive oil",
+    "1 teaspoon Dijon mustard",
+    "0.5 teaspoon coarsely ground black pepper",
+    "6 (3 ounce) fillets salmon fillets, thawed"
+  ],
+  "steps": [
+    {
+      "text": "Combine brown sugar, apple cider vinegar, olive oil, Dijon mustard, and pepper in a bowl for the marinade.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place salmon fillets into a shallow glass dish and pour 1/2 of the marinade over the fish. Reserve remaining marinade. Cover and refrigerate for 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil the grate. Discard marinade from the glass dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Grill salmon, brushing with reserved marinade several times, until it flakes easily with a fork, 4 to 6 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "177 kcal",
+    "carbohydrateContent": "5 g",
+    "cholesterolContent": "42 mg",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "57 mg",
+    "sugarContent": "4 g",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pzdZuVMmT_Fo709JUO61XvX56DI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8501289-64ad48bf1bf74d54b49c560085a4422c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/281264/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

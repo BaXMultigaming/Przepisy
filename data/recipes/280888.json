@@ -1,0 +1,84 @@
+{
+  "id": "280888",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280888/23600/",
+  "requested_url": "https://www.allrecipes.com/recipe/280888/23600/",
+  "title": "23600",
+  "description": "This is how I fry an egg.",
+  "authors": [
+    "OneCMS User"
+  ],
+  "date_published": "2020-07-09T16:58:39-04:00",
+  "date_modified": "2020-07-09T16:58:39-04:00",
+  "prep_time": "PT2M",
+  "cook_time": "PT5M",
+  "total_time": "PT7M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 eggs",
+    "2 tablespoons butter",
+    "1 pinch salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a saucepan.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Fry eggs in melted butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "403 mg",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "299 mg",
+    "sugarContent": "1 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/JiFl_sE-5cy7Iqz9yBSjlv3BcGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8323779-ad39f470b4f34aac8fdb1f84da581f18.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280888/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

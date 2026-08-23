@@ -1,0 +1,89 @@
+{
+  "id": "280934",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280934/easy-blueberry-coulis/",
+  "requested_url": "https://www.allrecipes.com/recipe/280934/easy-blueberry-coulis/",
+  "title": "Easy Blueberry Coulis",
+  "description": "This easy blueberry coulis is made with frozen blueberries and flavored with a hint of Grand Marnier.",
+  "authors": [
+    "Bren"
+  ],
+  "date_published": "2020-07-07T23:20:53-04:00",
+  "date_modified": "2020-07-07T23:20:53-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Dinner",
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups frozen blueberries, thawed",
+    "2 tablespoons white sugar",
+    "1 teaspoon freshly squeezed lemon juice",
+    "1 lemon, zested",
+    "1 tablespoon water",
+    "0.5 tablespoon cornstarch",
+    "2 teaspoons brandy-based orange liqueur (such as Grand Marnier®)"
+  ],
+  "steps": [
+    {
+      "text": "Combine blueberries, sugar, lemon juice, and zest in a small pot and bring to a simmer over medium heat. Cook, stirring frequently, for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir water and cornstarch together in a small bowl and add slurry to the pot. Cook until the mixture thickens, about 30 seconds.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the pot from the burner and stir in orange liqueur. Pour coulis into a fine-mesh strainer and use the back of a spoon to force the liquid through. Serve hot or cold.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "36 g",
+    "fiberContent": "5 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "3 mg",
+    "sugarContent": "28 g",
+    "fatContent": "1 g",
+    "servingSize": "1 /4 cup blueberry coulis",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6Px3Ksn0TV34DgmwyKKSJiX-_Hk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Blueberry-Coulis-Yoly-f54c31aac63847d09bbfa975a6d83348.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280934/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

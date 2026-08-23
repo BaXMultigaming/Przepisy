@@ -1,0 +1,86 @@
+{
+  "id": "281361",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/281361/coffee-syrup/",
+  "requested_url": "https://www.allrecipes.com/recipe/281361/coffee-syrup/",
+  "title": "Coffee Syrup",
+  "description": "This coffee simple syrup recipe is easy to make and versatile — pour it over pancakes, add to a glass of milk or a cocktail, or mix into baked recipes.",
+  "authors": [
+    "Uzo Orimalade"
+  ],
+  "date_published": "2020-08-20T00:49:16-04:00",
+  "date_modified": "2026-03-31T12:32:25-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT55M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Drink",
+    "Ingredient",
+    "Coffee"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup white sugar",
+    "1 cup water",
+    "3 tablespoons ground coffee"
+  ],
+  "steps": [
+    {
+      "text": "Combine sugar, water, and ground coffee in a saucepan over medium heat; cook, stirring often, until sugar dissolves and mixture comes to a rolling boil, about 10 minutes. Reduce heat to low; cook, stirring occasionally, for 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from heat; cool, about 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Strain syrup through a fine-mesh sieve into a lidded container; cover. Store in the refrigerator.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "196 kcal",
+    "carbohydrateContent": "50 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "4 mg",
+    "sugarContent": "50 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/Q_usq4DBac2P_h-VHjDnSEoUgIg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8462789-coffee-syrup-Uzo-Orimalade-4x3-1-7c5f70d153b8442e887abef5d6b1ad02.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/281361/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "281400",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/281400/bacon-onion-butter/",
+  "requested_url": "https://www.allrecipes.com/recipe/281400/bacon-onion-butter/",
+  "title": "Bacon-Onion Butter",
+  "description": "Bacon-onion butter makes everything taste better. Try it on biscuits, a grilled cheese sandwich, crostini, roasted veggies, potatoes, grilled meats, or scrambled eggs.",
+  "authors": [
+    "lutzflcat"
+  ],
+  "date_published": "2020-08-20T18:52:26-04:00",
+  "date_modified": "2020-08-20T18:52:26-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "8",
+    "8 tablespoons"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 slices bacon",
+    "1 stick unsalted butter, softened",
+    "1 tablespoon dry onion soup mix"
+  ],
+  "steps": [
+    {
+      "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned and crisp, 6 to 8 minutes. Drain bacon slices on paper towels. Allow to cool, then crumble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place softened butter in a small bowl and mash with a fork. Stir in the bacon and dry onion soup mix until well blended.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Store in an airtight container or transfer to a large piece of plastic wrap, form into a log, and wrap tightly, twisting the edges to seal. Keep refrigerated until serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "121 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "34 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "118 mg",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wcxEGVmyVvuRBOK4liNLja4ugNE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8464632-a96ea020b1ad425cba37fb433254f04c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/281400/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

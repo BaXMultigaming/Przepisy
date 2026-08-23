@@ -1,0 +1,101 @@
+{
+  "id": "281193",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/281193/chef-johns-watermelon-pizza/",
+  "requested_url": "https://www.allrecipes.com/recipe/281193/chef-johns-watermelon-pizza/",
+  "title": "Chef John&#39;s Watermelon Pizza",
+  "description": "Chef John pairs sweet, juicy watermelon with fresh mint and briny olives and feta for a summer-ready dish that will surprise!",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-08-06T21:14:49-04:00",
+  "date_modified": "2020-08-11T23:56:35-04:00",
+  "prep_time": "PT30M",
+  "cook_time": null,
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 slices"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large seedless watermelon",
+    "1.5 cups crumbled feta cheese",
+    "0.5 cup sliced green olives",
+    "0.5 cup sliced Kalamata olives",
+    "0.5 cup thinly sliced fresh mint leaves",
+    "1 pinch freshly ground black pepper to taste",
+    "2 tablespoons rice vinegar",
+    "2 tablespoons olive oil"
+  ],
+  "steps": [
+    {
+      "text": "Slice watermelon in half lengthwise, then each half lengthwise into quarters. Cut uniformly thick slices from the center of each quarter and place on plates or trays.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove any of the soft, white seeds, and use the tip of a spoon to make small, shallow divots in the surface to help hold the toppings.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Scatter some feta cheese, olives, and mint over the slices and season lightly with freshly ground black pepper. Drizzle each slice with a touch of rice vinegar and olive oil. Serve immediately or cover and refrigerate until needed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/jshw7RR0GlUOy5I5Hx8U4vwGVu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8430958-fa48beab7ccb4317874c19c658ac959f.jpg"
+      ],
+      "image": "assets/images/281193/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "527 kcal",
+    "carbohydrateContent": "88 g",
+    "cholesterolContent": "42 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "886 mg",
+    "sugarContent": "72 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "5"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/TsGSwCP9-K3AjnAEN.mp4",
+    "description": "Have a sweet and salty vegetarian alternative to pizza with this recipe. In this video, Chef John shows you how to make watermelon pizza with feta cheese and olives. This simple and flavorful meal is made by taking a few slices of watermelon and adding, alongside the feta and olives, black pepper, mint, and a few drops of olive oil and rice vinegar. The combination of flavors makes for a delicious and healthy pizza substitute!",
+    "duration": "PT5M51S",
+    "name": "How to Make Watermelon Pizza",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/TsGSwCP9/poster.jpg?width=1280",
+    "uploadDate": "2023-03-08T14:14:46-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jshw7RR0GlUOy5I5Hx8U4vwGVu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8430958-fa48beab7ccb4317874c19c658ac959f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/281193/hero.webp",
+    "steps": [
+      null,
+      null,
+      "assets/images/281193/step_03.webp"
+    ]
+  }
+}
