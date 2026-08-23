@@ -1,0 +1,89 @@
+{
+  "id": "282627",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/282627/beef-and-red-cabbage-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/282627/beef-and-red-cabbage-soup/",
+  "title": "Beef and Red Cabbage Soup",
+  "description": "This delicious red cabbage soup is perfect for lunch but hearty enough for dinner too, thanks to the addition of ground beef, beans, and warm spices.",
+  "authors": [
+    "Mike E"
+  ],
+  "date_published": "2020-01-22T23:12:20-05:00",
+  "date_modified": "2024-02-18T08:32:17-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT135M",
+  "total_time": "PT150M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 cup diced red onion",
+    "1 cup chopped carrot",
+    "2 cloves garlic, minced",
+    "4 cups coarsely chopped red cabbage",
+    "4 cups beef broth",
+    "2 cups water",
+    "1 (15 ounce) can pinto beans, rinsed and drained",
+    "1 (6 ounce) can tomato paste",
+    "2 teaspoons salt",
+    "1 teaspoon ground cumin",
+    "1 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Heat a large soup pot over medium-high heat. Add ground beef; cook and stir until browned and crumbly, 5 to 7 minutes. Drain and discard grease.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add onion and carrot to the pot; sauté until onion is translucent, about 5 minutes, adding garlic during the last minute. Add cabbage, broth, water, pinto beans, tomato paste, salt, cumin, and pepper. Bring to a boil, then reduce the heat, cover, and simmer for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "356 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "67 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "29 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "1624 mg",
+    "sugarContent": "10 g",
+    "fatContent": "14 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/zfNHiMxBlNYpXQf31aAUqCO8Uyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7645234-a6c94b03ff194bf9b8546bee6f235560.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/282627/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

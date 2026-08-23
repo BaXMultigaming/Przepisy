@@ -1,0 +1,67 @@
+{
+  "id": "282582",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/282582/aquafaba-mayonnaise/",
+  "requested_url": "https://www.allrecipes.com/recipe/282582/aquafaba-mayonnaise/",
+  "title": "Aquafaba Mayonnaise",
+  "description": "This mayonnaise is vegan and quick and easy to prepare, starting with canned chickpea liquid (aquafaba).",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2020-12-04T00:18:16-05:00",
+  "date_modified": "2020-12-04T00:18:16-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "8",
+    "1 cup"
+  ],
+  "categories": [],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup aquafaba (liquid from can of chickpeas)",
+    "1.5 teaspoons apple cider vinegar",
+    "0.5 teaspoon sea salt",
+    "0.5 teaspoon dry mustard",
+    "1 (1 gram) packet stevia powder",
+    "1 cup canola oil, or more as needed"
+  ],
+  "steps": [
+    {
+      "text": "Place aquafaba, apple cider vinegar, salt, mustard, and stevia in a tall Mason jar. Using an immersion blender, start blending while slowly streaming in the oil. Blend until mayonnaise is thick and creamy, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "254 kcal",
+    "carbohydrateContent": "0 g",
+    "proteinContent": "0 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "110 mg",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/8nazSnRIneRGusm2m8zwLSy2L6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8800626-8e1f37e2c99d4269ac24b94803c4fc03.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/282582/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

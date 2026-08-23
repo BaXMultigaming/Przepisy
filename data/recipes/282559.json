@@ -1,0 +1,71 @@
+{
+  "id": "282559",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/282559/delicious-fruity-green-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/282559/delicious-fruity-green-smoothie/",
+  "title": "Delicious Fruity Green Smoothie",
+  "description": "This delicious green smoothie has pineapple, mango, banana, blueberries, and greens of your choice and takes just minutes to make.",
+  "authors": [
+    "Wallace S"
+  ],
+  "date_published": "2020-07-12T22:51:54-04:00",
+  "date_modified": "2020-07-12T22:51:54-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup chopped kale",
+    "0.75 cup water",
+    "1 medium banana, broken into chunks",
+    "0.5 cup fresh blueberries",
+    "0.5 cup frozen pineapple",
+    "0.5 cup frozen mango"
+  ],
+  "steps": [
+    {
+      "text": "Combine kale and water in a blender; process until no chunks remain. Add banana, blueberries, pineapple, and mango; blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "137 kcal",
+    "carbohydrateContent": "35 g",
+    "fiberContent": "4 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "19 mg",
+    "sugarContent": "21 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ewgd4xfvWpAT3eFbMfJEkuZRaKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9187317-31854454a2cd41cb811d5775c7cfa55c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/282559/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

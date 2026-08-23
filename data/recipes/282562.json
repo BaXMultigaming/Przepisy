@@ -1,0 +1,70 @@
+{
+  "id": "282562",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/282562/easy-and-tasty-green-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/282562/easy-and-tasty-green-smoothie/",
+  "title": "Easy and Tasty Green Smoothie",
+  "description": "This tasty green smoothie with spinach, fruit, and flaxseed is perfect for breakfast or a midday snack.",
+  "authors": [
+    "Joseph Alvarado"
+  ],
+  "date_published": "2015-01-31T04:58:12-05:00",
+  "date_modified": "2015-01-31T04:58:12-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "1 cup fresh spinach",
+    "1 medium navel orange, peeled and cut into chunks",
+    "0.5 medium banana",
+    "1 tablespoon flaxseed meal"
+  ],
+  "steps": [
+    {
+      "text": "Combine water, spinach, orange chunks, banana, and flaxseed in a blender; process until smooth, 30 seconds to 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "176 kcal",
+    "carbohydrateContent": "36 g",
+    "fiberContent": "8 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "34 mg",
+    "sugarContent": "23 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/WGeVaUNDODJlg0Z6nKdYdCRhWlQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-and-Tasty-Green-Smoothie-Yoly-4x3-1-2000-e0743cd9a1364854810e6f29f373396c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/282562/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

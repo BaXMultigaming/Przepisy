@@ -1,0 +1,85 @@
+{
+  "id": "282664",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/282664/whipped-iced-hot-chocolate-coffee/",
+  "requested_url": "https://www.allrecipes.com/recipe/282664/whipped-iced-hot-chocolate-coffee/",
+  "title": "Whipped Iced Hot Chocolate Coffee",
+  "description": "Made with all of the flavors of hot chocolate, this iced coffee drink is sure to cool you down.",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2020-12-13T22:59:37-05:00",
+  "date_modified": "2025-04-15T12:44:43-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 iced coffee"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage",
+    "Coffee"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "ice",
+    "1 cup cold brew coffee",
+    "1 (1 gram) packet stevia sweetener",
+    "5 tablespoons heavy whipping cream",
+    "1 (.55 ounce) package instant hot cocoa mix (such as Swiss Miss®)"
+  ],
+  "steps": [
+    {
+      "text": "Fill a tall glass with ice and pour cold brew coffee on top. Stir in sweetener and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine cream and hot chocolate mix in a tall bowl and mix with an electric mixer until well combined. Pour whipped hot chocolate mix over the iced coffee.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "321 kcal",
+    "carbohydrateContent": "16 g",
+    "cholesterolContent": "102 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "18 g",
+    "sodiumContent": "111 mg",
+    "sugarContent": "10 g",
+    "fatContent": "28 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/domC-ZDuKAxX0Q7HvapHPVxoTNw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8835231-884cea9594be4f62a4d28e19cc3b7d2d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/282664/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

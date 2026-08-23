@@ -1,0 +1,82 @@
+{
+  "id": "282276",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/282276/tender-garlic-green-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/282276/tender-garlic-green-beans/",
+  "title": "Tender Garlic Green Beans",
+  "description": "Green beans and garlic are sauteed in a buttery spread and simmered in vegetable broth until perfectly tender.",
+  "authors": [
+    "Country Crock"
+  ],
+  "date_published": "2020-11-09T23:15:00-05:00",
+  "date_modified": "2025-04-07T01:39:33-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT12M",
+  "total_time": "PT17M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons Country Crock® Spread",
+    "2 cloves garlic, chopped",
+    "1 pound fresh green beans, trimmed",
+    "0.5 cup vegetable broth",
+    "Salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat Country Crock® Spread in large nonstick skillet over medium heat. Add garlic and cook 30 seconds. Add green beans and cook 5 minutes or until tender crisp, stirring occasionally.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add broth and simmer 5 minutes or until green beans are tender. Season to taste with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "27 kcal",
+    "carbohydrateContent": "6 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "sodiumContent": "43 mg",
+    "sugarContent": "1 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/rief0ByOklXk9uQJFBs-GLbuM8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Garlic-Green-Beans-2000-9aaf43a65b8243a2b271d2baf76d3ff2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/282276/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

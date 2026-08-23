@@ -1,0 +1,81 @@
+{
+  "id": "282453",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/282453/5-ingredient-vegetarian-chili/",
+  "requested_url": "https://www.allrecipes.com/recipe/282453/5-ingredient-vegetarian-chili/",
+  "title": "5-Ingredient Vegetarian Chili",
+  "description": "This vegetarian chili is made with 5 ingredients that you most likely have on hand. It&#39;s quick to make and delicious served in a bowl with cornbread.",
+  "authors": [
+    "Senalishia"
+  ],
+  "date_published": "2010-03-30T19:01:37-04:00",
+  "date_modified": "2024-06-19T13:51:41-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT30M",
+  "total_time": "PT35M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon olive oil",
+    "1 small onion, diced",
+    "1 (28 ounce) can diced tomatoes",
+    "2 (15 ounce) cans black beans, drained",
+    "1 tablespoon chili powder, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a large saucepan over medium heat. Add onions and sauté until transparent, 5 to 7 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add tomatoes, beans, and chili powder; bring to a simmer. Cook, stirring occasionally, for 20 minutes or longer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "173 kcal",
+    "carbohydrateContent": "29 g",
+    "fiberContent": "11 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "789 mg",
+    "sugarContent": "6 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/81TsZjLGcXP5f0PhhufK3P6HWkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5-Ingredient-Vegetarian-Chili-2000-4d0b1a2c14c7418fa530d39951bf6aab.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/282453/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
