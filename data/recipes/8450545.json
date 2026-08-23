@@ -1,0 +1,81 @@
+{
+  "id": "8450545",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8450545/ninja-creami-banana-ice-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/8450545/ninja-creami-banana-ice-cream/",
+  "title": "Ninja Creami Banana Ice Cream",
+  "description": "Use your Ninja Creami to whip up this delicious banana ice cream with only 5 ingredients.",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2022-08-09T11:03:48-04:00",
+  "date_modified": "2023-11-25T06:51:38-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT1450M",
+  "yield": [
+    "8"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup mashed ripe bananas",
+    "1 cup whole milk",
+    "0.33 cup sugar",
+    "1 tablespoon sour cream",
+    "0.75 cup heavy whipping cream"
+  ],
+  "steps": [
+    {
+      "text": "Combine bananas, milk, sugar and sour cream in a bowl. Use a hand mixer or immersion blender to fully incorporate all ingredients. Add heavy whipping cream and stir with a spoon until combined. Pour into 2 Ninja Creami pint containers. Freeze for 24 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Following manufacturers instructions, insert pint container into outer bowl. Push 'Ice Cream' button. When done spinning, push 'Re-spin' button.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "156 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "22 mg",
+    "fatContent": "10 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YnDXJiTRbqfKV5MmFqsu9OqHd5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1659213344Banana20Ice20Cream20for20Ninja20Creami-2000-c8cdbd0f3b924a4593afe3ad4dce1f0f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8450545/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

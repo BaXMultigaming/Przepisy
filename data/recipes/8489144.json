@@ -1,0 +1,90 @@
+{
+  "id": "8489144",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8489144/tarragon-mustard-sauce-for-salmon/",
+  "requested_url": "https://www.allrecipes.com/recipe/8489144/tarragon-mustard-sauce-for-salmon/",
+  "title": "Tarragon-Mustard Sauce for Salmon",
+  "description": "A simple cream sauce with Dijon mustard and tarragon that pairs well with salmon fillets.",
+  "authors": [
+    "lutzflcat"
+  ],
+  "date_published": "2022-10-04T11:43:42-04:00",
+  "date_modified": "2024-11-24T02:14:54-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT6M",
+  "total_time": "PT16M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "2 tablespoons finely minced shallots",
+    "2 tablespoons dry white wine (such as Chardonnay)",
+    "0.5 cup half-and-half",
+    "2 tablespoons chopped fresh tarragon",
+    "2 tablespoons Dijon mustard",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a small saucepan over medium heat. Add shallots and cook until softened, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in white wine, scraping up any brown bits on the bottom of the pan. Allow wine to evaporate, then slowly add half and half, tarragon, and Dijon mustard while stirring. Lower the heat and cook, stirring constantly, until sauce reaches desired consistency, about 2 minutes. Season with salt and freshly ground black pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon sauce over salmon and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "89 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "11 mg",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "201 mg",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/yT5H-gGAyobOafd29vE7pe9kydc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Creamy-Mustard-Sauce-for-Salmon-2000-301118e6c23b4b60b00056854d1e17a5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8489144/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

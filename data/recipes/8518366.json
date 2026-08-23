@@ -1,0 +1,88 @@
+{
+  "id": "8518366",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8518366/microwave-mashed-potatoes/",
+  "requested_url": "https://www.allrecipes.com/recipe/8518366/microwave-mashed-potatoes/",
+  "title": "Microwave Mashed Potatoes",
+  "description": "Mashed potatoes simply cooked in the microwave made with fresh potatoes. Top with your choice of gravy and chives if desired.",
+  "authors": [
+    "Soup Loving Nicole"
+  ],
+  "date_published": "2023-01-11T15:43:32-05:00",
+  "date_modified": "2024-11-28T01:32:10-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 pounds russet potatoes, peeled and cubed",
+    "2 tablespoons salted butter",
+    "0.25 cup milk",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place cubed potatoes in a microwave safe dish. Cover with water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Microwave until soft on high, about 20 minutes. Drain in a colander.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place drained potatoes back in the dish. Add butter and milk. Using a potato masher, smash mixture to desired consistency. Season with salt and pepper to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "233 kcal",
+    "carbohydrateContent": "40 g",
+    "cholesterolContent": "17 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "5 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "61 mg",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tsrOrG_VECzFlTA_XW_uVsza7gk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1670817872Micro20Mashed20Potatoes-2000-528bd3464920416b8b875265a4c5de47.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8518366/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

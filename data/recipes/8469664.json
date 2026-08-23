@@ -1,0 +1,95 @@
+{
+  "id": "8469664",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8469664/buffalo-chicken-grilled-cheese/",
+  "requested_url": "https://www.allrecipes.com/recipe/8469664/buffalo-chicken-grilled-cheese/",
+  "title": "Buffalo Chicken Grilled Cheese",
+  "description": "Buffalo chicken with blue cheese and pepper jack meets grilled cheese in this quick and easy sandwich.",
+  "authors": [
+    "Chef Mo"
+  ],
+  "date_published": "2022-09-07T14:26:41-04:00",
+  "date_modified": "2022-09-07T14:26:41-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "1 sandwich"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 tablespoons Buffalo wing sauce",
+    "0.5 cup shredded cooked chicken",
+    "2 slices white bread",
+    "1 slice pepper Jack cheese",
+    "3 tablespoons crumbled blue cheese",
+    "1 tablespoon butter, softened"
+  ],
+  "steps": [
+    {
+      "text": "Combine shredded chicken, buffalo wing sauce, and blue cheese in a small bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat a small skillet over medium heat.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spread 1/2 tablespoon butter on one side of a slice of bread. Place bread butter-side-down onto the skillet bottom and place pepper Jack cheese on top. Top with chicken mixture. Butter a second slice of bread with remaining butter on one side and place on top of sandwich, butter-side-up.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook sandwich in skillet until lightly browned bread and flip over; about 2 1/2 minutes per side.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "531 kcal",
+    "carbohydrateContent": "30 g",
+    "cholesterolContent": "117 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "32 g",
+    "saturatedFatContent": "16 g",
+    "sodiumContent": "1527 mg",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/LPRwsJiRqCDTzeuMNN2vYoduzGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Buffalo-Chicken-Grilled-Cheese-Sandwich-Chef-Mo-4x3-1-7f17fd5eabc04387aedd98c29213610c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8469664/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

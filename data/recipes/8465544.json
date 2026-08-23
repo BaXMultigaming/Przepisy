@@ -1,0 +1,98 @@
+{
+  "id": "8465544",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8465544/basted-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/8465544/basted-eggs/",
+  "title": "Basted Eggs",
+  "description": "This quick and easy basted egg recipe results in set whites and creamy, runny yolks, perfect for breakfast, brunch, or a snack.",
+  "authors": [
+    "Marianne Williams"
+  ],
+  "date_published": "2022-09-14T11:39:01-04:00",
+  "date_modified": "2026-06-10T11:24:11-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "2 eggs"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "1.5 tablespoons salted butter",
+    "2 large eggs",
+    "1 tablespoon water",
+    "0.125 teaspoon freshly ground black pepper",
+    "1 pinch flaky sea salt, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a medium nonstick skillet over medium heat. Carefully crack eggs into the skillet and let cook until whites have almost set, about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/YEA2Gv6V8NZu2FO7U768DjIRdp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basted-eggs-mfs-step-2-60-b166b97a549b40c0880bd5717ee3d1fc.jpg"
+      ],
+      "image": "assets/images/8465544/step_01.webp"
+    },
+    {
+      "text": "Add water, cover skillet with a lid or cookie sheet, reduce heat to medium-low.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/aLJiUxvLZdO_aa52qzgZb7TX7vc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basted-eggs-mfs-step-3-62-d029509c5f344c42bdb9fe39f5639517.jpg"
+      ],
+      "image": "assets/images/8465544/step_02.webp"
+    },
+    {
+      "text": "Let cook until whites have set, yolks are still runny, and some of white has set over yolk, 1 to 2 more minutes. Remove lid and transfer eggs to a serving plate. Garnish with pepper and flaky salt, if desired. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "296 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "418 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "14 g",
+    "sodiumContent": "583 mg",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qiO1jnc8bfjU6pAe3Xiix5cYkRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basted-eggs-mfs-4x3-80-1-2000-ee0e8767f2c44494980b349c39a116cd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8465544/hero.webp",
+    "steps": [
+      "assets/images/8465544/step_01.webp",
+      "assets/images/8465544/step_02.webp",
+      null
+    ]
+  }
+}

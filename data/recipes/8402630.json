@@ -1,0 +1,90 @@
+{
+  "id": "8402630",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8402630/mango-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/8402630/mango-lemonade/",
+  "title": "Mango Lemonade",
+  "description": "This easy-to-make mango lemonade recipe blends fresh mango, simple syrup, and lemon for a deliciously refreshing drink, especially when it&#39;s hot outside.",
+  "authors": [
+    "ayeza shaikh"
+  ],
+  "date_published": "2022-06-13T12:11:01-04:00",
+  "date_modified": "2025-08-14T11:14:47-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT5M",
+  "total_time": "PT15M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup sugar",
+    "1 cup water",
+    "2 cups chopped mango",
+    "1 cup water",
+    "1 cup lemon juice",
+    "2 cups ice"
+  ],
+  "steps": [
+    {
+      "text": "Combine sugar and 1 cup water in a saucepan over medium-high heat; bring to a boil and stir until sugar has dissolved. Cool.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine mango and 1 cup water in a blender or food processor; blend until smooth. Strain mango purée through a strainer into a pitcher. Stir in lemon juice and simple syrup until well mixed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add ice to the pitcher; serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "262 kcal",
+    "carbohydrateContent": "69 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "9 mg",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/qHPMG4sOlbl9RV1SSWQWyGoX71Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mango-lemonade-ddd13a17745d40eda781fb1adae2ad49.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8402630/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

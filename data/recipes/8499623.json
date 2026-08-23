@@ -1,0 +1,92 @@
+{
+  "id": "8499623",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8499623/mexican-mocha/",
+  "requested_url": "https://www.allrecipes.com/recipe/8499623/mexican-mocha/",
+  "title": "Mexican Mocha",
+  "description": "Mexican mocha is a wonderful hot drink with cocoa powder, chili, cinnamon, and coffee.",
+  "authors": [
+    "Chef Mo"
+  ],
+  "date_published": "2022-11-04T18:48:24-04:00",
+  "date_modified": "2024-11-27T02:28:05-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 mexican mocha"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons powdered sugar",
+    "1 tablespoon unsweetened cocoa powder",
+    "0.25 teaspoon ground cinnamon",
+    "0.25 teaspoon chili powder",
+    "1 cup hot coffee",
+    "0.25 cup half-and-half creamer",
+    "whipped cream for topping (optional)",
+    "cinnamon for sprinkling (optional)"
+  ],
+  "steps": [
+    {
+      "text": "Combine powdered sugar, cocoa powder, cinnamon, and chili powder in the bottom of a mug.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour hot coffee on top and stir until dissolved. Pour in half-and-half creamer and stir.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Top with whipped cream and sprinkle with cinnamon, if desired.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "81 kcal",
+    "carbohydrateContent": "20 g",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "13 mg",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/jFnwEK_Mxs33udgcw1yx-fjSvJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mexican-Mocha-Chef-Mo-4x3-1-8814273800a346d4a2842a1c55a1eae4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8499623/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
