@@ -1,0 +1,91 @@
+{
+  "id": "283431",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/283431/sous-vide-dill-pickles/",
+  "requested_url": "https://www.allrecipes.com/recipe/283431/sous-vide-dill-pickles/",
+  "title": "Sous Vide Dill Pickles",
+  "description": "These sous vide pickles are simple to make with a sous vide cooker, but if you don’t have one, you can still make them with a sunny windowsill.",
+  "authors": [
+    "maskys"
+  ],
+  "date_published": "2015-07-27T17:46:41-04:00",
+  "date_modified": "2025-01-17T11:55:28-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT150M",
+  "total_time": "PT1660M",
+  "yield": [
+    "20"
+  ],
+  "categories": [
+    "Ingredient"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 pounds pickling cucumbers",
+    "6 cloves garlic",
+    "6 heads (flowers) dill",
+    "4 cups water",
+    "2 cups white vinegar",
+    "0.5 cup kosher salt",
+    "0.5 teaspoon alum"
+  ],
+  "steps": [
+    {
+      "text": "Layer cucumbers, garlic, and dill in a resealable plastic bag. Combine water, vinegar, kosher salt, and alum in a liquid measure; pour into the bag and seal securely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Immerse the bag in a heat-proof container of water with a sous vide cooker. Set the temperature to 140 degrees F (60 degrees C) and cook for 2 1/2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove the bag and set aside to cool, about 1 hour. Transfer pickles and brine to a jar and refrigerate for 24 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "43 kcal",
+    "carbohydrateContent": "10 g",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "2297 mg",
+    "sugarContent": "5 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/tNJveXqVMIm9xXQwzn2ib11Keos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2427581-6033d5927c9444b79c7d0f088678c611.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/283431/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

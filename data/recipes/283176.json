@@ -1,0 +1,84 @@
+{
+  "id": "283176",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/283176/dutch-pancakes/",
+  "requested_url": "https://www.allrecipes.com/recipe/283176/dutch-pancakes/",
+  "title": "Dutch Pancakes",
+  "description": "A little thicker and eggier than crepes, these Dutch pancakes can be topped with maple syrup, fried apples, or jam and are good for breakfast and dinner.",
+  "authors": [
+    "Cathy Wiechert"
+  ],
+  "date_published": "2006-10-02T15:21:20-04:00",
+  "date_modified": "2025-02-11T14:08:53-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT60M",
+  "total_time": "PT95M",
+  "yield": [
+    "8",
+    "16 pancakes"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Dutch"
+  ],
+  "regions": [
+    "Dutch"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large eggs",
+    "1.75 cups all-purpose flour, or as needed",
+    "1.25 cups milk, or more as needed",
+    "1 tablespoon white sugar",
+    "1 tablespoon vegetable oil",
+    "1 tablespoon unsalted butter, or more as needed"
+  ],
+  "steps": [
+    {
+      "text": "Beat eggs with a whisk in a large bowl. Add flour and whisk until mixture is smooth. Whisk in milk, sugar, and oil until well combined. Batter should be the consistency of buttermilk; add additional flour or milk if needed. Let batter stand at room temperature for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a small, heavy skillet over medium heat. Melt 1 teaspoon butter in the hot skillet. Add 1/4 cup pancake batter and tilt the skillet to coat the bottom. Cook until pancake is nearly dry on top, about 2 minutes. Flip and cook on the other side until browned, about 2 minutes. Pancake may curl slightly, which is normal; if it curls too much, add more milk to remaining batter. Stack pancake on a plate and repeat with remaining butter and batter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "206 kcal",
+    "carbohydrateContent": "25 g",
+    "cholesterolContent": "146 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "69 mg",
+    "sugarContent": "4 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/osaA8Vzjxr75Rlq9ixCRfnazP14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9182775-7731867f7b3743959a1c09c93b60c322.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/283176/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

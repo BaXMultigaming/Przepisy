@@ -1,0 +1,93 @@
+{
+  "id": "283323",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/283323/maroulosalata-greek-romaine-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/283323/maroulosalata-greek-romaine-salad/",
+  "title": "Maroulosalata (Greek Romaine Salad)",
+  "description": "Maroulosalata is a Greek green salad made with sliced romaine, dill, olive oil, and red wine vinegar for a deliciously light salad full of flavor.",
+  "authors": [
+    "Diana Moutsopoulos"
+  ],
+  "date_published": "2021-02-11T02:19:28-05:00",
+  "date_modified": "2026-07-20T17:10:20-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Salad"
+  ],
+  "cuisines": [
+    "Greek"
+  ],
+  "regions": [
+    "Greek"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 head romaine lettuce",
+    "6 scallions, finely sliced",
+    "0.5 cup chopped fresh dill",
+    "4 tablespoons olive oil",
+    "2 tablespoons red wine vinegar",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Wash and dry romaine lettuce. Lay leaves on a cutting board and slice lengthwise across the leaves, shredding them into 1/4-inch strips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer lettuce to a large bowl. Add scallions, dill, olive oil, vinegar, salt, and pepper; toss until well combined. Adjust oil, vinegar, and seasoning to taste.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/1QMnRWsd2bkKpK9_fxgQSfwFDQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/283323-Maroulosalata-Greek-Salad-Romaine-Salad-PIFS-4x3-265_1-212460ab38e5423bbec7f5c8f2d5f25e.jpg"
+      ],
+      "image": "assets/images/283323/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "96 kcal",
+    "carbohydrateContent": "4 g",
+    "fiberContent": "2 g",
+    "proteinContent": "1 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "9 mg",
+    "sugarContent": "1 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "7"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/c6ltOsYp-K3AjnAEN.mp4",
+    "description": "Don’t be fooled, this shredded salad is not the same as a chopped salad. In this video, Nicole shows you how to make a shrettuce salad. The thinly sliced lettuce allows for the salad to be fully coated in flavorful dressing while still retaining a super crunchy texture. It’s the ideal salad for a stay-at-home or on-the-go lunch!",
+    "duration": "PT27S",
+    "name": "How to Make a Shrettuce Salad",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/c6ltOsYp/thumbnails/sFzFlnB4.jpg?width=1280",
+    "uploadDate": "2024-06-25T12:14:00-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1QMnRWsd2bkKpK9_fxgQSfwFDQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/283323-Maroulosalata-Greek-Salad-Romaine-Salad-PIFS-4x3-265_1-212460ab38e5423bbec7f5c8f2d5f25e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/283323/hero.webp",
+    "steps": [
+      null,
+      "assets/images/283323/step_02.webp"
+    ]
+  }
+}
