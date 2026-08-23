@@ -1,0 +1,86 @@
+{
+  "id": "280027",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280027/creamy-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/280027/creamy-potato-salad/",
+  "title": "Creamy Potato Salad",
+  "description": "Full of flavor and creamy texture, this easy potato salad is perfect for parties, potlucks, or picnics!",
+  "authors": [
+    "Eleanor Price"
+  ],
+  "date_published": "2020-05-06T04:08:30-04:00",
+  "date_modified": "2020-05-06T04:08:30-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT765M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound fingerling potatoes",
+    "0.75 cup salad dressing (such as Miracle Whip®)",
+    "0.5 cup sour cream",
+    "0.25 cup chopped onion, or to taste",
+    "3 tablespoons chopped fresh parsley",
+    "3 tablespoons chopped fresh chives",
+    "2 tablespoons sweet pickle relish",
+    "2 tablespoons dill pickle relish",
+    "1.5 tablespoons prepared yellow mustard",
+    "1 tablespoon white sugar",
+    "1 tablespoon chopped fresh Thai basil",
+    "1 teaspoon celery seed"
+  ],
+  "steps": [
+    {
+      "text": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, 15 to 20 minutes. Drain and let cool, about 15 minutes. Chop coarsely.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine salad dressing, sour cream, onion, parsley, chives, sweet relish, dill relish, mustard, sugar, basil, and celery seed in a large bowl. Add potatoes; stir well to coat. Cover and chill to let all the flavors blend, 12 to 24 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "159 kcal",
+    "carbohydrateContent": "17 g",
+    "cholesterolContent": "14 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "296 mg",
+    "sugarContent": "6 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QrxvyySJ_snfaGRWNFNhaM8beNU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1037333-3d06941b1c8b4e6ba42fb2614cd15ba4.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280027/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

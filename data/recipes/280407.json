@@ -1,0 +1,89 @@
+{
+  "id": "280407",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280407/bagel-french-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/280407/bagel-french-toast/",
+  "title": "Bagel French Toast",
+  "description": "Easily turn your stale bagels into this sweet, pan-fried French toast using only a handful of simple ingredients.",
+  "authors": [
+    "Suzette Runyon"
+  ],
+  "date_published": "2020-06-04T03:18:47-04:00",
+  "date_modified": "2022-08-22T14:51:03-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT50M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup milk",
+    "2 large eggs",
+    "1 teaspoon vanilla extract",
+    "0.25 teaspoon ground cinnamon",
+    "0.25 teaspoon ground nutmeg",
+    "4 stale bagels, split",
+    "1 tablespoon powdered sugar, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Beat milk, eggs, vanilla extract, cinnamon, and nutmeg together in a large, flat container.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bagels, insides-down, into the egg mixture. Let sit for 30 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat a large skillet over medium heat. Add bagel slices and cook, working in batches if needed, until browned on both sides, about 5 minutes. Sprinkle with powdered sugar and serve warm.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "carbohydrateContent": "34 g",
+    "cholesterolContent": "95 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "352 mg",
+    "sugarContent": "4 g",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/4pzaqBYdZGvcZOyIItE8QQMuREU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8234549-fb3276c4c3e34c118c1d489ba0f59e01.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280407/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

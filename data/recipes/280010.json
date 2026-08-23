@@ -1,0 +1,116 @@
+{
+  "id": "280010",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280010/chef-johns-cloud-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/280010/chef-johns-cloud-eggs/",
+  "title": "Chef John’s Cloud Eggs",
+  "description": "Chef John’s cloud egg recipe features whisked egg whites, like a meringue, then baked into puffy clouds. Serve on buttery toast for a fun take on a classic.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2020-04-30T20:00:37-04:00",
+  "date_modified": "2026-08-20T12:52:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT20M",
+  "yield": [
+    "2"
+  ],
+  "categories": [
+    "Breakfast",
+    "Brunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 teaspoon unsalted butter, or as needed",
+    "2 large eggs",
+    "0.25 teaspoon white vinegar",
+    "1 pinch salt"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with a silicone liner (such as Silpat); lightly butter.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Separate egg whites and egg yolks. Place whites in a large bowl. Reserve yolks in two separate, smaller bowls.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add vinegar to egg whites then add salt; whisk until reaches relatively firm, but not dry, peaks.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Spoon egg whites onto the prepared baking sheet, shape as desired, making sure not too wide, since want some height. Make a small depression in centers using the back of a spoon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in center of the preheated oven until egg whites just start to take on some golden color, 5 to 6 minutes. Add yolks to depressions; bake until yolks are heated through, but still runny, 3 to 4 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/OQSwtsylYQRditsZM7KjmzzwYvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8059529-0c96efb7d75b46f1bb709924abaa6413.jpg"
+      ],
+      "image": "assets/images/280010/step_05.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "88 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "191 mg",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "148 mg",
+    "sugarContent": "0 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "ratingCount": "30"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/lh5BXkDd-K3AjnAEN.mp4",
+    "description": "In this video, Chef John shows you how to make cloud eggs.",
+    "duration": "PT5M21S",
+    "name": "Chef John's Cloud Eggs",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/lh5BXkDd/poster.jpg?width=1280",
+    "uploadDate": "2023-04-14T15:28:02-04:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/OQSwtsylYQRditsZM7KjmzzwYvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8059529-0c96efb7d75b46f1bb709924abaa6413.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280010/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      "assets/images/280010/step_05.webp"
+    ]
+  }
+}

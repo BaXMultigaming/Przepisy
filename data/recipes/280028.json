@@ -1,0 +1,103 @@
+{
+  "id": "280028",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280028/cauliflower-potato-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/280028/cauliflower-potato-salad/",
+  "title": "Cauliflower Mock Potato Salad",
+  "description": "You won&#39;t miss the potatoes in this savory cauliflower version of the classic picnic and party side dish.",
+  "authors": [
+    "bug"
+  ],
+  "date_published": "2020-05-06T04:13:34-04:00",
+  "date_modified": "2025-07-18T08:54:07-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT15M",
+  "total_time": "PT150M",
+  "yield": [
+    "6"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 large head cauliflower, cut into bite-sized pieces",
+    "6 slices bacon",
+    "2 hard-boiled eggs, diced",
+    "0.5 cup shredded Cheddar cheese",
+    "0.33333334326744 cup mayonnaise",
+    "0.25 cup chopped red onion",
+    "1 tablespoon chopped fresh dill",
+    "1 tablespoon prepared yellow mustard",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add cauliflower, cover, and steam until tender-crisp, 3 to 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place cauliflower into a large mixing bowl and place in the refrigerator to chill for 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain on paper towels and crumble.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add bacon, eggs, Cheddar cheese, mayonnaise, onion, dill, mustard, salt, and pepper to the bowl of cauliflower and stir well to combine. Serve immediately.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "250 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "98 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "12 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "639 mg",
+    "sugarContent": "4 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/xYcuiKBYWzEBwQq6ZtWrhp_ryJU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cauliflower-Potato-Salad-France-C-2000-e8d983d729f342dbb647bc2698947e5d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280028/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

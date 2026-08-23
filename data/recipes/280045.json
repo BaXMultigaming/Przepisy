@@ -1,0 +1,101 @@
+{
+  "id": "280045",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280045/breakfast-casserole-with-hash-browns/",
+  "requested_url": "https://www.allrecipes.com/recipe/280045/breakfast-casserole-with-hash-browns/",
+  "title": "Breakfast Casserole with Hash Browns",
+  "description": "Mix up this breakfast casserole with hash browns the night before and bake it in the morning for a special treat that&#39;s sure to please.",
+  "authors": [
+    "Melika"
+  ],
+  "date_published": "2020-05-28T03:42:23-04:00",
+  "date_modified": "2023-01-30T23:05:15-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT55M",
+  "total_time": "PT550M",
+  "yield": [
+    "12",
+    "1 9x13-inch casserole"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "9 large eggs",
+    "0.5 cup sour cream",
+    "0.25 cup milk",
+    "1.5 tablespoons salt",
+    "1.5 tablespoons ground black pepper",
+    "9 cups frozen hash brown potatoes, thawed",
+    "3 cups diced ham",
+    "3 cups shredded Cheddar cheese",
+    "6 green onions, chopped",
+    "1 red bell pepper, diced",
+    "1 green bell pepper, diced"
+  ],
+  "steps": [
+    {
+      "text": "Mix eggs, sour cream, milk, salt, and pepper together in a bowl and set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix hash browns, ham, Cheddar cheese, green onions, and bell peppers together in another bowl. Transfer to a 9x13-inch baking pan and mix in egg mixture well; it may appear watery but hash browns will absorb most of it by morning. Cover with plastic wrap and refrigerate, 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the oven to 400 degrees F (200 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until top is browned and eggs are set, about 55 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "402 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "199 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "15 g",
+    "sodiumContent": "1619 mg",
+    "sugarContent": "2 g",
+    "fatContent": "31 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/F5OBWiUztIRRXzjrl0ZnA9hWyko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Breakfast-Casserole-with-Hash-Browns-Lindsay-d43ca2c1a1e74c1ab5c821ffc6b7d32f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280045/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

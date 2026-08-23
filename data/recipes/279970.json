@@ -1,0 +1,83 @@
+{
+  "id": "279970",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/279970/low-fat-potato-and-leek-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/279970/low-fat-potato-and-leek-soup/",
+  "title": "Low-Fat Potato and Leek Soup",
+  "description": "Ideal for lunch or a light dinner, this light-tasting potato and leek soup uses low-fat milk instead of cream to keep it healthy for those watching their waistlines.",
+  "authors": [
+    "foodcanuck"
+  ],
+  "date_published": "2020-04-30T18:05:39-04:00",
+  "date_modified": "2022-01-14T01:27:21-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT40M",
+  "total_time": "PT60M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 teaspoon unsalted butter",
+    "1 large white onion, diced",
+    "2 ribs celery, chopped",
+    "3 small leeks, cleaned and thinly sliced",
+    "3 medium potatoes, peeled and chopped",
+    "3 cups water, or more as needed",
+    "3 cups 2% low-fat milk",
+    "0.5 teaspoon salt",
+    "0.5 teaspoon ground black pepper"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a medium stockpot over medium heat. Add onions and cook, stirring frequently, until slightly translucent, about 5 minutes. Add celery and cook for 2 more minutes. Add leeks and cook, stirring frequently, until limp, 2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat to medium-low and add potatoes and 3 cups water. Cook until potatoes are slightly soft, adding just enough water to keep potatoes and leeks covered, 20 to 25 minutes. Slowly add milk while stirring continuously. Add salt and pepper and cook until heated through, 5 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "167 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "11 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "274 mg",
+    "sugarContent": "8 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/2VPDiaS77KU0I6dUOEh_Y1KwyzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8190769-d2148a3163d2450c9c28ab623b08f360.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/279970/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

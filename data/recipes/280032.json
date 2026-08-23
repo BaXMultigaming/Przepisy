@@ -1,0 +1,91 @@
+{
+  "id": "280032",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280032/egg-salad-with-dill/",
+  "requested_url": "https://www.allrecipes.com/recipe/280032/egg-salad-with-dill/",
+  "title": "Egg Salad with Dill",
+  "description": "Fresh herbs like dill, parsley, and chives join cream cheese and Dijon mustard to bring big flavor to this easy egg salad.",
+  "authors": [
+    "Sharon Thompson"
+  ],
+  "date_published": "2020-05-07T03:39:36-04:00",
+  "date_modified": "2020-05-07T03:39:36-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 hard-boiled eggs, peeled",
+    "3 tablespoons mayonnaise, or more as needed",
+    "1 ounce cream cheese, softened",
+    "1 tablespoon finely chopped fresh parsley",
+    "1 teaspoon finely chopped fresh chives",
+    "1 teaspoon finely chopped fresh dill",
+    "1 teaspoon Dijon mustard (such as Grey Poupon®)",
+    "1 teaspoon paprika",
+    "0.5 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Cut hard-boiled eggs in half, removing egg yolks from egg whites.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine egg yolks, mayonnaise, cream cheese, parsley, chives, dill, mustard, paprika, and salt in a food processor. Blend until creamy and mixed well together, adding more mayonnaise if consistency is too thick.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Coarsely chop egg whites and place in a medium bowl, add egg-herb mixture, and mix with a spoon.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "219 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "330 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "496 mg",
+    "sugarContent": "1 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/w3CcNODg0HguukEneGnNSEM629k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8135724-5916efc6583f49d0b1c21e86056eeacd.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280032/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

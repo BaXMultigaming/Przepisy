@@ -1,0 +1,72 @@
+{
+  "id": "280530",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280530/blueberry-lemonade/",
+  "requested_url": "https://www.allrecipes.com/recipe/280530/blueberry-lemonade/",
+  "title": "Blueberry Lemonade",
+  "description": "Blueberry lemonade is easy to make from scratch with fresh blueberries, lemon juice, and your favorite sweetener for a cool, refreshing summer drink.",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2020-06-17T03:18:50-04:00",
+  "date_modified": "2024-03-11T10:28:23-04:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT15M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups fresh blueberries",
+    "0.25 cup stevia sweetener (such as Truvia®), or more to taste",
+    "0.5 cup freshly squeezed lemon juice",
+    "9 cups water, or more as needed"
+  ],
+  "steps": [
+    {
+      "text": "Combine blueberries, sweetener, lemon juice, and 1 cup water together in a blender; blend until smooth. Pour into a pitcher. Add remaining water and stir. Serve chilled or over ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "26 kcal",
+    "carbohydrateContent": "9 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "6 mg",
+    "sugarContent": "4 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/YELV01eB_EewaCLO_152nbBtxS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8197532-ec0eb93551b04a8196fa5dc72e04f75f.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280530/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

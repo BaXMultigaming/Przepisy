@@ -1,0 +1,81 @@
+{
+  "id": "280031",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280031/egg-salad-with-relish/",
+  "requested_url": "https://www.allrecipes.com/recipe/280031/egg-salad-with-relish/",
+  "title": "Egg Salad with Relish",
+  "description": "Hot sauce lends a spicy kick to this traditional egg salad made with relish and sweet onion--perfect for lunch or picnics!",
+  "authors": [
+    "Pam Beihoff-Nau"
+  ],
+  "date_published": "2020-05-06T04:15:13-04:00",
+  "date_modified": "2020-05-06T04:15:13-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT130M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "8 hard-boiled eggs, finely chopped",
+    "0.25 sweet onion (such as Vidalia®), finely chopped",
+    "1 cup mayonnaise",
+    "2 tablespoons dill pickle relish",
+    "1 tablespoon prepared yellow mustard",
+    "1 dash hot sauce, or more to taste",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine eggs and onion in a bowl. Add mayonnaise, relish, mustard, and hot sauce. Mix until ingredients are well combined. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Chill in the refrigerator for 2 hours before serving.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "279 kcal",
+    "carbohydrateContent": "2 g",
+    "cholesterolContent": "222 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "296 mg",
+    "sugarContent": "1 g",
+    "fatContent": "27 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QPNOn98yuUO5XZk_RDsKayM8yuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8138547-49d2f6f206384213b51838901818a4d9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280031/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

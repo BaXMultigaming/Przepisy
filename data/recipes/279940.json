@@ -1,0 +1,77 @@
+{
+  "id": "279940",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/279940/chicken-and-egg-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/279940/chicken-and-egg-salad/",
+  "title": "Chicken and Egg Salad",
+  "description": "This chicken salad with eggs is flavored with fresh herbs and mayo for a delicious main dish that can also be served on crackers as a tasty appetizer.",
+  "authors": [
+    "Holly Jones"
+  ],
+  "date_published": "2020-04-30T17:34:18-04:00",
+  "date_modified": "2025-11-25T07:57:19-05:00",
+  "prep_time": "PT25M",
+  "cook_time": null,
+  "total_time": "PT205M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups diced cooked chicken",
+    "3 large hard-boiled eggs, diced",
+    "0.5 onion, chopped",
+    "1 stalk celery, diced",
+    "2 tablespoons mayonnaise, or to taste",
+    "2 tablespoons chopped fresh cilantro",
+    "1 tablespoon chopped fresh parsley",
+    "salt and cracked black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine cooked chicken, eggs, onion, celery, mayonnaise, cilantro, and parsley in a large bowl. Season with salt and cracked black pepper. Stir until well combined. Add more mayonnaise, salt, and cracked black pepper to your liking. Place in the refrigerator to chill, about 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "274 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "216 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "23 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "181 mg",
+    "sugarContent": "2 g",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "10"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-SBZureYIeB4R6YXNAfgAwsCOT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131774-chicken-and-egg-salad-Holly-Jones-4x3-1-ad90fe9e27504fefbaaa751915a1d9f7.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/279940/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

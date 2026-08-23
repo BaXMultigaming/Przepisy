@@ -1,0 +1,89 @@
+{
+  "id": "280600",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280600/three-bean-tacos/",
+  "requested_url": "https://www.allrecipes.com/recipe/280600/three-bean-tacos/",
+  "title": "Three Bean Tacos",
+  "description": "Lean, mean, and full of beans, these tasty tacos also feature corn and all of your favorite toppings!",
+  "authors": [
+    "BM"
+  ],
+  "date_published": "2020-07-02T00:24:15-04:00",
+  "date_modified": "2025-04-05T12:32:50-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "12",
+    "12 tacos"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "American",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "American",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (16 ounce) can B&M® Original Baked Beans",
+    "1 (15.5 ounce) can Joan of Arc® Light Red Kidney Beans, rinsed and drained",
+    "1 (15 ounce) can Joan of Arc® Black Beans, rinsed and drained",
+    "1 (11 ounce) can Green Giant® SteamCrisp® Mexicorn®",
+    "1 (1.25 ounce) package Ortega® Taco Seasoning Mix",
+    "0.75 cup water",
+    "12 Ortega® flour tortillas, warmed",
+    "Queso fresco, lettuce, and red onion for topping"
+  ],
+  "steps": [
+    {
+      "text": "Add beans, Green Giant® SteamCrisp® Mexicorn®, 3/4 cup water, and Ortega® Taco Seasoning to large nonstick skillet and bring to a boil over high heat. Simmer 10 minutes or until thickened.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Serve in warm tortillas with your favorite taco toppings.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "239 kcal",
+    "carbohydrateContent": "46 g",
+    "fiberContent": "7 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "733 mg",
+    "sugarContent": "7 g",
+    "fatContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/01IreBzI9Q-ds4JJ16DsI5MkfUE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8248462-57b8dcb0d71347b0b0dbc3271a402a20.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280600/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

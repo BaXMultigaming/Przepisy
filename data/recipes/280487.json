@@ -1,0 +1,87 @@
+{
+  "id": "280487",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280487/strawberry-milkshake/",
+  "requested_url": "https://www.allrecipes.com/recipe/280487/strawberry-milkshake/",
+  "title": "Strawberry Milkshake",
+  "description": "This homemade strawberry milkshake is thick, creamy, and full of freshly blended strawberries for a sweet and refreshing treat on a hot summer day.",
+  "authors": [
+    "Elds Martial"
+  ],
+  "date_published": "2020-06-19T20:25:40-04:00",
+  "date_modified": "2025-05-30T06:29:21-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Drink",
+    "Beverage"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "13 fresh strawberries",
+    "4 scoops strawberry ice cream",
+    "1 cup milk",
+    "2 tablespoons honey",
+    "1 teaspoon vanilla extract",
+    "0.5 cup ice",
+    "2 tablespoons whipped cream, or to taste",
+    "2 teaspoons chocolate sauce, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Blend strawberries, ice cream, milk, honey, and vanilla extract together in an electric blender. Blend in ice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour into tall glasses. Top with whipped cream and a drizzle of chocolate sauce. Enjoy!",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "305 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "29 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "97 mg",
+    "sugarContent": "43 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/aF7oZqqBGeGK7i_RwnyxVJUa9fc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Strawberry-Milkshake-4x3-1-2000-99ab79da91564975afde0bcfc98310e1.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/280487/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

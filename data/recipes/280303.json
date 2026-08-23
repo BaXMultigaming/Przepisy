@@ -1,0 +1,90 @@
+{
+  "id": "280303",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280303/lemon-pepper-chicken-pasta/",
+  "requested_url": "https://www.allrecipes.com/recipe/280303/lemon-pepper-chicken-pasta/",
+  "title": "Lemon-Pepper Chicken Pasta",
+  "description": "Farfalle pasta is tossed with savory sliced lemon-pepper chicken breasts for this quick and easy meal.",
+  "authors": [
+    "Valerie Sword"
+  ],
+  "date_published": "2009-01-15T15:25:26-05:00",
+  "date_modified": "2022-02-09T19:19:49-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT20M",
+  "total_time": "PT30M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 skinless, boneless chicken breasts, thinly sliced",
+    "0.25 cup olive oil",
+    "0.25 cup lemon juice",
+    "2 teaspoons lemon-pepper seasoning",
+    "1 teaspoon minced garlic",
+    "1 (16 ounce) package farfalle (bow-tie) pasta",
+    "1 tablespoon thinly sliced green onion",
+    "1 lemon, cut into wedges"
+  ],
+  "steps": [
+    {
+      "text": "Saute chicken strips in olive oil, lemon juice, lemon-pepper seasoning, and garlic in a skillet over medium-high heat until no longer pink in the centers and juices run clear, 7 to 10 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "While chicken cooks, bring a large pot of lightly salted water to a boil. Cook bow-tie pasta at a boil, stirring occasionally, until tender yet firm to the bite, about 12 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Toss cooked pasta with chicken, sauce from the skillet, and green onion. Garnish with fresh lemon wedges.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "329 kcal",
+    "carbohydrateContent": "43 g",
+    "cholesterolContent": "32 mg",
+    "fiberContent": "3 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "147 mg",
+    "sugarContent": "2 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EHt0hFXgc6Zviw1bBD8_xdf3Sec=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8285909-bd127808fe3e41bc858893f39ba27951.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280303/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

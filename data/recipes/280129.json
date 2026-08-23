@@ -1,0 +1,97 @@
+{
+  "id": "280129",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280129/blueberry-sorbet/",
+  "requested_url": "https://www.allrecipes.com/recipe/280129/blueberry-sorbet/",
+  "title": "Blueberry Sorbet",
+  "description": "This refreshing blueberry sorbet is easy to make with frozen blueberries, sugar, lemon juice and zest for a frozen fruity treat on a hot summer day.",
+  "authors": [
+    "QUILTBUGJ"
+  ],
+  "date_published": "2020-06-23T01:57:37-04:00",
+  "date_modified": "2025-07-15T15:31:23-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT100M",
+  "yield": [
+    "8",
+    "4 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 cups frozen blueberries",
+    "0.75 cup white sugar",
+    "0.5 cup water",
+    "1 lemon, zested and juiced"
+  ],
+  "steps": [
+    {
+      "text": "Gather the ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/_6jAaeJnKUsj94SChLa82dWlAa0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/280129-blueberry-sorbet-DDMFS-step-01-15af2565f9784cec985bb06924c6c0c2.jpg"
+      ],
+      "image": "assets/images/280129/step_01.webp"
+    },
+    {
+      "text": "Combine blueberries, sugar, water, lemon zest, and juice in the bowl of a food processor; process until pureed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/UABuB702Vur-cTWI6bnpqbm-_T0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/280129-blueberry-sorbet-DDMFS-step-02-996b7d3a0e99434990f84e88952d5d0e.jpg"
+      ],
+      "image": "assets/images/280129/step_02.webp"
+    },
+    {
+      "text": "Pour mixture into an ice cream maker and process for 30 minutes according to manufacturer's instructions. Transfer to a freezer-safe container and freeze for at least 1 hour.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/aCyit2KkGZE327jibA3aNbvoeLs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/280129-blueberry-sorbet-DDMFS-step-03-9c6e89f7755341cdb0ee625fcbc35bff.jpg"
+      ],
+      "image": "assets/images/280129/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "105 kcal",
+    "carbohydrateContent": "27 g",
+    "fiberContent": "2 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "1 mg",
+    "sugarContent": "24 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/S4oFscq3y9To33Z7cfYRIIJjeFo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/280129-blueberry-sorbet-DDMFS-Beauty-4x3-f863f672f38a4784a4f30a4db6a3628a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280129/hero.webp",
+    "steps": [
+      "assets/images/280129/step_01.webp",
+      "assets/images/280129/step_02.webp",
+      "assets/images/280129/step_03.webp"
+    ]
+  }
+}

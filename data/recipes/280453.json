@@ -1,0 +1,85 @@
+{
+  "id": "280453",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/280453/mixed-berry-sauce/",
+  "requested_url": "https://www.allrecipes.com/recipe/280453/mixed-berry-sauce/",
+  "title": "Mixed Berry Sauce",
+  "description": "This quick and easy sauce made with frozen mixed berries is the perfect complement to cakes, waffles, crepes, or pancakes!",
+  "authors": [
+    "Misoweeby"
+  ],
+  "date_published": "2020-06-30T03:30:36-04:00",
+  "date_modified": "2021-08-30T16:45:00-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "8",
+    "2 cups"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 cups frozen mixed berries",
+    "0.5 cup white sugar",
+    "0.125 cup lemon juice",
+    "0.25 cup water",
+    "0.125 cup orange juice"
+  ],
+  "steps": [
+    {
+      "text": "Combine berries, sugar, and lemon juice in a small saucepan set over medium heat and cook, stirring occasionally, for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour water and orange juice into the mixture and simmer over low heat, stirring occasionally, for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Raise the temperature to high heat and cook, stirring constantly, until thickened, about 5 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "66 kcal",
+    "carbohydrateContent": "18 g",
+    "fiberContent": "1 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "0 mg",
+    "sugarContent": "16 g",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ah1nt7bjZi53VrR5uWKY8eYJu1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9376213-ea0416c8c25a4b6cb94965a20210a87c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/280453/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
