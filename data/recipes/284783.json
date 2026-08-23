@@ -1,0 +1,80 @@
+{
+  "id": "284783",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/284783/eggs-over-easy/",
+  "requested_url": "https://www.allrecipes.com/recipe/284783/eggs-over-easy/",
+  "title": "Eggs Over Easy",
+  "description": "A simple and very tasty recipe for eggs. This recipe is for over-easy eggs but you can cook longer and the yolk will set even more. The hardest part is flipping the eggs over.",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2021-06-16T01:00:57-04:00",
+  "date_modified": "2025-04-01T14:27:53-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1",
+    "2 eggs"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon butter",
+    "2 large eggs",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in an 8-inch nonstick pan over medium heat. Once butter is melted, crack eggs into the pan. Tilt pan to evenly distribute eggs. Cook until whites are no longer translucent, 1 to 2 minutes. Flip eggs by pushing the pan away from you and slightly tossing eggs up and over. Move pan upwards to catch eggs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on second side until desired doneness, 30 to 45 seconds. Season with salt and pepper.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "245 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "403 mg",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "222 mg",
+    "sugarContent": "1 g",
+    "fatContent": "22 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/uihK3XbIgDq88TCfGrKPJ48cI_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9252392-5ce9940fb5104b14a5a3beec94f649c9.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/284783/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
