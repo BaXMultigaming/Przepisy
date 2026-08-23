@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import gzip
+import html as html_lib
 import hashlib
 import io
 import json
@@ -45,7 +46,7 @@ USER_AGENT = os.getenv(
 WORKERS = max(1, int(os.getenv("WORKERS", "6")))
 REQUEST_TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "45"))
 REQUEST_DELAY = max(0.0, float(os.getenv("REQUEST_DELAY", "0.20")))
-IMAGE_MODE = os.getenv("IMAGE_MODE", "recipe").lower().strip()
+IMAGE_MODE = os.getenv("IMAGE_MODE", "hero").lower().strip()
 # IMAGE_MODE:
 #   none   = do not store images locally
 #   hero   = main recipe image only
@@ -431,13 +432,100 @@ def dom_fallback(soup: BeautifulSoup) -> tuple[list[str], list[dict]]:
     return ingredients, steps
 
 
+
+def decode_html_entities(value):
+    if not isinstance(value, str):
+        return value
+
+    text = value
+    for _ in range(3):
+        decoded = html_lib.unescape(text)
+        if decoded == text:
+            break
+        text = decoded
+    return text
+
+
+def clean_text(value) -> str | None:
+    if value is None:
+        return None
+    text = decode_html_entities(str(value))
+    text = re.sub(r"\s+", " ", text).strip()
+    return text or None
+
+
+def normalize_stored_recipe_text(recipe: dict) -> tuple[dict, bool]:
+    changed = False
+
+    def dec(v):
+        nonlocal changed
+        if not isinstance(v, str):
+            return v
+        nv = decode_html_entities(v)
+        if nv != v:
+            changed = True
+        return nv
+
+    for key in ("title", "description"):
+        if isinstance(recipe.get(key), str):
+            recipe[key] = dec(recipe[key])
+
+    for key in (
+        "authors", "categories", "cuisines", "regions",
+        "breadcrumbs", "keywords", "yield", "tags"
+    ):
+        value = recipe.get(key)
+        if isinstance(value, list):
+            recipe[key] = [dec(x) if isinstance(x, str) else x for x in value]
+        elif isinstance(value, str):
+            recipe[key] = dec(value)
+
+    for key in ("category", "area"):
+        if isinstance(recipe.get(key), str):
+            recipe[key] = dec(recipe[key])
+
+    ingredients = recipe.get("ingredients")
+    if isinstance(ingredients, list):
+        fixed = []
+        for item in ingredients:
+            if isinstance(item, str):
+                fixed.append(dec(item))
+            elif isinstance(item, dict):
+                item = dict(item)
+                for key in ("measure", "ingredient", "name"):
+                    if isinstance(item.get(key), str):
+                        item[key] = dec(item[key])
+                fixed.append(item)
+            else:
+                fixed.append(item)
+        recipe["ingredients"] = fixed
+
+    steps = recipe.get("steps")
+    if isinstance(steps, list):
+        fixed_steps = []
+        for item in steps:
+            if isinstance(item, str):
+                fixed_steps.append(dec(item))
+            elif isinstance(item, dict):
+                item = dict(item)
+                for key in ("text", "description", "name", "section"):
+                    if isinstance(item.get(key), str):
+                        item[key] = dec(item[key])
+                fixed_steps.append(item)
+            else:
+                fixed_steps.append(item)
+        recipe["steps"] = fixed_steps
+
+    return recipe, changed
+
+
 def clean_str(v):
     if v is None:
         return None
     if isinstance(v, (dict, list)):
         return v
-    s = re.sub(r"\s+", " ", str(v)).strip()
-    return s or None
+    return clean_text(v)
+
 
 
 def normalize_list(v) -> list[str]:
@@ -708,7 +796,10 @@ def build_manifest() -> dict:
     for path in RECIPES.glob("*.json"):
         try:
             r = json.loads(path.read_text(encoding="utf-8"))
-            title = r.get("title")
+            r, text_changed = normalize_stored_recipe_text(r)
+            if text_changed:
+                write_json_if_changed(path, r)
+            title = clean_text(r.get("title"))
             if not title:
                 raise ValueError("no title")
 
