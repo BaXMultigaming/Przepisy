@@ -1,0 +1,84 @@
+{
+  "id": "279825",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/279825/vanilla-atole/",
+  "requested_url": "https://www.allrecipes.com/recipe/279825/vanilla-atole/",
+  "title": "Vanilla Atole",
+  "description": "Often served for breakfast or as a snack after dinner, this thick, Mexican-inspired, milk-based drink is bursting with vanilla and cinnamon flavors.",
+  "authors": [
+    "MELISSAA88"
+  ],
+  "date_published": "2020-04-22T22:48:36-04:00",
+  "date_modified": "2022-08-22T14:44:38-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT25M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 cups milk",
+    "1 cinnamon stick",
+    "3.5 tablespoons white sugar",
+    "1.5 tablespoons pure vanilla extract",
+    "0.33333334326744 cup water",
+    "4 tablespoons cornstarch"
+  ],
+  "steps": [
+    {
+      "text": "Combine milk and cinnamon stick in a saucepan over medium heat. Bring to a boil, stirring constantly to prevent milk from burning on the bottom. Add sugar and stir for 2 minutes. Add vanilla extract and stir for another 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mix water and cornstarch in a small bowl until no lumps remain. Pour into the boiling milk and stir until thick, about 8 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "210 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "20 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "102 mg",
+    "sugarContent": "23 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/grGTy2DIP0nUccF91WxKUZcY314=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8052265-4ab4eaf0b57a49a49102e4bc68a672bf.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/279825/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

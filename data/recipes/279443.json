@@ -1,0 +1,87 @@
+{
+  "id": "279443",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/279443/mexican-style-pinto-beans/",
+  "requested_url": "https://www.allrecipes.com/recipe/279443/mexican-style-pinto-beans/",
+  "title": "Mexican-Style Pinto Beans",
+  "description": "These Mexican-style beans get infused with flavor as they simmer alongside jalapeno, chili powder, and cumin.",
+  "authors": [
+    "Justin Fassio"
+  ],
+  "date_published": "2020-03-30T16:22:02-04:00",
+  "date_modified": "2024-12-12T12:18:52-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT245M",
+  "total_time": "PT260M",
+  "yield": [
+    "8",
+    "8 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Mexican Inspired"
+  ],
+  "regions": [
+    "Mexican Inspired"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound dried pinto beans, rinsed",
+    "water to cover",
+    "1 (32 ounce) container whole peeled tomatoes with juice",
+    "1 red onion, chopped",
+    "1 jalapeno pepper, chopped",
+    "1 tablespoon chili powder, or to taste",
+    "1 tablespoon ground cumin, or to taste",
+    "1.5 teaspoons garlic powder, or to taste",
+    "0.5 bunch fresh cilantro, chopped",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Place pinto beans in a large pot and pour in enough water to cover by 2 inches. Add tomatoes with juice, onion, jalapeno pepper, chili powder, cumin, and garlic powder; bring to a boil. Reduce heat to low and simmer for 3 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in cilantro, salt, and pepper. Continue to simmer until beans are soft, about 1 more hour. Taste the liquid and add more of any of the spices you feel will make it taste better.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "231 kcal",
+    "carbohydrateContent": "43 g",
+    "fiberContent": "11 g",
+    "proteinContent": "14 g",
+    "saturatedFatContent": "0 g",
+    "sodiumContent": "206 mg",
+    "sugarContent": "5 g",
+    "fatContent": "1 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/R3Atb-NQdePPMhDR-EjocTwoLXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Mexican-Style-Pinto-Beans-Ny-Hot-Southern-Mess-2000-d8582db1b39846ca84ea24bc2f03c082.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/279443/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

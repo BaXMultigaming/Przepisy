@@ -1,0 +1,94 @@
+{
+  "id": "279349",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/279349/cheesy-taco-burgers/",
+  "requested_url": "https://www.allrecipes.com/recipe/279349/cheesy-taco-burgers/",
+  "title": "Cheesy Taco Burgers",
+  "description": "These quick and easy grilled burgers feature taco-seasoned patties layered between melted, cheesy centers.",
+  "authors": [
+    "spattimore"
+  ],
+  "date_published": "2020-05-01T03:06:09-04:00",
+  "date_modified": "2022-01-14T01:27:42-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT15M",
+  "total_time": "PT55M",
+  "yield": [
+    "3",
+    "3 burgers"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound ground beef",
+    "1 (1 ounce) package taco seasoning",
+    "3 thick slices Cheddar cheese",
+    "3 hamburger buns, split"
+  ],
+  "steps": [
+    {
+      "text": "Mix ground beef and taco seasoning together in a bowl. Set in the refrigerator for 30 minutes to let taco mix infuse into the beef.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat an outdoor grill for medium heat and lightly oil the grate.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove meat from the refrigerator and make 6 very thin patties. Place a slice of Cheddar cheese into the center of 3 patties. Place the remaining patties on top of the cheese patties and seal together by pinching the ends.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cook on the preheated grill for 6 to 7 minutes. Flip and continue cooking until no longer pink, 6 to 7 minutes more. Place on hamburger buns.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "658 kcal",
+    "carbohydrateContent": "29 g",
+    "cholesterolContent": "154 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "43 g",
+    "saturatedFatContent": "20 g",
+    "sodiumContent": "1371 mg",
+    "sugarContent": "2 g",
+    "fatContent": "39 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SzVYQ5mG1FbGmD7My6NVXFw_ZFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7913764-302e7457f8ef473da0cf63eeaaa7d07a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/279349/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

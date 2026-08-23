@@ -1,0 +1,88 @@
+{
+  "id": "279371",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/279371/butternut-squash-carrot-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/279371/butternut-squash-carrot-soup/",
+  "title": "Butternut Squash Carrot Soup",
+  "description": "This butternut squash and carrot soup recipe yields a smooth purée flavored with honey, ginger, and curry powder. It&#39;s a great cold weather dish.",
+  "authors": [
+    "Scott Pisani"
+  ],
+  "date_published": "2020-06-19T00:45:00-04:00",
+  "date_modified": "2026-01-19T21:53:41-05:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT30M",
+  "total_time": "PT55M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons olive oil",
+    "4 shallots, diced",
+    "1 cup diced carrots",
+    "2 tablespoons chopped garlic",
+    "2 tablespoons chopped fresh ginger",
+    "2 pounds cubed butternut squash",
+    "4 cups chicken broth",
+    "3 tablespoons curry powder",
+    "3 tablespoons honey",
+    "0.5 teaspoon ground white pepper",
+    "0.25 teaspoon cayenne pepper"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a large pot over medium heat. Add shallots, carrots, garlic, and ginger; cook and stir until shallots are soft, 5 to 10 minutes. Add squash, chicken broth, curry powder, honey, white pepper, and cayenne pepper; bring to a boil. Reduce heat, cover, and simmer until squash is soft, about 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Purée soup with an immersion blender until smooth. Cook until warmed through, about 3 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "298 kcal",
+    "carbohydrateContent": "56 g",
+    "cholesterolContent": "6 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "1205 mg",
+    "sugarContent": "23 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QuDa_22Si8oJ_FhjMIoq3J27n38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/279371butternut-squash-carrot-soupRita44x3-46eb394524ff410f96640c1b07b11d6b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/279371/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

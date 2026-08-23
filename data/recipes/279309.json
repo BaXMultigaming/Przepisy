@@ -1,0 +1,87 @@
+{
+  "id": "279309",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/279309/chicken-salpicao/",
+  "requested_url": "https://www.allrecipes.com/recipe/279309/chicken-salpicao/",
+  "title": "Chicken Salpicao",
+  "description": "Quick and easy to make with simple ingredients, this chicken salpicao dish is delicious served over white rice.",
+  "authors": [
+    "Beashi"
+  ],
+  "date_published": "2020-03-23T15:14:41-04:00",
+  "date_modified": "2026-03-23T14:33:23-04:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT10M",
+  "total_time": "PT35M",
+  "yield": [
+    "3",
+    "3 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Filipino"
+  ],
+  "regions": [
+    "Filipino"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 (4 ounce) skinless, boneless chicken breasts, cut into bite-sized cubes",
+    "0.5 teaspoon garlic salt",
+    "0.5 teaspoon ground black pepper",
+    "0.5 teaspoon paprika",
+    "2 tablespoons olive oil",
+    "5 cloves garlic, chopped",
+    "1.5 tablespoons Worcestershire sauce",
+    "0.5 tablespoon soy-based liquid seasoning (such as Maggi®)",
+    "1 serrano pepper, sliced diagonally"
+  ],
+  "steps": [
+    {
+      "text": "Season chicken with garlic salt, black pepper, and paprika. Marinate for 15 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Heat oil in a pan over medium heat. Add garlic and saute until almost brown, about 1 minute. Add chicken and mix to keep garlic from burning. Add Worcestershire and liquid seasoning. Reduce heat and let simmer until chicken is almost no longer pink in the center, 5 to 7 minutes. Stir in serrano pepper and simmer for another 2 minutes. Transfer to a serving dish.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "224 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "65 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "24 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "460 mg",
+    "sugarContent": "1 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/B8JCGl_6303ooMATI0KYMzFDMfc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/279309-chicken-salpicao-VAT-Beauty-4x3-1c9b17e7ab274796b9c00f5d05ec600c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/279309/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
