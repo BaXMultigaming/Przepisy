@@ -1,0 +1,126 @@
+{
+  "id": "277603",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/277603/sous-vide-whole-turkey/",
+  "requested_url": "https://www.allrecipes.com/recipe/277603/sous-vide-whole-turkey/",
+  "title": "Sous Vide Whole Turkey",
+  "description": "This sous vide turkey turns out tender, evenly cooked, with crisp golden skin—perfect for a modern take on your Thanksgiving centerpiece.",
+  "authors": [
+    "marc007"
+  ],
+  "date_published": "2020-01-13T22:10:59-05:00",
+  "date_modified": "2025-11-06T11:29:13-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT1110M",
+  "total_time": "PT1130M",
+  "yield": [
+    "20",
+    "1 (15-pound) turkey"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "3 quarts organic chicken stock",
+    "0.75 cup kosher salt",
+    "1 tablespoon dried rosemary",
+    "1 tablespoon dried thyme",
+    "1 tablespoon dried savory",
+    "1 tablespoon dried sage",
+    "1 (15 pound) turkey, neck and giblets removed",
+    "large (25-pound capacity) brining bag"
+  ],
+  "steps": [
+    {
+      "text": "Combine chicken stock, salt, rosemary, thyme, savory, and sage in a bowl; stir until salt is dissolved.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place turkey in a brining bag and pour brine over it, making sure to fill the cavity. Seal the bag, squeezing out as much air as possible to prevent floating.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Submerge the sealed turkey in a 5-gallon pot filled with water. Attach a sous vide cooker to the side of the pot. Wrap the pot with a dish towel for insulation and cover with plastic wrap to minimize evaporation.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Set the sous vide cooker to 150 degrees F (65 degrees C) and cook for 18 to 24 hours. (Maintain water level as needed during cooking.)",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Preheat the oven to 375 degrees F (190 degrees C).",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove turkey from the brining bag and transfer to a large roasting pan. Discard brine.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until nicely browned, about 30 minutes. An instant-read thermometer inserted into the thickest part of the thigh, near the bone, should read 165 degrees F (74 degrees C). Remove from the oven, cover with a doubled sheet of aluminum foil, and allow to rest in a warm area for 10 minutes before slicing.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "518 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "201 mg",
+    "fiberContent": "0 g",
+    "proteinContent": "69 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "3991 mg",
+    "sugarContent": "0 g",
+    "fatContent": "24 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "7"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ZNv1A6vv5bRCm6Lv8Og2a8Vly78=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Sous-Vide-Whole-Turkey-jubilee2x-766ce08f7c0a4dbe8c9de01393f11484.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/277603/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

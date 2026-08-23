@@ -1,0 +1,99 @@
+{
+  "id": "277882",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/277882/vanilla-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/277882/vanilla-cake/",
+  "title": "Vanilla Cake",
+  "description": "This classic vanilla cake recipe is made completely from scratch with simple ingredients--a perfect choice for parties!",
+  "authors": [
+    "Mary"
+  ],
+  "date_published": "2019-07-04T22:28:31-04:00",
+  "date_modified": "2023-02-19T20:02:01-05:00",
+  "prep_time": "PT20M",
+  "cook_time": "PT30M",
+  "total_time": "PT50M",
+  "yield": [
+    "12",
+    "1 cake"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 cups white sugar",
+    "0.5 cup unsalted butter, at room temperature",
+    "0.5 cup canola oil",
+    "4 eggs, at room temperature",
+    "1 tablespoon vanilla extract",
+    "3 cups all-purpose flour",
+    "1 tablespoon baking powder",
+    "0.5 teaspoon salt",
+    "1.25 cups buttermilk"
+  ],
+  "steps": [
+    {
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Line the bottoms of two 9-inch cake pans with parchment paper and lightly grease the sides.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Beat sugar, butter, and oil together in a large bowl with an electric mixer until creamy and well combined. Add eggs, 1 at a time, beating well after each addition. Stir in vanilla extract.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine flour, baking powder, and salt together in another bowl. Alternate mixing flour mixture and buttermilk gently into the butter mixture with a spatula, mixing until just combined after each addition; the batter should be smooth and completely combined but avoid overmixing. Divide batter evenly between the prepared pans.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Bake in the preheated oven until the surface springs back to the touch and a toothpick inserted into the centers comes out mostly clean with a few moist crumbs but no wet batter, 30 to 35 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "396 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "76 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "230 mg",
+    "sugarContent": "27 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "12"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0gpBLSqNdmeTx6VPbsU-E7YsM_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/277882-Vanilla-Cake-4x3-1-adba7e46fbc6494c89f7ff30dc4e715e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/277882/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

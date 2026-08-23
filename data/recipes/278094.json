@@ -1,0 +1,70 @@
+{
+  "id": "278094",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/278094/matcha-green-tea-frappe/",
+  "requested_url": "https://www.allrecipes.com/recipe/278094/matcha-green-tea-frappe/",
+  "title": "Matcha Green Tea Frappe",
+  "description": "All you need is a blender to make this delicious matcha green tea frappe that rivals any drink you get at a coffee shop.",
+  "authors": [
+    "Steven Linn"
+  ],
+  "date_published": "2019-09-12T04:55:26-04:00",
+  "date_modified": "2022-06-29T11:59:53-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.25 cups ice cubes",
+    "1 cup whole milk",
+    "0.33333334326744 cup confectioners' sugar",
+    "1 tablespoon matcha powder",
+    "0.5 teaspoon vanilla extract"
+  ],
+  "steps": [
+    {
+      "text": "Combine ice cubes, milk, confectioners' sugar, matcha powder, and vanilla extract in a blender; blend until smooth. Pour into a container and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "318 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "24 mg",
+    "proteinContent": "8 g",
+    "saturatedFatContent": "5 g",
+    "sodiumContent": "107 mg",
+    "sugarContent": "52 g",
+    "fatContent": "8 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/VPO3NW0qChbmc0WKrFtnTi4u9Qc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Matcha-Green-Tea-Frappe-2000-526166ab8b244006b1fa79755dc74b3b.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/278094/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

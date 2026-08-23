@@ -1,0 +1,81 @@
+{
+  "id": "277999",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/277999/hemp-seed-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/277999/hemp-seed-oatmeal/",
+  "title": "Hemp Seed Oatmeal",
+  "description": "This nutty-tasting oatmeal with fresh apple and cinnamon gets a nutritious boost from hemp seeds and hemp milk.",
+  "authors": [
+    "ellieb"
+  ],
+  "date_published": "2020-01-16T17:43:21-05:00",
+  "date_modified": "2020-01-16T17:43:21-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT15M",
+  "total_time": "PT20M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup water",
+    "1 cup apple cider",
+    "1 cup rolled oats",
+    "1 Granny Smith apple, diced",
+    "1 teaspoon ground cinnamon",
+    "0.5 teaspoon vanilla extract",
+    "0.25 cup hemp milk",
+    "0.25 cup hemp seeds"
+  ],
+  "steps": [
+    {
+      "text": "Bring water and apple cider to a boil in a medium saucepan. Stir in oats, reduce heat to low, and cook, stirring occasionally, for 3 minutes. Add apple, cinnamon, and vanilla extract. Cook, stirring gently, until tender, about 3 minutes more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove oatmeal from heat; add hemp milk and hemp seeds. Stir and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "386 kcal",
+    "carbohydrateContent": "59 g",
+    "fiberContent": "8 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "37 mg",
+    "sugarContent": "22 g",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hIgS2EGbXrxUbEvLkAIeLNADbvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8596852-c4b6079340804d8ea40a38e79c2da5ff.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/277999/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
