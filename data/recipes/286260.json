@@ -1,0 +1,85 @@
+{
+  "id": "286260",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/286260/potato-and-carrot-mash/",
+  "requested_url": "https://www.allrecipes.com/recipe/286260/potato-and-carrot-mash/",
+  "title": "Potato and Carrot Mash",
+  "description": "Try adding carrots to your mashed potatoes which will add little pops of sweetness and color that everyone will enjoy.",
+  "authors": [
+    "France Cevallos"
+  ],
+  "date_published": "2021-12-12T21:25:44-05:00",
+  "date_modified": "2024-11-21T02:28:41-05:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT25M",
+  "total_time": "PT40M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Side Dish"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound potatoes, peeled and cubed",
+    "0.5 pound carrots, peeled and cut into chunks",
+    "2 tablespoons butter",
+    "2 tablespoons half-and-half",
+    "1 medium green onion, minced",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine potatoes and carrots in a pot and cover with water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Mash potatoes and carrots with butter, half-and-half, green onion, salt, and pepper until desired consistency",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "173 kcal",
+    "carbohydrateContent": "26 g",
+    "cholesterolContent": "18 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "91 mg",
+    "sugarContent": "4 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "4"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/f9dI4ZsEY4OYIG5CmR_32y2IN5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9430229-045a565e38634575883f03e5a2088d3d.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/286260/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

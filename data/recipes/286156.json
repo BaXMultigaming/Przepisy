@@ -1,0 +1,80 @@
+{
+  "id": "286156",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/286156/frozen-pineapple-and-spinach-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/286156/frozen-pineapple-and-spinach-smoothie/",
+  "title": "Frozen Pineapple and Spinach Smoothie",
+  "description": "Fresh baby spinach, vegan yogurt and milk, and chia seeds provide wholesome flavor to this frozen pineapple smoothie for two.",
+  "authors": [
+    "Sharon Dyson-Demers"
+  ],
+  "date_published": "2021-06-16T17:19:36-04:00",
+  "date_modified": "2022-08-07T17:50:01-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 smoothies"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2.25 cups frozen pineapple chunks",
+    "1 cup lightly packed baby spinach leaves",
+    "1 (6 ounce) container coconut yogurt",
+    "0.75 cup oat milk",
+    "2 tablespoons chia seeds"
+  ],
+  "steps": [
+    {
+      "text": "Thaw frozen pineapple chunks for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Combine pineapple chunks, spinach, yogurt, milk, and chia seeds in an electric blender and process until smooth, about 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "392 kcal",
+    "carbohydrateContent": "85 g",
+    "fiberContent": "10 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "26 mg",
+    "sugarContent": "58 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/hz53zAXQyut_kjRuoBgn3cUQHvk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Frozen-Pineapple-and-Spinach-Smoothie-Yoly-4x3-1-2000-cd8254a0329d4b799e7ee903d315e253.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/286156/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

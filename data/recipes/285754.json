@@ -1,0 +1,83 @@
+{
+  "id": "285754",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/285754/ham-and-cabbage-stew/",
+  "requested_url": "https://www.allrecipes.com/recipe/285754/ham-and-cabbage-stew/",
+  "title": "Ham and Cabbage Stew",
+  "description": "This warm and comforting ham and cabbage stew is simple to make with condensed tomato soup and leftover ham.",
+  "authors": [
+    "Amy Standaert"
+  ],
+  "date_published": "2018-03-28T04:10:51-04:00",
+  "date_modified": "2025-03-25T16:21:42-04:00",
+  "prep_time": "PT15M",
+  "cook_time": "PT30M",
+  "total_time": "PT45M",
+  "yield": [
+    "10",
+    "10 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (23 ounce) cans condensed tomato soup",
+    "46 ounces water",
+    "1 large head green cabbage, cut into chunks",
+    "2 pounds cooked ham, cut into chunks",
+    "1 pound kielbasa sausage, sliced into rounds",
+    "salt and ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine condensed soup, water, and cabbage in a large stockpot. Add ham, kielbasa, salt, and pepper and bring to a boil. Boil for 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Reduce heat and simmer until cabbage is tender, 5 to 10 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "342 kcal",
+    "carbohydrateContent": "24 g",
+    "cholesterolContent": "51 mg",
+    "fiberContent": "4 g",
+    "proteinContent": "21 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "1906 mg",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/CsgTMvMEd0xt5q1rBtZoQMjkwTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5263997-98297c3a74524d6684ecacaf3c5c5c4e.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/285754/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

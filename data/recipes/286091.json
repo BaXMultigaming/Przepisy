@@ -1,0 +1,100 @@
+{
+  "id": "286091",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/286091/tomatillo-and-chicken-soup/",
+  "requested_url": "https://www.allrecipes.com/recipe/286091/tomatillo-and-chicken-soup/",
+  "title": "Tomatillo and Chicken Soup",
+  "description": "This chicken soup recipe gets its flavor from tomatillos, along with canned green chiles, cilantro, and Mexican crema.",
+  "authors": [
+    "Bibi"
+  ],
+  "date_published": "2021-12-14T00:52:28-05:00",
+  "date_modified": "2025-04-09T11:57:12-04:00",
+  "prep_time": "PT25M",
+  "cook_time": "PT35M",
+  "total_time": "PT60M",
+  "yield": [
+    "4",
+    "4 cups"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons avocado oil",
+    "1 cup chopped onion",
+    "0.5 pound fresh tomatillos, husked and chopped",
+    "2 cloves garlic, minced",
+    "1 medium jalapeno pepper, seeded and minced",
+    "1 (14.5 ounce) can low-sodium chicken broth",
+    "1 (4 ounce) can mild green chiles",
+    "0.25 cup chopped fresh cilantro",
+    "0.5 teaspoon ground cumin",
+    "0.25 teaspoon ground coriander",
+    "salt and ground black pepper to taste",
+    "2 cups chopped cooked chicken",
+    "0.5 cup freshly grated Monterey Jack cheese",
+    "0.5 cup Mexican crema"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a deep skillet over medium heat. Add onion and cook until it begins to turn translucent, about 4 minutes. Stir in tomatillos, garlic, and jalapeno pepper; cook about 1 minute.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add chicken broth, green chiles, cilantro, cumin, coriander, salt, and pepper; bring to a boil. Reduce heat, cover, and simmer for 20 minutes. Add chicken and simmer for 5 more minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove from the heat and stir in Monterey Jack cheese and crema.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "399 kcal",
+    "carbohydrateContent": "11 g",
+    "cholesterolContent": "108 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "27 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "510 mg",
+    "sugarContent": "6 g",
+    "fatContent": "29 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/EEH3yCJJ6b4a3Ac5-204_5CseRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9430725-e96f58623b6c43c4940201af38e9ba71.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/286091/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

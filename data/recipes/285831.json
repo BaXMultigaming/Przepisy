@@ -1,0 +1,94 @@
+{
+  "id": "285831",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/285831/migas-breakfast-tacos/",
+  "requested_url": "https://www.allrecipes.com/recipe/285831/migas-breakfast-tacos/",
+  "title": "Migas Breakfast Tacos",
+  "description": "In these migas breakfast tacos eggs are cooked with Hatch chiles and onions and served on a tortilla topped with fried corn tortilla strips.",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2021-11-09T05:33:19-05:00",
+  "date_modified": "2025-02-05T10:55:09-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "6 tacos"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 large eggs",
+    "1 tablespoon milk",
+    "salt and freshly ground black pepper to taste",
+    "1 tablespoon butter",
+    "1 (4 ounce) can Hatch chile peppers",
+    "0.25 cup onions, diced",
+    "6 (6 inch) corn tortillas",
+    "2 (6 inch) Tortillas, ready-to-bake or -fry, corn"
+  ],
+  "steps": [
+    {
+      "text": "Crack eggs into a bowl and whisk in milk, salt, and pepper. Set aside.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Melt butter in a skillet over medium heat. Add Hatch chiles and onions. Saute until onions are soft and translucent, 4 to 5 minutes. Add eggs and cook and stir until eggs are set, 3 to 4 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide eggs between 6 tortillas and top with fried corn tortilla strips.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "456 kcal",
+    "carbohydrateContent": "55 g",
+    "cholesterolContent": "388 mg",
+    "fiberContent": "8 g",
+    "proteinContent": "20 g",
+    "saturatedFatContent": "7 g",
+    "sodiumContent": "235 mg",
+    "sugarContent": "6 g",
+    "fatContent": "19 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/p81gV9rBheHVx3jQUbwgBZY9thY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9418651-365eaa5a0464427ba8d402ef15863a4c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/285831/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}

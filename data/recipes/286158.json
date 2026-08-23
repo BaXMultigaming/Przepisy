@@ -1,0 +1,71 @@
+{
+  "id": "286158",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/286158/frozen-pineapple-smoothie/",
+  "requested_url": "https://www.allrecipes.com/recipe/286158/frozen-pineapple-smoothie/",
+  "title": "Frozen Pineapple Smoothie",
+  "description": "Three ingredients and a blender are all you need to prepare this frozen pineapple smoothie that&#39;s perfect for breakfast or an on-the-go snack!",
+  "authors": [
+    "Kimberly Holloway"
+  ],
+  "date_published": "2020-06-03T18:56:05-04:00",
+  "date_modified": "2022-04-25T15:35:56-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 smoothie"
+  ],
+  "categories": [
+    "Breakfast",
+    "Drink",
+    "Snack"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup frozen pineapple chunks",
+    "1 cup vanilla low-fat yogurt",
+    "1 cup vanilla coconut milk"
+  ],
+  "steps": [
+    {
+      "text": "Combine pineapple, yogurt, and coconut milk in an electric blender and blend until smooth.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "599 kcal",
+    "carbohydrateContent": "118 g",
+    "cholesterolContent": "12 mg",
+    "fiberContent": "5 g",
+    "proteinContent": "13 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "177 mg",
+    "sugarContent": "86 g",
+    "fatContent": "11 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/dbSoRDBc3RDL88i1EBtI5rtUy3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Frozen-Pineapple-Smoothie-Aly-in-the-kitchen-2000-a481a2fec9d64114bca2efda586f88d6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/286158/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

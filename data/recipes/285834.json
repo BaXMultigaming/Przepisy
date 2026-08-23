@@ -1,0 +1,83 @@
+{
+  "id": "285834",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/285834/fresas-con-crema-mexican-style-strawberries-and-cream/",
+  "requested_url": "https://www.allrecipes.com/recipe/285834/fresas-con-crema-mexican-style-strawberries-and-cream/",
+  "title": "Fresas con Crema (Mexican-Style Strawberries and Cream)",
+  "description": "Fresas con crema, or strawberries in cream, and one of the easiest Mexican summer desserts you can make yourself.",
+  "authors": [
+    "Yoly"
+  ],
+  "date_published": "2021-11-07T00:45:44-04:00",
+  "date_modified": "2025-12-17T13:58:33-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT70M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 cup sour cream",
+    "0.5 cup sweetened condensed milk",
+    "2 tablespoons evaporated milk",
+    "1 teaspoon Mexican vanilla extract",
+    "2 cups diced fresh strawberries"
+  ],
+  "steps": [
+    {
+      "text": "Combine sour cream, sweetened condensed milk, evaporated milk, and vanilla extract in a large bowl. Gently fold in diced strawberries.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Divide strawberry mixture into 2 serving dishes. Refrigerate for 1 hour for flavors to meld.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "287 kcal",
+    "carbohydrateContent": "31 g",
+    "cholesterolContent": "41 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "10 g",
+    "sodiumContent": "89 mg",
+    "sugarContent": "26 g",
+    "fatContent": "16 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/QVLFJMAUgcriOxRyOmtND47SNI8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9417511-2eb533b1391547f88b6ba970e4d15348.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/285834/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
