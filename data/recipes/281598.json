@@ -1,0 +1,101 @@
+{
+  "id": "281598",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/281598/bright-idea-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/281598/bright-idea-oatmeal/",
+  "title": "Apple Pie Oatmeal",
+  "description": "Start your day with this apple pie oatmeal flavored with pecans and apple pie spice for a carb-smart breakfast that easily adapted to use your favorite fruit.",
+  "authors": [
+    "Caitlyn Diimig, RD"
+  ],
+  "date_published": "2020-09-15T19:25:14-04:00",
+  "date_modified": "2025-09-02T11:32:10-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [
+    "publisher-tested"
+  ],
+  "ingredients": [
+    "0.5 cup water",
+    "0.25 cup rolled oats",
+    "1/4 cup sliced apples",
+    "1 tablespoon chopped pecans",
+    "1 teaspoon maple syrup",
+    "1⁄8 teaspoon apple pie spice"
+  ],
+  "steps": [
+    {
+      "text": "Gather all ingredients.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/L9Axz7EkvF2nF5-F686JO-cRisI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/281598-Apple-Pie-Oatmeal-VAT-step-01-42a1aebeba6b4331a063aaa7225a4cae.jpg"
+      ],
+      "image": "assets/images/281598/step_01.webp"
+    },
+    {
+      "text": "Bring water to a boil in a small pot. Add oats and cook over medium heat, stirring occasionally, until water is absorbed and oats soften, about 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/HL-kRbD6qwtw8M8kzLay14bOaA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/281598-Apple-Pie-Oatmeal-VAT-step-02-33b0097e674b4403b2049345a2ea8970.jpg"
+      ],
+      "image": "assets/images/281598/step_02.webp"
+    },
+    {
+      "text": "Stir in apples, pecans, maple syrup, and apple pie spice.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/nozwREUB9yZUdzg0A_pmkO5jJA4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/281598-Apple-Pie-Oatmeal-VAT-step-03-77a4a935e83346a3bf40add4b20c37cc.jpg"
+      ],
+      "image": "assets/images/281598/step_03.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "155 kcal",
+    "carbohydrateContent": "27 g",
+    "fiberContent": "4 g",
+    "proteinContent": "4 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "6 mg",
+    "sugarContent": "10 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/0_7I-J5_A3Qo_tPELaNhBm8poVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/281598-Apple-Pie-Oatmeal-VAT-Beauty-4x3-06edfca39af54dddb2bc38531f61aa03.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/281598/hero.webp",
+    "steps": [
+      "assets/images/281598/step_01.webp",
+      "assets/images/281598/step_02.webp",
+      "assets/images/281598/step_03.webp"
+    ]
+  }
+}

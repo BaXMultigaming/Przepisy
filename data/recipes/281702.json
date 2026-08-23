@@ -1,0 +1,87 @@
+{
+  "id": "281702",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/281702/butternut-squash-curry/",
+  "requested_url": "https://www.allrecipes.com/recipe/281702/butternut-squash-curry/",
+  "title": "Butternut Squash Curry",
+  "description": "This butternut squash curry is a comforting vegetarian meal with tender chunks of squash, chickpeas, and tomatoes in a creamy Thai red curry sauce.",
+  "authors": [
+    "Dan Denardo"
+  ],
+  "date_published": "2020-06-08T21:40:31-04:00",
+  "date_modified": "2025-02-04T01:23:27-05:00",
+  "prep_time": "PT10M",
+  "cook_time": "PT35M",
+  "total_time": "PT45M",
+  "yield": [
+    "5"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Thai"
+  ],
+  "regions": [
+    "Thai"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 tablespoon olive oil, or as needed",
+    "1 medium butternut squash - peeled, seeded, and cubed",
+    "1 medium red onion, diced",
+    "2 tablespoons red curry paste",
+    "1.25 cups vegetable broth",
+    "4 medium tomatoes, chopped",
+    "1 (15 ounce) can chickpeas, drained",
+    "salt and ground black pepper to taste",
+    "3 tablespoons Greek yogurt",
+    "0.5 tablespoon ground coriander"
+  ],
+  "steps": [
+    {
+      "text": "Heat oil in a pot over medium heat. Add butternut squash; cook and stir for 3 minutes. Add onion and curry paste; cook and stir for 4 minutes. Pour in vegetable broth, cover, and cook until butternut squash is tender, about 20 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir tomatoes, chickpeas, salt, and pepper into the pot and cook until heated through, about 4 minutes. Stir in Greek yogurt and coriander.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "254 kcal",
+    "carbohydrateContent": "51 g",
+    "cholesterolContent": "2 mg",
+    "fiberContent": "10 g",
+    "proteinContent": "7 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "419 mg",
+    "sugarContent": "11 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/PgfEVavYEK0XcmbgPSPhu8HpWDU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8812327-b9f227aeeff84fb1b1ba67d6cfbe8ff6.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/281702/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
