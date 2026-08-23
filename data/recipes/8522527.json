@@ -1,0 +1,93 @@
+{
+  "id": "8522527",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8522527/sauce-vierge/",
+  "requested_url": "https://www.allrecipes.com/recipe/8522527/sauce-vierge/",
+  "title": "Sauce Vierge",
+  "description": "Sauce vierge is a French sauce with olive oil, lemon juice, tomatoes, and basil that goes well with seafood and can be served hot or cold.",
+  "authors": [
+    "lutzflcat"
+  ],
+  "date_published": "2023-01-05T09:30:00-05:00",
+  "date_modified": "2024-11-18T22:58:59-05:00",
+  "prep_time": "PT15M",
+  "cook_time": null,
+  "total_time": "PT45M",
+  "yield": [
+    "4"
+  ],
+  "categories": [
+    "Sauce"
+  ],
+  "cuisines": [
+    "French"
+  ],
+  "regions": [
+    "French"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "5 small tomatoes (such as Campari(R))",
+    "2 tablespoons minced shallots",
+    "2 cloves garlic, crushed",
+    "2 tablespoons chopped fresh parsley",
+    "2 tablespoons chopped fresh tarragon",
+    "2 tablespoons pitted and vertically-sliced Kalamata olives",
+    "8 large basil leaves, chopped",
+    "0.25 cup extra-virgin olive oil",
+    "1 tablespoon freshly squeezed lemon juice",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Dice tomatoes, and place in a colander for about 5 minutes to drain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer drained tomatoes to a bowl, and gently fold in shallots, garlic, parsley, tarragon, Kalamata olives, and basil.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour olive oil and lemon juice over the vegetables, and stir until combined. Allow mixture to sit for about 30 minutes for the flavors to meld.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "209 kcal",
+    "carbohydrateContent": "11 g",
+    "fiberContent": "3 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "243 mg",
+    "fatContent": "18 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/-4srSaE8PWAAy4XQcluuc_VtGUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1671492725Sauce20Vierge-2000-2edcb36adcbe418490d1ac3dbf1adeba.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/8522527/hero.webp",
+    "steps": [
+      null,
+      null,
+      null
+    ]
+  }
+}
