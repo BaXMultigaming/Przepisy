@@ -1,0 +1,93 @@
+{
+  "id": "279006",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/279006/sous-vide-corned-beef/",
+  "requested_url": "https://www.allrecipes.com/recipe/279006/sous-vide-corned-beef/",
+  "title": "Sous Vide Corned Beef",
+  "description": "Sous vide corned beef is incredibly juicy and tender. Simply season the brisket, then cook it low and slow for a memorable St. Patrick&#39;s day meal.",
+  "authors": [
+    "France Cevallos"
+  ],
+  "date_published": "2020-04-03T20:58:54-04:00",
+  "date_modified": "2026-02-24T12:45:21-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT2880M",
+  "total_time": "PT2885M",
+  "yield": [
+    "12",
+    "1 (3-pound) corned beef"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "Irish"
+  ],
+  "regions": [
+    "Irish"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (3 pound) corned beef brisket with spice packet"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with water and place a sous vide immersion cooker into the water. Set the temperature to 140 degrees F (60 degrees C) according to manufacturer's instructions.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Rinse corned beef under cool water to remove excess salt, then pat dry. Sprinkle seasoning on fatty side and press into beef. Place corned beef into a large vacuum bag; seal using a vacuum sealer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Place the sealed bag into the water and set a timer for 48 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Transfer corned beef to a cutting board and slice across the grain.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "125 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "49 mg",
+    "proteinContent": "9 g",
+    "saturatedFatContent": "3 g",
+    "sodiumContent": "563 mg",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/l8cTAJ9hiu1kcepbJW0fBbod-t4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7768073-216ceb5b87ed429d9845217e76eed33a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/279006/hero.webp",
+    "steps": [
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

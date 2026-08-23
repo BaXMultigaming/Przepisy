@@ -1,0 +1,83 @@
+{
+  "id": "278376",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/278376/cream-cheese-salsa-dip/",
+  "requested_url": "https://www.allrecipes.com/recipe/278376/cream-cheese-salsa-dip/",
+  "title": "Cream Cheese-Salsa Dip",
+  "description": "Serve this easy taco dip made with cream cheese and salsa with tortilla chips at your next party and watch your guests go crazy!",
+  "authors": [
+    "rpaulson001"
+  ],
+  "date_published": "2020-02-13T14:29:50-05:00",
+  "date_modified": "2025-03-06T12:17:25-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Appetizer"
+  ],
+  "cuisines": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "regions": [
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 (15 ounce) jar salsa",
+    "1 (8 ounce) package cream cheese, softened",
+    "1 cup shredded lettuce",
+    "2 cups shredded Cheddar cheese"
+  ],
+  "steps": [
+    {
+      "text": "Combine salsa and cream cheese in a bowl; beat with an electric mixer until almost completely blended. Transfer to a serving bowl.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Layer cream cheese mixture with 1/2 of the lettuce and 1/2 of the Cheddar cheese. Repeat layers once more.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "154 kcal",
+    "carbohydrateContent": "4 g",
+    "cholesterolContent": "38 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "8 g",
+    "sodiumContent": "398 mg",
+    "sugarContent": "1 g",
+    "fatContent": "13 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "6"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/f9M0t7M917PqoLjzZf_9fVWlC3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/278376cream-cheese-salsa-dipChristina4x3-4ae89bd3eaf04d6e8002aa39367ac1de.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/278376/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

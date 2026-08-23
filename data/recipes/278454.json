@@ -1,0 +1,80 @@
+{
+  "id": "278454",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/278454/chickpea-tuna-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/278454/chickpea-tuna-salad/",
+  "title": "Chickpea Tuna Salad",
+  "description": "Full of flavor and super easy to prepare, this chickpea tuna salad makes the perfect lunch or dinner for busy days or weeknights.",
+  "authors": [
+    "cristianelima"
+  ],
+  "date_published": "2020-02-21T14:05:05-05:00",
+  "date_modified": "2025-02-14T19:25:27-05:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "4",
+    "4 servings"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (15 ounce) cans chickpeas, rinsed and drained",
+    "1 (5 ounce) can tuna, drained",
+    "12 cherry tomatoes, halved",
+    "0.5 cup chopped white onion",
+    "0.5 cup chopped fresh cilantro",
+    "2 tablespoons extra-virgin olive oil",
+    "1 tablespoon lime juice",
+    "1 tablespoon soy sauce",
+    "1 pinch garlic salt, or to taste",
+    "ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine chickpeas and tuna in a bowl. Add cherry tomatoes, onion, cilantro, oil, lime juice, soy sauce, garlic salt, and pepper. Mix well.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "288 kcal",
+    "carbohydrateContent": "37 g",
+    "cholesterolContent": "9 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "16 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "750 mg",
+    "sugarContent": "1 g",
+    "fatContent": "9 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/wbf5bPij2lNIBZY85wn0vzYlao0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chickpea-Tuna-Salad-Chef-Mo-e382b396010b478897ddb4929c042d25.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/278454/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

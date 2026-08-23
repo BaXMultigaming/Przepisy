@@ -1,0 +1,82 @@
+{
+  "id": "278527",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/278527/apple-oatmeal/",
+  "requested_url": "https://www.allrecipes.com/recipe/278527/apple-oatmeal/",
+  "title": "Apple Oatmeal",
+  "description": "This apple oatmeal is simple, sweet, and filling--a great way to use fresh apples and apple cider during fall.",
+  "authors": [
+    "campagnes"
+  ],
+  "date_published": "2020-03-05T00:21:22-05:00",
+  "date_modified": "2020-03-05T00:21:22-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT10M",
+  "total_time": "PT15M",
+  "yield": [
+    "2",
+    "2 cups"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 tablespoons butter",
+    "1 cup chopped fresh apple (with skin)",
+    "2 tablespoons brown sugar",
+    "1 cup quick-cooking oats",
+    "1 cup apple cider",
+    "1 cup milk",
+    "2 teaspoons ground cinnamon",
+    "0.25 teaspoon salt"
+  ],
+  "steps": [
+    {
+      "text": "Melt butter in a saucepan over medium heat. Add apple and brown sugar. Cook, stirring occasionally, for 5 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Stir in oats, apple cider, milk, cinnamon, and salt and cook, stirring frequently, until oatmeal is creamy and thickened, about 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "468 kcal",
+    "carbohydrateContent": "72 g",
+    "cholesterolContent": "40 mg",
+    "fiberContent": "7 g",
+    "proteinContent": "10 g",
+    "saturatedFatContent": "9 g",
+    "sodiumContent": "443 mg",
+    "sugarContent": "39 g",
+    "fatContent": "17 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "5"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/1Yyy3t11DbqfCDYqot51AKBU090=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7714689-e4266f08ba3b4817a837722a4675f1e2.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/278527/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
