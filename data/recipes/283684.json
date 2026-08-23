@@ -1,0 +1,79 @@
+{
+  "id": "283684",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/283684/sous-vide-hard-boiled-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/283684/sous-vide-hard-boiled-eggs/",
+  "title": "Sous Vide Hard-Boiled Eggs",
+  "description": "Try making hard-boiled eggs using your sous vide immersion cooker for yolks that come out super moist, tender, and very yellow, which makes the added cook time well worth the wait!",
+  "authors": [
+    "France Cevallos"
+  ],
+  "date_published": "2021-03-23T03:55:31-04:00",
+  "date_modified": "2023-09-29T15:45:39-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT40M",
+  "total_time": "PT45M",
+  "yield": [
+    "6",
+    "6 eggs"
+  ],
+  "categories": [
+    "Appetizer",
+    "Snack"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "6 large eggs"
+  ],
+  "steps": [
+    {
+      "text": "Fill a large pot with water and place a sous vide immersion cooker into the water. Set temperature to 170 degrees F (77 degrees C) according to manufacturer's instructions. Once water is up to temp, slowly lower eggs into the water using a slotted spoon. Set timer for 40 minutes",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Remove eggs from water once timer is up and place in a large bowl. Slowly shake bowl around to gently crack the eggs. Cover with ice water to cool. Peel carefully under running water.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "72 kcal",
+    "carbohydrateContent": "0 g",
+    "cholesterolContent": "186 mg",
+    "proteinContent": "6 g",
+    "saturatedFatContent": "2 g",
+    "sodiumContent": "70 mg",
+    "sugarContent": "0 g",
+    "fatContent": "5 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "ratingCount": "8"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/pD-VJWi19v9ULm4x7eX7Ky0ltto=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9109115-efa5e3d165714aca8e31393088edc70c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/283684/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "283943",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/283943/tuna-ceviche/",
+  "requested_url": "https://www.allrecipes.com/recipe/283943/tuna-ceviche/",
+  "title": "Tuna Ceviche",
+  "description": "Fresh chunks of tuna, ripe mango, and creamy avocado combine in this tuna ceviche to make the perfect appetizer or a tasty lunch.",
+  "authors": [
+    "France Cevallos"
+  ],
+  "date_published": "2021-04-06T03:28:55-04:00",
+  "date_modified": "2026-02-27T15:38:11-05:00",
+  "prep_time": "PT20M",
+  "cook_time": null,
+  "total_time": "PT80M",
+  "yield": [
+    "6",
+    "6 servings"
+  ],
+  "categories": [
+    "Dinner"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 pound sushi-grade tuna, diced",
+    "0.5 cup diced avocado",
+    "0.5 cup diced mango",
+    "0.25 cup minced red onion",
+    "0.25 cup minced cilantro",
+    "1 tablespoon minced jalapeno pepper",
+    "0.33333334326744 cup fresh lime juice",
+    "1 tablespoon vegetable oil",
+    "salt and freshly ground black pepper to taste"
+  ],
+  "steps": [
+    {
+      "text": "Combine tuna, avocado, mango, red onion, cilantro, and jalapeno in a bowl. Drizzle with lime juice and oil and season with salt and pepper. Gently toss to coat evenly. Refrigerate for 1 hour, gently tossing halfway through.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "152 kcal",
+    "carbohydrateContent": "7 g",
+    "cholesterolContent": "34 mg",
+    "fiberContent": "2 g",
+    "proteinContent": "18 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "31 mg",
+    "sugarContent": "4 g",
+    "fatContent": "6 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/eVDKq5zNv7M_A4WBXWpIVyepINw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9138961-bc4a08eb20ec466894f05b5a60979c95.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/283943/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

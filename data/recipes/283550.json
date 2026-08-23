@@ -1,0 +1,75 @@
+{
+  "id": "283550",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/283550/celerita/",
+  "requested_url": "https://www.allrecipes.com/recipe/283550/celerita/",
+  "title": "Celerita",
+  "description": "Celery is muddled with sugar and mixed with tequila and lime-flavored seltzer in this easy celerita cocktail recipe.",
+  "authors": [
+    "Juliana Hale"
+  ],
+  "date_published": "2021-03-02T18:21:10-05:00",
+  "date_modified": "2022-10-26T15:19:18-04:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 cocktails"
+  ],
+  "categories": [
+    "Drink"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "4 tablespoons chopped celery",
+    "1 teaspoon white sugar",
+    "3 ounces tequila",
+    "1 (12 fluid ounce) can lime-flavored seltzer water"
+  ],
+  "steps": [
+    {
+      "text": "Muddle celery and sugar together in a mixing glass until crushed.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Add tequila and stir to dissolve sugar. Strain into 2 ice-filled Collins or rocks glasses. Top with lime-flavored seltzer.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "109 kcal",
+    "carbohydrateContent": "3 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "18 mg",
+    "sugarContent": "2 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "1"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/SUUnDw4AlJpBgD4LVvrPLNkVlTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/celerita-2000-c601402ab9a14adeaac9aa85c4cb261c.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/283550/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
