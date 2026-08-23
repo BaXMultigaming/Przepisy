@@ -1,0 +1,80 @@
+{
+  "id": "8369320",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8369320/slow-cooker-apple-dump-cake/",
+  "requested_url": "https://www.allrecipes.com/recipe/8369320/slow-cooker-apple-dump-cake/",
+  "title": "Slow Cooker Apple Dump Cake",
+  "description": "Easy to make in your slow cooker, this 4-ingredient, cinnamon-flavored apple dump cake is perfect to serve warm with a scoop of vanilla ice cream.",
+  "authors": [
+    "stangs05"
+  ],
+  "date_published": "2022-03-21T12:28:07-04:00",
+  "date_modified": "2025-12-19T06:25:05-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT120M",
+  "total_time": "PT125M",
+  "yield": [
+    "12"
+  ],
+  "categories": [
+    "Dessert"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "2 (20 ounce) cans apple pie filling",
+    "1 (15.25 ounce) package yellow cake mix",
+    "0.5 cup unsalted butter, cut into cubes",
+    "0.25 teaspoon ground cinnamon, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Pour both cans of apple pie filling into a slow cooker. Sprinkle cake mix evenly over top to cover filling. Dot butter cubes over cake mix and sprinkle cinnamon over top.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Cover and cook on High until filling is bubbly and topping is golden brown, about 2 hours.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "319 kcal",
+    "carbohydrateContent": "53 g",
+    "cholesterolContent": "21 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "2 g",
+    "saturatedFatContent": "6 g",
+    "sodiumContent": "279 mg",
+    "fatContent": "12 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "ratingCount": "16"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/ljB4YIzdKSPaFXwIjA5Okii0Js4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/slow-cooker-apple-dump-cake-2000-83a76685ccdd4c73a43f1657003636d5.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8369320/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}

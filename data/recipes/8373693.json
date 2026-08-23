@@ -1,0 +1,70 @@
+{
+  "id": "8373693",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8373693/weekday-avocado-toast/",
+  "requested_url": "https://www.allrecipes.com/recipe/8373693/weekday-avocado-toast/",
+  "title": "Everything Bagel Avocado Toast",
+  "description": "Made with store-bought guacamole, this everything bagel avocado toast is ready in minutes - perfect for weekday breakfast or lunch.",
+  "authors": [
+    "France Cevallos"
+  ],
+  "date_published": "2022-03-29T09:12:52-04:00",
+  "date_modified": "2024-11-04T13:50:52-05:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT5M",
+  "total_time": "PT10M",
+  "yield": [
+    "1"
+  ],
+  "categories": [
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1 slice sourdough bread",
+    "2 tablespoons prepared guacamole",
+    "0.5 teaspoon everything bagel seasoning"
+  ],
+  "steps": [
+    {
+      "text": "Toast bread until desired doneness. Spread with guacamole, then sprinkle with everything bagel seasoning.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "116 kcal",
+    "carbohydrateContent": "16 g",
+    "fiberContent": "2 g",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "325 mg",
+    "fatContent": "4 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/J2Maf36ICTMJrPIGmAaQq4zQQFk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16484161403D0E1820-A17A-4B83-8BCA-01A9153E9665_1_201_a-2000-a45456af2648429a870ab5dd84ba4adf.jpeg"
+  ],
+  "images": {
+    "hero": "assets/images/8373693/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}

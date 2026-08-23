@@ -1,0 +1,86 @@
+{
+  "id": "8348959",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8348959/one-pan-ham-and-eggs/",
+  "requested_url": "https://www.allrecipes.com/recipe/8348959/one-pan-ham-and-eggs/",
+  "title": "One-Pan Ham and Eggs",
+  "description": "Chef John&#39;s ham and eggs are cooked together at the same time in one pan, resulting in breakfast nirvana.",
+  "authors": [
+    "John Mitzewich"
+  ],
+  "date_published": "2022-02-16T09:59:47-05:00",
+  "date_modified": "2022-02-16T09:59:47-05:00",
+  "prep_time": null,
+  "cook_time": "PT5M",
+  "total_time": "PT5M",
+  "yield": [
+    "1",
+    "1 serving"
+  ],
+  "categories": [
+    "Breakfast"
+  ],
+  "cuisines": [],
+  "regions": [],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "1.5 teaspoons olive oil",
+    "2 (1/4 inch thick) slices ham",
+    "2 large eggs"
+  ],
+  "steps": [
+    {
+      "text": "Heat olive oil in a skillet over medium-high heat. Toss in ham and cook for 1 to 2 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Flip ham and carefully crack an egg on top of each slice. Reduce heat to medium-low, cover, and cook until ham is caramelized, egg whites are just set, and yolks are soft, 2 1/2 to 3 minutes.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": [
+        "https://www.allrecipes.com/thmb/mXeui4yquCQCch9BKT-P747ENQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Just-Ham-and-Eggs-5b3a021de3744c25b8521a169c875c39.jpg"
+      ],
+      "image": "assets/images/8348959/step_02.webp"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "485 kcal",
+    "carbohydrateContent": "1 g",
+    "cholesterolContent": "436 mg",
+    "proteinContent": "34 g",
+    "saturatedFatContent": "12 g",
+    "sodiumContent": "1596 mg",
+    "fatContent": "38 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4",
+    "ratingCount": "1"
+  },
+  "video": {
+    "@type": "VideoObject",
+    "contentUrl": "https://content.jwplatform.com/videos/xthj4Cl5-ma1DlVvV.mp4",
+    "description": "0217",
+    "duration": "PT2M35S",
+    "name": "Just Ham and Eggs",
+    "thumbnailUrl": "https://cdn.jwplayer.com/v2/media/xthj4Cl5/poster.jpg?width=1280",
+    "uploadDate": "2022-02-14T15:26:48-05:00"
+  },
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/mXeui4yquCQCch9BKT-P747ENQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Just-Ham-and-Eggs-5b3a021de3744c25b8521a169c875c39.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8348959/hero.webp",
+    "steps": [
+      null,
+      "assets/images/8348959/step_02.webp"
+    ]
+  }
+}

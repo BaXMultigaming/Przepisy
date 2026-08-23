@@ -1,0 +1,82 @@
+{
+  "id": "8389935",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/8389935/orange-margarita/",
+  "requested_url": "https://www.allrecipes.com/recipe/8389935/orange-margarita/",
+  "title": "Orange Margarita",
+  "description": "A simple and quick recipe for orange margarita. Using fresh squeezed orange juice makes a huge difference.",
+  "authors": [
+    "Lena"
+  ],
+  "date_published": "2022-05-11T12:32:39-04:00",
+  "date_modified": "2025-02-05T16:41:42-05:00",
+  "prep_time": "PT5M",
+  "cook_time": null,
+  "total_time": "PT5M",
+  "yield": [
+    "2",
+    "2 margaritas"
+  ],
+  "categories": [
+    "Drink",
+    "Cocktail"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "coarse salt",
+    "2 orange wedges",
+    "3 ounces freshly squeezed orange juice",
+    "3 ounces tequila",
+    "1.5 ounces orange-flavored liqueur (such as Cointreau®)",
+    "crushed ice"
+  ],
+  "steps": [
+    {
+      "text": "Chill 2 martini glasses. Pour about 1 tablespoon coarse salt onto a shallow dish. Cut a slit into one of the orange wedges and rub along the rim of the chilled glasses to moisten. Roll edges of glasses in the salt to create a salt-rim and place glasses in the freezer while mixing the margaritas.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Pour orange juice, tequila, and orange liqueur into a cocktail shaker and shake well. Add a bit of crushed ice into the chilled martini glasses and pour margaritas into the glasses. Garnish with orange wedges and serve.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "194 kcal",
+    "carbohydrateContent": "14 g",
+    "fiberContent": "0 g",
+    "proteinContent": "0 g",
+    "sodiumContent": "2 mg",
+    "fatContent": "0 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "ratingCount": "2"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/KAFH__h-nMs0IVcfHk1-5z-eulE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Orange-Margarita-2000-381c1ae230e34434ba8fea6396197d0a.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/8389935/hero.webp",
+    "steps": [
+      null,
+      null
+    ]
+  }
+}
