@@ -1,0 +1,77 @@
+{
+  "id": "285030",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/285030/peach-caprese-salad/",
+  "requested_url": "https://www.allrecipes.com/recipe/285030/peach-caprese-salad/",
+  "title": "Peach Caprese Salad",
+  "description": "This caprese salad uses fresh peach slices to bring a delightful, summer-ready spin to the traditional appetizer.",
+  "authors": [
+    "LaDonna Langwell"
+  ],
+  "date_published": "2021-07-19T02:32:57-04:00",
+  "date_modified": "2025-07-09T20:32:27-04:00",
+  "prep_time": "PT10M",
+  "cook_time": null,
+  "total_time": "PT10M",
+  "yield": [
+    "2",
+    "2 servings"
+  ],
+  "categories": [
+    "Dinner",
+    "Lunch"
+  ],
+  "cuisines": [
+    "American"
+  ],
+  "regions": [
+    "American"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "0.5 cup arugula",
+    "0.5 cup fresh spinach",
+    "1 large tomato, thinly sliced",
+    "3 thin slices fresh mozzarella cheese",
+    "1 fresh peach - peeled, pitted, and sliced",
+    "1 teaspoon balsamic vinegar, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Arrange arugula and spinach mix on a medium plate or platter. Lay a piece of tomato down, then lightly lay a piece of mozzarella next to it so the edges touch. Add a piece of peach next to the mozzarella. Continue to layer until you have reached the end of the plate. Drizzle with balsamic vinegar.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "140 kcal",
+    "carbohydrateContent": "9 g",
+    "cholesterolContent": "27 mg",
+    "fiberContent": "1 g",
+    "proteinContent": "11 g",
+    "saturatedFatContent": "4 g",
+    "sodiumContent": "274 mg",
+    "sugarContent": "6 g",
+    "fatContent": "7 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "3"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/6yEJxErz58E0597P9kE5r4VW81s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/285030peach-caprese-saladCookingwithShelia4x3-20424f1eed6e475eb0b92ad965bfccec.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/285030/hero.webp",
+    "steps": [
+      null
+    ]
+  }
+}
