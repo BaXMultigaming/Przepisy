@@ -1,0 +1,79 @@
+{
+  "id": "34342",
+  "source": "Allrecipes",
+  "source_url": "https://www.allrecipes.com/recipe/34342/easter-cheese-hrudka/",
+  "requested_url": "https://www.allrecipes.com/recipe/34342/easter-cheese-hrudka/",
+  "title": "Hrudka (Easter Cheese)",
+  "description": "This hrudka recipe is a simple custard cheese popular in Eastern Europe around Eastertime that's made with eggs, milk, sugar, salt, and cinnamon.",
+  "authors": [
+    "Bryan Burns"
+  ],
+  "date_published": "2020-06-18T23:07:28-04:00",
+  "date_modified": "2024-04-30T16:48:55-04:00",
+  "prep_time": "PT5M",
+  "cook_time": "PT20M",
+  "total_time": "PT505M",
+  "yield": [
+    "32",
+    "1 large round of cheese"
+  ],
+  "categories": [
+    "Snack"
+  ],
+  "cuisines": [
+    "Eastern European"
+  ],
+  "regions": [
+    "Eastern European"
+  ],
+  "breadcrumbs": [],
+  "keywords": [],
+  "ingredients": [
+    "12 eggs",
+    "1 quart whole milk",
+    "1 cup white sugar",
+    "1 teaspoon salt",
+    "1 teaspoon ground cinnamon, or to taste"
+  ],
+  "steps": [
+    {
+      "text": "Crack eggs into a large saucepan and beat with a whisk. Whisk in milk, sugar, salt, and cinnamon until well combined. Cook over low to medium-low heat, stirring constantly, until mixture fully forms curds and whey separates. This will take 20 to 30 minutes. Using higher heat or failing to stir will result in a big pan of sweet scrambled eggs.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    },
+    {
+      "text": "Drain mixture into a colander lined with several layers of cheesecloth. Use the cloth to shape into a ball and twist the top to remove excess moisture. Secure with a twist tie and hang for 8 hours to overnight.",
+      "section": null,
+      "name": null,
+      "url": null,
+      "image_sources": []
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "70 kcal",
+    "carbohydrateContent": "8 g",
+    "cholesterolContent": "73 mg",
+    "proteinContent": "3 g",
+    "saturatedFatContent": "1 g",
+    "sodiumContent": "111 mg",
+    "sugarContent": "8 g",
+    "fatContent": "3 g",
+    "unsaturatedFatContent": "0 g"
+  },
+  "aggregate_rating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "ratingCount": "28"
+  },
+  "video": null,
+  "image_sources": [
+    "https://www.allrecipes.com/thmb/MBnDAhWYiTVSUdj83-R-Lpi9ZiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1074029-15f316302ce648f28fd827ec8e0149ae.jpg"
+  ],
+  "images": {
+    "hero": "assets/images/34342/hero.webp",
+    "steps": []
+  }
+}
